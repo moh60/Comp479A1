@@ -1,0 +1,12 @@
+// unfiltered use this one!
+214441 802863
+// no number
+132164 470202
+//case folding
+38532 159393
+// stop word 36
+38504 129435
+// stop word 174
+38411 131891
+//20000 docs
+37139 82079
