@@ -51,7 +51,7 @@ public class extract {
         }
     }
 
-    // split sgm files into text document files
+    // split files into text document files
     public static void splitIntoDocument() throws FileNotFoundException, UnsupportedEncodingException {
 
         // split into multiple documents
@@ -72,6 +72,8 @@ public class extract {
         System.out.println("splitDocIntoToken started...");
         File dir = new File("docs");
         File[] directoryListing = dir.listFiles();
+        PrintWriter writer = new PrintWriter("docLength.txt"); // stores document id and length pair values
+        PrintWriter out = new PrintWriter("docPostingsList.txt"); // stores term name and document id postings list
         if (directoryListing != null) {
             // data structure to store token pairs of each document
             int count = 0;
@@ -79,7 +81,9 @@ public class extract {
             Stack tokenCollection = new Stack();
             // go through each document
             for (File child : directoryListing) {
-                if (count <= directoryListing.length) {
+//                if (count <= directoryListing.length) {
+                if (count <= 100) {
+                    int docLength = 0;
                     // read from each document
                     Scanner scan2 = new Scanner(new File("docs/" + child.getName()));
                     String tempTerm = "";
@@ -89,9 +93,9 @@ public class extract {
                         String updated_term = caseFolding_numberRemoval(term);
                         if (!updated_term.equals("") || !updated_term.equals(null)) {
                             // apply stop word removal
-                            if (stopWord(updated_term) == true) {
-                                continue;
-                            } else {
+//                            if (stopWord(updated_term) == true) {
+//                                continue;
+//                            } else {
                                 // remove same word back to back
                                 if (tempTerm.equals(updated_term)) {
                                     continue;
@@ -104,14 +108,58 @@ public class extract {
                                     }
                                 }
                                 tempTerm = updated_term;
-                            }
+//                            }
+                            docLength++;
                         }
                     }
+                    int documentID = Integer.parseInt(directoryListing[count].toString().replaceAll("[^0-9]", ""));
+                    writer.println(documentID + ":" + docLength);
                     count++;
                 }
             }
-            spmi(tokenCollection);
+            writer.close();
+            postingsList(tokenCollection);
+//            spmi(tokenCollection);
         }
+    }
+
+    // create a dictionary / postings list and write to file
+    public static void postingsList(Stack token_stream) throws FileNotFoundException {
+        System.out.println("postingsList started...");
+        // dictionary / posting list
+        Map<String, List<Integer>> block = new HashMap<String, List<Integer>>();
+        int count = 0;
+        // create a block output file
+        PrintWriter output_file = new PrintWriter("PostingsList/" +count +"postingsListBlock.txt");
+        // run until we have term-docID tokens in our stack
+        while (!token_stream.empty()) {
+                Object token = token_stream.pop();
+                String pairToken[] = token.toString().split(":");
+                String term = pairToken[0];
+                int docID = Integer.parseInt(pairToken[1]);
+                // new term
+                if (!(block.containsKey(term))) {
+                    List<Integer> postingList = new ArrayList<>();
+                    postingList.add(docID);
+                    block.put(term, postingList);
+                }
+                // existing term - only add docID to postings list
+                else {
+                    List<Integer> existingTermPostingList = block.get(term);
+                    if (!existingTermPostingList.contains(docID)) {
+                        existingTermPostingList.add(docID);
+                    }
+                }
+        }
+        //sort
+        Map<String, List<Integer>> sortedBlock = new TreeMap<String, List<Integer>>(block);
+        Set<String> keys = sortedBlock.keySet();
+        for (String mapToken : keys){
+            List<Integer> sortedPostingList = sortedBlock.get(mapToken);
+            Collections.sort(sortedPostingList);
+            output_file.println(mapToken + ":" + sortedPostingList);
+        }
+        output_file.close();
     }
 
     // SPMI algorithm
@@ -450,19 +498,77 @@ public class extract {
                             ((Map.Entry<String, Integer>) o1).getValue());
                 }
             });
+            Map<Integer,Integer> result = new HashMap<>();
             for (Object e : a) {
+                result.put(((Map.Entry<Integer, Integer>) e).getKey() , ((Map.Entry<String, Integer>) e).getValue() );
                 System.out.println(((Map.Entry<Integer, Integer>) e).getKey() + " : "
                         + ((Map.Entry<String, Integer>) e).getValue());
             }
+//            Map<Integer, Integer> sortedresults = new TreeMap<Integer, Integer>(result);
+//            System.out.println(sortedresults);
             querySearch();
         }
     }
 
+    // return average document length of entire corpus
+    public static long calculateAverageDocLength() throws IOException {
+        Scanner scanner = new Scanner(new File("docLength.txt"));
+        Stack<String> docLengths = new Stack<>();
+        int sumOfAllDocLengths = 0;
+        int numOfDocuments = 0;
+        long averageDocLength = 0;
+        while (scanner.hasNext()) {
+            String docLine = scanner.next();
+            String docPair[]= docLine.split(":");
+            docLengths.push(docPair[1]);
+            sumOfAllDocLengths += Integer.parseInt(docPair[1]);
+            numOfDocuments++;
+        }
+        averageDocLength = sumOfAllDocLengths/numOfDocuments;
+        return averageDocLength;
+    }
+
+    // return length of a document by docID
+    public static long getLengthOfDoc(int docID) throws IOException {
+        Scanner scanner = new Scanner(new File("docLength.txt"));
+        long docLength = 0;
+        while (scanner.hasNext()) {
+            String docLine = scanner.next();
+            String docPair[]= docLine.split(":");
+            if (docID == Integer.parseInt(docPair[0])) {
+                docLength = Long.parseLong(docPair[1]);
+                break;
+            }
+        }
+        System.out.println(docLength);
+        return docLength;
+    }
+
+    // return document frequency of a term
+    public static long getDocFrequencyOfTerm(String term) throws IOException {
+        Scanner scanner = new Scanner(new File("PostingsList\\0postingsListBlock.txt"));
+        long docFrequency = 0;
+        while (scanner.hasNext()) {
+            String docLine = scanner.nextLine();
+            String pairToken[] = docLine.split(":");
+            String docTerm = pairToken[0];
+            if (term.equals(docTerm)) {
+                String documentPostingList[] = pairToken[1].split(",");
+                docFrequency = documentPostingList.length;
+                break;
+            }
+        }
+        return docFrequency;
+    }
+
     // Driver
     public static void main(String[] args) throws FileNotFoundException, UnsupportedEncodingException, IOException {
+//        calculateAverageDocLength();
+//        getLengthOfDoc(10005);
+//        getDocFrequencyOfTerm("about");
 //        splitIntoDocument();
 //        splitDocIntoTokens();
 //        mergeBlocks();
-        querySearch();
+//        querySearch();
     }
 }
