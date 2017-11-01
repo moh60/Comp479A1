@@ -73,7 +73,6 @@ public class extract {
         File dir = new File("docs");
         File[] directoryListing = dir.listFiles();
         PrintWriter writer = new PrintWriter("docLength.txt"); // stores document id and length pair values
-        PrintWriter out = new PrintWriter("docPostingsList.txt"); // stores term name and document id postings list
         if (directoryListing != null) {
             // data structure to store token pairs of each document
             int count = 0;
@@ -561,11 +560,36 @@ public class extract {
         return docFrequency;
     }
 
+    public static long getTermFrequency(String term, int docID) throws IOException{
+        // read from each document
+        Scanner doc = new Scanner(new File("docs\\" + docID + "doc.txt"));
+        long termFrequency = 0;
+        String scanningTempTerm = "";
+        while (doc.hasNext()) {
+            String scanningTerm = doc.next();
+            // apply case folding -remove special characters and make sting into lower case and apply number removal
+            String scanningUpdatedTerm = caseFolding_numberRemoval(scanningTerm);
+            if (!scanningUpdatedTerm.equals("") || !scanningUpdatedTerm.equals(null)) {
+                // remove same word back to back
+                if (scanningTempTerm.equals(scanningUpdatedTerm)) {
+                    continue;
+                } else {
+                    if (scanningUpdatedTerm.equals(term)){
+                        termFrequency++;
+                    }
+                }
+                scanningTempTerm = scanningUpdatedTerm;
+            }
+        }
+        System.out.println(termFrequency);
+        return termFrequency;
+    }
     // Driver
     public static void main(String[] args) throws FileNotFoundException, UnsupportedEncodingException, IOException {
 //        calculateAverageDocLength();
 //        getLengthOfDoc(10005);
 //        getDocFrequencyOfTerm("about");
+        getTermFrequency("and", 1001);
 //        splitIntoDocument();
 //        splitDocIntoTokens();
 //        mergeBlocks();
