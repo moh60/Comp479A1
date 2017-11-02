@@ -80,8 +80,7 @@ public class extract {
             Stack tokenCollection = new Stack();
             // go through each document
             for (File child : directoryListing) {
-//                if (count <= directoryListing.length) {
-                if (count <= 100) {
+                if (count <= directoryListing.length) {
                     int docLength = 0;
                     // read from each document
                     Scanner scan2 = new Scanner(new File("docs/" + child.getName()));
@@ -509,87 +508,8 @@ public class extract {
         }
     }
 
-    // return average document length of entire corpus
-    public static long calculateAverageDocLength() throws IOException {
-        Scanner scanner = new Scanner(new File("docLength.txt"));
-        Stack<String> docLengths = new Stack<>();
-        int sumOfAllDocLengths = 0;
-        int numOfDocuments = 0;
-        long averageDocLength = 0;
-        while (scanner.hasNext()) {
-            String docLine = scanner.next();
-            String docPair[]= docLine.split(":");
-            docLengths.push(docPair[1]);
-            sumOfAllDocLengths += Integer.parseInt(docPair[1]);
-            numOfDocuments++;
-        }
-        averageDocLength = sumOfAllDocLengths/numOfDocuments;
-        return averageDocLength;
-    }
-
-    // return length of a document by docID
-    public static long getLengthOfDoc(int docID) throws IOException {
-        Scanner scanner = new Scanner(new File("docLength.txt"));
-        long docLength = 0;
-        while (scanner.hasNext()) {
-            String docLine = scanner.next();
-            String docPair[]= docLine.split(":");
-            if (docID == Integer.parseInt(docPair[0])) {
-                docLength = Long.parseLong(docPair[1]);
-                break;
-            }
-        }
-        System.out.println(docLength);
-        return docLength;
-    }
-
-    // return document frequency of a term
-    public static long getDocFrequencyOfTerm(String term) throws IOException {
-        Scanner scanner = new Scanner(new File("PostingsList\\0postingsListBlock.txt"));
-        long docFrequency = 0;
-        while (scanner.hasNext()) {
-            String docLine = scanner.nextLine();
-            String pairToken[] = docLine.split(":");
-            String docTerm = pairToken[0];
-            if (term.equals(docTerm)) {
-                String documentPostingList[] = pairToken[1].split(",");
-                docFrequency = documentPostingList.length;
-                break;
-            }
-        }
-        return docFrequency;
-    }
-
-    public static long getTermFrequency(String term, int docID) throws IOException{
-        // read from each document
-        Scanner doc = new Scanner(new File("docs\\" + docID + "doc.txt"));
-        long termFrequency = 0;
-        String scanningTempTerm = "";
-        while (doc.hasNext()) {
-            String scanningTerm = doc.next();
-            // apply case folding -remove special characters and make sting into lower case and apply number removal
-            String scanningUpdatedTerm = caseFolding_numberRemoval(scanningTerm);
-            if (!scanningUpdatedTerm.equals("") || !scanningUpdatedTerm.equals(null)) {
-                // remove same word back to back
-                if (scanningTempTerm.equals(scanningUpdatedTerm)) {
-                    continue;
-                } else {
-                    if (scanningUpdatedTerm.equals(term)){
-                        termFrequency++;
-                    }
-                }
-                scanningTempTerm = scanningUpdatedTerm;
-            }
-        }
-        System.out.println(termFrequency);
-        return termFrequency;
-    }
     // Driver
     public static void main(String[] args) throws FileNotFoundException, UnsupportedEncodingException, IOException {
-//        calculateAverageDocLength();
-//        getLengthOfDoc(10005);
-//        getDocFrequencyOfTerm("about");
-        getTermFrequency("and", 1001);
 //        splitIntoDocument();
 //        splitDocIntoTokens();
 //        mergeBlocks();
