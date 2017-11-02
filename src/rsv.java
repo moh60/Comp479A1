@@ -101,9 +101,8 @@ public class rsv {
         System.out.println("k1 " + k1);
         System.out.println("b " + b);
 
-        double NmodDF = Math.log(numOfDocsInCorpus/docFrequency);
+        double NmodDF = Math.log10(numOfDocsInCorpus/docFrequency);
         System.out.println("NmodDF " + NmodDF);
-
         double top = (k1+1)*termFrequency;
         double bottom = (k1 * (1-b) + b * (docLength/avgDocLengthCorpus)) + termFrequency;
         double topBottom = top/bottom;
@@ -111,7 +110,7 @@ public class rsv {
         double finalResult = NmodDF * topBottom;
         System.out.println("Final " + finalResult);
 
-        rsv = Math.log(numOfDocsInCorpus/docFrequency) * (((k1+1)*termFrequency)/((k1*(1-b)+b*(docLength/avgDocLengthCorpus))+termFrequency));
+        rsv = Math.log10(numOfDocsInCorpus/docFrequency) * (((k1+1)*termFrequency)/((k1*(1-b)+b*(docLength/avgDocLengthCorpus))+termFrequency));
         System.out.println(rsv);
         return rsv;
     }
