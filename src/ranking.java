@@ -4,13 +4,12 @@ import java.util.*;
 public class ranking {
 
     // calculates rsv for a given term in a document
-    public static double getRSV(int docID, String term) throws IOException {
+    public static double getRSV(int docID, String term, Map docLengthMap, Map docTermFrequencyMap) throws IOException {
         rsv getRelevance = new rsv();
-        double docFrequency = getRelevance.getDocFrequencyOfTerm(term);
+        double docFrequency = getRelevance.getDocFrequencyOfTerm(term,docTermFrequencyMap);
         double termFrequency = getRelevance.getTermFrequency(term, docID);
-        double docLength = getRelevance.getLengthOfDoc(docID);
+        double docLength = getRelevance.getLengthOfDoc(docID, docLengthMap);
         double relevance = getRelevance.calculateRSV(docFrequency,termFrequency,docLength);
-//        System.out.println(relevance);
         return relevance;
     }
 
@@ -34,6 +33,12 @@ public class ranking {
             // map the dictionary term and its posting list
             invertedIndex.put(term, finalPostingList);
         }
+
+        // generate Maps
+        rsv RSVMap = new rsv();
+        Map docLengthMap = RSVMap.LengthOfDocMap();
+        Map docTermFrequencyMap = RSVMap.docFrequencyOfTermMap();
+
         // Prompt user to enter query term(s)
         Scanner scanner_input = new Scanner(System.in);
         System.out.println("---------------------------------------------------");
@@ -43,11 +48,11 @@ public class ranking {
         // run OR search
         String input = selection.toLowerCase();
         String inputCheckLength[] = input.split(" ");
-        orQuery(input, invertedIndex);
+        orQuery(input, invertedIndex, docLengthMap, docTermFrequencyMap);
     }
 
     // handles multiple query search - OR
-    public static void orQuery(String input, Map<String, List<Integer>> invertedIndex) throws IOException {
+    public static void orQuery(String input, Map<String, List<Integer>> invertedIndex, Map docLengthMap, Map docTermFrequencyMap) throws IOException {
         // OR query terms - should return document frequency of query term
         String orQuery = input;
         // split each query term
@@ -61,30 +66,56 @@ public class ranking {
             }
         }
         System.out.println("Start Ranking");
-        Map<Integer,Double> rsvCollection = new HashMap<Integer, Double>();
+        TreeMap<Integer,Double> rsvCollection = new TreeMap<>();
         // for each doc id get rsv for given query terms
         for (int id : postingListCollection) {
-            if (id == 8072) {
-                double docRSVTotal = 0;
-                System.out.println("Document ID: " +id);
-                for (int i = 0; i < queryWordsCollection.length; i++) {
-                    System.out.println("term " + queryWordsCollection[i]);
-                    double docRSV = getRSV(id, queryWordsCollection[i]);
-                    docRSVTotal += docRSV;
-                }
-                rsvCollection.put(id, docRSVTotal);
-                break;
+            double docRSVTotal = 0;
+            for (int i = 0; i < queryWordsCollection.length; i++) {
+                double docRSV = getRSV(id, queryWordsCollection[i],docLengthMap,docTermFrequencyMap);
+                docRSVTotal += docRSV;
             }
+            rsvCollection.put(id, docRSVTotal);
         }
-        // sort rsv score by highest to lowest
-        System.out.println("Printing");
-        List<Double> c = new ArrayList<Double>(rsvCollection.values());
-        Collections.sort(c);
-        for(int i=0 ; i< c.size(); ++i) {
-            System.out.println(i + " rank is " + c.get(i));
-        }
-    }
+        // Calling the method sortByvalues
+        Map sortedMap = sortByValues(rsvCollection);
 
+        // Get a set of the entries on the sorted map
+        Set set = sortedMap.entrySet();
+
+        // Get an iterator
+        Iterator i = set.iterator();
+
+        // Display elements
+//        while(i.hasNext()) {
+            for (int j = 0; j < 10; j++) {
+                if (i.hasNext()) {
+                    Map.Entry me = (Map.Entry) i.next();
+                    System.out.print(me.getKey() + ": ");
+                    System.out.println(me.getValue());
+                }
+            }
+//        }
+
+        // sort rsv score by highest to lowest
+        System.out.println("Printing Result");
+//        List<Double> c = new ArrayList<Double>(rsvCollection.values());
+//        Collections.sort(c);
+//        for(int i=0 ; i< 10; ++i) {
+//            System.out.println(i + " rank is " + c.get(i));
+//        }
+    }
+    public static <K, V extends Comparable<V>> Map<K, V> sortByValues(final Map<K, V> map) {
+        Comparator<K> valueComparator =  new Comparator<K>() {
+            public int compare(K k1, K k2) {
+                int compare = map.get(k2).compareTo(map.get(k1));
+                if (compare == 0) return 1;
+                else return compare;
+            }
+        };
+        Map<K, V> sortedByValues = new TreeMap<K, V>(valueComparator);
+        sortedByValues.putAll(map);
+        return sortedByValues;
+    }
     // Driver
     public static void main(String[] args) throws FileNotFoundException, UnsupportedEncodingException, IOException {
         querySearch();
