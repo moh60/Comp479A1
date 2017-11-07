@@ -45,10 +45,18 @@ public class ranking {
         System.out.println("Please select the type of query you are parsing");
         System.out.println("---------------------------------------------------");
         String selection = scanner_input.nextLine();
-        // run OR search
-        String input = selection.toLowerCase();
+        // case folding and special character removal
+        String input = selection.toLowerCase().replaceAll("[^\\w\\s]", "");
         String inputCheckLength[] = input.split(" ");
-        orQuery(input, invertedIndex, docLengthMap, docTermFrequencyMap);
+        StringBuilder finalInput = new StringBuilder("");
+        // stop word removal
+        for (int i = 0; i < inputCheckLength.length; i++) {
+            if (!extract.stopWord(inputCheckLength[i])) {
+                finalInput.append(inputCheckLength[i] + " ");
+            }
+        }
+        // run OR search and ranking
+        orQuery(finalInput.toString(), invertedIndex, docLengthMap, docTermFrequencyMap);
     }
 
     // handles multiple query search - OR
@@ -78,32 +86,22 @@ public class ranking {
         }
         // Calling the method sortByvalues
         Map sortedMap = sortByValues(rsvCollection);
-
         // Get a set of the entries on the sorted map
         Set set = sortedMap.entrySet();
-
         // Get an iterator
         Iterator i = set.iterator();
-
-        // Display elements
-//        while(i.hasNext()) {
-            for (int j = 0; j < 10; j++) {
-                if (i.hasNext()) {
-                    Map.Entry me = (Map.Entry) i.next();
-                    System.out.print(me.getKey() + ": ");
-                    System.out.println(me.getValue());
-                }
-            }
-//        }
-
         // sort rsv score by highest to lowest
-        System.out.println("Printing Result");
-//        List<Double> c = new ArrayList<Double>(rsvCollection.values());
-//        Collections.sort(c);
-//        for(int i=0 ; i< 10; ++i) {
-//            System.out.println(i + " rank is " + c.get(i));
-//        }
+        int k = 10;
+        for (int j = 0; j < k; j++) {
+            if (i.hasNext()) {
+                Map.Entry me = (Map.Entry) i.next();
+                System.out.print("Document: " + me.getKey() + " ");
+                System.out.println("Score: " + me.getValue());
+            }
+        }
     }
+
+    // handles sorting
     public static <K, V extends Comparable<V>> Map<K, V> sortByValues(final Map<K, V> map) {
         Comparator<K> valueComparator =  new Comparator<K>() {
             public int compare(K k1, K k2) {
@@ -116,6 +114,7 @@ public class ranking {
         sortedByValues.putAll(map);
         return sortedByValues;
     }
+
     // Driver
     public static void main(String[] args) throws FileNotFoundException, UnsupportedEncodingException, IOException {
         querySearch();
