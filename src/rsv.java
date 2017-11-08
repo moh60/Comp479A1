@@ -8,15 +8,18 @@ import java.util.Scanner;
 import java.util.Stack;
 
 public class rsv {
+    // constant variables
     int numOfDocsInCorpus = 21578;
-    double avgDocLengthCorpus = 154;
-    double k1 = 0.5;
-    double b = 0.5;
+    double avgDocLengthCorpus = 154; // use calculateAverageDocLength method to return value
+    double k1 = 0.9;
+    double b = 0.1;
     double rsv;
 
+    // default constructor
     public rsv(){
 
     }
+
     // return average document length of entire corpus
     public static long calculateAverageDocLength() throws IOException {
         Scanner scanner = new Scanner(new File("docLength.txt"));
@@ -47,6 +50,7 @@ public class rsv {
         }
         return docsCollectionMap;
     }
+
     // return length of a document by docID
     public static long getLengthOfDoc(int docID, Map docsCollectionMap) {
         long docLength = (Integer)docsCollectionMap.get(docID);
@@ -64,6 +68,7 @@ public class rsv {
         }
         return docsCollectionMap;
     }
+
     // return document frequency of a term
     public static long getDocFrequencyOfTerm(String term, Map docsCollectionMap) {
         Map<String,String> docCollection = docsCollectionMap;
