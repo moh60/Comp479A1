@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6167" NEWID="17829">
+<DATE> 1-JUN-1987 17:05:31.57</DATE>
+<TOPICS><D>iron-steel</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2543&#31;reute
+u f BC-LTV-&lt;QLTV>-TO-NEGOTIA   06-01 0099</UNKNOWN>
+<TEXT>&#2;
+<TITLE>LTV &lt;QLTV> TO NEGOTIATE WITH STEELWORKERS</TITLE>
+<DATELINE>    CLEVELAND, June 1 - </DATELINE><BODY>LTV Corp's LTV Steel Corp said it
+agreed to resume negotiations with the United Steelworkers of
+America at the local plant levels, to discuss those provisions
+of its proposal that require local implementation.
+    The local steelworker union narrowly rejected a tentative
+agreement with the company on May 14, it said.
+    LTV also said it agreed to reopen its offer contained in
+the tentative agreement reached with the union's negotiating
+committee as part of a plan to resolve problems through local
+discussions.
+               
+ Reuter
+&#3;</BODY></TEXT>

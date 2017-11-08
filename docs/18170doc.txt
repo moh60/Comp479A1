@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7615" NEWID="18170">
+<DATE> 2-JUN-1987 13:50:21.09</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2088&#31;reute
+d f BC-BARNES-&lt;B>-UNIT-TO-CO   06-02 0043</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BARNES &lt;B> UNIT TO CONSTRUCT NEW PLANT</TITLE>
+<DATELINE>    BRISTOL, Conn., June 2 - </DATELINE><BODY>Barnes Group Inc said it will
+build a new 3.7 mn dlrs manufacturing plant in Saline, Mich.,
+to house its Associated Spriung unit's high-tech valve and
+torque converter clutch spring operations.
+ Reuter
+&#3;</BODY></TEXT>

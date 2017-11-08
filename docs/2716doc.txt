@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19134" NEWID="2716">
+<DATE> 6-MAR-1987 12:21:23.10</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0790&#31;reute
+u f BC-VALERO-ENERGY-KNOWS-O   03-06 0059</UNKNOWN>
+<TEXT>&#2;
+<TITLE>VALERO ENERGY KNOWS OF NO REASON FOR STOCK GAIN</TITLE>
+<DATELINE>    SAN ANTONIO, TEX., MARCH 6 - </DATELINE><BODY>Valero Energy Corp &lt;VLO> said
+it knows of no reason for its stock activity today.
+    The stock rose 1-5/8 to 10-7/8, a gain of about 17.5 pct.
+    A spokesman for Valero, Steve Fry, said the company knows
+of no reason for the increased volume and sharp gain in the
+stock.
+ Reuter
+&#3;</BODY></TEXT>

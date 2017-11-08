@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7982" NEWID="19654">
+<DATE>29-JUN-1987 10:56:46.77</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1267&#31;reute
+u f BC-BSN-&lt;BSN>-HAS-PURCHAS   06-29 0066</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BSN &lt;BSN> HAS PURCHASED MACGREGOR &lt;MGS> STOCK</TITLE>
+<DATELINE>    DALLAS, June 29 - </DATELINE><BODY>BSN Corp said it purchased MacGregor
+Sporting Goods' common stock in recent open market
+transactions.
+    BSN said its position is less than the five pct ownership
+which would require specific disclosure. The company will
+continually review its position and may nelect to increase or
+decrease the number of shares owned, it added.
+ Reuter
+&#3;</BODY></TEXT>

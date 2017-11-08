@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9999" NEWID="5086">
+<DATE>13-MAR-1987 16:46:53.45</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0512&#31;reute
+s f BC-SECOND-NATIONAL-BUILD   03-13 0036</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SECOND NATIONAL BUILDING &lt;SNBL> RAISES DIVIDEND</TITLE>
+<DATELINE>    SALISBURY, Md., March 13 -
+    </DATELINE><BODY>Qtrly seven cts vs six cts
+    Pay April 20
+    Record March 31
+    NOTE: full name of company is Second National Building and
+Loan.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19663" NEWID="3241">
+<DATE> 9-MAR-1987 12:51:02.95</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0007&#31;reute
+b f BC-CHRYSLER-&lt;C>-VALUES-A   03-09 0101</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CHRYSLER &lt;C> VALUES AMC &lt;AMO> AT 757 MLN DLRS</TITLE>
+<DATELINE>    DETROIT, March 9 - </DATELINE><BODY>Chrysler Corp said it valued its
+proposed buyout of American Motors Corp at 757 mln dlrs, not
+counting the effect of a contingent payment that could reach
+350 mln dlrs based on AMC's future profits.
+    A Chrysler spokesman told Reuters that the letter of intent
+signed with Renault, AMC's controlling shareholder with a 46.2
+pct direct stake, includes a provision for Renault to be paid
+35 mln dlrs in cash for AMC's finance subsidiary and 200 mln
+dlrs in the form of an eight pct note. He said he did not know
+the maturity of the note.
+ Reuter
+&#3;</BODY></TEXT>

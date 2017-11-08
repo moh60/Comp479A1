@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15074" NEWID="9553">
+<DATE>25-MAR-1987 15:28:05.02</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2228&#31;reute
+r f BC-BARRIS-&lt;BRRS>-TO-BUY   03-25 0071</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BARRIS &lt;BRRS> TO BUY BACK STOCK</TITLE>
+<DATELINE>    BEVERLY HILLS, Calif., March 25 - </DATELINE><BODY>Barris Industries Inc
+said it agreed to buy back 763,546 shares, or 8.6 pct of its
+own common stock from company founder Charles Barris for 12.50
+dlrs per share.
+    Barris and the company have also terminated an agreement
+which granted Barris Industries the right of first refusal for
+a five year period on any project initiated by Barris, the
+company said.
+ Reuter
+&#3;</BODY></TEXT>

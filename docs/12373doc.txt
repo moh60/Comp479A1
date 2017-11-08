@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="601" NEWID="12373">
+<DATE> 1-APR-1987 18:13:59.10</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2672&#31;reute
+u f BC-CORRECTED---GM-&lt;GM>-T   04-01 0097</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CORRECTED - GM &lt;GM> TO IDLE SIX PLANTS</TITLE>
+<DATELINE>    DETROIT, April 1 - </DATELINE><BODY>General Motors Corp will idle six of its
+car assembly plants next week, temporarily laying off 21,600
+workers, according to spokespersons for the company's groups.
+    The automaker will shut three plants each in its two
+groups--the Buick-Oldsmobile-Cadillac group and the
+Chevrolet-Pontiac-GM of Canada group.
+    The plants will be closed for a week starting April six for
+inventory adjustment.
+    Five of the plants are located in the United States. The
+sixth is in Canada. - corrects the date of the plant closings.
+&#3;</BODY></TEXT>

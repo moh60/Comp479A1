@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5093" NEWID="16054">
+<DATE> 9-APR-1987 18:45:25.86</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D><D>pakistan</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS><D>worldbank</D></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f2848&#31;reute
+r f BC-PAKISTAN-GETS-70-MLN   04-09 0105</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PAKISTAN GETS 70 MLN DLR WORLD BANK LOAN</TITLE>
+<DATELINE>    WASHINGTON, April 9 - The World Bank said it approved a 70-</DATELINE><BODY>mln-dlr, 20-year loan to assist Pakistan in a project designed
+to improve power plant efficiency.
+    Noting that a shortage of power constrains Pakistan's
+economic development, the Bank said one objective of the
+project is to provide at least 200 megawatts of additional
+generating capacity.
+    Another objective is to improve the efficiency with which
+hydrocarbons are used by Pakistan's Water and Power Development
+Authority (WAPDA) in power production, it said. One effect of
+this would be reduced atmospheric pollution.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19511" NEWID="3096">
+<DATE> 9-MAR-1987 10:31:32.17</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0284&#31;reute
+u f BC-GREASE-MONKEY-&lt;GMHC>   03-09 0077</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GREASE MONKEY &lt;GMHC> GETS, REJECTS MERGER OFFER</TITLE>
+<DATELINE>    DENVER, March 9 - </DATELINE><BODY>Grease Monkey Holding Corp said it has
+received and rejected an unsolicited merger offer from Jiffy
+Lube International Inc &lt;LUBE>.
+    The company said the proposal involved an exchange of
+Grease Monkey common stock for a combination of Jiffy Lube
+securities with an estimated current value substantially below
+Grease Monkey's current market
+ price.
+    It said it will not disclosed details.
+ Reuter
+&#3;</BODY></TEXT>

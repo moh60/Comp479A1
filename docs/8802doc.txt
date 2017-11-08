@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14323" NEWID="8802">
+<DATE>24-MAR-1987 11:13:35.22</DATE>
+<TOPICS><D>interest</D></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;V RM
+&#22;&#22;&#1;f1324&#31;reute
+b f BC-/-FED-MAY-ADD-RESERVE   03-24 0108</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FED MAY ADD RESERVES, ECONOMISTS SAY</TITLE>
+<DATELINE>    NEW YORK, March 24 - </DATELINE><BODY>The Federal Reserve may intervene in
+the government securities market to add reserves today, some
+economists said, although others felt that the Fed was likely
+to refrain from any action.
+    Those who believed the Fed will intervene said it would
+probably add temporary reserves indirectly via 1.5 to two
+billion dlrs of customer repurchase agreements.
+    But others noted the Fed's current add-need is not large.
+They also expected the federal funds rate to edge lower.
+    Fed funds, which averaged 6.21 pct on Monday, opened at
+6-1/8 pct and remained at that level in early trading.
+ Reuter
+&#3;</BODY></TEXT>

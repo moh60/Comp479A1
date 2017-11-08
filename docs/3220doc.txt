@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19642" NEWID="3220">
+<DATE> 9-MAR-1987 12:37:32.88</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F A RM
+&#22;&#22;&#1;f0940&#31;reute
+r f BC-CRANE-&lt;CR>-TO-REDEEM   03-09 0069</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CRANE &lt;CR> TO REDEEM CONVERTIBLE DEBENTURES</TITLE>
+<DATELINE>    NEW YORK, March 9 - </DATELINE><BODY>Crane Co said it will redeem on March
+31 all 75 mln dlrs of its outstanding 8-3/4 pct convertible
+senior debentures due October 1, 2005 at 107.875 pct.
+    It said accrued interest to March 31 will be paid on that
+date to holders of record as of March 15.  The debentures may
+be converted into common stock at 28.80 dlrs per share through
+March 24.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,33 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19831" NEWID="3409">
+<DATE> 9-MAR-1987 17:49:32.83</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0006&#31;reute
+d f BC-BANCROFT-&lt;BCV>-FILES   03-09 0095</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BANCROFT &lt;BCV> FILES SUIT AGAINST ZICO</TITLE>
+<DATELINE>    NEW YORK, March 9 - </DATELINE><BODY>Bancroft Convertible Fund Inc said it
+filed a lawsuit in federal court in Newark, N.J., seeking to
+block a hostile 30 dlr a share takeover offer by &lt;Zico
+Investment Holdings Inc.>
+    Bancroft said the suit also names Michael B. Javett,
+principal officer of Zico, and First Fidelity Bancorp's &lt;FFB>
+First Fidelity Bank unit, the depositary for Zico's offer.
+    Bancroft said the suit also names &lt;Georgeson and Co Inc>,
+Zico's information agent, and &lt;Luthie Intercontinentale Inc>, a
+Panamanian corporation.
+    Bancroft said its complaint alleges that Zico's tender
+offer materials include false and misleading information and
+that the offer violates the Investment Company Act of 1940.
+    The company said its stockholders approved proposals that
+will insure that it remains independent.
+
+ Reuter
+&#3;</BODY></TEXT>

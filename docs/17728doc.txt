@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6066" NEWID="17728">
+<DATE> 1-JUN-1987 14:39:41.22</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F
+&#22;&#22;&#1;f2125&#31;reute
+d f BC-PIOSEC-&lt;PIO.AL>-ACQUI   06-01 0053</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PIOSEC &lt;PIO.AL> ACQUIRES SEMICONDUCTOR STAKE</TITLE>
+<DATELINE>    VANCOUVER, B.C., May 31 - </DATELINE><BODY>Piosec Technology Ltd said it
+exchanged 4.5 mln common shares for 21 pct of privately owned
+&lt;Alliance Semiconductor Corp> of Santa Clara, Calif.
+    Followin the acquisition, a Piosec spokesman said, the
+company has 6.5 mln shares outstanding.
+ Reuter
+&#3;</BODY></TEXT>

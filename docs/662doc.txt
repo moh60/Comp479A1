@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12846" NEWID="662">
+<DATE> 2-MAR-1987 14:02:09.16</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0624&#31;reute
+d f BC-INSPEECH-&lt;INSP>-MAKES   03-02 0071</UNKNOWN>
+<TEXT>&#2;
+<TITLE>INSPEECH &lt;INSP> MAKES ACQUISITIONS</TITLE>
+<DATELINE>    VALLEY FORGE, Pa., March 2 - </DATELINE><BODY>InSpeech Inc said it has
+acquired Northwest Rehabilitation Inc and Len M. House and
+Associates and United Rehabilitation Inc for undisclosed terms.
+    Northwest provides physical therapy services and has annual
+sales of about six mln dlrs and Houyse provides speech therapy
+services and has annual sales of about 4000,000 dlrs.  Both are
+based in Minneapolis.
+ Reuter
+&#3;</BODY></TEXT>

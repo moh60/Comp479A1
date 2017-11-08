@@ -1,0 +1,36 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14749" NEWID="9228">
+<DATE>25-MAR-1987 07:50:39.21</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0593&#31;reute
+u f BC-BICC-SEEKS-ACCELERATE   03-25 0112</UNKNOWN>
+<TEXT TYPE="UNPROC">&#2;
+BICC SEEKS ACCELERATED EARNINGS GROWTH LONDON, March 25 - BICC
+Plc &lt;BICC.L>, which earlier announced a 10 pct rise in 1986
+pre-tax profits, said it was determined to achieve higher
+levels of performance, quality and service to accelerate its
+improvement in earnings.
+    BICC said in a statement that sales in BICC Cables were
+down on 1985 due to a sharp drop in demand for cable in the oil
+and chemical industries after the oil price drop. But profits
+in Balfour Beatty were substantially improved.
+    Profits increased in BICC Technologies and in BICC
+International in local currency terms, while Associated British
+Cables had another excellent year, the company said.
+    BICC shares were last quoted at 357p, up from 344p at
+yesterday's close, in buoyant response to results which were
+ahead of market expectations, dealers said.
+    BICC pre-tax profits rose to 101 mln stg in 1986 from 92
+mln in 1985, with turnover rising from 2.11 billion stg in 1985
+to 2.14 billion stg in 1986.
+ REUTER
+&#3;
+
+</TEXT>

@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="BYPASS" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="2480" NEWID="13497">
+<DATE> 7-APR-1987 06:57:22.05</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0385&#31;reute
+r f BC-beirut-exchs-clsg---a   04-07 0034</UNKNOWN>
+<TEXT TYPE="UNPROC">&#2;
+Beirut exchs clsg - april 7 uk transfer     18575.00 - 18675.00
+us transfer     11475.00 - 11525.00 kuwait          41880.00 -
+42050.00 saudi arabia    3050.00  - 3060.00 france         
+1890.00  - 1905.00
+&#3;
+
+</TEXT>

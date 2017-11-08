@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11169" NEWID="6256">
+<DATE>17-MAR-1987 16:03:15.71</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f6464&#31;reute
+r f BC-MOR-FLO-&lt;MORF>-LOSES   03-17 0104</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MOR-FLO &lt;MORF> LOSES INFRINGEMENT APPEAL</TITLE>
+<DATELINE>    CLEVELAND, March 17 - </DATELINE><BODY>Mo-Flo Industries Inc said the
+federal appeals court has affairmed a trial court ruling that
+Mor-Flo infringed on patents held by &lt;State Industries Inc> for
+insulating gas water heaters with polyurethane.
+    Mor-Flo said it intends to seek a rehearing of the
+decision. If the rehearing is denied, further proceedings
+before the trial court will be held to determine damages.
+    The company said it made provision for a potential award
+and related litigation expenses by taking an after-tax charge
+of 384,000 dlrs, or 15 cts a share, against 1986 earnings.
+ Reuter
+&#3;</BODY></TEXT>

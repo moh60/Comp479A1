@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="BYPASS" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="3517" NEWID="14534">
+<DATE> 7-APR-1987 15:49:18.80</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;GQ
+&#22;&#22;&#1;f2291&#31;reute
+r f BC-st-louis-barge-call   04-07 0028</UNKNOWN>
+<TEXT TYPE="UNPROC">&#2;
+DENVER PRODUCER PRICES
+ no1 hrw wheat ord    254-262
+               12 pct 254-262
+               13 pct 255-276
+ no2 yellow corn      287-295
+ no2 barley           335
+ Reuter
+&#3;
+
+</TEXT>

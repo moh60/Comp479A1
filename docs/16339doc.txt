@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="874" NEWID="16339">
+<DATE>13-APR-1987 11:10:01.27</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1321&#31;reute
+r f BC-ENTRE-COMPUTER-&lt;ETRE.   04-13 0092</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ENTRE COMPUTER &lt;ETRE.O> CLOSING OVERSEAS UNITS</TITLE>
+<DATELINE>    VIENNA, Va., April 13 - </DATELINE><BODY>Entre Computer Centers Inc said it
+is discontinuing its European and Australian operations.
+    The company today reported a loss for the second quarter
+ended February 28 of 2,733,000 dlrs, after a 6,705,000 dlr
+pretax provision for the shutdown of the overseas units and a
+2,511,000 dlr tax credit.  A year earlier it earned 911,000
+dlrs.
+    It said the overseas operations lost 400,000 dlrs in the
+second quarter and did not appear strong enough to provide for
+future growth.
+ Reuter
+&#3;</BODY></TEXT>

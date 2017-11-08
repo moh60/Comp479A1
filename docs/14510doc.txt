@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="3493" NEWID="14510">
+<DATE> 7-APR-1987 15:42:15.72</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2259&#31;reute
+r f BC-ALLIED-SIGNAL-&lt;ALD>-U   04-07 0090</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ALLIED-SIGNAL &lt;ALD> UNIT TO CUT EMPLOYEES</TITLE>
+<DATELINE>    ARLINGTON, Va., April 7 - </DATELINE><BODY>Allied-Signal Inc's Bendix Test
+Systems Division is cutting between 75 and 125 employes as part
+of its streamlining efforts.
+    Bendix, which is part of the Aircraft Systems Co of
+Allied-Signal's Aerospace's Bendix sector, said the cuts would
+create a more cost-effective unit. It said employment is
+expected to remain at approximately 1,200 employes.
+    The reductions began last month when the division announced
+a voluntary retirement program for eligible employes.
+ Reuter
+&#3;</BODY></TEXT>

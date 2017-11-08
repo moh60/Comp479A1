@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14829" NEWID="9309">
+<DATE>25-MAR-1987 10:06:50.82</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1005&#31;reute
+r f BC-CHEROKEE-GROUP-&lt;CHKE>   03-25 0076</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CHEROKEE GROUP &lt;CHKE> FILES TO OFFER SHARES</TITLE>
+<DATELINE>    NORTH HOLLYWOOD, Calif., March 25 - </DATELINE><BODY>Cherokee Group said it
+has filed for an offering of 2,500,000 common shares, including
+700,000 to be sold by shareholders, through underwriters First
+Boston Inc &lt;FBC> and American Express Co &lt;AXP> unit Shearson
+Lehman Brothers Inc.
+    It said it will use its proceeds to repay bank debt, for
+capital spending and for general corporate purposes including
+possible acquisitions.
+ Reuter
+&#3;</BODY></TEXT>

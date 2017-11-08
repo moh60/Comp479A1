@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17417" NEWID="11355">
+<DATE>31-MAR-1987 10:29:56.78</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1258&#31;reute
+r f BC-FORD-&lt;F>-AWARDS-2.3-M   03-31 0069</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FORD &lt;F> AWARDS 2.3 MLN DLR CONTRACT</TITLE>
+<DATELINE>    DEARBORN, Mich., March 31 - </DATELINE><BODY>Ford Motor Co said it has
+awarded &lt;Cimarron Express Inc>, an Ohio-based minority owned
+and operated trucking company, a 2.3 mln dlr regional
+transportation contract.
+    Ford said that under the contract Cimarron will transport
+automotive parts from more than 50 supplier firms in eight
+southern states to Ford's Wixom Assembly Plant in Michigan.
+ Reuter
+&#3;</BODY></TEXT>

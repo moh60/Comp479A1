@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="1913" NEWID="12944">
+<DATE> 3-APR-1987 11:38:08.84</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1411&#31;reute
+d f BC-DATAFLEX-&lt;DFLX>-NAMES   04-03 0050</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DATAFLEX &lt;DFLX> NAMES PRESIDENT</TITLE>
+<DATELINE>    EDISON, N.J., April 3 - </DATELINE><BODY>Dataflex Corp said it named Richard
+Rose president, succeeding Jeffrey Lamm, who continues as
+chairman and chief executive officer.
+    Rose has been executive vice president of the desktop
+computer marketing company since joining it in 1984.
+ Reuter
+&#3;</BODY></TEXT>

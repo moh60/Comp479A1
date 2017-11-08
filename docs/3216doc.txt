@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19638" NEWID="3216">
+<DATE> 9-MAR-1987 12:32:14.04</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0911&#31;reute
+d f BC-&lt;SHARON-STEEL-CORP>-E   03-09 0107</UNKNOWN>
+<TEXT>&#2;
+<TITLE>&lt;SHARON STEEL CORP> EXTENDS EXCHANGE OFFER</TITLE>
+<DATELINE>    MIAMI, Fla., March 9 - </DATELINE><BODY>Sharon Steel Corp said it extended
+from March six to March 31 the expiration date for its debt
+exchange offer to allow time to complete the sale of its
+Mueller Brass Co unit and to meet other conditions of the
+offer.
+    The exchange offer covers Sharon's outstanding 13.5 pct
+subordinated sinking fund debentures due 2000 and its 14.25 pct
+subordinated sinking fund debentures due 1990.
+    Sharon said that as of March six, 31.6 pct of the 13.5 pct
+notes and 20.9 pct of the 14.25 pct notes were tendered. The
+Mueller sale is conditioned on receipt of 80 pct of the notes.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18565" NEWID="2147">
+<DATE> 5-MAR-1987 11:16:33.46</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0561&#31;reute
+r f BC-BESICORP,-LCP-CHEMICA   03-05 0110</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BESICORP, LCP CHEMICALS IN COGENERATION PACT</TITLE>
+<DATELINE>    ELLENVILLE, N.Y., March 5 - </DATELINE><BODY>&lt;Besicorp Group Inc> said it
+reached an agreement with &lt;LCP Chemicals and Plastics Inc> to
+develop an 80 megawatt cogeneration station at LCP's facility
+in Syracuse N.Y., in a project estimated to require about 50
+mln dlrs in financing.
+    Under the agreement, it said a standard power sale
+agreement is expected to be entered into with Niagara Mohawk
+Power Corp &lt;NMK> for the sale of electrical power output.
+    Besicrop said it is developing the project with &lt;Kamine
+Engineering and Mechanical Contracting &lt;Inc>, and both
+companies will retain long-term interests in the project.
+ Reuter
+&#3;</BODY></TEXT>

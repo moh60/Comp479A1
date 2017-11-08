@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="8285" NEWID="19957">
+<DATE>29-JUN-1987 18:00:11.91</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F 
+&#22;&#22;&#1;f2737&#31;reute
+r f BC-ROYAL-GOLD-AND-SILVER   06-29 0039</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ROYAL GOLD AND SILVER CORP &lt;RGS.TO> SIX MTHS NET</TITLE>
+<DATELINE>    TORONTO, June 29 - 
+    </DATELINE><BODY>Shr profit two cts vs loss two cts
+    Net profit 123,000 vs loss 104,000
+    Revs 12.5 mln vs nil
+    Note: 1987 period includes 112,000 dlr extraordinary gain.
+ Reuter
+&#3;</BODY></TEXT>

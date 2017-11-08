@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12211" NEWID="7298">
+<DATE>19-MAR-1987 13:38:06.28</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>france</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f1898&#31;reute
+b f BC-CORRECTION---PARIS---   03-19 0055</UNKNOWN>
+<TEXT TYPE="UNPROC">&#2;
+CORRECTION - PARIS  - FRENCH MINISTER RENEWS
+    Please read at end of first para of item
+ "FRENCH MINISTER RENEWS ECONOMIC CONTROVERSY" "....An economic
+U-turn, saying it was possible to obtain  the results of a
+reflation without its negative effects." this makes it clear the
+minister did not use the phrase "boost domestic demand."
+&#3;
+
+</TEXT>

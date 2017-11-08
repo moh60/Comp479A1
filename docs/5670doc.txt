@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10583" NEWID="5670">
+<DATE>16-MAR-1987 16:07:42.06</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f3540&#31;reute
+r f BC-CITYFED-&lt;CTYF>-TO-SEL   03-16 0103</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CITYFED &lt;CTYF> TO SELL CONSUMER LENDING OFFICES</TITLE>
+<DATELINE>    PALM BEACH, Fla., March 16 - </DATELINE><BODY>CityFed Financial Corp said
+its City Federal Savings Bank has a preliminary agreement to
+sell 14 consumer lending offices to &lt;Goldome FSB> for
+undisclosed terms.
+    Goldome is the largest mutual savings bank in the U.S.
+    CityFed said it decided to sell its consumer lending
+offices outside its main market areas in New Jersey and Florida
+to concentrate its resources to these markets.
+    The offices being sold operate under the name of City
+Consumer Serices Inc in Arizona, Colorado, Illinois, Maryland,
+New Mexico, Oregon and Virginia.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,32 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6412" NEWID="18660">
+<DATE>18-JUN-1987 09:48:34.16</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f3089&#31;reute
+b f BC-/GILLETTE-&lt;GS>-GETS-O   06-18 0067</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GILLETTE &lt;GS> GETS OFFER FROM REVLON &lt;REV></TITLE>
+<DATELINE>    BOSTON, June 18 - </DATELINE><BODY>Gillette Co said Revlon Group made an
+unsolicited request, asking the Gillette board to allow Revlon
+to make a cash offer for all Gillette shares of at least 40.50
+dlrs per share.
+    Gillette said consent for the bid is required under a
+standstill agreement between Revlon and Gillette before Revlon
+can make any move on Gillette's stock.
+    In November 1986, Revlon made an unsolicited offer for
+Gillette shares, Gillette said.
+    Subsequently, Revlon withdrew its offer, sold back to
+Gillette the shares it owned at that time and entered into the
+standstill agreement.
+    The Gillette board of directors has a regularly scheduled
+meeting this afternoon, and Gillette said it anticipates making
+a statement after that meeting.
+ Reuter
+&#3;</BODY></TEXT>

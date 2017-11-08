@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6557" NEWID="18805">
+<DATE>18-JUN-1987 12:37:06.22</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f3857&#31;reute
+r f BC-ACTON-&lt;ATN>-SETS-ONE   06-18 0055</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ACTON &lt;ATN> SETS ONE FOR FIVE REVERSE SPLIT</TITLE>
+<DATELINE>    ACTON, Mass, June 18 - </DATELINE><BODY>Acton Corp said shareholders at the
+annaul meeting approved a one-for-five reverse split that takes
+effect June 25.
+    It said holders also approved a limitation of directors'
+liability and indemnity agreements between the company and its
+officers and directors.
+ Reuter
+&#3;</BODY></TEXT>

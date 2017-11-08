@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15335" NEWID="9814">
+<DATE>26-MAR-1987 08:33:58.58</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0792&#31;reute
+u f BC-PHILIPS-ELECTRICAL-SE   03-26 0059</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PHILIPS ELECTRICAL SELLS STAKE IN UNIDARE</TITLE>
+<DATELINE>    LONDON, March 26 - </DATELINE><BODY>&lt;Philips Electrical (Ireland) Ltd> has
+arranged the sale of the one mln ordinary shares it holds in
+its subsidiary &lt;Unidare Aluminium Ltd>, Unidare said.
+    The placing has been arranged through &lt;Allied Irish
+Investment Bank Plc> at an ex-dividend price of 371 Irish pence
+per share.
+ REUTER
+&#3;</BODY></TEXT>

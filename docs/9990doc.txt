@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15511" NEWID="9990">
+<DATE>26-MAR-1987 11:55:28.83</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1622&#31;reute
+d f BC-RICOH-REORGANIZES-U.S   03-26 0064</UNKNOWN>
+<TEXT>&#2;
+<TITLE>RICOH REORGANIZES U.S. UNITS</TITLE>
+<DATELINE>    WEST CALDWELL, N.J., March 26 - </DATELINE><BODY>Ricoh Corp, the U.S. unit
+of Japan-based &lt;Ricoh Ltd>, said it merged Ricoh Systems Inc
+into Ricoh Corp.
+    The U.S. unit also purchased Ricoh Electronics Inc from the
+parent company.
+    The company said the reorganization unites the sales,
+research and development, and manufacturing operations of all
+the U.S. units.
+ Reuter
+&#3;</BODY></TEXT>

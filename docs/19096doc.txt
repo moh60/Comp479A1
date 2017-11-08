@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6932" NEWID="19096">
+<DATE>19-JUN-1987 08:19:25.45</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f0606&#31;reute
+u f BC-DE-LAURENTIIS-COMPANI   06-19 0050</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DE LAURENTIIS COMPANIES SEE LOSS ON FILM</TITLE>
+<DATELINE>    LOS ANGELES, June 19 - </DATELINE><BODY>De Laurentiis Film Partners LP &lt;DFP>
+and De Laurentiis Entertainment Group Inc &lt;DEG> said they will
+take charges of five mln and 6,500,000 dlrs repsectively on
+their film "Million Dollar Mystery" due to disappointing box
+office results.
+ Reuter
+&#3;</BODY></TEXT>

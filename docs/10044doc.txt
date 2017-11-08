@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15565" NEWID="10044">
+<DATE>26-MAR-1987 13:06:50.85</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1960&#31;reute
+d f BC-ROYCE-&lt;RLAB>-TO-REDEE   03-26 0056</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ROYCE &lt;RLAB> TO REDEEM WARRANTS</TITLE>
+<DATELINE>    MIAMI, March 26 - </DATELINE><BODY>Royce Laboratories Inc said it is calling
+for redemption its redeemable common purchase warrants on April
+30 at 2.5 cts per warrant.
+    It said warrant holders retain the right to purchase one
+share of its common at an exercise price of three dlrs per
+share until 1700 EST April 29.
+ Reuter
+&#3;</BODY></TEXT>

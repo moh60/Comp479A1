@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11691" NEWID="6778">
+<DATE>18-MAR-1987 15:45:52.21</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f9311&#31;reute
+r f BC-AUDITORS-LIFT-QUALIFI   03-18 0107</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AUDITORS LIFT QUALIFICATION ON PS INDIANA &lt;PIN></TITLE>
+<DATELINE>    INDIANAPOLIS, IND., March 18 - </DATELINE><BODY>Auditors for Public Service
+Co of Indiana Inc lifted a qualification, in effect for two
+years, on its 1986 financial results, according to the
+company's annual shareholders' report.
+    PSI's report was qualified in 1984 and 1985 when its
+auditors, Arthur Andersen and Co, questioned the utility's
+ability to recover costs of its Marble Hill nuclear power plant
+and to extend the maturity of its credit agreement.
+    The company wrote off 141 mln dlrs of Marble Hill costs in
+November, 1986 and repaid its final 20 mln dlrs in debt in
+October, 1986, it said.
+ Reuter
+&#3;</BODY></TEXT>

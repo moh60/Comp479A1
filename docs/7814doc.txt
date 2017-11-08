@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13335" NEWID="7814">
+<DATE>20-MAR-1987 12:38:52.82</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1669&#31;reute
+r f BC-WTD-INDUSTRIES-&lt;WTDI>   03-20 0047</UNKNOWN>
+<TEXT>&#2;
+<TITLE>WTD INDUSTRIES &lt;WTDI> SAWMILL OFFER REJECTED</TITLE>
+<DATELINE>    PORTLAND, Ore., March 20 - </DATELINE><BODY>WTD Industries Inc said its
+offer to buy the bankrupt Harris Pine sawmill in Pendleton,
+Oregon was rejected by the bankruptcy court trustee.
+    The company said the bid was rjected in favor of a higher
+offer.
+ Reuter
+&#3;</BODY></TEXT>

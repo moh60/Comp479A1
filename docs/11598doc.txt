@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17659" NEWID="11598">
+<DATE>31-MAR-1987 14:53:17.13</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2281&#31;reute
+d f BC-WELBILT-&lt;WELB>-COMPLE   03-31 0050</UNKNOWN>
+<TEXT>&#2;
+<TITLE>WELBILT &lt;WELB> COMPLETES ACQUISITIONS</TITLE>
+<DATELINE>    NEW HYDE PARK, N.Y., March 31 - </DATELINE><BODY>Welbilt Corp said it
+completed the previously announced acquisitions of the assets
+of L and M Manufacturing Co and Food Machinery Engineering Co,
+two manufacturers of automated bakery production equipment
+headquartered in Toronto.
+ Reuter
+&#3;</BODY></TEXT>

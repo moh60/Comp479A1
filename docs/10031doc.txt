@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15552" NEWID="10031">
+<DATE>26-MAR-1987 12:46:03.72</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1880&#31;reute
+r f BC-S.P.I.-SUSPENSION-&lt;SP   03-26 0046</UNKNOWN>
+<TEXT>&#2;
+<TITLE>S.P.I. SUSPENSION &lt;SPILF> WINS CONTRACT</TITLE>
+<DATELINE>    NEW YORK, March 26 - </DATELINE><BODY>S.P.I. Suspension and Parts Industries
+Ltd said it won four multi-year contracts from the U.S. Army
+worth 34.5 mln dlrs.
+    The contracts, for wheels on U.S. Army vehicles, will run
+for five years beginning 1987.
+ Reuter
+&#3;</BODY></TEXT>

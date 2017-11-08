@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="21308" NEWID="20713">
+<DATE>20-OCT-1987 16:19:07.85</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f3158&#31;reute
+r f BC-GENERAL-HOST-&lt;GH>-TO   10-20 0078</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GENERAL HOST &lt;GH> TO BUY BACK SHARES</TITLE>
+<DATELINE>    STAMFORD, Conn., Oct 20 - </DATELINE><BODY>General Host Corp said its board
+authorized the repurchase of up to one mln additional shares of
+its common.
+    It said previous buy back authorizations of 6.5 mln shares
+were approved in January 1875 and September 1987.
+    To date, the company said it has repurchased about six mln
+shares under those authorizations in open market transactions.
+    General Host has about 22.5 mln shares outstanding.
+ Reuter
+&#3;</BODY></TEXT>

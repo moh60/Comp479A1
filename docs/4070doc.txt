@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="8983" NEWID="4070">
+<DATE>12-MAR-1987 03:54:53.32</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0253&#31;reute
+u f BC-NEW-U.K.-POLL-SAYS-TO   03-12 0093</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NEW U.K. POLL SAYS TORIES HAVE SIX-POINT LEAD</TITLE>
+<DATELINE>    LONDON, March 12 - </DATELINE><BODY>Britain's ruling Conservatives have
+moved into a six-point lead over the main opposition Labour
+Party, a Marplan poll published in today's Guardian newspaper
+reports.
+    The Conservatives are shown with a 38 pct share of the vote
+against 32 pct for Labour and 27 pct for the centrist
+Social-Democratic/Liberal Alliance. Prime Minister Margaret
+Thatcher has until June, 1988 to call a general election, but
+most political analysts expect her to go to the country some
+time this year.
+  REUTER
+&#3;</BODY></TEXT>

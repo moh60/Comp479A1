@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7215" NEWID="19379">
+<DATE>19-JUN-1987 15:14:38.69</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2128&#31;reute
+d f BC-APPLIED-DATA-&lt;ADCC.O>   06-19 0062</UNKNOWN>
+<TEXT>&#2;
+<TITLE>APPLIED DATA &lt;ADCC.O> TO BUY DATELINE</TITLE>
+<DATELINE>    TUSTIN, Calif., June 19 - </DATELINE><BODY>Applied Data Communications said
+it agreed to acquire privately-held Dateline Technology Inc of
+Redmond, Wash., for an undisclosed amount of cash and stock.
+    Dateline Technology designs and sells high-capacity,
+high-speed computer peripheral subsystems, primarily for data
+storage, Applied Data said.
+ Reuter
+&#3;</BODY></TEXT>

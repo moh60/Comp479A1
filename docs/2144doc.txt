@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18562" NEWID="2144">
+<DATE> 5-MAR-1987 11:14:29.96</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0547&#31;reute
+b f BC-DAYTON-HUDSON-&lt;DH>-FE   03-05 0054</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DAYTON HUDSON &lt;DH> FEBRUARY SALES RISE</TITLE>
+<DATELINE>    MINNEAPOLIS, March 5 - </DATELINE><BODY>Dayton Hudson Corp said sales for
+the four weeks ended February 28 increased 10.8 pct on a
+comparable-store basis to 601.8 mln dlrs from 503.8 mln dlrs a
+year ago.
+    It called the pace of February's sales "encouraging, with
+strength evident in all companies."
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15028" NEWID="9507">
+<DATE>25-MAR-1987 14:24:28.23</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2036&#31;reute
+h f BC-CYANOTECH-&lt;CYAN>-SETS   03-25 0057</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CYANOTECH &lt;CYAN> SETS WAY TO EXTRACT CAROTENE</TITLE>
+<DATELINE>    WOODINVILLE, Wash., March 25 - </DATELINE><BODY>Cyanotech Corp said it has
+developed a new way to extract beta carotene from algae.
+    The company said the method reduces energy requirements by
+70 pct and produces 90 pct recovery.
+    The company has been a commercial producer of beta carotene
+since May, 1986.
+ Reuter
+&#3;</BODY></TEXT>

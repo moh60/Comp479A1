@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12267" NEWID="7354">
+<DATE>19-MAR-1987 14:49:21.35</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2132&#31;reute
+r f BC-ERBAMONT-&lt;ERB>-ACQUIR   03-19 0055</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ERBAMONT &lt;ERB> ACQUIRES ANTIBIOTICOS S.A.</TITLE>
+<DATELINE>    STAMFORD, Conn., March 19 - </DATELINE><BODY>Erbamont N.V. said its major
+shareholder &lt;Montedison SpA>, which owns 85 pct of its common,
+and Farmitalia Carlo Erba, its 75 pct owned subsidiary, have
+acquired &lt;Antibioticos S.A.> and related subsidiaries.
+    Terms of the acquisition were not disclosed.
+ Reuter
+&#3;</BODY></TEXT>

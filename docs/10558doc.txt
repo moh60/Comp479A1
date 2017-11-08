@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16079" NEWID="10558">
+<DATE>27-MAR-1987 12:57:35.34&#5;&#5;&#5;F</DATE>
+<UNKNOWN>&#22;&#22;&#1;f1736&#31;reute</UNKNOWN>
+<TOPICS></TOPICS>
+<PLACES><D>sweden</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+d f BC-PHARMACIA-UNIT-SIGNS   03-27 0099</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PHARMACIA UNIT SIGNS NICOTINE TECHNOLOGY LICENCE</TITLE>
+<DATELINE>    STOCKHOLM, March 27 - </DATELINE><BODY>Sweden's &lt;AB Leo>, manufacturer of
+the anti-smoking chewing gum Nicorette, said it had signed a
+letter of intent to study the nicotine technology of &lt;Advanced
+Tobacco Products Inc> (ATPI) of San Antonio, Texas.
+    Leo, a subsidiary of Pharmacia AB &lt;PHAB ST>, said the
+agreement gives it the option of acquiring worldwide licences
+and rights to ATPI at the end of its period of study.
+    No cash details of the deal were given and Leo said no
+further details would be given until a definite agreement had
+been signed.
+ Reuter
+&#3;</BODY></TEXT>

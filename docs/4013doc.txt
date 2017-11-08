@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="8926" NEWID="4013">
+<DATE>11-MAR-1987 18:37:48.60</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D><D>iran</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;V
+&#22;&#22;&#1;f0904&#31;reute
+u f AM-REAGAN-HAKIM   03-11 0101</UNKNOWN>
+<TEXT>&#2;
+<TITLE>RAN SCANDAL PARTICIPANT TO GET IMMUNITY OFFER</TITLE>
+<DATELINE>    WASHINGTON, March 11 - </DATELINE><BODY>Albert Hakim, an arms merchant, is
+the first top-ranked player in the Iran arms scandal who may be
+enticed into testifying by the promise of immunity,
+investigators said.
+    The House Select committee probing the Iran arms scandal
+has voted to grant limited immunity from criminal prosecution
+to Hakim in return for his testimony.
+    Hakim, 51, was said deeply involved from the start in the
+attempt to trade arms to Iran for help in freeing American
+hostages in Lebanon and the diversion of funds and arms to
+rebels in Nicaragua.
+  
+ Reuter
+&#3;</BODY></TEXT>

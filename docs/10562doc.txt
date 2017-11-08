@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16083" NEWID="10562">
+<DATE>27-MAR-1987 12:59:03.15&#5;&#5;&#5;A</DATE>
+<UNKNOWN>&#22;&#22;&#1;f1741&#31;reute</UNKNOWN>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+r f BC-CABOT-&lt;CBT>-CALLS-NOT   03-27 0102</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CABOT &lt;CBT> CALLS NOTES FOR REDEMPTION</TITLE>
+<DATELINE>    WALTHAM, Mass., March 27 - </DATELINE><BODY>Cabot Corp said it called for
+redemption its outstanding 12-1/4 pct notes due November 1,
+1994 and 10-3/4 pct notes due September 1, 1995, aggregating 89
+mln dlrs at face amount.
+    It said the redemption is part of a restructuring in which
+it has said it would divest itself of certain discontinued
+businesses, repurchase shares and reduce long-term debt.
+    The 12-1/4 pct notes will be redeemed at 108.47 pct plus
+interest from November 1, 1986. The 10-3/4 pct notes will be
+redeemed at 108.96 pct plus accrued interest from March 1,
+1987.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7752" NEWID="18307">
+<DATE> 2-JUN-1987 16:55:06.57</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F
+&#22;&#22;&#1;f2691&#31;reute
+r f BC-ATLAS-YELLOWKNIFE-&lt;AY   06-02 0041</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ATLAS YELLOWKNIFE &lt;AY.TO> SIX MTHS LOSS</TITLE>
+<DATELINE>    CALGARY, Alberta, June 2 - </DATELINE><BODY>Period ended March 31
+    Shr loss nil vs profit one ct
+    Net loss 36,000 vs profit 310,000
+    Revs 1,172,000 vs 1,686,000
+    Note: Full name Atlas Yellowknife Resources Ltd.
+ Reuter
+&#3;</BODY></TEXT>

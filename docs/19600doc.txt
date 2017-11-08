@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7928" NEWID="19600">
+<DATE>29-JUN-1987 09:36:12.66</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G T 
+&#22;&#22;&#1;f0915&#31;reute
+u f BC-EC-LEADERS-BEGIN-BRUS   06-29 0078</UNKNOWN>
+<TEXT>&#2;
+<TITLE>EC LEADERS BEGIN BRUSSELS SUMMIT</TITLE>
+<DATELINE>    BRUSSELS, June 29 - </DATELINE><BODY>Leaders of the European Community (EC)
+began their two-day summit, with reform of the group's creaking
+finances heading the agenda, officials said.
+    The 12 government leaders were joined by French President
+Mitterrand and their foreign ministers.
+    The twice-yearly meeting will also examine some world
+issues, especially the Middle East, but diplomats said the
+group's cash crisis would dominate the talks.
+ Reuter
+&#3;</BODY></TEXT>

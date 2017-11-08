@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1116" NEWID="16581">
+<DATE>13-APR-1987 14:34:27.43</DATE>
+<TOPICS><D>gas</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F Y
+&#22;&#22;&#1;f2208&#31;reute
+r f BC-EXXON-&lt;XON>-EXTENDS-M   04-13 0091</UNKNOWN>
+<TEXT>&#2;
+<TITLE>EXXON &lt;XON> EXTENDS MID-GRADE UNLEADED MARKETING</TITLE>
+<DATELINE>    HOUSTON, April 13 - </DATELINE><BODY>Exxon Co U.S.A. said it is expanding
+marketing of its mid-grade unleaded gasoline along the U.S.
+East Coast.
+    The Exxon Corp subsidiary said the changeover to the
+89-octane unleaded fuel will begin late this month and early
+next in major markets in Virginia, Maryland, Florida, and the
+District of Columbia. The product was introduced in New York,
+New Jersey, Delaware, Connecticut, Rhode Island, Massachusetts,
+New Hampshire and the Philadelphia area late last year.
+   
+ Reuter
+&#3;</BODY></TEXT>

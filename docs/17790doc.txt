@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6128" NEWID="17790">
+<DATE> 1-JUN-1987 16:21:18.83</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F C
+&#22;&#22;&#1;f2394&#31;reute
+r f BC-RALSTON-PURINA-&lt;RAL>   06-01 0070</UNKNOWN>
+<TEXT>&#2;
+<TITLE>RALSTON PURINA &lt;RAL> FORMS BRANDED FOODS GROUP</TITLE>
+<DATELINE>    ST. LOUIS, MO., June 1 - </DATELINE><BODY>Ralston Purina Co said it formed a
+new branded foods group to align all of its warehouse-delivered
+human foods.
+    W. Patrick McGinnis, formerly executive vice president of
+the company's grocery products division, was named president of
+the new group and will report to W.P. Stiritz, Ralston's
+chairman.
+                                         
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="8518" NEWID="3605">
+<DATE>11-MAR-1987 09:50:13.32</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0103&#31;reute
+r f BC-TENERA-LP-&lt;TLPZV>-SET   03-11 0088</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TENERA LP &lt;TLPZV> SETS INITIAL QUARTERLY</TITLE>
+<DATELINE>    BERKELEY, Calif., March 11 - </DATELINE><BODY>TENERA LP said it will make an
+initial quarterly distribution of 17 cts per unit on April 15
+to holders of record March 31.
+    The partnership said the dividend is greater than it had
+expectd to pay and was warranted by fourth quarter results and
+anticipated results for this year's first quarter.
+    TENERA said it expects a comparable distribution for the
+second quarter.  It said about 13 cts per share of the first
+quarter amount will be taxable income.
+ Reuter
+&#3;</BODY></TEXT>

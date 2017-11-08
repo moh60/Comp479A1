@@ -1,0 +1,20 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17366" NEWID="11304">
+<DATE>31-MAR-1987 09:29:40.88</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>nyse</D><D>amex</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0968&#31;reute
+r f BC-HOME-GROUP-&lt;HME>-STAR   03-31 0036</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HOME GROUP &lt;HME> STARTS TRADING ON NYSE</TITLE>
+<DATELINE>    NEW YORK, March 31 - </DATELINE><BODY>Home Group Inc said its common stock
+starts trading today on the &lt;New York Stock Exchange>.
+    The stock had been traded on the &lt;American Stock Exchange>.
+ Reuter
+&#3;</BODY></TEXT>

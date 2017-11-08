@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6230" NEWID="18478">
+<DATE>18-JUN-1987 03:11:57.56</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>sri-lanka</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2186&#31;reute
+u f BC-MARUBENI-CORP-AWARDED   06-18 0071</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MARUBENI CORP AWARDED SRI LANKAN TELECOM TENDER</TITLE>
+<DATELINE>    COLOMBO, June 18 - </DATELINE><BODY>Marubeni Corp &lt;MART.T> of Japan has been
+picked to undertake a telecommunications project worth 985 mln
+rupees, the Sri Lankan cabinet said in a statement.
+    It said Marubeni was selected from five Japanese
+competitors for the project, which involves laying new
+telecommunications cables in the outskirts of Colombo. Japan is
+financing the project.
+ REUTER
+&#3;</BODY></TEXT>

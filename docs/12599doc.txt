@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="NOT-USED" CGISPLIT="PUBLISHED-TESTSET" OLDID="21456" NEWID="12599">
+<DATE> 2-APR-1987 10:53:51.69</DATE>
+<TOPICS><D>pet-chem</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1321&#31;reute
+d f BC-MORTON-THIOKOL-&lt;TKI>   04-02 0077</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MORTON THIOKOL &lt;TKI> UNIT TO MARKET RESINS</TITLE>
+<DATELINE>    CHICAGO, April 2 - </DATELINE><BODY>Morton Thiokol Inc said its Morton
+Chemical Division entered into an agreement with &lt;Mitsubishi
+Chemical Industries Ltd>, Japan, to market extrudable adhesive
+resins based on Mitsubishi's Novatec AP product line
+technology.
+    It said the resins are used in a broad range of
+applications, including barrier co-extrusion with nylon and
+Ethylene-Vinylalcohol Copolymer for film, sheet and bottles.
+ Reuter
+&#3;</BODY></TEXT>

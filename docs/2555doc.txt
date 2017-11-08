@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18973" NEWID="2555">
+<DATE> 5-MAR-1987 20:45:15.41</DATE>
+<TOPICS><D>cpi</D></TOPICS>
+<PLACES><D>ecuador</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0190&#31;reute
+u f BC-ECUADOR'S-CONSUMER-PR   03-05 0096</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ECUADOR'S CONSUMER PRICES RISE 2.5 PCT IN FEBRUARY</TITLE>
+<DATELINE>    QUITO, March 5 - </DATELINE><BODY>Ecuador's consumer price index rose 2.5
+pct in February to 562.4 (base 1978), the National Statistics
+and Census Institute said.
+    The rise compared to a 1.8 pct rise in January and a 2.5
+pct rise in February 1986.
+    The Institute said accumulated overall inflation for the
+first two months of this year was 4.0 pct compared to 5.0 pct
+for the same period last year.
+    Inflation for the 12 months ending February 1987 was 25.5
+pct compared to 13.0 pct for the 12 months ending February
+1986.
+ REUTER
+&#3;</BODY></TEXT>

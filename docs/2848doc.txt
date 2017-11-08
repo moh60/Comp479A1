@@ -1,0 +1,31 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19266" NEWID="2848">
+<DATE> 6-MAR-1987 15:52:58.26</DATE>
+<TOPICS><D>grain</D><D>corn</D></TOPICS>
+<PLACES><D>usa</D><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G
+&#22;&#22;&#1;f0486&#31;reute
+r f BC-U.S.-FEEDGRAINS-GROUP   03-06 0145</UNKNOWN>
+<TEXT>&#2;
+<TITLE>U.S. FEEDGRAINS GROUP ATTACKS CANADA CORN RULING</TITLE>
+<DATELINE>    WASHINGTON, March 6 - </DATELINE><BODY>The U.S. Feedgrains Council is
+surprised and disappointed by the Canadian Import Tribunal's
+decision that imports of corn from the U.S. are materially
+injuring Canadian corn producers, a council spokesman said.
+    "At a time when the world is attempting to liberalize trade
+in the new rounnd of multilateral negotiations, it is
+incomprehensible that a country that stands to gain so much
+from the reduction in agricultural trade barriers would
+threaten that process by caving in to pressures for
+protectionism," council president Darwin E. Stolte said.
+    Canada's finding will strain the U.S./Canadian trading
+relationship, could damage the future of U.S. feedgrains 
+support for the free trade negotiations, and also negatively
+impact farm trade reform with other nations, the council said.
+ Reuter
+&#3;</BODY></TEXT>

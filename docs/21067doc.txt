@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20370" NEWID="21067">
+<DATE>19-OCT-1987 14:41:28.16</DATE>
+<TOPICS><D>crude</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F Y 
+&#22;&#22;&#1;f2623&#31;reute
+u f BC-SOUTHLAND-&lt;SLC>-UNIT   10-19 0078</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SOUTHLAND &lt;SLC> UNIT RAISES CRUDE OIL PRICES</TITLE>
+<DATELINE>    New York, Oct 19 - </DATELINE><BODY>Citgo Petroleum Corp, a subsidiary of
+Southland Corp, said it raised the contract price it will pay
+for all grades of crude oil by 50 cts a barrel, effective Oct
+16
+    The increase brings Citgo's postings for the West Texas
+Intermediate and West Texas Sour grades to 19.00 dlrs/barrel,
+while Light Louisiana SWeet is now priced at 19.35 dlrs.
+    Citgo last changed it crude oil postings on Sept 9.
+ Reuter
+&#3;</BODY></TEXT>

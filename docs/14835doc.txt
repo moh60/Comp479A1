@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="3818" NEWID="14835">
+<DATE> 8-APR-1987 02:11:57.43</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0081&#31;reute
+f f BC-Japan-four-year-note   04-08 0015</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE>Japan four-year note auction average yield record low 3.714 pct, stop 3.743 -official
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

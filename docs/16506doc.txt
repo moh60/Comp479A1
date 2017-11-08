@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1041" NEWID="16506">
+<DATE>13-APR-1987 13:21:50.24</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1974&#31;reute
+r f BC-FISCHER-WATTS,-HORIZO   04-13 0062</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FISCHER-WATTS, HORIZON GOLD &lt;HRIZ.O> TEST MINE</TITLE>
+<DATELINE>    RENO, Nev., April 13 - </DATELINE><BODY>&lt;Fischer-Watts Gold Co Inc> said it 
+and Horizon Gold Shares Inc have begun sampling their
+jointlyl-held Rich Hill Placer Prospect mine in Yavapai County,
+Arizona.
+    The 60-day sampling program begins today and will consist
+of over 2,000 cubic yards of placer gravels taken from over 40
+sample sites.
+ Reuter
+&#3;</BODY></TEXT>

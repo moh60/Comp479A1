@@ -1,0 +1,20 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="NOT-USED" CGISPLIT="PUBLISHED-TESTSET" OLDID="21550" NEWID="12694">
+<DATE> 2-APR-1987 15:12:06.64</DATE>
+<TOPICS><D>interest</D></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E A
+&#22;&#22;&#1;f2270&#31;reute
+r f BC-BANK-OF-NOVA-SCOTIA-R   04-02 0033</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BANK OF NOVA SCOTIA RAISES U.S. DLR BASE RATE</TITLE>
+<DATELINE>    TORONTO, April 2 - </DATELINE><BODY>&lt;Bank of Nova Scotia> said it raised its
+U.S. dlr base lending rate in Canada to 8-1/4 pct from eight
+pct, effective immediately.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="8378" NEWID="3465">
+<DATE>11-MAR-1987 04:05:28.63</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0301&#31;reute
+f f BC-U.K.-one-billion-stg   03-11 0015</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE> U.K. One billion stg tranche of 8-3/4 pct Treasury bonds due 1997 exhausted - dealers
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

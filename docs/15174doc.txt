@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4157" NEWID="15174">
+<DATE> 8-APR-1987 13:21:44.72</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1932&#31;reute
+d f BC-GUINNESS-PLC-NON-EXEC   04-08 0054</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GUINNESS PLC NON-EXEC CHAIRMAN TO REMAIN</TITLE>
+<DATELINE>    NEW YORK, April 8 - </DATELINE><BODY>Sir Norman Macfarlane, non-executive
+chairman of &lt;Guinness PLC>, has agreed to remain in his post
+for two more years, the company said.
+    The company said its board asked Macfarlane to continue in
+his capacity. Macfarlane has been in his post since January.
+ Reuter
+&#3;</BODY></TEXT>

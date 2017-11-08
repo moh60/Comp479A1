@@ -1,0 +1,20 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="729" NEWID="16194">
+<DATE>13-APR-1987 08:01:31.65</DATE>
+<TOPICS><D>zinc</D></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;M
+&#22;&#22;&#1;f0597&#31;reute
+u f BC-METAL-BULLETIN-ZINC-P   04-13 0034</UNKNOWN>
+<TEXT>&#2;
+<TITLE>METAL BULLETIN ZINC PRODUCER PRICE</TITLE>
+<DATELINE>    LONDON, April 13 - </DATELINE><BODY>The London based trade journal "METAL
+BULLETIN'S" average producer price of good ordinary brand zinc
+for week ended April 10 is 790.00 dlrs per tonne.
+ Reuter
+&#3;</BODY></TEXT>

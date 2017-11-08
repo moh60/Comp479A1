@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5242" NEWID="15887">
+<DATE> 9-APR-1987 15:27:13.07</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>amex</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2289&#31;reute
+r f BC-AMEX-SEAT-SELLS-FOR-R   04-09 0050</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AMEX SEAT SELLS FOR RECORD 380,000 DLRS</TITLE>
+<DATELINE>    NEW YORK, April 9 - </DATELINE><BODY>The American Stock Exchange said a seat
+on the exchange sold for 380,000 dlrs, a record price that is
+5,000 dlrs higher than the previous sale on Feb 17.
+    The current bid is 330,000 dlrs and the offer, 425,000
+dlrs, the exchange said.
+ Reuter
+&#3;</BODY></TEXT>

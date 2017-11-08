@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18355" NEWID="1937">
+<DATE> 5-MAR-1987 05:07:15.78</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>australia</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0501&#31;reute
+u f BC-CSR-LTD-SAYS-IT-WILL   03-05 0088</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CSR LTD SAYS IT WILL SELL HEAD OFFICE BUILDINGS</TITLE>
+<DATELINE>    SYDNEY, March 5 - </DATELINE><BODY>CSR Ltd &lt;CSRA.S> said it will sell its
+head office group of five buildings in central Sydney as part
+of plans to decentralise.
+    The 2,750 square metre site will be repurchased under
+existing lease-back agreements and then sold by public tender,
+it said in a statement.
+    CSR's sugar and oil divisions have already moved to
+Brisbane and the company said it plans further moves from
+central Sydney to reduce its head office staff to about 100
+from 550.
+ REUTER
+&#3;</BODY></TEXT>

@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19750" NEWID="3328">
+<DATE> 9-MAR-1987 15:29:31.23</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0529&#31;reute
+d f BC-BAUSCH/LOMB-&lt;BOL>-MAR   03-09 0087</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BAUSCH/LOMB &lt;BOL> MARKETS CORNEA PRODUCT</TITLE>
+<DATELINE>    ROCHESTER, N.Y., March 9 - </DATELINE><BODY>Bausch and Lomb Inc said it
+began marketing a new product designed to lubricate and protect
+the cornea of the eye for post-surgical and other patients.
+    The company said the product, the Bio-Cor Fyodorov Collagen
+Corneal Shield, will be manufactured and distributed through
+its newly formed surgical products unit located in Clearwater,
+Fla.
+    The corneal shield was approved by the U.S. Food and Drug
+Administration in January, the company said.
+ Reuter
+&#3;</BODY></TEXT>

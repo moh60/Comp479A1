@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="NOT-USED" CGISPLIT="PUBLISHED-TESTSET" OLDID="21505" NEWID="12648">
+<DATE> 2-APR-1987 12:36:05.86</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D><D>sweden</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1762&#31;reute
+d f BC-SWEDEN-OKAYS-CYTRX-&lt;C   04-02 0042</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SWEDEN OKAYS CYTRX &lt;CYTR> BIOPOOL ACQUISITION</TITLE>
+<DATELINE>    ATLANTA, April 2 - </DATELINE><BODY>CytRx Corp said the Swedish authorites
+and the Bank of Sweden approved its acquisition of Biopool AB
+of Sweden through a 60 pct owned Delaware corporate subsidiary,
+CytRx Biopool Ltd.
+ Reuter
+&#3;</BODY></TEXT>

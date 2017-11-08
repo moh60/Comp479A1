@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18288" NEWID="1870">
+<DATE> 4-MAR-1987 18:08:19.57</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D><D>philippines</D><D>argentina</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM A
+&#22;&#22;&#1;f0026&#31;reute
+r f BC-PHILIPPINE,-ARGENTINE   03-04 0112</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PHILIPPINE, ARGENTINE DEBT TALKS CONTINUE</TITLE>
+<DATELINE>    NEW YORK, March 4 - </DATELINE><BODY>The Philippines and its bank advisory
+committee completed a second day of talks on the country's
+request to reschedule 9.4 billion dlrs of debts, bankers said.
+    They declined to disclose details of the negotiations, but
+said it would be unrealistic to expect an outcome until next
+week at the earliest.
+    Talks with Argentina over 2.15 billion dlrs of new loans
+and a multi-year rescheduling also continued in New York, with
+the Citibank-led advisory committee making a counter-proposal
+to Argentina's original offer. Bankers remain hopeful that an
+agreement can be reached by the middle of the month.
+ Reuter
+&#3;</BODY></TEXT>

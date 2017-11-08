@@ -1,0 +1,30 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16541" NEWID="1221">
+<DATE> 3-MAR-1987 13:32:01.13</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0351&#31;reute
+d f BC-COMMONWEALTH-REALTY-&lt;   03-03 0126</UNKNOWN>
+<TEXT>&#2;
+<TITLE>COMMONWEALTH REALTY &lt;CRTYZ> IN REFINANCING DEAL</TITLE>
+<DATELINE>    PRINCETON, N.J., March 3 - </DATELINE><BODY>Commonwealth Realty Trust said
+it has transferred its ownership of six buildings at the Valley
+Forge Executive Mall in Valley Forge, Pa., to an equally-owned
+joint venture with Pennsylvania Public School Employees'
+Retirement System as part of a refinancing.
+    The trust said it received five mln dlrs for its half
+interest in the buildings.
+    It said it also received a 32 to 33 mln dlr eight-year
+9.375 pct mortgage loan on the buildings, with the entire
+principal payable at the end of the term.  After associated
+costs, it said it realized net proceeds of about 20 mln dlrs in
+cash on the transactions, 100 mln dlrs of which it will use to
+repay debt under its credit lines.
+ Reuter
+&#3;</BODY></TEXT>

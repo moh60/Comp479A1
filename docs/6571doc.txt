@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11484" NEWID="6571">
+<DATE>18-MAR-1987 11:44:39.90</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A
+&#22;&#22;&#1;f8387&#31;reute
+d f BC-CHASE-MANHATTAN-&lt;CMB>   03-18 0105</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CHASE MANHATTAN &lt;CMB> OFFERS NEW MARKET ACCOUNT</TITLE>
+<DATELINE>    NEW YORK, March 18 - </DATELINE><BODY>Chase Manhattan Corp said it
+introduced the Market Index Investment, a new deposit account
+that allows investors to take advantage of stock market gains
+without risk of principal loss.
+    Chase said the account offers the option of guaranteed
+interest rate, carries no commissions or fees, and is fully
+insured to 100,000 dlrs by the Federal Deposit Insurance Corp.
+    Interest earned on the Market Index Investment is based on
+any percentage increase in the Standard and Poor's index from
+the day the account begins to the day it matures, Chase said.
+    Customers can select terms of three, six, nine of 12
+months. The minimum deposit is 1,000 dlrs, it added.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10572" NEWID="5659">
+<DATE>16-MAR-1987 15:50:18.80</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f3510&#31;reute
+r f BC-MCGRAW-HILL-&lt;MHP>-BUY   03-16 0078</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MCGRAW HILL &lt;MHP> BUYS HARPER/ROW &lt;HPR> UNIT</TITLE>
+<DATELINE>    NEW YORK, March 16 - </DATELINE><BODY>McGraw-Hill Inc said it bought
+&lt;Medecines et Sciences Internationales SA>, a French Healthcare
+publisher, from Harper and Row Publishers Inc.
+    The sum of the deal was not disclosed.
+    It said the French company publishes original titles by
+French authors, as well as translations of American, British
+and German Medical books. The company will be consolidated with
+McGraw-Hill France, it said.
+ Reuter
+&#3;</BODY></TEXT>

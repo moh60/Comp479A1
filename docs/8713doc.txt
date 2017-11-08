@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14234" NEWID="8713">
+<DATE>24-MAR-1987 09:01:36.91</DATE>
+<TOPICS><D>potato</D></TOPICS>
+<PLACES><D>ireland</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;G
+&#22;&#22;&#1;f0816&#31;reute
+d f BC-IRELAND-PUT-ON-COLORA   03-24 0089</UNKNOWN>
+<TEXT>&#2;
+<TITLE>IRELAND PUT ON COLORADO BEETLE ALERT</TITLE>
+<DATELINE>    DUBLIN, March 24 - </DATELINE><BODY>The Irish Agriculture Department issued
+a Colorado beetle alert today after three of the beetles were
+found in a box of parsley imported from France.
+    Officials said a colony of the black and amber coloured
+beetles can destroy a potato field in a day. The females lay up
+to 2,500 eggs each.
+    Some of the 80 boxes in the parsley consignment had already
+been distributed to markets and the department called on all
+shopkeepers and the catering trade to be on the alert.
+ Reuter
+&#3;</BODY></TEXT>

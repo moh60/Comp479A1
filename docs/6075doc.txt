@@ -1,0 +1,35 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10988" NEWID="6075">
+<DATE>17-MAR-1987 12:10:01.38</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>belgium</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f5623&#31;reute
+d f BC-GENSTAR-SALE-BOOSTS-B   03-17 0096</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GENSTAR SALE BOOSTS BELGIAN SOCIETE GENERALE NET</TITLE>
+<DATELINE>    BRUSSELS, March 17 - </DATELINE><BODY>Societe Generale de Belgique &lt;BELB.BR>
+said the near doubling of net profits in 1986 was due in large
+part to the sale of shares in Genstar Corp.
+    The company, which announced a net non-consolidated profit
+of 5.31 billion francs compared with 2.82 billion in 1985, said
+its current profits rose by 19 pct last year, without giving
+further figures.
+    However, it added in a statement that the company made
+major capital gains on sales during the year, in particular
+from the sale of Genstar shares.
+    Societe Generale governor Rene Lamy told last November's
+annual meeting that 1986 asset disposals would total around 4.5
+billion francs, including the sale of Genstar shares to Imasco
+Limited &lt;IMS.TO>.
+    He predicted a profit on extraordinary items of two billion
+francs after a rough balance in 1985.
+    In today's statement, Societe Generale gave no figures for
+extraordinary gains.
+ Reuter
+&#3;</BODY></TEXT>

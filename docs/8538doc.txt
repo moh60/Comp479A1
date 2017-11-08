@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14059" NEWID="8538">
+<DATE>23-MAR-1987 17:13:34.98</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2503&#31;reute
+d f BC-BANCTEXAS-&lt;BTX>-GETS   03-23 0104</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BANCTEXAS &lt;BTX> GETS CONSOLIDATION APPROVAL</TITLE>
+<DATELINE>    DALLAS, March 23 - </DATELINE><BODY>BancTexas Group Inc said it received
+approval from the Comptroller of the Currency to consolidate
+its four banks in Harris County into one bank, which will be
+named BancTexas Houston NA.
+   The company also said it filed an appliction with the
+Comptroller of the Currency for permission to consolidate its
+five banks located in Dallas County into one bank under the
+name BancTexas Dallas NA.
+    In addition, the company said it filed a registration
+statement with the Securities and Exchange Commission relating
+to its previously announced restructuring plan.
+ Reuter
+&#3;</BODY></TEXT>

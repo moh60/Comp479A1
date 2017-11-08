@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="19930" NEWID="21506">
+<DATE>19-OCT-1987 07:31:26.17</DATE>
+<TOPICS><D>crude</D><D>ship</D></TOPICS>
+<PLACES><D>kuwait</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;Y 
+&#22;&#22;&#1;f0601&#31;reute
+u f BC-KUWAITI-OIL-EXPORTS-S   10-19 0104</UNKNOWN>
+<TEXT>&#2;
+<TITLE>KUWAITI OIL EXPORTS SAID NOT AFFECTED BY GULF WAR</TITLE>
+<DATELINE>    KUWAIT, Oct 19 - </DATELINE><BODY>Kuwait's oil exports have not been
+affected by the seven-year Iran-Iraq war, Kuwait Oil Tanker
+Company (KOTC) Chairman and Managing Director Abdul Fattah
+al-Bader told a Kuwaiti newspaper.
+    "Kuwait has exploited all available opportunities to
+continue exporting its oil without any reduction," the Al-Anbaa
+newspaper quoted him as saying.
+    He said KOTC made profits of more than two mln dinars
+(seven mln dlrs) in the fiscal year ending last June, but
+predicted lower profits this year due to higher costs for
+chartering and operating vessels.
+ REUTER
+&#3;</BODY></TEXT>

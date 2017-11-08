@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="8564" NEWID="3652">
+<DATE>11-MAR-1987 10:41:54.22</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0334&#31;reute
+d f BC-&lt;PACER-SYSTEMS>-TO-MA   03-11 0050</UNKNOWN>
+<TEXT>&#2;
+<TITLE>&lt;PACER SYSTEMS> TO MAKE ACQUISITION</TITLE>
+<DATELINE>    BILLERICA, Mass., March 11 - </DATELINE><BODY>Pacer Systems said it has
+agreed in principle to acquire the assets of Sea Data Corp, a
+maker of low-powered electronic systems including undersea
+intelligent recording sensors and high-density digital data
+recorders, for one mln dlrs.
+ Reuter
+&#3;</BODY></TEXT>

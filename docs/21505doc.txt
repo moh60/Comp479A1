@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="19931" NEWID="21505">
+<DATE>19-OCT-1987 07:37:01.78</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>pse</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f0617&#31;reute
+f f BC-French-main-session-b   10-19 0014</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE> French main session bourse opening delayed 15 minutes by order volume - dealers
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

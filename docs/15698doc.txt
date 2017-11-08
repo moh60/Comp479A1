@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4875" NEWID="15698">
+<DATE> 9-APR-1987 12:15:02.29</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1589&#31;reute
+r f BC-JP-INDUSTRIES-&lt;JPI>-C   04-09 0100</UNKNOWN>
+<TEXT>&#2;
+<TITLE>JP INDUSTRIES &lt;JPI> CONFIRMS PROPOSAL</TITLE>
+<DATELINE>    NEW YORK, April 9 - </DATELINE><BODY>JP Industries Inc confirmed the
+announcement by Clevite Industries Inc &lt;CLEV> that JP
+Industries has submitted a proposal to Clevite for the
+acquisition of the company at 13.50 dlrs per share in cash.
+    John Psarouthakis, chairman and president of JP Industries,
+said that the company hopes to promptly negotiate an agreement
+with the special committee of Clevite's board.
+    In February, JP Industries said it purchased Clevite's
+engine parts division.
+    JP Industries said it is not aware of any other reason for
+activity in its stock.
+ Reuter
+&#3;</BODY></TEXT>

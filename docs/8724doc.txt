@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14245" NEWID="8724">
+<DATE>24-MAR-1987 09:22:07.21</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F
+&#22;&#22;&#1;f0875&#31;reute
+r f BC-campbell-red-lake-div   03-24 0028</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CAMPBELL RED LAKE &lt;CRK> SETS QUARTERLY DIVIDEND</TITLE>
+<DATELINE>    TORONTO, March 24 -
+    </DATELINE><BODY>Qtly div 10 cts vs 10 cts prior
+    Pay May 25
+    Record April 20
+    Note: Canadian funds
+ Reuter
+&#3;</BODY></TEXT>

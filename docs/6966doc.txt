@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11879" NEWID="6966">
+<DATE>19-MAR-1987 03:46:12.54</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0150&#31;reute
+b f BC-BRITISH-LAND-CONVERTI   03-19 0075</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BRITISH LAND CONVERTIBLE BOND RAISED TO 33 MLN STG</TITLE>
+<DATELINE>    LONDON, March 19 - </DATELINE><BODY>British Land Co Plc &lt;BLND.L> convertible
+eurobond issued yesterday has been raised to a total of 33 mln
+stg from the 30 mln originally indicated, lead manager Credit
+Suisse First Boston Ltd said.
+    The coupon has been fixed at 7.50 pct and the conversion
+price at 248 pence to give a 27.84 pct premium over last
+night's share price close on the London stock exchange.
+ REUTER
+&#3;</BODY></TEXT>

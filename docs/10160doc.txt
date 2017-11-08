@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15681" NEWID="10160">
+<DATE>26-MAR-1987 16:19:25.82</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2550&#31;reute
+d f BC-BANCTEC-&lt;BTEC>-GETS-L   03-26 0055</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BANCTEC &lt;BTEC> GETS LARGEST ORDER EVER</TITLE>
+<DATELINE>    DALLAS, March 26 - </DATELINE><BODY>BancTec Inc said it received an order
+for image processing equipment valued at six mln dlrs, its
+largest order ever.
+    BancTec said the order, expected to be shipped during the
+current fiscal year, was placed by a major international
+company, which it did not name.
+ Reuter
+&#3;</BODY></TEXT>

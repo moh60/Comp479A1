@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1256" NEWID="16721">
+<DATE>13-APR-1987 17:49:25.40</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2754&#31;reute
+d f BC-GENETIC-LABORATORIES   04-13 0063</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GENETIC LABORATORIES &lt;GENL.O> SETS UP UNIT</TITLE>
+<DATELINE>    ST. PAUL, Minn., April 13 - </DATELINE><BODY>Genetic Laboratories Inc said
+it set up a wholly owned subsidiary that will encorporate its
+reconstructive plastic surgery products.
+    Genetic Laboratories said one of the reasons for the move
+was to "facilitate the sale or merger" of the business "with
+other companies specializing in plastic surgery."
+ Reuter
+&#3;</BODY></TEXT>

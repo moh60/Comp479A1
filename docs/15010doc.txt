@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="3993" NEWID="15010">
+<DATE> 8-APR-1987 10:14:36.24</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>tose</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F
+&#22;&#22;&#1;f1071&#31;reute
+u f BC-bache-canada-buys   04-08 0113</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BACHE CANADA BUYS TORONTO STOCK EXCHANGE SEAT</TITLE>
+<DATELINE>    TORONTO, April 8 - </DATELINE><BODY>Bache Securities Inc, 80 pct owned by
+Prudential Bache Securities Inc, said it acquired its third
+Toronto Stock Exchange seat for 301,000 Canadian dlrs.
+    The company said the price was the highest yet paid for an
+exchange seat. A Toronto Stock Exchange spokesman said an
+exchange seat last sold for 195,000 dlrs in March, which was
+acquired by &lt;Toronto Dominion Bank>.
+    Bache Securities said it needed a third exchange seat as
+part of an extensive plan to provide an enhanced level of
+service to clients. The seat will be used to further build its
+professional trading area, the investment dealer said.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="NOT-USED" CGISPLIT="PUBLISHED-TESTSET" OLDID="21518" NEWID="12661">
+<DATE> 2-APR-1987 13:29:20.59</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1947&#31;reute
+r f BC-SUFFIELD-&lt;SPCP>-COMPL   04-02 0040</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SUFFIELD &lt;SPCP> COMPLETES COASTAL &lt;CSBK> BUY</TITLE>
+<DATELINE>    SUFFIELD, Conn., April 2 - </DATELINE><BODY>Suffield Financial Corp said it
+has completed the acquisition of Coastal Bancorp of Portland,
+Maine, in an exchange of 2.05655 Suffield shares for each
+Coastal share.
+ Reuter
+&#3;</BODY></TEXT>

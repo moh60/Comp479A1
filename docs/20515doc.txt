@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="21110" NEWID="20515">
+<DATE>20-OCT-1987 14:08:22.67</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2612&#31;reute
+d f BC-PETROLANE-PARTNERS-L.   10-20 0082</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PETROLANE PARTNERS L.P. &lt;LPG> 3RD QTR LOSS</TITLE>
+<DATELINE>    LONG BEACH, Calif., Oct 20 -
+    </DATELINE><BODY>Shr loss five cts vs profit six cts
+    Net loss 1.2 mln vs profit 1.4 mln
+    Revs 114.9 mln vs 109.3 mln
+    Nine months
+    Shr profit one dlrs vs profit 84 cts
+    Net profit 23.7 mln vs profit 19.9 mln
+    Revs 430.9 mln vs 435.4 mln
+    NOTE: Results are in pro forma form. Partnership became
+public on March 19, 1987. Previous results reported from Texas
+Eastern Corp's &lt;TET> Petrolane Inc domestic division.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="8270" NEWID="19942">
+<DATE>29-JUN-1987 17:23:20.92</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2660&#31;reute
+r f BC-MITSUBISHI-SEMICONDUC   06-29 0107</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MITSUBISHI SEMICONDUCTOR PLANS U.S. EXPANSION</TITLE>
+<DATELINE>    DURHAM, N.C., June 29 - </DATELINE><BODY>Mitsubishi Semiconductor America
+Inc, a subsdiary of &lt;Mitsubishi Electric Corp>, said it plans
+to invest  36 mln dlrs to expand its Durham, N.C. semiconductor
+operation.
+    The company said it will build a building adjacent to the
+company's memory chip assembly plant and test center in N.C.
+The expansion will allow the subsidiary to fabricate the
+silicon wafers used in producing Application Specific
+Integrated Circuits (ASIC) chips, the company said.
+    Construction is expected to begin in July, with operations
+planned to start in early 1988, the company added.
+ Reuter
+&#3;</BODY></TEXT>

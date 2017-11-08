@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17797" NEWID="11735">
+<DATE>31-MAR-1987 17:49:37.06</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2821&#31;reute
+h f BC-SKY-EXPRESS-&lt;SKYX>-PR   03-31 0049</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SKY EXPRESS &lt;SKYX> PRESIDENT PLEADS GUILTY</TITLE>
+<DATELINE>    VALLEY STREAM, N.Y., March 31 - </DATELINE><BODY>Sky Express Inc said its
+president and chief operating officer, John Cerrito Sr, pleaded
+guilty to one charge of evading his personal income taxes in
+1983.
+    The company said a sentencing date has not yet been set.
+ Reuter
+&#3;</BODY></TEXT>

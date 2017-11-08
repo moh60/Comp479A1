@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10602" NEWID="5689">
+<DATE>16-MAR-1987 16:30:15.50</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f3606&#31;reute
+r f BC-HENLEY-&lt;HENG>-TO-ISSU   03-16 0085</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HENLEY &lt;HENG> TO ISSUE SUBSIDIARY'S SHARES</TITLE>
+<DATELINE>    LA JOLLA, Calif., March 16 - </DATELINE><BODY>Henley Group Inc said it plans
+to issue 20 pct of the common stock of its Fisher Scientific
+Group Inc unit to Henley Group shareholders.
+    The company said it intends to issue one share of Fisher
+Scientific for each 16 Henley shares held to shareholders of
+record March 26. The distribution is scheduled for April six,
+the company also said.
+    It said the Fisher shares will trade in the
+over-the-counter market under the symbol FSHG.
+ Reuter
+&#3;</BODY></TEXT>

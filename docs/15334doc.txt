@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4317" NEWID="15334">
+<DATE> 8-APR-1987 17:03:59.70</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2609&#31;reute
+h f BC-SUMMA-&lt;SUMA>-TO-FILE   04-08 0052</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SUMMA &lt;SUMA> TO FILE FOR FINANCING COMMITMENT</TITLE>
+<DATELINE>    ALBUQUERQUE, N.M., April 8 - </DATELINE><BODY>Summa Medical Corp said it
+intends to file a prospectus with the Securities and Exchange
+Commission outling a commitment for a six mln dlr financing,
+signed yesterday.
+    Summa said it expects the filing to take place before April
+24.
+ Reuter
+&#3;</BODY></TEXT>

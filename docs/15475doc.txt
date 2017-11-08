@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4653" NEWID="15475">
+<DATE> 9-APR-1987 08:40:53.37</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0700&#31;reute
+r f BC-XICOR-&lt;XICO>-SEES-END   04-09 0077</UNKNOWN>
+<TEXT>&#2;
+<TITLE>XICOR &lt;XICO> SEES END OF INTEL &lt;INTC> PROGRAM</TITLE>
+<DATELINE>    MILPITAS, Calif., April 9 - </DATELINE><BODY>Xicor Inc said based on recent
+talks with Intel Corp, it expects its joint research program
+with Intel on the development of advanced memory devices to be
+ending shortly.
+    The company said it will reallocate personnel presently
+assigned to the program to its one megabit CMOS E2 PROM program
+and other development programs.
+    Reasons for the end of the Intel venture were not given.
+ Reuter
+&#3;</BODY></TEXT>

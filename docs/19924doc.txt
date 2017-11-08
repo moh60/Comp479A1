@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="8252" NEWID="19924">
+<DATE>29-JUN-1987 16:59:10.13</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2582&#31;reute
+d f BC-BALLY-&lt;BLY>-TO-REDEEM   06-29 0061</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BALLY &lt;BLY> TO REDEEM PREFERRED SHARES</TITLE>
+<DATELINE>    CHICAGO, June 29 - </DATELINE><BODY>Bally Manufacturing Corp said it called
+for optional redemption of its outstanding Series E increasing
+dividend preferred stock on August 1 at 50 dlrs a share.
+    The redemption price will be payable on August 1.
+    The regular quarterly dividend of 1.50 dlrs a share will be
+paid August 1, record July 15.
+ Reuter
+&#3;</BODY></TEXT>

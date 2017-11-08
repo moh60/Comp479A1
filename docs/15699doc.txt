@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4876" NEWID="15699">
+<DATE> 9-APR-1987 12:15:25.50</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1592&#31;reute
+r f BC-&lt;SCI-HOLDINGS-INC>-DI   04-09 0097</UNKNOWN>
+<TEXT>&#2;
+<TITLE>&lt;SCI HOLDINGS INC> DISCUSSES JOINT VENTURE PACT</TITLE>
+<DATELINE>    MIAMI, April 9 - </DATELINE><BODY>SCI Holdings Inc and its unit Storer
+Communications Inc said they are negotiating with &lt;The Gillet
+Group> to create a new entity, jointly owned by SCI and Gillet,
+to own and operate six of Storer's television stations, Storer
+Television sales and Storer's Washington News Bureau.
+    SCI said the six stations involved include WAGA-TV,
+Atlanta, WJW-TV, Cleveland, WJBK-TV, Detroit, and WITI-TV,
+Milwaukee, all CBS Inc &lt;CBS> affiliates, NBC affiliate KCST-TV,
+San Diego and WSBK-TV, Boston, an independent station.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7142" NEWID="19306">
+<DATE>19-JUN-1987 13:37:31.03</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1844&#31;reute
+r f BC-CHYRON-&lt;CHY>-GETS-10   06-19 0066</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CHYRON &lt;CHY> GETS 10 MLN DLR CREDIT</TITLE>
+<DATELINE>     MELVILLE, N.Y., June 19 - </DATELINE><BODY>Chyron Corp said it has entered
+into a long term 10 mln dlr revolving credit agreement with
+European American Bank.
+    It said the agreement will allow it to convert 10 mln dlrs
+of short-term debt to long-term debt. The agreement is for a
+period of three years, with an option to extend payments for
+another four years, it said.
+ Reuter
+&#3;</BODY></TEXT>

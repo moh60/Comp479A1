@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14824" NEWID="9303">
+<DATE>25-MAR-1987 09:57:29.92</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0973&#31;reute
+r f BC-VICORP-&lt;VRES>-ENDS-SA   03-25 0079</UNKNOWN>
+<TEXT>&#2;
+<TITLE>VICORP &lt;VRES> ENDS SALE/LEASEBACK DEAL</TITLE>
+<DATELINE>    DENVER, March 25 - </DATELINE><BODY>VICORP Restaurants Inc said by mutual
+agreement with United Trust Fund it has terminated the sale and
+leaseback of 29 Bakers Square restaurant properties.
+    The company completed a sale/leaseback of 31 Baker Street's
+with United Trust in December, raising 26.5 mln dlrs. VICORP
+said it does not feel it necessary to proceed with the
+remainder of the sale/leasebacks due to improvement in its
+financial condition.
+ Reuter
+&#3;</BODY></TEXT>

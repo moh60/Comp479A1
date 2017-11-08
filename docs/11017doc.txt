@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17078" NEWID="11017">
+<DATE>30-MAR-1987 14:42:08.80</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2265&#31;reute
+d f BC-QUARTZ-ENGINEERING-&lt;Q   03-30 0046</UNKNOWN>
+<TEXT>&#2;
+<TITLE>QUARTZ ENGINEERING &lt;QRTZ> GETS SIEMENS ORDER</TITLE>
+<DATELINE>    TEMPE, Ariz., March 30 - </DATELINE><BODY>Quartz Engineering and Materials
+Inc said it has received a 500,000 dlr order from &lt;Siemens AG>
+of West Germany for its ATMOSCAN automated environmentally
+controlled semiconductor wafer processing system.
+ Reuter
+&#3;</BODY></TEXT>

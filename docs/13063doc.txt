@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="2032" NEWID="13063">
+<DATE> 3-APR-1987 14:15:22.63</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1940&#31;reute
+d f BC-HYUNDAI-HAS-HIGHER-MA   04-03 0072</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HYUNDAI HAS HIGHER MARCH DOMESTIC CAR SALES</TITLE>
+<DATELINE>    GARDEN Grove, Calif., April 3 - </DATELINE><BODY>Hyundai Motor America, a
+unit of Hyundai Motor Co of South Korea, said domestic car
+sales during the month of March rose to 19,502 compared witrh
+10,432 during March last year.
+    Year-to-date car sales rose to 56,164 from 11,020 during
+the same period last year, the company said.
+    Hyundai began selling cars in the United States last
+February 20.
+ Reuter
+&#3;</BODY></TEXT>

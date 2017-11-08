@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17511" NEWID="11450">
+<DATE>31-MAR-1987 12:08:45.83</DATE>
+<TOPICS><D>money-fx</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE><D>james-baker</D></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A RM
+&#22;&#22;&#1;f1707&#31;reute
+u f BC-TREASURY'S-BAKER-PURS   03-31 0090</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TREASURY'S BAKER PURSUING S. ASIAN REVALUATIONS</TITLE>
+<DATELINE>    WASHINGTON, March 31 - </DATELINE><BODY>Treasury Secretary James Baker told
+the House Appropriations Committee the United States is still
+pressing newly industrialized south Asian nations that have
+tied their currencies to the dollar to let those currencies
+strengthen against the dollar.
+    "We have seen some strengthening of those currencies (but)
+not as much as we would like," he said.
+    "We have been somewhat disappointed in the results so far,
+but we intend to continue these discussions," he said.
+ Reuter
+&#3;</BODY></TEXT>

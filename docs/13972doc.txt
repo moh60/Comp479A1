@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="BYPASS" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="2955" NEWID="13972">
+<DATE> 7-APR-1987 10:49:16.10</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;L C
+&#22;&#22;&#1;f1091&#31;reute
+u f BC-IA-SO-MINN-DIRECT-HOG   04-07 0081</UNKNOWN>
+<TEXT>&#2;
+<TITLE>IA SO-MINN DIRECT HOGS UP 0.50/1.00 DLR - USDA</TITLE>
+<DATELINE>    des moines, april 7 - </DATELINE><BODY>barrow and gilt prices were mostly
+0.50 dlr higher, instances up 1.00 dlr than monday's
+midsession, the usda said. Top 52.00 dlrs per cwt.
+    us 1-3 210-250 lbs 49.50-50.50, few 49.00-51.00 at country
+points.
+    us 1-3 210-250 lbs 50.00-51.50, few 52.00 at packing
+plants.
+    sows - firm/up 1.00 dlr. top 45.00 dlrs.
+    us 1-3 300-650 lbs 40.00-44.00 at country.
+    us 1-3 300-650 lbs 41.00-45.00 at plants.
+ Reuter
+&#3;</BODY></TEXT>

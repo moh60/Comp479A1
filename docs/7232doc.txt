@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12144" NEWID="7232">
+<DATE>19-MAR-1987 12:23:57.58</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1585&#31;reute
+h f BC-MCI-&lt;MCI>-FILES-CREDI   03-19 0061</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MCI &lt;MCI> FILES CREDIT CARD FRAUD SUIT</TITLE>
+<DATELINE>    CHARLOTTE, N.C., March 19 - </DATELINE><BODY>MCI Telecommunications Corp
+said it filed suit against 27 Johnson C. Smith University
+students in Mecklenburg County General Court to recover damages
+from credit card fraud in excess of 600,000 dlrs.
+    The suit is based on the use of two credit card codes for
+long distance services, it said.
+ Reuter
+&#3;</BODY></TEXT>

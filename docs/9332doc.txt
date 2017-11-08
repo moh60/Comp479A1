@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14853" NEWID="9332">
+<DATE>25-MAR-1987 10:37:20.33</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1139&#31;reute
+d f BC-STOCKHOLDER-SYSTEMS-&lt;   03-25 0065</UNKNOWN>
+<TEXT>&#2;
+<TITLE>STOCKHOLDER SYSTEMS &lt;SSIAA> MAKES ACQUISITION</TITLE>
+<DATELINE>    ATLANTA, March 25 - </DATELINE><BODY>Stockholder Systems Inc said it has
+agreed in principle to acquire privately-held Software Concepts
+Inc, which provides software for check processing, mortgage
+application processing and safe deposit box accounting, for
+undisclosed terms.
+    Software Concepts had revenues of about 3,200,000 dlrs for
+the year ended June 30.
+ Reuter
+&#3;</BODY></TEXT>

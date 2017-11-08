@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1197" NEWID="16662">
+<DATE>13-APR-1987 16:19:09.95</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2523&#31;reute
+d f BC-rhnb-corp   04-13 0035</UNKNOWN>
+<TEXT>&#2;
+<TITLE>RHNB CORP &lt;RHNB> 1ST QTR NET</TITLE>
+<DATELINE>    ROCK HILL, S.C., April 13 -
+    </DATELINE><BODY>Shr 61 cts vs 55 cts
+    Net 695,252 vs 633,329
+    Loans 125.2 mln vs 89.9 mln
+    Deposits 209.2 mln vs 172.9 mln
+    Assets 245.5 mln vs 207.5 mln
+ Reuter
+&#3;</BODY></TEXT>

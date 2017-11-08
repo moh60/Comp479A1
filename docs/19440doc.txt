@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7276" NEWID="19440">
+<DATE>19-JUN-1987 16:48:59.67</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2402&#31;reute
+h f BC-DWI-CORP-&lt;DWIC.O>-3RD   06-19 0048</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DWI CORP &lt;DWIC.O> 3RD QTR MARCH 31 NET</TITLE>
+<DATELINE>    MISSION VIEJO, Calif., June 19 -
+    </DATELINE><BODY>Shr profit nil vs loss two cts
+    Net profit 39,617 vs loss 200,740
+    Revs 619,076 vs 491,085
+    Nine Mths
+    Shr loss nil vs loss five cts
+    Net loss 68,293 vs loss 434,087
+    Revs 1,614,960 vs 1,791,148
+ Reuter
+&#3;</BODY></TEXT>

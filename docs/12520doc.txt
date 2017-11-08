@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="1596" NEWID="12520">
+<DATE> 2-APR-1987 09:19:50.61</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0912&#31;reute
+r f BC-SHELDAHL-INC-&lt;SHEL>-2   04-02 0047</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SHELDAHL INC &lt;SHEL> 2ND QTR FEB 28 NET</TITLE>
+<DATELINE>    MINNEAPOLIS, April 2 -
+    </DATELINE><BODY>Shr 24 cts vs four cts
+    Net 663,000 vs 109,000
+    Sales 20.5 mln vs 13.9 mln
+    Six mths
+    Shr 48 cts vs nine cts
+    Net 1,311,000 vs 255,000
+    Sales 43.2 mln vs 30.0 mln
+    Avg shrs 2,719,205 vs 2,804,048
+ Reuter
+&#3;</BODY></TEXT>

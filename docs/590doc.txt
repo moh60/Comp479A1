@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12773" NEWID="590">
+<DATE> 2-MAR-1987 12:59:20.22</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0403&#31;reute
+d f BC-COMBUSTION-ENGINEERIN   03-02 0069</UNKNOWN>
+<TEXT>&#2;
+<TITLE>COMBUSTION ENGINEERING &lt;CSP> SETS CHINA PACT</TITLE>
+<DATELINE>    STAMFORD, Conn., March 2 - </DATELINE><BODY>Combustion Engineering Inc said
+it won a contract worth more than 50 mln dlrs for parts and
+services for a 600 megawatt coal-fired power plant run by the
+China National Technical Import Corp.
+    It said it will supply plant engineering, steam generator
+components and air quality control systems. Initial delivery is
+set for early 1988.
+ Reuter
+&#3;</BODY></TEXT>

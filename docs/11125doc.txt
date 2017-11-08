@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17186" NEWID="11125">
+<DATE>30-MAR-1987 18:06:46.57</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2726&#31;reute
+u f BC-INVESTORS-FILE-PROXY   03-30 0058</UNKNOWN>
+<TEXT>&#2;
+<TITLE>INVESTORS FILE PROXY FOR NEW HBO &lt;HBOC> BOARD</TITLE>
+<DATELINE>    GREAT FALLS, Va., March 30 - </DATELINE><BODY>Andover Group said it filed
+preliminary proxy materials with the Securities and Exchange
+Commission to elect a slate of directors to HBO and Co's board
+at its April 30 annual meeting.
+    Andover Group said it owns seven pct of HBO, a hospital
+information systems company.
+&#3;</BODY></TEXT>

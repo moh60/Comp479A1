@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="BYPASS" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="3776" NEWID="14793">
+<DATE> 7-APR-1987 22:08:11.07</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM C M
+&#22;&#22;&#1;f2738&#31;reute
+u f BC-GOLD-OPENS-FIRMER-IN   04-07 0092</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GOLD OPENS FIRMER IN HONG KONG</TITLE>
+<DATELINE>    HONG KONG, April 8 - </DATELINE><BODY>Gold opened firmer in fairly active
+trading on continued buying interest and light short covering
+following the sharp rise in New York, dealers said.
+    They said gold drew its strength from the buoyant silver
+market which has been underpinned by speculative purchases.
+    The metal opened at 422.80/423.20 U.S. Dlrs an ounce
+against New York's 422.25/423.25 close and the 420.00/50 finish
+here yesterday.
+    On the local market gold opened 26 H.K. Dlrs higher at
+3,930 H.K. Dlrs a tael.
+ REUTER
+&#3;</BODY></TEXT>

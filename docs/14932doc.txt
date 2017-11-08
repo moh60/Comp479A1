@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="3915" NEWID="14932">
+<DATE> 8-APR-1987 08:17:38.91</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0683&#31;reute
+r f BC-CINCINNATI-BELL-&lt;CSN>   04-08 0090</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CINCINNATI BELL &lt;CSN> STARTS AUXTON &lt;AUXT> BID</TITLE>
+<DATELINE>    NEW YORK, April 8 - </DATELINE><BODY>Cincinnati Bell Inc said it has started
+its previously-announced 15.75 dlr per share tender offer for
+all shares of Auxton Computer Enterprises Inc.
+    In a newspaper advertisement, the company said the tender
+and withdrawal rights will expire May Five unless extended. The
+offer, which has been approved by the Auxton board and is to be
+followed by a merger at the same price, is conditioned on
+receipt of a majority of Auxton's voting stock on a fully
+diluted basis.
+ Reuter
+&#3;</BODY></TEXT>

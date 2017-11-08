@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10330" NEWID="5417">
+<DATE>16-MAR-1987 11:26:14.66</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2480&#31;reute
+u f BC-DIVERSIFIED-INDUSTRIE   03-16 0069</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DIVERSIFIED INDUSTRIES &lt;DEI> 1ST QTR OPER NET</TITLE>
+<DATELINE>    ST. LOUIS, March 16 - </DATELINE><BODY>Period ended Jan 31
+    Oper shr two cts vs eight cts
+    Oper net 96,000 vs 449,000
+    Sales 37.6 mln vs 35.8 mln
+    Avg shrs 5,317,900 vs 5,689,277
+    NOTE: Full name is Diversified Industries Inc
+    Earnings exclude gains from utilization of tax loss
+carryforwards of 62,000 dlrs, or one ct a share vs 358,000
+dlrs, or six cts a share
+ Reuter
+&#3;</BODY></TEXT>

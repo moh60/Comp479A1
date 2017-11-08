@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="515" NEWID="12287">
+<DATE> 1-APR-1987 16:06:36.36</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2383&#31;reute
+r f BC-LOCKHEED-&lt;LK>-GETS-16   04-01 0041</UNKNOWN>
+<TEXT>&#2;
+<TITLE>LOCKHEED &lt;LK> GETS 165.7 MLN DLRS IN CONTRACTS</TITLE>
+<DATELINE>    WASHINGTON, April 1 - </DATELINE><BODY>Lockheed Corp has been awarded 165.7
+mln dlrs in military contracts, including a 102.4 mln dlr
+contract for eight C-130 aircraft for the Air Force Reserve,
+the Air Force said.
+ reuter
+&#3;</BODY></TEXT>

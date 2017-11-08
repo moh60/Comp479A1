@@ -1,0 +1,45 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="NOT-USED" CGISPLIT="PUBLISHED-TESTSET" OLDID="22094" NEWID="13235">
+<DATE> 4-APR-1987 06:12:50.70</DATE>
+<TOPICS><D>acq</D><D>ship</D></TOPICS>
+<PLACES><D>south-korea</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0039&#31;reute
+r f BC-S.-KOREA-ORDERS-MERGE   04-04 0086</UNKNOWN>
+<TEXT>&#2;
+<TITLE>S. KOREA ORDERS MERGERS OF TROUBLED COMPANIES</TITLE>
+<DATELINE>    SEOUL, April 4 - </DATELINE><BODY>South Korea ordered the takeover of six
+financially troubled overseas construction firms and two
+shipping companies under the government's industrial
+realignment programme, Finance Ministry officials said.
+    They said the Industrial Policy Deliberation Committee
+decided to allow concessionary loans to three firms taking over
+the eight. The companies involved would be exempted from
+corporate tax and property transfer and registration taxes.
+    Under the programme, five subsidaries of &lt;Chung Woo
+Development Co Ltd> will be taken over by &lt;Byuck San Corp>,
+&lt;Korea Develpoment Corp> by &lt;Daelim Industrial Co Ltd>, and two
+subsidaries of &lt;Korea Shipping Corp> by the &lt;Hanjin Group>.
+    Another five construction companies were ordered to improve
+their financial status by reorganising their subsidiaries or
+selling off unproductive real estate holdings to help repay
+bank loans, the officials said.
+    These are &lt;Pacific Construction Co Ltd>, &lt;Life Construction
+Co Ltd>, &lt;Chin Heung International Co Ltd>, &lt;Samick Co Ltd> and
+&lt;Hanshin Construction Co Ltd>.
+    A further five shipping companies -- &lt;Hanjin Container Line
+Ltd>, &lt;Choyang Shipping Co Ltd>, &lt;Hyundai Merchant Marine Co
+Ltd>, &lt;Pan Ocean Shipping Co> and &lt;Dooyang Line Co Ltd> -- will
+be allowed to defer the repayment of bank loans and interest,
+but details have yet to be finalised, the officials said.
+    They said the government would take similar measures for
+more companies in August in line with the continuing
+realignment policy, which had already affected 56 firms last
+year.
+ REUTER
+&#3;</BODY></TEXT>

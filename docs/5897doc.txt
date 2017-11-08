@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10810" NEWID="5897">
+<DATE>17-MAR-1987 09:08:37.72</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>nyse</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f4840&#31;reute
+r f BC-TANDEM-&lt;TNDM>-APPLIES   03-17 0042</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TANDEM &lt;TNDM> APPLIES FOR NYSE LISTING</TITLE>
+<DATELINE>    CUPERTINO, Calif., March 17 - </DATELINE><BODY>Tandem Computers Inc said it
+has applied for a New York Stock Exchange listing and expects
+to start trading there by mid-April.
+    Tandem's stock is now traded on the NASDAQ system.
+ Reuter
+&#3;</BODY></TEXT>

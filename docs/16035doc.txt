@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5074" NEWID="16035">
+<DATE> 9-APR-1987 18:05:37.57</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2804&#31;reute
+d f BC-AUDEC-IN-PRIVATE-PLAC   04-09 0057</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AUDEC IN PRIVATE PLACEMENT OF STOCK, WARRANTS</TITLE>
+<DATELINE>    SADDLEBROOK, N.J., April 9 - </DATELINE><BODY>&lt;Audec Corp> said it sold
+privately 24 units, each consisting of 40,000 common shares and
+40,000 redeemable common share purchase warrants, for a total
+of 480,000 dlrs.
+    Audec said the sale was part of its plan to place a total
+of 28 units at 20,000 dlrs each.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="8242" NEWID="19914">
+<DATE>29-JUN-1987 16:39:17.29</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2521&#31;reute
+r f BC-INFINITE-GRAPHICS-&lt;IN   06-29 0073</UNKNOWN>
+<TEXT>&#2;
+<TITLE>INFINITE GRAPHICS &lt;INFG.O> IN JOINT VEENTURE</TITLE>
+<DATELINE>    MINNEAPOLIS, June 29 - </DATELINE><BODY>Infinite Graphics Inc said it signed
+a letter of intent to create a joint venture with &lt;Computer
+Design Equipment Co> to expand sales of its computer-aided
+design equipment in the Midwest.
+    Infinite Graphics said it will manage and hold the
+controlling interest in the venture, National CADD-Pro Upper
+Midwest.
+    Computer Design has headquarters in Syracuse, Ind.
+ Reuter
+&#3;</BODY></TEXT>

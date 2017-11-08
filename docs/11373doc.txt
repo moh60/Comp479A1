@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17435" NEWID="11373">
+<DATE>31-MAR-1987 10:58:21.73</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1385&#31;reute
+u f BC-AUDIO/VIDEO-&lt;AVA>-TO   03-31 0109</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AUDIO/VIDEO &lt;AVA> TO GET EXPENSES FROM DIXONS</TITLE>
+<DATELINE>    DAYTON, Ohio, March 31 - </DATELINE><BODY>Audio/Video Affiliates Inc said it
+will receive an undisclosed amount from &lt;Dixons Group PLC> in
+connection with the termination of Cyacq Corp's 92.50 dlr per
+share tender offer for Cyclops Corp &lt;CYL>.
+    The company said the amount from Dixons is in lieu of
+reimbursement expenses for the Cyacq tender.  Citicorp &lt;CCI>
+was the other partner in Cyacq.
+    The payment was in connection with Dixons' previously
+-announced agreement to increase its tender price for Cyclops
+to 95.00 dlrs per share, Cycacq's ending of its competing bid
+and the ending of litigation between the parties.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19155" NEWID="2737">
+<DATE> 6-MAR-1987 12:50:38.11</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0909&#31;reute
+d f BC-BOC-GROUP-COMPLETES-S   03-06 0082</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BOC GROUP COMPLETES SALE OF UNIT TO CONTROLS</TITLE>
+<DATELINE>    MURRAY HILL, N.J., March 6 - </DATELINE><BODY>&lt;BOC Group Inc>'s Airco
+Distributor Gases finalized the sale of its Virginia-based gas
+appaturs business to &lt;Controls Corp of America>, a newly formed
+investment group organized by former Airco employees.
+    Under the terms of the sale, Airco said Controls will
+continue to make the gas apparaturs product line under the
+Airco brand name, marketing the products exclusively through
+the Airco's distributor network.
+ Reuter
+&#3;</BODY></TEXT>

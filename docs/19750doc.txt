@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="8078" NEWID="19750">
+<DATE>29-JUN-1987 12:55:38.48</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>amex</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1806&#31;reute
+u f BC-PRE-PAID-LEGAL-&lt;PPD>   06-29 0071</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PRE-PAID LEGAL &lt;PPD> HAS NO REASON FOR TRADING</TITLE>
+<DATELINE>    ADA, Okla, June 29 - </DATELINE><BODY>Pre-Paid Legal Services Inc said its
+management knows of no developments to account for unusually
+heavy trading in the company's stock.
+    The company said it was responding to inquiries regarding
+recent activity of its common on the American Stock Exchange.
+    In early afternoon trading, the stock was down 1-7/8 to
+5-1/8 on a turnover of 160,400 shares.
+ Reuter
+&#3;</BODY></TEXT>

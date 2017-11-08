@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17429" NEWID="11367">
+<DATE>31-MAR-1987 10:47:59.76</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1346&#31;reute
+b f BC-CHRYSLER-&lt;C>-EXTENDS   03-31 0092</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CHRYSLER &lt;C> EXTENDS SALES INCENTIVE PROGRAM</TITLE>
+<DATELINE>    DETROIT, March 31 - </DATELINE><BODY>Chrysler Corp said it is extending its
+low annual percentage rate (APR) financing, sales-incentive
+program on some 1986 and 1987 model cars and trucks until April
+10 from March 31.
+    Chrysler said the program offers customers the choice
+between Chrysler's low APR financing of 3.7 pct for 24 months,
+5.9 pct for 36 months, 6.9 pct for 48 months or 9.9 pct for 60
+months and a cash incentive, or a combination of low rate
+financing through Chrysler Credit Corp plus a cash incentive.
+ Reuter
+&#3;</BODY></TEXT>

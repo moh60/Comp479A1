@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11698" NEWID="6785">
+<DATE>18-MAR-1987 15:49:36.31</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f9332&#31;reute
+d f BC-URS-CORP-&lt;URS>-1ST-QT   03-18 0039</UNKNOWN>
+<TEXT>&#2;
+<TITLE>URS CORP &lt;URS> 1ST QTR JAN 31 NET</TITLE>
+<DATELINE>    SAN MATEO, Calif., March 18 -
+    </DATELINE><BODY>Shr primary 29 cts vs 26 cts
+    Shr diluted 27 cts vs 23 cts
+    Net 1,500,000 vs 1,008,000
+    Revs 30 mln vs 23.1 mln
+    Avg shrs pimary 5,254,000 vs 3,821,000
+ Reuter
+&#3;</BODY></TEXT>

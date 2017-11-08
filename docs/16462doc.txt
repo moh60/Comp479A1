@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="997" NEWID="16462">
+<DATE>13-APR-1987 12:39:23.60</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1782&#31;reute
+d f BC-ROYAL-PALM-SAVINGS-&lt;R   04-13 0064</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ROYAL PALM SAVINGS &lt;RPAL.O> NAMES PRESIDENT</TITLE>
+<DATELINE>    WEST PALM BEACH, Fla, April 13 - </DATELINE><BODY>Royal Palm Savings said it
+named Joseph Burgoon as president, a position which has been
+vacant since Jay Rosen left it in December 1985 to pursue other
+business ventures.
+    Burgoon most recently served as executive vice president
+and chief operating officer of Cardinal Federal Savings Bank of
+Cleveland.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11424" NEWID="6512">
+<DATE>18-MAR-1987 10:35:43.60</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f8086&#31;reute
+r f BC-CANDLEWOOD-BANK-PLANS   03-18 0082</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CANDLEWOOD BANK PLANS INITIAL OFFERING</TITLE>
+<DATELINE>    NEW FAIRFIELD, Conn., March 18 - </DATELINE><BODY>&lt;Candlewood Bank and Trust
+Co> said it plans an initial public offering of 500,000 common
+shares at an expected price of 10 dlrs each through underwriter
+Moseley Holdings Corp &lt;MOSE>, which has been granted an option
+to buy up to 75,000 more shares to cover overallotments.
+    Candlewood is being formed to serve the area around
+Candlewood Lake in Connecitcut,  Proceeds from the offering
+would support its operations.
+ Reuter
+&#3;</BODY></TEXT>

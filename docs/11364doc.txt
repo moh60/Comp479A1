@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17426" NEWID="11364">
+<DATE>31-MAR-1987 10:42:58.45</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>west-germany</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f1325&#31;reute
+u f BC-CORRECTION---DUESSELD   03-31 0044</UNKNOWN>
+<TEXT TYPE="UNPROC">&#2;
+CORRECTION - DUESSELDORF - NORTH-RHINE WESTPHALIA
+    In Duesseldorf item "North-Rhine Westphalia issues 1.2
+billion mark bond" please read in second paragraph ".... Payment
+date is April 7, and the bond matures ..."
+    (Corrects payment date from April 17).
+ REUTER
+&#3;
+
+</TEXT>

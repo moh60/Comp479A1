@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19320" NEWID="2902">
+<DATE> 6-MAR-1987 17:11:13.47</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0657&#31;reute
+u f BC-CYACQ-EXTENDS-TENDER   03-06 0097</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CYACQ EXTENDS TENDER FOR CYCLOPS &lt;CYL></TITLE>
+<DATELINE>    DAYTON, Ohio, March 6 - </DATELINE><BODY>Cyacq Corp said it extended its 80
+dlr a share tender offer for Cyclops Corp to March 20 from
+today.
+    Cyacq was formed by Citicorp Capital Investors Ltd and
+Audio Video Affiliates INc &lt;AVA> to acquire Cyclops. THe tender
+offer began on February six.
+    The offer is conditioned upon at least 80 pct of the
+outstanding shares and at least 80 pct of the voting securities
+being tendered before expiration of the offer.
+    As of March six, only 353 shares of Cyclops' 4.1 mln
+outstanding shares had been tendered.
+ Reuter
+&#3;</BODY></TEXT>

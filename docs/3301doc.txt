@@ -1,0 +1,20 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19723" NEWID="3301">
+<DATE> 9-MAR-1987 14:39:02.65</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0362&#31;reute
+d f BC-XYVISION-&lt;XYVI>-GETS   03-09 0035</UNKNOWN>
+<TEXT>&#2;
+<TITLE>XYVISION &lt;XYVI> GETS 1.9 MLN DLRS IN ORDERS</TITLE>
+<DATELINE>    WAKEFIELD, Mass., March 9 - </DATELINE><BODY>Xyvision Inc said it has
+received 1,900,000 dlrs in orders for its computer-integrated
+publishing systems from nine commercial customers.
+ Reuter
+&#3;</BODY></TEXT>

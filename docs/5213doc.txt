@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10126" NEWID="5213">
+<DATE>16-MAR-1987 04:32:18.23</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f1272&#31;reute
+b f BC-COUPON-SET,-AMOUNT-IN   03-16 0085</UNKNOWN>
+<TEXT>&#2;
+<TITLE>COUPON SET, AMOUNT INCREASED ON METAL BOX EUROBOND</TITLE>
+<DATELINE>    LONDON, March 16 - </DATELINE><BODY>The amount of a convertible eurobond
+launched on Friday for Metal Box Plc &lt;MBXL.L> has been
+increased to 65 mln stg from the original 60 mln and the coupon
+has been fixed at 5-3/4 pct, Swiss Bank Corp International Ltd
+said as lead manager.
+    The conversion price has been fixed at 262p, which
+represents a premium of 9.62 pct over Friday's closing share
+price of 239p.
+    The indicated coupon on Friday was 5-3/4 to six pct.
+ REUTER
+&#3;</BODY></TEXT>

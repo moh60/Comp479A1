@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="1642" NEWID="12566">
+<DATE> 2-APR-1987 10:20:22.01</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A RM
+&#22;&#22;&#1;f1155&#31;reute
+r f BC-AETNA-LIFE/CASUALTY-&lt;   04-02 0081</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AETNA LIFE/CASUALTY &lt;AET> FILES TO OFFER NOTES</TITLE>
+<DATELINE>    HARTFORD, Conn., April 2 - </DATELINE><BODY>Aetna Life and Casualty Co said
+it filed a shelf registration with the Securities and Exchange
+Commission for the issue of 200 mln dlrs of debt securities.
+    Managers of the offering have not been selected. Terms of
+the securities will be based on market conditions, the company
+said.
+    Proceeds will be added to general funds and used to support
+Aetna's basic insurance and financial services businesses.
+ Reuter
+&#3;</BODY></TEXT>

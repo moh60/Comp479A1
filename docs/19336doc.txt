@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7172" NEWID="19336">
+<DATE>19-JUN-1987 14:13:31.47</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F RM A 
+&#22;&#22;&#1;f1938&#31;reute
+b f BC-/CONT'L-ILLINOIS-WON'   06-19 0110</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CONT'L ILLINOIS WON'T COMMENT ON RESERVE RUMORS</TITLE>
+<DATELINE>    NEW YORK, June 19 - </DATELINE><BODY>A spokesman for Continental Illinois
+Corp said the bank will not comment on rumors that it will soon
+add to reserves to cover possible losses on loans to developing
+countries.
+    Rumors circulated on Wall Street today that Continental
+would soon join the long list of banks adding to reserves. Some
+analysts speculated that a decision would be announced after
+Continental's regularly scheduled board meeting, which will be
+held Monday. "Our board meets on the fourth Monday of every
+month, but their agenda is confidential," the spokesman said.
+He said "we will not comment on any rumors."
+ Reuter
+&#3;</BODY></TEXT>

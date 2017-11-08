@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9436" NEWID="4523">
+<DATE>12-MAR-1987 16:21:14.18</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0479&#31;reute
+s f BC-ADAMS-EXPRESS-CO-&lt;ADX   03-12 0046</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ADAMS EXPRESS CO &lt;ADX> SETS REGULAR PAYOUT</TITLE>
+<DATELINE>    NEW YORK, March 12 -
+    </DATELINE><BODY>Div 12 cts vs 12 cts
+    Pay April 20
+    Record April 8
+    NOTE: company pays dividend of 12 cts three times annually
+with a bulk payment at the end of the fiscal year to equal
+annual dividend of 50 cts.
+ Reuter
+&#3;</BODY></TEXT>

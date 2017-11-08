@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13457" NEWID="7936">
+<DATE>20-MAR-1987 15:27:43.90</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>nyse</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2239&#31;reute
+b f BC-MORGAN-STANLEY-&lt;MS>-H   03-20 0102</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MORGAN STANLEY &lt;MS> HAS MARKET-ON-CLOSE ORDERS</TITLE>
+<DATELINE>    NEW YORK, March 20 - </DATELINE><BODY>Morgan Stanley and Co &lt;MS> said it
+entered market-on-close orders totaling 1.1 billion dlrs for
+stocks in the Major Market Index and Standard and Poor's 500
+stock index.
+    Morgan Stanley said its orders were entered in accordance
+with Securities and Exchange Commission and New York Stock
+Exchange requirements. The firm did not specify the nature of
+its orders. Participants in the index futures markets said
+investors have been betting all day that the stock market will
+finish sharply higher but few were willing to make a firm
+prediction.
+ Reuter
+&#3;</BODY></TEXT>

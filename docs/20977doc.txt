@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20460" NEWID="20977">
+<DATE>19-OCT-1987 16:01:18.21</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2967&#31;reute
+h f BC-ALLIED-SIGNAL,-ENERGY   10-19 0098</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ALLIED-SIGNAL, ENERGY CONVERSION IN AGREEMENT</TITLE>
+<DATELINE>    TROY, Mich, Oct 19 - </DATELINE><BODY>Allied-Signal Aerospace Co, a unit of
+Allied-Signal Inc &lt;ALD>, and Ovonic Imaging Systems Inc signed
+an agreement to develop full color, liquid crystal, active
+matrix flat panel display for use in cockpit instrument display
+systems, Ovonic Imaging said.
+    The display systems are for use in airplanes and
+spacecraft.
+    Under the agreement, Ovonic, a unit of Energy Conversion
+Devices Inc &lt;ENER.O>, will receive payments of about 4.5 mln
+dlrs over two year based upon completion of certain development
+milestones.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14038" NEWID="8517">
+<DATE>23-MAR-1987 16:31:27.74</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>cboe</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F RM
+&#22;&#22;&#1;f2394&#31;reute
+u f BC-COMMUNICATION-PROBLEM   03-23 0062</UNKNOWN>
+<TEXT>&#2;
+<TITLE>COMMUNICATION PROBLEMS AFFECTING CBOE QUOTES</TITLE>
+<DATELINE>    CHICAGO, March 23 - </DATELINE><BODY>The Chicago Board Options Exchange,
+CBOE, said that due to telecommunications problems, last sale
+prices, market quotes and index values are updating
+intermittently.
+    The exchange said the problem affected prices from 1456 CST
+(2056 GMT). Trading in options at the CBOE closes at 1515 CST
+(2115 GMT).
+ Reuter
+&#3;</BODY></TEXT>

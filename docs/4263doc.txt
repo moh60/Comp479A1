@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9176" NEWID="4263">
+<DATE>12-MAR-1987 10:56:27.16</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0284&#31;reute
+w f BC-HERLEY-MICROWAVE-&lt;HRL   03-12 0074</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HERLEY MICROWAVE &lt;HRLY> WINS CONTRACTS</TITLE>
+<DATELINE>    LANDCASTER, Penn., March 12 - </DATELINE><BODY>Herley Microwave Systems Inc
+said it won a series of contract additions and new awards worth
+7.7 mln dlrs.
+    It said the contracts were from the U.S. Navy and Airforce,
+Martin Marietta Corp &lt;ML>, and Northrop Corp &lt;NOC>. The orders
+are scheduled to be delivered in 1987 and early 1988.
+    The company said its Jan 31 backlog was 20 mln dlrs against
+21 mln dlrs a year ago.
+ Reuter
+&#3;</BODY></TEXT>

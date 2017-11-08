@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18510" NEWID="2093">
+<DATE> 5-MAR-1987 10:39:05.40</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0364&#31;reute
+h f BC-STERIVET-&lt;STVT>-GETS   03-05 0062</UNKNOWN>
+<TEXT>&#2;
+<TITLE>STERIVET &lt;STVT> GETS SUPPORT FOR DRUG PROJECT</TITLE>
+<DATELINE>    MISSISSAUGA, Ontario, March 5 - </DATELINE><BODY>Sterivet Laboratories
+Limited said the the National Research Council of Canada is
+contributing financing for the development a new drug to treat
+a disease of the feet in horses.
+    It said the drug has produced promising results in limited
+clinical trials over the past 18 months in Ontario.
+ Reuter
+&#3;</BODY></TEXT>

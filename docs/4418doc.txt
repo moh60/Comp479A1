@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9331" NEWID="4418">
+<DATE>12-MAR-1987 14:16:54.20</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0071&#31;reute
+d f BC-NEW-YORK-LIFE-SETS-RE   03-12 0101</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NEW YORK LIFE SETS REAL ESTATE INVESTMENTS</TITLE>
+<DATELINE>    NEW YORK, March 12 - </DATELINE><BODY>&lt;New York Life Insurance Co> said it
+will invest up to 30 mln dlrs in properties purchased by
+&lt;NYLIFE Realty Income Partners I L.P.>, a newly formed real
+estate limited partnership.
+    The partnership is co-sponsored by New York Life's NYLIFE
+Realty Inc and a subsidiary of &lt;Linclay>, a national real
+estate firm which has developed properties in 25 cities.
+    A New York Life spokesman said the company's 30 mln dlr
+commitment, along with projected investment by the partnership,
+is expected to result in a total investment of 80 mln dlrs.
+ Reuter
+&#3;</BODY></TEXT>

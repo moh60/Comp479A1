@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20549" NEWID="20888">
+<DATE>19-OCT-1987 18:22:07.54</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f3357&#31;reute
+r f BC-BANKING-CENTER-&lt;TBCX.   10-19 0066</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BANKING CENTER &lt;TBCX.O> 3RD QTR NET</TITLE>
+<DATELINE>    WATERBURY, Conn., Oct 19 -
+    </DATELINE><BODY>Shr 25 cts vs NA
+    Net 3,081,000 vs 2,063,000
+    Nine mths
+    Shr 86 cts vs NA
+    Net 10.5 mln vs 6,966,000
+    NOTE: Year-ago per share amounts not available as bank
+converted to stock ownership August 13, 1986.
+    1987 amounts include operations of Burgdoff Realtors
+acquired during December 1986 and other operations.
+ Reuter
+&#3;</BODY></TEXT>

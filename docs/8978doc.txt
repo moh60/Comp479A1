@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14499" NEWID="8978">
+<DATE>24-MAR-1987 15:14:04.03</DATE>
+<TOPICS><D>cocoa</D></TOPICS>
+<PLACES><D>uk</D><D>haiti</D><D>czechoslovakia</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS><D>icco</D></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C T
+&#22;&#22;&#1;f2257&#31;reute
+d f BC-HAITI,-CZECHOSLOVAKIA   03-24 0073</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HAITI, CZECHOSLOVAKIA JOIN COCOA ORGANIZATION</TITLE>
+<DATELINE>    LONDON, March 24 - </DATELINE><BODY>Haiti and Czechoslovakia have joined the
+International Cocoa Organization (ICCO), bringing membership in
+the United Nations charter body to 18 importing countries and
+17 exporters, ICCO officials said.
+    Haiti has provisionally applied to the ICCO as an exporting
+member, and accounts for 0.92 pct of world cocoa exports, they
+said. Czechoslovakia joined as an importer.
+ Reuter
+&#3;</BODY></TEXT>

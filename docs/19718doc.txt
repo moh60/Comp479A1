@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="8046" NEWID="19718">
+<DATE>29-JUN-1987 12:18:57.31</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A RM 
+&#22;&#22;&#1;f1653&#31;reute
+r f BC-IBM-CREDIT-&lt;IBM>-FILE   06-29 0059</UNKNOWN>
+<TEXT>&#2;
+<TITLE>IBM CREDIT &lt;IBM> FILES FOR NOTE OFFERING</TITLE>
+<DATELINE>    NEW YORK, June 29 - </DATELINE><BODY>IBM Credit Corp said it filed with the
+Securities and Exchange Commission a registration statement
+covering a 500 mln dlr issue of medium-term notes.
+    Proceeds will be used for general corporate purposes.
+    The company named First Boston and Salomon Brothers as
+agents for the offering.
+ Reuter
+&#3;</BODY></TEXT>

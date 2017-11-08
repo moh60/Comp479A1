@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11143" NEWID="6230">
+<DATE>17-MAR-1987 15:27:55.75</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A RM
+&#22;&#22;&#1;f6373&#31;reute
+r f BC-DANA-&lt;DCN>-DEBT-MAY-B   03-17 0110</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DANA &lt;DCN> DEBT MAY BE DOWNGRADED BY MOODY'S</TITLE>
+<DATELINE>    NEW YORK, March 17 - </DATELINE><BODY>Moody's Investors Service Inc said it
+may downgrade 700 mln dlrs of debt of Dana Corp and its unit,
+Dana Credit Corp.
+    The agency said its review would focus on the implications
+of Dana's aggressive balance sheet management on liquidity and
+financial flexibility. Moody's will also take into account
+intensifying competition and pricing difficulties in Dana's
+highly cyclical core truck and industrial markets.
+    Dana currently carries A-2 senior debt and industrial
+revenue bonds. The Prime-1 commercial paper of Dana and its
+credit unit are also under review for possible downgrade.
+ Reuter
+&#3;</BODY></TEXT>

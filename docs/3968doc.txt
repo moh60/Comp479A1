@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="8881" NEWID="3968">
+<DATE>11-MAR-1987 17:04:34.89</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F
+&#22;&#22;&#1;f0693&#31;reute
+d f BC-&lt;canadian-gypsum-co-l   03-11 0025</UNKNOWN>
+<TEXT>&#2;
+<TITLE>&lt;CANADIAN GYPSUM CO LTD> YEAR NET</TITLE>
+<DATELINE>    TORONTO, March 11 -
+    </DATELINE><BODY>Shr 3.13 dlrs vs 2.02 dlrs
+    Net 39.1 mln vs 26.9 mln
+    Revs 203.2 mln vs 173.8 mln
+ Reuter
+&#3;</BODY></TEXT>

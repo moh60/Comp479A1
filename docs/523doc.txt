@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12706" NEWID="523">
+<DATE> 2-MAR-1987 11:49:17.45</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0073&#31;reute
+h f BC-SONY-TO-EXPAND-U.K.-T   03-02 0110</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SONY TO EXPAND U.K. TELEVISION OUTPUT</TITLE>
+<DATELINE>    LONDON, March 2 - </DATELINE><BODY>Sony (U.K.) Ltd said it would be doubling
+capacity at its Bridgend, Wales, television and components
+factory over the next three years in a 30 mln stg expansion.
+    The expansion, backed by Welsh office grants, would make
+Bridgend Sony's biggest tv manufacturing plant in Europe with
+output of about 500,000 tv sets per year, a spokesman said.
+    The move will add 300 jobs at Bridgend, bringing the total
+workforce to 1,500 at the end of the three-year period.
+    The expansion is part of a wider move by Sony Corp &lt;SNE.T>
+to locate more production capacity nearer its markets, a
+spokesman said.
+ Reuter
+&#3;</BODY></TEXT>

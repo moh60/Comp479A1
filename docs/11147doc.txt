@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17208" NEWID="11147">
+<DATE>30-MAR-1987 18:48:04.37</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2798&#31;reute
+h f BC-A.H-BELO-&lt;BLC>-TO-REI   03-30 0052</UNKNOWN>
+<TEXT>&#2;
+<TITLE>A.H BELO &lt;BLC> TO REINCORPORATE</TITLE>
+<DATELINE>    DALLAS, Texas, March 30 - </DATELINE><BODY>A.H. Belo Corp said it will
+submit to its shareholders at its May six annual meeting a
+proposal to reincorporate the company in Delaware.
+    The company said the reincorporation would enable Belo to
+take advantage of Delaware's flexible corporate laws.
+ Reuter
+&#3;</BODY></TEXT>

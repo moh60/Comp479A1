@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19634" NEWID="3212">
+<DATE> 9-MAR-1987 12:29:34.68</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0896&#31;reute
+h f BC-TECHNOLOGY-RESEARCH-&lt;   03-09 0089</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TECHNOLOGY RESEARCH &lt;TRCI> WINS CONTRACT</TITLE>
+<DATELINE>    CLEARWATER, Fla., March 9 - </DATELINE><BODY>Technology Research Corp said
+an unidentified marketing company agreed to sell its products
+and placed an initial order for about six mln dlrs.
+    It said the company will sells its product that protects
+against serious electrical shock. The product will be sold
+through mass merchandisers and retail hardware stores, it said.
+    The company also said it won an additional contract worth
+500,000 dlrs, boosting its total current backlog to about 14
+mln dlrs.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19602" NEWID="3180">
+<DATE> 9-MAR-1987 11:59:42.50</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0714&#31;reute
+r f BC-T.H.E.-FITNESS-&lt;RFIT>   03-09 0096</UNKNOWN>
+<TEXT>&#2;
+<TITLE>T.H.E. FITNESS &lt;RFIT> BUYS LIVINGWELL UNIT</TITLE>
+<DATELINE>    FORT LAUDERDALE, FLa, March 9 - </DATELINE><BODY>T.H.E. Fitness INc said it
+agreed to buy Livingwell Inc's manufacturing unit, Powercise
+INternational Inc, for 11.0 mln T.H.E. Fitness shares valued at
+about 30 mln dlrs.
+    This acquisition includes all of Livingwell's rights to its
+recently announced Powercise fitness equipment.
+    IN a separate transaction, Livingwell INc, an operator of
+300 health clubs, placed a six mln dlrs order with Powercise
+INternational to install the Powercise equipment in all of its
+clubs.
+ Reuter
+&#3;</BODY></TEXT>

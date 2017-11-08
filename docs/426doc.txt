@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12609" NEWID="426">
+<DATE> 2-MAR-1987 09:52:48.60</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0573&#31;reute
+h f BC-AIR-FORCE-EXERCISES-O   03-02 0048</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AIR FORCE EXERCISES OPTION FOR AAR &lt;AIR> ORDER</TITLE>
+<DATELINE>    ELK GROVE VILLAGE, ILL., Mar 2 - </DATELINE><BODY>AAR Corp said that the
+U.S. Air force exercised an option valued at about eight mln
+dlrs with its Brooks and Perkins Cadillac manufacturing
+subsidiary in Michigan, for cargo pallet maintenence and
+overhaul.
+ Reuter
+&#3;</BODY></TEXT>

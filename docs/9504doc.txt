@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15025" NEWID="9504">
+<DATE>25-MAR-1987 14:19:23.19</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2029&#31;reute
+r f BC-RAYTHEON-&lt;RTN>-DIRECT   03-25 0053</UNKNOWN>
+<TEXT>&#2;
+<TITLE>RAYTHEON &lt;RTN> DIRECTOR RESIGNS</TITLE>
+<DATELINE>    LEXINGTON, Mass., March 25 - </DATELINE><BODY>Raytheon Co said D. Brainerd
+Holmes, who retired as Raytheon president in May 1986, has
+resigned from the board effective April One.
+    The company said Ferdinand Colloredo-Mansfield, chairman of
+Cabot, Cabot and Forbes, will succeed Holmes on the board.
+ Reuter
+&#3;</BODY></TEXT>

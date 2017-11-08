@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13177" NEWID="7656">
+<DATE>20-MAR-1987 09:34:53.34</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F E
+&#22;&#22;&#1;f0849&#31;reute
+r f BC-ASAMERA-&lt;ASM>-TO-OFFE   03-20 0050</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ASAMERA &lt;ASM> TO OFFER THREE MLN SHARES</TITLE>
+<DATELINE>    CALGARY, March 20 - </DATELINE><BODY>Asamera Inc said it has agreed for
+Merrill Lynch and Co Inc's &lt;MER> Merrill Lynch Canada Inc
+subsidiary to offer three mln Asamera common shares at 13.625
+Canadian dlrs each, subject to all necessary U.S. and Canadian
+regulatory approval.
+ Reuter
+&#3;</BODY></TEXT>

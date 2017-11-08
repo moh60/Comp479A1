@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5878" NEWID="17540">
+<DATE> 1-JUN-1987 10:22:28.49</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1103&#31;reute
+r f BC-COLT-INDUSTRIES-&lt;COT>   06-01 0082</UNKNOWN>
+<TEXT>&#2;
+<TITLE>COLT INDUSTRIES &lt;COT> TO SELL BRITISH UNIT</TITLE>
+<DATELINE>    NEW YORK, June 1 - </DATELINE><BODY>Colt Industries Inc said it signed a
+conditional agreement to sell its Woodville Polymer Engineering
+Ltd subsidiary in Great Britain to the Dowty Group PLC of
+Gloucestershire, England, for 35.9 mln stg.
+    The deal is scheduled to close by the end of June, the
+company said.
+    Woodville, which makes high technology precision products
+for aerospace, automotive and other industries, had 1986 sales
+of about 24 mln stg, it said.
+ Reuter
+&#3;</BODY></TEXT>

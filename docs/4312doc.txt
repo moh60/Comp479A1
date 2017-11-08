@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9225" NEWID="4312">
+<DATE>12-MAR-1987 12:06:30.11</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A RM
+&#22;&#22;&#1;f0591&#31;reute
+r f BC-BUSINESSLAND-&lt;BUSL>-S   03-12 0099</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BUSINESSLAND &lt;BUSL> SELLS CONVERTIBLE DEBENTURES</TITLE>
+<DATELINE>    NEW YORK, March 12 - </DATELINE><BODY>Businessland Inc is raising 50 mln
+dlrs via an offering of convertible subordinated debentures due
+2007 with a 5-1/2 pct coupon and par pricing, said lead manager
+Shearson Lehman Brothers Inc.
+    The debentures are convertible into the company's common
+stock at 20/50 dlrs a share, representing a 25.19 pct premium
+over the stock price when terms on the debt were set.
+    Non-callable for two years, the debt is rated B-3 by
+Moody's Investors Service Inc. The issue was increased from an
+initial offering of 40 mln dlrs.
+ Reuter
+&#3;</BODY></TEXT>

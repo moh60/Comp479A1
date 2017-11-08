@@ -1,0 +1,20 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13215" NEWID="7694">
+<DATE>20-MAR-1987 10:24:59.89</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1034&#31;reute
+u f BC-RENT-A-CENTER-&lt;RENT>   03-20 0029</UNKNOWN>
+<TEXT>&#2;
+<TITLE>RENT-A-CENTER &lt;RENT> VOTES 3 FOR 2 SPLIT</TITLE>
+<DATELINE>    WICHITA, KAN., March 20 - </DATELINE><BODY>Rent-A-Center Inc said its
+directors approved a three-for-two stock split payable April
+20, record April 3.
+ Reuter
+&#3;</BODY></TEXT>

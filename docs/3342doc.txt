@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19764" NEWID="3342">
+<DATE> 9-MAR-1987 15:55:11.32</DATE>
+<TOPICS><D>crude</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;Y
+&#22;&#22;&#1;f0603&#31;reute
+r f BC-USX-&lt;X>-UNIT-RAISES-S   03-09 0074</UNKNOWN>
+<TEXT>&#2;
+<TITLE>USX &lt;X> UNIT RAISES SOME CRUDE POSTINGS</TITLE>
+<DATELINE>    NEW YORK, March 9 - </DATELINE><BODY>Marathon Petroleum Company, a
+subsidiary of USX Corp &lt;X>, said it raised the contract price
+it pays for three grades of crude oil, effective March 6.
+    Illinois Sweet and Indiana Sweet are both being raised 50
+cts a barrel to 16.75 dlrs/bbl, and the Southern Michigan grade
+is being raised 25 cts/bbl, also to 16.75 dlrs a bbl.
+    The West Texas Intermediate grade was unchanged.
+ Reuter
+&#3;</BODY></TEXT>

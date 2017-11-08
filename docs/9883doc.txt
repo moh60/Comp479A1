@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15404" NEWID="9883">
+<DATE>26-MAR-1987 10:13:54.08</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1115&#31;reute
+u f BC-roy-f.-weston-&lt;westna   03-26 0045</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ROY F. WESTON &lt;WSTNA> DISTRIBUTING STATEMENT</TITLE>
+<DATELINE>    WEST CHESTER, Pa., March 26 - </DATELINE><BODY>Roy F. Weston Inc expects to
+distribute a statement shortly, a spokesman said.
+    NASDAQ has halted trading in the stock until the
+announcement is distributed, saying it last traded at 20-3/4.
+ Reuter
+&#3;</BODY></TEXT>

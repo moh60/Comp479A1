@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20119" NEWID="21317">
+<DATE>19-OCT-1987 11:33:10.95</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>uk</D><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM 
+&#22;&#22;&#1;f1601&#31;reute
+u f BC-HOUSEHOLD-MORTGAGE-GE   10-19 0071</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HOUSEHOLD MORTGAGE GETS U.S. PAPER PROGRAM</TITLE>
+<DATELINE>    LONDON, Oct 19 - </DATELINE><BODY>&lt;Household Mortgage Corp> said it has
+arranged a 200 mln dlr commercial paper program in the U.S.,
+For which Goldman Sachs and Co will be the sole dealer.
+    The program will be backed by a letter of credit from
+Australia and New Zealand Banking Corp.
+    The program also is supported by a multiple option facility
+arranged in the Euromarkets in August.
+ REUTER
+&#3;</BODY></TEXT>

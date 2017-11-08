@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5240" NEWID="15885">
+<DATE> 9-APR-1987 15:26:36.24</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2285&#31;reute
+r f BC-FLUOROCARBON-&lt;FCBN>-B   04-09 0053</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FLUOROCARBON &lt;FCBN> BUYS EATON &lt;ETN> DIVISION</TITLE>
+<DATELINE>    LAGUNA NIGUEL, Calif., April 9 - </DATELINE><BODY>Fluorocarbon Co said it
+signed a definitive agreement to acquire Eaton Corp's
+Industrial Polymer division for an undisclosed price.
+    The polymer division, based in Aurora, Ohio, had 1986 sales
+of 86 mln dlrs, Fluorocarbon also said.
+ Reuter
+&#3;</BODY></TEXT>

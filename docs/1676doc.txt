@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18094" NEWID="1676">
+<DATE> 4-MAR-1987 13:55:40.28</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0309&#31;reute
+d f BC-FIRST-SOUTHERN-&lt;FSFA>   03-04 0098</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FIRST SOUTHERN &lt;FSFA> TO MAKE ACQUISITION</TITLE>
+<DATELINE>    MOBILE, ALA., March 4 - </DATELINE><BODY>First Southern Federal Savings and
+Loan Association said it has agreed in principle to acquire
+Horizon Financial Corp and Horizon Funding corp from &lt;Victor
+Federal Savings and Loan Association> of Muskogee, Okla., for
+undisclosed terms.
+    The company said the purchase is subject to approval of the
+boards of First Southern and Victor and regulatory agencies.
+    Horizon Financial services mortgage loans and Horizon
+Funding is a wholesale loan purchasing operation. Horizon
+services 3.2 billion dlrs in mortgage loans.
+ Reuter
+&#3;</BODY></TEXT>

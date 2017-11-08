@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16044" NEWID="10523">
+<DATE>27-MAR-1987 12:10:26.86&#5;&#5;&#5;F</DATE>
+<UNKNOWN>&#22;&#22;&#1;f1533&#31;reute</UNKNOWN>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+h f BC-NORTH-HILLS-&lt;NOHL>-GE   03-27 0096</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NORTH HILLS &lt;NOHL> GETS CONSTRUCTION FUNDING</TITLE>
+<DATELINE>    GLEN COVE, N.Y., March 27 - </DATELINE><BODY>North Hills Electronics Inc
+said its North Hills Israel Ltd unit received a commitment for
+1,500,000 dlrs in financing from the &lt;Overseas Private
+Placement Corp>.
+    The company said the money will be used to construct and
+equip a 14,000-square-foot manufacturing plant in Israel.
+    North Hills said construction of the plant, which will make
+electronic power supplies and interconnect devices for computer
+local area networks, will be completed by the second quarter of
+its current fiscal year.
+ Reuter
+&#3;</BODY></TEXT>

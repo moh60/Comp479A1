@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11755" NEWID="6842">
+<DATE>18-MAR-1987 16:46:13.71</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f9496&#31;reute
+r f BC-WILSON-FOODS-&lt;WILF>-S   03-18 0073</UNKNOWN>
+<TEXT>&#2;
+<TITLE>WILSON FOODS &lt;WILF> SETS FINAL CREDITOR PAYMENT</TITLE>
+<DATELINE>    OKLAHOMA CITY, Okla., March 18 - </DATELINE><BODY>Wilson Foods Corp said it
+made the final creditor payment under its 1984 plan of
+reorganization.
+    The plan resulted from its 1983 filing under Chapter 11
+filing of the U.S. Bankruptcy Code.
+    Including the final payment, the company said it has paid
+its creditors 31 mln dlrs plus interest at 9.5 pct, repaying
+all outstanding debt owed under the plan.
+ Reuter
+&#3;</BODY></TEXT>

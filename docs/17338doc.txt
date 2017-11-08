@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="NOT-USED" CGISPLIT="PUBLISHED-TESTSET" OLDID="21960" NEWID="17338">
+<DATE>27-APR-1987 10:56:15.68</DATE>
+<TOPICS><D>trade</D></TOPICS>
+<PLACES><D>hungary</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS><D>ec</D></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f1357&#31;reute
+r f BC-EC-TO-BEGIN-TALKS-ON   04-27 0119</UNKNOWN>
+<TEXT>&#2;
+<TITLE>EC TO BEGIN TALKS ON ECONOMIC PACT WITH HUNGARY</TITLE>
+<DATELINE>    LUXEMBOURG, April 27 - </DATELINE><BODY>European Community foreign ministers
+agreed to formal talks on signing an economic pact with
+Hungary, in a move which could clear the way towards
+establishing EC diplomatic ties with Budapest, EC officials
+said.
+    They said Community foreign ministers agreed to mandate the
+EC executive Commission to open talks on a cooperation pact
+which would boost trade and economic ties with Hungary.
+    Earlier this year, Hungarian Deputy Prime Minister Jozsef
+Marjai said Hungary might be willing to normalise relations
+with the Community in exchange for such a deal, according to EC
+officials. No date has been fixed for opening the talks.
+ REUTER
+&#3;</BODY></TEXT>

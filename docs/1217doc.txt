@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16537" NEWID="1217">
+<DATE> 3-MAR-1987 13:28:25.86</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0333&#31;reute
+d f BC-VARIAN-&lt;VAR>-IN-TALKS   03-03 0062</UNKNOWN>
+<TEXT>&#2;
+<TITLE>VARIAN &lt;VAR> IN TALKS WITH PHILIPS ELECTRONICS</TITLE>
+<DATELINE>    PALO ALTO, Calif., March 3 - </DATELINE><BODY>Varian Associates Inc said it
+is holding discussions with Philips Electronics regarding the
+purchase of Philips' broadcast transmission unit in the United
+Kingdom, Pye TVT Limited.
+    Pye TVT designs and manufactures broadcast transmission
+equimpment, specializing in television frequencies.
+ Reuter
+&#3;</BODY></TEXT>

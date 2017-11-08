@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12346" NEWID="7433">
+<DATE>19-MAR-1987 16:34:37.23</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2460&#31;reute
+d f BC-FCS-&lt;FCSI>-RECEIVES-M   03-19 0069</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FCS &lt;FCSI> RECEIVES MERGER PROPOSAL</TITLE>
+<DATELINE>    FLEMINGTON, N.J., March 19 - </DATELINE><BODY>FCS Laboratories said its
+investment banker, Butcher and Singer Inc, received a
+preliminary merger proposal from another company in the
+healthcare field.
+    FCS said that if various aspects of the proposal are better
+defined, its board may consider it. FCS said merger
+negotiations with this other company have been continuing since
+late August.
+ Reuter
+&#3;</BODY></TEXT>

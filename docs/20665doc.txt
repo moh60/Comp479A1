@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="21260" NEWID="20665">
+<DATE>20-OCT-1987 15:45:51.49</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f3033&#31;reute
+d f BC-UNION-CAMP-&lt;UCC>-TO-B   10-20 0066</UNKNOWN>
+<TEXT>&#2;
+<TITLE>UNION CAMP &lt;UCC> TO BUY BACK SHARES</TITLE>
+<DATELINE>    WAYNE, N.J., Oct 20 - </DATELINE><BODY>Union Camp Corp said its board
+approved repurchases of up to two mln shares of its common in
+the market or in privately negotiated transactions.
+    Union Camp said that no borrowings will be required to make
+the purchases and there is no plan to reissue the common stock
+purchased.
+    Union Camp has about 73.7 mln shares outstanding.
+ Reuter
+&#3;</BODY></TEXT>

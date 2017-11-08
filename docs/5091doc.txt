@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10004" NEWID="5091">
+<DATE>13-MAR-1987 16:55:27.48</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0543&#31;reute
+u f BC-TENDER-FOR-ALLEGHENY   03-13 0083</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TENDER FOR ALLEGHENY INT'L &lt;AG> UNDERWAY</TITLE>
+<DATELINE>    PITTSBURGH, March 13 - </DATELINE><BODY>First Boston Inc's &lt;FBC> Sunter
+Acquisition Corp said it began its previously announced 24.60
+dlr per share tender offer for Allegheny International Inc's
+common stock.
+    The company is also offering 20 dlrs for each 2.19 dlr
+cumulative preferred share, and 87.50 dlrs for each share of
+11.25 dlr convertible preferred stock.
+    The company said the offer and withdrawal rights will
+expire at midnight April nine unless extended.
+
+ Reuter
+&#3;</BODY></TEXT>

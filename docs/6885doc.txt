@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11798" NEWID="6885">
+<DATE>18-MAR-1987 17:23:11.12</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f9610&#31;reute
+d f BC-STERLING-FILES-SUIT-A   03-18 0077</UNKNOWN>
+<TEXT>&#2;
+<TITLE>STERLING FILES SUIT AGAINST SPECTRAN &lt;SPTR></TITLE>
+<DATELINE>    STURBRIDGE, Mass., March 18 - </DATELINE><BODY>SpecTran Corp said &lt;Sterling
+Extruder Corp> filed a complaint against it and Sonetran, its
+partly-owned business venture, claiming a breach of contract
+for the purchase of about 545,000 dlrs worth of equipment.
+    SpecTran said it and Sonetran deny any liability and intend
+to contest the suit "most vigorously."
+    SpecTran said the suit was filed in Superior Court in New
+Haven, Conn.
+ Reuter
+&#3;</BODY></TEXT>

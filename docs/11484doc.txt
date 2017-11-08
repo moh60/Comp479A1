@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17546" NEWID="11484">
+<DATE>31-MAR-1987 12:44:08.23</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1858&#31;reute
+d f BC-TRADESTAR-&lt;TIRR>-ACQU   03-31 0050</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TRADESTAR &lt;TIRR> ACQUIRES IMAGE VIDEO</TITLE>
+<DATELINE>    TULSA, Okla., March 31 - </DATELINE><BODY>Tradestar Corp said it acquired
+&lt;Image Video Inc> for an undisclosed sum.
+    The company said Image Video produces and distributes
+videos for the home market.
+    Image Video is scheduled to release 20 video projects in
+1987, it said.
+ Reuter
+&#3;</BODY></TEXT>

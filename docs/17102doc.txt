@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="NOT-USED" CGISPLIT="PUBLISHED-TESTSET" OLDID="21725" NEWID="17102">
+<DATE>24-APR-1987 11:09:38.67</DATE>
+<TOPICS><D>heat</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;Y
+&#22;&#22;&#1;f1265&#31;reute
+u f BC-EXXON-&lt;XON>-RAISES-HE   04-24 0064</UNKNOWN>
+<TEXT>&#2;
+<TITLE>EXXON &lt;XON> RAISES HEATING OIL PRICE, TRADERS SAID</TITLE>
+<DATELINE>    NEW YORK, April 24 - </DATELINE><BODY>Oil traders in the New York area said
+Exxon Corp's Exxon U.S.A. subsidiary raised the price it
+charges contract barge customers for heating oil in the New
+York harbor by 0.50 cent a gallon, effective today.
+    They said the 0.50 cent a gallon increase brings Exxon's
+contract barge price to 49.25 cts a gallon.
+ Reuter
+&#3;</BODY></TEXT>

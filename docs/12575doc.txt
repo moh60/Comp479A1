@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="1651" NEWID="12575">
+<DATE> 2-APR-1987 10:25:13.46</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1179&#31;reute
+r f BC-CHEROKEE-GROUP-&lt;CHKE>   04-02 0057</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CHEROKEE GROUP &lt;CHKE> SHARE OFFERING UNDERWAY</TITLE>
+<DATELINE>    NORTH HOLLYWOOD, Calif., April 2 - </DATELINE><BODY>Cherokee Group said an
+offering of 2,500,000 common shares is underway at 22 dlrs each
+through underwriters First Boston Inc &lt;FBC> and American
+Express Co's &lt;AXP> Shearson Lehman Brothers Inc.
+    The company is selling 1,800,000 shares and shareholders
+700,000.
+ Reuter
+&#3;</BODY></TEXT>

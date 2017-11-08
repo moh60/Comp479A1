@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17458" NEWID="11396">
+<DATE>31-MAR-1987 11:23:08.20</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1508&#31;reute
+r f BC-CHUBB-CORP-&lt;CB>-COMPL   03-31 0087</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CHUBB CORP &lt;CB> COMPLETES ACQUISITION</TITLE>
+<DATELINE>    NEW YORK, March 31 - </DATELINE><BODY>The Chubb Corp said it completed the
+previously-announced merger of its subsidiary with and into
+Sovereign Corp &lt;SOVR>, a life insurance holding company.
+    Under the terms of the merger, Sovereign stockholders
+wil receive, in a tax free exchange, 0.1365 of a share of Chubb
+common stock for each share of Sovereign held, the company
+said. 
+    This equals 9.11 dlrs per share of Sovereign stock based on
+the closing price of Chubb common stock on March 30.
+   
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15802" NEWID="10282">
+<DATE>27-MAR-1987 00:03:45.90&#5;&#5;&#5;F</DATE>
+<UNKNOWN>&#22;&#22;&#1;f0006&#31;reute</UNKNOWN>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>hong-kong</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+b f BC-JARDINE-MATHESON-HOLD   03-27 0092</UNKNOWN>
+<TEXT>&#2;
+<TITLE>JARDINE MATHESON HOLDINGS LTD &lt;JARD.HKG> YEAR 1986</TITLE>
+<DATELINE>    HONG KONG, March 27 -
+    </DATELINE><BODY>Shr 126 H.K. Cents vs 42 (adjusted)
+    Final div 30 cents vs 10, making 40 vs 10
+    Net 479 mln dlrs vs 157 mln
+    Turnover 10.4 billion vs 10.5 billion
+    Note - Profits excluded extraordinary items 52 mln dlrs vs
+losses 426 mln. Dividend payable after general meeting on June
+4, books close April 22 to May 5.
+    Note - Bonus issue of four new "B" shares of par value 20
+cents each for every one share of par value two dlrs each,
+books close August 3 to 10.
+ REUTER
+&#3;</BODY></TEXT>

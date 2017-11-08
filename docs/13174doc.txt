@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="2143" NEWID="13174">
+<DATE> 3-APR-1987 16:58:33.15</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2391&#31;reute
+r f BC-WAREHOUSE-CLUB-&lt;WCLB>   04-03 0077</UNKNOWN>
+<TEXT>&#2;
+<TITLE>WAREHOUSE CLUB &lt;WCLB> TO TAKE CHARGE</TITLE>
+<DATELINE>    CHICAGO, April 3 - </DATELINE><BODY>Warehouse Club Inc said it expects to
+take a one-time charge of about five mln dlrs on its June 30
+third quarter results from closing of two unprofitable Chicago
+area units.
+    The company said it will continue to operate 12 warehouses
+in Illinois, Indiana, Michigan, Ohio and Pennsylvania.
+    It added that it expects future operating results to be
+improved because of the closing of the two warehouses.
+ Reuter
+&#3;</BODY></TEXT>

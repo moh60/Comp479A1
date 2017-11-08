@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12725" NEWID="542">
+<DATE> 2-MAR-1987 12:12:21.39</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F Y
+&#22;&#22;&#1;f0195&#31;reute
+d f BC-POGO-&lt;PPP>-CONSOLIDAT   03-02 0051</UNKNOWN>
+<TEXT>&#2;
+<TITLE>POGO &lt;PPP> CONSOLIDATES TWO DIVISIONS</TITLE>
+<DATELINE>    HOUSTON, March 2 - </DATELINE><BODY>Pogo Producing Co said it has
+consolidated its onshore and offshore Gulf Coast divisions into
+a Southern Division responsible for its onshore and offshore
+oil and gas exploration and development activities in the Gulf
+Coast and Gulf of Mexico areas.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10951" NEWID="6038">
+<DATE>17-MAR-1987 11:39:54.35</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f5452&#31;reute
+r f BC-BUTLER-&lt;BTLR>-TO-BUY   03-17 0061</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BUTLER &lt;BTLR> TO BUY BACK 600,000 SHARES</TITLE>
+<DATELINE>    KANSAS CITY, MO., March 17 - </DATELINE><BODY>Butler Manufacturing Co said
+its board authorized the repurchase of up to 600,000 shares, or
+12 pct of its outstanding common stock.
+    It said purchases will be made in open market and private
+transactions through Kidder, Peabody and Co.
+    Butler currently has 5,001,848 shares outstanding.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,32 @@
+
+<REUTERS TOPICS="BYPASS" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="2676" NEWID="13693">
+<DATE> 7-APR-1987 09:12:09.02</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM CQ MQ FQ EQ
+&#22;&#22;&#1;f0716&#31;reute
+u f BC-NY-COMEX-GOLD-OPG-TRE   04-07 0068</UNKNOWN>
+<TEXT TYPE="UNPROC">&#2;
+NY COMEX GOLD OPG TRENDS 7-APR
+          OPEN      P SETT
+ APR7 4205            4185
+ MAY7  --             4202
+ JUN7 4250            4226
+ AUG7 4300            4273
+ OCT7 4340            4317
+ DEC7 4373            4361
+ FEB8 4430            4407
+ APR8  --             4453
+ JUN8  --             4498
+ AUG8  --             4546
+ OCT8  --             4595
+ DEC8  --             4644
+ FEB9  --             4692
+&#3;
+
+</TEXT>

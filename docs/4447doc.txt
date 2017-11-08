@@ -1,0 +1,32 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9360" NEWID="4447">
+<DATE>12-MAR-1987 15:00:28.53</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0185&#31;reute
+u f BC-FIRST-GRANITE-&lt;FGBI>   03-12 0068</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FIRST GRANITE &lt;FGBI> AGREES TO BE ACQUIRED</TITLE>
+<DATELINE>    GRANITE CITY, ILL., March 12 - </DATELINE><BODY>First Granite Bancorp Inc
+said it agreed in principle to become a wholly owned subsidiary
+of Magna Group Inc &lt;MAGI>.
+    Under terms of the agreement, First Granite shareholders
+will receive 2.175 shares of Magna for each First Granite share
+held. First Granite shareholders will be asked to approve the
+tranaction in late summer.
+    First Granite, which has 675,000 shares outstanding, as of
+Dec 31, 1986 had assets of 186.5 mln dlrs. It owns First
+Granite City National Bank and Colonial Bank of Granite City,
+Ill.
+    Magna Groups as of Dec 31, 1986 had assets of 1.47 billion
+dlrs. It owns 13 banks, a data services company, a mortgage
+company and a trust company, serving St. Louis as well as
+Springfield, Centralia and Decatur, Ill.
+ Reuter
+&#3;</BODY></TEXT>

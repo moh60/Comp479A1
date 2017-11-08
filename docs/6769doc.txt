@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11682" NEWID="6769">
+<DATE>18-MAR-1987 15:40:08.73</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f9287&#31;reute
+d f BC-WESTERN-WASTE-&lt;WWIN>   03-18 0066</UNKNOWN>
+<TEXT>&#2;
+<TITLE>WESTERN WASTE &lt;WWIN> DENIES CHARGES</TITLE>
+<DATELINE>    GARDENA, Calif., March 18 - </DATELINE><BODY>Western Waste Industries said
+it believes charges alleging that the company illegally
+transported and disposed of hazardous waste are unfounded.
+    A complaint, filed by the Los Angeles County District
+Attorney's office, alleges that the company was involved in the
+disposal of materials at county landfills, Western Waste said.
+ Reuter
+&#3;</BODY></TEXT>

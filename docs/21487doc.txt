@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="19949" NEWID="21487">
+<DATE>19-OCT-1987 08:26:13.33</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f0770&#31;reute
+d f BC-BECHTEL,-CONTROL-RESO   10-19 0043</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BECHTEL, CONTROL RESOURCE &lt;CRIX.O> IN VENTURE</TITLE>
+<DATELINE>    SAN FRANCISCO, Oct 19 - </DATELINE><BODY>&lt;Bechtel Corp> said it has formed a
+joint venture with Control Resource Industries Inc called
+Bechtel-Control Asbestos Management Inc to perform large-scale
+asbestos abatement projects.
+ Reuter
+&#3;</BODY></TEXT>

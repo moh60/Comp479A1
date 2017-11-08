@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="1664" NEWID="12588">
+<DATE> 2-APR-1987 10:39:40.51</DATE>
+<TOPICS><D>money-fx</D><D>stg</D></TOPICS>
+<PLACES></PLACES>
+<PEOPLE><D>lawson</D></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f1255&#31;reute
+f f BC-Lawson-says-his-sterl   04-02 0014</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE> Lawson says his sterling target comments were misunderstood, and insignificant
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

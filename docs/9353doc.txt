@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14874" NEWID="9353">
+<DATE>25-MAR-1987 10:58:09.03</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1232&#31;reute
+r f BC-ROLLS-ROYCE-SIGNS-NEW   03-25 0079</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ROLLS-ROYCE SIGNS NEW ENGINE DEAL WITH BOEING</TITLE>
+<DATELINE>    LONDON, March 25 - </DATELINE><BODY>&lt;Rolls-Royce Ltd> said it signed an
+agreement with the Boeing Company &lt;BA.N> to install its RB
+211-524 D4D engine on the B767 family of aircraft.
+    The engine, currently under development, will be ready for
+service by early 1990, the company said in a statement.
+    Boeing 747s are also powered with the engine, and its use
+in B767 craft too could bring significant operating benefits,
+Rolls-Royce said.
+ Reuter
+&#3;</BODY></TEXT>

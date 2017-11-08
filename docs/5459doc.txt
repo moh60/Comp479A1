@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10372" NEWID="5459">
+<DATE>16-MAR-1987 12:01:21.96</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2647&#31;reute
+d f BC-EASTMAN-KODAK-&lt;EK>-SE   03-16 0072</UNKNOWN>
+<TEXT>&#2;
+<TITLE>EASTMAN KODAK &lt;EK> SETS CHEMICAL VENTURE</TITLE>
+<DATELINE>    SAN FRANCISCO, March 16 - </DATELINE><BODY>&lt;Wilson and George Meyer and Co>
+and the Eastman Chemicals division of Eastman Kodak Co said
+they formed 50-50 joint venture called WGM/Eastman Inc.
+    According to the agreement, Eastman will buy Meyer and Co's
+interest in the unit by the end of 1991.
+    The unit will supply Eastman Kodak chemicals to companies
+in the western region of the U.S., they said.
+
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9476" NEWID="4563">
+<DATE>12-MAR-1987 17:02:16.19</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0617&#31;reute
+r f BC-WISCONSIN-ELECTRIC-&lt;W   03-12 0096</UNKNOWN>
+<TEXT>&#2;
+<TITLE>WISCONSIN ELECTRIC &lt;WTC> TO CALL PREFERRED</TITLE>
+<DATELINE>    MILWAUKEE, March 12 - </DATELINE><BODY>Wisconsin Energy Corp's Wisconsin
+Electric Power Co said it will redeem its 100 dlr par value
+serial preferred stock on April 14.
+    Wisconsin Electric said it will redeem 333,325 shares of
+its 8.9 pct preferred at 101 dlrs a share, 225,810 shares of
+its 7.75 pct preferred at 101 dlrs a share, and 140,967 shares
+of its 8.8 pct preferred at 105.87 dlrs a share.
+    The redemption will be financed from a new issue of the
+company's preferred stock.
+    First Wisconsin Trust Co will be the redemption agent.
+ Reuter
+&#3;</BODY></TEXT>

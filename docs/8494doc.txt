@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14015" NEWID="8494">
+<DATE>23-MAR-1987 15:57:05.44</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2306&#31;reute
+r f BC-ANCHOR-SAVINGS-BANK-M   03-23 0067</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ANCHOR SAVINGS BANK MEMBERS APPROVE CONVERSION</TITLE>
+<DATELINE>    NORTHPORT, N.Y., March 23 - </DATELINE><BODY>Anchor Savings Bank board of
+trustees said a requisite majority of depositors and borrowers,
+by a vote of 37,531,576 to 714,490, approved Anchor's plan to
+convert from a federally chartered mutual savings bank to a
+federally chartered stock savings bank.
+    Anchor had assets of 7.3 billion dlrs as of June 30, 1986,
+it said.
+ Reuter
+&#3;</BODY></TEXT>

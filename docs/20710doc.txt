@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="21305" NEWID="20710">
+<DATE>20-OCT-1987 16:17:12.09</DATE>
+<TOPICS><D>pet-chem</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f3153&#31;reute
+h f BC-OLIN-&lt;OLN>,-DU-PONT-&lt;   10-20 0068</UNKNOWN>
+<TEXT>&#2;
+<TITLE>OLIN &lt;OLN>, DU PONT &lt;DD> COMPLETE PLANT</TITLE>
+<DATELINE>    STAMFORD, Conn., Oct 20 - </DATELINE><BODY>Olin Corp said construction was
+completed on a 150 mln dlrs chlor/alkali plant it owns jointly
+with EI du Pont de Nemours Co.
+    The company said the plant, which is located in Niagara
+Falls, New York, will begin operations in December.
+    The plant, which has a 660-ton per day capacity, will be
+operated by du Pont, the company said.
+ Reuter
+&#3;</BODY></TEXT>

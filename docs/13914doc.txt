@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="2897" NEWID="13914">
+<DATE> 7-APR-1987 10:30:54.86</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1018&#31;reute
+r f BC-&lt;KINGSTON-SYSTEMS-INC   04-07 0054</UNKNOWN>
+<TEXT>&#2;
+<TITLE>&lt;KINGSTON SYSTEMS INC> INITIAL OFFERING UNDERWAY</TITLE>
+<DATELINE>    NEW YORK, April 7 - </DATELINE><BODY>Lead underwriter Woolcott and Co Inc
+said an initial public offering of 1,100,000 shares of Kingston
+Systems Inc is underway at eight dlrs per share.
+    Underwriters have been granted an option to buy up to
+165,000 more shares to cover overallotments.
+ Reuter
+&#3;</BODY></TEXT>

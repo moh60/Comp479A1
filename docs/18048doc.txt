@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7493" NEWID="18048">
+<DATE> 2-JUN-1987 11:08:48.90</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1325&#31;reute
+u f BC-PHH-GROUP-INC-&lt;PHH>-4   06-02 0057</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PHH GROUP INC &lt;PHH> 4TH QTR APRIL 30 NET</TITLE>
+<DATELINE>    HUNT VALLEY, Md., June 2 -
+    </DATELINE><BODY>Shr 71 cts vs 47 cts
+    Net 12.1 mln vs 7.8 mln
+    Revs 369.8 mln vs 307.9 mln
+    12 mths
+    Shr 2.35 dlrs vs 2.33 dlrs
+    Net 39.5 mln vs 39 mln
+    Revs 1.36 billion vs 1.24 billion
+    NOTE: Prior year restated to reflect results from current
+year acquisitions.
+
+ Reuter
+&#3;</BODY></TEXT>

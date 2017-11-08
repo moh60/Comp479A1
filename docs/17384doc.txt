@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="NOT-USED" CGISPLIT="PUBLISHED-TESTSET" OLDID="22062" NEWID="17384">
+<DATE>29-APR-1987 07:46:16.86</DATE>
+<TOPICS><D>jobs</D></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS><D>ec</D></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0561&#31;reute
+r f BC-EC-UNEMPLOYMENT-FALLS   04-29 0101</UNKNOWN>
+<TEXT>&#2;
+<TITLE>EC UNEMPLOYMENT FALLS BELOW 17 MLN IN MARCH</TITLE>
+<DATELINE>    LUXEMBOURG, April 29 - </DATELINE><BODY>Unemployment in the European
+Community fell in March to 16.8 mln from 17 mln in February
+thanks to an improvement in the weather, the EC's statistics
+agency Eurostat said.
+    It said the number of jobless fell in all 12 Community
+member states as weather conditions improved, though France,
+Italy and Spain saw declines of less than one pct.
+    There was also a particularly large drop in the number of
+jobless under-25s in all states except Italy, where 19,300 more
+young people were unemployed in March than in the month before.
+ REUTER
+&#3;</BODY></TEXT>

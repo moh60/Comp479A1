@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14275" NEWID="8754">
+<DATE>24-MAR-1987 10:16:22.83</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>switzerland</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f1055&#31;reute
+b f BC-HOECHST-UNIT-ISSUING   03-24 0048</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HOECHST UNIT ISSUING 130 MLN SWISS FRANC BOND</TITLE>
+<DATELINE>    ZURICH, March 24 - </DATELINE><BODY>Hoechst Invest NV, a Dutch finance
+subsidiary of Hoechst AG of West Germany, is issuing a 130 mln
+Swiss franc five pct bond, lead manager Credit Suisse said.
+    The par-priced, 14-year is guaranteed by Hoechst AG.
+  REUTER
+&#3;</BODY></TEXT>

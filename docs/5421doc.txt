@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10334" NEWID="5421">
+<DATE>16-MAR-1987 11:29:50.35</DATE>
+<TOPICS><D>pet-chem</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2493&#31;reute
+r f BC-HOECHST-CELANESE-SETS   03-16 0079</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HOECHST CELANESE SETS EXPANSION PROGRAM</TITLE>
+<DATELINE>    NEW YORK, March 16 - </DATELINE><BODY>Hoechst AG's &lt;HFAG.F> U.S. unit,
+Hoechst Celanese Corp, said it has begun projects that will
+cost more than 150 mln dlrs.
+    The unit was formed last month when Hoechst completed the
+acquisition of Celanese for 2.84 billion dlrs.
+    The company said it will expand its Sanwet super absorbent
+polymers unit and its acrylic acid facility. It also said it
+plans an acetaminophen production plant at Bishop, Texas.
+
+ Reuter
+&#3;</BODY></TEXT>

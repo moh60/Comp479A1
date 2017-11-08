@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5489" NEWID="15591">
+<DATE> 9-APR-1987 10:50:41.65</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1170&#31;reute
+r f BC-LVI-GROUP-&lt;LVI>-TO-MA   04-09 0099</UNKNOWN>
+<TEXT>&#2;
+<TITLE>LVI GROUP &lt;LVI> TO MAKE ACQUISITION</TITLE>
+<DATELINE>    NEW YORK, April 9 - </DATELINE><BODY>LVI Group Inc said it has agreed in
+principle to purchase all outstanding shares of &lt;Spectrum
+Holding Corp> for a proposed 13 mln dlrs in cash.
+    LVI said an additional 10 mln dlrs in common stock and
+seven mln dlrs in notes will become payable if Spectrum has
+certain minimum future earnings.
+    LVI, an interior construction firm, said the acquisition is
+subject to execution of a definitive agreement and completion
+of due diligence.
+    LVI and Spectrum, an asbestos abatement concern, expect to
+close the deal in June, LVI said.
+ Reuter
+&#3;</BODY></TEXT>

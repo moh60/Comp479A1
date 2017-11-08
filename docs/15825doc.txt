@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5180" NEWID="15825">
+<DATE> 9-APR-1987 14:33:40.58</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2088&#31;reute
+a f BC-MINNESOTA-LASER-INTRO   04-09 0058</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MINNESOTA LASER INTRODUCES NEW SURGICAL LASERS</TITLE>
+<DATELINE>    ST. PAUL, April 9 - </DATELINE><BODY>Minnesota Laser Corp said it introduced
+a new line of Coagulase Series Nd:YAG surgical laser systems.
+    It said the lasers use 400 micron fiberoptics designed for
+endoscopic, microscopic and freehand surgical applications in
+gynecology, urology, gastroenterology and pulmonology.
+ Reuter
+&#3;</BODY></TEXT>

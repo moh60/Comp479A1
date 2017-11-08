@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7772" NEWID="18327">
+<DATE> 2-JUN-1987 17:46:44.05</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2805&#31;reute
+u f BC-TCBY-&lt;TCBY.O>-WITHDRA   06-02 0083</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TCBY &lt;TCBY.O> WITHDRAWS REGISTRATION</TITLE>
+<DATELINE>    LITTLE ROCK, Ark., June 2 - </DATELINE><BODY>TCBY Enterprises Inc said it
+will apply to the Securities and Exchange Commission to
+withdraw its registration statement filed May 14 for 30 mln
+dlrs of subordinated convertible debentures due to unfavorable
+market conditions.
+    THe company said other forms of financing available to the
+company and working capital are more than sufficient to fund
+the uses for which the proceeds of the debentures offering were
+to be applied.
+ Reuter
+&#3;</BODY></TEXT>

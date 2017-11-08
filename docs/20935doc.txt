@@ -1,0 +1,35 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20502" NEWID="20935">
+<DATE>19-OCT-1987 16:41:14.52</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f3106&#31;reute
+r f BC-TEXACO-&lt;TX>,-U.S.-TO   10-19 0102</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TEXACO &lt;TX>, U.S. TO STUDY SULPHUR REMOVAL</TITLE>
+<DATELINE>    WHITE PLAINS, N.Y., Oct 19 - </DATELINE><BODY>Texaco Inc said removal of
+sulphur emissions from the hot coal gases inside Texaco's coal
+gasifier will be studied under a two-phase, five-year program
+agreed to with the U.S. Energy Department.
+    Texaco said the program could total some 17 mln dlrs in
+joint government/industry funding. The company has agreed tp
+contributed a minimum of 20 pct of the cost, it said.
+    The agreement calls for the DOE to fund the remainder,
+Texaco said, adding the private sectors share could grow if
+other organizations joint the test prgram.
+   
+    Texaco said the experimental technique involves injecting
+"sorbents" such as iron oxide or calcium compounds directly
+into the gasification vessel used in its proprietary Coal
+Gasification Process.
+    Such in situ sulphur capture could reduce or eliminate the
+need for separte clean-up devices after syhthetic gas is
+produced from coal, the company explained.
+ Reuter
+&#3;</BODY></TEXT>

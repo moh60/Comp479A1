@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18954" NEWID="2536">
+<DATE> 5-MAR-1987 18:30:17.59</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>nyse</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0114&#31;reute
+r f BC-NYSE-MEMBERS-VOTE-TO   03-05 0089</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NYSE MEMBERS VOTE TO LIFT LIMIT ON PENALTIES</TITLE>
+<DATELINE>    NEW YORK, March 5 - </DATELINE><BODY>The New York Stock Exchange said its
+members overwhelmingly approved a rule change that elminates
+the limits on fines imposed as a result of disciplinary
+proceedings.
+    The NYSE said the amendment to its constitution, already
+approved by its board, must now be approved by the Securities
+and Exchange Commission.
+    The NYSE said it currently limits penalties to a maximum of
+25,000 dlrs per charge against individuals and 100,000 dlrs per
+charge against firms.
+ Reuter
+&#3;</BODY></TEXT>

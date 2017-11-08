@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17203" NEWID="11142">
+<DATE>30-MAR-1987 18:30:18.58</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2778&#31;reute
+r f BC-SOCIETY-FOR-SAVINGS-&lt;   03-30 0062</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SOCIETY FOR SAVINGS &lt;SOCS> TO OFFER NOTES</TITLE>
+<DATELINE>    HARTFORD, Conn, March 30 - </DATELINE><BODY>Society for Savings said it will
+offer up to 100 mln dlrs aggregate principal amount of its
+medium-term notes, with maturities from one year up to five
+years from the date of issue.
+    Each note will bear interest at a fixed rate or variable
+rate formula established at the time of issuance, it said.
+ Reuter
+&#3;</BODY></TEXT>

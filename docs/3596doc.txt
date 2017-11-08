@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="8509" NEWID="3596">
+<DATE>11-MAR-1987 09:44:32.51</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0071&#31;reute
+b f BC-/GOODYEAR-&lt;GT>-TO-REC   03-11 0112</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GOODYEAR &lt;GT> TO RECEIVE 588 MLN DLRS FOR UNIT</TITLE>
+<DATELINE>    AKRON, Ohio, March 11 - </DATELINE><BODY>Goodyear Tire and Rubber Co said it
+will receive about 588 mln dlrs in cash from Loral Corp &lt;LOR>
+for the business of Goodyear Aerospace Corp.
+    Goodyear said the previously announced acquisition by Loral
+is expected to be completed March 13. When Loral announced the
+transaction January 12, the company said it was paying 640 mln
+dlrs for Goodyear Aerospace.
+    Goodyear said the price it will receive is after
+adjustments for such items as pension and benefits provision,
+allocation of liabilities and asset valuations. Last year
+Goodyear Aerospace had revenues of 695 mln dlrs.               
+ Reuter
+&#3;</BODY></TEXT>

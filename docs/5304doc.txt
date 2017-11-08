@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10217" NEWID="5304">
+<DATE>16-MAR-1987 08:57:53.18</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1888&#31;reute
+u f BC-NORTHERN-AIR-FREIGHT   03-16 0060</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NORTHERN AIR FREIGHT &lt;NAFI> GETS, REJECTS, BID</TITLE>
+<DATELINE>    LIMA, Pa., March 16 - </DATELINE><BODY>Privately-held &lt;Pilot Air Freight>
+said it met with officials of Northern Air Freight Inc to try
+to negotiate a friendly acquisition of Northern, but Northern's
+management had no interest in the proposal.
+    Northern has annual revenues of about 60 mln dlrs and is
+based in Seattle.
+     
+ Reuter
+&#3;</BODY></TEXT>

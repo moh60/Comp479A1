@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6332" NEWID="18580">
+<DATE>18-JUN-1987 08:20:00.07</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A RM 
+&#22;&#22;&#1;f2788&#31;reute
+r f BC-EXIDE-SELLS-10-YEAR-S   06-18 0092</UNKNOWN>
+<TEXT>&#2;
+<TITLE>EXIDE SELLS 10-YEAR SENIOR SUBORDINATED NOTES</TITLE>
+<DATELINE>    NEW YORK, June 18 - </DATELINE><BODY>Exide Corp is raising 135 mln dlrs via
+an offering of senior subordinated notes due 1997 yielding
+13.01 pct, said sole manager Drexel Burnham Lambert Inc.
+    The notes have a 12-7/8 pct coupon and were priced at
+99.25, Drexel said. The issue is non-callable for three years
+and non-refundable for five years.
+    Moody's rates the notes B-2 and Standard and Poor's rates
+them B-minus. The gross spread is 33.75 dlrs, the selling
+concession is 21 dlrs and the reallowance is 2.50 dlrs.
+ Reuter
+&#3;</BODY></TEXT>

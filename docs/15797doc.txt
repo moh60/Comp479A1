@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5152" NEWID="15797">
+<DATE> 9-APR-1987 13:57:37.02</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1991&#31;reute
+d f BC-SILICON-SYSTEMS-INC-&lt;   04-09 0051</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SILICON SYSTEMS INC &lt;SLCN> 2ND QTR MARCH 28</TITLE>
+<DATELINE>    TUSTIN, Calif., April 9 -
+    </DATELINE><BODY>Shr profit five cts vs profit two cts
+    Net profit 325,000 vs profit 105,000
+    Revs 19.5 mln vs 16.1 mln
+    Six Mths
+    Shr profit nine cts vs loss 35 cts
+    Net profit 627,000 vs loss 2,280,000
+    Revs 36.9 mln vs 27.4 mln
+ Reuter
+&#3;</BODY></TEXT>

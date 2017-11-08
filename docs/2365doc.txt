@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18782" NEWID="2365">
+<DATE> 5-MAR-1987 14:44:17.27</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F A
+&#22;&#22;&#1;f0441&#31;reute
+r f BC-FIRST-UNION-&lt;FUNC>-TO   03-05 0082</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FIRST UNION &lt;FUNC> TO BUY FLORIDA BANK</TITLE>
+<DATELINE>    JACKSONVILLE, Fla., March 5 - </DATELINE><BODY>First Union Corp said it has
+agreed to acquire First State Bancshares Inc of Pensacola,
+Fla.,  and its First State Bank of Pensacola subsidiary for
+about 457,000 common shares.
+    First State has assets of about 110 mln dlrs.  The
+acquisition, expected to be treated as a pooling of interests,
+is expected to be completed in the third quarter of 1987
+subject to approval by regulatory agencies and First State
+shareholders.
+ Reuter
+&#3;</BODY></TEXT>

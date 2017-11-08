@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19517" NEWID="3102">
+<DATE> 9-MAR-1987 10:36:08.22</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0311&#31;reute
+u f BC-ADVANCED-TOBACCO-&lt;ATP   03-09 0062</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ADVANCED TOBACCO &lt;ATPI> TO MAKE ANNOUCEMENT</TITLE>
+<DATELINE>    SAN ANTONIO, Tex., March 9 - </DATELINE><BODY>Advanced Tobacco Products Inc
+said it will make an announcement regarding its stock halt this
+morning on NASDAQ.
+    The company said lawyers are preparing the release with
+company officials and should be making the announcement within
+the hour.
+    The stock's last bid was 3/8 and last ask 1/2.
+ Reuter
+&#3;</BODY></TEXT>

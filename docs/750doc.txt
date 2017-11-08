@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12934" NEWID="750">
+<DATE> 2-MAR-1987 16:04:26.65</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0979&#31;reute
+d f BC-VIDEO-SHOPPING-MALL-A   03-02 0056</UNKNOWN>
+<TEXT>&#2;
+<TITLE>VIDEO SHOPPING MALL ADDS FLORIDA STATION</TITLE>
+<DATELINE>    JENKINTOWN, Pa., March 2 - </DATELINE><BODY>&lt;Video Shopping Mall Inc> said
+it signed WJTC-TV, Pensacola, Fla, to carry its
+self-improvement and specialized business opportunity programs.
+    Video Shopping said the station, carried over UHF channel
+44 in the Pensacola area, reaches about 120,000 households.
+ Reuter
+&#3;</BODY></TEXT>

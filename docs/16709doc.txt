@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1244" NEWID="16709">
+<DATE>13-APR-1987 17:16:00.64</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2684&#31;reute
+d f BC-MEDI-RX-&lt;MDRX.O>-NAME   04-13 0102</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MEDI-RX &lt;MDRX.O> NAMED IN ARBRITRATION REQUEST</TITLE>
+<DATELINE>    JENKINTOWN, Pa., April 13 - </DATELINE><BODY>&lt;Forber and Platel Inc> said it
+filed a demand for arbitration against Medi-Rx America Inc that
+seeks damages of more than five mln dlrs.
+    The company said that its demand alleges breach of
+contract, tortious interference with contractual relationships
+and fraud.
+    The company said it signed a contract with Medi-Rx to sell
+mail order prescription services and prescribed medical
+products for Medi-Rx. The company said that Medi-Rx violated
+terms of the contract and failed to pay commissions as provided
+for under the agreement.
+ Reuter
+&#3;</BODY></TEXT>

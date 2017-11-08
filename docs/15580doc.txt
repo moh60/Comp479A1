@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5478" NEWID="15580">
+<DATE> 9-APR-1987 10:40:33.86</DATE>
+<TOPICS><D>grain</D></TOPICS>
+<PLACES><D>argentina</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;C G
+&#22;&#22;&#1;f1123&#31;reute
+r f BC-ARGENTINE-GRAIN-BELT   04-09 0099</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ARGENTINE GRAIN BELT WEATHER REPORT</TITLE>
+<DATELINE>    BUENOS AIRES, ABR 9 - </DATELINE><BODY>ARGENTINE GRAIN BELT TEMPERATURES
+(CENTIGRADE) AND RAIN (MM) IN THE 24 HOURS TO 12.00 GMT WERE:
+    ...............MAX TEMP..MIN TEMP..RAINFALL
+    BUENOS AIRES.......24.......12............0
+    BAHIA BLANCA.......22........7............0
+    TRES ARROYOS.......22........8............0
+    TANDIL.............22........7............0
+    JUNIN..............24.......11............0
+    SANTA ROSA.........--........6............0
+    CORDOBA............23.......12............1
+    SANTA FE...........21.......18...........17 REUTER
+&#3;</BODY></TEXT>

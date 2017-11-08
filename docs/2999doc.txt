@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19417" NEWID="2999">
+<DATE> 9-MAR-1987 04:48:20.72</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0395&#31;reute
+u f BC-ICI-SELLS-STAKE-IN-LI   03-09 0056</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ICI SELLS STAKE IN LISTER AND CO</TITLE>
+<DATELINE>    LONDON, March 9 - </DATELINE><BODY>Imperial Chemical Industries Plc &lt;ICI.L>
+said it had today placed its 19.4 pct stake in Lister and Co
+Plc with L Messel and Co and that it had now been placed widely
+among institutions.
+    Lister is a manufacturer, dyer and finisher of cotton, silk
+wool and man-made fibres.
+ REUTER
+&#3;</BODY></TEXT>

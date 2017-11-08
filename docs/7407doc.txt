@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12320" NEWID="7407">
+<DATE>19-MAR-1987 16:03:50.71</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2353&#31;reute
+r f BC-AMBASSADOR-FINANCIAL   03-19 0095</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AMBASSADOR FINANCIAL &lt;AFGI> UNIT TO BUY BUILDER</TITLE>
+<DATELINE>    TAMARAC, Fla., March 19 - </DATELINE><BODY>Ambassador Financial Group Inc
+said its Ambassador Real Estate Equities Corp, agreed to buy
+Heritage Quality Construction Co Inc.
+    Ambassador said its unit would purchase 100 pct of
+Heritage's stock for an initial payment of approximately
+500,000 dlrs and subsequent payments in cash over a five-year
+period equal to 50 pct of the net after-tax profit of Heritage.
+    If the acquisition is consummated, Ambassador said it
+agreed to contribute 250,000 dlrs to the existing capital of
+Heritage.
+ Reuter
+&#3;</BODY></TEXT>

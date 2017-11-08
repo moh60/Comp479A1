@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="21391" NEWID="20796">
+<DATE>20-OCT-1987 18:06:58.57</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F 
+&#22;&#22;&#1;f3500&#31;reute
+r f BC-Canadian-Utilities   10-20 0030</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CANADIAN UTILITIES &lt;CU.TO> LIFTS QTLY DIVIDEND</TITLE>
+<DATELINE>    EDMONTON, Alberta, Oct 20 -
+    </DATELINE><BODY>Qtly div 33 cts vs 32-1/2 cts
+    Pay Dec one
+    Record Nov six
+    Note: Canadian Utilities Ltd.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19513" NEWID="3098">
+<DATE> 9-MAR-1987 10:33:18.59</DATE>
+<TOPICS><D>orange</D></TOPICS>
+<PLACES><D>usa</D><D>brazil</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C T
+&#22;&#22;&#1;f0291&#31;reute
+u f BC-/U.S.-RULING-ON-BRAZI   03-09 0080</UNKNOWN>
+<TEXT>&#2;
+<TITLE>U.S. RULING ON BRAZIL FCOJ MAY COME TOMORROW</TITLE>
+<DATELINE>    WASHINGTON, March 9 - </DATELINE><BODY>A decision on final dumping duties on
+frozen orange juice from Brazil may not be issued until
+tomorrow, Commerce Department officials said.
+    They said the department has until midnight tonight to set
+the duty but may not make the finding public until tomorrow.
+    A preliminary duty of 8.54 pct was set October 17, 1986.
+    The final ruling will be based on more detailed
+information, the officials said.
+ Reuter
+&#3;</BODY></TEXT>

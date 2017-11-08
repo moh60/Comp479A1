@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18250" NEWID="1833">
+<DATE> 4-MAR-1987 17:07:06.01</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0878&#31;reute
+r f BC-HUNTERDON-&lt;HUNT>-SETS   03-04 0105</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HUNTERDON &lt;HUNT> SETS DENTAL VENTURE</TITLE>
+<DATELINE>    YARDLEY, Penn., March 4 - </DATELINE><BODY>Hunterdon Pharmaceuticals Inc
+said it formed a joint venture with &lt;Chesapeake Biological
+Laboratories> and &lt;E.B. Michaels Research Associates> to
+develop C31G, a substance that may be useful in the treatment
+or prevention of plaque.
+    The substance, tested in pre-clinical trials at the
+University of Pennsylvania, also has other uses as an
+anti-fungal or anti-bacterial agent, the company said.
+    It said Chesapeake Biological, a private company, owns 55
+pct of the venture, E.B. Michaels 10 pct, while it holds the
+remaining interest, and the patent for C31G.
+ Reuter
+&#3;</BODY></TEXT>

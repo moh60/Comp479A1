@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17891" NEWID="1473">
+<DATE> 4-MAR-1987 10:22:28.13</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A RM
+&#22;&#22;&#1;f0353&#31;reute
+r f BC-POPE-AND-TALBOT-&lt;POP>   03-04 0099</UNKNOWN>
+<TEXT>&#2;
+<TITLE>POPE AND TALBOT &lt;POP> SELLS CONVERTIBLE DEBT</TITLE>
+<DATELINE>    NEW YORK, March 4 - </DATELINE><BODY>Pope and Talbot Inc is raising 40 mln
+dlrs via an offering of convertible subordinated debentures due
+2012 with a six pct coupon and par pricing, said sole manager
+Bear, Stearns and Co.
+    The debentures are convertible into the company's common
+stock at 51.875 dlrs per share, representing a premium of 25
+pct over the stock price when terms on the debt were set.
+    Non-callable for two years, the debentures are rated Ba-3
+by Moody's and BB-minus by S and P. The issue was increased
+from an initial offering of 35 mln dlrs.
+ Reuter
+&#3;</BODY></TEXT>

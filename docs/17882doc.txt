@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7327" NEWID="17882">
+<DATE> 2-JUN-1987 00:38:09.76</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM AI
+&#22;&#22;&#1;f0021&#31;reute
+f f BC-Tokyo-West-German-eco   06-02 0013</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE>Tokyo-West German economy contracted 1/2 to one pct in 1st qtr - Schlesinger
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

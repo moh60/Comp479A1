@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18146" NEWID="1728">
+<DATE> 4-MAR-1987 15:00:28.79</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A
+&#22;&#22;&#1;f0485&#31;reute
+d f BC-ROBERT-BRUCE-&lt;BRUC>-D   03-04 0060</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ROBERT BRUCE &lt;BRUC> DOWNGRADED BY S/P</TITLE>
+<DATELINE>    NEW YORK, March 4 - </DATELINE><BODY>Standard and Poor's said it lowered
+Robert Bruce Industries Inc's 15 mln dlrs of subordinated
+debentures to CCC from B-minus because of a deterioration in
+earnings and cash flow.
+    Debt leverage has risen to 87 pct and the company has
+suspended dividend payments to conserve cash, S and P noted.
+ Reuter
+&#3;</BODY></TEXT>

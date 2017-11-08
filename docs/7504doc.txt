@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12417" NEWID="7504">
+<DATE>19-MAR-1987 18:41:55.90</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2736&#31;reute
+d f BC-BAYOU-INTERNATIONAL-B   03-19 0070</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BAYOU INTERNATIONAL BUYS STAKE IN SOLOMECS</TITLE>
+<DATELINE>    LOS ANGELES, March 19 - </DATELINE><BODY>&lt;Bayou International Ltd> said it
+purchased one-third of the outstanding stock of Solmecs Corp
+N.V., a Netherlands Antilles corporation, for 1,750,000 dlrs.
+    Bayou said it will also receive two seats on Solmecs'
+board.
+    Bayou Ltd is 55.2 pct owned by Australia Wide Industries
+Ltd.
+    Solmecs develops technology relating to energy conversion.
+ Reuter
+&#3;</BODY></TEXT>

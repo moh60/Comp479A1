@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="863" NEWID="16328">
+<DATE>13-APR-1987 10:57:43.98</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f1255&#31;reute
+f f BC-bank-of-england-to-au   04-13 0015</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE> bank of england to auction up to 3.25 billion stg in gilts, first auction in mid-may
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

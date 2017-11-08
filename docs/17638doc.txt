@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5976" NEWID="17638">
+<DATE> 1-JUN-1987 12:30:21.95</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1678&#31;reute
+r f BC-NORTH-AMERICAN-&lt;NAHL.   06-01 0091</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NORTH AMERICAN &lt;NAHL.O> COMPLETES PLACEMENT</TITLE>
+<DATELINE>    EAST HARTFORD, Conn., June 1 - </DATELINE><BODY>North American Holding Corp
+said it completed a three mln dlr private placement of
+restricted Class A non-voting common stock to two private
+investors.
+    The company said the stock was sold to real estate
+developers Simon Konover of West Hartford, and Harry Gampel of
+Boca Raton, Fla.
+    The transaction is for 375,000 shares of Class A stock, or
+approximately 2.75 pct of the total North American Holding
+voting and non-voting common shares outstanding, it said.
+ Reuter
+&#3;</BODY></TEXT>

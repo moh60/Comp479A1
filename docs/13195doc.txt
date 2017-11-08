@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="2165" NEWID="13195">
+<DATE> 3-APR-1987 17:39:57.25</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2472&#31;reute
+r f BC-OLIN-&lt;OLN>-UNIT-ACQUI   04-03 0042</UNKNOWN>
+<TEXT>&#2;
+<TITLE>OLIN &lt;OLN> UNIT ACQUIRES IMAGE TECHNOLOGY</TITLE>
+<DATELINE>    WEST PATERSON, N.J., APril 3 - </DATELINE><BODY>Olin Corp's Olin Hunt
+Specialty Products Inc said it acquired Image Technology Corp
+for undisclosed terms.
+    Image Technology makes chemicals for the semiconductor
+industry.
+ Reuter
+&#3;</BODY></TEXT>

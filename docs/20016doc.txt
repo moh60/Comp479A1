@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20611" NEWID="20016">
+<DATE>20-OCT-1987 03:02:08.52</DATE>
+<TOPICS><D>money-supply</D></TOPICS>
+<PLACES><D>japan</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM AI 
+&#22;&#22;&#1;f0132&#31;reute
+f f BC-Japan-September-M-2-p   10-20 0014</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE>Japan September M-2 plus CD money supply rises 11.1 pct year on year (Aug 11.0)
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

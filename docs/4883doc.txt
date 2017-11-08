@@ -1,0 +1,31 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9796" NEWID="4883">
+<DATE>13-MAR-1987 12:37:34.33</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>liffe</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0676&#31;reute
+u f BC-LIFFE-EXECUTIVE-GREET   03-13 0112</UNKNOWN>
+<TEXT>&#2;
+<TITLE>LIFFE EXECUTIVE GREETS SEC MOVE ON FUTURES TRADE</TITLE>
+<DATELINE>    LONDON, March 13 - </DATELINE><BODY>A decision by the U.S. Securities and
+Exchange Commission to remove a key regulatory obstacle to
+trading foreign debt futures on U.S. Exchanges was a
+constructive development, London International Financial
+Futures Exchange (LIFFE) Chief Executive Michael Jenkins said.
+    The SEC yesterday agreed to remove the regulation against
+trading futures in designated foreign government debt
+securities on markets not located in the issuing country.
+    Jenkins said the decision cleared the way for the Chicago
+Board of Trade possibly to trade U.K. Long gilt futures and a
+Japanese yen bond contract.
+    The CBOT is now likely to proceed with an application to
+trade gilts to the Commodity Futures Trading Commmission
+(CFTC), he said.
+ REUTER
+&#3;</BODY></TEXT>

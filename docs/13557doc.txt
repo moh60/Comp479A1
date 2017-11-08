@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="2540" NEWID="13557">
+<DATE> 7-APR-1987 07:36:36.97</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;G C
+&#22;&#22;&#1;f0467&#31;reute
+r f BC-ADB-APPROVES-LOANS-FO   04-07 0113</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ADB APPROVES LOANS FOR AGRICULTURAL PROJECTS</TITLE>
+<DATELINE>    MANILA, April 7 - </DATELINE><BODY>The Asian Development Bank (ADB) said it
+approved two loans totalling 75.7 mln dlrs for agricultural
+projects in Bangladesh and Nepal.
+    Both loans are repayable over 40 years, including a 10-year
+grace, and carry a service charge of one pct a year.
+    The bank approved 51.7 mln dlrs for an agricultural inputs
+program for Bangladesh aimed at sustaining foodgrain
+production. The loan will cover the foreign exchange component
+of the project's total cost of 65 mln dlrs .
+    The ADB also approved 24 mln dlrs for an agricultural
+credit project in Nepal to increase foodgrain and dairy produce
+output.
+ REUTER
+&#3;</BODY></TEXT>

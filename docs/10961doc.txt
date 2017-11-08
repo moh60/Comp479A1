@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17022" NEWID="10961">
+<DATE>30-MAR-1987 13:42:58.34</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2059&#31;reute
+d f BC-GOLDEN-POULTRY-&lt;CHIK>   03-30 0056</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GOLDEN POULTRY &lt;CHIK> TO MAKE ACQUISITION</TITLE>
+<DATELINE>    ATLANTA, March 30 - </DATELINE><BODY>golden Poultry Co Inc said it has
+signed a letter of intent to purchase privately-held food
+distributor Don Lowe Foods Inc of Pompano Beach, Fla., for
+undisclosed terms, subject to approval by both boards.
+    It said Tampa operations of Lowe are not involved in the
+sale.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16000" NEWID="10480">
+<DATE>27-MAR-1987 11:23:23.77&#5;&#5;&#5;A RM</DATE>
+<UNKNOWN>&#22;&#22;&#1;f1260&#31;reute</UNKNOWN>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+r f BC-CHOCK-FULL-O'NUTS-&lt;CH   03-27 0104</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CHOCK FULL O'NUTS &lt;CHF> SELLS CONVERTIBLE DEBT</TITLE>
+<DATELINE>    NEW YORK, March 27 - </DATELINE><BODY>Chock Full O'Nuts Corp is raising 60
+mln dlrs through an offering of convertible subordinated
+debentures due 2012 with a seven pct coupon and par pricing,
+said lead manager Drexel Burnham Lambert Inc.
+    The debentures are convertible into the company's common
+stock at 10.75 dlrs per share, representing a premium of 24.6
+pct over the stock price when terms on the debt were set.
+    Non-callable for three years, the issue is rated B-2 by
+Moody's Investors and B-minus by Standard and Poor's. Bear
+Stearns and Ladenburg Thalmann co-managed the deal.
+ Reuter
+&#3;</BODY></TEXT>

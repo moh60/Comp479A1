@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="NOT-USED" CGISPLIT="PUBLISHED-TESTSET" OLDID="21704" NEWID="17081">
+<DATE>24-APR-1987 08:52:42.34</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0734&#31;reute
+r f BC-SERVICE-RESOURCES-&lt;SR   04-24 0099</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SERVICE RESOURCES &lt;SRC> OFFERS SORG &lt;SRG> STAKE</TITLE>
+<DATELINE>    NEW YORK, April 24 - </DATELINE><BODY>Service Resources Corp said its Chas.
+P. Young Co subsidiary, which has offered to acquire Sorg Inc
+in a friendly merger at 22 dlrs per share, is willing to
+explore the possibility that members of the Sorg family and
+other Sorg shareholders could continue to hold an equity
+position in the combined company.
+    The company also said it has received a commitment for up
+to 66 mln dlrs in financing from Security Pacific Corp &lt;SPC>
+for the merger, the repayment of Sorg's bank debt and working
+capital of the combined company.
+ Reuter
+&#3;</BODY></TEXT>

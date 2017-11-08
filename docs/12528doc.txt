@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="1604" NEWID="12528">
+<DATE> 2-APR-1987 09:27:12.03</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0937&#31;reute
+r f BC-LANDMARK-SAVINGS-&lt;LSA   04-02 0051</UNKNOWN>
+<TEXT>&#2;
+<TITLE>LANDMARK SAVINGS &lt;LSA> TO REPURCHASE SHARES</TITLE>
+<DATELINE>    PITTSBURGH, April 2 - </DATELINE><BODY>Landmark Savings Association said its
+board has authorized the repurchase of up to 100,000 shares,
+or four pct of its outstanding stock, from time to time over the
+next 12 months.
+    It said purchases are expected to start around May Four.
+ Reuter
+&#3;</BODY></TEXT>

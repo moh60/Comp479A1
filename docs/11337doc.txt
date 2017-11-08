@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17399" NEWID="11337">
+<DATE>31-MAR-1987 10:09:44.18</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1142&#31;reute
+r f BC-TANDEM-COMPUTERS-&lt;TND   03-31 0049</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TANDEM COMPUTERS &lt;TNDM> PICKED BY FOOD CHAIN</TITLE>
+<DATELINE>    CUPERTINO, Calif., March 31 - </DATELINE><BODY>Tandem Computers Inc said
+&lt;Carr-Gottstein Co Inc>, a grocery and commercial real estate
+concern, installed a Tandem NonStop EXT10 computer system to
+provide check authorization for its statewide chain of
+supermarkets.
+ Reuter
+&#3;</BODY></TEXT>

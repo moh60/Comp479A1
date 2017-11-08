@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15140" NEWID="9619">
+<DATE>25-MAR-1987 17:13:39.17</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2505&#31;reute
+d f BC-MODULAIRE-&lt;MODX>-BUYS   03-25 0051</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MODULAIRE &lt;MODX> BUYS BOISE HOMES PROPERTY</TITLE>
+<DATELINE>    SAN FRANCISCO, March 25 - </DATELINE><BODY>Modulaire Industries said it
+acquired the design library and manufacturing rights of
+privately-owned Boise Homes for an undisclosed amount of cash.
+    Boise Homes sold commercial and residential prefabricated
+structures, Modulaire said.
+ Reuter
+&#3;</BODY></TEXT>

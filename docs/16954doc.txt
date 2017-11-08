@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="NOT-USED" CGISPLIT="PUBLISHED-TESTSET" OLDID="21604" NEWID="16954">
+<DATE>21-APR-1987 07:16:49.50</DATE>
+<TOPICS><D>dlr</D><D>money-fx</D></TOPICS>
+<PLACES><D>japan</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;V
+&#22;&#22;&#1;f0476&#31;reute
+u f BC-BANK-OF-JAPAN-BUYS-MO   04-21 0052</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BANK OF JAPAN BUYS MODERATE DOLLAR SUM -- DEALERS</TITLE>
+<DATELINE>    TOKYO, April 21 - </DATELINE><BODY>The Bank of Japan intervened in the
+market to try to accelerate the dollar's rise after heavy
+dollar buying by institutional investors, dealers said.
+    The central bank bought a moderate amount of dollars at
+around 142.10 yen, they said.
+ REUTER
+&#3;</BODY></TEXT>

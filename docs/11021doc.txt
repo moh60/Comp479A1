@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17082" NEWID="11021">
+<DATE>30-MAR-1987 14:47:40.85</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2284&#31;reute
+d f BC-HARTMARX-&lt;HMX>-UNIT-P   03-30 0094</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HARTMARX &lt;HMX> UNIT PRESIDENT RESIGNS</TITLE>
+<DATELINE>    CHICAGO, March 30 - </DATELINE><BODY>Hartmarx Corp said Geoffrey Bloom
+resigned as president and chief executive officer of its
+Jaymar-Ruby Inc subsidiary to accept the position of president
+and chief operating officer of Wolverine World Wide Inc &lt;WWW>.
+    It said Elbert Hand, president and chief operating officer
+of Hartmarx, and president and chief executive officer of the
+Hartmarx Men's Apparel Group, was named chief executive officer
+of Jaymar-Ruby Inc. Burton Ruby, son of the Jaymar-Ruby
+founder, remains as chairman.
+          
+ Reuter
+&#3;</BODY></TEXT>

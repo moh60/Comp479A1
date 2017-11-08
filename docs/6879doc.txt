@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11792" NEWID="6879">
+<DATE>18-MAR-1987 17:15:27.55</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D><D>japan</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f9588&#31;reute
+r f BC-PRISM-ENTERTAINMENT-&lt;   03-18 0089</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PRISM ENTERTAINMENT &lt;PRZ> TO SELL VIDEO IN JAPAN</TITLE>
+<DATELINE>    LOS ANGELES, March 18 - </DATELINE><BODY>Prism Entertainment Corp said it
+has entered an acquisition and distribution agreement with
+Tokyo-based Gaga Communications to make and distribute home
+video titles in Japan under the Prism label.
+    Both companies will provide funding for joint acquisitions
+of up to ten mln dlrs.
+    Gaga is a subsidiary of Nihon Tape Corp, Japan's largest
+wholesaler of pre-recorded cassettes.
+    Gaga will manufacture and distribute the videos for the
+Japanese market.
+ Reuter
+&#3;</BODY></TEXT>

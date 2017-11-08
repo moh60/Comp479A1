@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="2030" NEWID="13061">
+<DATE> 3-APR-1987 14:14:40.28</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1938&#31;reute
+r f BC-TOYOTA-ANNOUNCES-HIGH   04-03 0047</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TOYOTA ANNOUNCES HIGHER DOMESTIC CAR SALES</TITLE>
+<DATELINE>    TORRANCE, Calif., April 3 - </DATELINE><BODY>Toyota Motor Sales U.S.A. Inc
+said domestic car sales for the month of march rose four pct to
+40,554 units from 39,008, but truck sales were down 19.3 pct to
+28,046, compared with the 34,745 sold in March 1986.
+ Reuter
+&#3;</BODY></TEXT>

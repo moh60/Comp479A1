@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7074" NEWID="19238">
+<DATE>19-JUN-1987 11:55:44.34</DATE>
+<TOPICS><D>ship</D></TOPICS>
+<PLACES><D>netherlands</D><D>west-germany</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G T M 
+&#22;&#22;&#1;f1365&#31;reute
+r f BC-RHINE-BLOCKED-FOR-THR   06-19 0096</UNKNOWN>
+<TEXT>&#2;
+<TITLE>RHINE BLOCKED FOR THREE MORE WEEKS - SALVAGER</TITLE>
+<DATELINE>    ROTTERDAM, June 19 - </DATELINE><BODY>Dutch salvage firm Smit-Tak said it
+may take some three weeks to lift the Swiss tug Orinoko and its
+lighter Pavo which sank 10 days ago at Karlsruhe in West
+Germany, blocking the Rhine river.
+    Smit-Tak, which with its West German subsidiary Harms
+Bergung GmbH was commissioned by the local water authorities to
+raise the vessels, said its lifting fleet was in position and
+divers had made the first inspection.
+    Smit is still preparing its final salvage plan and said the
+work would begin on Sunday.
+ Reuter
+&#3;</BODY></TEXT>

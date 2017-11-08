@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10927" NEWID="6014">
+<DATE>17-MAR-1987 11:15:25.35</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f5340&#31;reute
+r f BC-&lt;WARNACO-GROUP-INC>-E   03-17 0072</UNKNOWN>
+<TEXT>&#2;
+<TITLE>&lt;WARNACO GROUP INC> EIGHT MTHS JAN THREE NET</TITLE>
+<DATELINE>    NEW YORK, March 17 -
+    </DATELINE><BODY>Oper net 46.6 mln
+    Revs 392 mln
+    12 mths
+    Oper net 65 mln vs 47.1 mln
+    Revs 590 mln vs 591 mln
+    NOTE: Eight months represents earnings following
+acquisition in May 1986 when company went private.
+    Period ending Jan. 3, 1987 excludes 42.3 mln dlrs of
+interest expenses, 41.6 mln dlrs of acquisition adjusments, and
+1.7 mln dlrs of income taxes.
+ Reuter
+&#3;</BODY></TEXT>

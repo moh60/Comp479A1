@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6073" NEWID="17735">
+<DATE> 1-JUN-1987 14:51:19.91</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2155&#31;reute
+d f BC-GULL-&lt;GLL>-GETS-MCDON   06-01 0079</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GULL &lt;GLL> GETS MCDONELL DOUGLAS &lt;MD> CONTRACT</TITLE>
+<DATELINE>    SMITHTOWN, N.Y., June 1 - </DATELINE><BODY>Gull Inc said it has received a
+contract initially worth about 1,500,000 dslrs to supply
+McDonnell Douglas Corp with the control system for an On-Board
+Inert Gas Generating System to be used in the new C-17A
+military transport cargo airport.
+    It said under production options in the coutract, it could
+supply controllers for up to 210 aircraft, raising the value of
+the contract to over 25 mln dlrs.
+ Reuter
+&#3;</BODY></TEXT>

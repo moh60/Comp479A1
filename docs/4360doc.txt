@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9273" NEWID="4360">
+<DATE>12-MAR-1987 13:13:07.85</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0878&#31;reute
+r f BC-BLUE-GASS-BREEDERS-&lt;B   03-12 0094</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BLUE GASS BREEDERS &lt;BLGR> COMPLETES ACQUISITION</TITLE>
+<DATELINE>    DENVER, March 12 - </DATELINE><BODY>Blue Grass Breeders Inc said it has
+completed the acquisition of Equine Enterprises Inc for four
+mln common shares.
+    It said it is obligated to deliver another 2,741,660 shares
+on the attainment of a certain level of shareholders' equity
+during any fiscal quarter within 12 months of closing.
+    If all the contingent shares are issued, Blue Grass said
+former owners of Equine will have a 75 pct interest in Blue
+Grass.
+    Equine is a New Mexico quarter horse breeding and racing
+company.
+ Reuter
+&#3;</BODY></TEXT>

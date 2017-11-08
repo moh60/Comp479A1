@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7148" NEWID="19312">
+<DATE>19-JUN-1987 13:41:40.51</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1859&#31;reute
+r f BC-MARCADE-GROUP-INC-&lt;MA   06-19 0074</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MARCADE GROUP INC &lt;MAR> BUYS EUROPE CRAFT</TITLE>
+<DATELINE>    NEW YORK, June 19 - </DATELINE><BODY>Marcade Group said it had agreed to buy
+Europe Craft Imports Inc for a combination of cash and common
+stock.
+    The company said Europe Craft designs, imports and
+distributes menswear and sportswear under the Member's Only
+brand name.
+    The company said Europe Craft had sales of 70 mln dlrs last
+year.
+    Marcade said this latest deal is part of an ongoing
+acquisition phase.
+ Reuter
+&#3;</BODY></TEXT>

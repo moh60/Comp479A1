@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17372" NEWID="11310">
+<DATE>31-MAR-1987 09:31:19.39</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0979&#31;reute
+r f BC-ALLIED-SIGNAL-&lt;ALD>-T   03-31 0100</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ALLIED-SIGNAL &lt;ALD> TO SHARE METALS TECHNOLOGY</TITLE>
+<DATELINE>    MORRISTOWN, N.J., March 31 - </DATELINE><BODY>Allied-Signal Inc's Metglas
+Products said it and &lt;Vacuumschmelze GmbH> signed a licensing
+agreement whereby each may practice the other's technology for
+amorphous metals in magnetic applications.
+    Amorphous metal products are used in such devices as
+switch-mode power supplies and other electronic components.
+They are based on a proprietary rapid solidification process
+that gives metals a glasslike molecular structure, making them
+stronger, more ductile and corrosion-resistant, with unusual
+magnetic charateristics.
+ Reuter
+&#3;</BODY></TEXT>

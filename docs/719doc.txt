@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12902" NEWID="719">
+<DATE> 2-MAR-1987 15:16:16.44</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0857&#31;reute
+d f BC-U.S.-ACTS-TO-PROTECT   03-02 0085</UNKNOWN>
+<TEXT>&#2;
+<TITLE>U.S. ACTS TO PROTECT KAISER STEEL RETIREES</TITLE>
+<DATELINE>    WASHINGTON, March 2 - </DATELINE><BODY>The Pension Benefit Guaranty Corp, a
+federal agency, said it took action to protect pensions of
+employees and retirees of Kaiser Steel Corp, which filed for
+bankruptcy reorganization last month.
+    The agency said it entered into an agreement to terminate
+the Kaiser plan, and was appointed its trustee.
+    It said that Kaiser retirees will receive their March
+pension checks without interruption and thereafter at levels
+guaranteed by law.
+ REUTER
+&#3;</BODY></TEXT>

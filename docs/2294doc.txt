@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18712" NEWID="2294">
+<DATE> 5-MAR-1987 13:16:42.35</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0170&#31;reute
+h f BC-INTERSTATE-BAKERIES-&lt;   03-05 0050</UNKNOWN>
+<TEXT>&#2;
+<TITLE>INTERSTATE BAKERIES &lt;IBC> SIGNS PACT</TITLE>
+<DATELINE>    KANSAS CITY, MO., March 5 - </DATELINE><BODY>Interstate Bakeries Corp said
+it has entered into a joint venture with Pain Jacquet S.A.,
+Europe's leading bread baker, for distribution of a three item
+French bread line.
+    Interstate said terms of transaction were not disclosed.
+ Reuter
+&#3;</BODY></TEXT>

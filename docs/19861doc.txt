@@ -1,0 +1,30 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="8189" NEWID="19861">
+<DATE>29-JUN-1987 15:32:48.74</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2329&#31;reute
+r f BC-APOLLO-&lt;APCI.O>-LICEN   06-29 0109</UNKNOWN>
+<TEXT>&#2;
+<TITLE>APOLLO &lt;APCI.O> LICENSES PHOENIX SOFTWARE</TITLE>
+<DATELINE>    NORWOOD, Mass, June 29 - </DATELINE><BODY>&lt;Phoenix Technologies Ltd> said it
+has signed a marketing agreement with Apollo Computer Inc.
+    Phoenix said that the agreement allows Apollo to market
+Phoenix's software under the name "Domain/PC Emulator."
+    The company said that the software will be available on
+Apollo's new Domain Series 4000 personal workstations and
+Apollo's current generation of machines by the end of this
+year's third quarter.
+    Phoenix said the software allows system manufacturers to
+offer their customers an MS-DOS based 100 pct PC-compatible
+operating mode, done solely through software emulation.
+    Apollo will license the software from Phoenix and sell it
+directly to its customers.
+ Reuter
+&#3;</BODY></TEXT>

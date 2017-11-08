@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18348" NEWID="1930">
+<DATE> 5-MAR-1987 04:54:11.42</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>france</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0477&#31;reute
+u f BC-CENTRALE-DE-CREDIT-CO   03-05 0091</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CENTRALE DE CREDIT COOPERATIF ISSUE DETAILED</TITLE>
+<DATELINE>    PARIS, March 5 - </DATELINE><BODY>Caisse Centrale de Credit Cooperatif is
+launching a privately-placed 1.2 billion franc bond issue in
+three tranches of 400 mln francs and with maturities of seven,
+eight, and ten years respectively, lead-managers Credit
+Lyonnais and Banque Francaise de Credit Cooperatif said.
+    Interest on the three variable-rate tranches issued at par
+will be based on annualised money market rates (TAM) for the
+February preceeding each payment. The settlement date is March
+23 1987.
+ REUTER
+&#3;</BODY></TEXT>

@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1356" NEWID="16821">
+<DATE>17-APR-1987 09:34:08.42</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0216&#31;reute
+r f BC-U.S.-SHAREHOLDER-MEET   04-17 0030</UNKNOWN>
+<TEXT TYPE="UNPROC">&#2;
+U.S. SHAREHOLDER MEETINGS - APRIL 17
+ Church's Fried Chicken Inc        
+ Dominion Resources Inc            
+ Hospital Corp Of America          
+ Massmutual Corporate Investors Inc
+ Reuter
+&#3;
+
+</TEXT>

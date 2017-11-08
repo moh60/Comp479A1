@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18958" NEWID="2540">
+<DATE> 5-MAR-1987 18:34:44.52</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0120&#31;reute
+d f BC-ALLIED-PRODUCTS   03-05 0096</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CARPET FIRM UNIT CUTS ALLIED PRODUCTS&lt;ADP> STAKE</TITLE>
+<DATELINE>    WASHINGTON, March 5 - </DATELINE><BODY>A group led by GFI Nevada Inc, a
+subsidiary of General Felt Industries, a Saddlebrook, N.J.
+carpet maker, said it cut its stake in Allied Products Corp to
+169,888 shares, or 3.4 pct, from 288,652 shares, or 5.8 pct.
+    In a filing with the Securities and Exchange Commission,
+GFI said it sold 114,000 Allied Products common shares on March
+3 at 42 dlrs each and donated another 4,746 shares to two
+universities.
+    It said its dealings in the company's common stock were for
+investment purposes only.
+
+ Reuter
+&#3;</BODY></TEXT>

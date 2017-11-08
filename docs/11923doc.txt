@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="151" NEWID="11923">
+<DATE> 1-APR-1987 10:04:00.64</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0970&#31;reute
+r f BC-SOUTHMARK-&lt;SM>-COMPLE   04-01 0040</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SOUTHMARK &lt;SM> COMPLETES ACQUISITION</TITLE>
+<DATELINE>    DALLAS, April 1 - </DATELINE><BODY>Southmark Corp said it has completed the
+purchase of Georgia International Life Insurance Co from
+Capital Holding Corp &lt;CPH> for cash and Southmark securities
+worth over 85 mln dlrs.
+ Reuter
+&#3;</BODY></TEXT>

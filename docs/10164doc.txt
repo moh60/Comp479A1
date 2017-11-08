@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15685" NEWID="10164">
+<DATE>26-MAR-1987 16:20:21.69</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2557&#31;reute
+w f BC-CHRYSLER-&lt;C>-TO-RUN-S   03-26 0045</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CHRYSLER &lt;C> TO RUN SIX OF SEVEN U.S. PLANTS</TITLE>
+<DATELINE>    DETROIT, March 26 - </DATELINE><BODY>Chrysler Corp said it scheduled six of
+its seven U.S. car and truck assembly plants to operate the
+week of March 30, with four on overtime.
+     It also said one plant will operate Saturday, March 28.
+ Reuter
+&#3;</BODY></TEXT>

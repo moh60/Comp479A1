@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1014" NEWID="16479">
+<DATE>13-APR-1987 12:49:05.53</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D><D>west-germany</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1830&#31;reute
+r f BC-&lt;CLARK-COPY-INTERNATI   04-13 0083</UNKNOWN>
+<TEXT>&#2;
+<TITLE>&lt;CLARK COPY INTERNATIONAL> BUYS W. GERMAN STAKE</TITLE>
+<DATELINE>    ELK GROVE VILLAGE, Ill., April 13 - </DATELINE><BODY>Clark Copy
+International Corp said it acquired a majority interest in
+Datagraph GMBH of Lich, West Germany.
+    The acquisition was made through Clark Copy's majority
+owned subsidiary Interactive Computer Aids of Norway.
+    No price was disclosed for the acquisition.
+    Clark Copy said worldwide sales for Datagraph, which makes
+color graphics workstations, were 10 mln dlrs for the year
+ended Dec. 31, 1986.
+ Reuter
+&#3;</BODY></TEXT>

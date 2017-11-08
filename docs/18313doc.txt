@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7758" NEWID="18313">
+<DATE> 2-JUN-1987 16:59:17.55</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2703&#31;reute
+u f BC-STOCKHOLDERS-WON'T-PU   06-02 0090</UNKNOWN>
+<TEXT>&#2;
+<TITLE>STOCKHOLDERS WON'T PURSUE CONTINENTAL &lt;CUO> BID</TITLE>
+<DATELINE>    CHICAGO, June 2 - </DATELINE><BODY>Continental Associates, a group of four
+shareholders who hold about 5.02 pct of of Continental
+Materials Corp stock, said it will not pursue a tender offer
+for all of its shares.
+    The shareholders said they were told that Continental
+Materials directors had no interest in selling the company.
+    Late yesterday, Continental Materials board said it decided
+not to give further consideration to a "business combination"
+proposed by the group of St. Louis businessmen.
+ Reuter
+&#3;</BODY></TEXT>

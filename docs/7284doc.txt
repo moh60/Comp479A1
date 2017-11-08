@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12196" NEWID="7284">
+<DATE>19-MAR-1987 13:23:32.40</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1831&#31;reute
+w f BC-NOSTALGIA-&lt;NNET>,-ACT   03-19 0061</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NOSTALGIA &lt;NNET>, ACTS SATELLITE IN DEAL</TITLE>
+<DATELINE>    DALLAS, March 19 - </DATELINE><BODY>Nostalgia Network Inc said it signed an
+agreement to air two minute and five minute commercial
+announcements of its home shopping service called Collectible
+Showcase on the ACTS Satellite Network.
+    ACTS Network, with over six mln subscribers, will air the
+spots about 28 times per week for 13 weeks.
+   
+ Reuter
+&#3;</BODY></TEXT>

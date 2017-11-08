@@ -1,0 +1,20 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11033" NEWID="6120">
+<DATE>17-MAR-1987 13:17:01.64</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f5928&#31;reute
+r f BC-VTX-ELECRONICS-&lt;VTX>   03-17 0032</UNKNOWN>
+<TEXT>&#2;
+<TITLE>VTX ELECRONICS &lt;VTX> SETS SDTOCK SPLIT</TITLE>
+<DATELINE>    FARMINGDALE, N.Y., March 17 - </DATELINE><BODY>VTX Electronics Corp said its
+board declared a five-for-four stock split, payable April Nine
+to holders of record March 27.
+ Reuter
+&#3;</BODY></TEXT>

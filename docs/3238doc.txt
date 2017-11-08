@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19660" NEWID="3238">
+<DATE> 9-MAR-1987 12:47:48.24</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0996&#31;reute
+d f BC-BEAR-STEARNS-&lt;BSC>-TO   03-09 0096</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BEAR STEARNS &lt;BSC> TO RELOCATE HEADQUARTERS</TITLE>
+<DATELINE>    NEW YORK, March 9 - </DATELINE><BODY>Bear Stearns Cos Inc said it was
+relocating its Wall Street headquarters to a mid-town location
+on Park Ave. and signed a lease with &lt;Olympia and York>.
+    The firm said it will occupy 537,000 square beginning
+January 1988 under a 15 year lease. It will begin to move into
+the new offices later this year.
+    It said the space will accommodate the increase in
+personnel, which has grown 30 pct since the firm went public in
+October 1985. It will centralize all of its executive offices
+at the new location.
+ Reuter
+&#3;</BODY></TEXT>

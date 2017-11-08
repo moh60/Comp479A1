@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1174" NEWID="16639">
+<DATE>13-APR-1987 15:44:21.88</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2433&#31;reute
+r f BC-GAMING-AND-TECHNOLOGY   04-13 0062</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GAMING AND TECHNOLOGY &lt;GATI.O> PRESIDENT RESIGN</TITLE>
+<DATELINE>    LAS VEGAS, Nev., April 13 - </DATELINE><BODY>Gaming and Technology Inc said
+Stan Fulton has resigned as president of the company.
+    Chairman Alfred Wilms said he will assume the additional
+position of president.
+    Fulton will remain a director of the company and will work
+on special projects, a Gaming and Technology spokeswoman said.
+ Reuter
+&#3;</BODY></TEXT>

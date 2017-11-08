@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9096" NEWID="4183">
+<DATE>12-MAR-1987 09:27:01.63</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D><D>thailand</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F E
+&#22;&#22;&#1;f0929&#31;reute
+r f BC-COMBUSTION-ENGINEERIN   03-12 0105</UNKNOWN>
+<TEXT>&#2;
+<TITLE>COMBUSTION ENGINEERING &lt;CSP> GETS THAI ORDER</TITLE>
+<DATELINE>    STAMFORD, Conn., March 12 - </DATELINE><BODY>Combustion Engineering Inc said
+the Electricity Generating Authority of Thailand has exercised
+an option to purchase a 300 megawatt coal-fired steam generator
+from CEMAR, a consortium of Combustion Engineering Canada Inc
+and Japan's Marubeni Corp.
+    Combustion Engineering said the project is valued at about
+30 mln dlrs.
+    The new steam generator, which will burn local lignite,
+will be manufactured in Canada and installed as Unit Nine at
+the Mae Moh power station in Lampang, Thailand. The unit is
+expected to go into commercial operation in 1990.
+ Reuter
+&#3;</BODY></TEXT>

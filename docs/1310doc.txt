@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16630" NEWID="1310">
+<DATE> 3-MAR-1987 16:04:59.85</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0855&#31;reute
+w f BC-NYNEX-&lt;NYN>-UNIT-WINS   03-03 0076</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NYNEX &lt;NYN> UNIT WINS ARMY CONTRACT</TITLE>
+<DATELINE>    WHITE PLAINS, N.Y., March 3 - </DATELINE><BODY>Nynex Business Information
+Systems Co said it won a contract valued at nine mln dlrs from
+the U.S. Army Corp of Engineers to provide an advanced
+communications system for a facility in upstate New York.
+    The company, a unit of Nynex Corp, said the contract was
+for initial work on the project at the new Fort Drum Light
+Infantry Post near Watertown, about 65 miles north of Syracuse.
+ Reuter
+&#3;</BODY></TEXT>

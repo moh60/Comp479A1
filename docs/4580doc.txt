@@ -1,0 +1,20 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9493" NEWID="4580">
+<DATE>12-MAR-1987 17:35:46.33</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0711&#31;reute
+h f BC-REXCOM-&lt;RXSC>-EXTENDS   03-12 0037</UNKNOWN>
+<TEXT>&#2;
+<TITLE>REXCOM &lt;RXSC> EXTENDS WARRANT EXERCISE PERIOD</TITLE>
+<DATELINE>    HOUSTON, March 12 - </DATELINE><BODY>Rexcom Systems Corp said its board
+voted to extend the exercise period for the company's publicly
+traded warrants until March 31, 1988 from March 31, 1987.
+ Reuter
+&#3;</BODY></TEXT>

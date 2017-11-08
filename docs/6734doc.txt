@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11647" NEWID="6734">
+<DATE>18-MAR-1987 14:42:56.07</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f9129&#31;reute
+r f BC-ENRON-&lt;ENE>-TO-PAY-DI   03-18 0060</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ENRON &lt;ENE> TO PAY DIVIDENDS ON PREFERRED</TITLE>
+<DATELINE>    HOUSTON, March 8 - </DATELINE><BODY>Enron Corp said it will pay accrued
+second quarter dividends on the three series of preferred stock
+it will redeem on May 1.
+    The company said it will pay second quarter accrued
+dividends to the redemption date of 53 cts per share on the
+6.40 pct stock, 56 cts on 6.84 pct and 70 cts on 8.48 pct.
+ Reuter
+&#3;</BODY></TEXT>

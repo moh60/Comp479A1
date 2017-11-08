@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9498" NEWID="4585">
+<DATE>12-MAR-1987 17:43:02.04</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0741&#31;reute
+r f BC-CANNON-&lt;CAN>-AUDIT-TO   03-12 0093</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CANNON &lt;CAN> AUDIT TO SHOW SIGNIFICANT 1986 LOSS</TITLE>
+<DATELINE>    LOS ANGELES, March 12 - </DATELINE><BODY>The Cannon Group Inc said its
+financial statements will show substantial losses for fiscal
+1986 and "significant downward adjustments in previously
+reported stockholders' equity."
+    The company also said its 1986 audit being conducted by
+&lt;Arthur Young and Co> will cover the year ended January 3,
+1987, instead of the nine-month period ended September 27, 1986
+as previously announced.
+    It said it anticipates the results of the audit will be
+available in mid to late April 1987.
+ Reuter
+&#3;</BODY></TEXT>

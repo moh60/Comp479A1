@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11035" NEWID="6122">
+<DATE>17-MAR-1987 13:18:50.10</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f5935&#31;reute
+r f BC-FEDERAL-PAPER-BOARD-&lt;   03-17 0077</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FEDERAL PAPER BOARD &lt;FBO> TO SELL PREFERRED</TITLE>
+<DATELINE>    MONTVALE, N.J., March 17 - </DATELINE><BODY>Federal Paper Board Co said its
+board has approved the issuance of 140 mln dlrs of convertible
+preferred stock, with proceeds to be used to redeem on June 15
+its 125 mln dlrs in 13 pct subordinated debentures.
+    The company also said it has completed the redemption of
+2.3125 dlr convertible exchangeable preferred stock, most of
+which was converted into common instead of being redeemed.
+ Reuter
+&#3;</BODY></TEXT>

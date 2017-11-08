@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="8843" NEWID="3930">
+<DATE>11-MAR-1987 16:04:49.46</DATE>
+<TOPICS><D>money-supply</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A RM
+&#22;&#22;&#1;f0542&#31;reute
+u f BC-TREASURY-BALANCES-AT   03-11 0083</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TREASURY BALANCES AT FED FELL ON MARCH 10</TITLE>
+<DATELINE>    WASHINGTON, March 11 - </DATELINE><BODY>Treasury balances at the Federal
+Reserve fell on March 10 to 2.842 billion dlrs from 3.073
+billion dlrs the previous business day, the Treasury said in
+its latest budget statement.
+    Balances in tax and loan note accounts fell to 9.828
+billion dlrs from 11.418 billion dlrs on the same respective
+days.
+    The Treasury's operating cash balance totaled 12.670
+billion dlrs on March 10 compared with 14.490 billion dlrs on
+March 9.
+ Reuter
+&#3;</BODY></TEXT>

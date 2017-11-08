@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17712" NEWID="11650">
+<DATE>31-MAR-1987 15:55:15.77</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2539&#31;reute
+r f BC-INTERNATIONAL-MINERAL   03-31 0108</UNKNOWN>
+<TEXT>&#2;
+<TITLE>INTERNATIONAL MINERALS &lt;IGL> OFFERS PREFERRED</TITLE>
+<DATELINE>    NORTHBROOK, ILL., March 31 - </DATELINE><BODY>International Minerals and
+Chemical Corp said it is offering 1,500,000 shares of 3.25 dlr
+Convertible Exchangeable Preferred Stock, Series B.
+    It said each share of Series B Preferred will be
+convertible at any time at the holder's option into the 1.266
+shares of the company's common and will be exchangeable at the
+company's option on any dividend payment date beginning April
+15, 1990 for 6-1/2 pct convertible subordinated debentures due
+2017.
+    The offering is through Merrill Lynch Capital Markets,
+Lazard Freres and Co and Shearson Lehman Brothers Inc.
+    
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="3011" NEWID="14028">
+<DATE> 7-APR-1987 11:07:45.56</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1172&#31;reute
+d f BC-AMERICAN-SPORTS-ADVIS   04-07 0071</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AMERICAN SPORTS ADVISORS &lt;PIKS> TO LIQUIDATE</TITLE>
+<DATELINE>    CARFLE PLACE, N.Y., April 7 - </DATELINE><BODY>American sports Advisors Inc
+said it has agreed to sell its sports handicapping and
+publication business to Professor Enterprises for about
+1,650,000 dlrs and intends to liquidate after closing.
+    The transaction is subject to shareholder approval.
+    Professor is owned by American Sports president Edward C.
+Horowitz and Mike Warren, it said.
+ Reuter
+&#3;</BODY></TEXT>

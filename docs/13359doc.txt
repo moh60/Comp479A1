@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="BYPASS" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="2342" NEWID="13359">
+<DATE> 7-APR-1987 03:14:43.34</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0095&#31;reute
+u f BC-LONDON-EURO-DOLLAR-DE   04-07 0078</UNKNOWN>
+<TEXT TYPE="UNPROC">&#2;
+LONDON EURO DOLLAR DEPOSITS - APRIL 7
+    OPENING INDICATIONS
+ overnight                    6-3/16 1/16
+ tom/next                     6-1/4 1/8
+ spot next                    6-1/4 1/8
+ week fixed                   6-5/16 3/16
+ one month                    6-7/16 5/16
+ two                          6-1/2 3/8
+ three                        6-9/16 7/16
+ six                          6-5/8 1/2
+ nine                         6-3/4 5/8
+ twelve                       6-13/16 11/16
+&#3;
+
+</TEXT>

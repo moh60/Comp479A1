@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15087" NEWID="9566">
+<DATE>25-MAR-1987 15:53:14.03</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2298&#31;reute
+h f BC-CHEMFIX-TECHNOLOGIES   03-25 0053</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CHEMFIX TECHNOLOGIES INC &lt;CFIX> 2ND QTR NET</TITLE>
+<DATELINE>    NEW ORLEANS, March 25 - </DATELINE><BODY>Ended Feb 28
+    Shr profit one ct vs loss four cts
+    Net profit 53,040 vs loss 255,568
+    Revs 2,252,246 vs 755,605
+    Six mths
+    Shr profit three cts vs loss eight cts
+    Net profit 217,884 vs loss 517,538
+    Revs 4,895,720 vs 1,569,662
+ Reuter
+&#3;</BODY></TEXT>

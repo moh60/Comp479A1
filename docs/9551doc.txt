@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15072" NEWID="9551">
+<DATE>25-MAR-1987 15:24:27.71</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2222&#31;reute
+h f BC-PUERTO-RICAN-CEMENT-C   03-25 0042</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PUERTO RICAN CEMENT CO &lt;PRN> SETS PAYOUT</TITLE>
+<DATELINE>    NEW YORK, March 25 -
+    </DATELINE><BODY>Qtly div five cts vs five cts prior
+    Pay May 13
+    Record April 14
+    NOTE: Company said up to 20 pct of dividend payment may be
+withheld in accordance with Puerto Rico tax law.
+ Reuter
+&#3;</BODY></TEXT>

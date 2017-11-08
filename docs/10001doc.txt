@@ -1,0 +1,27 @@
+
+<!DOCTYPE lewis SYSTEM "lewis.dtd">
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15522" NEWID="10001">
+<DATE>26-MAR-1987 12:12:57.76</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1727&#31;reute
+d f BC-AMOCO-&lt;AN>-UNIT-EXPAN   03-26 0094</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AMOCO &lt;AN> UNIT EXPANDS CARPET YARN PLANT</TITLE>
+<DATELINE>    CHICAGO, March 26 - </DATELINE><BODY>Amoco Corp said its Amoco Fabrics Co
+will expand the capacity of its polypropylene carpet face yarn
+facility by 55 pct to support its successful penetration of the
+commercial and residential carpet markets.
+    It said the expansion of the plant in Andalusia, Ala., will
+bring Amoco's total face yarn capacity to nearly 140 mln pounds
+a year, with Andalusia capacity at 85 mln pounds.
+    Amoco Fabrics is part of Amoco Chemicals Co, the chemical
+manufacturing and marketing subsidiary of Amoco Corp.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11332" NEWID="6419">
+<DATE>18-MAR-1987 08:32:20.32</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f7619&#31;reute
+r f BC-MATRIX-SCIENCE-&lt;MTRX>   03-18 0069</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MATRIX SCIENCE &lt;MTRX> SETS STOCK SPLIT</TITLE>
+<DATELINE>    TORRANCE, Calif., March 18 - </DATELINE><BODY>Matrix Science Corp said its
+board declared a two-for-one stock split and a six-cent per
+share (pre stock split) dividend, payable May 7 to stockholders
+of record April 16.
+    The company said the dividend is in addition to the ten cts
+per share dividend paid January 2, 1987, making the post stock
+split annual dividend eight cts per share.
+ Reuter
+&#3;</BODY></TEXT>

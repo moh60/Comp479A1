@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="21142" NEWID="20547">
+<DATE>20-OCT-1987 14:25:43.60</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2689&#31;reute
+d f BC-REDKEN-LABORATORIES-&lt;   10-20 0083</UNKNOWN>
+<TEXT>&#2;
+<TITLE>REDKEN LABORATORIES &lt;RDKN.O> TO BUY BACK STOCK</TITLE>
+<DATELINE>    CANOGA PARK, Calif., Oct 20 - </DATELINE><BODY>Redken Laboratories Inc said
+its board authorized management to repurchase up to 600,000 of
+the company's common shares.
+    The repurchase program may be implimented over the next 18
+months, or sooner, depending on whether or not the shares are
+bought in the open market or in privately negotiated
+transactions, Redken said.
+    The program will be funded with cash on hand and future
+cash flow, the company also said.
+ Reuter
+&#3;</BODY></TEXT>

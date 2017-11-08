@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14578" NEWID="9057">
+<DATE>24-MAR-1987 17:08:39.15</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2616&#31;reute
+r f BC-INTERLEUKIN-2-&lt;ILTO>   03-24 0057</UNKNOWN>
+<TEXT>&#2;
+<TITLE>INTERLEUKIN-2 &lt;ILTO> DETAILS WARRANT CONVERSION</TITLE>
+<DATELINE>    WASHINGTON, March 24 - </DATELINE><BODY>Interleukin-2 Inc said the
+registration of warrants became effective March 20 and that 3.5
+mln warrants will be convertible into 1.75 mln shares of the
+company's common stock, giving the company a maximum of 2.4 mln
+dlrs.
+    The warrants must be exercised by June 22.
+ Reuter
+&#3;</BODY></TEXT>

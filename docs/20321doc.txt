@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20916" NEWID="20321">
+<DATE>20-OCT-1987 11:17:57.31</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1566&#31;reute
+b f BC-/ICAHN-DROPS-BID-FOR   10-20 0084</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ICAHN DROPS BID FOR TWA &lt;TWA></TITLE>
+<DATELINE>    NEW YORK, Oct 20 - </DATELINE><BODY>Trans World Airlines Inc said chairman
+Carl C. Icahn has withdrawn his proposal to acquire the TWA
+shares he does not already own due to the deterioration in
+market conditions.
+    Under the proposal Icahn would have paid for each TWA share
+20 dlrs in cash and 25 dlrs face amount of 12 pct subordinated
+debentures due 2007.
+    TWA said Icahn reserves the right to make a subsequent
+proposal at some future date on the same terms or different
+terms.
+ Reuter
+&#3;</BODY></TEXT>

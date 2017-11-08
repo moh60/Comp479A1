@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7179" NEWID="19343">
+<DATE>19-JUN-1987 14:20:56.97</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1954&#31;reute
+d f BC-RB   06-19 0073</UNKNOWN>
+<TEXT>&#2;
+<TITLE>INVESTOR SELLS 10 PCT RB &lt;RBI> STAKE</TITLE>
+<DATELINE>    WASHINGTON, June 19 - </DATELINE><BODY>Jeffrey Neuman, of Santa Monica,
+Calif., told the Securities and Exchange Commission he sold his
+entire RB Industries Inc stake of 341,210 shares, or 10.0 pct,
+of the total outstanding.
+    Neuman, who transferred the stock nearly two years ago to
+the Tudor Trust, of which he is trustee, said the trust sold
+the entire stake in a private deal on June 9 at 11.00 dlrs a
+share.
+ Reuter
+&#3;</BODY></TEXT>

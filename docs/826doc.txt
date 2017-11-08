@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13009" NEWID="826">
+<DATE> 2-MAR-1987 17:31:56.19</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0225&#31;reute
+r f BC-FDA-OKAYS-DRUG-TO-LES   03-02 0109</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FDA OKAYS DRUG TO LESSEN HEMOPHILIACS' BLEEDING</TITLE>
+<DATELINE>    WASHINGTON, March 2 - </DATELINE><BODY>The federal Food and Drug
+Administration said it approved for U.S. marketing a drug that
+reduces bleeding in hemophiliacs requiring dental work.
+    The FDA said the drug, tranemaxic acid, would lessen and in
+some cases eliminate altogether the need for blood transfusions
+in hemophiliacs who must have teeth extracted.
+    The drug will be made by Kabivitrum of Stockholm, Sweden
+and distributed here under the trade name Cyklokapron by
+Kabivitrum Inc of Alameda, Calif.
+    Hemophilia is a hereditary diseease whose victims lack the
+particular proteins that promote blood clotting.
+ Reuter
+&#3;</BODY></TEXT>

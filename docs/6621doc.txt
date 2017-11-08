@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11534" NEWID="6621">
+<DATE>18-MAR-1987 12:41:45.54</DATE>
+<TOPICS><D>gnp</D></TOPICS>
+<PLACES><D>west-germany</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f8676&#31;reute
+r f BC-GERMAN-RESEARCH-INSTI   03-18 0111</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GERMAN RESEARCH INSTITUTE LOWERS GROWTH FORECAST</TITLE>
+<DATELINE>    WEST BERLIN, March 18 - </DATELINE><BODY>The DIW economic research institute
+said West German economic growth in 1987 is unlikely to reach
+the 1.5 pct rate it had forecast earlier this year.
+    The institute, whose forecasts are more pessimistic than
+those of the other four leading German institutes, said the
+economy had passed its peak in the summer of 1986, and its
+prospects had dimmed significantly since the autumn.
+    The DIW repeated earlier predictions that gross national
+product (GNP) in the first quarter of 1987 would contract in
+real, seasonally adjusted terms against the weak final quarter
+of last year.
+           
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5476" NEWID="15578">
+<DATE> 9-APR-1987 10:39:52.56</DATE>
+<TOPICS><D>interest</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;RM A
+&#22;&#22;&#1;f1118&#31;reute
+r f BC-SALLIE-MAE-ADJUSTS-SH   04-09 0087</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SALLIE MAE ADJUSTS SHORT-TERM DISCOUNT NOTE RATES</TITLE>
+<DATELINE>    WASHINGTON, April 9 - </DATELINE><BODY>The Student Loan Marketing
+Association said its rates on short-term discount notes were as
+follows:
+    MATURITY   NEW RATE    OLD RATE  MATURITY
+    5-14 days  5.80 pct    5.75 pct     5-14 days
+  15-360 days  5.00 pct    5.00 pct    15-85 days
+                           5.80 pct    86-91 days
+                           5.00 pct   92-176 days
+                           5.83 pct  177-183 days
+                           5.00 pct  184-360 days
+ Reuter
+&#3;</BODY></TEXT>

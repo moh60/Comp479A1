@@ -1,0 +1,20 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7465" NEWID="18020">
+<DATE> 2-JUN-1987 10:30:24.62</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1141&#31;reute
+r f BC-WILLIAMS-&lt;WMB>-REINCO   06-02 0034</UNKNOWN>
+<TEXT>&#2;
+<TITLE>WILLIAMS &lt;WMB> REINCORPORATES IN DELAWARE</TITLE>
+<DATELINE>    TULSA, June 2- </DATELINE><BODY>Williams Cos said it has been reincorporated
+in Delaware as Williams Cos Inc following approval by
+shareholders at the annual meeting last month.
+ Reuter
+&#3;</BODY></TEXT>

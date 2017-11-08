@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6056" NEWID="17718">
+<DATE> 1-JUN-1987 14:30:05.21</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2078&#31;reute
+d f BC-ALLTEL-&lt;AT>-GETS-PERM   06-01 0055</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ALLTEL &lt;AT> GETS PERMISSION FOR LICENSE TRANSFER</TITLE>
+<DATELINE>    HUDSON, Ohio, June 1 - </DATELINE><BODY>ALLTEL Corp said it has received
+permission from the Federal Communications Commission for the
+transfer of its Syracuse/Binghamton/Cortland, N.Y., radio
+paging licenses to Mobile Communications Corp of America
+&lt;MCCABV.O> and the transfer takes effect today.
+ Reuter
+&#3;</BODY></TEXT>

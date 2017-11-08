@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="NOT-USED" CGISPLIT="PUBLISHED-TESTSET" OLDID="21859" NEWID="17237">
+<DATE>27-APR-1987 03:37:56.22</DATE>
+<TOPICS><D>bop</D><D>trade</D></TOPICS>
+<PLACES><D>bangladesh</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0166&#31;reute
+u f BC-BANGLADESH-PAYMENTS-D   04-27 0081</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BANGLADESH PAYMENTS DEFICIT NARROWS IN NOVEMBER</TITLE>
+<DATELINE>    DHAKA, April 27 - </DATELINE><BODY>Bangladesh's overall balance of payments
+deficit narrowed to 3.03 mln U.S. Dlrs in November from 8.3 mln
+in October and 22.63 mln in November 1985, Central Bank
+officials said.
+    The current account deficit increased to 28.68 mln dlrs in
+November against 10.69 mln in October and 55.19 mln in November
+1985.
+    The trade deficit rose to 88 mln dlrs from 36.36 mln in
+October and 86.2 mln in November 1985.
+ REUTER
+&#3;</BODY></TEXT>

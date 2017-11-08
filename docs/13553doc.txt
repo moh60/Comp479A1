@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="BYPASS" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="2536" NEWID="13553">
+<DATE> 7-APR-1987 07:33:11.90</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C
+&#22;&#22;&#1;f0461&#31;reute
+u f BC-LONDON-GASOIL-CALL-CO   04-07 0091</UNKNOWN>
+<TEXT>&#2;
+<TITLE>LONDON GASOIL CALL COMPLETE  1231 - APR 7</TITLE>
+ MTH      LAST    BYR    SLR   HIGH    LOW SALES
+<DATELINE> Mar       ---    ---    ---    ---    ---   ---
+ </DATELINE><BODY>Apr    149.00 149.00 149.25 149.50 147.75   987
+ May    147.50 147.25 147.50 147.75 146.25   898
+ Jun    146.50 146.50 146.75 147.25 146.00   280
+ Jul    146.50 146.50 146.75 147.00 146.50    64
+ Aug       --- 147.00 148.00    ---    ---   ---
+ Sep       --- 146.50 151.00    ---    ---   ---
+ Oct       --- 145.00    ---    ---    ---   ---
+ Nov       --- 145.00    ---    ---    ---   ---
+ TOTAL SALES   2229
+&#3;</BODY></TEXT>

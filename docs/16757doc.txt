@@ -1,0 +1,20 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1292" NEWID="16757">
+<DATE>17-APR-1987 02:13:32.66</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>japan</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0020&#31;reute
+f f BC-Tokyo-stock-index-ris   04-17 0012</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE>Tokyo stock index rises 69.92 to record closing 23,938.35 - brokers
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

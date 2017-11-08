@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9268" NEWID="4355">
+<DATE>12-MAR-1987 13:07:12.79</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0852&#31;reute
+d f BC-BIOMET-&lt;BMET>-3RD-QTR   03-12 0045</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BIOMET &lt;BMET> 3RD QTR REVENUES RISE</TITLE>
+<DATELINE>    NEW YORK, March 12 - </DATELINE><BODY>Biomet Inc said its revenues for the
+third quarter ended February 28 were up 21 pct to 14.1 mln dlrs
+from 11.7 mln dlrs and nine month revenues were up 25 pct to
+39.7 mln dlrs from 31.8 mln dlrs a year before.
+ Reuter
+&#3;</BODY></TEXT>

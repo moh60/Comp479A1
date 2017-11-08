@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20427" NEWID="21010">
+<DATE>19-OCT-1987 15:24:34.02</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2824&#31;reute
+d f BC-PERKIN-ELMER-&lt;PKN>-WI   10-19 0072</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PERKIN-ELMER &lt;PKN> WINS EPA CONTRACT</TITLE>
+<DATELINE>    NORWALK, Conn., Oct 19 - </DATELINE><BODY>Perkin-Elmer Corp said it won a
+contract to provide laboratory information management systems
+to the Enviromental Protection Agency's 10 regional
+laboratories.
+    The value and the exact duration of the contract was not
+disclosed.
+    The company said the contract will include hardware,
+software, installation, support services, and software analyst
+consultations.
+ Reuter
+&#3;</BODY></TEXT>

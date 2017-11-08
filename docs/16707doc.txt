@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1242" NEWID="16707">
+<DATE>13-APR-1987 17:13:35.76</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2680&#31;reute
+d f BC-adams-russell   04-13 0065</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ADAMS-RUSSELL &lt;AAR> TO ACQUIRE CABLE SYSTEMS</TITLE>
+<DATELINE>    WALTHAM, Mass, April 13 - </DATELINE><BODY>Adams-Russell Co Inc said it
+agreed to acquire cable television systems serving about 7,000
+customers in New York State from Sammons Communications Inc for
+undisclosed terms.
+    Adams-Russell said the systems operate in Wellsville,
+Amity, Andover, Scio, Willing, Belmont, Milo, Jerusalem, Benton
+and Penn Yan, N.Y.
+ Reuter
+&#3;</BODY></TEXT>

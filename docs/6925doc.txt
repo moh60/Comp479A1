@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11838" NEWID="6925">
+<DATE>18-MAR-1987 18:30:48.50</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f9756&#31;reute
+u f BC-INTELSAT,-MARTIN-MARI   03-18 0093</UNKNOWN>
+<TEXT>&#2;
+<TITLE>INTELSAT, MARTIN MARIETTA IN LAUNCH CONTRACT</TITLE>
+<DATELINE>    WASHINGTON, D.C. March 18 - </DATELINE><BODY>International
+Telecommunications Satellite Organization, a cooperative of 113
+nations,  said it has authorized its director general to
+contract with martin Marietta Corp &lt;ML> for the launch of two
+INTELSAT VI spacecraft.
+    The authorization is subject to U.S. government support and
+indemnification.
+    Martin Marietta's Titan III commercial launch vehicle will
+be used for these launches and will complement the three Ariane
+4 launches already contracted by Intelsat, it said.
+ Reuter
+&#3;</BODY></TEXT>

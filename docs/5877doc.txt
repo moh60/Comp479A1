@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10790" NEWID="5877">
+<DATE>17-MAR-1987 08:18:29.80</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f4698&#31;reute
+d f BC-TRANSNET-&lt;TRNT>-TO-SE   03-17 0039</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TRANSNET &lt;TRNT> TO SERVICE LEADING EDGE PRODUCTS</TITLE>
+<DATELINE>    UNION, N.J., March 17 - </DATELINE><BODY>TransNet Corp said its TransNet
+Service Center in Mountainside, N.J., has been named an
+authorized service organization for &lt;Leading Edge> computer
+products.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,32 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19627" NEWID="3205">
+<DATE> 9-MAR-1987 12:22:36.48</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0860&#31;reute
+u f BC-******SUPERMARKETS-GE   03-09 0057</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SUPERMARKETS GENERAL &lt;SGL> GETS UNSOLICITED BID</TITLE>
+<DATELINE>    WOODBRIDGE, N.J., March 9 - </DATELINE><BODY>Supermarkets General Corp said
+it received an unsolicited proposal from a third party to
+acquire the company at 41.75 dlrs per share in cash.
+    Supermarkets also said it retained Shearson Lehman Brothers
+Inc to advise its board of directors on the proposal.
+    Supermarkets General currently has about 38.5 mln shares
+outstanding.
+    Its stock is currently trading at 34-1/4 on the New York
+Stock Exchange.
+    The Woodbridge, N.J., supermarket operator of over 180
+supermarkets and other specialty retail stores, convenience
+food stores and drug stores.
+    For the nine months ended November 30, Supermarkets
+reported net income of 41.7 mln dlrs.
+   
+ Reuter
+&#3;</BODY></TEXT>

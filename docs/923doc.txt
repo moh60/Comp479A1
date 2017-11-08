@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16243" NEWID="923">
+<DATE> 3-MAR-1987 05:42:26.58</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>uk</D><D>australia</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0809&#31;reute
+b f BC-MONTEDISON-UNIT-ISSUE   03-03 0095</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MONTEDISON UNIT ISSUES 50 MLN AUSTRALIAN DLR BOND</TITLE>
+<DATELINE>    LONDON, March 3 - </DATELINE><BODY>Montedison Finance Overseas Ltd, a unit
+of Montedison SpA, is issuing a 50 mln Australian dlr eurobond
+due April 3, 1990 paying 15-1/2 pct and priced at 101-3/8 pct,
+lead manager Orion Royal Bank Ltd said.
+    The non-callable bond is guaranteed by the parent. The
+selling concession is one pct while management and underwriting
+combined pays 1/2 pct.
+    The issue will be listed in Luxembourg and is available in
+denominations of 1,000 and 10,000 Australian dlrs. The payment
+date is April 3.
+ REUTER
+&#3;</BODY></TEXT>

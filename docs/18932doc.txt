@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6682" NEWID="18932">
+<DATE>18-JUN-1987 14:52:10.35</DATE>
+<TOPICS><D>nat-gas</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f4312&#31;reute
+r f BC-ALLEGHENY-&lt;ALGH.O>-FO   06-18 0070</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ALLEGHENY &lt;ALGH.O> FORMING SUBSIDIARY</TITLE>
+<DATELINE>    NEW YORK, June 18 - </DATELINE><BODY>Allegheny and Western Energy Corp said
+it was forming a subsidiary to market gas to smaller users in
+West Virginia.
+    The company also said it completed negotiations to sell
+between 10 and 12 mln cubic feet of gas per day to a large,
+unspecified East Coast utility.
+    Interstate markets will become part of the subsidiary's
+operations, the company said.
+ Reuter
+&#3;</BODY></TEXT>

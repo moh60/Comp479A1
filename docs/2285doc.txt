@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18703" NEWID="2285">
+<DATE> 5-MAR-1987 13:11:03.90</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0147&#31;reute
+r f BC-DATATMETRICS-CORP-&lt;DM   03-05 0064</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DATATMETRICS CORP &lt;DMCZ> WINS ARMY CONTRACT</TITLE>
+<DATELINE>    CHATSWORTH, Calif., March 5 - </DATELINE><BODY>Datametrics Corp said it won
+a 4.9-mln-dlr contract from the U.S. Army.
+    The company said Datametrics will deliver printer/plotters
+to the Army's Redstone Arsenal, beginning in September, 1987.
+    Datametrics said it had a record backlog of funded and
+unfunded projects of 31.8 mln dlrs on March 1, 1987.
+ Reuter
+&#3;</BODY></TEXT>

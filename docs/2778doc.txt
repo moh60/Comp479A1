@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19196" NEWID="2778">
+<DATE> 6-MAR-1987 13:51:35.50</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0131&#31;reute
+d f BC-&lt;CONCORDE-CAPITAL-LTD   03-06 0103</UNKNOWN>
+<TEXT>&#2;
+<TITLE>&lt;CONCORDE CAPITAL LTD INC> IN FRANCHISE PACT</TITLE>
+<DATELINE>    MIAMI, March 6 - </DATELINE><BODY>Concorde Capital Ltd Inc said it has
+signed an agreement to establish a minimum of 40 Heidi's Frozen
+Yogurt Shoppes in South Florida over the next 48 months.
+    It said it signed the agreement with &lt;Zenith Capital Inc>,
+which received 3,890,000 Concorde shares, or a 10 pct interest,
+for the exclusive franchise rights from Orlando south in
+Florida.
+    Zenith now has seven company owned and 44 franchised
+Heidi's open and another 90 franchises sold.
+    Concorde said it expects to change its name soon to Heidi's
+Frozen Yogurt Shoppes of Florida Inc.
+ Reuter
+&#3;</BODY></TEXT>

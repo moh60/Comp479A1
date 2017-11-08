@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14803" NEWID="9282">
+<DATE>25-MAR-1987 09:35:22.27</DATE>
+<TOPICS><D>money-fx</D><D>dlr</D></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0896&#31;reute
+f f BC-******   03-25 0009</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE> Bundesbank buys dollars for yen - Frankfurt dealers
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

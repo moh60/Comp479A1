@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20667" NEWID="20072">
+<DATE>20-OCT-1987 06:52:10.49</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM 
+&#22;&#22;&#1;f0530&#31;reute
+f f BC-LONDON---Goldman-Sach   10-20 0012</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE>LONDON - Goldman Sachs official denies rumours of solvency problems
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

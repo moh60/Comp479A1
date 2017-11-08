@@ -1,0 +1,38 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9212" NEWID="4299">
+<DATE>12-MAR-1987 11:49:53.86</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0517&#31;reute
+r f BC-KODAK-&lt;EK>-REAFFIRMS   03-12 0105</UNKNOWN>
+<TEXT>&#2;
+<TITLE>KODAK &lt;EK> REAFFIRMS COMMITMENT TO PHOTOGRAPHY</TITLE>
+<DATELINE>    ROCHESTER, N.Y., March 12 - </DATELINE><BODY>Eastman Kodak Co said it will
+build a major facility here for the production of color film,
+reaffirming its commitment to its core photographic business.
+    Kodak said the plant will cost more than 200 mln dlrs to
+build and will be staffed by about 250 people who will be
+transferred from existing manufacturing operations. It said the
+plant should be operational by the fall of 1990.
+    Kodak said it does not intend to shut down any current
+capacity as anticipated growth in demand for photography
+products will "offset the additional capacity."
+    The company also said the facility will position it "well
+into the 21st century," in the photography business. It said
+the plant will initially produce color films for the
+professional and motion picture industry.
+    Kodak also said it will maintain its Rochester site as the
+center of its photographic technology operations. "We have been
+encourgaged that in recent years this community and New York
+state have been working hard to improve the business climate
+for manufucturing," said William F. Fowble, Kodak's sernior
+vice-presient and general manager of manufacturing. "We assume
+thesse efforts will continue."
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6190" NEWID="17852">
+<DATE> 1-JUN-1987 17:54:13.74</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2670&#31;reute
+r f BC-UNITED-PARK-&lt;RPK>-HAS   06-01 0080</UNKNOWN>
+<TEXT>&#2;
+<TITLE>UNITED PARK &lt;RPK> HAS FULL SUBSCRIPTION</TITLE>
+<DATELINE>    SALT LAKE CITY, June 1 - </DATELINE><BODY>United Park City Mines Co said it
+had a full and complete subscription to all of the 5,400,731
+shares ot its common stock offered in connection with its
+recent rights offering.
+    It said it will issue 4,892,153 shares of its common under
+the basic subscription right and 508,578 shares of its common
+under the oversubscription privilege. It said it will also
+receive 2.7 mln dlrs in proceeds from the offering.
+ Reuter
+&#3;</BODY></TEXT>

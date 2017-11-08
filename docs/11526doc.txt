@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17587" NEWID="11526">
+<DATE>31-MAR-1987 13:43:55.55</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2053&#31;reute
+d f BC-QUEST-BIOTECHNOLOGY-&lt;   03-31 0109</UNKNOWN>
+<TEXT>&#2;
+<TITLE>QUEST BIOTECHNOLOGY &lt;QBIO> UNIT IN MERGER PACT</TITLE>
+<DATELINE>    DETROIT, March 31 - </DATELINE><BODY>Quest Biotechnology Inc said its new
+subsidiary, Quest Blood Substitute Inc, signed the agreement
+and plan of merger with Hunt Research Corp and its affiliate,
+ICAS Corp.
+    It said Quest Blood expects to complete the merger within
+the next several weeks. Terms were not disclosed.
+    In a related transaction, Quest Blood said it executed an
+agreement with Alza Corp, which will make Alza a preferred
+shareholder of Quest Blood and offer Alza the right to acquire
+a total equity position of up to 25 pct of Quest Blood in
+exchange for acquisition of patent rights to Alza technology.
+ Reuter
+&#3;</BODY></TEXT>

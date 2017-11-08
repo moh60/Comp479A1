@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20551" NEWID="20886">
+<DATE>19-OCT-1987 18:27:12.12</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D><D>japan</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f3365&#31;reute
+r f BC-CARDIAC-CONTROL-&lt;CCSC   10-19 0102</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CARDIAC CONTROL &lt;CCSC.O> IN MARKETING PACT</TITLE>
+<DATELINE>    PALM COAST, Fla., Oct 19 - </DATELINE><BODY>Cardiac Control Systems Inc said
+it entered into a marketing agreement with a Japanese firm to
+distribute Cardiac's pacemakers in Japan.
+    Cardiac said the agreement requires the Japanese firm to
+purchase certain minimum quantities of pacemakers annually over
+the next three years, with the aggregate value of purchases of
+about 12 mln dlrs.
+    Cardiac said it received an initial order from the Japanese
+company, which is did not name, for about 2.2 mln dlrs and
+expects to begin shipments during its fourth quarter to end
+March 31, 1988.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="790" NEWID="16255">
+<DATE>13-APR-1987 09:40:41.34</DATE>
+<TOPICS><D>hog</D><D>livestock</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C L
+&#22;&#22;&#1;f0917&#31;reute
+u f BC-slaughter-guesstimate   04-13 0063</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HOG AND CATTLE SLAUGHTER GUESSTIMATES</TITLE>
+<DATELINE>    CHICAGO, April 13 - </DATELINE><BODY>Chicago Mercantile Exchange floor
+traders and commission house representatives are guesstimating
+today's hog slaughter at about 280,000 to 300,000 head versus
+294,000 week ago and 303,000 a year ago.
+    Cattle slaughter is guesstimated at about 120,000 to
+126,000 head versus 120,000 week ago and 124,000 a year ago.
+ Reuter
+&#3;</BODY></TEXT>

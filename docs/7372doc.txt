@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12285" NEWID="7372">
+<DATE>19-MAR-1987 15:19:45.00</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2229&#31;reute
+r f BC-NORTH-AMERICAN-PHILIP   03-19 0072</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NORTH AMERICAN PHILIPS &lt;NPH> UNIT NAMES EXECUTIVE</TITLE>
+<DATELINE>    NEW YORK, March 19 - </DATELINE><BODY>North American Philips Corp said Lyman
+Beggs has been named president of its Consumer Products
+Divisions.
+    The company said Beggs, formerly executive vice president
+of Tambrands Inc &lt;TMB>, succeeds Richard Kress, who retired.
+    The company said approximately 58 pct of the common stock
+of North American Philips is owned by N.V. Philips of the
+Netherlands.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20319" NEWID="21118">
+<DATE>19-OCT-1987 14:06:31.80</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2462&#31;reute
+d f BC-INVESTOR-SUES-FIRST-N   10-19 0106</UNKNOWN>
+<TEXT>&#2;
+<TITLE>INVESTOR SUES FIRST NORTHERN SAVINGS &lt;FNGB.O></TITLE>
+<DATELINE>    MINNEAPOLIS, Oct 19 - </DATELINE><BODY>Investor Donald Knutson said he filed
+a suit against First Northern Savings and Loan Association of
+Green Bay, stating his request of management for access to
+First Northern's stockholder lists had been denied.
+     Knutson owns about 9.9 pct of First Northern's outstanding
+stock. He said in his complaint he intends to use the list to
+cause a special meeting of First Northern's shareholders to be
+convened to discuss his concerns over the lack of liquidity in
+the trading market for the stock of First Northern and methods
+of increasing the value of the shares.
+ Reuter
+&#3;</BODY></TEXT>

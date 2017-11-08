@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17843" NEWID="1425">
+<DATE> 4-MAR-1987 09:33:47.25</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0163&#31;reute
+d f BC-METROPOLITAN-FEDERAL   03-04 0052</UNKNOWN>
+<TEXT>&#2;
+<TITLE>METROPOLITAN FEDERAL &lt;MFTN> TO MAKE ACQUISITION</TITLE>
+<DATELINE>    NASHVILLE, Tenn., March 4 - </DATELINE><BODY>Metropolitan Federal Savings
+and Loan Association said it has signed a letter of intent to
+acquire American Trust of Hendersonville, Tenn., for an
+undisclosed amount of cash.
+    American Trust had year-end assets of over 40 mln dlrs.
+ Reuter
+&#3;</BODY></TEXT>

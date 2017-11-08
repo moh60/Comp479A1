@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20981" NEWID="20386">
+<DATE>20-OCT-1987 11:48:04.11</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1750&#31;reute
+h f BC-HOME-FEDERAL-SAVINGS/   10-20 0054</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HOME FEDERAL SAVINGS/ROCKIES &lt;HROK.O> 3RD QTR</TITLE>
+<DATELINE>    FORT COLLINS, Colo., Oct 20 -
+    </DATELINE><BODY>Shr 77 cts vs nil
+    Net 417,000 vs 1,000
+    Nine mths
+    Shr 2.39 dlrs vs 84 cts
+    Net 1,298,000 vs 443,000
+    Assets 290.7 mln vs 296.6 mln
+    NOTE: full name of company is home federal savings and loan
+association of the rockies.
+ Reuter
+&#3;</BODY></TEXT>

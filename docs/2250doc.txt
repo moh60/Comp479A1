@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18668" NEWID="2250">
+<DATE> 5-MAR-1987 12:37:15.26</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0997&#31;reute
+r f BC-MFS-MULTIMARKET-&lt;MMT>   03-05 0067</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MFS MULTIMARKET &lt;MMT> INITIAL OFFERING UNDERWAY</TITLE>
+<DATELINE>    RICHMOND, Va., March 5 - </DATELINE><BODY>Lead underwriters Wheat, First
+Securities Inc and E.F. Hutton Group Inc &lt;EFH> said an initial
+public offering of 110 mln shares of beneficial interest of MFS
+Multimarket Income Trust is under way at 10 dlrs per share.
+    The trust has granted underwriters an option to buy up to
+16.5 mln more shares to cover overallotments.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18211" NEWID="1793">
+<DATE> 4-MAR-1987 16:11:18.04</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;V RM
+&#22;&#22;&#1;f0723&#31;reute
+u f BC-WHITE-HOUSE-CHIEF-HAS   03-04 0083</UNKNOWN>
+<TEXT>&#2;
+<TITLE>WHITE HOUSE CHIEF HAS NO SECRET TAX PLAN</TITLE>
+<DATELINE>    WASHINGTON, March 4 - </DATELINE><BODY>White House chief of staff Howard
+Baker said he has no secret plan to raise taxes.
+    Talking to reporters, he pointed out that, "Ronald Reagan
+is president. I am chief of staff. His program is my program."
+I have no tax plan at all."
+    Baker's comments came in response to a question as to
+whether he planned to support higher taxes to reduce the budget
+deficit. President Reagan has said repeatedly that he opposes
+higher taxes.
+
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5001" NEWID="15963">
+<DATE> 9-APR-1987 16:22:41.62</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2529&#31;reute
+r f BC-OHIO-MATTRESS-&lt;OMT>-B   04-09 0069</UNKNOWN>
+<TEXT>&#2;
+<TITLE>OHIO MATTRESS &lt;OMT> BUYS SEALY OF MICHIGAN</TITLE>
+<DATELINE>    CLEVELAND, April 9 - </DATELINE><BODY>Ohio Mattress Co said that its
+Ohio-Sealy Mattress Manufacturing Co unit completed its
+previously announced acquisition of Sealy Mattress Co of
+Michigan Inc.
+    In addition, the company said Sealy Inc, of which its owns
+82 pct, redeemed the outstanding Sealy stock held by Michigan
+Sealy, thus increasing the company's stake in Sealy to 93 pct.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="NOT-USED" CGISPLIT="PUBLISHED-TESTSET" OLDID="22145" NEWID="17406">
+<DATE>29-APR-1987 13:01:29.10</DATE>
+<TOPICS><D>gnp</D></TOPICS>
+<PLACES><D>france</D><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f1862&#31;reute
+r f BC-ECONOMIST-SEES-SLOWDO   04-29 0108</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ECONOMIST SEES SLOWDOWN IN U.S. ECONOMIC GROWTH</TITLE>
+<DATELINE>    PARIS, April 29 - </DATELINE><BODY>The U.S. Economy has peaked and will slow
+to a growth rate of between 2.5 pct and three pct for the
+remainder of 1987, First Boston Corp Managing Director Albert
+Wojnilower said.
+    He told an investment conference the U.S. Economy will not
+be able to sustain the 4.3 pct growth rate recorded in first
+quarter gross national product.
+    He said continued intermittent attacks on the U.S. Currency
+could lead to a substantial rise in long term interest rates.
+However, he predicted that rates will eventually decline either
+in anticipation of a recession or because of one.
+  REUTER
+&#3;</BODY></TEXT>

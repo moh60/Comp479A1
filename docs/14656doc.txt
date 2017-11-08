@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="3639" NEWID="14656">
+<DATE> 7-APR-1987 16:46:31.43</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;L
+&#22;&#22;&#1;f2449&#31;reute
+d f BC-SENATE-EXTENDS-DAIRY   04-07 0079</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SENATE EXTENDS DAIRY COMMISSION REPORT</TITLE>
+<DATELINE>    WASHINGTON, April 7 - </DATELINE><BODY>The Senate approved legislation to
+extend until March 31, 1988 the date for the National
+Commission on Dairy Policy to report on the federal milk price
+support program and the dairy industry.
+    The report is to recommend whether the Agriculture
+Department should have continued authority to reduce the milk
+price support level.
+    The one year extension was required due to delays in
+setting up the commission.
+ Reuter
+&#3;</BODY></TEXT>

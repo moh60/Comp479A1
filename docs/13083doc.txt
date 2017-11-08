@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="2052" NEWID="13083">
+<DATE> 3-APR-1987 15:08:37.10</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2070&#31;reute
+r f BC-NISSAN-RAISES-U.S.-CA   04-03 0063</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NISSAN RAISES U.S. CAR, TRUCK PRICES 1.9 PCT</TITLE>
+<DATELINE>    CARSON, Calif., April 3 - </DATELINE><BODY>Nissan Motor Corp said it is
+raising the suggested retail price for its cars and trucks sold
+in the United States by 1.9 pct, or an average 212 dlrs per
+vehicle, effective April 6.
+    The company said the increase is the result of the
+continued strengthening of the Japanese yen against the U.S.
+dollar.
+ Reuter
+&#3;</BODY></TEXT>

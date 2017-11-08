@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16678" NEWID="1358">
+<DATE> 3-MAR-1987 17:09:16.11</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A
+&#22;&#22;&#1;f0006&#31;reute
+h f BC-S/P-MAY-DOWNGRADE-MEP   03-03 0103</UNKNOWN>
+<TEXT>&#2;
+<TITLE>S/P MAY DOWNGRADE MEPC PLC'S EUROBONDS</TITLE>
+<DATELINE>    NEW YORK, March 3 - </DATELINE><BODY>Standard and Poor's said it is
+reviewing &lt;MEPC Plc's> two A-rated eurobond issues totalling
+125 mln stg for a possible downgrade.
+    The review follows the agreement by the British-based
+real-estate firm to acquire a controlling interest in Oldham
+Estate Plc and its offer to buy the remaining equity.
+    The maximum cost of the acquisition would be 620.9 mln stg.
+The purchase owuld be financed largely by equity, but
+uncertainties exist as to the amount of debt to be assumed by
+MEPC and the quality of the properties in Oldham's portfolio, S
+and P said.
+ Reuter
+&#3;</BODY></TEXT>

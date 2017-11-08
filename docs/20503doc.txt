@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="21098" NEWID="20503">
+<DATE>20-OCT-1987 14:00:39.13</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2567&#31;reute
+r f BC-CENTURI-&lt;CENT.O>-TO-B   10-20 0036</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CENTURI &lt;CENT.O> TO BUY BACK ONE MLN SHARES</TITLE>
+<DATELINE>    BINGHAMTON, N.Y., Oct  20 - </DATELINE><BODY>Centuri Inc said it intends to
+buy up to one mln shares of its common stock.
+    The company has approximately 16 mln shares outstanding.
+   
+ Reuter
+&#3;</BODY></TEXT>

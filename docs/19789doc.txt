@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="8117" NEWID="19789">
+<DATE>29-JUN-1987 13:51:34.00</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2011&#31;reute
+h f BC-VMX-&lt;VMXI.O>-UNVEILS   06-29 0070</UNKNOWN>
+<TEXT>&#2;
+<TITLE>VMX &lt;VMXI.O> UNVEILS NEW VOICE MESSAGING TOOLS</TITLE>
+<DATELINE>    DALLAS, June 29 - </DATELINE><BODY>VMX Inc said it has introduced three new
+voice messaging capabilities called Host Data Link, Auto
+Scheduler and User Changeable Voice Codes.
+    The company said Host Data Link and Auto Scheduler
+streamline and automate reporting functions, while User
+Changeable lets individual users create and update their own
+group codes from their voice mailbox.
+ Reuter
+&#3;</BODY></TEXT>

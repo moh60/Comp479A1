@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6480" NEWID="18728">
+<DATE>18-JUN-1987 11:20:18.20</DATE>
+<TOPICS><D>crude</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;Y 
+&#22;&#22;&#1;f3495&#31;reute
+u f BC-SOUTHLAND-&lt;SLC>-UNIT   06-18 0063</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SOUTHLAND &lt;SLC> UNIT RAISES CRUDE 50 CTS/BBL</TITLE>
+<DATELINE>    NEW YORK, June 18 - </DATELINE><BODY>Southland Corp's subsidiary Citgo
+Petroleum said it raised its posted prices for crude oil across
+the board by 50 cts a barrel, effective June 17.
+    Citgo said its new posting for West Texas Intermediate and
+West Texas Sour is 19 dlrs a barrel. Light Louisiana Sweet is
+now posted at 19.35, the company said.
+ Reuter
+&#3;</BODY></TEXT>

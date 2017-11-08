@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7525" NEWID="18080">
+<DATE> 2-JUN-1987 11:43:10.74</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1513&#31;reute
+r f BC-3M-&lt;MMM>-ACQUIRES-CON   06-02 0082</UNKNOWN>
+<TEXT>&#2;
+<TITLE>3M &lt;MMM> ACQUIRES CONTROL DATA &lt;CDA> UNIT</TITLE>
+<DATELINE>    ST PAUL, Minn., June 2 - </DATELINE><BODY>Minnesota Mining and Manufacturing
+said it acquired a computerized hospital information systems
+business from Control Data Corp.
+    Terms were not disclosed.
+    The business, which has 145 employees and supplies
+computers and software for hospital information systems, will
+be integrated into 3M's hospital software business.
+    Control Data said the divestiture was part of its strategy
+to focus on narrower markets.
+ Reuter
+&#3;</BODY></TEXT>

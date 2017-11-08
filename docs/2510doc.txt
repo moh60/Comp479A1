@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18928" NEWID="2510">
+<DATE> 5-MAR-1987 17:42:10.92</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0017&#31;reute
+r f BC-TCW-CONVERTIBLE-SECUR   03-05 0079</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TCW CONVERTIBLE SECURITIES &lt;CVT> SOLD STOCK</TITLE>
+<DATELINE>    LOS ANGELES, March 5 - </DATELINE><BODY>TCW Convertible Securities Fund Inc
+said it has sold 20 mln shares of its common stock to a group
+of underwriters led by Bear Stearns and Co Inc, E.F. Hutton and
+Co, Advest Inc, Blunt Ellis and Loewi Inc, Piper, Jaffray and
+Hopwook Inc and Sutro and Co Inc.
+    The shares were sold by the underwriters at ten dlrs per
+share in a public offering.
+    The offering produced net proceeds of 186 mln dlrs.
+ Reuter
+&#3;</BODY></TEXT>

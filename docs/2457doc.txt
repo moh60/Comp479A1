@@ -1,0 +1,20 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18875" NEWID="2457">
+<DATE> 5-MAR-1987 16:25:13.27</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0788&#31;reute
+d f BC-GEN-DYNAMICS-&lt;GD>-GET   03-05 0035</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GEN DYNAMICS &lt;GD> GETS AIR FORCE CONTRACTS</TITLE>
+<DATELINE>    WASHINGTON, March 5 - </DATELINE><BODY>General Dynamics Corp has received
+two contracts totaling 29.2 mln dlrs for upgrade and retrofit
+work on F-16A/B aircraft, the Air Force said.
+ REUTER
+&#3;</BODY></TEXT>

@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18230" NEWID="1813">
+<DATE> 4-MAR-1987 16:39:22.74</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G L
+&#22;&#22;&#1;f0799&#31;reute
+d f BC-SENATE-PANEL-APPROVES   03-04 0091</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SENATE PANEL APPROVES EXTENDING DAIRY COMMISSION</TITLE>
+<DATELINE>    WASHINGTON, March 4 - </DATELINE><BODY>The Senate Agriculture Committee
+approved a bill that would extend for one year the life of the
+National Commission on Dairy Policy.
+    The dairy commission, mandated by the 1985 farm bill, is
+set to expire at the end of the month. The bill would extend
+the date by which the commission must submit its report on
+dairy policy to March 31, 1988.
+    Congress charged the commission with examining the federal
+price support program for milk and alternatives to the program.
+ Reuter
+&#3;</BODY></TEXT>

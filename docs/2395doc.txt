@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18812" NEWID="2395">
+<DATE> 5-MAR-1987 15:28:30.28</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0595&#31;reute
+d f BC-NORFOLK-SOUTHERN-&lt;NSC   03-05 0066</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NORFOLK SOUTHERN &lt;NSC> COMPLETES COAL PURCHASE</TITLE>
+<DATELINE>    NORFOLK, Va., March 5 - </DATELINE><BODY>Norfolk Southern Corp said it
+completed the purchase of 112 mln tons of recoverable coal
+reserves in Pike County, Ky., from Rouge Steel, a unit of Ford
+Motor Co &lt;F>.
+    Norfolk Southern said the deal involves about 30,000 acres
+of coal bearing properties that will be administered by the
+company's Pocahontas Land Corp unit.
+ Reuter
+&#3;</BODY></TEXT>

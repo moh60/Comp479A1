@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5231" NEWID="15876">
+<DATE> 9-APR-1987 15:20:34.29</DATE>
+<TOPICS><D>cotton</D></TOPICS>
+<PLACES><D>usa</D><D>ussr</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G
+&#22;&#22;&#1;f2249&#31;reute
+u f BC-ussr-sunseed/cott-est   04-09 0053</UNKNOWN>
+<TEXT>&#2;
+<TITLE>USDA ESTIMATES USSR COTTON CROP</TITLE>
+<DATELINE>    WASHINGTON, April 9 - </DATELINE><BODY>The U.S. Agriculture Department
+forecast the Soviet 1986/87 cotton crop at 11.20 mln bales
+(480-lbs net), vs 11.20 mln bales forecast last month.
+    The department also estimated the 1985/86 Soviet cotton
+crop at 12.10 mln bales, vs 12.10 mln bales last month.
+ Reuter
+&#3;</BODY></TEXT>

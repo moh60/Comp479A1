@@ -1,0 +1,30 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14772" NEWID="9251">
+<DATE>25-MAR-1987 08:51:04.57</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0755&#31;reute
+r f BC-METRO-CABLE-&lt;METO>-TO   03-25 0083</UNKNOWN>
+<TEXT>&#2;
+<TITLE>METRO CABLE &lt;METO> TO SELL PARTNERSHIP</TITLE>
+<DATELINE>    ENGLEWOOD, Colo., March 25 - </DATELINE><BODY>Metro Cable Corp said it has
+entered into a letter of intent for the sale of limited
+partnership Intermountain Cable Associates for about 3,250,000
+dlrs.
+    Metro and DMN Cable Investors are co-general partners for
+Intermountain.  The name of the buyer was not disclosed.
+    Metro said it has also transfered its northwest Iowa and
+eastern Colorado cablevision systems into a new wholly-owned
+subsidiary called MCC Cablevision. 
+    Metro said the new unit received 2,700,000 dlrs in
+financing from Bank of Boston Corp &lt;BKB> which was used to
+retire Metro Cable's outstanding debt to &lt;National Bank of
+Canada> and for working capital.
+ Reuter
+&#3;</BODY></TEXT>

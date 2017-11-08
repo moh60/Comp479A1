@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13429" NEWID="7908">
+<DATE>20-MAR-1987 14:36:29.59</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2074&#31;reute
+d f BC-FIRST-UNION-&lt;FUNC>-BA   03-20 0116</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FIRST UNION &lt;FUNC> BANKS ELECTRONICALLY LINKED</TITLE>
+<DATELINE>    CHARLOTTE, N.C., March 20 - </DATELINE><BODY>First Union National Bank of
+Florida, a unit of First Union Corp, said it has electronically
+linked its Florida and North Carolina 24-hour banking machines.
+    The bank said the service, which starts April 15, will let
+First Union customers make withdrawals and balance inquiries at
+any of its locations in Florida and North Carolina.
+    "This link-up will give customers immediate access to their
+accounts without additional cost whether they are in Florida or
+in North Carolina," said B.J. Walker, vice chairman of First
+Union Corp and chairman, president and chief executive officer
+of First Union National Bank.
+ Reuter
+&#3;</BODY></TEXT>

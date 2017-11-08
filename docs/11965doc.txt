@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="193" NEWID="11965">
+<DATE> 1-APR-1987 10:40:20.68</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f1150&#31;reute
+r f BC-U.K.-EXPORT-CREDIT-AG   04-01 0104</UNKNOWN>
+<TEXT>&#2;
+<TITLE>U.K. EXPORT CREDIT AGENCY CHANGES PREMIUMS</TITLE>
+<DATELINE>    LONDON, April 1 - </DATELINE><BODY>The U.K. Export Credit Guarantee
+Department (ECGD) said it would change the system of premiums
+it levies from British exporters, reducing their costs when
+they tender for a contract abroad.
+    It said in a statement that the changes involved halving
+the rate of non-refundable premiums levied by the ECGD from
+exporters before the contract they tender for is allocated. The
+rates of additional premium paid by successful tenderers will
+rise.
+ The last overhaul in premiums was in 1984 when charges for
+cover rose sharply after several years of heavy losses.
+ REUTER
+&#3;</BODY></TEXT>

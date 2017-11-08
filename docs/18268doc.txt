@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7713" NEWID="18268">
+<DATE> 2-JUN-1987 15:56:42.47</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;V RM
+&#22;&#22;&#1;f2521&#31;reute
+b f BC-SENATE-CLEARS-WAY-FOR   06-02 0100</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SENATE CLEARS WAY FOR PASSAGE OF MONEY BILL</TITLE>
+<DATELINE>    WASHINGTON, June 2 - </DATELINE><BODY>The Senate cleared away a
+parliamentary obstacle threatening final passage of a 9.4
+billion dlr money bill for the rest of fiscal 1987 ending
+October 1.
+    The Senate voted 64 to 32 to override objections the bill's
+money total violated the 1987 budget, a vote that required 60
+votes for approval.
+    The House-passed measure, debated by the Senate since May
+7, carries funds for most government activities with the bulk
+--6.7 billion dlrs--for agriculture support programs.
+    Final passage could come late tonight or tomorrow.
+ Reuter
+&#3;</BODY></TEXT>

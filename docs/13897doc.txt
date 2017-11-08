@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="BYPASS" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="2880" NEWID="13897">
+<DATE> 7-APR-1987 10:26:42.47</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C M
+&#22;&#22;&#1;f0998&#31;reute
+u f BC-ny-copper-opg-report   04-07 0097</UNKNOWN>
+<TEXT>&#2;
+<TITLE>COMEX COPPER FUTURES ONLY SLIGHTLY HIGHER EARLY</TITLE>
+<DATELINE>    NEW YORK, April 7 - </DATELINE><BODY>Comex copper futures posted smaller
+than expected gains early because of commission house
+resistance beginning at 62.90 cents basis May, brokers said.
+    Commission house selling has been entering between 62.90
+and 63.10 cents because many speculators remain nervous after
+recent sharp declines, brokers said.
+    Locals were buyers in sympathy with firmer precious metals
+and trade houses bought scale down, brokers said.
+    May delivery was up 0.05 cent at 62.70 cents a lb in a
+62.85 to 62.55 cents range.
+ Reuter
+&#3;</BODY></TEXT>

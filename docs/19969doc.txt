@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="8297" NEWID="19969">
+<DATE>29-JUN-1987 18:48:11.25</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2791&#31;reute
+u f BC-NASA-SELECTS-LOCKHEED   06-29 0059</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NASA SELECTS LOCKHEED &lt;LK> FOR SPACE STATION</TITLE>
+<DATELINE>    HOUSTON, June 29 - </DATELINE><BODY>Lockheed Corp said NASA selected it to
+develop and design software for the Space Station in a contract
+with a potential value of more than 200 mln dlrs.
+    Lockheed said the contract will continue into 1993 when
+assembly of the station in a 200-mile earth orbit is scheduled
+to begin.
+ Reuter
+&#3;</BODY></TEXT>

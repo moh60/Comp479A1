@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10361" NEWID="5448">
+<DATE>16-MAR-1987 11:53:18.00</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2607&#31;reute
+d f BC-MOLECULON-&lt;MBIO>-SEES   03-16 0096</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MOLECULON &lt;MBIO> SEES NEW WAY TO KICK THE HABIT</TITLE>
+<DATELINE>    CAMBRIDGE, Mass., March 16 - </DATELINE><BODY>Moleculon Inc said it
+successfully completed initial tests in animals of its
+Poroplastic transdermal nicotine delivery system to help
+smokers break the habit.
+    Transdermal systems are designed to deliver drugs through
+the skin in constant dosages.
+    The company said it is discussing licensing and marketing
+agreements for the product with a major international
+pharmaceutical firm, but did not identify the firm. It also
+said it retained Allen and Company, New York, as its financial
+advisor.
+ Reuter
+&#3;</BODY></TEXT>

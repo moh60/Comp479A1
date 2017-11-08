@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="NOT-USED" CGISPLIT="PUBLISHED-TESTSET" OLDID="21906" NEWID="17284">
+<DATE>27-APR-1987 07:31:11.28</DATE>
+<TOPICS><D>money-fx</D></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0619&#31;reute
+b f BC-BANK-OF-ENGLAND-DOES   04-27 0047</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BANK OF ENGLAND DOES NOT INTERVENE IN MONEY MARKET</TITLE>
+<DATELINE>    LONDON, April 27 - </DATELINE><BODY>The Bank of England said it did not
+intervene in the money market during the morning.
+    It also said that it had raised its estimate of the
+liquidity shortage in the market to 450 mln stg from 400 mln.
+ REUTER
+&#3;</BODY></TEXT>

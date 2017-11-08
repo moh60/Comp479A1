@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="1629" NEWID="12553">
+<DATE> 2-APR-1987 09:58:02.26</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1055&#31;reute
+d f BC-FLEET-FINANCIAL-&lt;FLT>   04-02 0039</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FLEET FINANCIAL &lt;FLT> CONSOLIDATES UNITS</TITLE>
+<DATELINE>    HARTFORD, Conn., April 2 - </DATELINE><BODY>Fleet Financial Group's First
+Connecticut Bancorp subsidiary said it has combined its four
+banking subsidiaries into one operating entity called United
+Bank.
+    
+ Reuter
+&#3;</BODY></TEXT>

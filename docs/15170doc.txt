@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4153" NEWID="15170">
+<DATE> 8-APR-1987 13:18:38.62</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>amex</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1922&#31;reute
+u f BC-AMEX-LISTS-RED-LION-I   04-08 0036</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AMEX LISTS RED LION INNS &lt;RED></TITLE>
+<DATELINE>    NEW YORK, April 8 - </DATELINE><BODY>The &lt;American Stock Exchange> said it
+has listed Red Lion Inns LP, which went public today.  The
+initial trade of the partnership units was at 19.75 dlrs, it
+said.
+ Reuter
+&#3;</BODY></TEXT>

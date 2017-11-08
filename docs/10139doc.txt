@@ -1,0 +1,30 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15660" NEWID="10139">
+<DATE>26-MAR-1987 16:00:15.11</DATE>
+<TOPICS><D>acq</D><D>grain</D><D>corn</D></TOPICS>
+<PLACES><D>italy</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2474&#31;reute
+u f BC-FERRUZZI-PARIS-UNIT-S   03-26 0092</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FERRUZZI PARIS UNIT SEEN ABSORBING CPC PURCHASE</TITLE>
+<DATELINE>    MILAN, March 26 - </DATELINE><BODY>Sources close to Italy's &lt;Gruppo
+Ferruzzi> said &lt;European Sugar (France)>, a French company
+owned by Ferruzzi, would take over control of &lt;CPC Industrial
+Division>, the corn wet milling business acquired by the
+Italian group earlier this week from CPC International Inc
+&lt;CPC>.
+    The sources told Reuters that European Sugar, owned by
+Ferruzzi subsidiary Eridania Zuccherifici Nazionali SpA
+&lt;ERDI.MI>, planned to seek a listing on the Paris bourse and
+make a share offering there.
+    CPC International announced Tuesday it had agreed in
+principle to sell its European corn wet millng business to
+Ferruzzi. The deal is worth 630 mln dlrs.
+ Reuter
+&#3;</BODY></TEXT>

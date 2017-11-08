@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4281" NEWID="15298">
+<DATE> 8-APR-1987 16:14:08.42</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2464&#31;reute
+w f BC-VMS-SHORT-TERM-&lt;VST>   04-08 0088</UNKNOWN>
+<TEXT>&#2;
+<TITLE>VMS SHORT TERM &lt;VST> TO FUND LOAN INCREASE</TITLE>
+<DATELINE>    CHICAGO, April 8 - </DATELINE><BODY>VMS Short Term Income Trust said it
+agreed to commit to fund a 1.8 mln dlrs loan increase for 1420
+K Street, a 12-story, 60,000 square foot office building in
+Washington, D.C.
+    The trust previously approved a 2.9 mln dlr loan for the
+property, making the total loan 4.7 mln dlrs.
+    VMS said the increased financing will have an initial term
+of six months and will include a one pct participation in the
+net appreciation of the property upon sale or refinancing.
+ Reuter
+&#3;</BODY></TEXT>

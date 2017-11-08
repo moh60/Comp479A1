@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14939" NEWID="9418">
+<DATE>25-MAR-1987 12:36:22.12</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>mose</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F
+&#22;&#22;&#1;f1670&#31;reute
+r f BC-TORONTO-DOMINION-BUYI   03-25 0111</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TORONTO DOMINION BUYING MONTREAL EXCHANGE SEAT</TITLE>
+<DATELINE>    MONTREAL, March 25 - </DATELINE><BODY>&lt;Toronto Dominion Bank> said it agreed
+to purchase a seat on the Montreal Stock Exchange for 40,000
+dlrs, subject to regulatory and exchange approval.
+    The move came two weeks after Toronto Dominion paid 195,000
+dlrs for a seat on the Toronto Stock Exchange, which made it
+the first bank to apply for membership on a Canadian exchange.
+The Toronto and Montreal exchanges are Canada's two biggest
+equity markets.
+    Proposed Canadian government legislation would allow banks
+full participation in the securities business after June 30.
+Toronto Dominion has owned a discount brokerage since 1984.
+ Reuter
+&#3;</BODY></TEXT>

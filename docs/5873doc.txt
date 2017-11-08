@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10786" NEWID="5873">
+<DATE>17-MAR-1987 08:17:59.87</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f4694&#31;reute
+r f BC-COMMERCIAL-INTERNATIO   03-17 0107</UNKNOWN>
+<TEXT>&#2;
+<TITLE>COMMERCIAL INTERNATIONAL &lt;CMMC> MAKES PURCHASE</TITLE>
+<DATELINE>    LOS ANGELES, March 17 - </DATELINE><BODY>Commercial International Corp said
+it has completed the previously-announced acquisition of most
+of the assets of Growers Distributing International Corp, a
+table grape marketer, for an undisclosed amount.
+    It said the entire purchase price will be payable over a
+three-year period and based on a percentage of pre-tax earnings
+of the acquired operation.
+    The company said it has an option to acquire Growers' cold
+storage facility and related assets in Tulare County, Calif.
+Growers is owned by Commercial chairman Sid Schuman Jr. and
+director Arnold T. Cattani Jr.
+ Reuter
+&#3;</BODY></TEXT>

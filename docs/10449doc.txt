@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15970" NEWID="10449">
+<DATE>27-MAR-1987 10:39:21.26&#5;&#5;&#5;C T</DATE>
+<UNKNOWN>&#22;&#22;&#1;f1057&#31;reute</UNKNOWN>
+<TOPICS><D>cocoa</D></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS><D>icco</D></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+b f BC-COCOA-CONSUMERS-ACCEP   03-27 0085</UNKNOWN>
+<TEXT>&#2;
+<TITLE>COCOA CONSUMERS ACCEPT COMPROMISE BUFFER PLAN</TITLE>
+<DATELINE>  LONDON, March 27 - </DATELINE><BODY>Consumer members of the International
+Cocoa Organization, ICCO, accepted a final buffer stock rules
+compromise, "on the condition that producers also agree,"
+consumer spokesman Peter Baron said.
+    The full council was meeting at 1530 GMT to discuss the
+compromise, which was put together yesterday by ICCO chairman
+Denis Bra Kanon.
+    Consumer delegates said they were optimistic the council
+could reach agreement on the rules fairly quickly.
+ Reuter
+&#3;</BODY></TEXT>

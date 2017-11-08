@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6657" NEWID="18906">
+<DATE>18-JUN-1987 14:19:43.68</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F Y 
+&#22;&#22;&#1;f4216&#31;reute
+r f BC-PENGO-&lt;PGO>-TO-SELL-S   06-18 0109</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PENGO &lt;PGO> TO SELL SOME WIRELINE OPERATIONS</TITLE>
+<DATELINE>    FORT WORTH, Texas, June 18 - </DATELINE><BODY>Pengo Industries Inc said it
+has agreed to sell its Wireline Products Manufacturing Division
+in Fort Worth, Texas, Wireline Services Division operations in
+several locations and Pengo International Inc subsidiary to
+John Wood Group PLC for undisclosed terms.
+    The company said the Wireline Services operations being
+sold are in Lafayette, Houma and Harvey, La., Alvin, Odessa and
+Longview, Texas, and Moore, Okla.
+    Pengo said its Kuykenball Slickline operation in Moore and
+surplus wireline equipment operations in fort Worth and
+Cleburne, Texas, will be sold separately.
+ Reuter
+&#3;</BODY></TEXT>

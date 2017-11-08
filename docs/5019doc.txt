@@ -1,0 +1,20 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9932" NEWID="5019">
+<DATE>13-MAR-1987 15:38:11.97</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0295&#31;reute
+r f BC-ALCIDE'S-&lt;ALCD>-SHELF   03-13 0036</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ALCIDE'S &lt;ALCD> SHELF REGISTRATION EFFECTIVE</TITLE>
+<DATELINE>    NORWALK, Conn., March 13 - </DATELINE><BODY>Alcide Corp said its shelf
+registration of 4,500,000 shares of common has been declared
+effective by the Securities and Exchange Commission.
+ Reuter
+&#3;</BODY></TEXT>

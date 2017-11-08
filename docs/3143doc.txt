@@ -1,0 +1,20 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19565" NEWID="3143">
+<DATE> 9-MAR-1987 11:10:18.44</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0507&#31;reute
+d f BC-INFOTRON-&lt;INFN>-NAMES   03-09 0031</UNKNOWN>
+<TEXT>&#2;
+<TITLE>INFOTRON &lt;INFN> NAMES NEW CHAIRMAN</TITLE>
+<DATELINE>    CHERRY HILL, N.J., March 9 - </DATELINE><BODY>Infotron Systems Corp said it
+elected Robert E. Purcell chairman of the board, a position
+held vacant for several years.
+ Reuter
+&#3;</BODY></TEXT>

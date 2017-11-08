@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6646" NEWID="18894">
+<DATE>18-JUN-1987 14:11:59.88</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f4193&#31;reute
+r f BC-NATIONAL-COMMERCE-&lt;NC   06-18 0052</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NATIONAL COMMERCE &lt;NCBC.O> IN KROGER &lt;KR> DEAL</TITLE>
+<DATELINE>    MEMPHIS, Tenn., June 18 - </DATELINE><BODY>National Commerce Bancorp said it
+has agreed to operate or sublicense branch bank facilities in
+supermarkets in Florida and Virginia Kroger Co supermarkets.
+    It said initially 20 locations will be available in Florida
+and 10 in Virginia.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14584" NEWID="9063">
+<DATE>24-MAR-1987 17:12:51.35</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2625&#31;reute
+r f BC-REPUBLIC-AMERICAN-&lt;RA   03-24 0088</UNKNOWN>
+<TEXT>&#2;
+<TITLE>REPUBLIC AMERICAN &lt;RAWC> PLANS EXCHANGE OFFER</TITLE>
+<DATELINE>    ENCINO, Calif., March 24 - </DATELINE><BODY>Republic American Corp said it
+began an offer to exchange a new issue of 9-1/2 pct
+subordinated debentures due 2002 for a portion of its common
+stock.
+    Republic said it is offering to acquire its stock at a rate
+of 17.50 dlrs principal amount of debentures per common share.
+    The offering, which expires on April 27 unless extended, is
+for up to 2,250,000 shares, with the company reserving the
+right to accept three mln shares, Republic also said.
+ Reuter
+&#3;</BODY></TEXT>

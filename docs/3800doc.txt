@@ -1,0 +1,37 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="8713" NEWID="3800">
+<DATE>11-MAR-1987 13:13:45.38</DATE>
+<TOPICS><D>gnp</D></TOPICS>
+<PLACES><D>austria</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0041&#31;reute
+r f BC-AUSTRIAN-1987-GROWTH   03-11 0106</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AUSTRIAN 1987 GROWTH SEEN BETWEEN 0.5 AND 1.5 PCT</TITLE>
+<DATELINE>    VIENNA, March 11 - </DATELINE><BODY>A meeting of leading politicians,
+bankers and economists has forecast Austrian real gross
+domestic product growth for this year at between 0.5 and 1.5
+pct, a government spokesman said.
+    This compared with a two pct growth forecast made by the
+semi-official Institute for Economic Research (WIFO) last
+December.
+    Helmut Kramer, spokesman for Chancellor Franz Vranitzky,
+told Reuters that the forecast had been made during the meeting
+attended by Vranitzky, Finance Minister Ferdinand Lacina,
+National Bank President Stefan Koren and a WIFO representative.
+    Economists have been cutting growth forecasts recently
+mainly due to expectations of a poor export performance this
+year, notably to Eastern Europe and oil exporting states.
+    Hannes Androsch, general director of
+Creditanstalt-Bankverein &lt;CABV.VI>, today put 1987 GDP growth
+at between one and 1.5 pct.
+    Kramer also said the meeting had heard that unemployment
+for the year would be above the 5.5 pct forecast, but was
+unlikely to be more than six pct.
+ REUTER
+&#3;</BODY></TEXT>

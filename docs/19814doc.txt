@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="8142" NEWID="19814">
+<DATE>29-JUN-1987 14:15:05.71</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2096&#31;reute
+h f BC-JAGUAR-PLANS-ONE-BILL   06-29 0106</UNKNOWN>
+<TEXT>&#2;
+<TITLE>JAGUAR PLANS ONE BILLION STG OUTLAY</TITLE>
+<DATELINE>    LONDON, June 29 - </DATELINE><BODY>Jaguar Plc &lt;JAGR.L> will spend about one
+billion stg over the next six years on expanded production,
+automation and improved efficiency, Jaguar chairman Sir John
+Egan said.
+    He told reporters the company planned to raise production
+to around 80,000 cars a year by 1992 from 47,000 this year,
+while productivity was expected to rise to 5.5 cars per worker
+in 1990 compared with four cars now.
+    Egan said the XJ6 model introduced last October was the
+first of a new saloon car family. Jaguar planned to bring out a
+new sports car in the early 1990s, probably called the "F."
+ Reuter
+&#3;</BODY></TEXT>

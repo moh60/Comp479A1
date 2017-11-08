@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="3114" NEWID="14131">
+<DATE> 7-APR-1987 11:36:51.22</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1316&#31;reute
+r f BC-BROKERAGE-FIRM-UPS-ST   04-07 0090</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BROKERAGE FIRM UPS STAKE IN ALLEGHENY &lt;AG></TITLE>
+<DATELINE>    WASHINGTON, April 7 - </DATELINE><BODY>The New York brokerage firm of Spear,
+Leeds and Kellogg told the Securities and Exchange Commission
+it had increased its preferred stock in Allegheny International
+Inc to 8.6 pct, from 7 pct.
+    It said it may buy additional shares, but had not decided
+whether to offer its shares in response to a tender offer by
+Sunter Acquisition Corp, a unit of First Boston Inc.
+    The brokerage firm said it bought the Allegheny shares
+March 30-April 2 for 86.50-87.25 dlrs each.
+ reuter
+&#3;</BODY></TEXT>

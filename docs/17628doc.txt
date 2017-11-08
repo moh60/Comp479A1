@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5956" NEWID="17628">
+<DATE> 1-JUN-1987 12:13:39.02</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A
+&#22;&#22;&#1;f1614&#31;reute
+r f BC-STG-COMMERCIAL-PAPER   06-01 0104</UNKNOWN>
+<TEXT>&#2;
+<TITLE>STG COMMERCIAL PAPER EXCEEDS ONE BILLION IN APRIL</TITLE>
+<DATELINE>    LONDON, June 1 - </DATELINE><BODY>Total sterling commercial paper
+outstanding rose 251 mln stg to 1.19 billion in April, taking
+it above one billion stg for the first time since the market
+opened in May 1986, figures released today by the Bank of
+England show.
+    Banks' holdings of commercial paper totalled 264 mln stg at
+end-April, down six mln from March.
+    Of the total, 225 mln had been issued by U.K. Companies, up
+three mln from March. Changes in these holdings are included in
+the  "bank lending in sterling to the U.K. Non-bank private
+sector" component of M3 money supply.
+ Reuter
+&#3;</BODY></TEXT>

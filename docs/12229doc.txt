@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="457" NEWID="12229">
+<DATE> 1-APR-1987 14:50:56.99</DATE>
+<TOPICS><D>interest</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;A
+&#22;&#22;&#1;f2160&#31;reute
+r f BC-BANK-OF-NEW-YORK-&lt;BK>   04-01 0033</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BANK OF NEW YORK &lt;BK> RAISES PRIME TO 7-3/4 PCT</TITLE>
+<DATELINE>    NEW YORK, April 1 - </DATELINE><BODY>Bank of New York said it raised its
+prime lending rate a quarter point to 7-3/4 pct.
+    It said the move is effective immediately.
+ Reuter
+&#3;</BODY></TEXT>

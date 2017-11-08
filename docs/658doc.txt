@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12842" NEWID="658">
+<DATE> 2-MAR-1987 13:53:46.33</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0601&#31;reute
+h f BC-AMERICAN-NURSERY-&lt;ANS   03-02 0051</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AMERICAN NURSERY &lt;ANSY> MAKES ACQUISITION</TITLE>
+<DATELINE>    TAHLEQUAH, Okla., March 2 - </DATELINE><BODY>American Nursery Products Inc
+said it has purchased Heini's Nursery Inc of Miami, which grows
+indoor foliage plants for wholesale distribution and had sales
+of 4,472,0000 dlrs for the year ended August 31.
+    Terms were not disclosed.
+ Reuter
+&#3;</BODY></TEXT>

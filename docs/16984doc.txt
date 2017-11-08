@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="NOT-USED" CGISPLIT="PUBLISHED-TESTSET" OLDID="21634" NEWID="16984">
+<DATE>21-APR-1987 10:03:53.42</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>south-africa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G L M T
+&#22;&#22;&#1;f0995&#31;reute
+u f BC-BLAST-IN-WHITE-AREA-O   04-21 0040</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BOMB BLAST ROCKS WHITE AREA OF SOUTH AFRICA</TITLE>
+<DATELINE>    JOHANNESBURG, April 21 - </DATELINE><BODY>A bomb rocked a white area of
+Johannesburg but first reports said no one was injured.
+    Police said an explosive device was placed under a car in
+the Mayfair district.
+ Reuter
+&#3;</BODY></TEXT>

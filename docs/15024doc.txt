@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4007" NEWID="15024">
+<DATE> 8-APR-1987 10:37:30.96</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1170&#31;reute
+r f BC-SOUTHMARK-&lt;SM>-ACQUIR   04-08 0071</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SOUTHMARK &lt;SM> ACQUIRES 28 NURSING HOMES</TITLE>
+<DATELINE>    DALLAS, April 8 - </DATELINE><BODY>Southmark Corp said it acquired 28
+long-term care facilities containing for approximately 70 mln
+dlrs in cash.
+    It said the facilities, which contain approximately 2,500
+beds in seven western states, were bought from Don Bybee and
+Associates, of Salem,Ore.
+    The acquistion brings to 57 health care facilities acquired
+in the last three months, the company said.
+ Reuter
+&#3;</BODY></TEXT>

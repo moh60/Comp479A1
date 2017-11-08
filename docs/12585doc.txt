@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="1661" NEWID="12585">
+<DATE> 2-APR-1987 10:35:37.87</DATE>
+<TOPICS><D>veg-oil</D><D>palm-oil</D></TOPICS>
+<PLACES><D>uk</D><D>pakistan</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G
+&#22;&#22;&#1;f1232&#31;reute
+u f BC-PAKISTAN-TO-TENDER-FO   04-02 0054</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PAKISTAN TO TENDER FOR RBD PALM OLEIN TOMORROW</TITLE>
+<DATELINE>    LONDON, April 2 - </DATELINE><BODY>Pakistan will tender tomorrow for 12,000
+tonnes of refined bleached deodorised palm olein tomorrow,
+split in two equal cargo lots for first and second half April
+shipments, traders said.
+    The tender will be financed with Islamic Development Bank
+credit.
+ Reuter
+&#3;</BODY></TEXT>

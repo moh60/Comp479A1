@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17319" NEWID="11257">
+<DATE>31-MAR-1987 08:28:14.12</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0777&#31;reute
+r f BC-REXNORD-&lt;REX>-SELLS-U   03-31 0088</UNKNOWN>
+<TEXT>&#2;
+<TITLE>REXNORD &lt;REX> SELLS UNIT TO NEOAX &lt;NOAX></TITLE>
+<DATELINE>    CHICAGO, March 31 - </DATELINE><BODY>Rexnord Inc, 96 pct owned by Banner
+Industries Inc &lt;BNR> following a recent tender offer, said it
+has completed the sale of its Fairfield Manufacturing Co
+subsidiary to NEOAX Inc for 70.5 mln dlrs in cash.
+    Rexnord said it still plans to sell its Process Machinery
+Division and Mathews Conveyor Co as part of its planned program
+to divest five businesses with 200 mln dlrs in assets.
+Bellofram Corp and Railway Maintenance Equipment Co have
+already been sold.
+ Reuter
+&#3;</BODY></TEXT>

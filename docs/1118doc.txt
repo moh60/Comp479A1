@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16438" NEWID="1118">
+<DATE> 3-MAR-1987 11:41:51.86</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0856&#31;reute
+r f BC-MATERIAL-SCIENCES   03-03 0110</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GROUP TRIMS MATERIAL SCIENCES &lt;MSC> STAKE</TITLE>
+<DATELINE>    WASHINGTON, March 3 - </DATELINE><BODY>An investor group led by Central
+National-Gottesman Inc, a New York investment firm, and its
+executive vice president, Edgar Wachenheim, said they cut their
+stake in Material Sciences Corp to less than five pct.
+    In a filing with the Securities and Exchange Commission,
+the group said it sold 19,500 Material Sciences common shares
+between Feb 11 and 19 at prices ranging from 24.00 to 27.648
+dlrs a share, leaving it with 239,500 shares, or 4.7 pct.
+    As long as the group's stake remains below five pct, it is
+not required to disclose further dealings in Material Sciences
+common stock.
+ Reuter
+&#3;</BODY></TEXT>

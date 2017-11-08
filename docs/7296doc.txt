@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12209" NEWID="7296">
+<DATE>19-MAR-1987 13:32:35.32</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1873&#31;reute
+u f BC-PRIME-MEDICAL-&lt;PMSI>   03-19 0027</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PRIME MEDICAL &lt;PMSI> SAYS MERGER TALKS END</TITLE>
+<DATELINE>    NEW YORK, March 19 - </DATELINE><BODY>Prime Medical Services Inc said merger
+talks with National HMO Corp &lt;NHMO> have been terminated.
+    Prime gave no reason for the termination of the talks with
+National HMO.
+ Reuter
+&#3;</BODY></TEXT>

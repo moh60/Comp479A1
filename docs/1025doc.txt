@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16345" NEWID="1025">
+<DATE> 3-MAR-1987 09:48:24.78</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>nasdaq</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0367&#31;reute
+r f BC-AERO-SERVICES-&lt;AEROE>   03-03 0075</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AERO SERVICES &lt;AEROE> GETS NASDAQ EXCEPTION</TITLE>
+<DATELINE>    TETERBORO, N.J., March 3 - </DATELINE><BODY>Aero Services Inc said its
+common stock will continue to be included for quotation in the
+National Association of Securities Dealers' NASDAQ system due
+to an exception from filing requiements, which it failed to
+meet as of January 15.
+    The company said while it believes it can meet conditions
+the NASD imposed for the exception, there can be no assurance
+that it will do so.
+ Reuter
+&#3;</BODY></TEXT>

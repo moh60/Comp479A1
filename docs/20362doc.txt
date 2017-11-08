@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20957" NEWID="20362">
+<DATE>20-OCT-1987 11:43:14.43</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1709&#31;reute
+r f BC-JOSEPHSON-&lt;JSON.O>-RE   10-20 0052</UNKNOWN>
+<TEXT>&#2;
+<TITLE>JOSEPHSON &lt;JSON.O> REPURCHASES 445,874 SHARES</TITLE>
+<DATELINE>    NEW YORK, Oct 20 - </DATELINE><BODY>Josephson International Inc said it
+repurchased 445,874 common shares yesterday under an
+authorization to buy back up to 500,000 shares and its board
+has authorized the further repurchase of another 500,000 shares
+in the open market and privately.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19456" NEWID="3038">
+<DATE> 9-MAR-1987 09:21:19.67</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0014&#31;reute
+r f BC-APPLIED-CIRCUIT&lt;ACRT>   03-09 0091</UNKNOWN>
+<TEXT>&#2;
+<TITLE>APPLIED CIRCUIT&lt;ACRT> SELLS ELECTRONICS BUSINESS</TITLE>
+<DATELINE>    ANAHEIM, Calif., March 9 - </DATELINE><BODY>Applied Circuit Technology Inc
+(ACT) said it has agreed in principal to sell its primary
+computer electronics business to the &lt;Sanpao Group> of San
+Francisco.
+    ACT said it has not disclosed the deal's terms, but added
+that 50 pct of the sale price is in cash, with the remainder to
+be paid over a two year period.
+    The deal is expected to close on March 31, ACT said.
+    ACT said it made the move to concentrate resources on its
+pharmaceuticals subsidiaries.
+ Reuter
+&#3;</BODY></TEXT>

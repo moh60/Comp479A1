@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19321" NEWID="2903">
+<DATE> 6-MAR-1987 17:11:36.59</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A F RM
+&#22;&#22;&#1;f0658&#31;reute
+r f BC-INT'L-RECTIFIER-&lt;IRF>   03-06 0106</UNKNOWN>
+<TEXT>&#2;
+<TITLE>INT'L RECTIFIER &lt;IRF> DEBT DOWNGRADED BY S/P</TITLE>
+<DATELINE>    NEW YORK, March 6 - </DATELINE><BODY>Standard and Poor's Corp said it cut to
+CCC from B-minus International Rectifier Corp's 58 mln dlrs of
+convertible subordinated debentures due 2010.
+    The company's implied senior debt rating is B-minus.
+    S and P said the downgrade reflected expectations of
+restricted financial flexibility through at least the
+intermediate term. It also cited a highly leveraged balance
+sheet and reduced access to capital.
+    The rating agency said International Rectifier's ability to
+reduce high debt levels and interest expense through cash from
+operations is very limited.
+ Reuter
+&#3;</BODY></TEXT>

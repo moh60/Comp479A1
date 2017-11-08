@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="21236" NEWID="20641">
+<DATE>20-OCT-1987 15:32:55.15</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2974&#31;reute
+d f BC-WELBILT-&lt;WELB.O>-ACQU   10-20 0090</UNKNOWN>
+<TEXT>&#2;
+<TITLE>WELBILT &lt;WELB.O> ACQUIRES FOOD HANDLING SYSTEMS</TITLE>
+<DATELINE>    NEW HYDE PARK, N.Y., Oct 20 - </DATELINE><BODY>Welbilt Corp said it acquired
+&lt;Food Handling Systems Inc> of Dallas, a producer of commercial
+ovens, conveyers and proofer systems.
+    Terms of the transaction were not disclosed.
+    Food Handling, which also produces equipment for the
+commercial baking industry, was privately owned by Richard
+Shumway of Mesa, Ariz., and Vic Ferrara of Dallas, both of whom
+will remain with the company.
+    The company has manufacturing facilities in Dallas and
+Phoenix.
+ Reuter
+&#3;</BODY></TEXT>

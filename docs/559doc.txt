@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12742" NEWID="559">
+<DATE> 2-MAR-1987 12:30:29.21</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0285&#31;reute
+d f BC-AMERICUS-TRUST-&lt;HPU>   03-02 0077</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AMERICUS TRUST &lt;HPU> EXTENDS DEADLINE</TITLE>
+<DATELINE>    NEW YORK, March 2 - </DATELINE><BODY>Americus Trust for American Home
+Products Shares said it extended its deadline for accepting
+tendered shares until November 26, an extension of nine months.
+    The trust, which will accept up to 7.5 mln shares of
+American Home Products &lt;AHP>, said it has already received
+tenders for about four mln shares.
+    The trust is managed by Alex. Brown and Sons Inc &lt;ABSB> and
+was formed November 26, 1986.
+ Reuter
+&#3;</BODY></TEXT>

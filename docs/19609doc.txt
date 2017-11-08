@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7937" NEWID="19609">
+<DATE>29-JUN-1987 09:47:58.82</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f0971&#31;reute
+r f BC-PGI-HOUTEX-BUYS-80-PC   06-29 0062</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PGI-HOUTEX BUYS 80 PCT OF SEIS PROS &lt;SEI></TITLE>
+<DATELINE>    NEW YORK, June 29 - </DATELINE><BODY>PGI-Houtex, a private Houston company,
+said it bought about 80 pct of the common stock of Seis Pros
+Inc at 2.85 dlrs a share from the founding stockholders.
+    It said the total price for the 3,100,100 shares was
+8,835,285 dlrs.
+    Completion of the merger transaction is expected in three
+to four months.
+ Reuter
+&#3;</BODY></TEXT>

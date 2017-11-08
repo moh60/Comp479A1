@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18658" NEWID="2240">
+<DATE> 5-MAR-1987 12:23:36.14</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F A
+&#22;&#22;&#1;f0930&#31;reute
+h f BC-COMMUNITY-BANK-SYSTEM   03-05 0066</UNKNOWN>
+<TEXT>&#2;
+<TITLE>COMMUNITY BANK SYSTEM &lt;CBSI> BUYS NICHOLS BANK</TITLE>
+<DATELINE>    SYRACUSE, N.Y., March 5 - </DATELINE><BODY>Community Bank Systems Inc and
+the &lt;Nichols National Bank> said they have signed a definitive
+agreement for Nichols to become a member of the CBSI Group of
+banks for an exchange of stock worth 2.8 mln dlrs.
+    CBSI said it expects to complete the deal, pending Nichols'
+shareholder and regulatory approval, later this year.
+ Reuter
+&#3;</BODY></TEXT>

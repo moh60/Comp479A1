@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11325" NEWID="6412">
+<DATE>18-MAR-1987 08:22:37.61</DATE>
+<TOPICS><D>veg-oil</D><D>sun-oil</D><D>cotton-oil</D></TOPICS>
+<PLACES><D>uk</D><D>egypt</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G
+&#22;&#22;&#1;f7596&#31;reute
+b f BC-EGYPT-REJECTS-VEG-OIL   03-18 0084</UNKNOWN>
+<TEXT>&#2;
+<TITLE>EGYPT REJECTS VEG OIL OFFERS, TO RETENDER</TITLE>
+<DATELINE>    LONDON, March 18 - </DATELINE><BODY>Egypt rejected all offers at a vegetable
+oil import tender yesterday for unspecified amounts of
+sunflowerseed oil and/or cottonseed oil, traders said. It has
+asked for a renewal of offers on March 24.
+    Exporters said they were not prepared to offer material on
+Egypt's new landed contract terms which include a clause, "free
+from radioactive contamination." Offers submitted were on old
+contract terms, all of which were rejected.
+ REUTER
+&#3;</BODY></TEXT>

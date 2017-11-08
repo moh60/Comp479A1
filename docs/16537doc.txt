@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1072" NEWID="16537">
+<DATE>13-APR-1987 13:42:57.62</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2055&#31;reute
+d f BC-BELL-ATLANTIC-&lt;BEL>-U   04-13 0055</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BELL ATLANTIC &lt;BEL> UNIT IN DISTRIBUTION DEAL</TITLE>
+<DATELINE>    ROCHESTER, N.Y., April 13 - </DATELINE><BODY>Bell Atlantic Corp's CompuShop
+subsidiary said it has been named an authorized reseller of
+Xerox Corp's &lt;XRX> Xerox Ventura Publisher desktop publishing
+software for International Business Machines Corp's &lt;IBM> XT
+and AT personal computers and compatibles.
+ Reuter
+&#3;</BODY></TEXT>

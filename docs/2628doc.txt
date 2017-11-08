@@ -1,0 +1,30 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19045" NEWID="2628">
+<DATE> 6-MAR-1987 10:53:31.24</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>sweden</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0383&#31;reute
+u f BC-BOFORS-MANAGING-DIREC   03-06 0120</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BOFORS MANAGING DIRECTOR RESIGNS</TITLE>
+<DATELINE>    STOCKHOLM, March 6 - </DATELINE><BODY>Martin Ardbo, managing director of &lt;AB
+Bofors>, which is at the centre of a police inquiry into
+illegal arms shipments to Iran, has resigned, the company said.
+    Ardbo was Bofors marketing head at the time peace groups
+say the company supplied arms to countries Sweden had
+blacklisted.
+    Ardbo was stepping down from his post at Bofors but would
+continue to work for the parent company, Bofors said in a
+statement. "For the past two years, an inquiry into alleged
+illegal arms exports has been carried out at Bofors. Arbo has
+decided that it would be unsuitable if he continued to
+represent the company," the statement said. It gave no further
+details.
+ REUTER
+&#3;</BODY></TEXT>

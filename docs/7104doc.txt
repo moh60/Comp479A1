@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12017" NEWID="7104">
+<DATE>19-MAR-1987 10:14:15.33</DATE>
+<TOPICS><D>coffee</D></TOPICS>
+<PLACES><D>zimbabwe</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C T G
+&#22;&#22;&#1;f0975&#31;reute
+u f BC-DROUGHT-MAY-REDUCE-ZI   03-19 0089</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DROUGHT MAY REDUCE ZIMBABWE COFFEE OUTPUT -GROWERS</TITLE>
+<DATELINE>    HARARE, March 19 - </DATELINE><BODY>Zimbabwe's projected coffee output of
+13,000 tonnes for 1987/88 could be reduced by drought, growers
+said.
+    The main coffee growing areas in eastern Zimbabwe have
+received little rain since April 1986 and the Coffee Growers'
+Association has begun a survey to assess the effects of the
+drought, a spokesman said.
+    Zimbabwe exported 11,000 tonnes of coffee in 1986, mainly
+to West Germany, Britain, Japan, the Netherlands, Switzerland
+and the United States.
+ Reuter
+&#3;</BODY></TEXT>

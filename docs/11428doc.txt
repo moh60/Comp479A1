@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17490" NEWID="11428">
+<DATE>31-MAR-1987 11:48:47.70</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1621&#31;reute
+s f BC-WATSO-INC-&lt;WSOA>-SETS   03-31 0054</UNKNOWN>
+<TEXT>&#2;
+<TITLE>WATSO INC &lt;WSOA> SETS REGULAR PAYOUTS</TITLE>
+<DATELINE>    COCONUT GROVE, Fla., March 31 -
+    </DATELINE><BODY>Qtrly Class A div five cts vs five cts prior
+    Qtrly Class B div four cts vs four cts prior
+    Pay May 29
+    Record April 30
+    NOTE: company changed date for its annual shareholders'
+meeting to June 24 from June 15 due to a scheduling conflict.
+ Reuter
+&#3;</BODY></TEXT>

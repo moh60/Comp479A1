@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6589" NEWID="18837">
+<DATE>18-JUN-1987 13:08:42.75</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f3981&#31;reute
+r f BC-MERCHANTSBANK-&lt;MCBKA>   06-18 0062</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MERCHANTSBANK &lt;MCBKA> GETS DIVIDEND DISTRIBUTION</TITLE>
+<DATELINE>    BOSTON, June 18 - </DATELINE><BODY>MerchantsBank of Boston said it has
+received an 8,400,000 dlr dividend from the Co-Operative
+Central Bank Share Insurance Fund, and the amount will be
+included in revenues for the second quarter.
+    The fund is liquidating since all cooperative banks in
+Massachusetts have obtained federal insurance.
+ Reuter
+&#3;</BODY></TEXT>

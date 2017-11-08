@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11745" NEWID="6832">
+<DATE>18-MAR-1987 16:38:07.47</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f9471&#31;reute
+r f BC-MCDONNELL-DOUGLAS-&lt;MD   03-18 0067</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MCDONNELL DOUGLAS &lt;MD> GETS ORDER</TITLE>
+<DATELINE>    LONG BEACH, Calif, March 18 - </DATELINE><BODY>McDonnell Douglas Corp said
+it received its first order for an executive jet model of its
+MD-80 aircraft from Ginji Yasuda, owner of Aladdin Hotel and
+Casino in Las Vegas, NEvada.
+    A spokesman said the commercial model of the aircraft sells
+for about 26 mln dlrs, but would not disclose the value of the
+customized version of the MD-80.
+ Reuter
+&#3;</BODY></TEXT>

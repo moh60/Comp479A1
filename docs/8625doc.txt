@@ -1,0 +1,31 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14146" NEWID="8625">
+<DATE>24-MAR-1987 04:49:14.53</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>france</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0274&#31;reute
+b f BC-FRENCH-BONDS-FOR-4.45   03-24 0082</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FRENCH BONDS FOR 4.45 BILLION FRANCS APPROVED</TITLE>
+<DATELINE>    PARIS, March 24 - </DATELINE><BODY>French domestic bond issues totalling
+4.45 billion francs have been approved by the bond issuing
+committee for publication in the Official Bulletin of March 30,
+the committee announced.
+    The largest of the issues will be a three-billion franc
+bond for the Caisse d'Aide a l'Equipement des Collectivites
+Locales (CAECL), comprising a two-billion franc fixed-rate
+tranche and a one billion franc variable-rate tranche.
+    Financement Local et Regional (FLORAL), a finance house
+managed by CAECL, will issue an 800 mln franc bond and Caisse
+Nationale de l'Energie will issue a 650 mln franc bond, of
+which one of the lead-managers will be Banque Nationale de
+Paris.
+    Details will be released later, the committee said.
+ REUTER
+&#3;</BODY></TEXT>

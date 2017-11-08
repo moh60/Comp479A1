@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7308" NEWID="19472">
+<DATE>19-JUN-1987 18:00:39.57</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F Y 
+&#22;&#22;&#1;f2555&#31;reute
+r f BC-CONSUMERS'-GAS-&lt;CGT.T   06-19 0059</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CONSUMERS' GAS &lt;CGT.TO> TO SELL DEBENTURES</TITLE>
+<DATELINE>    TORONTO, June 19 - </DATELINE><BODY>Consumers' Gas Co Ltd said it agreed to
+sell on July 6 100 mln dlrs of 10.60 pct debentures maturing in
+2012 and priced at 998 dlrs per 1,000 dlrs principal amount.
+    The company said it would use proceeds for general
+corporate purposes.
+    It said the underwriter is Gordon Capital Corp.
+ Reuter
+&#3;</BODY></TEXT>

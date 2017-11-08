@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16070" NEWID="10549">
+<DATE>27-MAR-1987 12:40:16.22&#5;&#5;&#5;F</DATE>
+<UNKNOWN>&#22;&#22;&#1;f1671&#31;reute</UNKNOWN>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+b f BC-MCDONNELL-DOUGLAS-&lt;MD   03-27 0070</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MCDONNELL DOUGLAS &lt;MD> AWARDS CONTRACTS</TITLE>
+<DATELINE>    LONG BEACH, Calif., March 27 - </DATELINE><BODY>McDonnell Douglas Corp said
+it awarded two contract totaling 284 mln dlrs for landing gear
+for its new MD-11 jetliner.
+    The company said IC Industries Inc's &lt;ICX> Pneumo Abex Corp
+unit was given a 214 mln dlr contract to make main landing
+gear, while &lt;AP Precision Hydraulics> was awarded a 70 mln dlr
+contract to build centerline and nose gear.
+    The company said Pneumo's Cleveland Pneumatic unit will
+build 300 shipsets.
+    AP Hydraulics' contract calls for 200 shipsets and options
+for an additional 100, the company said.
+ Reuter
+&#3;</BODY></TEXT>

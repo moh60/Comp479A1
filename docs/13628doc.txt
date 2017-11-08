@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="BYPASS" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="2611" NEWID="13628">
+<DATE> 7-APR-1987 08:25:38.77</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;MQ CQ
+&#22;&#22;&#1;f0590&#31;reute
+u f BC-ny-plat-vol-oi   04-07 0052</UNKNOWN>
+<TEXT TYPE="UNPROC">&#2;
+NYMEX PLATINUM VOL/OPEN INTEREST FOR APRIL 6
+       VOL    OPEN   CHANGE
+ APL   148    1155   off  122
+ JNE     0       0   unch    
+ JLY  4099   14575   off   71
+ OCT    40    2840   up    55
+ JAN    10     217   up     5
+ APL    24     332   up    10
+ Jly     0       1   unch    
+ Ttl  4321   19120   off  173
+&#3;
+
+</TEXT>

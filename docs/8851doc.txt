@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14372" NEWID="8851">
+<DATE>24-MAR-1987 12:15:49.51</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>nasdaq</D><D>nyse</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1615&#31;reute
+r f BC-NV-PHILIPS-SHARES-MOV   03-24 0113</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NV PHILIPS SHARES MOVE FROM NASDAQ TO NYSE</TITLE>
+<DATELINE>    EINDHOVEN, Netherlands, March 24 - </DATELINE><BODY>Dutch electronics group
+N.V. Philips Gloeilampenfabrieken &lt;PGLO.AS> said it will move
+its New York share listing, currently over the counter in the
+Nasdaq system, to the New York Stock Exchange.
+    Philips, listed on 17 European exchanges, said the move is
+part of an effort to boost its profile in the U.S., Where 10
+pct of all outstanding shares are held. The NASDAQ listing will
+end with the start of the NYSE listing, a spokesman said.
+    The NYSE told Philips it met conditions for a big board
+listing, Philips said, adding it expects the change to be
+effected in April, using the symbol PHG.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="277" NEWID="12049">
+<DATE> 1-APR-1987 11:50:55.18</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1491&#31;reute
+b f BC-MACANDREWS/FORBES-UNI   04-01 0110</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MACANDREWS/FORBES BEGINS REVLON &lt;REV> OFFER</TITLE>
+<DATELINE>    NEW YORK, April 1 - </DATELINE><BODY>MacAndrews and Forbes Group Inc said it
+began an 18.50-dlr-a-share cash offer for all common stock of
+Revlon Group Inc it does not already own.
+    The offer, which is being made by a wholly owned
+subsidiary, Revmac Acquisition Corp, is subject to financing
+and at least 28.5 mln shares being tendered, the company said.
+    MacAndrews and Forbes, wholly owned by Ronald Perelman,
+chairman of Revlon Group, held about 31.8 pct of the voting
+power of Revlon as of March 27, a spokesman said. The stake
+includes about 15.1 pct of Revlon common and 95 pct of its
+series A preferred stock, he said.
+ More
+&#3;</BODY></TEXT>

@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7564" NEWID="18119">
+<DATE> 2-JUN-1987 12:21:24.87</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1731&#31;reute
+d f BC-WHARF-RESOURCES-&lt;WFRA   06-02 0086</UNKNOWN>
+<TEXT>&#2;
+<TITLE>WHARF RESOURCES &lt;WFRA.O> SETS DEAL WITH NEVARD</TITLE>
+<DATELINE>    CALGARY, Alberta, June 2 - </DATELINE><BODY>Wharf Resources Ltd said it has
+reached a verbal agreement with &lt;Nevada Packard> for a joint
+venture to explore, evaluate and produce the Nevada precious
+metal property near Lovelock, Nev.
+    Wharf said it wil receive an exclusive option to update an
+existing feasibility study and evaluate a production decision.
+    Subject to completion of necessary documentation, Wharf
+said it expects work on the Nevada property to begin
+immediately.
+ Reuter
+&#3;</BODY></TEXT>

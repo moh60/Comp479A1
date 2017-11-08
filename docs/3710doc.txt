@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="8623" NEWID="3710">
+<DATE>11-MAR-1987 11:25:58.26</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;G
+&#22;&#22;&#1;f0560&#31;reute
+u f BC-CARGILL-U.K.-STRIKE-T   03-11 0058</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CARGILL U.K. STRIKE TALKS TO CONTINUE MONDAY</TITLE>
+<DATELINE>    LONDON, March 11 - </DATELINE><BODY>Talks between management and unions at
+Cargill U.K. Ltd's Seaforth oilseed processing plant will
+resume Monday, a company spokesman said.
+    He said some progress had been made.
+    Three consecutive days of negotiations ended this afternoon
+after failing to break the deadlock.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10664" NEWID="5751">
+<DATE>16-MAR-1987 18:21:55.71</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f3858&#31;reute
+d f BC-ADOBE-&lt;ADB>,-HIGH-PLA   03-16 0097</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ADOBE &lt;ADB>, HIGH PLAINS &lt;HPOC> TO MERGE</TITLE>
+<DATELINE>    DENVER, March 16 - </DATELINE><BODY>Adobe Resources Corp and High Plains Oil
+Corp said they reached an agreement in principle under which
+High Plains will be merged into a unit of Adobe.
+    Under terms of the agreement, the companies said each share
+of High Plains common stock not owned by Adobe or held in the
+High Plains treasury will be exchanged for 1.12 shares of newly
+issued Adobe common.
+    The exchange, they said, will be made on the effective date
+of the merger, which must be approved by both companies' boards
+and High Plains' shareholders.
+ Reuter
+&#3;</BODY></TEXT>

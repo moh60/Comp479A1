@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="21218" NEWID="20623">
+<DATE>20-OCT-1987 15:23:07.51</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>nyse</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2919&#31;reute
+u f BC-THOMSON-MCKINNON-NOT   10-20 0096</UNKNOWN>
+<TEXT>&#2;
+<TITLE>THOMSON MCKINNON NOT IN FINANCIAL TROUBLE</TITLE>
+<DATELINE>    NEW YORK, Oct 20 - </DATELINE><BODY>Thomson McKinnon Securities Inc said it
+is not having any financial difficulties following the 508
+point decline in the New York Stock Exchange on Monday.
+    The firm joined a long list of Wall Street securities
+companies that have been rumored to be in financial straits
+from losses caused in yesterday's selloff.
+    Earlier today, the NYSE said there were no major membe
+firms reporting any financial trouble. But, it said that H.B.
+Shaine and Co Inc of Grand Rapids, Mich. could not continue to
+do business.
+
+ Reuter
+&#3;</BODY></TEXT>

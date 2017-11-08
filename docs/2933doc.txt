@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19350" NEWID="2933">
+<DATE> 6-MAR-1987 18:18:21.55</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0789&#31;reute
+d f BC-MONOCLONAL-ANTIBODIES   03-06 0047</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MONOCLONAL ANTIBODIES &lt;MABS> BUYS COMPANY</TITLE>
+<DATELINE>    MOUNTAIN VIEW, CALIF, March 6 - </DATELINE><BODY>Monoclonal Antibodies Inc
+said it signed an agreement in principle to buy &lt;Genesis Labs
+Inc> for about 10 mln dlrs of common stock.
+    The agreement is subject to shareholders approval and other
+conditions.
+ Reuter
+&#3;</BODY></TEXT>

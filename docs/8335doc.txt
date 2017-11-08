@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13856" NEWID="8335">
+<DATE>23-MAR-1987 11:38:07.10</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F E
+&#22;&#22;&#1;f1420&#31;reute
+d f BC-CANADA-SOUTHERN-PETRO   03-23 0052</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CANADA SOUTHERN PETROLEUM LTD&lt;CSW> 2ND QTR LOSS</TITLE>
+<DATELINE>    CALGARY, Alberta - </DATELINE><BODY>Qtr ends Dec 31
+    Shr loss one ct vs profit two cts
+    Net loss 52,922 vs profit 220,041
+    Revs 481,832 vs 824,554
+    Six mths
+    Shr loss one ct vs profit four cts
+    Net loss 104,129 vs profit 345,515
+    Revs 934,685 vs 1,465,153
+ Reuter
+&#3;</BODY></TEXT>

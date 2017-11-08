@@ -1,0 +1,20 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15425" NEWID="9904">
+<DATE>26-MAR-1987 10:27:58.12</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1216&#31;reute
+u f BC-COMPUTER-ASSOCIATES-&lt;   03-26 0035</UNKNOWN>
+<TEXT>&#2;
+<TITLE>COMPUTER ASSOCIATES &lt;CA> SETS TWO FOR ONE SPLIT</TITLE>
+<DATELINE>    GARDEN CITY, N.Y., March 26 - </DATELINE><BODY>Computer Associates
+International Inc said its board has declared a two-for-one
+stock split, payable May Seven, record April Seven.
+ Reuter
+&#3;</BODY></TEXT>

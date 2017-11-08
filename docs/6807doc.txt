@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11720" NEWID="6807">
+<DATE>18-MAR-1987 16:12:16.19</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f9402&#31;reute
+r f BC-MONY-FINANCIAL-BUYS-U   03-18 0065</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MONY FINANCIAL BUYS UNITED ADMINISTRATORS &lt;UAI></TITLE>
+<DATELINE>    NEW YORK, March 18 - </DATELINE><BODY>&lt;MONY Financial Services> said it
+purchased United Administrators Inc in an effort to secure a
+larger market share for its group insurance line.
+    MONY said this acquisition, coupled with its purchase of
+Kelly Associates in 1985, contributes to its goal of expanding
+its group business and improving its product lines.
+ Reuter
+&#3;</BODY></TEXT>

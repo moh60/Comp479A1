@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14809" NEWID="9288">
+<DATE>25-MAR-1987 09:42:42.51</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0930&#31;reute
+d f BC-UNITED-MEDICAL-&lt;UM>-T   03-25 0043</UNKNOWN>
+<TEXT>&#2;
+<TITLE>UNITED MEDICAL &lt;UM> TO SELL UNIT</TITLE>
+<DATELINE>    HADDONFIELD, N.J., March 25 - </DATELINE><BODY>United Medical Corp said it
+has reached a definitive agreement to sell its hospital
+distribution unit to &lt;Myriad Group Inc> for undisclosed terms,
+with closing expected in the next several weeks.
+ Reuter
+&#3;</BODY></TEXT>

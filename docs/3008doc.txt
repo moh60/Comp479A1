@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19426" NEWID="3008">
+<DATE> 9-MAR-1987 08:11:20.25</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0792&#31;reute
+s f BC-U.S.-FACILITIES-&lt;USRE   03-09 0047</UNKNOWN>
+<TEXT>&#2;
+<TITLE>U.S. FACILITIES &lt;USRE> SEMI-ANNUAL DIVIDEND</TITLE>
+<DATELINE>    COSTA MESA, Calif., March 9 -
+    </DATELINE><BODY>Semi-annual dividend 4 cts
+    Pay May 29
+    Record April 14
+Note: full name is U.S. Facilities Corp. This is first dividend
+declared since company completed its initial public offering on
+November 7.
+ Reuter
+&#3;</BODY></TEXT>

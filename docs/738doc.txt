@@ -1,0 +1,20 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12921" NEWID="738">
+<DATE> 2-MAR-1987 15:44:15.36</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0931&#31;reute
+d f BC-BANC-ONE-&lt;ONE>-HAS-MI   03-02 0034</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BANC ONE &lt;ONE> HAS MICHIGAN AFFILIATE</TITLE>
+<DATELINE>    COLUMBUS, Ohio, March 2 - </DATELINE><BODY>Banc One Corp said the First
+National Bank of Fenton has become Bank One, Fenton, bringing
+the number of its affiliates to three in Michigan.
+ Reuter
+&#3;</BODY></TEXT>

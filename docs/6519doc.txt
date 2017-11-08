@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11432" NEWID="6519">
+<DATE>18-MAR-1987 10:43:40.51</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f8132&#31;reute
+r f BC-FIRST-BANCORP-FILES-R   03-18 0088</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FIRST BANCORP FILES REGISTRATION WITH SEC</TITLE>
+<DATELINE>    TROY, N.C., March 18 - </DATELINE><BODY>First Bancorp said it filed with the
+Securities and Exchange Commission its public offering of
+400,000  shares of common stock to be underwitten by Interstate
+Securities Corp.
+    First Bancorp said the registration statement also covers
+60,000 additional shares that Interstate Securities has the
+right to acquire in order to cover over allotments.
+    First Bancorp, which is now private, said its stock will
+not be traded until the filing becomes effective.
+ Reuter
+&#3;</BODY></TEXT>

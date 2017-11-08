@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1341" NEWID="16806">
+<DATE>17-APR-1987 09:06:53.07</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0200&#31;reute
+d f BC-FIRST-INTERSTATE-OF-I   04-17 0058</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FIRST INTERSTATE OF IOWA INC &lt;FIIA.O> 1ST QTR</TITLE>
+<DATELINE>    DES MOINES, Iowa, April 17 -
+    </DATELINE><BODY>Shr profit two cts vs loss two cts
+    Net profit 251,000 vs loss 222,000
+    NOTE: Pretax net profit 295,000 dlrs vs loss 256,000 dlrs.
+    Charge against earnings for loan losses 1,743,000 dlrs vs
+2,743,000 dlrs and net chargeoffs 1,636,000 dlrs vs 3,865,000
+dlrs.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="21197" NEWID="20602">
+<DATE>20-OCT-1987 15:01:02.47</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2830&#31;reute
+u f BC-RJR-NABISCO-&lt;RJR>-TO   10-20 0053</UNKNOWN>
+<TEXT>&#2;
+<TITLE>RJR NABISCO &lt;RJR> TO BUY FIVE MLN OF ITS SHARES</TITLE>
+<DATELINE>    ATLANTA, Oct 20 - </DATELINE><BODY>RJR Nabisco Inc said it will purchase up
+to five mln of its outstanding common shares.
+    The company said purchases under the ongoing program will
+be made on the open market or in negotiated transactions. It
+now has about 250.3 mln shares outstanding.
+ Reuter
+&#3;</BODY></TEXT>

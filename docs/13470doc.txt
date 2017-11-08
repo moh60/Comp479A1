@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="2453" NEWID="13470">
+<DATE> 7-APR-1987 06:22:58.09</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>saudi-arabia</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0340&#31;reute
+r f BC-YIELD-ON-180-DAY-SAUD   04-07 0086</UNKNOWN>
+<TEXT>&#2;
+<TITLE>YIELD ON 180-DAY SAUDI DEPOSITS RISES</TITLE>
+<DATELINE>    BAHRAIN, April 7 - </DATELINE><BODY>The yield on 180-day bankers security
+deposit accounts issued this week by the Saudi Arabian Monetary
+Agency (SAMA) rose slightly to 6.63492 pct from 6.56823 last
+week, bankers said.
+    SAMA reduced the offer price on the 500 mln riyal issue to
+96.78906 from 96.82031 last week. Like-dated interbank deposits
+were quoted today at seven, 6-3/4 pct.
+    SAMA offers a total 1.9 billion riyals in 30, 91 and
+180-day paper to banks in Bahrain each week.
+ REUTER
+&#3;</BODY></TEXT>

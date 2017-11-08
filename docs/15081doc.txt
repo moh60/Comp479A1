@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4064" NEWID="15081">
+<DATE> 8-APR-1987 11:32:34.61</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1452&#31;reute
+r f BC-SHOPSMITH-&lt;SHOP>-REMO   04-08 0067</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SHOPSMITH &lt;SHOP> REMOVES PRESIDENT</TITLE>
+<DATELINE>    DAYTON, Ohio, April 8 - </DATELINE><BODY>Shopsmith Inc said its board has
+released Joseph DiGaicomo Jr. as president, but he will remain
+on the board.
+    The company said the post of president will not be filled
+at present.
+    "With very disappointing sales results during the quarter
+just ended, adjustments are appropriate," the company quoted
+chairman John R. Folkerth as saying.
+ Reuter
+&#3;</BODY></TEXT>

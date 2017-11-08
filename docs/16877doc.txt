@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1412" NEWID="16877">
+<DATE>17-APR-1987 13:09:10.90</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0355&#31;reute
+r f BC-KAYDON-&lt;KDON.O>-NAMES   04-17 0055</UNKNOWN>
+<TEXT>&#2;
+<TITLE>KAYDON &lt;KDON.O> NAMES NEW CHAIRMAN</TITLE>
+<DATELINE>    MUSKEGON, Mich., April 17 - </DATELINE><BODY>Kaydon Corp said president
+Richard A. Shantz has been named chairman, succeeding Glenn W.
+Bailey, who remains on the board.
+    The company said Lawrence J. Cawley, who had been president
+of the Bearing Division, has ben named to succeed Shantz as
+Kaydon president.
+ Reuter
+&#3;</BODY></TEXT>

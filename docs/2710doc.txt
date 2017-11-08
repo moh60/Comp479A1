@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19128" NEWID="2710">
+<DATE> 6-MAR-1987 12:15:06.45</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0765&#31;reute
+u f BC-NEW-JERSEY-APPROVES-G   03-06 0102</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NEW JERSEY APPROVES GPU &lt;GPU> UNIT'S RATE CUT</TITLE>
+<DATELINE>    PARSIPPANY, N.J., March 6 - </DATELINE><BODY>General Public Utilities Corp
+said the New Jersey Board of Public Utilities has approved a 72
+mln dlrs annual reduction in energy-adjustment charges for the
+company's Jersey Central Power and Light Co subsidiary.
+    The change in the utility's Levelized Energy Adjustment
+Charge represents a five pct decrease in overall electricity
+rates.
+    On January 28, Jersey Central filed for a 32 mln dlr a year
+decrease in the charge, asking to retain the difference to
+prevent an increase in these charges next year, a company
+spokesman said.
+ Reuter
+&#3;</BODY></TEXT>

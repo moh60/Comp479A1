@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10588" NEWID="5675">
+<DATE>16-MAR-1987 16:15:14.40</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f3556&#31;reute
+h f BC-AMERICAN-INTERNATIONA   03-16 0085</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AMERICAN INTERNATIONAL PETROLEUM TO BUY ASSETS</TITLE>
+<DATELINE>    NEW YORK, March 16 - </DATELINE><BODY>American International Petroleum Corp
+&lt;AIPN> said it agreed to acquire for one mln dlrs the assets of
+a western Louisiana oil and gas company. American International
+would not identify the company.
+    American said assets included nine leases totalling 2,600
+acres, various working interests in 15 oil and gas wells on
+that property, all equipment and machinery necessary for
+operation, and a 50 pct interest in a nine-mile gas pipeline.
+
+ Reuter
+&#3;</BODY></TEXT>

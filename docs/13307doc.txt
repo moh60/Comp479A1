@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="BYPASS" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="2290" NEWID="13307">
+<DATE> 7-APR-1987 00:55:23.58</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C T
+&#22;&#22;&#1;f0023&#31;reute
+b f BC-malaysian-exchange-sm   04-07 0079</UNKNOWN>
+<TEXT TYPE="UNPROC">&#2;
+Malaysian exchange smr rubber noon fixing - april 7 fob m cts
+per kilo in one tonne pallets smr cv may  242.00  244.00  nom
+jne  243.00  245.00  nom smr l may  241.00  243.00  nom jne 
+242.00  244.00  nom smr 5 may  201.50  202.50  nom jne  202.50 
+203.50  nom smr gp may   -      213.50  nom jne   unquoted smr
+10 may  196.50  198.50  nom jne  197.50  199.50  nom smr 20 may
+ 194.50  196.50  nom jne  195.50  197.50  nom smr 50 may 
+191.00  193.00  nom jne  192.00  194.00  nom
+&#3;
+
+</TEXT>

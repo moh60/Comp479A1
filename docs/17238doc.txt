@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="NOT-USED" CGISPLIT="PUBLISHED-TESTSET" OLDID="21860" NEWID="17238">
+<DATE>27-APR-1987 03:47:51.53</DATE>
+<TOPICS><D>zinc</D></TOPICS>
+<PLACES><D>netherlands</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C M
+&#22;&#22;&#1;f0181&#31;reute
+b f BC-WORLD-MARCH-ZINC-SMEL   04-27 0063</UNKNOWN>
+<TEXT>&#2;
+<TITLE>WORLD MARCH ZINC SMELTER STOCKS FALL 31,800 TONNES</TITLE>
+<DATELINE>    EINDHOVEN, April 27 - </DATELINE><BODY>Total world closing stocks of primary
+zinc at smelters, excluding Eastern Bloc countries, fell 31,800
+tonnes to 432,800 tonnes in March from a corrected February
+figure of 464,600 tonnes, provisional European Zinc Institute
+figures show.
+    This compares with 403,300 tonnes in March last year.
+    Total European stocks of primary zinc, excluding
+Yugoslavia, fell 10,100 tonnes to 149,900 tonnes in March from
+160,000 tonnes in February, against 131,300 tonnes in March
+last year.
+ REUTER
+&#3;</BODY></TEXT>

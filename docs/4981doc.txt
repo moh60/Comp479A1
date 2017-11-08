@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9893" NEWID="4981">
+<DATE>13-MAR-1987 14:35:43.62</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F Y
+&#22;&#22;&#1;f0128&#31;reute
+r f BC-ARCO-&lt;ACR>-SELLS-TWO   03-13 0084</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ARCO &lt;ACR> SELLS TWO OPERATIONS</TITLE>
+<DATELINE>    LOS ANGELES, March 13 - </DATELINE><BODY>Atlantic Richfield Co said it sold
+its Plan Cell Research Institute unit and its Arco Seed Co
+operations in two transactions for undisclosed prices.
+    The company said it sold Dublin, Calif.-based Plant Cell
+Research to &lt;Montedision SpA> of Milan, Italy and ARCO Seed Co
+to U.F. Genetics of Hollister, Calif.
+    Atlantic Richfield said the divestitures are in line with
+its policy of focusing resources on oil, gas, chemical and coal
+operations.
+ Reuter
+&#3;</BODY></TEXT>

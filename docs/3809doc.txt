@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="8722" NEWID="3809">
+<DATE>11-MAR-1987 13:18:00.34</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0062&#31;reute
+h f BC-FORD-&lt;F>-SELECTS-FIRM   03-11 0058</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FORD &lt;F> SELECTS FIRM TO AUTOMATE PLANT</TITLE>
+<DATELINE>    NEW YORK, March 11 - </DATELINE><BODY>Ford Motor Co selected &lt;Scicon Corp's>
+Systems Control unit to install a manufacturing automation
+system at Ford's Hermosillo, Mexico, plant, Scicon said.
+    The system, the value of which was not disclosed, will
+provide Ford with automated vehicle tracking capabilities,
+Scicon said.
+ Reuter
+&#3;</BODY></TEXT>

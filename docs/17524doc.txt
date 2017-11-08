@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5862" NEWID="17524">
+<DATE> 1-JUN-1987 09:59:52.42</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F
+&#22;&#22;&#1;f1007&#31;reute
+r f BC-pega-to-buy-stake   06-01 0105</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PEGA TO BUY STAKE IN TAMPER-PROOF PACKAGING</TITLE>
+<DATELINE>    TORONTO, June 1 - </DATELINE><BODY>Pega Capital Resources Ltd &lt;PGA.TO> said
+it agreed in principle to acquire a 50 pct undivided interest
+in all rights and patents to a tamper resistant and
+tamper-evident packaging process for 1,250,000 dlrs.
+    The company said the purchase price is payable in 1,250,000
+common shares priced at one dlr each. The shares will be paid
+under an escrow agreement where Pega may terminate the purchase
+agreement and cancel the shares up to October 31, 1987.
+    It said the process results in readily visible breakage if
+packaging material is pierced by a sharp object.
+ Reuter
+&#3;</BODY></TEXT>

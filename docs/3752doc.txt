@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="8665" NEWID="3752">
+<DATE>11-MAR-1987 12:14:00.63</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0788&#31;reute
+d f BC-CONSUMERS-POWER-&lt;CMS>   03-11 0091</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CONSUMERS POWER &lt;CMS> COGENERATION QUALIFIED</TITLE>
+<DATELINE>    DETROIT, March 11 - </DATELINE><BODY>Consumers Power Co said the Federal
+Energy Regulatory Commission approved the company's Midland
+cogeneration venture as a "qualifying" facility under the
+Public Utility Regulatory Policies Act.
+    It said the approval overcomes the last potential federal
+hurdle to converting Midland to a combined-cycle, natural
+gas-fired cogeneration plant.
+    In October 1986, the venture received permission from the
+U.S. Department of Energy to fuel the plant permanently with
+natural gas.
+ Reuter
+&#3;</BODY></TEXT>

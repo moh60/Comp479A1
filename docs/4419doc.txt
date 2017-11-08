@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9332" NEWID="4419">
+<DATE>12-MAR-1987 14:21:59.49</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0075&#31;reute
+d f BC-OPTROTECH-LTD-&lt;OPTKF>   03-12 0045</UNKNOWN>
+<TEXT>&#2;
+<TITLE>OPTROTECH LTD &lt;OPTKF> YEAR NET</TITLE>
+<DATELINE>    BILLERICA, Mass., March 12 -
+    </DATELINE><BODY>Shr 13 cts vs 50 cts
+    Net 651,397 vs 2,602,120
+    Revs 26.4 mln vs 21.6 mln
+    NOTE: 1986 net includes gain 291,027 dlr gain from quantity
+discount rebates on purchases of materials in prior years.
+ Reuter
+&#3;</BODY></TEXT>

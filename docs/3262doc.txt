@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19684" NEWID="3262">
+<DATE>  9-MAR-1987 13:22:03.45</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0140&#31;reute
+r f BC-MERCK-&lt;MRK>-UPS-1987   03-09 0041</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MERCK &lt;MRK> UPS 1987 RESEARCH BUDGET 11 PCT</TITLE>
+<DATELINE>    RAHWAY, N.J., March 9 - </DATELINE><BODY>Merck and Co Inc said it will spend
+more than 530 mln dlrs this year on research and development,
+up 11 pct from the 480 mln dlrs it spent in 1986 on research
+and development.
+ Reuter
+&#3;</BODY></TEXT>

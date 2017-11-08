@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18763" NEWID="2345">
+<DATE> 5-MAR-1987 14:15:22.66</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>nyse</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0362&#31;reute
+d f BC-NYSE-SELLS-17-NYFE-SE   03-05 0053</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NYSE SELLS 17 NYFE SEATS</TITLE>
+<DATELINE>    NEW YORK, March 5 - </DATELINE><BODY>The New York Stock Exchange said it
+sold 17 seats on the New York Futures Exchange, three for 200
+dlrs, unchanged from the previous sale on February 25, and 14
+for 100 dlrs, down 100 dlrs.
+    The Exchange said the current bid is 100 dlrs and the
+current offer is 300 dlrs.
+ Reuter
+&#3;</BODY></TEXT>

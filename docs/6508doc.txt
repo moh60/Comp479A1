@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11419" NEWID="6508">
+<DATE>18-MAR-1987 10:30:13.97</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D><D>japan</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f8052&#31;reute
+d f BC-SHELDAHL-&lt;SHEL>-IN-AG   03-18 0108</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SHELDAHL &lt;SHEL> IN AGREEMENT WITH SUMITOMO</TITLE>
+<DATELINE>    NORTHFIELD, MINN., March 18 - </DATELINE><BODY>Sheldahl Inc said it signed
+the previously announced agreements with Sumitomo Bakelite Co
+Ltd, Tokyo, Japan, providing for a joint participation program
+for manufacturing flexible circuits and circuitry components.
+    Under terms of the agreement, each company granted the
+other a license to use flexible circuit and related technology.
+    As part of the transaction, Sumitomo Bakelite has purchased
+10 pct, or 325,000 shares of Sheldahl common stock. In
+addition, Sheldahl will be a minority holder in Sumitomo's next
+flexible circuit manufacturing operation in Japan.
+ Reuter
+&#3;</BODY></TEXT>

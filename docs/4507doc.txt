@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9420" NEWID="4507">
+<DATE>12-MAR-1987 16:09:11.38</DATE>
+<TOPICS><D>gas</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;Y
+&#22;&#22;&#1;f0437&#31;reute
+r f BC-WRIGHT-SAYS-A-GAS-TAX   03-12 0097</UNKNOWN>
+<TEXT>&#2;
+<TITLE>WRIGHT SAYS A GAS TAX AN OPTION TO CUT DEFICIT</TITLE>
+<DATELINE>    WASHINGTON, March 12 - </DATELINE><BODY>House Speaker Jim Wright said a
+gasoline tax is one option to finding a way to reduce the
+deficit, but told reporters in response to a question he will
+not try to dictate a solution to the debt problem.
+    Wright has made suggestions for raising taxes about 20
+billion dlrs as part of a budget plan to reduce the deficit.
+Tax proposals are being given consideration by members of the
+House Budget Committee, but the details of any tax increase
+would be made by the tax writing House ways and Means
+Committee.
+ Reuter
+&#3;</BODY></TEXT>

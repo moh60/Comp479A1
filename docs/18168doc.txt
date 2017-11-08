@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7613" NEWID="18168">
+<DATE> 2-JUN-1987 13:50:06.77</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2086&#31;reute
+d f BC-PUTNAM-LAUNHCES-NEW-G   06-02 0076</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PUTNAM LAUNHCES NEW GLOBAL INCOME FUND</TITLE>
+<DATELINE>    BOSTON, June 2 - </DATELINE><BODY>Putnam Financial Services Inc said its
+newest fund offering, Putnam Global Governmental Income Trust,
+is among the few global funds with an investment objective of
+high current income through a portfolio of mainly government
+bonds.
+    Putnam claimed the trust allows investor money to go where
+the best yields are found worldwide, yet investors still have
+the assurance of governmental obligations.
+ Reuter
+&#3;</BODY></TEXT>

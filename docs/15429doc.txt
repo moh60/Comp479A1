@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4607" NEWID="15429">
+<DATE> 9-APR-1987 07:21:35.45</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>netherlands</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0444&#31;reute
+b f BC-AEGON-1986-NET-PROFIT   04-09 0076</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AEGON 1986 NET PROFIT RISES 6.4 PCT</TITLE>
+<DATELINE>    THE HAGUE, April 9 - </DATELINE><BODY>Net profit 327.1 mln guilders vs
+307.5.
+    Total revenue 7.97 billion guilders vs 8.7 billion.
+    Net profit per five guilder nominal share 9.33 guilder vs
+9.25 (corrected for capital increase).
+    Final dividend 1.30 guilders and 2.4 pct stock vs 1.30
+guilders and 2.2 pct in stock. Interim dividend already paid
+was 1.30 guilders.
+    Note : full name of company is AEGON NV &lt;AEGN.AS>
+    REUTER
+&#3;</BODY></TEXT>

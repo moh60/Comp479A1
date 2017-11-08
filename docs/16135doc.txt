@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="670" NEWID="16135">
+<DATE>13-APR-1987 05:07:16.30</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0259&#31;reute
+b f BC-DEUTSCHE-BANK-FINANCE   04-13 0088</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DEUTSCHE BANK FINANCE UNIT HAS AUSTRALIAN DLR BOND</TITLE>
+<DATELINE>    LONDON, April 13 - </DATELINE><BODY>Deutsche Bank Finance NV Curacao is
+issuing a 100 mln Australian dlr eurobond due May 14, 1990
+paying 14-1/8 pct and priced at 101-1/4 pct, lead manager
+Deutsche Bank Capital Markets Ltd said.
+    The bond, guaranteed by parent Deutsche Bank AG, is
+available in denominations of 1,000 and 10,000 dlrs and will be
+listed in Luxembourg.
+    Fees total 1-1/2 pct, comprising one pct selling concession
+and 1/2 pct management and underwriting combined.
+ REUTER
+&#3;</BODY></TEXT>

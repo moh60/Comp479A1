@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10526" NEWID="5613">
+<DATE>16-MAR-1987 14:42:16.51</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM A
+&#22;&#22;&#1;f3316&#31;reute
+r f BC-PNC-FINANCIAL-&lt;PNCF>   03-16 0098</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PNC FINANCIAL &lt;PNCF> UNIT UPGRADED BY MOODY'S</TITLE>
+<DATELINE>    NEW YORK, March 16 - </DATELINE><BODY>Moody's Investors Service Inc said it
+raised to Aa-2 from Aa-3 the long-term deposit obligations of
+Citizens Fidelity Bank and Trust Co because its parent,
+Citizens Fidelity Corp, has merged into PNC Financial Corp.
+    Moody's said the merger should strengthen the bank's
+earnings potential through the acquired access to PNC's product
+lines. It should also result in significantly more financial
+flexibility to Citizens Fidelity, Moody's said.
+    The bank's Prime-1 rating for short-term deposits was not
+affected.
+ Reuter
+&#3;</BODY></TEXT>

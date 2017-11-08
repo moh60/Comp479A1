@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20064" NEWID="21372">
+<DATE>19-OCT-1987 10:46:54.22</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1354&#31;reute
+d f BC-INTERNATIONAL-RESEARC   10-19 0036</UNKNOWN>
+<TEXT>&#2;
+<TITLE>INTERNATIONAL RESEARCH &lt;IRDV.O> 3RD QTR PAYOUT</TITLE>
+<DATELINE>    MATTAWAN, Mich., Oct 19 -
+    </DATELINE><BODY>Qtly div nine cts vs nine cts prior qtr
+    Pay Nov 25
+    Record Nov 13
+    Note: Full name is International Research and Development
+Corp
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,30 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17946" NEWID="1528">
+<DATE> 4-MAR-1987 11:09:08.66</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0571&#31;reute
+d f BC-ELECTRO-NUCLEONICS-IN   03-04 0092</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ELECTRO-NUCLEONICS INC &lt;ENUC> 2ND QTR DEC 31</TITLE>
+<DATELINE>    FAIRFIELD, N.J., March 4 -
+    </DATELINE><BODY>Shr loss 1.77 dlrs vs profit 15 cts
+    Net loss 8,036,000 vs profit 576,000
+    Sales 16.2 mln vs 17.2 mln
+    Avg shrs 4,539,437 vs 3,816,580
+    1st half
+    Shr loss 1.96 dlrs vs profit 26 cts
+    Net loss 8,231,000 vs profit 996,000
+    Sales 30.9 mln vs 32.2 mln
+    Avg shrs 4,205,707 vs 3,814,141
+    NOTE: Current half net includes 68,000 dlr tax credit.
+    Current year net both periods includes 6,700,000 dlr
+writedown of inventory of clinical chemistry products.
+ Reuter
+&#3;</BODY></TEXT>

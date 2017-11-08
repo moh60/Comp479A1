@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1416" NEWID="16881">
+<DATE>17-APR-1987 13:09:39.00</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0359&#31;reute
+d f BC-GOODMARK-FOODS-&lt;GDMK.   04-17 0052</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GOODMARK FOODS &lt;GDMK.O> NAMES NEW CHAIRMAN</TITLE>
+<DATELINE>    RALEIGH, N.C., April 17 - </DATELINE><BODY>GoodMark Foods Inc said president
+and chief executive officer Ron E. Doggett will assume the
+added post of chairman effective June One, when H. Hawkins
+Bradley retires.
+    It said Bradley will remain on the board and as a company
+consultant.
+ Reuter
+&#3;</BODY></TEXT>

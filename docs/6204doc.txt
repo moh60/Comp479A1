@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11101" NEWID="6204">
+<DATE>17-MAR-1987 14:48:45.02</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f6246&#31;reute
+d f BC-CORRECTION---SIMMONS   03-17 0028</UNKNOWN>
+<TEXT TYPE="UNPROC">&#2;
+CORRECTION - SIMMONS AIRLINES INC &lt;SIMM> LOSS
+    In CHICAGO item headlined Simmons Airlines Inc &lt;SIMM> 2nd
+qtr loss, please reverse qtrs for which figures are reported.
+ Reuter
+&#3;
+
+</TEXT>

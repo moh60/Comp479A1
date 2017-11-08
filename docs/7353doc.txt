@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12266" NEWID="7353">
+<DATE>19-MAR-1987 14:48:48.26</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2129&#31;reute
+r f BC-TEMPO-&lt;TPO>-TO-SELL-C   03-19 0045</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TEMPO &lt;TPO> TO SELL CABLE SYSTEMS TO EAGLE</TITLE>
+<DATELINE>    TULSA, Okla., March 19 - </DATELINE><BODY>Tempo Enterprises Inc said it
+signed a letter of intent to sell seven cable television
+systems, representing about 5,000 subscribers, to &lt;Eagle
+Cable>.
+    Terms of the acquisition were not disclosed.
+ Reuter
+&#3;</BODY></TEXT>

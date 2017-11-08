@@ -1,0 +1,31 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="5675" NEWID="132">
+<DATE>26-FEB-1987 17:07:18.66</DATE>
+<TOPICS><D>money-supply</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM A
+&#22;&#22;&#1;f0139&#31;reute
+b f BC-FEDERAL-RESERVE-WEEKL   02-26 0099</UNKNOWN>
+<TEXT TYPE="UNPROC">&#2;
+FEDERAL RESERVE WEEKLY REPORT 1 - FEB 26
+    Two weeks ended Feb 25      daily avgs-mlns
+ Net free reserves.............644 vs.....1,337
+ Bank borrowings...............680 vs.......425
+ Including seasonal loans.......81 vs........56
+ Including extended loans......299 vs.......265
+ Excess reserves.............1,025 vs.....1,497
+ Required reserves (adj)....55,250 vs....55,366
+ Required reserves..........55,513 vs....56,208
+ Total reserves.............56,538 vs....57,705
+ Non-borrowed reserves......55,859 vs....57,281
+ Monetary base.............244,199 vs...244,925
+                         
+ Reuter
+&#3;
+
+</TEXT>

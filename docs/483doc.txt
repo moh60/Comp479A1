@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12666" NEWID="483">
+<DATE> 2-MAR-1987 11:10:41.60</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0894&#31;reute
+r f BC-S-K-I-LTD-&lt;SKII>-2ND   03-02 0041</UNKNOWN>
+<TEXT>&#2;
+<TITLE>S-K-I LTD &lt;SKII> 2ND QTR JAN 25 NET</TITLE>
+<DATELINE>    KILLINGTON, Vt., March 2 -
+    </DATELINE><BODY>Shr 81 cts vs 57 cts
+    Net 3,660,273 vs 2,437,914
+    Rev 28.5 mln vs 23.1 mln
+    Six months
+    Shr 29 cts vs 12 cts
+    Net 1,325,755 vs 483,559
+    Rev 31.7 mln vs 26.4 mln
+ Reuter
+&#3;</BODY></TEXT>

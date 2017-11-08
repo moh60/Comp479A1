@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="1484" NEWID="12408">
+<DATE> 2-APR-1987 03:13:15.46</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0206&#31;reute
+f f BC-Reckitt-and-Colman-pl   04-02 0013</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE>Reckitt and Colman plc pretax profits 1986 yr 145.11 mln stg vs 123.39 mln
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

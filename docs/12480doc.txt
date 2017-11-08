@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="1556" NEWID="12480">
+<DATE> 2-APR-1987 08:01:28.08</DATE>
+<TOPICS><D>reserves</D></TOPICS>
+<PLACES><D>france</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0721&#31;reute
+b f BC-BANK-OF-FRANCE-FOREIG   04-02 0088</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BANK OF FRANCE FOREIGN ASSETS RISE LATEST WEEK</TITLE>
+<DATELINE>    PARIS, April 2 - </DATELINE><BODY>Weekly figures published by the Bank of
+France showed its gross foreign assets rose by about two
+billion francs last week, when it was reported by banks to have
+intervened on the foreign exchange markets to support the
+dollar against the yen.
+    The figures showed its gold, foreign currency and other
+external assets rose to 415.1 billion francs from 413 billion,
+mainly reflecting a rise to 116.7 billion from 114.7 billion in
+foreign exchange holdings.
+ REUTER
+&#3;</BODY></TEXT>

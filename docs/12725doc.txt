@@ -1,0 +1,31 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="NOT-USED" CGISPLIT="PUBLISHED-TESTSET" OLDID="21582" NEWID="12725">
+<DATE> 2-APR-1987 17:49:47.90</DATE>
+<TOPICS><D>copper</D></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E
+&#22;&#22;&#1;f2740&#31;reute
+d f BC-RESCUE-WORKERS-BRINGI   04-02 0133</UNKNOWN>
+<TEXT>&#2;
+<TITLE>RESCUE WORKERS BRINGING MINERS FROM UNDERGROUND</TITLE>
+<DATELINE>    MURDOCHVILLE, Quebec, April 2 - </DATELINE><BODY>Rescue workers are bringing
+out miners who have been trapped in a &lt;Noranda Inc>
+copper mine for almost 24 hours by fire which has so far killed
+one and sent 17 to hospital, company officials said.
+    "We're working to take the men out - everybody that's
+underground is safe, we're established contact with them and
+now it's really just finding out how to take them out," Andre
+Fortier, a vice president with Noranda Minerals, which owns the
+mine said.
+    Ange-Aime Kenny died after being trapped by smoke from the
+fire, company officials said. Fortier said he believed all the
+workers would be rescued by the end of the night. He said he
+did not believe any of the 17 men taken to hospital were
+seriously injured.
+ Reuter
+&#3;</BODY></TEXT>

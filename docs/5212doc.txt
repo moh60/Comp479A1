@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10125" NEWID="5212">
+<DATE>16-MAR-1987 04:29:51.62</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1269&#31;reute
+u f BC-CARLTON-BUYS-STAKE-IN   03-16 0085</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CARLTON BUYS STAKE IN CENTRAL INDEPENDENT TV</TITLE>
+<DATELINE>    LONDON, March 16 - </DATELINE><BODY>Carlton Communications Plc &lt;CCML.L> said
+in a statement it had purchased a 20 pct stake or some 5.1 mln
+shares in Central Independent Television from Ladbroke Group
+Plc &lt;LADB.L> at 578p per share.
+    The consideration of 29.5 mln stg will be met with 18.2 mln
+stg in cash and the issue of one million ordinary Carlton
+shares, it said.
+    Central showed pretax profits up by 57 pct to 18.8 mln stg
+for the year ended 30 September 1986.
+ REUTER
+&#3;</BODY></TEXT>

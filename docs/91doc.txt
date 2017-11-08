@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="5634" NEWID="91">
+<DATE>26-FEB-1987 16:29:56.33</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0015&#31;reute
+h f BC-CONSOLIDATED-GAS-&lt;CNG   02-26 0070</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CONSOLIDATED GAS &lt;CNG>UNIT SAYS NO RULES BROKEN</TITLE>
+<DATELINE>    CLARKSBURG, W.Va., Feb 26 - </DATELINE><BODY>Consolidated Natural Gas
+System's Consolidated Gas Transmission Corp said it is in
+compliance with all federal regulations regarding the disposal
+of polychlorinated biphenyls, or PCBs.
+    The company said it successfully cleaned up the only
+earthen pit at which PCBs were reported to be above
+Environmental Protection Agency standards.
+   
+ Reuter
+&#3;</BODY></TEXT>

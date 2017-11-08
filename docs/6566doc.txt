@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11479" NEWID="6566">
+<DATE>18-MAR-1987 11:39:53.69</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f8366&#31;reute
+d f BC-ON-LINE-SOFTWARE-&lt;OSI   03-18 0071</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ON-LINE SOFTWARE &lt;OSII> SETS CANADIAN VENTURE</TITLE>
+<DATELINE>    FORT LEE, N.J., March 18 - </DATELINE><BODY>On-Line Software International
+Inc said a Canadian venture equally owned with Nexa Corp,
+On-Line Software Canada Inc, began operating.
+    On-Line Software Canada will offer software products
+acquired from Martin Marietta Corp &lt;ML> last October and other
+On-Line products.
+    Nexa is a Canadian investment firm specializing in
+information technology.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="2527" NEWID="13544">
+<DATE> 7-APR-1987 07:27:29.75</DATE>
+<TOPICS><D>money-fx</D><D>dlr</D><D>yen</D></TOPICS>
+<PLACES><D>japan</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A
+&#22;&#22;&#1;f0451&#31;reute
+r f BC-JAPAN-CENTRAL-BANK-IN   04-07 0079</UNKNOWN>
+<TEXT>&#2;
+<TITLE>JAPAN CENTRAL BANK INTERVENES IN TOKYO AFTERNOON</TITLE>
+<DATELINE>    TOKYO, April 7 - </DATELINE><BODY>The Bank of Japan intervened in early
+afternoon Tokyo trading to support the dollar against active
+selling by institutional investors and speculative selling by
+overseas operators, dealers said.
+    The central bank had also bought dollars against the yen in
+morning trade.
+    The dollar traded around 145.20/30 yen when trading began
+in the afternoon here and weakened only slightly, the dealers
+said.
+ REUTER
+&#3;</BODY></TEXT>

@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19514" NEWID="3099">
+<DATE> 9-MAR-1987 10:33:52.15</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0294&#31;reute
+f f BC-Bank-of-England-says   03-09 0014</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE> Bank of England says issuing further one billion stg 8-3/4 pct bonds due 1997
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

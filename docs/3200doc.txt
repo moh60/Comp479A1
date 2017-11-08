@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19622" NEWID="3200">
+<DATE> 9-MAR-1987 12:19:34.58</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0839&#31;reute
+d f BC-TRUST-AMERICA-&lt;TRUS>   03-09 0050</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TRUST AMERICA &lt;TRUS> SETS CREDIT LINE</TITLE>
+<DATELINE>    ST. PETERSBURG, Fla., March 9 - </DATELINE><BODY>Trust America Service Corp
+said it signed an agreement with the First Union Bank of
+Florida for a 35 mln dlr mortgage warehouse credit line.
+    It said the new agreement more than doubles its previous 14
+mln dlrs line of credit.
+ Reuter
+&#3;</BODY></TEXT>

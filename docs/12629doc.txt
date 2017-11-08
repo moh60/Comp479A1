@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="NOT-USED" CGISPLIT="PUBLISHED-TESTSET" OLDID="21486" NEWID="12629">
+<DATE> 2-APR-1987 12:00:03.14</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1601&#31;reute
+u f BC-XYVISION   04-02 0072</UNKNOWN>
+<TEXT>&#2;
+<TITLE>COMPUTER FIRM SELLS 5.4 PCT XYVISION &lt;XYV> STAKE</TITLE>
+<DATELINE>    WASHINGTON, April 2 - </DATELINE><BODY>A group led by Leading Edge Hardware
+Products Inc, a Massachusetts computer firm, told the
+Securities and Exchange Commission it sold its entire 5.4 pct
+stake in Xyvision Inc.
+    The group, which includes Leading Edge and companies
+affiliated with it, said it sold the 324,200 Xyvision common
+shares between February 27 and April 1 for a total of 5.0 mln
+dlrs.
+ Reuter
+&#3;</BODY></TEXT>

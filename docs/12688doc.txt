@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="NOT-USED" CGISPLIT="PUBLISHED-TESTSET" OLDID="21545" NEWID="12688">
+<DATE> 2-APR-1987 14:45:54.12</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2183&#31;reute
+h f BC-3M-&lt;MMM>-COMPLETES-UN   04-02 0058</UNKNOWN>
+<TEXT>&#2;
+<TITLE>3M &lt;MMM> COMPLETES UNITEK ACQUISITION</TITLE>
+<DATELINE>    ST. PAUL, April 2 - </DATELINE><BODY>Minnesota Mining and Mfg Co said it
+completed the acquisition of Unitek Corp, a supplier of
+orthodontic products, from Bristol-Myers Co &lt;BMY>.  The
+purchase agreement was announced February 12.
+    It said Unitek, based in Monrovia, Calif., will operate as
+an independent subsidiary of 3M.
+ Reuter
+&#3;</BODY></TEXT>

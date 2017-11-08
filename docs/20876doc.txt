@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20561" NEWID="20876">
+<DATE>19-OCT-1987 18:54:03.56</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f3393&#31;reute
+d f BC-GABELLI-EQUITY-&lt;GAB>   10-19 0072</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GABELLI EQUITY &lt;GAB> TO BUY BACK SHARES</TITLE>
+<DATELINE>    GREENWICH, Conn, Oct 19 - </DATELINE><BODY>Gabelli Equity Trust Inc said it
+intends to repurchase up to one mln shares of its common in the
+open market or in privately negotiated transactions as its
+shares are trading at a discount of more than 10 pct from net
+asset value.
+    There are currently 44.0 mln shares outstanding.
+    Gabelli's board had previously granted authority for the
+stock repurchase.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="8201" NEWID="19873">
+<DATE>29-JUN-1987 15:47:19.99</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2372&#31;reute
+d f BC-FIRST-PENNSYLVANIA-&lt;F   06-29 0107</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FIRST PENNSYLVANIA &lt;FBA> TO LAUNCH NEW VISA CARD</TITLE>
+<DATELINE>    PHILADELPHIA, June 29 - </DATELINE><BODY>First Pennsylvania Bank N.A., the
+major subsidiary of First Pennsylvania Corp, said it will add a
+variable-rate &lt;VISA> card to its consumer credit product line.
+    The bank said the card carries a 14 pct annual interest
+rate that is guaranteed through Sept 30, after which time the
+interest rate will increase or decrease if there is a change in
+the prime rate as reflected in the Wall Street Journal.
+    There is no grace period for purchases made with card, but
+First Pennsylvania already offers a &lt;MasterCard> product with a
+25-day grace period, the bank added.
+ Reuter
+&#3;</BODY></TEXT>

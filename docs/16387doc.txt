@@ -1,0 +1,20 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="921" NEWID="16387">
+<DATE>13-APR-1987 11:50:46.76</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1524&#31;reute
+r f BC-SOFTWARE-SERVICES-&lt;SS   04-13 0033</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SOFTWARE SERVICES &lt;SSOA> EXTENDS WARRANTS</TITLE>
+<DATELINE>    LAWRENCE, Mass., April 13 - </DATELINE><BODY>Software Services of America
+Inc said its board has extended the expiration date of its
+warrants until August 31 from April 30.
+ Reuter
+&#3;</BODY></TEXT>

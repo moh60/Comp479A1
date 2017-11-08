@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20207" NEWID="21229">
+<DATE>19-OCT-1987 12:42:55.68</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2025&#31;reute
+d f BC-GRACO-&lt;GGG>-SEES-LOWE   10-19 0096</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GRACO &lt;GGG> SEES LOWER EARNINGS FOR YEAR</TITLE>
+<DATELINE>    MINNEAPOLIS, Oct 19 - </DATELINE><BODY>Graco Inc said it expects 1987
+earnings to be below last year's record level, despite higher
+sales.
+    The company last year earned 14.3 mln dlrs, or 2.38 dlrs a
+share, on sales of 225.1 mln dlrs.
+    It said its order backlog remains strong and it will
+complete delivery and installation of several large auto plant
+finishing systems during the fourth quarter.
+    Earlier, it reported third quarter earnings of 3.1 mln
+dlrs, or 54 cents a share compared with 4.4 mln dlrs, or 73
+cents a share a year earlier.
+ Reuter
+&#3;</BODY></TEXT>

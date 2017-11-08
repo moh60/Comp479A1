@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16038" NEWID="10517">
+<DATE>27-MAR-1987 12:01:51.09&#5;&#5;&#5;F</DATE>
+<UNKNOWN>&#22;&#22;&#1;f1476&#31;reute</UNKNOWN>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+u f BC-CONSUMERS-POWER-&lt;CMS>   03-27 0074</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CONSUMERS POWER &lt;CMS> TO RESTART NUCLEAR PLANT</TITLE>
+<DATELINE>    JACKSON, Mich., March 27 - </DATELINE><BODY>Consumers Power Co said it
+intends to restart the the Palisades Nuclear Plant within the
+next several days.
+    Consumers Power said it shut the plant down last May 19
+because of problems with a regulating steam valve.
+    The utility said the problem has been corrected and Region
+III of the Nuclear Regulatory Commission gave it the go-ahead
+to restart the plant.
+ Reuter
+&#3;</BODY></TEXT>

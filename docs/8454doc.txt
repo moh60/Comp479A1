@@ -1,0 +1,20 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13975" NEWID="8454">
+<DATE>23-MAR-1987 14:47:12.91</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2102&#31;reute
+r f BC-UNIFORCE-TEMPORARY-&lt;U   03-23 0033</UNKNOWN>
+<TEXT>&#2;
+<TITLE>UNIFORCE TEMPORARY &lt;UNFR> SETS SPLIT</TITLE>
+<DATELINE>    NEW HYDE PARK, N.Y., March 23 - </DATELINE><BODY>Uniforce Temporary
+Personnel Inc said it declared a three-for-two stock split,
+payable May 15 to stockholders of record April 14.
+ Reuter
+&#3;</BODY></TEXT>

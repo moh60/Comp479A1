@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12096" NEWID="7183">
+<DATE>19-MAR-1987 11:24:34.74</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1302&#31;reute
+r f BC-BLINDER-INTERNATIONAL   03-19 0057</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BLINDER INTERNATIONAL &lt;BINLC> LOANS 4 MLN DLRS</TITLE>
+<DATELINE>    ENGLEWOOD, Colo., March 19 - </DATELINE><BODY>Blinder International
+Enterprises Inc said it will loan four mln dlrs to Cattle Baron
+Inc, a subsidiary of Source Venture Capital &lt;SOR>.
+    The loan will be used to contruct the Cattle Baron casino
+and restaurant to be located in Henderson, Nev., the company
+said.
+ Reuter
+&#3;</BODY></TEXT>

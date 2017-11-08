@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1355" NEWID="16820">
+<DATE>17-APR-1987 09:25:10.44</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0214&#31;reute
+d f BC-MARTIN-PROCESSING-&lt;MP   04-17 0063</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MARTIN PROCESSING &lt;MPI> SEES YEAR SALES GROWTH</TITLE>
+<DATELINE>    MARTINSVILLE, Va., April 17 - </DATELINE><BODY>Martin PRocessing Inc said it
+expects significant sales growth for the rest of the year,
+particularly for its peak periods, the second and third
+quarters.
+    The company reported first quarter sales of 11.2 mln dlrs,
+up from 11.1 mln dlrs a year before.  For all of 1986 it had
+sales of 46.6 mln dlrs.
+ Reuter
+&#3;</BODY></TEXT>

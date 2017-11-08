@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7176" NEWID="19340">
+<DATE>19-JUN-1987 14:16:14.36</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1944&#31;reute
+r f BC-ROCKWELL-&lt;ROK>-BUYS-S   06-19 0067</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ROCKWELL &lt;ROK> BUYS SOFTECH &lt;SOFT.O> PRODUCTS</TITLE>
+<DATELINE>    WALTHAM, Mass, June 19 - </DATELINE><BODY>Rockwell International purchased
+SofTech Inc's newest line of Ada-86 tools to use in building a
+digital autopilot for the anti-tank missle, Hellfire, SofTech
+said.
+    SofTech said the contract, which was awarded to Rockwell's
+Duluth Ga. division, will involve more than 10 man years of
+programming for each digital autopilot.
+ Reuter
+&#3;</BODY></TEXT>

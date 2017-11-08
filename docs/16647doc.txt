@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1182" NEWID="16647">
+<DATE>13-APR-1987 15:53:55.16</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2459&#31;reute
+h f BC-INTERNATIONAL-TELECHA   04-13 0107</UNKNOWN>
+<TEXT>&#2;
+<TITLE>INTERNATIONAL TELECHARGE LAUNCHES SERVICE</TITLE>
+<DATELINE>    DALLAS, APril 13 - </DATELINE><BODY>International Telecharge Inc said it
+introduced a new international inbound long-distance service
+from Europe called "Quick Call USA."
+    The three-minute call will be available from seven European
+countries. The call, placed by dialing a local country access
+number, will be answered by an International Telecharge
+operator and sent to any phone in the U.S., it said.
+    The caller has the option of calling collect or billing to
+a major credit card at a flat rate of 10.65 dlrs, expect for
+calls from the U.K. which will be billed at a rate of 8.53
+dlrs, the company said.
+
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15703" NEWID="10182">
+<DATE>26-MAR-1987 16:36:28.89</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2618&#31;reute
+r f BC-BOSTON-EDISON-&lt;BSE>-E   03-26 0105</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BOSTON EDISON &lt;BSE> EXECUTIVES RETIRING</TITLE>
+<DATELINE>    BOSTON, March 26 - </DATELINE><BODY>Boston Edison Co chairman Stephen
+Sweeney said two of the company's senior officers will take
+early retirements, and the company is looking for a new
+president and chief financial officer.
+    Sweeney, who also holds the titles of president and chief
+executive officer, said James Lydon, executive vice president
+and chief operating officer, Joseph Tyrrell, executive vice
+president and chief financial officer, have asked to take early
+retirements following a transition period.
+    Lydon and Tyrrell have each been with the company more than
+35 years, Sweeney said.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12804" NEWID="621">
+<DATE> 2-MAR-1987 13:26:59.61</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0509&#31;reute
+w f BC-TECHNOLOGY-DEVELOPMEN   03-02 0065</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TECHNOLOGY DEVELOPMENT CORP &lt;TDCK> 4TH QTR NET</TITLE>
+<DATELINE>    ARLINGTON, Texas, March 2 - 
+    </DATELINE><BODY>Shr profit six cts vs profit eight cts
+    Net profit 102,000 vs profit 151,000
+    Revs 4,846,000 vs 5,041,000
+    Avg shrs 1,725,744 vs 1,806,323
+    12 mths
+    Shr loss 1.36 dlrs vs profit 56 cts
+    Net loss 2,318,00 vs profit 789,000
+    Revs 17.5 mln vs 20.9 mln
+    Avg shrs 1,710,655 vs 1,404,878
+ Reuter
+&#3;</BODY></TEXT>

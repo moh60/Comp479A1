@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="3714" NEWID="14731">
+<DATE> 7-APR-1987 17:48:05.00</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2600&#31;reute
+r f BC-LOGICON-INC-&lt;LGN>-GET   04-07 0078</UNKNOWN>
+<TEXT>&#2;
+<TITLE>LOGICON INC &lt;LGN> GETS CONTRACT ADD-ONS</TITLE>
+<DATELINE>    LOS ANGELES, April 7 - </DATELINE><BODY>Logicon Inc said it has received a
+12 mln dlr add-on contract, including options, to continue
+developing the Joint Analytic Warfare System for the
+Organization of the Joint Chiefs of Staff.
+    The new award increases the total contract value, including
+options, to over 13.8 mln dlrs, including two mln dlrs for the
+initial nine-month period and another ten mln dlrs in options
+over the next five years.
+ Reuter
+&#3;</BODY></TEXT>

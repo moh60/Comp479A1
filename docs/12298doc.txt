@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="526" NEWID="12298">
+<DATE> 1-APR-1987 16:16:32.15</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2412&#31;reute
+r f BC-CENTURY-BUSINESS-CRED   04-01 0073</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CENTURY BUSINESS CREDIT &lt;CTY> GETS OFFER</TITLE>
+<DATELINE>    NEW YORK, April 1 - </DATELINE><BODY>Century Business Credit Corp said it
+received an offer from Stanley Tananbaum, chairman and chief
+executive officer, to take the company private in a transaction
+giveing shareholders 24.40 dlrs per share in cash.
+    There were 603,106 shares outstanding as of December 31.
+    The independent directors said they will engage an expert
+to evaluate the fairness of the offer.
+ Reuter
+&#3;</BODY></TEXT>

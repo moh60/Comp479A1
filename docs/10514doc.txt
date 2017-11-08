@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16035" NEWID="10514">
+<DATE>27-MAR-1987 11:59:37.40&#5;&#5;&#5;F</DATE>
+<UNKNOWN>&#22;&#22;&#1;f1469&#31;reute</UNKNOWN>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+d f BC-OAKITE-&lt;OKT>-TO-SELL   03-27 0081</UNKNOWN>
+<TEXT>&#2;
+<TITLE>OAKITE &lt;OKT> TO SELL BEAUTY PRODUCTS LINE</TITLE>
+<DATELINE>    BERKELEY HEIGHTS, N.J., March 27 - </DATELINE><BODY>Oakite Products Inc said
+it intends to sell its personal care and beauty product
+business, Paula Payne Inc.
+    Oakite said it plans to retain Paula Payne's warehousing
+and production facilities in Charlotte, N.C., for use by its
+Mlaire Manufacturing subsidiary. Paula Payne was acquired from
+Riegel Textile in 1985 to expand Oakite's aerosol manufacturing
+and warehousing capabilities into the Southeast.
+ Reuter
+&#3;</BODY></TEXT>

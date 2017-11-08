@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10219" NEWID="5306">
+<DATE>16-MAR-1987 08:59:21.85</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1895&#31;reute
+r f BC-SUMMIT-ENERGY-&lt;SUM>-E   03-16 0059</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SUMMIT ENERGY &lt;SUM> EXTENDS EXCHANGE OFFER</TITLE>
+<DATELINE>    DALLAS, March 16 - </DATELINE><BODY>Summit Energy Inc said it has extended
+to April Three from March 13 its offer to exchange six common
+shares for each of its 569,200 outstanding shares of 1.80 dlr
+cumulative convertible preferred stock.
+    The company said through Friday it had received 302,669 of
+the shares or 53.2 pct.
+ Reuter
+&#3;</BODY></TEXT>

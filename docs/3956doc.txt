@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="8869" NEWID="3956">
+<DATE>11-MAR-1987 16:47:00.05</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0650&#31;reute
+r f BC-AQUA-CHEM-UNIT-SET-TO   03-11 0077</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AQUA CHEM UNIT SET TO BUILD SITE NEAR TULSA</TITLE>
+<DATELINE>    TULSA, OKLA., March 11 - </DATELINE><BODY>Cleaver Brooks, a subsidiary of
+&lt;Aqua Chem>, which is owned by the French firm Societe
+Lyonnaise DesEaux Et de L'Eclairage, said it plans to build a
+manufacturing plant near Tulsa.
+    The company said it entered into a 90-day option effective
+March 9 to purchase a 20.7 acre lot with a vacant 143,000
+square foot building located in Sapula, Okla.
+    No price was disclosed by the company.
+ Reuter
+&#3;</BODY></TEXT>

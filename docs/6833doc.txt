@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11746" NEWID="6833">
+<DATE>18-MAR-1987 16:38:44.39</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f9474&#31;reute
+u f BC-LITTON-&lt;LIT>-UNIT-GET   03-18 0074</UNKNOWN>
+<TEXT>&#2;
+<TITLE>LITTON &lt;LIT> UNIT GETS 164.2 MLN DLR CONTRACT</TITLE>
+<DATELINE>    WASHINGTON, March 18 - </DATELINE><BODY>Litton Industries' Applied
+Technology Division is being awarded a 164.2 mln dlr Navy
+contract for aircraft radar warning receivers for the U.S.
+Navy, Australia and Spain, the Defense Department said.
+    It said work on the contract, which combines purchases for
+the three countries under the Foreign Military Sales program,
+is expected to be completed in Febraury 1990.
+ Reuter
+&#3;</BODY></TEXT>

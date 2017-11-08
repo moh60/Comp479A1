@@ -1,0 +1,20 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="2856" NEWID="13873">
+<DATE> 7-APR-1987 10:19:21.49</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>nasdaq</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0966&#31;reute
+r f BC-NMR-CENTERS-&lt;NMRC>-ON   04-07 0036</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NMR CENTERS &lt;NMRC> ON NASDAQ NATIONAL SYSTEM</TITLE>
+<DATELINE>    NEWPORT BEACH, Claif., April 7 - </DATELINE><BODY>NMR Centers Inc said its
+common stock has started trading on the NASDAQ National Market
+System, making it eligible for margin financing.
+ Reuter
+&#3;</BODY></TEXT>

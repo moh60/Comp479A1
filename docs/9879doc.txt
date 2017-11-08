@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15400" NEWID="9879">
+<DATE>26-MAR-1987 09:56:55.19</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f1063&#31;reute
+b f BC-WALT-DISNEY-ISSUES-60   03-26 0079</UNKNOWN>
+<TEXT>&#2;
+<TITLE>WALT DISNEY ISSUES 60 MLN AUS DLR EUROBOND</TITLE>
+<DATELINE>    LONDON, March 26 - </DATELINE><BODY>Walt Disney Co Ltd is issuing a 60 mln
+Australian dlr eurobond due May 7, 1990 with a 14-1/2 pct
+coupon and priced at 101-3/8 pct, Warburg Securities said as
+lead manager.
+    The non-callable bonds will be issued in denominations of
+1,000 Australian dlrs and will be listed in Luxembourg.
+    Gross fees of 1-1/2 pct comprise one pct for selling and
+1/2 pct for management and underwriting combined.
+ REUTER
+&#3;</BODY></TEXT>

@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7008" NEWID="19172">
+<DATE>19-JUN-1987 10:30:02.96</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1002&#31;reute
+u f BC-TEXAS-INSTRUMENTS-INC   06-19 0045</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TEXAS INSTRUMENTS INC &lt;TXN> RAISES QUARTERLY</TITLE>
+<DATELINE>    DALLAS, June 19 -
+    </DATELINE><BODY>Qtly div 18 cts vs 16.6 cts prior
+    Pay July 20
+    Record June 30
+    NOTE: Prior payment adjusted for three-for-one stock split.
+ In April, company had announced its intention to raise the
+dividend.
+ Reuter
+&#3;</BODY></TEXT>

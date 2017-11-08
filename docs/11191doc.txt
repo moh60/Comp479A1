@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17252" NEWID="11191">
+<DATE>31-MAR-1987 03:40:07.54</DATE>
+<TOPICS><D>gnp</D></TOPICS>
+<PLACES><D>finland</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0227&#31;reute
+u f BC-FINNISH-ECONOMIC-GROW   03-31 0084</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FINNISH ECONOMIC GROWTH PUT AT THREE PCT IN 1987</TITLE>
+<DATELINE>    HELSINKI, March 31 - </DATELINE><BODY>Finland's gross national product is
+expected to rise by three pct in 1987 against two pct in 1986
+and inflation will be unchanged at about 3.5 pct, the private
+business survey office ETLA predicted.
+    Unemployment in 1987 is put at 5.5 pct, in line with last
+year, the office predicted in its regular review.
+    The balance of payments would show a five billion markka
+deficit in 1987, against a 4.2 billion deficit in 1986.
+ REUTER
+&#3;</BODY></TEXT>

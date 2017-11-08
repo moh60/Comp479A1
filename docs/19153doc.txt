@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6989" NEWID="19153">
+<DATE>19-JUN-1987 09:57:20.53</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f0893&#31;reute
+u f BC-SOUTHERN-NATIONAL-COR   06-19 0046</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SOUTHERN NATIONAL CORP &lt;SNAT.O> RAISING PAYOUT</TITLE>
+<DATELINE>    LUMBERTON, N.C., June 19 - </DATELINE><BODY>Southern National Corp said its
+board approved increasing the dividend rate to 78 cts a year
+from 76 cts, effective with the next quarterly dividend which
+will be declared in July, payable August One.
+ Reuter
+&#3;</BODY></TEXT>

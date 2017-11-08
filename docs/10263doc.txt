@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15784" NEWID="10263">
+<DATE>26-MAR-1987 20:17:58.35</DATE>
+<TOPICS><D>money-fx</D><D>dlr</D></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f2927&#31;reute
+f f BC-Bank-of-Japan-buys-do   03-26 0011</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE>Bank of Japan buys dollars around 149.00 yen - Tokyo dealers
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

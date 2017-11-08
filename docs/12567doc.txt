@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="1643" NEWID="12567">
+<DATE> 2-APR-1987 10:21:24.92</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A RM
+&#22;&#22;&#1;f1158&#31;reute
+r f BC-S/P-RATES-NOMURA-INTE   04-02 0099</UNKNOWN>
+<TEXT>&#2;
+<TITLE>S/P RATES NOMURA INTERNATIONAL PLC BONDS AAA</TITLE>
+<DATELINE>    NEW YORK, April 2 - </DATELINE><BODY>Standard and Poor's Corp said it
+assigned a preliminary AAA rating to 150 mln dlrs of 7-1/4 pct
+guaranteed subordinated bonds due 1992 of Nomura International
+Finance PLC, the U.K. unit of Nomura Securities Co Ltd.
+    S and P cited the guarantee, which is a senior obligation
+of the parent company, the largest of the Big Four securities
+houses in Japan.
+    The rating agency noted that Nomura Securities has by far
+the largest capital base in nominal terms of any securities
+firm in the world and is conservatively leveraged.
+ Reuter
+&#3;</BODY></TEXT>

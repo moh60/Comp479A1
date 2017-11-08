@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11409" NEWID="6498">
+<DATE>18-MAR-1987 10:26:57.37</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f8029&#31;reute
+r f BC-SYNTHETECH-&lt;NZYM>-END   03-18 0065</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SYNTHETECH &lt;NZYM> ENDS SOUTHWEST PHOTO TALKS</TITLE>
+<DATELINE>    BOULDER, COLO., March 18 - </DATELINE><BODY>Synthetech Inc said it
+discontinued negotiations on acquiring Southwest Photo chem Inc
+of Pomona, Calif.
+    The company cited "irreconcilable differences" in the
+financial structure of the deal.
+    It said Southwest Photo proposed a significant change in
+terms outlined in the letter of intent signed last month.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="NOT-USED" CGISPLIT="PUBLISHED-TESTSET" OLDID="21939" NEWID="17317">
+<DATE>27-APR-1987 09:34:23.40</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1031&#31;reute
+d f BC-HUNTINGDON-&lt;HRCLY.O>   04-27 0062</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HUNTINGDON &lt;HRCLY.O> IN ACQUISITION TALKS</TITLE>
+<DATELINE>    NEW YORK, April 27 - </DATELINE><BODY>Huntingdon International Holdings plc
+said it has entered into discussions with a view to acquiring
+Northern Engineering and Testing Inc, a company based mainly in
+the northwestern United States.
+    The company said Northern Engineering had sales of
+approximately 6.5 mln dlrs in the year ended March 31.
+ Reuter
+&#3;</BODY></TEXT>

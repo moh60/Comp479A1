@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4861" NEWID="15684">
+<DATE> 9-APR-1987 11:56:36.64</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>france</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1481&#31;reute
+w f BC-DASSAULT-OFFERS-NEW-P   04-09 0097</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DASSAULT OFFERS NEW PLANE TO DEFENCE MINISTRY</TITLE>
+<DATELINE>    PARIS, April 9 - </DATELINE><BODY>Avions Marcel Dassault-Breguet Aviation
+&lt;AVMD.PA> has offered the French Defence Ministry a new design
+of its Rafale fighter which is lighter and less detectible by
+radar, a company spokesman said today.
+    The new version would weigh between 8.5 and nine tonnes
+unarmed against 9.5 tonnes for the existing Rafale-A
+demonstrator which first flew last year, he said.
+    The Rafale-D design calls for special paints and materials
+to absorb radar signals, as well as smoother contours and
+electronic counter-measures.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,30 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20531" NEWID="20906">
+<DATE>19-OCT-1987 17:17:21.41</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F 
+&#22;&#22;&#1;f3234&#31;reute
+r f BC-AMCA-International   10-19 0103</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AMCA INTERNATIONAL &lt;AIL> SEES 4TH QTR PROFIT</TITLE>
+<DATELINE>    TORONTO, Oct 19 - </DATELINE><BODY>AMCA International said it expects to
+earn a profit in the fourth quarter which will exceed the third
+quarter result.
+    The company earned 4.9 mln dlrs in the third quarter
+against a year earlier loss of 56.2 mln. However, after the
+payment of preferred dividends it lost two cents per share from
+a loss of 1.79 dlrs per share last year.
+    In the 1986 fourth quarter, the company had an operating
+loss of 4.9 mln dlrs, or 98 cents per share. It said its
+positive outlook was based on expected debt bill reduction and
+an improved backlog of orders.
+    The company also said its board approved a decision to sell
+its Manitoba Rolling Mills. It did not elaborate.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12866" NEWID="683">
+<DATE> 2-MAR-1987 14:19:13.03</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>amex</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0689&#31;reute
+u f BC-INTEGRATED-GENERICS-&lt;   03-02 0073</UNKNOWN>
+<TEXT>&#2;
+<TITLE>INTEGRATED GENERICS &lt;IGN> WILL NOT COMMENT</TITLE>
+<DATELINE>    BELLPORT, N.Y., March 2 - </DATELINE><BODY>Integrated Generics Inc said it
+is in the midst of several developments which could be
+favorable for the company but can make no further comments at
+the present time.
+    The company said it released this brief statement in
+response to the American Stock Exchange's inquiry on the
+activity of the company's common stock, which was up 5/8 to
+five in midafternoon trading.
+ Reuter
+&#3;</BODY></TEXT>

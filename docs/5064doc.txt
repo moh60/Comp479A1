@@ -1,0 +1,20 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9977" NEWID="5064">
+<DATE>13-MAR-1987 16:27:23.99</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0437&#31;reute
+r f '--GE-&lt;GE>-GETS-474.5-ML   03-13 0034</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GE &lt;GE> GETS 474.5 MLN DLR CONTRACT</TITLE>
+<DATELINE>    WASHINGTON, March 13 - </DATELINE><BODY>General Electric Co has received a
+474.5 mln dlr contract for 172 F-110-GE-100 fighter jet engines
+and 32 other jet engines, the Air Force said.
+ REUTER
+&#3;</BODY></TEXT>

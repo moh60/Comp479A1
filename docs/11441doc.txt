@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17503" NEWID="11441">
+<DATE>31-MAR-1987 11:58:40.73</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1647&#31;reute
+d f BC-HANSON-TRUST-&lt;HAN>-SE   03-31 0069</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HANSON TRUST &lt;HAN> SELLS UNIT</TITLE>
+<DATELINE>    WHITE PLAINS, N.Y., March 31 - </DATELINE><BODY>Reichhold Chemicals Inc said
+it is part of a group that has purchased PCR Inc from Hanson
+Trust PLC's SCM Corp subsidiary.
+    It said other group members include Jacksonville, Fla.,
+businessman Jack C. Demetree and managers of PCR.
+    Reichhold said it made a "modest" cash investment.  PCR
+makes high-performance materials for a variety of industries.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10987" NEWID="6074">
+<DATE>17-MAR-1987 12:09:54.18</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>nyse</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f5622&#31;reute
+d f BC-NYSE-OPTION-TRADING-R   03-17 0048</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NYSE OPTION TRADING RIGHTS SEAT SALE</TITLE>
+<DATELINE>    NEW YORK, March 17 - </DATELINE><BODY>THe New York STock Exchange said an
+option trading rights seat sold for 40,000 dlrs, off 5,000 dlrs
+from the previous sale on January 29.
+    The Exchange said the current bid is 35,000 dlrs, the last
+offer is for 45,000 dlrs.
+ Reuter
+&#3;</BODY></TEXT>

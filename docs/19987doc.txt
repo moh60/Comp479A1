@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20582" NEWID="19987">
+<DATE>19-OCT-1987 20:59:16.05</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE><D>miyazawa</D></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM AI 
+&#22;&#22;&#1;f3542&#31;reute
+f f BC-Miyazawa-says-there-a   10-19 0011</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE>Miyazawa says there are no plans at all for G-5 or G-7 talks
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

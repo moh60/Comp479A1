@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="BYPASS" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="3225" NEWID="14242">
+<DATE> 7-APR-1987 12:07:42.00</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;GQ
+&#22;&#22;&#1;f1463&#31;reute
+u f BC-cbt-corn-spreads   04-07 0058</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CBT CORN SPREADS</TITLE>
+<DATELINE> APRIL 7  - </DATELINE><BODY>1100 hrs cdt
+ MONTHS   LAST         DIFFERENCE
+ Jul/May  3-3/4   over 3-1/2   over
+ Dec/Jul  13-1/2  over 13-1/2  over
+ Jul/Sep  4-3/4  under 5      under
+ Sep/May  no quote     8-3/4   over
+ Sep/Dec  no quote     8-1/4  under
+ Dec/Mar8 no quote     no quote    
+ May/Dec  17     under 17     under
+ Reuter
+&#3;</BODY></TEXT>

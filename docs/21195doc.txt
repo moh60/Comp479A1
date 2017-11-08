@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20241" NEWID="21195">
+<DATE>19-OCT-1987 13:17:08.17</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2208&#31;reute
+r f BC-CHAMBERS-DEVELOPMENT   10-19 0055</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CHAMBERS DEVELOPMENT CO INC &lt;CDV> 3RD QTR NET</TITLE>
+<DATELINE>    PITTSBURGH, Oct 19 -
+    </DATELINE><BODY>Shr 23 cts vs 15 cts
+    Net 2,641,000 vs 1,295,000
+    Revs 15.6 mln vs 7,925,000
+    Avg shrs 11.6 mln vs 8,900,000
+    Nine mths
+    Shr 65 cts vs 37 cts
+    Net 6,805,000 vs 3,308,000
+    Revs 42.7 mln vs 20.6 mln
+    Avg shrs 10.5 mln vs 8,900,000
+   
+ Reuter
+&#3;</BODY></TEXT>

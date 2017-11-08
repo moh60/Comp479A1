@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5526" NEWID="15628">
+<DATE> 9-APR-1987 11:14:08.90</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1289&#31;reute
+r f BC-K-MART-&lt;KM>-OPENS-BAN   04-09 0062</UNKNOWN>
+<TEXT>&#2;
+<TITLE>K MART &lt;KM> OPENS BANK BRANCHES IN STORES</TITLE>
+<DATELINE>    TAMPA, Fla., April 9 - </DATELINE><BODY>K Mart Corp said it was opening
+branch offices of &lt;First Nationwide Bank> in 21 of its stores
+in Florida.
+    The company said this brings to 57 the number of bank
+branch, which are part of the Nationwide Network, an alliance
+of 40 independent locally managed financial institutions,
+locations in Florida.
+ Reuter
+&#3;</BODY></TEXT>

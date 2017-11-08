@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9569" NEWID="4656">
+<DATE>13-MAR-1987 04:34:43.42</DATE>
+<TOPICS><D>interest</D></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0207&#31;reute
+f f BC-London---Floating-rat   03-13 0012</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE> London - Floating rate note prices open sharply lower, dealers say
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

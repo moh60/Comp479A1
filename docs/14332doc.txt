@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="BYPASS" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="3315" NEWID="14332">
+<DATE> 7-APR-1987 12:31:01.03</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;M
+&#22;&#22;&#1;f1586&#31;reute
+u f BC-LME-LEAD-CLOSES-FIRME   04-07 0092</UNKNOWN>
+<TEXT>&#2;
+<TITLE>LME LEAD CLOSES FIRMER</TITLE>
+<DATELINE>    LONDON, April 7 - </DATELINE><BODY>LME lead prices tended firmer as the
+market edged towards the higher end of its current narrow
+trading range, aided by a burst of cash metal pricing purchases
+in the official morning rings, delers said.
+    Three months delivery ended the afternoon ring at 301.50
+stg, up 2.50 stg a tonne from yesterday afternoon's kerb close,
+and the dollar equivalent ended around 484 dlrs a tonne.
+    The cash metal buying widened the backwardation to around
+seven at one stage from three stg a tonne yesterday.
+ REUTER
+&#3;</BODY></TEXT>

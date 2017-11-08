@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="21392" NEWID="20797">
+<DATE>20-OCT-1987 18:09:42.62</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f3504&#31;reute
+r f BC-SUAVE-SHOE   10-20 0098</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GROUP LIFTS STAKE IN SUAVE SHOE&lt;SWV> TO 11.5 PCT</TITLE>
+<DATELINE>    WASHINGTON, Oct 20 - </DATELINE><BODY>A shareholder group including
+Entregrowth Interational Ltd, of Auckland, New Zealand, said it
+lifted its stake in Suave Shoe Corp common stock to 319,600
+shares, or 11.5 pct of the total outstanding, from a previous
+figure of approximately 238,400 shares, or 8.6 pct.
+    In a filing with the Securities and Exchange Commission,
+the group said it bought 81,200 Suave Shoe common shares in
+open market transactions between October 1 and 19 at 8.34 dlrs
+to 10.07 dlrs a share.
+    No reason was given for the purchases.
+ Reuter
+&#3;</BODY></TEXT>

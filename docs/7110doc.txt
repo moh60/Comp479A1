@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12023" NEWID="7110">
+<DATE>19-MAR-1987 10:20:06.52</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1004&#31;reute
+r f BC-CYCLOPS-&lt;CYL>BOARD-RE   03-19 0101</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CYCLOPS &lt;CYL>BOARD RESTRUCTURED TO INCLUDE DIXON</TITLE>
+<DATELINE>    PITTSBURGH, Pa., March 19 - </DATELINE><BODY>Cyclops Corp said its board has
+been restructured under the terms of the company's merger
+agreement with &lt;Dixons Group plc> following the British
+company's acquisition of 54 pct of Cyclops' stock.
+    The company said its board is now composed of three Cyclops
+executives -- Chairman W.H. Knoell, President James F. Will and
+Senior Vice President WIlliam D. Dickey -- and three Dixons
+executives -- Vice-Chairman and Financial Director Egon von
+Greyerz, Corporate Finance Director Gerald M.N. Corbett, and
+Secretary Jeoffrey Budd.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6678" NEWID="18927">
+<DATE>18-JUN-1987 14:45:53.70</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f4290&#31;reute
+r f BC-NORTH-HILLS-&lt;NOHL.O>   06-18 0074</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NORTH HILLS &lt;NOHL.O> CLOSES LOAN</TITLE>
+<DATELINE>    GLEN COVE, N.Y., June 18 - </DATELINE><BODY>North Hills Electronics Inc said
+its North Hills Israel Ltd unit closed on a 1,500,000 dlr
+loan from Overseas Private Investment Corporation, an agency of
+the U.S. government.
+    North Hills said the unit will use the loan in connection
+with the construction and equipping of a 16,000-square-foot
+manufacturing facility in Israel to produce components for
+electrical control systems.
+ Reuter
+&#3;</BODY></TEXT>

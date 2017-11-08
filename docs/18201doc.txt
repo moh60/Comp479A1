@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7646" NEWID="18201">
+<DATE> 2-JUN-1987 14:23:03.56</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F Y
+&#22;&#22;&#1;f2202&#31;reute
+r f BC-AMOCO-&lt;AN>-CANADA-SAY   06-02 0099</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AMOCO &lt;AN> CANADA SAYS SHARE AMOUNT UNDECIDED</TITLE>
+<DATELINE>    CALGARY, Alberta, June 2 - </DATELINE><BODY>Amoco Corp's wholly owned Amoco
+Canada Petroleum Co Ltd said it had yet to work out details
+regarding the amount and timing of its previously reported
+share offering in Canada and would be doing so in talks with
+Investment Canada in coming weeks.
+    An earlier reported published report based on an interview
+with Amoco Canada president T. Don Stacy said Amoco's stock
+offering would total more than one billion Canadian dlrs if the
+company succeeded in its 5.22 billion Canadian dlr bid for Dome
+Petroleum Ltd &lt;DMP>.
+   
+ Reuter
+&#3;</BODY></TEXT>

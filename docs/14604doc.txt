@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="3587" NEWID="14604">
+<DATE> 7-APR-1987 16:20:08.05</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2373&#31;reute
+d f BC-CAREPLUS-&lt;CPLS>-SEEKS   04-07 0092</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CAREPLUS &lt;CPLS> SEEKS APPROVAL IN ACQUISITION</TITLE>
+<DATELINE>    MIAMI, April 7 - </DATELINE><BODY>CarePlus Inc said it will seek shareholder
+approval of its proposed acquisition of certain assets and
+assumption of certain liabilities of Professional Care Inc
+&lt;PCI>.
+    In connection with the acquisition, shareholders will be
+requested to approval the merger of CarePlus into its newly
+formed Delaware subsidiary, CarePlus said.
+    CarePlus said its board has tentatively determined that its
+stock would be exchanged for common stock of the new
+corporation at the rate of seven for one.
+ Reuter
+&#3;</BODY></TEXT>

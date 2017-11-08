@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13348" NEWID="7827">
+<DATE>20-MAR-1987 12:48:47.05</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F A
+&#22;&#22;&#1;f1717&#31;reute
+d f BC-HARLEY-DAVIDSON-&lt;HDI>   03-20 0093</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HARLEY-DAVIDSON &lt;HDI> UNIT FILES NOTE OFFERING</TITLE>
+<DATELINE>    WAKARUSA, IND., March 20 - </DATELINE><BODY>Harley-Davidson Inc said its
+wholly owned subsidiary, Holiday Rambler Corp, filed a
+registration statement covering 70 mln dlrs of subordinated
+notes due 1997.
+    Holiday-Rambler, which manufactures recreational vehicles,
+was acquired by Harley-Davidson in December 1986.
+    Proceeds of the offering will be used to repay 60 mln dlrs
+of debt, with the balance to reduce any outstanding borrowings
+under the company's revolving credit loan agreement and for
+working capital purposes.
+ Reuter
+&#3;</BODY></TEXT>

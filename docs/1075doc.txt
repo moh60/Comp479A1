@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16395" NEWID="1075">
+<DATE> 3-MAR-1987 10:59:14.04</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0661&#31;reute
+r f BC-&lt;FRUIT-OF-THE-LOOM-IN   03-03 0062</UNKNOWN>
+<TEXT>&#2;
+<TITLE>&lt;FRUIT OF THE LOOM INC> INITIAL OFFERING STARTS</TITLE>
+<DATELINE>    CHICAGO, March 3 - </DATELINE><BODY>Fruit of the Loom Inc said an initial
+public offering of 27 mln Class A common shares is underway at
+nine dlrs per share through underwriters led by &lt;Drexel Burnham
+Lambert Inc>, Merrill Lynch and Co Inc &lt;MER>, E.F. Hutton Group
+Inc &lt;EFH> and Sears, Roebuck and Co Inc's &lt;S> Dean Witter
+Reynolds Inc unit.
+ Reuter
+&#3;</BODY></TEXT>

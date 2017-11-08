@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17620" NEWID="11559">
+<DATE>31-MAR-1987 14:27:43.72</DATE>
+<TOPICS><D>crude</D></TOPICS>
+<PLACES><D>usa</D><D>venezuela</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F Y
+&#22;&#22;&#1;f2173&#31;reute
+u f BC-UNION-PACIFIC-&lt;UNP>CL   03-31 0111</UNKNOWN>
+<TEXT>&#2;
+<TITLE>UNION PACIFIC &lt;UNP>CLOSES VENEZUELAN PARTNERSHIP</TITLE>
+<DATELINE>    NEW YORK, March 31 - </DATELINE><BODY>Union Pacific Corp said it has closed
+the previously announced 50-50 partnership with Petroleos de
+Venezuela SA, Venezuela's national oil company, to own a
+160,000 barrel per day refinery in Corpus Christi, Texas.
+    Union Pacific said the partnership, called Champlin
+Refining Co, will acquire the refining and distribution system
+owned and operated by Union Pacific's Champlin Petroleum Co
+subsidiary. The Venezuelan company also signed a 25-year
+feedstock agreement with the partnership to supply at least
+140,000 barrels a day of Venezuelan crude oil and naphtha at
+market related prices.
+ Reuter
+&#3;</BODY></TEXT>

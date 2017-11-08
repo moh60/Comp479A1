@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="8694" NEWID="3781">
+<DATE>11-MAR-1987 12:51:39.33</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0936&#31;reute
+r f BC-CHRYSLER-&lt;C>-TO-USE-T   03-11 0104</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CHRYSLER &lt;C> TO USE TELECREDIT &lt;TCRD> PRODUCT</TITLE>
+<DATELINE>    DETROIT, March 11 - </DATELINE><BODY>Chrysler Corp said it will use a
+product designed by Telecredit Inc's Light Signatures Inc unit
+to prevent counterfeit automotive parts.
+    Light Signatures will provide coded warranty labels for
+Chrysler's replacement parts. The system will first be used for
+glass and then expanded to other products.
+    Parts replaced by independent repair shops, and containing
+the coded warranty label, will be tested by Chrysler dealers to
+ensure authenticity.
+    The company also said the system will tracks each piece of
+warranty glass distributed by Chrysler.
+
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,30 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15412" NEWID="9891">
+<DATE>26-MAR-1987 10:21:06.59</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;M
+&#22;&#22;&#1;f1167&#31;reute
+d f BC-FOOTE-MINERAL-TO-MERG   03-26 0113</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FOOTE MINERAL TO MERGE INTO RIO TINTO</TITLE>
+<DATELINE>    EXTON, Pa., March 26 - </DATELINE><BODY>Foote Mineral Co said it signed a
+letter of intent to merge into Rio Tinto-Zinc Corp PLC for
+cash.
+    Foote, 83 pct owned by Newmont Mining Corp, said Newmont
+has informally indicated it would vote in favor of the Rio
+Tinto proposal.
+    Foote said terms of the agreement, including price for the
+proposed cash transaction, have not been released because they
+are subject to a continuing due diligence investigation.
+    The company said a definitive merger agreement is expected
+to be negotiated within six weeks and shareholders are expected
+to vote on the deal at a meeting expected to be held in June or
+July.
+ Reuter
+&#3;</BODY></TEXT>

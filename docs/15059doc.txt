@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4042" NEWID="15059">
+<DATE> 8-APR-1987 11:16:54.96</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1365&#31;reute
+r f BC-AVX-CORP-&lt;AVX>-FILES   04-08 0061</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AVX CORP &lt;AVX> FILES FOR DEBENTURE OFFERING</TITLE>
+<DATELINE>    GREAT NECK, N.Y., April 8 - </DATELINE><BODY>AVX Corp said it has filed a
+registration statement with the Securities and Exchange
+Commission for a proposed public offering of 75 mln dlrs
+prinicipal amount of convertible subordinated debentures.
+    AVX said a syndicate managed by Shearson Lehman Brothers
+Inc will underwrite the offering.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4320" NEWID="15337">
+<DATE> 8-APR-1987 17:08:22.58</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E
+&#22;&#22;&#1;f2619&#31;reute
+u f BC-UAP-MAKES-ACQUISITION   04-08 0056</UNKNOWN>
+<TEXT>&#2;
+<TITLE>UAP MAKES ACQUISITIONS</TITLE>
+<DATELINE>    MONTREAL, April 8 - </DATELINE><BODY>&lt;UAP Inc> said it has acquired Slater
+Auto Electric Ltd, with two Ontario stores, and United Diesel
+Engine Parts Ltd, of Dartmouth, Nova Scotia, for undisclosed
+terms. It said the transactions, together with acquisitions
+earlier this year, will increase its annual sales by about 4.5
+mln dlrs.
+ Reuter
+&#3;</BODY></TEXT>

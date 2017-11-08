@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5509" NEWID="15611">
+<DATE> 9-APR-1987 11:00:17.88</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1211&#31;reute
+d f BC-WEEKLY-CAR-PRODUCTION   04-09 0100</UNKNOWN>
+<TEXT>&#2;
+<TITLE>WEEKLY CAR PRODUCTION ESTIMATED LOWER</TITLE>
+<DATELINE>    DETROIT, April 9 - </DATELINE><BODY>With seven car assembly plants down this
+week, including six at General Motors Corp &lt;GM>, U.S. carmakers
+are expected to built an estimated 160,111 cars for the week
+ending April 11, down from 177,687 a year ago, said the trade
+publication Ward's Automotive Reports.
+    Year to date, it estimated domestic car output at
+2,334,528, down from 2,442,221 in the same 1986 period.
+    It projected the weeks truck output at 80,168, up from
+72,026 a year earlier. Cumulative truck sales were pegged at
+1,096,732, up from 1,011,029 a year ago.
+   
+ Reuter
+&#3;</BODY></TEXT>

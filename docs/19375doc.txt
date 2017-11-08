@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7211" NEWID="19375">
+<DATE>19-JUN-1987 15:01:58.11</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2091&#31;reute
+d f BC-SAVOY-INDUSTRIES-INC   06-19 0055</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SAVOY INDUSTRIES INC &lt;SAVO.O> 1ST QTR LOSS</TITLE>
+<DATELINE>    NEW YORK, Juen 19 -
+    </DATELINE><BODY>Oper shr loss 32 cts vs loss 17 cts
+    Oper net loss 2,999,000 vs loss 1,692,000
+    Sales 10.3 mln vs 11.5 mln
+    Avg shrs 9,517,000 vs 9,905,000
+    NOTE: 1986 Operating loss excludes profit of 3,688,000
+dlrs, or 37 cts a share, from discontinued operations
+ Reuter
+&#3;</BODY></TEXT>

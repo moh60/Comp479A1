@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11538" NEWID="6625">
+<DATE>18-MAR-1987 12:43:51.60</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>sweden</D><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f8686&#31;reute
+r f BC-ERICSSON-WINS-ARKANSA   03-18 0065</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ERICSSON WINS ARKANSAS STATE CONTRACT</TITLE>
+<DATELINE>    STOCKHOLM, March 18 - </DATELINE><BODY>Sweden's Telefon AB L.M. Ericsson
+&lt;ERIC ST> said one of its units had won a contract worth 8.7
+mln dlrs from the U.S. State of Arkansas to provide a
+communications network for three state buildings.
+    The voice/data communications system will connect 8,000
+users via the Ericsson MD 110 subscriber exchange, the company
+said.
+ Reuter
+&#3;</BODY></TEXT>

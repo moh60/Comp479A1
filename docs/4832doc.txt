@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9745" NEWID="4832">
+<DATE>13-MAR-1987 10:22:35.58</DATE>
+<TOPICS><D>ship</D></TOPICS>
+<PLACES><D>brazil</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G T M
+&#22;&#22;&#1;f0055&#31;reute
+u f BC-CORRECTION---SAO-PAUL   03-13 0051</UNKNOWN>
+<TEXT TYPE="UNPROC">&#2;
+CORRECTION - TWO BRAZIL SHIPPING FIRMS SETTLE
+    In today's Sao Paulo story headlined "TWO BRAZILIAN SHIPPING
+FIRMS SETTLE WITH STRIKERS" please read in second para ... Offer
+from the companies, Global and Flumar ... instead of ... Offer
+from the companies, Globo and Flumar ... corrects name of first
+company.
+ Reuter
+&#3;
+
+</TEXT>

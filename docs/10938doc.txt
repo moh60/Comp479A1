@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16999" NEWID="10938">
+<DATE>30-MAR-1987 13:17:12.11</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1977&#31;reute
+r f BC-MCDONNELL-&lt;MD>-UNIT-S   03-30 0109</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MCDONNELL &lt;MD> UNIT SIGNS PACT WITH MARTIN &lt;ML></TITLE>
+<DATELINE>    BETHESDA, Md., March 30 - </DATELINE><BODY>Martin Marietta Corp said it
+signed an exclusive agreement with McDonnell Douglas Corp's
+Tymnet Co for Tymnet to provide data communications services as
+a member of its team bidding on the federal government's FTS
+2000 telecommunications system.
+    Tymnet is a unit of McDonnell's Information Systems Group.
+    The government's FTS 2000 system will replace the current
+one operated for federal agencies by the General Services
+Administration. The GSA issued a request for proposals in
+January, with responses due in June and selection of a
+contractor scheduled by year end.
+ Reuter
+&#3;</BODY></TEXT>

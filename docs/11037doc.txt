@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17098" NEWID="11037">
+<DATE>30-MAR-1987 15:22:33.92</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2385&#31;reute
+d f AM-COURT-CARS   03-30 0099</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HIGH COURT DECLINES TO REVIEW AIR BAG RULE</TITLE>
+<DATELINE>    WASHINGTON, March 30 - </DATELINE><BODY>The Supreme Court declined to review
+a federal regulation requiring automobile manufacturers to
+phase in automatic seat belts or air bags for new cars sold in
+the United States.
+    The Department of Transportation (DOT) rule required that
+the safety devices be installed, for the first time, on 10 pct
+of this year's model cars. All new cars must have the devices
+by the 1990-model year.
+    The regulation, however, can be rescinded if states with
+two-thirds of the U.S. population adopt mandatory seat belt-use
+laws by 1989.
+ Reuter
+&#3;</BODY></TEXT>

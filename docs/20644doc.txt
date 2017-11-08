@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="21239" NEWID="20644">
+<DATE>20-OCT-1987 15:34:47.03</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2983&#31;reute
+d f BC-BEST-&lt;BES>-TO-BUY-BAC   10-20 0043</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BEST &lt;BES> TO BUY BACK TWO MLN SHARES</TITLE>
+<DATELINE>    RICHMOND, Va., Oct 20 - </DATELINE><BODY>Best Products Co Inc said 
+planned to repurchase up to two mln shares of its common for
+employee benefit plans and general corporate purposes.
+    Best has about 27.1 mln shares outstanding.
+ Reuter
+&#3;</BODY></TEXT>

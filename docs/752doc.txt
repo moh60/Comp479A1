@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12936" NEWID="752">
+<DATE> 2-MAR-1987 16:05:07.05</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0982&#31;reute
+u f BC-UNITED-MERCHANTS-&lt;UMM   03-02 0091</UNKNOWN>
+<TEXT>&#2;
+<TITLE>UNITED MERCHANTS &lt;UMM> TO BUY ITS OWN STOCK</TITLE>
+<DATELINE>    NEW YORK, March 2 - </DATELINE><BODY>United Merchants and Manufactuerers Inc
+said its board has authorized the repurchase of up to one mln
+shares of the company's common stock.
+    The company now has about 9.1 mln shares outstanding.
+    It said the stock will be acquired from time to time on the
+open market, depending on market conditions and other factors.
+The number of shares purchased and the timing of the purchases
+are also subject to restrictions under certain of the company's
+debt instruments, it added.
+ Reuter
+&#3;</BODY></TEXT>

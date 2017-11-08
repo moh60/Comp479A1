@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11999" NEWID="7086">
+<DATE>19-MAR-1987 09:30:53.90</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>france</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>pse</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0842&#31;reute
+d f BC-PARIS-TO-ADD-THREE-ST   03-19 0082</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PARIS TO ADD THREE STOCKS TO CONTINUOUS QUOTATION</TITLE>
+<DATELINE>    PARIS, March 19 - </DATELINE><BODY>The Paris Bourse will add a further three
+stocks to its computerised continuous trading system from March
+24, bringing the total number of continuously traded stocks to
+54, the Stockbrokers' Association said.
+    The shares are &lt;Bazar de l'Hotel de Ville> (BHV), &lt;Dollfus
+Mieg et Cie> (DMC) and &lt;Maisons Phenix>.
+    The Bourse has said it hopes to have at least 100 companies
+quoted continuously by the end of this year.
+ Reuter
+&#3;</BODY></TEXT>

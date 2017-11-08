@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17058" NEWID="10997">
+<DATE>30-MAR-1987 14:17:46.88</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2183&#31;reute
+d f BC-MAYFAIR-&lt;MAYF>-IN-HER   03-30 0042</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MAYFAIR &lt;MAYF> IN HERSHEY &lt;HSY> LICENSE DEAL</TITLE>
+<DATELINE>    NEW YORK, March 30 - </DATELINE><BODY>Mayfair Industries Inc said it has
+entered into a licensing agreement under which it will use
+logos of Hershey Foods Inc candy products on a variety of
+garments, effective immediately.
+ Reuter
+&#3;</BODY></TEXT>

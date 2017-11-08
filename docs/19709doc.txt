@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="8037" NEWID="19709">
+<DATE>29-JUN-1987 12:07:41.26</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1599&#31;reute
+w f BC-DSC-COMMUNICATIONS&lt;DI   06-29 0055</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DSC COMMUNICATIONS&lt;DIGI.O> IN SUPPLY AGREEMENT</TITLE>
+<DATELINE>    DALLAS, June 29 - </DATELINE><BODY>DSC Communications Corp said it signed a
+supply agreement with United Telephone System Inc to deliver
+DSC Signal Transfer Points valued at about 3.0 mln dlrs.
+    It said the agreement runs through 1990 with product
+deliveries expected to start later this year.
+ Reuter
+&#3;</BODY></TEXT>

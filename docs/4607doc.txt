@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9520" NEWID="4607">
+<DATE>12-MAR-1987 19:00:25.08</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0857&#31;reute
+r f BC-UNITED-MEDICAL-&lt;UM>-T   03-12 0086</UNKNOWN>
+<TEXT>&#2;
+<TITLE>UNITED MEDICAL &lt;UM> TO AMEND COVENANTS</TITLE>
+<DATELINE>    HADDONFIELD, N.J., March 12 - </DATELINE><BODY>United Medical Corp said it
+it has requested a meeting of holders of its Swiss Francs 30
+mln 5-1/8 pct convertible subordinated notes due 1991.
+    The meeting has been requested in order to amend the
+negative pledge and financial covenants which have proved to be
+too restrictive in light of the company's activities, it said.
+    United also said it plans to acquire some of these notes to
+reduce its exposure to foreign exchange fluctuations.
+ Reuter
+&#3;</BODY></TEXT>

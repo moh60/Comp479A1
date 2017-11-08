@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18930" NEWID="2512">
+<DATE> 5-MAR-1987 17:43:27.92</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0021&#31;reute
+r f BC-MCDONNELL-DOUGLAS-&lt;MD   03-05 0101</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MCDONNELL DOUGLAS &lt;MD> NOT APPROACHED BY PESCH</TITLE>
+<DATELINE>    CHICAGO, March 5 - </DATELINE><BODY>McDonnell Douglas Corp, which has a five
+mln dlr investment in Republic Health Corp &lt;REPH>, said it has
+not been approached to sell its shares in Republic Health.
+    Earlier, Alpha Health Systems Corp, a unit of Pesch and Co,
+said it submitted a merger proposal to the board of REPH
+Acquisition Co, the parent of Republic Health. LeRoy A. Pesch
+is the principal stockholder of Pesch.
+    "We have not been approached by Mr. Pesch or anybody else
+with respect to our holdings" in Republic Health, a McDonnell
+Douglas spokesman told Reuters.
+ Reuter
+&#3;</BODY></TEXT>

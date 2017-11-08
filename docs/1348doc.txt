@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16668" NEWID="1348">
+<DATE> 3-MAR-1987 16:53:31.66</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G L M T
+&#22;&#22;&#1;f0968&#31;reute
+r f BC-U.S.-TREASURY-OFFICIA   03-03 0098</UNKNOWN>
+<TEXT>&#2;
+<TITLE>U.S. TREASURY OFFICIAL SEES LATIN DEBT PROGRESS</TITLE>
+<DATELINE>    WASHINGTON, March 3 - </DATELINE><BODY>Assistant U.S. Treasury Secretary
+David Mulford said rapid progress was being made in talks with
+commercial banks for loans to Argentina, the Philippines and
+Brazil.
+    "This should result in substantial new lending for the
+major debtors in 1987," he said in prepared testimony for the
+Subcommittee on International Development Institutions of the
+U.S. House of Representatives.
+    Until recently, commercial banks were slow to conclude new
+financing packages pending completion of a Mexican package,
+Mulford said.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9414" NEWID="4501">
+<DATE>12-MAR-1987 16:05:27.65</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0410&#31;reute
+r f BC-TEXACO-&lt;TX>,-HONEYWEL   03-12 0099</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TEXACO &lt;TX>, HONEYWELL &lt;HON> IN JOINT VENTURE</TITLE>
+<DATELINE>    PHOENIX, Ariz., March 12 - </DATELINE><BODY>Texaco Inc and Honeywell Inc
+said they formed a joint venture to provide advanced industrial
+plant control systems and services.
+    The companies did not say how much money they will invest
+in the Phoenix-based venture, which has been named Icotron Co.
+    Louis Garbrecht Jr, general manager of Texaco's engineering
+and safety department, was named chairman of the venture, the
+companies said. John Hoag, a Honeywell executive, will oversee
+the day-to-day operations of the venture as president, the
+partners said.
+   
+ Reuter
+&#3;</BODY></TEXT>

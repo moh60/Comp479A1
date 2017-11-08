@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9177" NEWID="4264">
+<DATE>12-MAR-1987 10:58:25.02</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A RM
+&#22;&#22;&#1;f0290&#31;reute
+r f BC-SHOWBOAT-&lt;SBO>-UNIT-S   03-12 0069</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SHOWBOAT &lt;SBO> UNIT SELLS MORTGAGE-BACKED BONDS</TITLE>
+<DATELINE>    NEW YORK, March 12 - </DATELINE><BODY>Ocean Showboat Finance Corp, a unit of
+Showboat Inc, is raising 180 mln dlrs through an offering of
+mortgage-backed bonds due 2002 with an 11-3/8 pct coupon and
+par pricing, said sole manager Donaldson, Lufkin and Jenrette
+Securities Corp.
+    Moody's Investors Service Inc rates the bonds B-1 and
+Standard and Poor's Corp rates them B-plus.
+ Reuter
+&#3;</BODY></TEXT>

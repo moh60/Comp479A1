@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="302" NEWID="12074">
+<DATE> 1-APR-1987 12:15:26.41</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;A RM
+&#22;&#22;&#1;f1611&#31;reute
+r f BC-BROWN-GROUP-&lt;BG>-DEBT   04-01 0110</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BROWN GROUP &lt;BG> DEBT DOWNGRADED BY S/P</TITLE>
+<DATELINE>    NEW YORK, April 1 - </DATELINE><BODY>Standard and Poor's Corp said it
+lowered 128 mln dlrs of Brown Group Inc's senior debt to
+A-minus from A and commercial paper to A-2 from A-1.
+    The agency said a decline in sales and profits were little
+offset from the company's retail business. Also, foreign
+producers eroded Brown's assets by gaining market share.
+    Brown's debt ratio increased to 49.8 pct by year-end 1986
+as higher inventories, and a four-year stock repurchase program
+has required additional financing, S and P said.
+    Restructuring efforts should improve productivity but not
+in the forseeable future, the agency added.
+ Reuter
+&#3;</BODY></TEXT>

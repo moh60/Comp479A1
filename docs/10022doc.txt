@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15542" NEWID="10022">
+<DATE>26-MAR-1987 12:38:22.02</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1840&#31;reute
+r f BC-CIRCLE-K-&lt;CKP>-OFFICI   03-26 0071</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CIRCLE K &lt;CKP> OFFICIAL INCREASES HOLDINGS</TITLE>
+<DATELINE>    PHOENIX, Ariz., March 26 - </DATELINE><BODY>Circle K Corp said its chairman,
+Karl Eller, will buy 750,000 shares of Circle K common stock
+from the company's founder and Vice Chairman, Fred Hervey, in a
+private transaction.
+    After the sale, Hervey will directly or beneficially own
+6,764,004 shares, or 13.61 pct of Circle K stock and Eller will
+hold 2,873,300 shares, of 5.78 pct of the stock.
+ Reuter
+&#3;</BODY></TEXT>

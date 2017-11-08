@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="323" NEWID="12095">
+<DATE> 1-APR-1987 12:43:09.50</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1706&#31;reute
+w f BC-DIAMOND-STAR-MOTORS-N   04-01 0080</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DIAMOND-STAR MOTORS NAMES ADDITIONAL SUPPLIERS</TITLE>
+<DATELINE>    BLOOMINGTON, ILL., April 1 - </DATELINE><BODY>Diamond-Star Motors Corp, the
+joint-venture company owned by Chrysler Corp &lt;C> and Mitsubishi
+Motors, named additional production suppliers for the new
+vehicle to be produced at the company's plant under
+construction in Bloomington, Ill.
+    It said Amtex Inc, Sidney, Ohio, was selected to supply
+trunk floor carpets and Bluewater Plastics Inc, Marysville,
+Mich., duct assemblies and column covers.
+ Reuter
+&#3;</BODY></TEXT>

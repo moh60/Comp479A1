@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14859" NEWID="9338">
+<DATE>25-MAR-1987 10:40:57.98</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1159&#31;reute
+r f BC-TRAVELERS-&lt;TIC>-UNIT   03-25 0083</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TRAVELERS &lt;TIC> UNIT TO BUY REALTY DIVISIONS</TITLE>
+<DATELINE>    CHERRY HILL, March 25 - </DATELINE><BODY>The Travelers Corp's Travelers
+Mortgage Services said it signed a letter of intent to buy two
+subsidiaries of the privately-held &lt;Equitable Life Assurance
+Society of the U.S.>
+    The company said it plans to acquire the Equitable
+Relocation Management Corp and the Equitable Realty Network
+Inc.
+    The company said the acquisitions will give it broader
+distribution of its corporate relocation service and mortgage
+programs.
+ Reuter
+&#3;</BODY></TEXT>

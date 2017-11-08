@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11521" NEWID="6608">
+<DATE>18-MAR-1987 12:28:43.73</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f8601&#31;reute
+r f BC-WELLCOME-FALLS-ON-BRI   03-18 0118</UNKNOWN>
+<TEXT>&#2;
+<TITLE>WELLCOME FALLS ON BRISTOL-MYERS AIDS DRUG REPORT</TITLE>
+<DATELINE>    LONDON, March 18 - </DATELINE><BODY>Shares of Wellcome Plc &lt;WELL.L> fell
+sharply following a report that Bristol-Myers Co &lt;BMY> would
+seek U.S. Food and Drug Administration permission to test its
+aids vaccine in humans by the end of March, dealers said.
+    Wellcome shares slumped to a quoted low of 453p on the
+report after yesterday's 496p close but later rose to 464p.
+    Earlier this month a Wellcome spokesman said the company
+was applying for licences in the U.S. And several major
+countries for its "Retrovir" drug which can be used for the
+treatment of Aids. The U.K. Department of Health and Social
+Security has already issued a marketing licence for "Retrovir."
+ Reuter
+&#3;</BODY></TEXT>

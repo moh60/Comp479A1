@@ -1,0 +1,35 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13138" NEWID="7617">
+<DATE>20-MAR-1987 08:25:22.38</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0641&#31;reute
+r f BC-WYERHAEUSER-&lt;WY>-FILE   03-20 0083</UNKNOWN>
+<TEXT>&#2;
+<TITLE>WYERHAEUSER &lt;WY> FILES TO OFFER PREFERENCE STOCK</TITLE>
+<DATELINE>    TACOMA, Wash., March 20 - </DATELINE><BODY>Weyerhaeuser Co said it has filed
+for an offering of four mln shares of convertible exchangeable
+preference shares through underwriter Morgan Stanley Group Inc
+&lt;MS>.
+    The company said the preference shares will be convertible
+at any time into common shares, and on any dividend payment
+date starting June 15, 1990, the company may exchange all the
+preference shares for convertible subordinated debentures due
+2017. 
+    The company said the preference shares will not be
+redeemable before June 15, 1989 unless the closing price equals
+or exceeds 150 pct of the then-effective conversion price per
+share for at least 20 trading days within a 30 consecutive
+trading day period that ends within five trading days before
+issuance of a notice of redemption.
+    Weyerhaeuser said proceeds will be used to reduce
+outstanding commercial paper, although initially they may be
+invested in marketable securities.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20578" NEWID="20859">
+<DATE>19-OCT-1987 20:30:39.56</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>tse</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM AI 
+&#22;&#22;&#1;f3519&#31;reute
+f f BC-Tokyo-stock-index-fal   10-19 0013</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE>Tokyo stock index falls 201.12 to 25,545.44 after open, most stocks untraded
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18790" NEWID="2373">
+<DATE> 5-MAR-1987 14:50:45.95</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A RM
+&#22;&#22;&#1;f0467&#31;reute
+r f BC-BANKERS-TRUST-&lt;BT>-SE   03-05 0086</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BANKERS TRUST &lt;BT> SELLS EQUITY CONTRACT NOTES</TITLE>
+<DATELINE>    NEW YORK, March 5 - </DATELINE><BODY>Bankers Trust Co is raising 200 mln
+dlrs through an offering of subordinated equity contract notes
+due 1997 with an eight pct coupon and par pricing, said lead
+manager Shearson Lehman Brothers Inc.
+    That is 87 basis points more than the yield of comparable
+Treasury securities.
+    Non-callable to maturity, the issue is rated Aa-3 by
+Moody's Investors Service Inc and AA by Standard and Poor's
+Corp. Salomon Brothers Inc co-managed the deal.
+ Reuter
+&#3;</BODY></TEXT>

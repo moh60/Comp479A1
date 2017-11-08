@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6562" NEWID="18810">
+<DATE>18-JUN-1987 12:48:44.24</DATE>
+<TOPICS><D>crude</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;Y 
+&#22;&#22;&#1;f3894&#31;reute
+u f BC-DIAMOND-SHAMROCK-&lt;DRM   06-18 0056</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DIAMOND SHAMROCK &lt;DRM> RAISES CRUDE POSTINGS</TITLE>
+<DATELINE>    NEW YORK, June 18 - </DATELINE><BODY>Diamond Shamrock R and M said it raised
+its crude oil contract prices by 50 cts a barrel, effective
+June 17.
+    The company said its new posting for West Texas
+Intermediate crude is 19 dlrs a barrel. The price increase
+follows similar moves by several other companies.
+ Reuter
+&#3;</BODY></TEXT>

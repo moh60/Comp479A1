@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14357" NEWID="8836">
+<DATE>24-MAR-1987 11:58:34.97</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1511&#31;reute
+u f BC-CALNY-&lt;CLNY>-REJECTS   03-24 0080</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CALNY &lt;CLNY> REJECTS PEPSICO ACQUISITION OFFER</TITLE>
+<DATELINE>    SAN MATEO, Calif, March 24 - </DATELINE><BODY>Calny Inc said its board
+rejected as inadequate the unsolicited offer by PepsiCo Inc
+&lt;PEP> subsidiary Taco Bell Corp for all Calny's outstanding
+common stock at 11.50 dlrs cash per share.
+    Taco Bell recently acquired 9.9 pct of Calny's outstanding
+stock, Calny said.
+    Calny said it retained Oppenheimer and Co Inc to consider
+various financial and strategic alternatives available to the
+company.
+ Reuter
+&#3;</BODY></TEXT>

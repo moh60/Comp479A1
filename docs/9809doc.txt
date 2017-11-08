@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15330" NEWID="9809">
+<DATE>26-MAR-1987 08:29:39.33</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0768&#31;reute
+d f BC-MICKELBERRY-&lt;MBC>-COM   03-26 0057</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MICKELBERRY &lt;MBC> COMPLETES SALE OF UNIT</TITLE>
+<DATELINE>    NEW YORK, March 26 - </DATELINE><BODY>Mickelberry Corp said it has completed
+the previously-announced sale of the 51 pct of its C and W
+Group subsidiary that it had retained to N W Ayer Inc for
+undisclosed terms.
+    Ayer bought the other 49 pct next year.
+    Mickelberry said it will report a gain on the transaction.
+ Reuter
+&#3;</BODY></TEXT>

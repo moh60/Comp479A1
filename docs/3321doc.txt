@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19743" NEWID="3321">
+<DATE> 9-MAR-1987 15:18:05.78</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F A RM
+&#22;&#22;&#1;f0491&#31;reute
+b f BC-/FORD-&lt;F>-DEBT-RATING   03-09 0108</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FORD &lt;F> DEBT RATINGS MAY BE RAISED BY MOODY'S</TITLE>
+<DATELINE>    NEW YORK, March 9 - </DATELINE><BODY>Moody's Investors Service Inc said it
+is reviewing the long-term debt ratings of Ford Motor Co and
+Ford Motor Credit Co for possible upgrade. About 23 billion
+dlrs of debt is affected.
+    Moody's said it recognizes Ford's recent superior operating
+results and is assessing whether this performance can be
+expected to continue. The rating agency will focus on Ford's
+long-term competitive business and financial condition.
+    Ratings under review include Ford Motor's A-1 rated senior
+long-term debt, the Credit unit's A-1 rated senior debt and its
+A-2 rated subordinated debt.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4043" NEWID="15060">
+<DATE> 8-APR-1987 11:17:19.96</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1367&#31;reute
+u f BC-SCI-MED-&lt;SMLS>-BOARD   04-08 0100</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SCI-MED &lt;SMLS> BOARD AGREES TO BRISTOL&lt;BMY>DEAL</TITLE>
+<DATELINE>    MINNEAPOLIS, MINN., April 8 - </DATELINE><BODY>Sci-Med Life Systems Inc said
+its directors approved a previously proposed agreement of
+merger with Bristol-Myers Co.
+    The proposed transaction is subject to completion of a due
+diligence investigation, including a review by Bristol-Myers of
+a patent infringement suit served on Sci-Med by Advanced
+Cardiovascular Systems Inc on March 31, 1987.
+    Bristol-Myers has the right to call off the agreement under
+certain circumstances, it said.
+    Sci-Med said it continues to believe the patent suit is
+without merit.
+ Reuter
+&#3;</BODY></TEXT>

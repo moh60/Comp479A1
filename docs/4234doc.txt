@@ -1,0 +1,20 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9147" NEWID="4234">
+<DATE>12-MAR-1987 10:19:13.32</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0138&#31;reute
+d f BC-PERFECTDATA-&lt;PERF>-IN   03-12 0030</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PERFECTDATA &lt;PERF> IN JOINT LICENSING PACT</TITLE>
+<DATELINE>    CHATSWORTH, Calif., March 12 -  </DATELINE><BODY>PerfectData Corp said it
+agreed to license certain disk cleaning related patents to the
+&lt;Texwipe Co>.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1417" NEWID="16882">
+<DATE>17-APR-1987 13:09:44.38</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0360&#31;reute
+d f BC-EL-POLLO-ASADO-&lt;EPAI.   04-17 0074</UNKNOWN>
+<TEXT>&#2;
+<TITLE>EL POLLO ASADO &lt;EPAI.O> NAMES PRESIDENT</TITLE>
+<DATELINE>    PHOENIX, April 17 - </DATELINE><BODY>El Pollo Asado Inc said executive vice
+president and chief operating officer Richard J. Peterson has
+been named president, succeeding Richard B. Lipson, who remains
+chairman and chief executive.
+    The company also said chief financial officer Ronald A.
+Paradis has been named to the added posts of executive vice
+president and director.  On the board he replaces Maria A.
+Lipson.
+ Reuter
+&#3;</BODY></TEXT>

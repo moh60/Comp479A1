@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13123" NEWID="7602">
+<DATE>20-MAR-1987 07:37:54.60</DATE>
+<TOPICS><D>alum</D></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C M
+&#22;&#22;&#1;f0509&#31;reute
+b f BC-CORRECTION---NON-COMM   03-20 0047</UNKNOWN>
+<TEXT TYPE="UNPROC">&#2;
+CORRECTION - NON-COMMUNIST FEBRUARY ALUMINIUM
+    In today's London item +NON-COMMUNIST FEBRUARY ALUMINIUM
+OUTPUT UP, IPAI+ please read in first paragraph and throughout
++...Daily average primary aluminium production...+, correcting
+from +average unwrought aluminium production+.
+ REUTER
+&#3;
+
+</TEXT>

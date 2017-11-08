@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12671" NEWID="488">
+<DATE> 2-MAR-1987 11:19:44.98</DATE>
+<TOPICS><D>gold</D><D>silver</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0934&#31;reute
+r f BC-AMAX-&lt;AMX>-IN-GOLD,-S   03-02 0100</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AMAX &lt;AMX> IN GOLD, SILVER FIND</TITLE>
+<DATELINE>    GREENWICH, March 2 - </DATELINE><BODY>AMAX Incx said it has identified
+additional gold and silver ore reserves at its AMAX Sleeper
+Mine near Winnemucca, Nev..
+    It said as a result of recent drilling, reserves at thhe
+mine are now estimated at 2,470,000 short tons of ore grading
+0.24 ounce of gold and 0.50 ounce of silver per ton that is
+treatable by conventional milling techniques.
+    AMAX said additional reserves amenable to heap leaching are
+estimated at 38.3 mln tons averaging 0.025 ounce gold and 0.24
+ounce silver per ton.  Further drilling is being conducted, it
+said.
+ Reuter
+&#3;</BODY></TEXT>

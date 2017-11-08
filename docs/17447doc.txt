@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5785" NEWID="17447">
+<DATE> 1-JUN-1987 01:19:37.19</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0064&#31;reute
+u f BC-KOREA-ELECTRIC-POWER   06-01 0067</UNKNOWN>
+<TEXT>&#2;
+<TITLE>KOREA ELECTRIC POWER PLANS FIRST EUROYEN BOND</TITLE>
+<DATELINE>    SEOUL, June 1 - </DATELINE><BODY>Korea Electric Power Corp plans to issue
+its first euroyen bond, a 7.5 billion yen issue with six-year
+maturity carrying a coupon of less than five pct, company
+officials said.
+    They said the bond would be launched in London later this
+month with Daiwa Securities Co Ltd as lead manager.
+    The officials gave no further details.
+ REUTER
+&#3;</BODY></TEXT>

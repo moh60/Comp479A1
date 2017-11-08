@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17338" NEWID="11276">
+<DATE>31-MAR-1987 09:00:58.53</DATE>
+<TOPICS><D>jobs</D></TOPICS>
+<PLACES><D>norway</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0872&#31;reute
+r f BC-NORWEGIAN-UNEMPLOYMEN   03-31 0040</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NORWEGIAN UNEMPLOYMENT FALLS IN MARCH</TITLE>
+<DATELINE>    OSLO, March 31 - </DATELINE><BODY>Unemployment fell in March to 36,510, or
+1.7 pct of the workforce, compared with 39,700 (1.9 pct) in
+February and 38,839 (2.2 pct) in March 1986, the Labour
+Directorate said.
+ REUTER
+&#3;</BODY></TEXT>

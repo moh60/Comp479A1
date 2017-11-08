@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1297" NEWID="16762">
+<DATE>17-APR-1987 03:27:42.19</DATE>
+<TOPICS><D>crude</D></TOPICS>
+<PLACES><D>japan</D><D>saudi-arabia</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0050&#31;reute
+u f BC-SAUDI-ARABIA-WANTS-TO   04-17 0096</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SAUDI ARABIA WANTS TO INCREASE OIL SALES TO JAPAN</TITLE>
+<DATELINE>    TOKYO, April 17 - </DATELINE><BODY>Saudi Arabia hopes to increase the volume
+of its oil exports to Japan through expanding bilateral trade,
+Saudi Arabian Interior Minister Naif bin Abdul-Aziz said.
+    He told a Tokyo reception his country hopes to raise crude
+and products exports to Japan to earlier levels, but did not
+elaborate. To promote trade, Saudi Arabia is inviting Japanese
+industries to do business there, he said.
+    Japanese firms now have long-term contracts to import a
+total of 150,000 barrels per day of Saudi crude.
+ REUTER
+&#3;</BODY></TEXT>

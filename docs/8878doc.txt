@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14399" NEWID="8878">
+<DATE>24-MAR-1987 12:44:17.32</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f1754&#31;reute
+f f BC-Nigeria,-Britain-agre   03-24 0013</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE> Nigeria, Britain agree rescheduling of official debt - government sources
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

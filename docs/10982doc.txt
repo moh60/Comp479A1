@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17043" NEWID="10982">
+<DATE>30-MAR-1987 14:07:36.52</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>canada</D><D>belgium</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F
+&#22;&#22;&#1;f2153&#31;reute
+r f BC-sabena-begins-brussel   03-30 0053</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SABENA BEGINS BRUSSELS-TORONTO SERVICE</TITLE>
+<DATELINE>    Toronto, March 30 - </DATELINE><BODY>Sabena Belgian World Airlines said it
+began today three-times-weekly service between Brussels and
+Toronto.
+    Sabena said it will fly combined passenger-freight flights
+non-stop into Toronto on Mondays and Thursdays. Sunday flights
+will stop in Montreal.
+ Reuter
+&#3;</BODY></TEXT>

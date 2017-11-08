@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12111" NEWID="7198">
+<DATE>19-MAR-1987 11:37:44.75</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1380&#31;reute
+r f BC-TELE-ART-&lt;TLARF>-EXTE   03-19 0038</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TELE-ART &lt;TLARF> EXTENDS WARRANTS</TITLE>
+<DATELINE>    DENVER, March 19 - </DATELINE><BODY>Tele-Art Inc said its class A warrants
+which were due to expire March 19 have been extended to April
+18.
+    Tele-Art designs and manufactures digital watches and
+clocks.
+ Reuter
+&#3;</BODY></TEXT>

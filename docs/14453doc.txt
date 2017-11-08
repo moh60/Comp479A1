@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="BYPASS" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="3436" NEWID="14453">
+<DATE> 7-APR-1987 15:16:09.05</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;GQ
+&#22;&#22;&#1;f2191&#31;reute
+r f BC-mpls-deliv-oats-stks   04-07 0075</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MINNEAPOLIS DELIVERABLE OAT STOCKS</TITLE>
+<DATELINE>   MINNEAPOLIS, April 7  - </DATELINE><BODY>CFTC reported, as of april 3 , oats
+stocks in Mpls deliverable against Chgo futures/000's bu-
+                         CURRENT  WEEK   YEAR
+                         WEEK     AGO    AGO
+ DEL GRADES               871     1296   2046
+ NON-DEL GRADES/UNGRADED 2167     1737    444
+ CCC STOCKS               297      297    228
+ TOTAL OATS STOCKS       3335     3330   2718
+
+
+ Reuter
+&#3;</BODY></TEXT>

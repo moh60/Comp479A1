@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17045" NEWID="10984">
+<DATE>30-MAR-1987 14:07:48.64</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2155&#31;reute
+r f BC-&lt;TEXSCAN-CORP>-IN-AGR   03-30 0053</UNKNOWN>
+<TEXT>&#2;
+<TITLE>&lt;TEXSCAN CORP> IN AGREEMENT WITH LENDERS</TITLE>
+<DATELINE>    PHOENIX, March 30 - </DATELINE><BODY>Texscan Corp said it has reached
+agreement in principle with bank lenders United Bancorp of
+Arizona &lt;UBAZ> and Security Pacific Corp &lt;SPC> on a plan of
+reorganization from Chapter 11 bankruptcy.
+    It said a plan is expected to be filed within 10 days.
+ Reuter
+&#3;</BODY></TEXT>

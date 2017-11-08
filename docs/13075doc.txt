@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="2044" NEWID="13075">
+<DATE> 3-APR-1987 14:28:33.20</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1970&#31;reute
+d f BC-M/A-COM-&lt;MAI>-WINS-FO   04-03 0047</UNKNOWN>
+<TEXT>&#2;
+<TITLE>M/A-COM &lt;MAI> WINS FORD &lt;F> CONTRACT</TITLE>
+<DATELINE>    BURLINGTON, Mass., April 3 - </DATELINE><BODY>M/A-Com Inc said it won a
+major contract from Ford Motor Co to provide a corporate
+switching network.
+    The value of the contract, awarded to M/A-Com's
+telecommunications unit in Germantown, Md., was not disclosed.
+ Reuter
+&#3;</BODY></TEXT>

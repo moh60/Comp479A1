@@ -1,0 +1,31 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7693" NEWID="18248">
+<DATE> 2-JUN-1987 15:29:46.46</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2457&#31;reute
+d f BC-NORTH-AMERICAN-VENTUR   06-02 0088</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NORTH AMERICAN VENTURES &lt;NAVI.O> SELLS COMMON</TITLE>
+<DATELINE>    EAST HARTFORT, Conn., June 2 - </DATELINE><BODY>North American Ventures Inc
+said it has sold about nine mln dlrs of the company's
+restricted common shares to the newly created &lt;Butler
+International Inc> Employee Stock Option Plan.
+    North American said the nine mln dlrs payment resulted from
+an excess of funds in Butler's pension plan.
+    The transaction was for about 1.5 mln North American common
+shares approximating 5.1 pct of the company's outstanding
+shares, North American said.
+   
+    North American said proceeds from the stock sale would
+increase the company's stockholders' equity to about 85 mln
+dlrs and will be used to pay down aquisition financing used in
+the Butler purchase which was completed in January.
+ Reuter
+&#3;</BODY></TEXT>

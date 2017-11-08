@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="BYPASS" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="2788" NEWID="13805">
+<DATE> 7-APR-1987 09:59:30.14</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C L
+&#22;&#22;&#1;f0869&#31;reute
+u f BC-IA-SO-MINN-DIRECT-HOG   04-07 0040</UNKNOWN>
+<TEXT>&#2;
+<TITLE>IA SO-MINN DIRECT HOGS SEEN UP 1.00 DLR-PRIVATE</TITLE>
+<DATELINE>    Sioux City, April 7 - Clear/sunny - </DATELINE><BODY>Iowa direct hog prices
+are expected 1.00 dlr higher, private sources said. Country
+sales seen at 49.00 to 50.00 and Plants at 50.00 to 51.00 dlrs
+per cwt.
+ Reuter
+&#3;</BODY></TEXT>

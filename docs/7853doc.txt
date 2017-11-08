@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13374" NEWID="7853">
+<DATE>20-MAR-1987 13:20:53.68</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1847&#31;reute
+d f BC-UNIFORCE-&lt;UNFR>-TO-FI   03-20 0076</UNKNOWN>
+<TEXT>&#2;
+<TITLE>UNIFORCE &lt;UNFR> TO FILE REGISTRATION</TITLE>
+<DATELINE>    NEW HYDE PARK, N.Y., March 20 - </DATELINE><BODY>Uniforce Temporary
+Personnel Inc said it will file in April a registration
+statement with the Securities and Exchange Commission for an
+offering of 128,250 shares of common stock issuable upon
+exercise of common stock purchase warrants.
+    The offering is being made at the request of a holder of
+the warrants which were issued in 1984 at the time of
+Uniforce's initial public offering.
+ Reuter
+&#3;</BODY></TEXT>

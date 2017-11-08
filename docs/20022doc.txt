@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20617" NEWID="20022">
+<DATE>20-OCT-1987 03:36:58.94</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>japan</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f0181&#31;reute
+u f BC-NISSAN-STARTS-TO-MARK   10-20 0101</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NISSAN STARTS TO MARKET REMODELLED 4WD VEHICLES</TITLE>
+<DATELINE>    TOKYO, Oct 20 - </DATELINE><BODY>Nissan Motor Co Ltd &lt;NSAN.T> said it has
+started to market a remodelled version of its four wheel drive
+(4WD) Safari vehicle in Japan.
+    Nissan said in a statement it hopes to sell 250 vehicles a
+month in Japan.
+    It also plans soon to start exporting 3,400 vehicles a
+month to the Australian, Middle East and Asian markets under
+the name Patrol, a spokesman said.
+    It will sell the vehicle in Europe sometime in the future,
+with shipments from &lt;Motor Iberica S.A.>, its Spanish unit. The
+volume for Europe will be set later.
+ REUTER
+&#3;</BODY></TEXT>

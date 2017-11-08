@@ -1,0 +1,43 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="8254" NEWID="19926">
+<DATE>29-JUN-1987 17:02:26.09</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2589&#31;reute
+u f BC-CONTEL-&lt;CTC>-SEES-LOW   06-29 0048</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CONTEL &lt;CTC> SEES LOWER 2ND QTR, YEAR NET</TITLE>
+<DATELINE>    ATLANTA, Ga., June 29 - </DATELINE><BODY>Contel Corp said its expects to
+report second quarter earnings that are lower than last year's
+74 cts a share and 1987 earnings from continuing operations
+that are about 15 pct lower than last year's 3.04 dlrs per
+share.
+    Donald Weber, president and chief executive officer of
+Contel, said that lower than expected revenues, higher than
+anticipated costs to complete certain contracts and one-time
+expenses are behind the lower earnings projections.
+    As such, Weber said Contel has begun to evaluate
+strategies, budgets and operating direction in each of the
+company's divisions "with renewed emphasis on maximizing
+shareholder value."
+    Weber added that Contel is holding discussions with
+&lt;Comsat> on an agreement to terminate the previosuly proposed
+merger between the two companies.
+    Weber added that the results of the evaluations of certain
+parts of the company may be reflected later this year in a
+combination of one-time gains or losses not in the anticipated
+lower earnings.
+    Webber said, however, that he was encouraged by the
+continued strength of Contel's telephone businesses and the
+strong showing from certain of the company's non-regulated
+sectors.
+    But, he added, that results for other parts of the company
+will still be unsatisfactory.
+ Reuter
+&#3;</BODY></TEXT>

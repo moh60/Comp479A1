@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="3908" NEWID="14925">
+<DATE> 8-APR-1987 07:39:33.55</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>west-germany</D><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0593&#31;reute
+u f BC-THYSSEN-UNIT-TO-COOPE   04-08 0106</UNKNOWN>
+<TEXT>&#2;
+<TITLE>THYSSEN UNIT TO COOPERATE WITH CANADIAN FIRM</TITLE>
+<DATELINE>    MUELHEIM, West Germany, April 8 - </DATELINE><BODY>Thyssen AG &lt;THYH.F> unit
+Thyssen Guss AG, a metals group, said it had agreed to
+cooperate with Canadian firm &lt;Cercast Inc> to manufacture fine
+casting products.
+    Both companies would merge plants in the West German towns
+of Soest and Moers under a new company in which the two groups
+would have equal shares in a capital of three mln marks.
+    A spokeswoman for Thyssen Industrie AG, which holds 100 pct
+of Thyssen Guss, said the joint-venture should produce turnover
+of an annual 40 mln marks. Thyssen Industrie is held 90 pct by
+Thyssen AG.
+ REUTER
+&#3;</BODY></TEXT>

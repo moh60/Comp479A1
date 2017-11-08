@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="907" NEWID="16373">
+<DATE>13-APR-1987 11:38:41.49</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1473&#31;reute
+r f BC-NATIONAL-COMPUTER-&lt;NL   04-13 0068</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NATIONAL COMPUTER &lt;NLCS.O> TO BUY SHARES</TITLE>
+<DATELINE>    MINNEAPOLIS, April 13 - </DATELINE><BODY>National Computer Systems Inc said
+its board authorized the company to repurchase up to 2.0 mln
+shares of its common stock in the open market.
+    The company currently has about 19 mln shares outstanding.
+    It said the shares will be retained for use in the employee
+stock purchase plan, stock option plans and for general
+corporate use.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10990" NEWID="6077">
+<DATE>17-MAR-1987 12:10:19.51</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f5626&#31;reute
+d f BC-E-SYSTEMS-&lt;ESY>-WINS   03-17 0041</UNKNOWN>
+<TEXT>&#2;
+<TITLE>E-SYSTEMS &lt;ESY> WINS NAVY CONTRACT</TITLE>
+<DATELINE>    DALLAS, March 17 - </DATELINE><BODY>E-Systems said it received a multi-year
+U.S. Navy contract for the continuing production of its
+military teleprinters for use in submarines.
+    It said the contract is worth 9,208,223 dlrs.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12172" NEWID="7259">
+<DATE>19-MAR-1987 12:51:08.29</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>france</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1714&#31;reute
+r f BC-L'AIR-LIQUIDE-&lt;AIRP.P   03-19 0064</UNKNOWN>
+<TEXT>&#2;
+<TITLE>L'AIR LIQUIDE &lt;AIRP.PA> YEAR ENDED DEC 31</TITLE>
+<DATELINE>    PARIS, March 19 -
+    </DATELINE><BODY>Parent company net profit 754.45 mln francs vs 674.1 mln.
+    Dividend 19.50 francs vs same.
+    NOTE - Company said the dividend would apply to shares
+issued under capital increases during 1986. This means a 32 pct
+rise in total dividend payments to 528.14 mln francs on 1986
+results from 399.62 mln the previous year.
+ Reuter
+&#3;</BODY></TEXT>

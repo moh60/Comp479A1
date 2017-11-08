@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="3949" NEWID="14966">
+<DATE> 8-APR-1987 09:19:39.62</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F
+&#22;&#22;&#1;f0879&#31;reute
+r f BC-CANADIAN-AIRLINES-TO   04-08 0095</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CANADIAN AIRLINES TO PURCHASE SIX BOEING&lt;BA>JETS</TITLE>
+<DATELINE>    Calgary, Alberta, April 8 - </DATELINE><BODY>Canadian Airlines International
+said it agreed to purchase six Boeing Co 767-300ER (extended
+range) aircraft, and options on eight more, for 1.6 billion
+Canadian dlrs, including spare parts and training.
+    Delivery will begin in April 1988 and run through April
+1989, the company said.
+    The airline said it plans to finance the new aircraft by
+means of oeprating leases. Canadian Airlines was recently
+formed through the merger of Canadian Pacific Airlines and
+Pacific Western Airlines.
+ Reuter
+&#3;</BODY></TEXT>

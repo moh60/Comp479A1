@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6956" NEWID="19120">
+<DATE>19-JUN-1987 09:02:45.14</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f0731&#31;reute
+u f BC-PHILIPPINE-LONG-DISTA   06-19 0038</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PHILIPPINE LONG DISTANCE &lt;PHI> PLANS SPLIT</TITLE>
+<DATELINE>    NEW YORK, June 19 - </DATELINE><BODY>Philippine Long Distance Telephone Co
+said it has called a special shareholder meeting to approve a
+proposed two-for-one stock split and a 20 pct stock dividend.
+    The company said the meeting will be held July 15 and
+shareholders of record on April 27 will be eligible to vote.
+    The company said it will also ask shareholders to approve
+an increase in authorized common shares to 134 mln and of
+serial preferred stock to 383 mln and to authorize the sale of
+two billion pesos of debentures.
+ Reuter
+&#3;</BODY></TEXT>

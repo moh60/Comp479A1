@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12206" NEWID="7293">
+<DATE>19-MAR-1987 13:28:56.83</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1857&#31;reute
+u f BC-JIFFY-LUBE-&lt;JLUB>-CAN   03-19 0047</UNKNOWN>
+<TEXT>&#2;
+<TITLE>JIFFY LUBE &lt;JLUB> CAN'T EXPLAIN STOCK ACTION</TITLE>
+<DATELINE>    BALTIMORE, March 19 - </DATELINE><BODY>Jiffy Lube International Inc said it
+can't account for the drop in its stock price.
+    The company's stock is currently trading at 29-1/2 bid,
+29-7/8 bid. Yesterday in NASDAQ trading it fell 4-1/4 to close
+at 31.
+ Reuter
+&#3;</BODY></TEXT>

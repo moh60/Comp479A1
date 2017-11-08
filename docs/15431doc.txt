@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4609" NEWID="15431">
+<DATE> 9-APR-1987 07:24:18.75</DATE>
+<TOPICS><D>dlr</D><D>money-fx</D></TOPICS>
+<PLACES><D>japan</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;A
+&#22;&#22;&#1;f0449&#31;reute
+r f BC-BANK-OF-JAPAN-BUYS-DO   04-09 0106</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BANK OF JAPAN BUYS DOLLARS IN TOKYO, DEALERS SAY</TITLE>
+<DATELINE>    TOKYO, April 9 - </DATELINE><BODY>The Bank of Japan bought a modest amount
+of dollars at around 145.10 yen just after the market here
+opened, dealers said.
+    Just before the opening, the dollar dropped swiftly as
+speculators concluded the Group of Seven (G-7) comminuique
+issued in Washington contained nothing basically new, they
+said. It fell about a half yen, to around 145.
+    The G-7 reaffirmed that their currencies around current
+levels reflect economic fundamentals.
+    One dealer said the Bank of Japan probably intervened in
+Australia before the opening here, but could not confirm this.
+ REUTER
+&#3;</BODY></TEXT>

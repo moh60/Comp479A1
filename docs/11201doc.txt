@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17262" NEWID="11201">
+<DATE>31-MAR-1987 04:23:55.99</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0301&#31;reute
+u f BC-LONDON-INT'L-SELLING   03-31 0084</UNKNOWN>
+<TEXT>&#2;
+<TITLE>LONDON INT'L SELLING HOT WATER BOTTLE UNIT</TITLE>
+<DATELINE>    LONDON, March 31 - </DATELINE><BODY>London International Group Plc &lt;LONL.L>
+said it had agreed to sell its &lt;Haffenden Moulding Co Ltd> unit
+to &lt;Melton Medes Ltd> for 2.1 mln stg.
+    Haffenden is a moulder of hot water bottles and also
+produces a variety of rubber and plastic mouldings. The book
+value of its assets is 4.4 mln stg.
+    LIG said the disposal was part of its strategy of
+concentrating on its core activities.
+    LIG shares were one penny firmer at 277p.
+ REUTER
+&#3;</BODY></TEXT>

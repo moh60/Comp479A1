@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20468" NEWID="20969">
+<DATE>19-OCT-1987 16:07:05.82</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2993&#31;reute
+a f BC-BULCAN-CORP-&lt;BUL>-3RD   10-19 0040</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BULCAN CORP &lt;BUL> 3RD QTR NET</TITLE>
+<DATELINE>    CINCINNATI, Oct 19 -
+    </DATELINE><BODY>Shr five cts vs seven cts
+    Net 80,642 vs 115,222
+    Revs 7,833,570 vs 5,739,443
+    Nine mths
+    Shr five cts vs 1.11 dlrs
+    Net 80,773 vs 1,743,828
+    Revs 21.6 mln vs 16.3 mln
+ Reuter
+&#3;</BODY></TEXT>

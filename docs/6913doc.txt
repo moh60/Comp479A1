@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11826" NEWID="6913">
+<DATE>18-MAR-1987 18:09:08.05</DATE>
+<TOPICS><D>crude</D></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E Y
+&#22;&#22;&#1;f9720&#31;reute
+r f BC-CANTERRA-ENERGY-TO-DR   03-18 0091</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CANTERRA ENERGY TO DRILL WELL OFF NOVA SCOTIA</TITLE>
+<DATELINE>    Calgary, Alberta, March 18 - </DATELINE><BODY>&lt;Canterra Energy Ltd> said it
+will drill an exploratory well on the Scotian shelf, about 280
+kilometers east-southeast of Halifax, Nova Scotia.
+    Drilling will begin in late April 1987 in 61 meters of
+water and will be drilled to a total depth of 3,500 meters,
+Canterra said.
+    Canterra will operate the well and has a 39 pct interest in
+it. &lt;Petro-Canada Inc> has 26 pct, &lt;Trillium Exploration Corp>
+has 20 pct and &lt;Nova Scotia Resources (Ventures) Ltd> has 15
+pct.
+ Reuter
+&#3;</BODY></TEXT>

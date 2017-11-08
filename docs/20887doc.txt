@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20550" NEWID="20887">
+<DATE>19-OCT-1987 18:22:52.19</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f3359&#31;reute
+r f BC-FIFTH-THIRD-&lt;FITB.O>   10-19 0090</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FIFTH THIRD &lt;FITB.O> TO MERGE WITH C AND H</TITLE>
+<DATELINE>    CINCINNATI, Oct 19 - </DATELINE><BODY>Fifth Third Bancorp and &lt;C and H
+Bancorp> said they reached a preliminary agreement to merge.   
+ C and H Bancorp has assets of 257 mln dlrs and is the parent
+company of Citizens Heritage Bank N.A.
+    The companies said the agreement calls for each of the
+about one mln shares of C and H Bancorp to be exchanged for one
+share of Fifth Third Bancorp. Based on its financial
+expectations, Fifth Third said the dilution in per share
+earnings for the merger will be negligible.
+ Reuter
+&#3;</BODY></TEXT>

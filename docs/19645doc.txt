@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7973" NEWID="19645">
+<DATE>29-JUN-1987 10:52:21.47</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1239&#31;reute
+d f BC-NEW-GENERATION-PRODUC   06-29 0064</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NEW GENERATION PRODUCTS MAKES ACQUISITION</TITLE>
+<DATELINE>    SALT LAKE CITY, Utah, June 29 - </DATELINE><BODY>&lt;New Generation Products
+Inc> said it has acquired a 20 pct ownership in &lt;Personal
+Protection Technolgies Inc>.
+    New Generation said Personal Protection is developing a
+group of personal care products, which are effective in killing
+a variety of viruses and bacteria on contact, for U.S. and
+export markets.
+ Reuter
+&#3;</BODY></TEXT>

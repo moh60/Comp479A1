@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20708" NEWID="20113">
+<DATE>20-OCT-1987 08:41:10.66</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f0828&#31;reute
+r f BC-HILTON-HOTELS-&lt;HLT>-T   10-20 0056</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HILTON HOTELS &lt;HLT> TO REPURCHASE COMMON</TITLE>
+<DATELINE>    BEVERLY HILLS, Calif., Oct 20 - </DATELINE><BODY>Hilton Hotels Corp said it
+plans to repurchase on the open market or privately up to
+3,900,000 of its 25.0 mln common shares.
+    It said funds for the repurchases would come from working
+capital and external financing.  Hilton set no time limit for
+the plan.
+ Reuter
+&#3;</BODY></TEXT>

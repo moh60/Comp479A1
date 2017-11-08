@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15710" NEWID="10189">
+<DATE>26-MAR-1987 16:43:00.58</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;V
+&#22;&#22;&#1;f2641&#31;reute
+u f AM-Launch   03-26 0092</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NASA ROCKET FAILS AFTER TAKEOFF</TITLE>
+<DATELINE>    CAPE CANAVERAL, Fla., March 26 - </DATELINE><BODY>An Atlas Centaur rocket
+launching a military communications satellite went out of
+control a minute after launch and was destroyed, a NASA
+spokesman said.
+    The Atlas Centaur blasted off in rainy and overcast
+conditions. Within seconds controllers reported it was out of
+control and the order to blow it up was given.
+    NASA spokesperson Lisa Malone said the rocket may have been
+struck by lightening.
+    The failure is the first for NASA since May 1986, when a
+Delta rocket failed.
+ Reuter
+&#3;</BODY></TEXT>

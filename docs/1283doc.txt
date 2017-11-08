@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16603" NEWID="1283">
+<DATE> 3-MAR-1987 15:41:19.94</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0762&#31;reute
+h f BC-CONTINENTAL-GENERAL-I   03-03 0093</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CONTINENTAL GENERAL INSURANCE &lt;CGIC> 4TH QTR NET</TITLE>
+<DATELINE>    OMAHA, Neb., March 3 - 
+    </DATELINE><BODY>Shr 20 cts vs 21 cts
+    Net 783,564 vs 806,278
+    Year
+    Shr 89 cts vs 86 cts
+    Net 3,443,392 vs 3,242,588
+    Note:Full company name is Continental General Insurance Co
+    Net includes profit from sale of securities of 155,410
+dlrs, or four cts a share, and 192,896 dlrs, or five cts a
+share, respectively, in 1986 qtr and year, and of 12,879 dlrs,
+or nil per share, in 1985 qtr. Net for 1985 year includes loss
+from sale of securities of 315,763 dlrs, or eight cts a share.
+ Reuter
+&#3;</BODY></TEXT>

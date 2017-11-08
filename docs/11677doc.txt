@@ -1,0 +1,31 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17739" NEWID="11677">
+<DATE>31-MAR-1987 16:24:23.23</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2615&#31;reute
+r f BC-OVERLAND-EXPRESS-&lt;OVE   03-31 0098</UNKNOWN>
+<TEXT>&#2;
+<TITLE>OVERLAND EXPRESS &lt;OVER> NEGOTIATES NEW DEBT</TITLE>
+<DATELINE>    INDIANAPOLIS, March 31 - </DATELINE><BODY>Overland Express Inc said it
+negotiated a restated debt moratorium agreement with its
+principal secured lender banks.
+    The company said the new agreement extends a prior debt
+moratorium on principal and interest payments on approximately
+30 mln dlrs of long-term debt to June one, 1987.
+    It is subject to repayment of the debt on or before that
+date at a discount of approximately 8,600,000 dlrs in principal
+and cancellation of approximately 1,800,000 dlrs of current and
+deferred interest, the company said.
+    Overland also said it negotiated a 3,000,000 dlr interim
+credit agreement with its majority owner, &lt;Continental Training
+Services Inc>.
+
+ Reuter
+&#3;</BODY></TEXT>

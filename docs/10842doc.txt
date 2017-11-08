@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16903" NEWID="10842">
+<DATE>30-MAR-1987 11:22:43.93</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A RM
+&#22;&#22;&#1;f1506&#31;reute
+b f BC-NYNEX-&lt;NYN>-UNIT-FILE   03-30 0059</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NYNEX &lt;NYN> UNIT FILES TO OFFER DEBT SECUTITIES</TITLE>
+<DATELINE>    NEW YORK, March 30 - </DATELINE><BODY>New York Telephone Co, a unit of NYNEX
+Corp, said it filed with the Securities and Exchange Commission
+a shelf registration statement covering up to 500 mln dlrs of
+debt securities.
+    Proceeds will be to refinance outstanding debt or for
+general corporate purposes, the company said.
+ Reuter
+&#3;</BODY></TEXT>

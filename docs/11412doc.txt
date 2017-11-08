@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17474" NEWID="11412">
+<DATE>31-MAR-1987 11:32:27.31</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1552&#31;reute
+r f BC-I.R.E.-&lt;IF>-FILES-SUI   03-31 0073</UNKNOWN>
+<TEXT>&#2;
+<TITLE>I.R.E. &lt;IF> FILES SUIT OVER SHARES</TITLE>
+<DATELINE>    CORAL GABLES, Fla., March 31 - </DATELINE><BODY>I.R.E. Financial Corp said
+it has filed suit against CenTrust Savings Bank &lt;CTSTP> seeking
+to compel CenTrust to sell I.R.E. the 289,700 shares of
+Atlantic Federal Savings and Loan Association &lt;ASAL> that are
+the subject of an option agreement between the parties.
+    The company alleged CenTrust has refused to deliver the
+shares, claiming that the option had expired.
+ Reuter
+&#3;</BODY></TEXT>

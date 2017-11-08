@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20197" NEWID="21239">
+<DATE>19-OCT-1987 12:36:28.74</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1992&#31;reute
+d f BC-PERRY-DRUG-&lt;PDS>-DIRE   10-19 0078</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PERRY DRUG &lt;PDS> DIRECTOR RESIGNS</TITLE>
+<DATELINE>    PONTIAC, Mich, Oct 19 - </DATELINE><BODY>Perry Drug Stores Inc said Donald
+Fox has resigned from the board of directors, effective
+immediately.
+    Fox, a board director since 1971, said he was resigning
+because of new business interests, the company reported. Fox
+left Perry as president and chief operating officer in January
+and was recently appointed president of Beauty Brands Group, a
+distributor based in Southfield, Mich., the company said.
+ Reuter
+&#3;</BODY></TEXT>

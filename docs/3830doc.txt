@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="8743" NEWID="3830">
+<DATE>11-MAR-1987 13:30:47.29</DATE>
+<TOPICS><D>ship</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0120&#31;reute
+r f BC-AMERICAN-PRESIDENT-&lt;A   03-11 0110</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AMERICAN PRESIDENT &lt;APS> TO LEASE MORE SHIPS</TITLE>
+<DATELINE>    OAKLAND, Calif., March 11 - </DATELINE><BODY>American President Cos Ltd said
+its American President Lines shipping subsidiary  obtained
+final approval from U.S. and Japanese authorities to lease four
+new ships from Lykes Bros Co.
+    The move will will enable it to boost service in the
+Pacific by 15 pct in 1987, American President said.
+    The company said it will lease the ships for three years
+and hold two additional three-year options.
+    It said American President Lines is currently operating at
+capacity in the Pacific and the new ships will arrive in time
+for the normal demand surge of the spring and summer seasons.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="1943" NEWID="12974">
+<DATE> 3-APR-1987 12:09:31.87</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1539&#31;reute
+r f BC-BOISE-CASCADE-&lt;BCC>-C   04-03 0039</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BOISE CASCADE &lt;BCC> COMPLETES SALE OF UNIT</TITLE>
+<DATELINE>    BOISE, Idaho, April 3 - </DATELINE><BODY>Boise Cascade Corp said it
+completed the previously announced sale of its Consumer
+Packaging Division to Sonoco Products Co &lt;SONO> for
+approximately 175 mln dlrs.
+ Reuter
+&#3;</BODY></TEXT>

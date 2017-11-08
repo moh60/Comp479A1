@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="172" NEWID="11944">
+<DATE> 1-APR-1987 10:14:06.86</DATE>
+<TOPICS><D>money-fx</D><D>dlr</D><D>dmk</D></TOPICS>
+<PLACES><D>turkey</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f1022&#31;reute
+b f BC-TURKISH-CENTRAL-BANK   04-01 0051</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TURKISH CENTRAL BANK SETS LIRA/DOLLAR, DM RATES</TITLE>
+<DATELINE>    ANKARA, April 1 - </DATELINE><BODY>The Turkish Central Bank set a
+lira/dollar rate for April 2 of 780.00/783.90 to the dollar,
+down from the previous 777.00/780.89. The Bank also set a
+lira/mark rate of 429.15/431.30 to the mark, up from the
+previous 430.50/432.65.
+ REUTER
+&#3;</BODY></TEXT>

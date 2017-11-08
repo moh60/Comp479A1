@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6087" NEWID="17749">
+<DATE> 1-JUN-1987 15:03:26.51</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2196&#31;reute
+r f BC-UNI-MARTS-&lt;IMMA.O>-AC   06-01 0048</UNKNOWN>
+<TEXT>&#2;
+<TITLE>UNI-MARTS &lt;IMMA.O> ACQUIRES GAS-N-ALL STORES</TITLE>
+<DATELINE>    STATE COLLEGE, Pa., June 1 - </DATELINE><BODY>Uni Marts Inc said it acquired
+seven &lt;Gas-N-All Inc> convenience stores for an undisclosed
+amount of cash.
+    The acquisition bring to 228 the number of convenience
+stores owned by Uni-Marts, the company said.
+ Reuter
+&#3;</BODY></TEXT>

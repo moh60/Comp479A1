@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20627" NEWID="20032">
+<DATE>20-OCT-1987 04:48:51.01</DATE>
+<TOPICS><D>interest</D></TOPICS>
+<PLACES></PLACES>
+<PEOPLE><D>poehl</D></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM V 
+&#22;&#22;&#1;f0286&#31;reute
+f f BC-Poehl-says-German-and   10-20 0014</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE> Poehl says German and international interest rate rises are cause for concern
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10461" NEWID="5548">
+<DATE>16-MAR-1987 13:24:02.79</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f3072&#31;reute
+u f BC-CONRAIL-SAYS-OFFERING   03-16 0103</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CONRAIL SAYS OFFERING COULD BE MADE NEXT WEEK</TITLE>
+<DATELINE>    PHILADELPHIA, March 16 - </DATELINE><BODY>&lt;Consolidated Rail Corp> said the
+initial offering of its common stock could be made as early as
+next week at an estimated price of 26 to 29 dlrs per share.
+    The U.S. government has proposed the sale of 52 mln Conrail
+shares in the U.S. and 6,750,000 overseas under the Conrail
+Privatization Act, which was enacted in October.
+    Lead underwriters are &lt;Goldman, Sachs and Co>, First Boston
+Inc &lt;FBC>, Merrill Lynch and Co Inc &lt;MER>, Morgan Stanley Group
+Inc &lt;MS> Salomon Inc &lt;SB> and American Express Co's &lt;AXP>
+Shearson Lehman Brothers Inc.
+ Reuter
+&#3;</BODY></TEXT>

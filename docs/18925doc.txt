@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6676" NEWID="18925">
+<DATE>18-JUN-1987 14:40:40.71</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f4280&#31;reute
+d f BC-AMERICAN-CYANAMID-&lt;AC   06-18 0101</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AMERICAN CYANAMID &lt;ACY> TO BUILD PLANT ADDITION</TITLE>
+<DATELINE>    WAYNE, N.J., June 18 - </DATELINE><BODY>American Cyanamid Co said it plans
+to construct a multimillion-dollar addition to its agricultural
+flagship plant in Hannibal, Mo.
+    The company said the facilities will produce Assert
+herbicide, the third in the company's new series of
+imidazolinone herbicides.
+    Cyanamid, which is a biotechnology and chemical research
+company, said the Hannibal plant is its principal agricultural
+product manufacturing facility.
+    Assert is a wild oat and broadleaf weed herbicide for use
+on small grains and on sunflowers, the company said.
+ Reuter
+&#3;</BODY></TEXT>

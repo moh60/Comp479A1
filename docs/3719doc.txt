@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="8632" NEWID="3719">
+<DATE>11-MAR-1987 11:33:26.38</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0593&#31;reute
+b f BC-CORRECTED---BANCA-NAZ   03-11 0067</UNKNOWN>
+<TEXT TYPE="UNPROC">&#2;
+CORRECTED - BANCA NAZIONALE DEL LAVORO =2 LONDON
+    The warrants will be issued by EFI Banca. Each warrant will
+entitle the holder to purchase 45 savings shares of Banca
+Nazionale de Lavoro at a premium of about 10 pct above the
+closing price on the Milan Stock Exchange on or before March
+17.
+    EFI Banca is a medium-term credit institution, about 36-1/2
+pct owned by Banca Nazionale del Lavoro.
+ REUTER
+&#3;
+
+</TEXT>

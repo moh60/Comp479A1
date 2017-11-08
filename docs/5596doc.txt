@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10509" NEWID="5596">
+<DATE>16-MAR-1987 14:19:15.91</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f3248&#31;reute
+u f BC-CHEYENNE-SOFTWARE-&lt;CH   03-16 0041</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CHEYENNE SOFTWARE &lt;CHEY> IN ACQUISITION TALKS</TITLE>
+<DATELINE>    ROSLYN, N.Y., March 16 - </DATELINE><BODY>Cheyenne Software Inc said it is
+in preliminary talks on the acquisition of compouter hardware
+distribution firm F.A. Components Inc and its Freeman-Owings
+Inc subsidiary.
+    The company said F.A. had sales of 43.1 mln dlrs for 1986
+and expects to report a loss for the year.
+    Cheyenne said the purchase price would be paid in common
+stock and it would provide additional finances for the
+operation of F.A.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20199" NEWID="21237">
+<DATE>19-OCT-1987 12:37:13.02</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1998&#31;reute
+u f BC-FRANKLIN-ELECTRIC-CO   10-19 0072</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FRANKLIN ELECTRIC CO INC &lt;FELE.O> 3RD QTR NET</TITLE>
+<DATELINE>    BLUFFTON, IND., Oct 19 -
+    </DATELINE><BODY>Shr 85 cts vs 73 cts
+    Net 3,150,000 vs 2,699,000
+    Sales 39.8 mln vs 34.3 mln
+    Nine Mths
+    Shr 2.19 dlrs vs 1.86 dlrs
+    Net 8,109,000 vs 6,876,000
+    Sales 111.5 mln vs 100.7 mln
+    NOTE: 1987 tax credits added 14 cts to third quarter net
+and 33 cts to nine months net compared with credits of 16 cts
+and 45 cts in the respective 1986 periods.
+ Reuter
+&#3;</BODY></TEXT>

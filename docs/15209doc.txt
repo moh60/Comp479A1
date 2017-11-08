@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4192" NEWID="15209">
+<DATE> 8-APR-1987 13:56:01.41</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2064&#31;reute
+u f BC-WALGREEN-&lt;WAG>-SEES-M   04-08 0056</UNKNOWN>
+<TEXT>&#2;
+<TITLE>WALGREEN &lt;WAG> SEES MARCH SALES UP 11.2 PCT</TITLE>
+<DATELINE>    DEERFIELD, Ill, April 8 - </DATELINE><BODY>Walgreen Co said preliminary
+figures show that its sales for March will be up 11.2 pct over
+March 1986, when it had 313.4 mln dlrs in sales.
+    Final March retail figures are expected Thursday April 9.
+    It also said it expects a strong Easter selling season.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19181" NEWID="2763">
+<DATE> 6-MAR-1987 13:38:17.42</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0082&#31;reute
+r f BC-INSITUFORM-&lt;IGLSF>-RA   03-06 0085</UNKNOWN>
+<TEXT>&#2;
+<TITLE>INSITUFORM &lt;IGLSF> RAISES STAKE IN UNIT</TITLE>
+<DATELINE>    NEW YORK, March 6 - </DATELINE><BODY>Insituform Group Ltd of Guernsey,
+Channel Islands, said it has exercised an option to convert a
+250,000 stg loan to affiliate Insituform Permaline Ltd to
+common shares, raising its stake in the unit to 75 pct from 50
+pct.
+    The remainder is held by Permaline's management and an
+investment group.
+    Insituform also said James Colclough has resigned from its
+board for health reasons and secretary Scott Saltpeter has
+resigned, effective June Five.
+ Reuter
+&#3;</BODY></TEXT>

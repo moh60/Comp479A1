@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18549" NEWID="2131">
+<DATE> 5-MAR-1987 11:07:31.69</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0506&#31;reute
+d f BC-P.A.M.-TRANSPORTATION   03-05 0048</UNKNOWN>
+<TEXT>&#2;
+<TITLE>P.A.M. TRANSPORTATION &lt;PTSI> PRESIDENT RESIGNS</TITLE>
+<DATELINE>    TONTITOWN, Ark., March 5 - </DATELINE><BODY>P.A.M. Transportation Services
+Inc said president and board member Robert Weaver resigned to
+pursue other interests.
+    The company said its board elected chairman Paul Maestri to
+the additional post of president.
+ Reuter
+&#3;</BODY></TEXT>

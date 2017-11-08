@@ -1,0 +1,33 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="8602" NEWID="3689">
+<DATE>11-MAR-1987 11:07:32.95</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0470&#31;reute
+u f BC-INTERCO-ESTABLISHES-5   03-11 0095</UNKNOWN>
+<TEXT>&#2;
+<TITLE>INTERCO ESTABLISHES 50 MLN DLR REVOLVING FACILITY</TITLE>
+<DATELINE>    LONDON, March 11 - </DATELINE><BODY>Missouri-based Interco Inc is
+establishing a 50 mln dlr, five year revolving credit facility,
+Swiss Bank Corp International Ltd said as arranger.
+    The facility allows for eurodollar and swingline advances
+up to 50 mln dlrs and also has an uncommitted option for
+short-term, multi-currency advances.
+    The margin for eurodollar advances is 20 basis points over
+London Interbank Offered Rates (LIBOR) and there is a
+utilisation fee of five basis points per annum if utilisation
+exceeds 50 pct.
+    Swiss Bank Corp said that the facility pays a commitment
+fee of 10 basis points per annum on undrawn amounts.
+    It has been syndicated on a club basis and signing is
+planned by the end of March.
+    Interco is a manufacturer and retailer of consumer products
+and services.
+ REUTER
+&#3;</BODY></TEXT>

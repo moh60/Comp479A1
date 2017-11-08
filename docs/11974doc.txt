@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="202" NEWID="11974">
+<DATE> 1-APR-1987 10:44:25.58</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1178&#31;reute
+r f BC-BALDWIN-PIANO-&lt;BPAO>   04-01 0070</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BALDWIN PIANO &lt;BPAO> FILES SECONDARY OFFERING</TITLE>
+<DATELINE>    CINCINNATI, April 1 - </DATELINE><BODY>Baldwin Piano and Organ Co said it
+filed a registration statement covering a proposed public
+offering of 630,000 common shares.
+    Of the shares being offered, 490,000 shares will be sold by
+General Electric Credit Corp and 140,000 by other shareholders.
+    William Blair and Co and McDonald and Co will manage the
+underwriting group, Baldwin said.
+ Reuter
+&#3;</BODY></TEXT>

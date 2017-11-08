@@ -1,0 +1,33 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="528" NEWID="12300">
+<DATE> 1-APR-1987 16:18:14.50</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2421&#31;reute
+r f BC-PROCTER-&lt;PG>-APPOINTS   04-01 0076</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PROCTER &lt;PG> APPOINTS NEW AGENCY FOR COOKIES</TITLE>
+<DATELINE>    CINCINNATI, April 1 - </DATELINE><BODY>Procter and Gamble Co said it
+appointed the New York ad agency of Wells, Rich, Greene, Inc to
+handle its Duncan Hines Ready-to-Serve Cookies, effective
+immediately.
+    The account was previously handled by Grey Advertising Inc
+of New York.
+    The company declined to discuss the reason for the change
+in accounts, nor would it dislose its advertising expenditures
+for the brand.
+    Procter and Gamble said Grey will continue to handle many
+of its brands, including Crisco, Bold, Joy, Downy and Puritan
+Oil, Monchel and Jif.
+    Wells, Rich, Green handles Procter's Pringle's, Gain,
+Safeguard, Spic and Span, Prell, Sure Banner, and Oil of Olay
+brands.
+ Reuter
+&#3;</BODY></TEXT>

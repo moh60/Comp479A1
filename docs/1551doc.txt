@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17969" NEWID="1551">
+<DATE> 4-MAR-1987 11:41:04.27</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>belgium</D><D>west-germany</D><D>netherlands</D><D>denmark</D><D>france</D><D>ireland</D><D>uk</D><D>italy</D><D>spain</D><D>greece</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;G
+&#22;&#22;&#1;f0710&#31;reute
+r f BC-CEREALS-MCAS-TO-BE-UN   03-04 0070</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CEREALS MCAS TO BE UNCHANGED NEXT WEEK</TITLE>
+<DATELINE>    BRUSSELS, March 4 - </DATELINE><BODY>Cereals Monetary Compensatory Amounts,
+MCAs, will be unchanged for the week starting March 9, an EC
+Commission spokesman said.
+    They will be plus 2.4 points for the Netherlands and West
+Germany, minus two for Denmark, minus eight for France, minus
+nine for Ireland, minus 5.7 for Italy, minus 30.2 for Britain,
+minus 44.1 for Greece and minus 10.5 for Spain.
+ Reuter
+&#3;</BODY></TEXT>

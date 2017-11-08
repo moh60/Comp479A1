@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11185" NEWID="6272">
+<DATE>17-MAR-1987 16:25:33.68</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM A
+&#22;&#22;&#1;f6522&#31;reute
+f f BC-Brasilia---Brazil-pre   03-17 0012</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE>Brazil presidential spokesman confirms resignation of Planning Minister
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

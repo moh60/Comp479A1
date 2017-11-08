@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="8718" NEWID="3805">
+<DATE>11-MAR-1987 13:16:32.67</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0053&#31;reute
+r f BC-SOUTHWEST-AIR-&lt;LUV>-U   03-11 0084</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SOUTHWEST AIR &lt;LUV> UNIT ADDS HOUSTON NONSTOPS</TITLE>
+<DATELINE>    HOUSTON, March 11 - </DATELINE><BODY>Southwest Airlines Co's TranStar
+Airlines Corp said it will add nonstop flights from Houston's
+Hobby Airport to Orlando, Tampa/St. Petersburg, San Diego and
+Austin on April One.
+    It said the changes will increase daily service to Austin
+to four roundtrips daily, to Tampa to three nonstops and a
+one-stop, to Orlando to one nonstops, three onestops and two
+connecting flights and to San Diego to one nonstop and three
+direct flights.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7666" NEWID="18221">
+<DATE> 2-JUN-1987 14:42:21.64</DATE>
+<TOPICS><D>cocoa</D></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS><D>icco</D></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C T
+&#22;&#22;&#1;f2295&#31;reute
+f f BC-******ICCO-buffer-sto   06-02 0014</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE>ICCO buffer stock manager to buy 3,000 tonnes cocoa Wednesday, June 3 - official
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

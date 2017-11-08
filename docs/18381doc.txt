@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="NOT-USED" CGISPLIT="PUBLISHED-TESTSET" OLDID="22000" NEWID="18381">
+<DATE>15-JUN-1987 11:19:00.65</DATE>
+<TOPICS><D>acq</D><D>pet-chem</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F Y
+&#22;&#22;&#1;f1338&#31;reute
+r f BC-OCCIDENTAL-&lt;OXY>-BUYS   06-15 0084</UNKNOWN>
+<TEXT>&#2;
+<TITLE>OCCIDENTAL &lt;OXY> BUYS SHELL VINYL CHLORIDE UNIT</TITLE>
+<DATELINE>    DARIEN, Conn., June 15 - </DATELINE><BODY>Occidental Petroleum Corp said it
+has completed the acquisition of Shell Oil Co's vinyl chloride
+monomer business for undisclosed terms.
+    Shell is a subsidiary of Royal Dutch/Shell Group &lt;RD> &lt;SC>.
+    The company said the transaction will allow it to source
+over half its vinyl chloride monomer requirements internally,
+making it fully integrated in polyvinyl chloride production. It
+has been buying all of its requirements.
+ Reuter
+&#3;</BODY></TEXT>

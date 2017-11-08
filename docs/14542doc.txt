@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="3525" NEWID="14542">
+<DATE> 7-APR-1987 15:53:10.32</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2301&#31;reute
+r f BC-CANNON-&lt;CAN>-SELLS-ST   04-07 0079</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CANNON &lt;CAN> SELLS STAKE IN HBO/CANNON VENTURE</TITLE>
+<DATELINE>    LOS ANGELES, April 7 - </DATELINE><BODY>Cannon Group Inc said it agreed in
+principle to sell its 50 pct interest in the HBO/Cannon Video
+joint venture to the Home Box Office unit of Time Inc &lt;TL>.
+    The company said it is making the sale because in the near
+future all of its video products will be licensed in the United
+States and Canada to either the Warner Brothers unit of Warner
+Communications Inc &lt;WCI>, or to Media Home Entertainment.
+ Reuter
+&#3;</BODY></TEXT>

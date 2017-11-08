@@ -1,0 +1,30 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="1778" NEWID="12809">
+<DATE> 3-APR-1987 08:12:05.80</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0637&#31;reute
+r f BC-QT8903/1   04-03 0038</UNKNOWN>
+<TEXT TYPE="UNPROC">&#2;
+U.S. STOCKS EX-DIVIDEND - APRIL 3
+    NYSE STOCKS...
+ czm 2-for-1 stock split
+ eye              10 cts
+ gcn              15 cts
+ gcn pr a     16-1/2 cts
+ ihs              09 cts
+ nbd              30 cts
+ psn 2-for-1 stock split
+ AMEX...
+ wbp 10 cts
+ Reuter
+&#3;
+
+</TEXT>

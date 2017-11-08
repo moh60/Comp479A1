@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="21061" NEWID="20466">
+<DATE>20-OCT-1987 13:36:54.85</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2444&#31;reute
+u f BC-ALLEGIS-&lt;AEG>-TO-REPU   10-20 0054</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ALLEGIS &lt;AEG> TO REPURCHASE UP TO 5 MLN SHARES</TITLE>
+<DATELINE>    CHICAGO, Oct 20 - </DATELINE><BODY>Allegis Corp said it plans to repurchase
+up to five mln of its common shares.
+    The company said the buyback plan was established to take
+advantage of market conditions.
+    It said the timing and volume of the repurchases will
+depend on market conditions.
+ Reuter
+&#3;</BODY></TEXT>

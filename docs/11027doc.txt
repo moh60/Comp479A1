@@ -1,0 +1,20 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17088" NEWID="11027">
+<DATE>30-MAR-1987 15:05:58.06</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2335&#31;reute
+r f BC-PRIMEBANK-&lt;PMBK>-SETS   03-30 0037</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PRIMEBANK &lt;PMBK> SETS 10 PCT STOCK DIVIDEND</TITLE>
+<DATELINE>    GRAND RAPIDS, Mich., March 30 - </DATELINE><BODY>PrimeBank Federal Savings
+Bank said its board declared a 10 pct stock dividend to be
+distributed about April 15 to holders or record March 31.
+ Reuter
+&#3;</BODY></TEXT>

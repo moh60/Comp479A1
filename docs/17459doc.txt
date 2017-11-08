@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5797" NEWID="17459">
+<DATE> 1-JUN-1987 03:45:53.98</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM AI
+&#22;&#22;&#1;f0202&#31;reute
+f f BC-Japan-May-external-re   06-01 0014</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE>Japan May external reserves hit record 68.94 billion dlrs (April 68.62 billion)
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

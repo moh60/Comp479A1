@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="8009" NEWID="19681">
+<DATE>29-JUN-1987 11:31:40.04</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1422&#31;reute
+d f BC-FEDERAL-RESOURCES-&lt;FD   06-29 0083</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FEDERAL RESOURCES &lt;FDRC.O> ACQUIRES RETAILER</TITLE>
+<DATELINE>    NEW YORK, June 29 - </DATELINE><BODY>Federal Resources Corp said it has
+acquired the capital stock and related real estate assets of
+&lt;New Generation Inc>, a regional consumer electronics specialty
+retailer.
+    Terms of the acquisition were not disclosed.
+    New Generation has annual sales volume of about 30 mln
+dlrs, Federal Resources said.
+    Federal Resources said it will search for additional
+acquisitions including, but not limited to, specialty
+retailers.
+ Reuter
+&#3;</BODY></TEXT>

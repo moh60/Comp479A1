@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20894" NEWID="20299">
+<DATE>20-OCT-1987 11:07:57.19</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1508&#31;reute
+b f BC-/MANUFACTURERS-HANOVE   10-20 0079</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MANUFACTURERS HANOVER CORP &lt;MHC> 3RD QTR NET</TITLE>
+<DATELINE>    NEW YORK, Oct 20 -
+    </DATELINE><BODY>shr profit 2.73 dlrs vs 2.29 dlrs
+    net 129.1 mln vs 105.8 mln
+    nine mths
+    shr loss 28.33 dlrs vs profit 6.42 dlrs
+    net loss 1.16 billion vs profit 301.8 mln
+    NOTE: 3rd qtr includes previously reported gain of 55.0 mln
+dlrs, or 29.4 mln after-tax, by capturing excess pension funds.
+    Nine mths include 1.7 billion dlr addition to loan loss
+reserves in 2nd qtr, mostly for shaky LDC debts.
+ Reuter
+&#3;</BODY></TEXT>

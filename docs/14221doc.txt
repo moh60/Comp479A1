@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="BYPASS" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="3204" NEWID="14221">
+<DATE> 7-APR-1987 12:03:29.02</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;G
+&#22;&#22;&#1;f1431&#31;reute
+u f BC-LONDON-SEEDS-CLOSING   04-07 0077</UNKNOWN>
+<TEXT TYPE="UNPROC">&#2;
+LONDON SEEDS CLOSING - APR 7
+   COPRA Phillipines dlrs per tonne cif rotterdam Apr 275.00
+reslrs
+   PALM KERNELS Sierra leone dlrs per tonne cif rotterdam Apr
+175.00 slrs
+   SOYBEANS cif uk east/south coast stg per tonne Jun/Aug
+137.00 Sep/Dec 139.50 slrs
+   LINSEED Canadian dlrs per tonne cif rotterdam Apr/May 167.00
+May/Jun 166.00 slrs
+    RAPESEED UK stg per tonne del Apr 297.00 paid
+Humberside/Boston Apr 296.00/298.00 May 298.00/301.00 byr/slrs
+    REUTER
+&#3;
+
+</TEXT>

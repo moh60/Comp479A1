@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="8566" NEWID="3654">
+<DATE>11-MAR-1987 10:42:21.83</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0338&#31;reute
+r f BC-CONCORD-COMPUTING-&lt;CE   03-11 0060</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CONCORD COMPUTING &lt;CEFT> EXECUTIVES RESIGN</TITLE>
+<DATELINE>    WOBURN, Mass., March 11 - </DATELINE><BODY>Concord Computing Corp said
+Thomas E. Swithenbank has resiged as president and a director
+and John L. burns has resigned as vice president of
+manufacturing.
+    No reason was given.
+    It said chairman and chief executive officer Victor M.
+Tyler will assume the additional post of president.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4070" NEWID="15087">
+<DATE> 8-APR-1987 11:37:17.20</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1481&#31;reute
+d f BC-PHOTOGRAPHIC-SCIENCES   04-08 0055</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PHOTOGRAPHIC SCIENCES &lt;PSXX> FORMS NEW UNIT</TITLE>
+<DATELINE>    ROCHESTER, N.Y., April 8 - </DATELINE><BODY>Photographic Sciences Corp said
+it has formed a new Metrology Division for the production and
+marketing of surface profiler measurement equipment.
+    It said the equipment, a new market area, should add
+significantly to company revenues in the next few years.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17882" NEWID="1464">
+<DATE> 4-MAR-1987 10:15:31.10</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F
+&#22;&#22;&#1;f0321&#31;reute
+r f BC-canadian-home-shop   03-04 0101</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CANADIAN HOME SHOPPING SALES ABOVE EXPECTATIONS</TITLE>
+<DATELINE>    TORONTO, March 4 - </DATELINE><BODY>&lt;Canadian Home Shopping Network Ltd>
+said sales of 1,149,339 dlrs from the first six weeks of
+operation by its cable television shop at home service were
+above the company's expectations by a significant margin.
+    The company said it signed up 14,619 members during the
+period and the average purchase per member in February was
+56.99 dlrs.
+    Subscriber penetration rose to 1.7 mln households from 1.5
+mln households, it said.
+    The company began broadcasting its service to more than 100
+cablesystems across Canada on January 15.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16351" NEWID="1031">
+<DATE> 3-MAR-1987 09:58:00.11</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0401&#31;reute
+r f BC-YANKEE-&lt;YNK>-SWAPS-ST   03-03 0048</UNKNOWN>
+<TEXT>&#2;
+<TITLE>YANKEE &lt;YNK> SWAPS STOCK FOR DEBENTURES</TITLE>
+<DATELINE>    COHASSET, Mass., March 3 - </DATELINE><BODY>Yankee Cos Inc said it has
+acquired 3,916,000 dlrs of 7-1/2 pct convertible subordinated
+debentures due May 15, 1998 of its YFC International Finance NV
+affiliate for 501,807 common shares from an institutional
+investor.
+ Reuter
+&#3;</BODY></TEXT>

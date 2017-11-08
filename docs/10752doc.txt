@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16813" NEWID="10752">
+<DATE>30-MAR-1987 06:18:15.32</DATE>
+<TOPICS><D>coffee</D></TOPICS>
+<PLACES><D>west-germany</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C T
+&#22;&#22;&#1;f0499&#31;reute
+u f BC-TOP-QUALITIES-SOUGHT   03-30 0106</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TOP QUALITIES SOUGHT ON HAMBURG COFFEE MARKET</TITLE>
+<DATELINE>    HAMBURG, March 30 - </DATELINE><BODY>The green coffee market saw some demand
+for high quality coffees in the past week, but business was
+described as generally unsatisfactory, trade sources said.
+    Especially sought were spot East African and Ethiopian and
+some Brazils, they said, adding that some high grade robustas
+also met some demand.
+    Sporadic business was noted in the second hand which
+offered Kenya coffee for May/June shipment up to 25 dlrs below
+origin levels.
+    Roasters are said to be well covered and are not expected
+to enter the market for larger purchases in the near term.
+ REUTER
+&#3;</BODY></TEXT>

@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18072" NEWID="1654">
+<DATE> 4-MAR-1987 13:28:26.98</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0225&#31;reute
+r f BC-HYUNDAI-MOTOR-AMERICA   03-04 0055</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HYUNDAI MOTOR AMERICA SAYS CAR SALES STRONG</TITLE>
+<DATELINE>    GARDEN GROVE, Calif., March 4 - </DATELINE><BODY>Hyundai Motor America said
+February sales of its Excel subcompact car totaled 18,656.
+    Hyundai began selling the car in the U.S. on February 20,
+1986. Sales that month totaled 588.
+    The company said sales in the first 12 months totaled
+201,328.
+ Reuter
+&#3;</BODY></TEXT>

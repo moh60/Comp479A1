@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12985" NEWID="802">
+<DATE> 2-MAR-1987 16:58:18.35</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E A RM
+&#22;&#22;&#1;f0130&#31;reute
+u f BC-CANADA-GOVERNMENT-SPE   03-02 0110</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CANADA GOVERNMENT SPENDING TO RISE 3.8 PCT</TITLE>
+<DATELINE>    OTTAWA, March 2 - </DATELINE><BODY>The federal government's expenditures
+will rise 3.8 pct in the fiscal year beginning April 1 to
+110.14 billion dlrs from 107.01 billion dlrs in fiscal 1987,
+the Treasury Board said.
+    The board noted the growth in the main estimates is the
+lowest since 1962, and below last year's 3.9 pct increase.
+    After inclusion of two special accounts, an unemployment
+insurance fund and a grain stabilization fund, total
+expenditures amount to 122.55 billion dlrs, the same as the
+estimate in the government's budget last month. The budget also
+estimated a deficit of 29.3 billion dlrs for fiscal 1988.
+ Reuter
+&#3;</BODY></TEXT>

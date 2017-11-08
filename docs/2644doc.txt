@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19062" NEWID="2644">
+<DATE> 6-MAR-1987 11:09:21.55</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM F A
+&#22;&#22;&#1;f0461&#31;reute
+r f BC-SOUTHDOWN-&lt;SDW>-DOWNG   03-06 0074</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SOUTHDOWN &lt;SDW> DOWNGRADED BY S/P</TITLE>
+<DATELINE>    NEW YORK, March 6 - </DATELINE><BODY>Standard and Poor's said it lowered its
+rating of Southdown Inc's 50 mln dlrs of sinking fund
+debentures to BB-plus from BBB and removed the issue from
+Creditwatch.
+    The downgrading reflects higher debt levels from the
+debt-financed repurchase of 89 mln dlrs worth of common shares,
+combined with a bleaker earnings outlook due to weakness in key
+energy and Southwest cement markets.
+ Reuter
+&#3;</BODY></TEXT>

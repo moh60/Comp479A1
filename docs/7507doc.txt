@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12420" NEWID="7507">
+<DATE>19-MAR-1987 18:42:54.52</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>nasdaq</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2739&#31;reute
+h f BC-TOFRUZEN-&lt;YUMYC>-TO-R   03-19 0039</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TOFRUZEN &lt;YUMYC> TO REMAIN LISTED ON NASDAQ</TITLE>
+<DATELINE>    ENGLEWOOD, Colo., March 19 - </DATELINE><BODY>Tofruzen Inc said it received
+an exception to the NASD's asset requirement, allowing its
+units, common stock and warrants to remain listed on the NASDAQ
+system.
+ Reuter
+&#3;</BODY></TEXT>

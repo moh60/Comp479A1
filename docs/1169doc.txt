@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16489" NEWID="1169">
+<DATE> 3-MAR-1987 12:32:55.67</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0083&#31;reute
+s f BC-PAINE-WEBBER-RESIDENT   03-03 0040</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PAINE WEBBER RESIDENTIAL REALTY INC &lt;PWM> DIV</TITLE>
+<DATELINE>    COLUMBIA, Md. March 3 -
+    </DATELINE><BODY>Qtrly 25 cts vs 16 cts
+    Pay March 30
+    Record March 13
+    NOTE: Prior qtr is for two months operation, October and
+November and represents a parital dividend.
+ Reuter
+&#3;</BODY></TEXT>

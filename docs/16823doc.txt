@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1358" NEWID="16823">
+<DATE>17-APR-1987 09:34:56.29</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0219&#31;reute
+r f BC-GROWTH-STOCK-OUTLOOK   04-17 0040</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GROWTH STOCK OUTLOOK &lt;GSO> ASSET VALUE UP</TITLE>
+<DATELINE>    BETHESDA, Md., April 17 - </DATELINE><BODY>Growth Stock Outlook Trust Inc
+said its asset value as of March 31 was 141.4 mln dlrs or 9.83
+dlrs per share, up from 117.3 mln dlrs or 9.38 dlrs per share a
+year earlier.
+ Reuter
+&#3;</BODY></TEXT>

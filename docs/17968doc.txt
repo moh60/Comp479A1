@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7413" NEWID="17968">
+<DATE> 2-JUN-1987 08:54:46.11</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D><D>italy</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F Y
+&#22;&#22;&#1;f0823&#31;reute
+u f BC-ENI-UNIT-AGIP-PETROLI   06-02 0097</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ENI UNIT AGIP PETROLI BUYS STAKE IN U.S. COMPANY</TITLE>
+<DATELINE>    Rome, June 2 - </DATELINE><BODY>A subsidiary of state energy concern Ente
+Nazionali Idrocarburi &lt;ENTN.MI> (ENI) said it has acquired a 50
+pct stake in &lt;Steuart Petroleum Co>, an independent U.S. Oil
+products company. Financial terms were not disclosed.
+    Agip Petroli Spa said in a statement that the remaining 50
+pct of the U.S. Firm is owned by &lt;Steuart Investment Co>, a
+holding company which also has interests transportation, hotels
+and insurance.
+    The Italian firm said Steuart Petroleum operates primarily
+on the East Coast of the U.S.
+ Reuter
+&#3;</BODY></TEXT>

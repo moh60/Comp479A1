@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18430" NEWID="2012">
+<DATE> 5-MAR-1987 09:31:01.67</DATE>
+<TOPICS><D>ship</D></TOPICS>
+<PLACES><D>turkey</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G T M
+&#22;&#22;&#1;f0051&#31;reute
+u f BC-BLIZZARD-CLOSES-BOSPH   03-05 0099</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BLIZZARD CLOSES BOSPHORUS</TITLE>
+<DATELINE>    ISTANBUL, March 5 - </DATELINE><BODY>Blizzard conditions halted shipping
+through the Bosphorus waterway and piled snow up to 70 cms deep
+in central Istanbul, paralysing the city for the second day
+running.
+    Snow whipped by 48 kph winds continued to fall on Istanbul
+and northwest Anatolia after 36 hours and weather reports
+predicted no relief for another two days.
+    Port officials said at least six large vessels in the Black
+Sea and 13 in the Sea of Marmara were waiting for conditions to
+improve.
+    Istanbul's Ataturk international airport has been closed
+since yesterday.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4614" NEWID="15436">
+<DATE> 9-APR-1987 07:27:42.32</DATE>
+<TOPICS><D>money-fx</D><D>interest</D></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0466&#31;reute
+b f BC-U.K.-MONEY-MARKET-GET   04-09 0069</UNKNOWN>
+<TEXT>&#2;
+<TITLE>U.K. MONEY MARKET GETS 103 MLN STG HELP</TITLE>
+<DATELINE>    LONDON, April 9 - </DATELINE><BODY>The Bank of England said it operated in
+the money market this morning, buying 103 mln stg bank bills.
+    The central bank bought in band one 60 mln stg at 9-7/8, in
+band two eight mln at 9-13/16, in band three 26 mln at 9-3/4
+and in band four nine mln stg at 9-11/16 pct.
+    This compares with the bank's forecast of a 400 mln stg
+shortfall today.
+ REUTER
+&#3;</BODY></TEXT>

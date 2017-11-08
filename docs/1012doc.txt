@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16332" NEWID="1012">
+<DATE> 3-MAR-1987 09:37:19.17</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>switzerland</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0338&#31;reute
+u f BC-DAI-ICHI-HOTEL-SWISS   03-03 0080</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DAI-ICHI HOTEL SWISS FRANC NOTES COUPON CUT</TITLE>
+<DATELINE>    ZURICH, March 3 - </DATELINE><BODY>The coupon on Dai-Ichi Hotel Ltd's 50 mln
+Swiss franc issue of five-year notes with equity warrants has
+been cut to 1-5/8 pct from the indicated 1-7/8 pct, lead
+manager Swiss Volksbank said.
+    The warrants have an exercise price of 1,507 yen per share,
+compared with the last traded price of 1,470 yen, it said.
+    The notes are guarantees by Long-Term Credit Bank of Japan
+Ltd. Payment is due on March 25.
+ REUTER
+&#3;</BODY></TEXT>

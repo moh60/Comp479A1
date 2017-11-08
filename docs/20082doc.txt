@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20677" NEWID="20082">
+<DATE>20-OCT-1987 07:12:33.87</DATE>
+<TOPICS><D>money-fx</D></TOPICS>
+<PLACES></PLACES>
+<PEOPLE><D>stoltenberg</D></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM V 
+&#22;&#22;&#1;f0577&#31;reute
+f f BC-Further-marked-dollar   10-20 0012</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE>Further marked dollar fall would burden U.S. Trade deficit -Stoltenberg
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

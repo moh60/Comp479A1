@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14307" NEWID="8786">
+<DATE>24-MAR-1987 11:00:14.01</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A RM
+&#22;&#22;&#1;f1247&#31;reute
+u f BC-FORD-&lt;F>-CREDIT-UNIT   03-24 0111</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FORD &lt;F> CREDIT UNIT SELLS NOTES AT 8.13 PCT</TITLE>
+<DATELINE>    NEW YORK, March 24 - </DATELINE><BODY>Ford Motor Credit Co, a unit of Ford
+Motor Co, is raising 200 mln dlrs via an offering of notes due
+1997 yielding 8.13 pct, said sole manager Salomon Brothers.
+    The notes have an eight pct coupon and were priced at
+99.125 to yield 88 basis points over comparable Treasuries.
+    That matches the spread over Treasuries for the finance
+unit's equal-sized, same-maturity offering on January 6 that
+was priced to yield 7.948 pct. This deal was rated A-2 by
+Moody's and AA-minus by Standard and Poor's.
+    Non-callable for five years, today's issue is rated A-1 by
+Moody's and AA-minus by S and P.
+ Reuter
+&#3;</BODY></TEXT>

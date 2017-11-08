@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14081" NEWID="8560">
+<DATE>23-MAR-1987 17:43:20.58</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2580&#31;reute
+r f BC-BURNHAM-SLEEPY-HOLLOW   03-23 0054</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BURNHAM SLEEPY HOLLOW &lt;DOZEZ> CONVERTS TO CORP</TITLE>
+<DATELINE>    SAN DIEGO, Calif., March 23 - </DATELINE><BODY>Partners of Burnham Sleepy
+Hollow Ltd said they voted to convert the limited partnership
+to a California corporation, called Burnham Pacific Properties
+Inc.
+    The new corporation will become a real estate investment
+trust, effective March 31.
+ Reuter
+&#3;</BODY></TEXT>

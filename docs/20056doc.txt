@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20651" NEWID="20056">
+<DATE>20-OCT-1987 06:14:40.08</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f0447&#31;reute
+f f BC-Blue-Arrow-says-Conse   10-20 0012</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE>Blue Arrow says Conservative Party Chairman Norman Tebbit to join board
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="NOT-USED" CGISPLIT="PUBLISHED-TESTSET" OLDID="21543" NEWID="12686">
+<DATE> 2-APR-1987 14:43:59.58</DATE>
+<TOPICS><D>crude</D><D>nat-gas</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;Y
+&#22;&#22;&#1;f2176&#31;reute
+r f BC-SUN-&lt;SUN>-IN-NORTH-DA   04-02 0066</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SUN &lt;SUN> IN NORTH DAKOTA OIL FIND</TITLE>
+<DATELINE>    DALLAS, April 2 - </DATELINE><BODY>Sun Co Inc said the O.M. Steel Federal
+Number One well in Williams County, N.D., flowed 660 barrels of
+oil and 581,000 cubic feet of natural gas per day through a
+13/64 inch choke from depths of 13,188 to 13,204 feet.
+    Sun said it has a 50 pct interest and Comdisco Resources
+Inc the remainder.  An offset well is under consideration, it said.
+ Reuter
+&#3;</BODY></TEXT>

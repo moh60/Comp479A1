@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="2467" NEWID="13484">
+<DATE> 7-APR-1987 06:38:56.86</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>hong-kong</D><D>japan</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0367&#31;reute
+u f BC-PAKISTAN-FIRM-RAISES   04-07 0058</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PAKISTAN FIRM RAISES THREE BILLION YEN IN JAPAN</TITLE>
+<DATELINE>    HONG KONG, April 7 - </DATELINE><BODY>The National Development Finance Corp
+of Pakistan has raised three billion yen through private
+placement, arranger Daiwa Securities Co Ltd said.
+    The seven year "Shibosai" issue in the Tokyo domestic market
+carries interest at 6.9 pct. No other details were available.
+ REUTER
+&#3;</BODY></TEXT>

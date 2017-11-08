@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18852" NEWID="2434">
+<DATE> 5-MAR-1987 16:11:33.07</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0744&#31;reute
+r f BC-LONE-STAR&lt;LCE>-AGREES   03-05 0062</UNKNOWN>
+<TEXT>&#2;
+<TITLE>LONE STAR&lt;LCE> AGREES TO BUY CONCRETE OPERATIONS</TITLE>
+<DATELINE>    GREENWICH, Conn., March 5 - </DATELINE><BODY>Lone Star Industries Inc said
+it has agreed to acquire ready-mixed concrete and aggregates
+businesses from &lt;Riedel International Inc> of Portland, Ore.,
+for an undisclosed amount of cash.
+    Lone Star's one sentence statement gave no further details
+and company spokesmen were not available.
+ Reuter
+&#3;</BODY></TEXT>

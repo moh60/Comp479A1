@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="3380" NEWID="14397">
+<DATE> 7-APR-1987 14:55:15.76</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F
+&#22;&#22;&#1;f2114&#31;reute
+d f BC-avinda-debentures   04-07 0080</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AVINDA DEBENTURES CONVERTED TO COMMON SHARES</TITLE>
+<DATELINE>    TORONTO, April 7 - </DATELINE><BODY>&lt;Avinda Video Inc> said its debenture
+holders agreed to convert 3.3 mln dlrs of 13 pct subordinated
+debentures to common stock at a conversion price of 40 cts a
+share, subject to shareholder and regulatory approval.
+    Avinda said the debt conversion will inject 3,140,000 dlrs
+of equity into the company, increase net book value per share
+to 22 cts from five cts, and reduce annual interest costs by
+428,000 dlrs.
+ Reuter
+&#3;</BODY></TEXT>

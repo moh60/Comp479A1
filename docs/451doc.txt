@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12634" NEWID="451">
+<DATE> 2-MAR-1987 10:39:20.23</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0731&#31;reute
+b f BC-/OLIVER'S-STORES-&lt;OLV   03-02 0037</UNKNOWN>
+<TEXT>&#2;
+<TITLE>OLIVER'S STORES &lt;OLVR> FILES CHAPTER 11</TITLE>
+<DATELINE>    RIDGEFIELD, N.J., March 2 - </DATELINE><BODY>Oliver's Stores Inc said it has
+decided to reorganize under Chapter 11 of the federal
+bankruptcy laws and will file a petition by the end of this
+week.
+    The company said it has failed to reach agreement with
+primary lenders Manufacturers Hanover Corp &lt;MHC> and Midlantic
+Corp &lt;MIDL> on a debt restructuring.
+    It said Manufacturers has declared the company in default
+and demanded repayment of about six mln dlrs in debt.
+ Reuter
+&#3;</BODY></TEXT>

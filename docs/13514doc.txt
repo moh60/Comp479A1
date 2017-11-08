@@ -1,0 +1,33 @@
+
+<REUTERS TOPICS="BYPASS" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="2497" NEWID="13514">
+<DATE> 7-APR-1987 07:07:17.69</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G
+&#22;&#22;&#1;f0407&#31;reute
+b f BC-malaysian-palm-oil--   04-07 0049</UNKNOWN>
+<TEXT TYPE="UNPROC">&#2;
+Malaysian palm oil - april 7
+ (prices un us dlrs/tonne local
+ fob malaysian ports, bulk)
+ rbd pal oil
+ apl 325 slr
+ may 322.50 slr 318
+ jne 322.50 slr
+ jly 320 slr
+ rbd olein
+ apl 332.50 slr 330
+ may 335 slr 332.50
+ jne 335 slr
+ jly 335 slr 332.50
+ rbd stearin
+ apl/may 277.50 slr
+ the rest unquoted
+&#3;
+
+</TEXT>

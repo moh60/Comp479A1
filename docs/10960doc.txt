@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17021" NEWID="10960">
+<DATE>30-MAR-1987 13:42:52.70</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2058&#31;reute
+d f BC-&lt;VISTA-MANAGEMENT-INC   03-30 0048</UNKNOWN>
+<TEXT>&#2;
+<TITLE>&lt;VISTA MANAGEMENT INC> TO MAKE ACQUISITION</TITLE>
+<DATELINE>    HIALEAH, Fla., March 30 - </DATELINE><BODY>Vista Management Inc said it has
+agreed to acquire General Energy Development Inc for over
+2,200,000 dlrs in cash, with financing to come from mortgage
+loans on the National Auto Service Centers General Energy
+operates.
+ Reuter
+&#3;</BODY></TEXT>

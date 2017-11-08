@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="2750" NEWID="13767">
+<DATE> 7-APR-1987 09:44:45.91</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0815&#31;reute
+r f BC-REXON-&lt;REXN>-SHARE-OF   04-07 0050</UNKNOWN>
+<TEXT>&#2;
+<TITLE>REXON &lt;REXN> SHARE OFFERING UNDERWAY</TITLE>
+<DATELINE>    CULVER CITY, Calif., April 7 - </DATELINE><BODY>Rexon Inc said an offering
+of two mln common shares is underway at 13.25 dlrs per share
+through underwriters led by Hambrecht and Quist Inc.
+    Underwriters have been granted an overallotment option for
+up to 300,000 more shares.
+ Reuter
+&#3;</BODY></TEXT>

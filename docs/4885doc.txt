@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9798" NEWID="4885">
+<DATE>13-MAR-1987 12:38:08.21</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0680&#31;reute
+r f BC-CNW-&lt;CNW>-MAKES-PRIVA   03-13 0059</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CNW &lt;CNW> MAKES PRIVATE BOND PLACEMENT</TITLE>
+<DATELINE>    CHICAGO, March 13 - </DATELINE><BODY>CNW Corp said its subsidiary, Chicago
+and North Western Transportation Co, sold in a private
+placement 25 mln dlrs of Consolidated Mortgage 9.9 pct Bonds,
+Series C, due 1992.
+    It said Morgan Stanley and Co Inc acted as placement agent.
+Proceeds will be used for general corporate purposes.
+ Reuter
+&#3;</BODY></TEXT>

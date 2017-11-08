@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="8290" NEWID="19962">
+<DATE>29-JUN-1987 18:31:52.94</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2765&#31;reute
+u f BC-CYCLOPS-&lt;CYL>-HOLDERS   06-29 0105</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CYCLOPS &lt;CYL> HOLDERS APPROVE DIXONS MERGER</TITLE>
+<DATELINE>    NEW YORK, June 29 - </DATELINE><BODY>Dixons Group Plc said shareholders at a
+special meeting of Cyclops Corp approved the previously
+announced merger of Cyclops with Dixons.
+    Under the terms of the merger, Dixons said the remaining
+public Cyclops shareholders are to receive 95 dlrs a share.
+    Dixons also said the previously announced sale of Cyclops
+steel and nonresidential construction businesses to a former 
+Alleghany Corp &lt;Y> subsidiary is expected to be completed June
+30. After the sale, Cyclops will retain its specialty retailing
+business and change its name to Silo Inc, said Dixons.
+ Reuter
+&#3;</BODY></TEXT>

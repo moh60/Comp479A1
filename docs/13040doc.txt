@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="2009" NEWID="13040">
+<DATE> 3-APR-1987 13:41:26.38</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1847&#31;reute
+r f BC-TRIBUNE-&lt;TRB>-FILES-3   04-03 0051</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TRIBUNE &lt;TRB> FILES 300 MLN DLR SHELF REGISTRATION</TITLE>
+<DATELINE>    CHICAGO, April 3 - </DATELINE><BODY>Tribune Co said it filed a shelf
+registration with the Securities and Exchange Commission for
+300 mln dlrs in debt securities.
+    Underwriters may include Salomon Bros Inc and Merrill
+Lynch, it said. Proceeds will be for general needs.
+ Reuter
+&#3;</BODY></TEXT>

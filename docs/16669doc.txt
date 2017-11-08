@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1204" NEWID="16669">
+<DATE>13-APR-1987 16:26:28.59</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D><D>japan</D><D>norway</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2542&#31;reute
+r f BC-GENERAL-MOTORS-&lt;GM>-G   04-13 0071</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GENERAL MOTORS &lt;GM> GETS 97 MLN DLR CONTRACT</TITLE>
+<DATELINE>    WASHINGTON, April 13 - </DATELINE><BODY>General Motors Corp is being awarded
+a 97 mln dlr Air Force contract for 176 turboprop engines in
+three separate designs, the Defense Department said.
+    It said the contract, which combines purchases for the U.S.
+Navy, the U.S. Air Force Reserves, Japan and Norway under the
+Foreign Military Sales program, is expected to be completed in
+December 1987.
+ Reuter
+&#3;</BODY></TEXT>

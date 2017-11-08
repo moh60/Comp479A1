@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15456" NEWID="9935">
+<DATE>26-MAR-1987 11:12:45.67</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D><D>uk</D><D>sweden</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F A
+&#22;&#22;&#1;f1412&#31;reute
+r f BC-SWEDISH-BANK,-U.S.-FI   03-26 0106</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SWEDISH BANK, U.S. FIRM PLAN U.K. STOCK VENTURE</TITLE>
+<DATELINE>    NEW YORK, March 26 - </DATELINE><BODY>Sweden's Skandinaviska Enskilda Banken
+said it will set up a joint venture in London with U.S.
+brokerage firm Equitable Securities Corp of Nashville, Tenn.,
+for the sale of U.S. equities in Europe.
+    S-E Bank's managing director Jacob Palmstierna told a press
+briefing that the joint venture, called Equitable Enskilda
+Securities Ltd, will be established next month.
+    S-E Bank bought a 4.9 pct stake in Equitable Securities
+about two weeks ago. Equitable's role in the joint venture will
+include provision of research on firms in the south-east United
+States.
+ Reuter
+&#3;</BODY></TEXT>

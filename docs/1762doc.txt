@@ -1,0 +1,20 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18180" NEWID="1762">
+<DATE> 4-MAR-1987 15:37:43.16</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0636&#31;reute
+d f BC-EPITOPE-&lt;EPTO>-TO-MAR   03-04 0030</UNKNOWN>
+<TEXT>&#2;
+<TITLE>EPITOPE &lt;EPTO> TO MARKET AIDS TEST</TITLE>
+<DATELINE>    BEAVERTON, Ore., March 4 - </DATELINE><BODY>Epitope Inc said it has
+developed a Western Blot AIDS test and it will begin worldwide
+marketing efforts immediately.
+ Reuter
+&#3;</BODY></TEXT>

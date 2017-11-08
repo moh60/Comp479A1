@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="8099" NEWID="19771">
+<DATE>29-JUN-1987 13:23:21.29</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1903&#31;reute
+d f BC-ATTN-IAN-resending   06-29 0051</UNKNOWN>
+<TEXT>&#2;
+<TITLE>UNICORP &lt;UAC> POSTS GAIN ON PROPERTY SALE</TITLE>
+<DATELINE>    NEW YORK, June 29 - </DATELINE><BODY>Unicorp American Corp &lt;UAC.A> said it
+will take an after-tax gain in the second quarter of 1.5 mln
+dlrs from the sale of three properties in the Boston area.
+    It said the properties were sold for aggregate proceeds of
+about 6.3 mln dlrs.
+ Reuter
+&#3;</BODY></TEXT>

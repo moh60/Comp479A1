@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4611" NEWID="15433">
+<DATE> 9-APR-1987 07:25:34.63</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>brazil</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;A
+&#22;&#22;&#1;f0456&#31;reute
+r f BC-THREE-BRAZILIAN-GOVER   04-09 0094</UNKNOWN>
+<TEXT>&#2;
+<TITLE>THREE BRAZILIAN GOVERNORS SEEK REMOVAL OF FUNARO</TITLE>
+<DATELINE>    SAO PAULO, April 8 - </DATELINE><BODY>Brazil's three most powerful state
+governors have joined forces to seek the removal of Finance
+Minister Dilson Funaro.
+    The governors of Sao Paulo, Rio de Janeiro and Minas Gerais
+told a news conference they want changes in the cabinet and in
+the shaping of economic policy, with Funaro singled out for
+criticism by Sao Paulo governor Orestes Quercia.
+    They made their call while Funaro is in Washington holding
+talks with creditors on rescheduling Brazil's 111 billion dlr
+foreign debt.
+reuter^M
+&#3;</BODY></TEXT>

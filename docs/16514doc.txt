@@ -1,0 +1,20 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1049" NEWID="16514">
+<DATE>13-APR-1987 13:25:01.31</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>amex</D><D>nasdaq</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1991&#31;reute
+u f BC-AMEX-STARTS-TRADING-A   04-13 0036</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AMEX STARTS TRADING AMERICAN BUSINESSPHONES &lt;AB></TITLE>
+<DATELINE>     NEW YORK, April 13 - </DATELINE><BODY>The &lt;American Stock Exchange> said it
+has started trading American Businessphones Inc's common
+shares, which had traded on the NASDAQ system.
+ Reuter
+&#3;</BODY></TEXT>

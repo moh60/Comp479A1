@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="BYPASS" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="3360" NEWID="14377">
+<DATE> 7-APR-1987 12:45:34.95</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;GQ
+&#22;&#22;&#1;f1651&#31;reute
+r f BC-mpls-grain-carlots   04-07 0068</UNKNOWN>
+<TEXT TYPE="UNPROC">&#2;
+MINNEAPOLIS GRAIN CARLOTS APRIL 7
+   (in thousands/cars)
+           RECEIPTS YEAR AGO SHIPMENTS
+ WHEAT       186      54        71
+ CORN          1       2         0
+ OATS          5       0         0
+ BARLEY       90      41        58
+ RYE           1       0         0
+ SOYBEANS      0       1         0
+ SUNFLOWER     1      11         0
+ FLOUR         0       0        38
+ Reuter
+&#3;
+
+</TEXT>

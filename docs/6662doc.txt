@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11575" NEWID="6662">
+<DATE>18-MAR-1987 13:35:14.41</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f8902&#31;reute
+r f BC-ALLIED-BANKSHARES-&lt;AL   03-18 0059</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ALLIED BANKSHARES &lt;ALBN> SHARE OFFER EFFECTIVE</TITLE>
+<DATELINE>    THOMSON, Ga., March 18 - </DATELINE><BODY>Allied Bankshares Inc said its
+registration statement covering a 500,000 share offering was
+declared effective.
+    The company said the stock will be sold at 12.50 dlrs a
+share through an offering underwritten by Johnson Lane Space
+Smith and Co Inc and Interstate Securities Corp.
+ Reuter
+&#3;</BODY></TEXT>

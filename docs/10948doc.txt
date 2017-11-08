@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17009" NEWID="10948">
+<DATE>30-MAR-1987 13:29:47.37</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>saudi-arabia</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A
+&#22;&#22;&#1;f2013&#31;reute
+r f BC-BANKS-FILE-SUIT-AGAIN   03-30 0108</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BANKS FILE SUIT AGAINST SAUDI COMPANY</TITLE>
+<DATELINE>    BAHRAIN, March 30 - </DATELINE><BODY>Four international banks have filed
+claims for 131.2 mln riyals against the owners of Saudi
+construction and trading group Abdulla Fouad and Sons Co,
+bankers and lawyers in the Kingdom said.
+    Bankers said the suit may prove to be a test case for banks
+which have so far been largely frustrated in their attempts to
+reclaim loans through the Saudi Arabian legal system.
+    Citibank N.A., Bank of America NT and SA, Arab Banking Corp
+(ABC) and the Bank of Bahrain and Kuwait (BBK) filed claims
+with a special Saudi court under the jurisdiction of the
+Ministry of Commerce on March 7.
+ Reuter
+&#3;</BODY></TEXT>

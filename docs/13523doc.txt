@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="2506" NEWID="13523">
+<DATE> 7-APR-1987 07:14:24.40</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;CQ GQ MQ
+&#22;&#22;&#1;f0417&#31;reute
+u f BC-CBT-DELIVERY-NOTICES   04-07 0052</UNKNOWN>
+<TEXT TYPE="UNPROC">&#2;
+CBT DELIVERY NOTICES
+    April 7 for delivery on April 8
+ original              last date into which
+ notices               commodity was assigned
+ (grains in thousand bushels)
+ Wheat, Corn, Oats, Soybeans 0 bu
+ Soymeal, Soyoil 0 lots
+ Silver            33 lots  Apr  2, 1987
+ Kilo Gold          1 lots  Mar 30, 1987
+ Reuter
+&#3;
+
+</TEXT>

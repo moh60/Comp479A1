@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="8071" NEWID="19743">
+<DATE>29-JUN-1987 12:46:33.14</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1778&#31;reute
+r f BC-TELEQUEST-&lt;TELQ.O>-CH   06-29 0048</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TELEQUEST &lt;TELQ.O> CHAIRMAN RESIGNS</TITLE>
+<DATELINE>    SAN DIEGO, Calif., June 219 - </DATELINE><BODY>Telequest Inc said Henry
+Marcheschi, its chairman and president, resigned for health
+reasons.
+    Executive vice president Robert Lee was elected president
+and chief executive to succeed Marcheschi, the company said.
+
+ Reuter
+&#3;</BODY></TEXT>

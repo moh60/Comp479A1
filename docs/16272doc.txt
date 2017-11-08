@@ -1,0 +1,34 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="807" NEWID="16272">
+<DATE>13-APR-1987 09:58:11.67</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0972&#31;reute
+u f BC-ALCIDE-&lt;ALCD.O>-SAYS   04-13 0075</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ALCIDE &lt;ALCD.O> SAYS TESTS ENCOURAGING</TITLE>
+<DATELINE>    NORWALK, Conn., April 13 - </DATELINE><BODY>Alcide Corp said preliminary
+experimental results obtained using a formulation it has
+developed for the disinfection of blood platelets indicate
+feasibility for the approach.
+    The company notes there have been recent increases in
+reports of transmission of microbial infections in recipients
+of platelets, which are used in blood transfusions in patients
+undergoing cancer therapy.
+    The company said related whole blood tests with baboon
+blood showed no significant loss of in vitro activities or
+survival.
+    The company said as a followup to the studies on thje
+bacterial disinfection of platelets, it is planning to evaluate
+the system for the inactivation of several viruses in the
+presence of platelets.  The viruses include Herpes Simplex
+Virus Type I, cytomegalovirus and Human Immunodeficiency Virus,
+which is responsible for AIDS.
+ Reuter
+&#3;</BODY></TEXT>

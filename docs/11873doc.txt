@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="101" NEWID="11873">
+<DATE> 1-APR-1987 08:34:15.18</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0696&#31;reute
+r f BC-VISUAL-TECHNOLOGY-&lt;VS   04-01 0112</UNKNOWN>
+<TEXT>&#2;
+<TITLE>VISUAL TECHNOLOGY &lt;VSALC> CONTROL CHANGES</TITLE>
+<DATELINE>    LOWELL, Mass., April 1 - </DATELINE><BODY>Visual Technology Inc said a group
+led by &lt;Hambrecht and Quist Group> has acquired majority
+ownership of Visual for 9,250,000 dlrs in equity financing.
+    The company said Hambrecht and Quist president William R.
+Hambrecht and three other Hambrecht and Quist representatives
+have been named to the Visual board, with Robert M. Morrill,
+managing partner of the Boston office of Hambrecht's Hambrecht
+and Quist Venture Partners unit named chairman.  Clifford G.
+Zimmer Jr. remains president and chief executive officer.
+    Visual also said about nine mln dlrs of its debt has been
+converted to equity.
+ Reuter
+&#3;</BODY></TEXT>

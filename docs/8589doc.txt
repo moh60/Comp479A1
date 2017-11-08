@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14110" NEWID="8589">
+<DATE>23-MAR-1987 23:17:10.29</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>bolivia</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F M C
+&#22;&#22;&#1;f2787&#31;reute
+u f BC-BOLIVIAN-MINERS,-GOVE   03-23 0112</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BOLIVIAN MINERS, GOVERNMENT CONTINUE STRIKE TALKS</TITLE>
+<DATELINE>    LA PAZ, March 23 - </DATELINE><BODY>Union leaders of 9,000 miners employed
+by the state corporation Comibol and government representatives
+will resume talks tomorrow in an effort to end a six-day strike
+over pay, a spokesman for the miners said.
+    A labour ministry spokesman said the talks, which began
+today, were suspended when labour minister Alfredo Franco left
+to attend a session of Congress also attended by visiting West
+German President Richard von Weizsaecker.
+    But mining minister Jaime Villalobos told reporters an
+agreement in principle on the rehabilitation of Comibol had
+been reached. He did not elaborate.
+ REUTER
+&#3;</BODY></TEXT>

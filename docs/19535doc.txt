@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7863" NEWID="19535">
+<DATE>29-JUN-1987 05:57:40.57</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>hong-kong</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f0399&#31;reute
+u f BC-SAMSUNG-SEMICONDUCTOR   06-29 0115</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SAMSUNG SEMICONDUCTORS SIGNS FOR 22 MLN DLR LOAN</TITLE>
+<DATELINE>    HONG KONG, June 29 - </DATELINE><BODY>&lt;Samsung Semiconductors Inc>, the U.S.
+Subsidiary of South Korea's &lt;Samsung Semiconductors and
+Telecommunications Co Ltd>, has signed for a 22 mln U.S. Dlr
+loan, arranger LTCB Asia Ltd said.
+    The eight year loan has a four year grace period. Interest
+is set at 1/4 percentage point over London interbank offered
+rate for the first two years, rising to 3/8 point thereafter.
+Management fee is 1/2 pct flat including a 1/4 pct praecipium.
+    Participating in the loan, in addition to LTCB, are Credit
+Lyonnais, Daiwa Overseas Finance Ltd, Taiyo Kobe Finance
+Hongkong Ltd and Takugin International (Asia) Ltd.
+ REUTER
+&#3;</BODY></TEXT>

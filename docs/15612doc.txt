@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5510" NEWID="15612">
+<DATE> 9-APR-1987 11:00:45.64</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D><D>philippines</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1214&#31;reute
+d f BC-CANNON-INT'L-&lt;CAN>-SE   04-09 0054</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CANNON INT'L &lt;CAN> SETS PHILIPPINES FILM PACT</TITLE>
+<DATELINE>    LOS ANGELES, April 9 - </DATELINE><BODY>Cannon International said &lt;Viva
+Films International> agreed to exclusively distribute Cannon
+films in the Philippines for the new four years.
+    The company said the agreement covers both theatrical and
+video distribution. Terms were not disclosed.
+
+ Reuter
+&#3;</BODY></TEXT>

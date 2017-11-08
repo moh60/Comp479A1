@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5407" NEWID="15509">
+<DATE> 9-APR-1987 09:26:35.71</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0813&#31;reute
+b f BC-/K-MART-&lt;KM>-MARCH-SA   04-09 0072</UNKNOWN>
+<TEXT>&#2;
+<TITLE>K MART &lt;KM> MARCH SALES SHOW INCREASE</TITLE>
+<DATELINE>    TROY, MICH., April 9 - </DATELINE><BODY>K mart Corp said its sales for the
+five weeks ended April One rose 4.6 pct to 2.18 billion dlrs
+from 2.08 billion dlrs a year earlier. On a comparable store
+basis, sales rose one-tenth of one pct.
+    It said year-to-date sales increased 7.9 pct to 3.64
+billion dlrs from 3.37 billion dlrs in the same 1986 period. On
+a comparable store basis, the increase was 3.2 pct.
+ Reuter
+&#3;</BODY></TEXT>

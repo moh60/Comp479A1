@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20304" NEWID="21133">
+<DATE>19-OCT-1987 13:56:40.48</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2424&#31;reute
+a f BC-COMMUNICATIONS-AND-CA   10-19 0052</UNKNOWN>
+<TEXT>&#2;
+<TITLE>COMMUNICATIONS AND CABLE &lt;CCAB.O> BUYS STAKE</TITLE>
+<DATELINE>    WEST PALM BEACH, Fla., Oct 19 - </DATELINE><BODY>Communications and Cable
+Inc said it acquired about 21 pct of the outstanding shares of
+Imnet Corp, a privately owned company that designs, makes and
+services proprietary image storage and retrieval systems. Terms
+were not disclosed.
+ Reuter
+&#3;</BODY></TEXT>

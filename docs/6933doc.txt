@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11846" NEWID="6933">
+<DATE>18-MAR-1987 18:51:10.50</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f9778&#31;reute
+h f BC-ALLIED-BANKSHARES-&lt;AL   03-18 0043</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ALLIED BANKSHARES &lt;ALBN> OFFERS STOCK</TITLE>
+<DATELINE>    THOMSON, Ga., March 18 - </DATELINE><BODY>Allied Bankshares Inc said it
+offered 500,000 shares of stock at 12.50 dlrs a share.
+    The offering is underwritten by Johnson, Lane, Space, Smith
+and Co Inc and Interstate Securities Corp.
+ Reuter
+&#3;</BODY></TEXT>

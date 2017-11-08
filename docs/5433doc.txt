@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10346" NEWID="5433">
+<DATE>16-MAR-1987 11:39:52.32</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2542&#31;reute
+h f BC-PLESSEY-WINS-TEN-MLN   03-16 0097</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PLESSEY WINS TEN MLN STG PAYPHONE ORDERS</TITLE>
+<DATELINE>    LONDON, March 16 - </DATELINE><BODY>The Plessey Co Plc &lt;PLYL.L> said it won
+initial orders for more than 10 mln stg for "intelligent' coin
+and cashless payphones from seven European telephone
+administrations. The major orders were from Sweden's
+&lt;Televerket>, Spain's &lt;Telefonica SA> and British
+Telecommunications Plc &lt;BTY.L>.
+    It said that the Finnish PTT had also invited the company
+to install a field trial for Finland.
+    Sales executive Peter Findlay told reporters that Plessey
+was negotiating on further contracts with several other
+countries.
+ Reuter
+&#3;</BODY></TEXT>

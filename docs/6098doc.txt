@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11011" NEWID="6098">
+<DATE>17-MAR-1987 12:47:30.60</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f5805&#31;reute
+r f BC-GALAXY-OIL-&lt;GOX>-CRED   03-17 0110</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GALAXY OIL &lt;GOX> CREDITORS TO FORECLOSE ASSETS</TITLE>
+<DATELINE>    WICHITA FALLS, Texas, March 17 - </DATELINE><BODY>Galaxy Oil Co said it was
+notified by its secured bank lenders that they plan to
+foreclose on the company's material assets on April 7.
+    The company, which is in default of its 26.5 mln dlrs of
+bank debt and all of its other interest bearing debt, said it
+is unlikely that its board will accept the banks' latest offer
+for restructuring its debt.
+    Galaxy said that if an agreement cannot be reached with its
+lenders, it plans to file for Chapter 11 reorganization on or
+before April 7. It added that it is holding talks with other
+parties on debt restructuring alternatives.
+ Reuter
+&#3;</BODY></TEXT>

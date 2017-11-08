@@ -1,0 +1,30 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17155" NEWID="11094">
+<DATE>30-MAR-1987 16:54:20.27</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2600&#31;reute
+d f BC-BASIC-AMERICAN-&lt;BAMI>   03-30 0116</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BASIC AMERICAN &lt;BAMI> NOTE ISSUE CANCELED</TITLE>
+<DATELINE>    INDIANAPOLIS, March 30 - </DATELINE><BODY>Basic American Medical Inc said a
+proposed 82 mln dlr note issue will not take place "at this
+time."
+    The company announced on Jan 5, 1987 that it received a
+proposal from Irving Trust Co under which Irving would issue
+its direct pay letter of credit for up to 83.5 mln dlrs to
+secure the proposed note.
+    Basic American also said it engaged the Health Care Capital
+Market Groups of Thomson McKinnon Securities Inc to act as
+investment banker in placement of its proposed notes. The
+company said it will continue to pursue actively the proposed
+note issue and will seek alternative financing in place of the
+note issue.
+ Reuter
+&#3;</BODY></TEXT>

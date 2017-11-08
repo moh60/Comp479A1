@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1106" NEWID="16571">
+<DATE>13-APR-1987 14:27:04.64</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2174&#31;reute
+h f BC-ITS-DEVELOPS-INTERACT   04-13 0057</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ITS DEVELOPS INTERACTIVE VIDEO SYSTEMS</TITLE>
+<DATELINE>    BEDFORD, Mass., April 13 - </DATELINE><BODY>&lt;ITS Inc> said it has completed
+development of two interactive video systems for &lt;Mass Mutual
+Insurance Co> under a two mln dlr development agreement.
+    ITS said the systems are integrated, interactive marketing
+and training programs designed for the insurance industry.
+ Reuter
+&#3;</BODY></TEXT>

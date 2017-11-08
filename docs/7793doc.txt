@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13314" NEWID="7793">
+<DATE>20-MAR-1987 12:09:27.75</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A
+&#22;&#22;&#1;f1528&#31;reute
+u f BC-DUFF/PHELPS-LOWERS-AT   03-20 0110</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DUFF/PHELPS LOWERS ATLANTIC CITY ELECTRIC &lt;ATE></TITLE>
+<DATELINE>    CHICAGO, March 20 - </DATELINE><BODY>Duff and Phelps said it lowered the
+ratings on Atlantic City Electric Co first mortgage bonds,
+collateralized pollution control revenue bonds and debentures
+to DP-5 (high A) from DP-4 (low AA) and preferred stock to DP-6
+(middle A) from DP-5, affecting about 500 mln dlrs in debt.
+    The rating change is a result of a New Jersey Board of
+Public Utilities' decision that lowered overall net rates by
+15.9 mln dlrs, D and P said. The board disallowed about 22.4
+mln dlrs of the utility's 239.8 mln dlrs investment in the Hope
+Creek nuclear plant which will have to be written off by 1988.
+ Reuter
+&#3;</BODY></TEXT>

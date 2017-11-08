@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19247" NEWID="2829">
+<DATE> 6-MAR-1987 15:33:53.08</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0418&#31;reute
+d f BC-FIRST-UNION-&lt;FUNC>-ST   03-06 0054</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FIRST UNION &lt;FUNC> STARTS INVESTMENT NEWSLETTER</TITLE>
+<DATELINE>    CHARLOTTE, N.C., March 6 - </DATELINE><BODY>First Union Corp said its
+Capital Management Group has begun publishing an investment
+newsletter targeted to private investors.
+    The newsletter, Vision, will be published every three
+weeks. Annual subscriptions are 126 dlrs, the company said.
+ Reuter
+&#3;</BODY></TEXT>

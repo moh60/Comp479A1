@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1450" NEWID="16915">
+<DATE>17-APR-1987 16:31:54.98</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0436&#31;reute
+d f BC-GRUMMAN-CORP-&lt;GQ>-GET   04-17 0052</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GRUMMAN CORP &lt;GQ> GETS 77 MLN DLR NAVY CONTRACT</TITLE>
+<DATELINE>    WASHINGTON, April 17 - </DATELINE><BODY>Grumman Aerospace Corp is being
+awarded a 77 mln dlr increment to a Navy contract related to
+fiscal 1988 A-6F aircraft production, the Defense Department
+said.
+    It said work on the contract is expected to be completed in
+October 1990.
+ Reuter
+&#3;</BODY></TEXT>

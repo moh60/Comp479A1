@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20413" NEWID="21024">
+<DATE>19-OCT-1987 15:07:16.28</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F A RM 
+&#22;&#22;&#1;f2754&#31;reute
+r f BC-FIRST-BOSTON-&lt;FBC>-ST   10-19 0092</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FIRST BOSTON &lt;FBC> STRATEGIC REVIEW IS UNDERWAY</TITLE>
+<DATELINE>    NEW YORK, Oct 19 - </DATELINE><BODY>First Boston Inc said it is conducting a
+strategic review of its operations as part of a general policy
+to periodically evaluate its business plans.
+    The company said it is too early to predict the outcome of
+the review, although it does not expect radical changes in its
+organization.
+    Salomon Inc &lt;SB> last week completed a strategic review
+that resulted in substantial layoffs.
+    Other brokerage firms are either engaged in reviews or have
+made major personnel cutbacks.
+ Reuter
+&#3;</BODY></TEXT>

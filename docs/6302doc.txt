@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11215" NEWID="6302">
+<DATE>17-MAR-1987 17:00:03.20</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f6621&#31;reute
+u f BC-CHEVRON-&lt;CHV>-UNIT-GE   03-17 0059</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CHEVRON &lt;CHV> UNIT GETS 50.3 MLN DLR CONTRACT</TITLE>
+<DATELINE>    WASHINGTON, March 17 - </DATELINE><BODY>Chevron Corp's Chevron USA Inc is
+being awarded a 50.3 mln dlr Defense Logistics Agency contract
+for jet fuel, the Defense Department said.
+    It said work on the contract, which was awarded as part of
+a multi-contract procurement program, is expected to be
+completed by April 1988.
+
+ Reuter
+&#3;</BODY></TEXT>

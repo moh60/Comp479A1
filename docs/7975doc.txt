@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13496" NEWID="7975">
+<DATE>20-MAR-1987 16:20:45.72</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2392&#31;reute
+d f BC-VMS-MORTGAGE-&lt;VMTGZ>   03-20 0048</UNKNOWN>
+<TEXT>&#2;
+<TITLE>VMS MORTGAGE &lt;VMTGZ> CASH DISTRIBUTION RISES</TITLE>
+<DATELINE>    CHICAGO, March 20 - </DATELINE><BODY>VMS Mortgage Investors L.P. II said it
+declared a first-quarter 1987 cash distribution of 21 cts a
+depositary unit, up five pct from the prior quarter.
+    It said the distribution will be payable May 14, record
+January 1.
+ Reuter
+&#3;</BODY></TEXT>

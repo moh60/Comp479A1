@@ -1,0 +1,20 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="NOT-USED" CGISPLIT="PUBLISHED-TESTSET" OLDID="21526" NEWID="12669">
+<DATE> 2-APR-1987 13:58:36.62</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>amex</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2010&#31;reute
+r f BC-AMEX-LISTS-PORTAGE-IN   04-02 0029</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AMEX LISTS PORTAGE INDUSTRIES &lt;PTG></TITLE>
+<DATELINE>    NEW YORK, April 2 - </DATELINE><BODY>The American Stock Exchange said it has
+listed the common shares of Portage Industres Corp, which went
+public today.
+ Reuter
+&#3;</BODY></TEXT>

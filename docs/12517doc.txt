@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="1593" NEWID="12517">
+<DATE> 2-APR-1987 09:14:01.88</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0898&#31;reute
+r f BC-ELECTROMEDICS-&lt;ELMD>   04-02 0059</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ELECTROMEDICS &lt;ELMD> TO TAKE 1ST QTR CHARGE</TITLE>
+<DATELINE>    ENGLEWOOD, Colo., April 2 - </DATELINE><BODY>Electromedics Inc said it
+expects to take a 150,000 dlr charge against first quarter
+results due to the conversion of debentures.
+    The company said, however, it expects "positive" operating
+comparisons for the period.  Electromedics lost 6,000 dlrs in
+last year's first quarter.
+ Reuter
+&#3;</BODY></TEXT>

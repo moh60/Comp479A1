@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6712" NEWID="18963">
+<DATE>18-JUN-1987 15:43:57.70</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f4465&#31;reute
+b f BC-ALLEGHENY-&lt;AI>-SELLS   06-18 0085</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ALLEGHENY &lt;AI> SELLS THREE INDUSTRIAL UNITS</TITLE>
+<DATELINE>    PITTSBURGH, June 18 - </DATELINE><BODY>Allegheny International Inc said it
+sold three of its industrial units which served the railroad
+industry to &lt;Chemetron Railway Products Inc>, a senior
+management group of Allegheny.
+    Terms of the transaction were not disclosed.
+    Included in the sale were Chemetron Railway Products, True
+Temper Railway Appliances Inc and Allegheny Axle Co, the
+company said.
+    The three units include 12 plants throughout the U.S., the
+company said.
+ Reuter
+&#3;</BODY></TEXT>

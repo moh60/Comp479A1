@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="BYPASS" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="3456" NEWID="14473">
+<DATE> 7-APR-1987 15:23:38.27</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;M
+&#22;&#22;&#1;f2214&#31;reute
+u f BC-ny-alumin-clsg-report   04-07 0042</UNKNOWN>
+<TEXT>&#2;
+<TITLE>COMEX ALUMINUM FUTURES SETTLE UNCHANGED</TITLE>
+<DATELINE>    NEW YORK, April 7 - </DATELINE><BODY>Comex aluminum futures settled
+unchanged after featureless session.
+    The May contract settled at 61.50 cents a lb after posting
+only a five point range.
+    Estimated volume was 40 lots.
+ Reuter
+&#3;</BODY></TEXT>

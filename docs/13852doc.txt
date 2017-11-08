@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="2835" NEWID="13852">
+<DATE> 7-APR-1987 10:14:04.92</DATE>
+<TOPICS><D>grain</D><D>wheat</D><D>corn</D><D>sorghum</D><D>barley</D><D>oat</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G
+&#22;&#22;&#1;f0939&#31;reute
+u f BC-grain-reserve-holdgs   04-07 0079</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GRAIN RESERVE HOLDINGS -- USDA</TITLE>
+<DATELINE>    WASHINGTON, April 7 - </DATELINE><BODY>The U.S. Agriculture Department gave
+a preliminary breakdown of grain in the Farmer-Owned Grain
+Reserve as of April 1, with comparisons, based on telephone
+reports from farmers filed with the department's Kansas City
+field office, in mln bushels --
+           April 1   Previous
+ Wheat     657.6      659.7
+ Corn    1,406.5    1,397.0
+ Sorghum    95.8       95.5
+ Barley    122.1      122.0
+ Oats        3.7        3.7
+ 
+ Reuter
+&#3;</BODY></TEXT>

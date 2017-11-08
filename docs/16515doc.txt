@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1050" NEWID="16515">
+<DATE>13-APR-1987 13:25:22.44</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1994&#31;reute
+r f BC-FOOTHILL-GROUP-&lt;FGI>   04-13 0076</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FOOTHILL GROUP &lt;FGI> COMPLETES DEBT PLACEMENT</TITLE>
+<DATELINE>    LOS ANGELES, April 13 - </DATELINE><BODY>The Foothill Group Inc said its
+Foothill Captial Corp unit completed the placement of 23 mln
+dlrs in senior debt and 27 mln dlrs in senior subordinated
+debt.
+    Goldman, Sachs and Co privately placed the debt with a
+group of institutional lenders, the company said.
+    It said the senior debt will bear a 9.4 pct interest rate
+and the senior subordinated debt will bear 10.15 pct.
+   
+ Reuter
+&#3;</BODY></TEXT>

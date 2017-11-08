@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11421" NEWID="6510">
+<DATE>18-MAR-1987 10:32:31.71</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f8068&#31;reute
+r f BC-BIDDERS-BUY-SHARES-OF   03-18 0079</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BIDDERS BUY SHARES OF EASTERN UTILITIES &lt;EAU></TITLE>
+<DATELINE>    BOSTON, March 187 - </DATELINE><BODY>Eastern Utilities Associates &lt;EAU> said
+PaineWebber Inc, Prudential-Bache Capital Funding and A.G.
+Edwards and Sons Inc, were the successful bidders for one mln
+of its common shares offered at 36-5/8 dlrs per share.
+    Eastern said it has about 11.7 mln common shares
+outstanding.
+    As previously reported, Eastern said it will use the
+proceeds from the sale to reduce or eliminates its short-term
+debt.
+ Reuter
+&#3;</BODY></TEXT>

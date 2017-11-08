@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="2087" NEWID="13118">
+<DATE> 3-APR-1987 15:50:04.32</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2200&#31;reute
+r f BC-JACK-WINTER-INC-&lt;JWI>   04-03 0048</UNKNOWN>
+<TEXT>&#2;
+<TITLE>JACK WINTER INC &lt;JWI> 4TH QTR JAN 3 LOSS</TITLE>
+<DATELINE>    MILWAUKEE, April 3 -
+    </DATELINE><BODY>Shr loss 67 cts vs loss seven cts
+    Net loss 2,410,000 vs loss 245,000
+    Revs 11.0 mln vs 10.9 mln
+    12 mths
+    Shr loss 21 cts vs profit 43 cts
+    Net loss 748,000 vs profit 1,571,000
+    Revs 46.9 mln vs 40.5 mln
+ Reuter
+&#3;</BODY></TEXT>

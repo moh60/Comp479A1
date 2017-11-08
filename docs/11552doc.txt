@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17613" NEWID="11552">
+<DATE>31-MAR-1987 14:07:59.90</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2131&#31;reute
+r f BC-AMERICUS-TRUST-FOR-AM   03-31 0098</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AMERICUS TRUST FOR AMOCO SHARES EFFECTIVE</TITLE>
+<DATELINE>    NEW YORK, March 31 - </DATELINE><BODY>Americus Trust for Amoco Corp shares
+said its registration has been delcared effective, and shares
+of Amoco Corp &lt;AN> may now be exchanged for Americus units on a
+one-for-one basis.
+    Each unit may be broken into PRIME and SCORE components and
+traded separately.  The PRIME entitles the holder to dividend
+payments and any stock price increase to a limit of 105 dlrs
+for Amoco shares and the SCORE to profits from future price
+increases above 105 dlrs.
+    Alex. Brown and Sons Inc &lt;ABSB> is dealer-manager for the
+trust.
+ Reuter
+&#3;</BODY></TEXT>

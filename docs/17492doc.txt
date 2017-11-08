@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5830" NEWID="17492">
+<DATE> 1-JUN-1987 08:52:15.20</DATE>
+<TOPICS><D>nat-gas</D><D>ship</D></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;Y
+&#22;&#22;&#1;f0798&#31;reute
+r f BC-GAS-CARRIER-ESCAPED-G   06-01 0059</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GAS CARRIER ESCAPED GULF ATTACK LAST WEEK - LLOYDS</TITLE>
+<DATELINE>    LONDON, June 1 - </DATELINE><BODY>The Panamanian liquified gas carrier
+Nyhammer, 48,772 dwt, was attacked by an Iranian gunboat on May
+24, Lloyds Shipping Intelligence said.
+    One rocket was fired but missed.
+    The vessel subsequently arrived at its destination of Ras
+Tanura on May 25 and left this morning.
+ REUTER
+&#3;</BODY></TEXT>

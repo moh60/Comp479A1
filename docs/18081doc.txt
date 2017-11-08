@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7526" NEWID="18081">
+<DATE> 2-JUN-1987 11:43:19.51</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1514&#31;reute
+d f BC-MELLON-&lt;MEL>-SIGNS-PA   06-02 0056</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MELLON &lt;MEL> SIGNS PACT WITH 21 BANKS</TITLE>
+<DATELINE>    PITTSBURGH, June 2 - </DATELINE><BODY>Mellon Bank Corp said it signed
+contracts with 21 financial institutions to have Mellon's
+network services division process their electronic funds
+transfer transactions.
+    Mellon said it will provide the institutions, all based in
+New England, with automated teller machines.
+ Reuter
+&#3;</BODY></TEXT>

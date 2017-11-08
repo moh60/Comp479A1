@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16062" NEWID="10541">
+<DATE>27-MAR-1987 12:28:59.65&#5;&#5;&#5;F</DATE>
+<UNKNOWN>&#22;&#22;&#1;f1616&#31;reute</UNKNOWN>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+h f BC-PLAZA-GROUP-COMPLETES   03-27 0077</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PLAZA GROUP COMPLETES MERGER TRANSACTION</TITLE>
+<DATELINE>    CHICAGO, March 27 - </DATELINE><BODY>&lt;Plaza Group> said it completed a
+transaction in which it merged its wholly owned subsidiary,
+Flyfaire International Inc, into Shefra Inc, a public company,
+in return for a controlling interest in Shefra.
+    With completion of the merger, Shefra changed its name to
+Flyfaire International Inc.
+    Flyfaire, with annual sales of 100 mln dlrs, is engaged in
+the wholesale vacation travel business.
+ Reuter
+&#3;</BODY></TEXT>

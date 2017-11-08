@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4969" NEWID="15931">
+<DATE> 9-APR-1987 16:01:37.92</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F
+&#22;&#22;&#1;f2454&#31;reute
+r f BC-CANADA-SOUTHERN-PETRO   04-09 0091</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CANADA SOUTHERN PETROLEUM &lt;CSW> TO SELL STOCK</TITLE>
+<DATELINE>    NEW YORK, April 9 - </DATELINE><BODY>Canada Southern Petroleum Ltd said its
+board authorized the sale of additional limited voting stock
+exclusively to the company's shareholders.
+    A registration statement in connection with the proposed
+offering was filed with the U.S. Securities and Exchange
+Commission, it said.
+    Details on the offering have not been determined, it added.
+    Canada Southern said it has approximately nine mln shares
+of limited voting stock outstanding, with 15 mln shares
+authorized.
+ Reuter
+&#3;</BODY></TEXT>

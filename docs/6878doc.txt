@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11791" NEWID="6878">
+<DATE>18-MAR-1987 17:15:07.73</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f9585&#31;reute
+d f BC-AMERICAN-INTERNATIONA   03-18 0058</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AMERICAN INTERNATIONAL &lt;AIPN> IN SUIT</TITLE>
+<DATELINE>    NEW YORK, March 18 - </DATELINE><BODY>American International Petroleum Corp
+said a law suit alleging breach of contract and
+misrepresentation has been filed against its Majestic Crude
+Corp subsidiary by AMONI Ltd.
+    The suit seeks 600,000 dlrs in damages.
+    American International said it will defend against the
+charges.
+ Reuter
+&#3;</BODY></TEXT>

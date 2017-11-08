@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7602" NEWID="18157">
+<DATE> 2-JUN-1987 13:35:11.68</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2035&#31;reute
+r f BC-BALL-CORP-&lt;BLL>-COMPL   06-02 0061</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BALL CORP &lt;BLL> COMPLETES ACQUISITION OF VERAC</TITLE>
+<DATELINE>    MUNCIE, Ind., June 2 - </DATELINE><BODY>Ball Corp said it completed the
+acquisition of privately held Verac Inc.
+    Terms were not disclosed.
+    The company said the San Diego-based defense systems and
+software development company had sales of about 23 mln dlrs in
+1986 and will operate as part of Ball's technical products
+group.
+ Reuter
+&#3;</BODY></TEXT>

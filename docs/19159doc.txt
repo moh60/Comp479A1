@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6995" NEWID="19159">
+<DATE>19-JUN-1987 10:11:08.00</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f0938&#31;reute
+d f BC-MICROSEMI-&lt;MSCC.O>-AC   06-19 0082</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MICROSEMI &lt;MSCC.O> ACQUIRES HYBRID COMPONENTS</TITLE>
+<DATELINE>    SANTA ANA, Calif., June 19 - </DATELINE><BODY>Microsemi Corp, a supplier of
+semiconductor products and assemblies, said it has acquired the
+operating assets of &lt;Hybrid Components Inc> for 2.2 mln dlrs in
+cash.
+    Microsemi said the purchase includes the fixed assets,
+software, inventories, technology, intellectual properties and
+other business operations of HCI.
+    The company said HCI will continue to operate its Beverly
+plant as a subsidiary of Microsemi.
+ Reuter
+&#3;</BODY></TEXT>

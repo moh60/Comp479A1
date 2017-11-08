@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17001" NEWID="10940">
+<DATE>30-MAR-1987 13:17:55.83</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1982&#31;reute
+r f BC-CENTRONICS-&lt;CEN>-NAME   03-30 0058</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CENTRONICS &lt;CEN> NAMES SALOMON &lt;SB> AS ADVISOR</TITLE>
+<DATELINE>    NASHUA, N.H., March 30 - </DATELINE><BODY>Centronics Corp said it has named
+Salomon Inc financial advisor to help it identify acquisition
+candidates.
+    Centronics sold its computer business in February and
+substantially all of its assets now consist of cash.  It said
+it intends to acquire at least one business.
+ Reuter
+&#3;</BODY></TEXT>

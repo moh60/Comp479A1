@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="745" NEWID="16210">
+<DATE>13-APR-1987 08:25:05.26</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0690&#31;reute
+r f BC-CRAZY-EDDIE-&lt;CRZY>-MA   04-13 0074</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CRAZY EDDIE &lt;CRZY> MAY MAKE ACQUISITION</TITLE>
+<DATELINE>    EDISON, N.J., April 13 - </DATELINE><BODY>Crazy Eddie Inc said it is
+negotiating for the possible acquisition of Benel Distributors
+Ltd, which operates Crazy Eddie Record and Tape Asylums in all
+Crazy Eddie stores.
+    It said the acquisition would probably also include
+affiliate Disc-o-Mat Inc, which operates a number of record and
+tape stores in the New York metropolitan area.
+    Other details were not disclosed.
+ Reuter
+&#3;</BODY></TEXT>

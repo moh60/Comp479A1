@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20680" NEWID="20085">
+<DATE>20-OCT-1987 07:20:31.37</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>west-germany</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f0594&#31;reute
+r f BC-GERMAN-NEW-CAR-REGIST   10-20 0104</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GERMAN NEW CAR REGISTRATIONS RISE IN SEPTEMBER</TITLE>
+<DATELINE>    FLENSBURG, West Germany, Oct 20 - </DATELINE><BODY>West German new car
+registrations rose four pct last month compared with September
+1986, and were 28 pct higher than August's figure, the Federal
+Motor Office said.
+    September new car registrations totalled 234,518, up from
+225,581 in the same month a year ago and from 183,224 in
+August.
+    In the first nine months of this year, new car
+registrations rose 2.9 pct to 2.18 mln from 2.12 mln during
+January/September 1986.
+    Total vehicle registrations in the period rose to 2.42 mln
+from 2.35 mln in January/September last year.
+ REUTER
+&#3;</BODY></TEXT>

@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5448" NEWID="15550">
+<DATE> 9-APR-1987 10:10:58.67</DATE>
+<TOPICS><D>interest</D></TOPICS>
+<PLACES><D>france</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0978&#31;reute
+b f BC-BANK-OF-FRANCE-LEAVES   04-09 0079</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BANK OF FRANCE LEAVES INTERVENTION RATE UNCHANGED</TITLE>
+<DATELINE>    PARIS, April 9 - </DATELINE><BODY>The Bank of France said it left its
+intervention rate unchanged at 7-3/4 pct when it injected funds
+in the market against first category paper in today's money
+market intervention tender.
+    Money market dealers had earlier expressed mixed views on
+the possibility of quarter point cut.
+    The rate was last adjusted on March 9, when it was cut to
+7-3/4 pct from the eight pct rate set in January.
+ REUTER
+&#3;</BODY></TEXT>

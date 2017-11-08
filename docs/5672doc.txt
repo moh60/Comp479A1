@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10585" NEWID="5672">
+<DATE>16-MAR-1987 16:13:19.57</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f3549&#31;reute
+r f BC-FIRST-BANK-&lt;FBS>-AGRE   03-16 0097</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FIRST BANK &lt;FBS> AGREES TO SELL ANOTHER BANK</TITLE>
+<DATELINE>    MINNEAPOLIS, March 16 - </DATELINE><BODY>First Bank System Inc said it has
+found a potential buyer for First Bank Luverne and its office
+in Pipestone, Minnesota.
+    The bank holding company said 215 Holding Co, a corporation
+controlled by the family of the late Robert Short, will buy
+First Bank Luverne. The bank has 59.2 mln dlrs in assets.
+    First Bank, which announced plans in 1985 to restructure
+its banking assets by offering to sell 28 of its banks with a
+total of 45 offices, said agreements have now been signed for
+43 of these offices.
+ Reuter
+&#3;</BODY></TEXT>

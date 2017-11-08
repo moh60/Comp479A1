@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="451" NEWID="12223">
+<DATE> 1-APR-1987 14:47:06.82</DATE>
+<TOPICS><D>copper</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;C M F
+&#22;&#22;&#1;f2141&#31;reute
+u f BC-inspiration-cop-price   04-01 0046</UNKNOWN>
+<TEXT>&#2;
+<TITLE>INSPIRATION LOWERS COPPER PRICE TO 66.50 CTS/LB</TITLE>
+<DATELINE>    NEW YORK, April 1 - </DATELINE><BODY>Inspiration Consolidated Copper Co, a
+subsidiary of Inspiration Resources Corp, said it is lowering
+its base price for full-plate copper cathodes one-half cent to
+66.50 cents a lb, effective immediately.
+ Reuter
+&#3;</BODY></TEXT>

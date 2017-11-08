@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16358" NEWID="1038">
+<DATE> 3-MAR-1987 10:05:32.60</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>canada</D><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F
+&#22;&#22;&#1;f0441&#31;reute
+r f BC-american-barrick   03-03 0046</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AMERICAN BARRICK &lt;ABX> UNIT COMPLETES ISSUE</TITLE>
+<DATELINE>    TORONTO, March 3 - </DATELINE><BODY>&lt;American Barrick Resources Corp> said
+wholly owned Barrick Resources (USA) Inc completed the
+previously announced 50 mln U.S. dlr issue of two pct gold
+indexed notes, which are guaranteed by American Barrick.
+ Reuter
+&#3;</BODY></TEXT>

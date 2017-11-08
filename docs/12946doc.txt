@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="1915" NEWID="12946">
+<DATE> 3-APR-1987 11:45:03.35</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;A RM
+&#22;&#22;&#1;f1427&#31;reute
+r f BC-CHICAGO-PACIFIC-&lt;CPAC   04-03 0109</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CHICAGO PACIFIC &lt;CPAC> UPGRADED BY MOODY'S</TITLE>
+<DATELINE>    NEW YORK, April 3 - </DATELINE><BODY>Moody's Investors Service Inc said it
+raised to B-1 from B-2 Chicago Pacific Corp's 315 mln dlrs of
+subordinated notes.
+    The agency said the rating recognizes risks in Chicago
+Pacific's highly leveraged balance sheet, uncertainty arising
+from its consideration of another sizable acquisition and
+exposure to the European appliance industry.
+    Moody's said the units Hoover and Rowenta have leading
+market positions. Debt to capital will be slightly more than 60
+pct pro forma, but since Chicago Pacific's plant is modern,
+capital spending is considered largely discretionary, it said.
+ Reuter
+&#3;</BODY></TEXT>

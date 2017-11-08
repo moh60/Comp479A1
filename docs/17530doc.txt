@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5868" NEWID="17530">
+<DATE> 1-JUN-1987 10:04:42.04</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>nyse</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1034&#31;reute
+u f BC-THOMPSON-MEDICAL-&lt;TM>   06-01 0047</UNKNOWN>
+<TEXT>&#2;
+<TITLE>THOMPSON MEDICAL &lt;TM> PLANS STATEMENT SHORTLY</TITLE>
+<DATELINE>    NEW YORK, June 1 - </DATELINE><BODY>Thompson Medical Co Inc expects to
+release a statment in a few minutes, a company spokesman said.
+    The New York Stock Exchange has delayed opening the stock
+saying news is pending. The stock closed Friday at 19-3/4.
+ Reuter
+&#3;</BODY></TEXT>

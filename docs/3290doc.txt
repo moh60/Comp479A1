@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19712" NEWID="3290">
+<DATE> 9-MAR-1987 14:11:11.67</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0284&#31;reute
+r f BC-FINANCIAL-CORP-&lt;FIN>   03-09 0067</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FINANCIAL CORP &lt;FIN> UNIT COMPLETES PURCHASE</TITLE>
+<DATELINE>    IRVINE, Calif., March 9 - </DATELINE><BODY>Financial Corp of America's
+American Savings and Loan Association said it completed the
+previously announced purchase of 16 retail savings branches
+from Great Western Financial Corp's &lt;GWF> Great Western
+Savings.
+    American Savings said the purchases boost its deposits by
+about 550 mln dlrs, but do not affect its asset base.
+ Reuter
+&#3;</BODY></TEXT>

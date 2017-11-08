@@ -1,0 +1,18 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15816" NEWID="10295">
+<DATE>27-MAR-1987 01:37:30.12&#5;&#5;&#5;RM</DATE>
+<UNKNOWN>&#22;&#22;&#1;f0064&#31;reute</UNKNOWN>
+<TOPICS><D>bop</D></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+f f BC-Japan-February-trade   03-27 0013</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE>Japan February trade surplus 8.14 billion dlrs (January 5.70 billion surplus)
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

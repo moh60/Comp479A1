@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1449" NEWID="16914">
+<DATE>17-APR-1987 16:31:42.64</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D><D>finland</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;RM A
+&#22;&#22;&#1;f0435&#31;reute
+r f BC-FINLAND   04-17 0111</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FINLAND FILES FOR 550 MLN DLR DEBT OFFERING</TITLE>
+<DATELINE>    WASHINGTON, April 17 - </DATELINE><BODY>The Republic of Finland filed with
+the Securities and Exchange Commission for a shelf offering of
+up to 550 mln dlrs of debt securities, including notes and
+bonds, and/or warrants to buy debt securities on terms to be
+determined at the time of the sale.
+    The offering is in addition to 50 mln dlrs of debt
+securities already registered with the SEC but unsold.
+    Proceeds from the sale will be used to finance capital
+investment and the promotion of productive investments and
+exports designed to strengthen the country's balance of
+payments, the government said. No underwriter was named.
+ Reuter
+&#3;</BODY></TEXT>

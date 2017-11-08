@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7692" NEWID="18247">
+<DATE> 2-JUN-1987 15:29:39.21</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2456&#31;reute
+u f BC-GM-&lt;GM>-LABOR-TALKS-T   06-02 0074</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GM &lt;GM> LABOR TALKS TO OPEN JULY 27</TITLE>
+<DATELINE>    DETROIT, June 2 - </DATELINE><BODY>General Motors Corp's negotiations on a
+new contract covering 370,000 U.S. workers who belong to the
+United Automobile Workers union will open July 27, UAW
+president Owen Bieber said.
+    He said the opening of talks on a new contract covering
+110,000 union members at Ford Motor Co &lt;F> will open the
+following day. Current contracts at both companies expire at
+2359 EDT on September 14.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9348" NEWID="4435">
+<DATE>12-MAR-1987 14:48:53.01</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0153&#31;reute
+d f BC-DIASONIWS-&lt;DNC>-SAYS   03-12 0059</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DIASONIWS &lt;DNC> SAYS IMAGING SYSTEM APPROVED</TITLE>
+<DATELINE>    SOUTH SAN FRANCISCO, March 12 - </DATELINE><BODY>Diasonics Inc said the U.S.
+Food and Drug Administration has given premarket approval to
+&lt;Instrumentarium Corp> of Finland's ULF magnetic resonance
+imaging system.
+    Diasonics already distributes the system in several
+countries and will distribute it in the U.S. as well.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4161" NEWID="15178">
+<DATE> 8-APR-1987 13:24:59.73</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1951&#31;reute
+r f BC-COPYTELE-&lt;COPY>-GETS   04-08 0067</UNKNOWN>
+<TEXT>&#2;
+<TITLE>COPYTELE &lt;COPY> GETS FLAT PANEL PATENT</TITLE>
+<DATELINE>    HUNTINGTON STATION, N.Y., April 8 - </DATELINE><BODY>CopyTele Inc said the
+U.S. Patent Office has issued a structure patent for its high
+resolution charged particle flat panel display screen.
+    The company said it has successfully developed an
+experimental model with a 4.5 inch image area measured
+diagonally, and is continuing development on panels with larger
+image areas.
+ Reuter
+&#3;</BODY></TEXT>

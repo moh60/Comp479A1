@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6705" NEWID="18956">
+<DATE>18-JUN-1987 15:24:10.65</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f4412&#31;reute
+r f BC-ALEXANDER-&lt;AAL>-ESTAB   06-18 0073</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ALEXANDER &lt;AAL> ESTABLISHES INSURANCE UNIT</TITLE>
+<DATELINE>    NEW YORK, June 18 - </DATELINE><BODY>Alexander and Alexander Services Inc
+said it formed an insurance unit known as the Environmental
+Protection Insurance Co-Risk Retention Group to specialize in
+environmental liability coverage.
+    The company said the unit has started preliminary
+underwriting activities and will provide environmental
+impairment coverage to companies with pollution liability
+exposures.
+ Reuter
+&#3;</BODY></TEXT>

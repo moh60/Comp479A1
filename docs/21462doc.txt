@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="19974" NEWID="21462">
+<DATE>19-OCT-1987 09:12:35.93</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D><D>italy</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f0932&#31;reute
+r f BC-SHAMROCK-COMPLETES-CE   10-19 0089</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SHAMROCK COMPLETES CENTRAL SOYA SALE TO FERRUZZI</TITLE>
+<DATELINE>    BURBANK, Calif., Oct 19 - </DATELINE><BODY>Shamrock Capital LP said it has
+completed the sale of Cental Soya Co Inc to Ferruzzi Agricola
+Finanziaria the holding company for the Ferruzzi group of
+Ravenna, Italy.
+    Shamrock Capital is a limited partnership led by Shamrock
+Holdings Inc the Roy E. Disney family company.
+    Under the agreement announced last month, Ferruzzi acquired
+all the equity and assumed subordinated term debt of about 195
+mln dlrs in a trction valued at about 370 mln dlrs.
+ Reuter
+&#3;</BODY></TEXT>

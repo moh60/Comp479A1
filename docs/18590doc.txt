@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6342" NEWID="18590">
+<DATE>18-JUN-1987 08:21:52.32</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2805&#31;reute
+r f BC-HALCYON-HAS-STAKE-IN   06-18 0084</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HALCYON HAS STAKE IN RESEARCH-COTTRELL &lt;RC></TITLE>
+<DATELINE>    NEW YORK, June 18 - </DATELINE><BODY>Halcyon Investments, a New York firm,
+reported a 6.9 pct stake in Research-Cottrell Inc.
+    Alan Slifka, a partner in Halcyon, told Reuters the shares
+were purchased for investment purposes but declined further
+comment.
+    On June 8, Research-Cottrell said it had entered into a
+definitive agreement to be acquired by R-C Acquisitions Inc for
+43 dlrs per share. Research-Cottrell closed at 44-1/4 today,
+unchanged from the previous close.
+ Reuter
+&#3;</BODY></TEXT>

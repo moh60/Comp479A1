@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15886" NEWID="10365">
+<DATE>27-MAR-1987 07:41:54.16&#5;&#5;&#5;A</DATE>
+<UNKNOWN>&#22;&#22;&#1;f0572&#31;reute</UNKNOWN>
+<TOPICS></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+r f BC-WALT-DISNEY-INCREASES   03-27 0057</UNKNOWN>
+<TEXT>&#2;
+<TITLE>WALT DISNEY INCREASES EUROBOND TO 75 MLN AUST DLRS</TITLE>
+<DATELINE>    LONDON, March 27 - </DATELINE><BODY>The amount of a eurobond issued
+yesterday by Walt Disney Co Ltd has been raised to 75 mln
+Australian dlrs from an original 60 mln, lead manager Warburg
+Securities said.
+    The issue, which matures on May 7, 1990, has a 14-1/2 pct
+coupon and is priced at 101-3/8 pct.
+ REUTER
+&#3;</BODY></TEXT>

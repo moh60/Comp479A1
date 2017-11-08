@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15436" NEWID="9915">
+<DATE>26-MAR-1987 10:48:40.90</DATE>
+<TOPICS><D>gas</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F Y
+&#22;&#22;&#1;f1310&#31;reute
+r f BC-MOBIL-&lt;MOB>-TO-UPGRAD   03-26 0107</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MOBIL &lt;MOB> TO UPGRADE REFINERY UNIT</TITLE>
+<DATELINE>    NEW YORK, March 26 - </DATELINE><BODY>Mobil Corp said it will spend over 30
+mln dlrs to upgrade a gasoline-producing unit at its Beaumont,
+Texas, refinery.
+    It said the unit is a catalytic reformer, which converts
+low-octane components of gasoline into high-octane components
+for use in Super Unleaded gasoline.
+    The company said the modernization will allow the unit to
+regenerate catalysts on a continuous basis without shutdown.
+Currently, it must be shut twice a year.  The unit produces
+46,000 barrels of gasoline components a year.  Construction
+will start late this year, with completion set for mid-1989.
+ Reuter
+&#3;</BODY></TEXT>

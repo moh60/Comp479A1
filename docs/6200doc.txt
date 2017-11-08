@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11114" NEWID="6200">
+<DATE>17-MAR-1987 14:41:21.20</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f6226&#31;reute
+d f BC-PENNWALT-&lt;PSM>-BUYS-I   03-17 0108</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PENNWALT &lt;PSM> BUYS ITS PREFERRED FROM ANSCHUTZ</TITLE>
+<DATELINE>    PHILADELPHIA, March 17 - </DATELINE><BODY>Pennwalt Corp said it bought all
+outstanding shares of its third series cumulative convertible
+preferred stock from &lt;Anschutz Corp>.
+    According to a standstill agreement reached in 1985,
+Pennwalt said Anschutz received a 6.25 pct unsecured promissory
+note in the face amount of 138.9 mln dlrs for the 28,054
+preferred shares it held.
+    The company said 50 pct of the note, due August three, will
+be paid with the proceeds from its common stock offering
+earlier this month. The remainder of the note will be paid from
+borrowings under existing credit facilities, it said.
+ Reuter
+&#3;</BODY></TEXT>

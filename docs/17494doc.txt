@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5832" NEWID="17494">
+<DATE> 1-JUN-1987 08:53:56.02</DATE>
+<TOPICS><D>tea</D></TOPICS>
+<PLACES><D>sri-lanka</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;T
+&#22;&#22;&#1;f0803&#31;reute
+u f BC-SRI-LANKAN-TEA-WORKER   06-01 0109</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SRI LANKAN TEA WORKERS LAUNCH ONE-DAY PROTEST</TITLE>
+<DATELINE>    COLOMBO, June 1 - </DATELINE><BODY>Thousands of tea workers of Indian origin
+went on strike today to press demands for citizenship and
+voting rights in Sri Lanka, a union statement said.
+    The Ceylon Workers Congress (CWC) said its 400,000 members
+launched a prayer campaign at temples and other places in a
+non-violent protest to get the authorities to expedite
+citizenship procedures.
+    A CWC spokesman said a three-day campaign was suspended
+after a Cabinet committee promised to speed up procedures under
+a new set of regulations. Trade sources said the strike did not
+affect production or today's Colombo auction.
+ Reuter
+&#3;</BODY></TEXT>

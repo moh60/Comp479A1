@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6301" NEWID="18549">
+<DATE>18-JUN-1987 07:08:06.99</DATE>
+<TOPICS><D>interest</D></TOPICS>
+<PLACES><D>australia</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A 
+&#22;&#22;&#1;f2602&#31;reute
+r f BC-CITIBANK-LOWERS-AUSTR   06-18 0082</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CITIBANK LOWERS AUSTRALIAN PRIME RATE TO 16 PCT</TITLE>
+<DATELINE>    SYDNEY, June 18 - </DATELINE><BODY>Citibank Ltd said it would lower its
+Australian prime rate to 16 pct from 16.5, effective tomorrow.
+    The new rate, if unmatched by other banks, will be the
+lowest among Australian trading banks. Other primes range from
+16.25 to 17.5 pct.
+    Australian prime rates have now retreated from a recent
+peak of 19 pct in October in line with declining money market
+levels. Citibank said its reduction reflected the decline.
+ REUTER
+&#3;</BODY></TEXT>

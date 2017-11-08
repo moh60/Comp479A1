@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19516" NEWID="3101">
+<DATE> 9-MAR-1987 10:35:33.09</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0307&#31;reute
+r f BC-FRANK-B.-HALL-&lt;FBH>-S   03-09 0101</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FRANK B. HALL &lt;FBH> SUED BY NY INSURANCE DEPT</TITLE>
+<DATELINE>    NEW YORK, March 9 - </DATELINE><BODY>Frank B. Hall and Co Inc said the
+superintendent of insurance of New York, as liquidator of Union
+Capital Indemnity Insurance Co of New York, has filed a lawsuit
+against the company, Touche Ross and Co, a group of Hall units,
+and former officers and directors of Union Indemnity seeking
+damages of 140 mln dlrs in connection with Union's insolvency.
+    Union Indemnity was a unit of Hall prior to being placed
+into liquidation by the New York Insurance Department in July
+1985.
+    Hall said it intends to oppose this action vigorously.
+ Reuter
+&#3;</BODY></TEXT>

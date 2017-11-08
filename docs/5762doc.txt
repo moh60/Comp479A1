@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10675" NEWID="5762">
+<DATE>16-MAR-1987 19:07:56.38</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f3898&#31;reute
+h f BC-AERO-SERVICES-&lt;AEROE>   03-16 0078</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AERO SERVICES &lt;AEROE> IN PACT FOR NOMINATIONS</TITLE>
+<DATELINE>    TETERBORO, N.J., March 16 - </DATELINE><BODY>Aero Services International Inc
+said it signed an agreement with Dibo Attar, who controls about
+39 pct of its common stock, under which three nominees to
+Aero's board have been selected by Attar.
+    In addition to Attar, the nominees are Stephen L. Peistner,
+chairman and chief executive officer of &lt;McCrory Corp> and
+James N.C. Moffat III, vice president and secretary of
+&lt;Eastover Corp>.
+ Reuter
+&#3;</BODY></TEXT>

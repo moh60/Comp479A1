@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1115" NEWID="16580">
+<DATE>13-APR-1987 14:34:19.85</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2207&#31;reute
+r f BC-PIEDMONT-AVIATION-&lt;PI   04-13 0054</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PIEDMONT AVIATION &lt;PIE> FREIGHT TRAFFIC UP</TITLE>
+<DATELINE>    WINSTON-SALEM, N.C., April 13 - </DATELINE><BODY>Piedmont Aviation Inc said
+March cargo ton miles, includiung U.S. mail and air express
+services, were up 27.2 pct to 4,763,432 from 3,744,535.
+    For the year to date, it said cargo ton miles were up 26.7
+pct to 13.3 mln from 10.5 mln a year before.
+ Reuter
+&#3;</BODY></TEXT>

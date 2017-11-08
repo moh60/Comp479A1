@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12504" NEWID="321">
+<DATE> 2-MAR-1987 06:18:48.35</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0980&#31;reute
+u f BC-BEECHAM-UNIT-LAUNCHES   03-02 0086</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BEECHAM UNIT LAUNCHES ARTHRITIS DRUG</TITLE>
+<DATELINE>    LONDON, March 2 - </DATELINE><BODY>Beecham Group Plc &lt;BHAM.L> said its
+subsidiary &lt;Beecham Pharmaceuticals> launched a new once-a-day,
+prescription only medicine for the reduction of pain and
+inflammation caused by rheumatoid and osteoarthritis. The
+launch took place simultaneously in the U.K. And West Germany.
+    The drug, which has the approved name Nabumetone, will be
+introduced to doctors in the U.K. Under the brand name of
+Relifex and will be known as Arthaxan in West Germany.
+ REUTER
+&#3;</BODY></TEXT>

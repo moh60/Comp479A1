@@ -1,0 +1,31 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7951" NEWID="19623">
+<DATE>29-JUN-1987 10:13:31.55</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G T L 
+&#22;&#22;&#1;f1066&#31;reute
+u f BC-/U.S.-CONGRESS-RESOLV   06-29 0140</UNKNOWN>
+<TEXT>&#2;
+<TITLE>U.S. CONGRESS RESOLVES CCC FUNDING CRISIS</TITLE>
+<DATELINE>    WASHINGTON, June 29 - </DATELINE><BODY>Congress's long-awaited agreement
+last Friday on an urgent bill to fund government operations is
+expected to clear the way for the Agriculture Department to
+unlock its coffers, closed since May 1.
+    House and Senate negotiators, breaking an extended logjam
+over fiscal 1987 funding, agreed to appropriate 5.6 billion
+dlrs to the Commodity Credit Corp.
+    The bill, which is expected to be approved by both Houses
+this week and signed into law soon by the president, would
+cover all farm program costs through September 30 and provide a
+1.0 billion dlrs cushion, congressional sources said.
+    Elevator operators, transportation companies and dairy
+processors have been especially hard hit by the freeze on CCC
+payments, now entering its ninth week, USDA sources said.
+ Reuter
+&#3;</BODY></TEXT>

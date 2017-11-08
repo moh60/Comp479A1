@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14281" NEWID="8760">
+<DATE>24-MAR-1987 10:23:06.75</DATE>
+<TOPICS><D>money-fx</D></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f1084&#31;reute
+b f BC-U.K.-MONEY-MARKET-GIV   03-24 0048</UNKNOWN>
+<TEXT>&#2;
+<TITLE>U.K. MONEY MARKET GIVEN 10 MLN STG LATE ASSISTANCE</TITLE>
+<DATELINE>    LONDON, March 24 - </DATELINE><BODY>The Bank of England said it provided the
+money market with late help of about 10 mln stg.
+    This takes the bank's total help today to some 229 mln stg
+and compares with its forecast of a 300 mln stg shortage.
+ REUTER
+&#3;</BODY></TEXT>

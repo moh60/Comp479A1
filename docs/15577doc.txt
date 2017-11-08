@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4755" NEWID="15577">
+<DATE> 9-APR-1987 10:39:23.18</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;A RM
+&#22;&#22;&#1;f1117&#31;reute
+r f BC-COMMONWEALTH-EDISON-&lt;   04-09 0052</UNKNOWN>
+<TEXT>&#2;
+<TITLE>COMMONWEALTH EDISON &lt;CWE> FILES DEBT OFFER</TITLE>
+<DATELINE>    WASHINGTON, April 9 - </DATELINE><BODY>Commonwealth Edison Co filed with the
+Securities and Exchange Commission for the sale of 375 mln dlrs
+in first mortgage bonds.
+    It said the proceedings would be used to discharge or
+refund outstanding obligations.
+    No underwriter was named.
+ Reuter
+&#3;</BODY></TEXT>

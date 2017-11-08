@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13702" NEWID="8181">
+<DATE>23-MAR-1987 07:12:24.82</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>philippines</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A
+&#22;&#22;&#1;f0475&#31;reute
+u f BC-CAPTAIN-CHARGED-IN-AQ   03-23 0074</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CAPTAIN CHARGED IN AQUINO BOMBING</TITLE>
+<DATELINE>    BAGUIO, Philippines - </DATELINE><BODY>Military authorities say an unnamed
+army captain has been arrested for involvement in last week's
+bombing of the Philippine Military Academy.
+    They told reporters the arrest of the captain had been
+ordered after a search of his home revealed bombs and
+ammunition.
+    Four people died and 40 were injured in the blast, which
+President Aquino said was designed as an attempt on her life.
+ Reuter
+&#3;</BODY></TEXT>

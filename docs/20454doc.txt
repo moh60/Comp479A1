@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="21049" NEWID="20454">
+<DATE>20-OCT-1987 13:29:16.78</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2390&#31;reute
+r f BC-KING-WORLD-&lt;KWP>-BEGI   10-20 0062</UNKNOWN>
+<TEXT>&#2;
+<TITLE>KING WORLD &lt;KWP> BEGINS STOCK REPURCHASE</TITLE>
+<DATELINE>    NEW YORK, Oct 20 - </DATELINE><BODY>King World Productions Inc said it began
+an open market repurchase program of its shares on October 19.
+    King World said the total number of shares ultimately
+bouught back will depend on prevailing market conditions
+including interst rates, the price of the shares and possible
+diversification opportunities.
+ Reuter
+&#3;</BODY></TEXT>

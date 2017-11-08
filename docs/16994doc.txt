@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="NOT-USED" CGISPLIT="PUBLISHED-TESTSET" OLDID="21644" NEWID="16994">
+<DATE>21-APR-1987 10:57:51.31</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1230&#31;reute
+u f BC-ALFIN-&lt;AFN>-DRUG-MISL   04-21 0109</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ALFIN &lt;AFN> DRUG MISLABELLED, SAYS FDA</TITLE>
+<DATELINE>    NEW YORK, April 21 - </DATELINE><BODY>Alfin Inc &lt;AFN> said it has received a
+regulatory letter from the Office of Compliance of the U.S.
+Food and Drug Administration asserting that because of
+labelling and certain advertising claims its Glycel products
+are "new drugs" within the meaning of the Federal Food, Drug
+and Cosmetic Act for which no approval has been obtained and
+are "misbranded" in their labelling.
+    The company said it understands that this action is part of
+an industry-wide investigation.
+    The company added it is reviewing the matter with counsel,
+intends to respond and take corrective action, if necessary.
+ Reuter
+&#3;</BODY></TEXT>

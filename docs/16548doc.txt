@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1083" NEWID="16548">
+<DATE>13-APR-1987 14:00:05.83</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2090&#31;reute
+a f BC-WORLD-AIRWAYS-&lt;WOA>-L   04-13 0093</UNKNOWN>
+<TEXT>&#2;
+<TITLE>WORLD AIRWAYS &lt;WOA> LAYS OFF 103 MORE EMPLOYEES</TITLE>
+<DATELINE>    OAKLAND, Calif., April 13 - </DATELINE><BODY>World Airways said it laid off
+an additional 103 employees in its contract maintenance
+operation at Oakland.
+    Over the past five weeks, the company previously laid off
+274 maintenance employees.
+    The layoffs resulted from declines in current and projected
+maintenance work, which the company provides principally for
+other air carriers.
+    World Airways said it cannot rule out additional layoffs,
+as it explores a range of alternative for its contract
+maintenance operation.
+ Reuter
+&#3;</BODY></TEXT>

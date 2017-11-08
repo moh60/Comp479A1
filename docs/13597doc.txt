@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="BYPASS" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="2580" NEWID="13597">
+<DATE> 7-APR-1987 08:04:11.73</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0532&#31;reute
+r f BC-QT8903/1   04-07 0029</UNKNOWN>
+<TEXT TYPE="UNPROC">&#2;
+U.S. STOCKS EX-DIVIDEND - APRIL 7
+    NYSE STOCKS...
+ ahl              11 cts
+ nvp              36 cts
+ nvp pr b     43-1/2 cts
+ nvp pr d     48-3/4 cts
+ nsc 3-for-1 stock split
+ AMEX
+ gdx 05 cts
+ 
+ Reuter
+&#3;
+
+</TEXT>

@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9254" NEWID="4341">
+<DATE>12-MAR-1987 12:42:37.65</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F
+&#22;&#22;&#1;f0767&#31;reute
+r f BC-gemini-food-corp   03-12 0028</UNKNOWN>
+<TEXT>&#2;
+<TITLE>&lt;GEMINI FOOD CORP> SIX MTHS JANUARY 31 NET</TITLE>
+<DATELINE>    TORONTO, March 12 -
+    </DATELINE><BODY>Shr profit one ct vs loss one ct
+    Net profit 150,594 vs loss 55,352
+    Revs 19.0 mln vs 12.4 mln
+ Reuter
+&#3;</BODY></TEXT>

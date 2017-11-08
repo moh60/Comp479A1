@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18966" NEWID="2548">
+<DATE> 5-MAR-1987 18:55:10.28</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F
+&#22;&#22;&#1;f0139&#31;reute
+r f BC-&lt;FOUR-SEASONS-HOTELS   03-05 0036</UNKNOWN>
+<TEXT>&#2;
+<TITLE>&lt;FOUR SEASONS HOTELS INC> YEAR NET</TITLE>
+<DATELINE>    TORONTO, March 5 -
+    </DATELINE><BODY>Oper shr 99 cts vs 54 cts
+    Oper net 9,515,000 vs 3,449,000
+    Revs 509.3 mln vs 440.5 mln
+    Note: 1985 net excludes extraordinary gain of 1.2 mln dlrs.
+ Reuter
+&#3;</BODY></TEXT>

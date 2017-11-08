@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11813" NEWID="6900">
+<DATE>18-MAR-1987 17:42:38.96</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f9667&#31;reute
+d f BC-ONCOGENE-&lt;ONCS>-PRESI   03-18 0037</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ONCOGENE &lt;ONCS> PRESIDENT RESIGNS</TITLE>
+<DATELINE>    MINEOLA, N.Y., March 18 - </DATELINE><BODY>Oncogene Science INc said Robert
+Ivy is resigning as president, chief executive officer and
+director, effective April 12
+    No immediate successor was named.
+ Reuter
+&#3;</BODY></TEXT>

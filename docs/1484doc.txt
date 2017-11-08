@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17902" NEWID="1484">
+<DATE> 4-MAR-1987 10:38:50.06</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0414&#31;reute
+u f BC-TANDY-&lt;TAN>-FEBRUARY   03-04 0066</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TANDY &lt;TAN> FEBRUARY SALES UP 12 PCT</TITLE>
+<DATELINE>    FORT WORTH, Texas, March 4 - </DATELINE><BODY>Tandy Corp said February sales
+and operating revenues were up 12 pct to 244.4 mln dlrs from
+218.1 mln dlrs a year before.
+    It said sales and revenues of U.S. retail operations were
+up 15 pct to 210.7 mln dlrs from 183.6 mln dlrs a year before
+and sales of U.S. retail stores in existence for more than one
+year were up 13 pct.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7663" NEWID="18218">
+<DATE> 2-JUN-1987 14:39:20.35</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2284&#31;reute
+u f BC-CHICAGO-PACIFIC-&lt;CPA>   06-02 0079</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CHICAGO PACIFIC &lt;CPA> TO REPURCHASE NOTES</TITLE>
+<DATELINE>    NEW YORK, June 2 - </DATELINE><BODY>Chicago Pacific Corp chairman Harvey
+Kapnick told analysts that he expects whithin the next year to
+repurchase about 25 mln dlrs of the company's 200 mln dlr issue
+of 14 pct subordinated notes.
+    To date the company has repurchased about 60 mln of these
+notes.
+    "This will have a beneficial effect on our net income but
+the effects in 1987 have already been anticipated in estimates
+for 1987," Kapnik said.
+ reuter
+&#3;</BODY></TEXT>

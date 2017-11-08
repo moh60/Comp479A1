@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17767" NEWID="11705">
+<DATE>31-MAR-1987 16:48:52.26</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F Y
+&#22;&#22;&#1;f2685&#31;reute
+b f BC-dome-pete-year-loss   03-31 0068</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DOME PETROLEUM LTD &lt;DMP> YEAR LOSS</TITLE>
+<DATELINE>    CALGARY, Alberta, March 31 -
+    </DATELINE><BODY>Shr loss 6.94 dlrs vs loss two cts
+    Net loss 2.20 billion vs profit 7.0 mln
+    Revs 1.55 billion vs 2.44 billion
+    Note: 1986 shr and net include writedowns totalling 2.08
+billion dlrs before a reduction in deferred income taxes of 571
+mln dlrs. Net also includes 214 mln dlrs in accumulated foreign
+exchange losses
+    Canadian funds
+    Note continued: shr after preferred dividends
+ Reuter
+&#3;</BODY></TEXT>

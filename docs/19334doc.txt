@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7170" NEWID="19334">
+<DATE>19-JUN-1987 14:10:58.72</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1928&#31;reute
+r f BC-KING-WORLD-&lt;KWP>-HAS   06-19 0108</UNKNOWN>
+<TEXT>&#2;
+<TITLE>KING WORLD &lt;KWP> HAS FINANCING FOR OFFER</TITLE>
+<DATELINE>    NEW YORK, June 19 - </DATELINE><BODY>King World Productions Inc said it will
+finance the repurchase of up to 7,600,000 of its shares
+announced earlier today through cash on hand and about 200 mln
+dlrs of bank borrowings, for which it has received commitments
+from First Chicago Corp &lt;FNB> and Bank of New York &lt;BK>.
+    The company today started a tender offer for up to
+4,100,000 shares at 28 dlrs each and agreed to buy up to
+3,485,085 more shares from members of the King family and
+management, who together own a total of 13.9 mln shares.  All
+the shares being repurchased amount to about 25 pct of King
+World's stock.
+ Reuter
+&#3;</BODY></TEXT>

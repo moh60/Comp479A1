@@ -1,0 +1,33 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7317" NEWID="19481">
+<DATE>19-JUN-1987 18:43:10.53</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2605&#31;reute
+r f BC-ENDOTRONICS-&lt;ENDO.O>   06-19 0077</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ENDOTRONICS &lt;ENDO.O> JOINT VENTURE CEASES</TITLE>
+<DATELINE>    MINNEAPOLIS, June 19 - </DATELINE><BODY>Endotronics Inc said operations at
+its joint venture with Summa Medical Corp &lt;SUMA.O> has ended.
+    The company said the venture provided production and
+purification services to biotechnology companies on a contract
+basis. Endotronics, which is reorganizing under Chapter 11, has
+a 75 pct stake in the partnership.
+    The company said it intends to sell the facility that
+housed the operations.
+    It said it is reviewing the adequacy of a two mln dlr
+reserve set up in the second quarter ended March 31 for the
+carrying value of the facility.
+    The company said the cessation of the joint venture was the
+second move taken to refocus its operations on the
+instrumentation business. The company previously said it was no
+longer performing research and development for its health care
+technologies.
+ Reuter
+&#3;</BODY></TEXT>

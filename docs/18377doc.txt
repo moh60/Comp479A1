@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="NOT-USED" CGISPLIT="PUBLISHED-TESTSET" OLDID="22171" NEWID="18377">
+<DATE>15-JUN-1987 10:30:23.27</DATE>
+<TOPICS><D>grain</D><D>wheat</D></TOPICS>
+<PLACES><D>usa</D><D>egypt</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G
+&#22;&#22;&#1;f1116&#31;reute
+b f BC-EGYPT-SUBMITS-IDENTIC   06-15 0055</UNKNOWN>
+<TEXT>&#2;
+<TITLE>EGYPT SUBMITS IDENTICAL BID IN EEP WHEAT TENDER</TITLE>
+<DATELINE>    KANSAS CITY, June 15 - </DATELINE><BODY>Egypt for the third time submitted a
+bid of 89 dlrs per tonne in its tender for 200,000 tonnes of
+soft red or white wheat for June-July delivery under the export
+enhancement program, U.S. exporters said.
+    USDA has rejected that bid twice, the sources noted.
+ Reuter
+&#3;</BODY></TEXT>

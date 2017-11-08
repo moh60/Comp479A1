@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16570" NEWID="1250">
+<DATE> 3-MAR-1987 15:11:40.49</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE><D>reagan</D></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;V RM
+&#22;&#22;&#1;f0652&#31;reute
+b f BC-/REAGAN-TO-MAKE-ANNOU   03-03 0085</UNKNOWN>
+<TEXT>&#2;
+<TITLE>REAGAN TO MAKE ANNOUNCEMENT</TITLE>
+<DATELINE>    WASHINGTON, March 3 - </DATELINE><BODY>The White House said President Reagan
+would make an announcement at 1530 EST/2030 gmt but the topic
+was undisclosed.
+    A spokesman said officials would brief reporters on details
+of the announcement afterwards.
+    Athough Reagan's topic was not disclosed, speculation
+centered on the possible naming of a nominee to to head the CIA
+or a response to the Soviet Union's offer to negotiate a
+separate arms control agreement on medium range missiles in
+Europe.
+ Reuter
+&#3;</BODY></TEXT>

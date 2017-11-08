@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12215" NEWID="7302">
+<DATE>19-MAR-1987 13:40:15.00</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1905&#31;reute
+d f BC-&lt;CCR-VIDEO-CORP>-1ST   03-19 0041</UNKNOWN>
+<TEXT>&#2;
+<TITLE>&lt;CCR VIDEO CORP> 1ST HALF FEB 28 NET</TITLE>
+<DATELINE>    LOS ANGELES, March 19 -
+    </DATELINE><BODY>Shr profit 10 cts vs loss one ct
+    Net profit 647,390 vs loss 75,967
+    Sales 2,120,027 vs 1,666,908
+    NOTE: Current year net includes 456,004 dlr gain from debt
+extinguishment.
+ Reuter
+&#3;</BODY></TEXT>

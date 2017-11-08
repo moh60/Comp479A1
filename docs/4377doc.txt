@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9290" NEWID="4377">
+<DATE>12-MAR-1987 13:28:43.47</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0940&#31;reute
+d f BC-VARIAN-&lt;VAR>-GETS-19   03-12 0059</UNKNOWN>
+<TEXT>&#2;
+<TITLE>VARIAN &lt;VAR> GETS 19 MLN DLR SUBCONTRACT</TITLE>
+<DATELINE>    PALO ALTO, Calif., March 12 - </DATELINE><BODY>Varian Associates Inc said it
+received a 19 mln dlr subcontract from General Electric Co &lt;GE>
+for 36 100 kilowatt transmitters to be used in the Air Force's
+advanced AN/FPS-118 over-the-horizon backscatter radar systems.
+    Nearly 15 mln dlrs was funded immediately, Varian said.
+ Reuter
+&#3;</BODY></TEXT>

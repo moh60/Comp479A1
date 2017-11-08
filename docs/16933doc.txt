@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1468" NEWID="16933">
+<DATE>17-APR-1987 22:43:51.21</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>taiwan</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0475&#31;reute
+u f BC-TAIWAN-ISSUES-MORE-CD   04-17 0098</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TAIWAN ISSUES MORE CDS TO CURB MONEY SUPPLY GROWTH</TITLE>
+<DATELINE>    TAIPEI, April 18 - </DATELINE><BODY>The central bank has issued 5.3 billion
+Taiwan dlrs of certificates of deposits (CDs), boosting CD
+issues so far this year to 140.42 billion compared with 16
+billion issued in the same 1986 period.
+    The new CDs, with maturities of six months, one year and
+two years, carry interest rates ranging from 4.07 to 5.12 pct,
+a bank spokesman told Reuters.
+    The issues are aimed at helping curb the growth of M-1b
+money supply, the result of large foreign exchange reserves now
+at more than 53 billion U.S. Dlrs.
+ REUTER
+&#3;</BODY></TEXT>

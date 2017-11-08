@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9800" NEWID="4887">
+<DATE>13-MAR-1987 12:39:39.44</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0690&#31;reute
+d f BC-BPI-SYSTEMS-&lt;BPII>-IN   03-13 0069</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BPI SYSTEMS &lt;BPII> IN TALKS TO SELL COMPANY</TITLE>
+<DATELINE>    AUSTIN, Texas, March 13 - </DATELINE><BODY>BPI Systems Inc said it is
+holding discussions that could lead to the sale of all its
+outstanding shares for about 12 mln dlrs.
+    BPI president and chief executive officer David R. Fernald
+declined to identify the other party involved in the talks.
+    For the nine months ended December 31, BPI lost 1,286,000
+dlrs on sales of 6,452,000 dlrs.
+ Reuter
+&#3;</BODY></TEXT>

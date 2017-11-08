@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10595" NEWID="5682">
+<DATE>16-MAR-1987 16:19:49.98</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f3573&#31;reute
+r f BC-TECH-DATA-CORP-&lt;TECD>   03-16 0054</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TECH DATA CORP &lt;TECD> 4TH QTR ENDS JAN 31 NET</TITLE>
+<DATELINE>    CLEARWATER, Fla, March 16 -
+    </DATELINE><BODY>Shr 24 cts vs 13 cts
+    Net 771,000 vs 314,000
+    Revs 24.1 mln vs 11.3 mln
+    Avg shrs 3,234,000 vs 2,426,000
+    12 mths
+    Shr 65 cts vs 38 cts
+    Net 1,983,000 vs 904,000
+    Revs 71.5 mln vs 37.7 mln
+    Avg shrs 3,035,000 vs 2,371,000
+ Reuter
+&#3;</BODY></TEXT>

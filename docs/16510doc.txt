@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1045" NEWID="16510">
+<DATE>13-APR-1987 13:24:15.24</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1986&#31;reute
+d f BC-BOOTHE-&lt;BCMP.O>-MAKES   04-13 0097</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BOOTHE &lt;BCMP.O> MAKES ACQUISITION</TITLE>
+<DATELINE>    SAN FRANCISCO, April 13 - </DATELINE><BODY>Boothe Financial Corp, a
+diversified holding company, said it has acquired the &lt;Robert
+Half and Accountemps> franchises in New England, including four
+offices in Boston and Eastern Massachusetts and one office in
+Providence, R.I.
+    Boothe said it previously announced the purchase of &lt;Robert
+Half International Inc> the franchisor of the Robert Half and
+Accountemps offices in the U.S.
+    The company said the aggregate purchase price it paid for
+Robert Half International and the franchises was about 59 mln
+dlrs.
+ Reuter
+&#3;</BODY></TEXT>

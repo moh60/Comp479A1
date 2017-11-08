@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10520" NEWID="5607">
+<DATE>16-MAR-1987 14:37:32.32</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f3301&#31;reute
+r f BC-HILTON-HOTELS-&lt;HLT>-T   03-16 0043</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HILTON HOTELS &lt;HLT> TO LAUNCH NEW PRODUCT</TITLE>
+<DATELINE>    NEW YORK, March 16 - </DATELINE><BODY>Hilton Hotels chairman and president
+Barron Hilton will introduce the hotel chain's newest product,
+the Hilton Suites, at a press conference Tuesday at the Waldorf
+Astoria, the company said.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12207" NEWID="7294">
+<DATE>19-MAR-1987 13:29:04.40</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1858&#31;reute
+d f BC-CYTOGEN-&lt;CYTO>-TO-EXP   03-19 0086</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CYTOGEN &lt;CYTO> TO EXPAND IMAGING TESTS</TITLE>
+<DATELINE>    PRINCETON, N.J., March 19 - </DATELINE><BODY>Cytogen Corp said its will
+expand clinical trials of its cancer imaging technology. It
+said the new studies were anticipated to begin by mid year.
+    It said the first phase of human testing begain in October.
+The technology uses a monocloncal antibody tagged with a
+radioisotope to diagnose colorectal cancer and several
+other cancer types. It said preliminary studies revealed the
+antibody combination was well tolerated in the patients
+studied.
+ Reuter
+&#3;</BODY></TEXT>

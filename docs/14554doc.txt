@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="3537" NEWID="14554">
+<DATE> 7-APR-1987 15:57:21.25</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;M
+&#22;&#22;&#1;f2313&#31;reute
+d f BC-westmin-to-raise   04-07 0097</UNKNOWN>
+<TEXT>&#2;
+<TITLE>WESTMIN TO RAISE MYRA FALLS CAPACITY BY 33 PCT</TITLE>
+<DATELINE>    CALGARY, Alberta, April 7 - </DATELINE><BODY>&lt;Westmin Resources Ltd> said it
+plans to increase capacity at its Myra Falls, British Columbia,
+base and precious metal mine and mill complex by 33 pct to
+4,400 tons of ore a day, subject to regulatory approvals.
+    The company said the expansion will cost about 24 mln dlrs
+and could be in operation by 1988.
+    Economies of scale from the expansion should pay back net
+expansion cost in less than one year, Westmin said.
+    The Myra Falls complex processed 3,257 tons of ore a day
+during 1986.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12924" NEWID="741">
+<DATE> 2-MAR-1987 15:45:38.79</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0936&#31;reute
+r f BC-FOOTE-MINERAL-&lt;FTE>-S   03-02 0071</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FOOTE MINERAL &lt;FTE> SELLS CAMBRIDGE PLANT</TITLE>
+<DATELINE>    EXTON, Pa., March 2 - </DATELINE><BODY>Foote Mineral Co said it signed a
+letter of intent with Shieldalloy Corp, a wholly-owned
+subsidiary of &lt;Metallurg Inc>, for the sale of its Cambridge,
+Ohio, business.
+    The company said the sale, which will be explained in
+greater detail after the definitive agreement has been signed,
+is part of Foote's previously-announced plan to sell the entire
+company.
+
+ Reuter
+&#3;</BODY></TEXT>

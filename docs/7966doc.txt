@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13487" NEWID="7966">
+<DATE>20-MAR-1987 16:08:42.54</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2365&#31;reute
+u f BC-WENDY'S-&lt;WEN>-DECLNES   03-20 0098</UNKNOWN>
+<TEXT>&#2;
+<TITLE>WENDY'S &lt;WEN> DECLNES COMMENT ON MARKET RUMORS</TITLE>
+<DATELINE>    CHICAGO, March 20 - </DATELINE><BODY>Wendy's International Inc declined to
+comment on vague rumors by traders that it might be a takeover
+target.
+    Wendy's is currently trading up one at 11-3/4 on turnover
+of more than 1.6 mln shares.
+    A Wendy's spokesman said it was corporate policy not to
+comment on market rumors.
+    He further declined to attribute active trading in Wendy's
+stock to a published report which stated Wall Street
+professionals believe that Wendy's was possibly being studied
+by Coca Cola Co (KO) with view to a possible acquisition.
+ Reuter
+&#3;</BODY></TEXT>

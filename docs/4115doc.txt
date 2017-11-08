@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9028" NEWID="4115">
+<DATE>12-MAR-1987 07:09:26.65</DATE>
+<TOPICS><D>trade</D></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E V RM
+&#22;&#22;&#1;f0526&#31;reute
+b f BC-embargoed-0700edt-CAN   03-12 0095</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CANADA JANUARY TRADE SURPLUS 533 MLN DLRS</TITLE>
+<DATELINE>    OTTAWA, Mar 12 - </DATELINE><BODY>Canada had a trade surplus of 533 mln dlrs
+in January compared with an upward revised 965 mln dlrs surplus
+in December, Statistics Canada said.
+    The December surplus originally was reported at 964 mln
+dlrs. The January surplus last year was 1.19 billion dlrs.
+    January exports, seasonally adjusted, were 9.72 billion
+dlrs against 10.39 billion in December and 10.89 billion in
+January, 1986.
+    January imports were 9.19 billion dlrs against 9.43 billion
+in December and 9.71 billion in January 1986.
+ Reuter
+&#3;</BODY></TEXT>

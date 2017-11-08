@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="599" NEWID="12371">
+<DATE> 1-APR-1987 18:11:48.24</DATE>
+<TOPICS><D>ship</D><D>crude</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;C
+&#22;&#22;&#1;f2662&#31;reute
+u f BC-ny-tankers   04-01 0019</UNKNOWN>
+<TEXT TYPE="UNPROC">&#2;
+N.Y. TANKERS - April 1
+    Citgo took West Virginia 62,000 tons dirty April 9
+Caribbean to U.S. Gulf worldscale 63
+ reuter
+&#3;
+
+</TEXT>

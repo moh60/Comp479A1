@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20183" NEWID="21253">
+<DATE>19-OCT-1987 12:22:08.04</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1916&#31;reute
+d f BC-SYSTEM-SOFTWARE-&lt;SSAX   10-19 0050</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SYSTEM SOFTWARE &lt;SSAX.O> COMPLETES ACQUISITION</TITLE>
+<DATELINE>    CHICAGO, Oct 19 - </DATELINE><BODY>System Software Associates Inc said it
+completed its previously-announced acquisition of Admin EDP Pty
+Ltd for cash and a small amount of stock.
+    Admin EDP, of Sydney, Australia, is a full-service software
+sales and services firm.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="BYPASS" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="3072" NEWID="14089">
+<DATE> 7-APR-1987 11:25:33.92</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;L C
+&#22;&#22;&#1;f1256&#31;reute
+u f BC-OMAHA-CATTLE-UP-0.50   04-07 0046</UNKNOWN>
+<TEXT>&#2;
+<TITLE>OMAHA CATTLE UP 0.50 DLR - USDA</TITLE>
+<DATELINE>    omaha, april 7 - </DATELINE><BODY>barrow and gilt prices rose 0.50 dlr in
+moderately active trade, the usda said.
+    steers - choice 2-4 1100-1400 lbs 66.50-67.50, two loads
+68.00-68.50.
+    heifers - choice 2-4 975-1150 lbs 64.50-65.00, two loads
+65.75-66.00.
+ Reuter
+&#3;</BODY></TEXT>

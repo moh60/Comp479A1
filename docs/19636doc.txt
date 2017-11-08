@@ -1,0 +1,20 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7964" NEWID="19636">
+<DATE>29-JUN-1987 10:41:34.22</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>nasdaq</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1200&#31;reute
+u f BC-TEXAS-AMERICAN-ENERGY   06-29 0032</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TEXAS AMERICAN ENERGY &lt;COLD.O> TO RELEASE NEWS</TITLE>
+<DATELINE>    NEW YORK, June 29 - </DATELINE><BODY>Texas American Energy Corp said it will
+release information soon following the halt of its stock on the
+NASDAQ exchange.
+ Reuter
+&#3;</BODY></TEXT>

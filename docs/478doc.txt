@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12661" NEWID="478">
+<DATE> 2-MAR-1987 11:09:06.82</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F
+&#22;&#22;&#1;f0882&#31;reute
+r f BC-FOUR-SEASONS-BUYING-M   03-02 0100</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FOUR SEASONS BUYING MARRIOTT &lt;MHS> HOTEL</TITLE>
+<DATELINE>    TORONTO, March 2 - </DATELINE><BODY>&lt;Four Seasons Hotels Inc> and VMS Realty
+Partners said they agreed to acquire the Santa Barbara Biltmore
+Hotel in California from Marriott Corp, for undisclosed terms.
+    Closing was expected by March 31, they added.
+    The companies said they would jointly own the hotel and
+rename it the Four Seasons Biltmore at Santa Barbara. They said
+they would spend more than 13 mln U.S. dlrs "to enhance the
+Biltmore's position as one of the finest resort hotels in North
+America." Chicago-based VMS Realty is a real estate and
+development firm.
+ Reuter
+&#3;</BODY></TEXT>

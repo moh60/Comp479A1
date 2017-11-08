@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="BYPASS" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="3222" NEWID="14239">
+<DATE> 7-APR-1987 12:07:23.72</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;MQ
+&#22;&#22;&#1;f1460&#31;reute
+u f BC-ny-metals-est-vols   04-07 0044</UNKNOWN>
+<TEXT TYPE="UNPROC">&#2;
+N.Y. METALS FUTURES ESTIMATED VOLUMES- APRIL 7
+ Time      10.00  11.00  12.00
+ Silver     8000  13000  17000
+ Copper      900   1700   2500
+ Gold       4500   8000  10500
+ Aluminum      0      1      1
+ Palladium  ----    190    239
+ Platinum   ----   2226   2876
+ Reuter
+&#3;
+
+</TEXT>

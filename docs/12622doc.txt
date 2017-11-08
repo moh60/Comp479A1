@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="NOT-USED" CGISPLIT="PUBLISHED-TESTSET" OLDID="21479" NEWID="12622">
+<DATE> 2-APR-1987 11:45:31.59</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1554&#31;reute
+r f BC-TO-FITNESS-&lt;TFIT>-CHA   04-02 0080</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TO-FITNESS &lt;TFIT> CHANGES OFFERING TERMS</TITLE>
+<DATELINE>    BAY HARBOUR ISLAND, Fla., April 2 - </DATELINE><BODY>To-Fitness Inc said it
+has changed the terms of a proposed five mln unit offering
+expected to be made at 1,000 dlrs per unit through underwriter
+Eastlake Securities Inc.
+    The company said now each unit will consist of 100
+redeemable cumulative preferred shares and a number of common
+shares to be determined at the time of the offering.
+Previously, the units were to consist entirely of preferred.
+ Reuter
+&#3;</BODY></TEXT>

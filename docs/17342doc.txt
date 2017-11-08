@@ -1,0 +1,20 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="NOT-USED" CGISPLIT="PUBLISHED-TESTSET" OLDID="21964" NEWID="17342">
+<DATE>27-APR-1987 11:02:46.90</DATE>
+<TOPICS><D>sugar</D></TOPICS>
+<PLACES><D>uk</D><D>syria</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C T
+&#22;&#22;&#1;f1387&#31;reute
+u f BC-SYRIA-SEEKING-WHITE-S   04-27 0038</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SYRIA SEEKING WHITE SUGAR NEXT MONTH - TRADE</TITLE>
+<DATELINE>    LONDON, April 27 - </DATELINE><BODY>Syria is holding a buying tender on May
+6, for reply the next day, for 24,000 tonnes white sugar for
+shipment in two equal parts in June and July, traders said.
+ Reuter
+&#3;</BODY></TEXT>

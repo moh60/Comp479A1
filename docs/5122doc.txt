@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10035" NEWID="5122">
+<DATE>13-MAR-1987 18:22:03.26</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0700&#31;reute
+r f BC-MANVILLE-&lt;QMAN>-NAMES   03-13 0075</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MANVILLE &lt;QMAN> NAMES FINANCIAL OFFICER</TITLE>
+<DATELINE>    DENVER, March 13 - </DATELINE><BODY>Manville Corp said it named John Roach
+senior vice president and chief financial officer.
+    The post of chief financial officer has been vacant since
+W.T. Stephens was appointed president of the company last
+April, Manville said.
+    Roach, 43, was most recently a partner of Braxton
+Associates, a unit of the accounting firm Touche Ross and Co.
+He was previously with Northrop Corp &lt;NOC>.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16991" NEWID="10930">
+<DATE>30-MAR-1987 13:06:56.10</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1938&#31;reute
+r f BC-SIERRACIN-&lt;SER>-PAYS   03-30 0067</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SIERRACIN &lt;SER> PAYS DEBT, GETS NEW LOAN PACT</TITLE>
+<DATELINE>    SYLMAR, Calif., March 30 - </DATELINE><BODY>Sierracin Corp said it completed
+the repayment of its entire 14 mln dlr bank debt and entered a
+new, unsecured revolving credit term loan agreement.
+    The new arrangement provides for borrowings of up to 10 mln
+dlrs at the bank's prime rate and replaces a secured credit
+line which expired in February, Sierracin also said.
+ Reuter
+&#3;</BODY></TEXT>

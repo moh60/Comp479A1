@@ -1,0 +1,37 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20321" NEWID="21116">
+<DATE>19-OCT-1987 14:07:42.37</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>nyse</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2468&#31;reute
+b f BC-NYSE-SAYS-IT-IS-CONFI   10-19 0089</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NYSE SAYS IT IS CONFIDENT IT CAN HANDLE VOLUME</TITLE>
+<DATELINE>    NEW YORK, Oct 19 - </DATELINE><BODY>The New York Stock Exchange said it is
+confident that its computer systems can handle the pace of
+trading volume today.
+    "We are confident that whatever volume we have this
+afternoon, we can handle it," said Richard Torrenzano, a vice
+president at the NYSE.
+    With two hours of trading left, a record 422 mln shares
+have traded hands, far outpacing the volume on the market's
+busiet days. The previous busiest day was last Friday, when 338
+mln shares traded.
+    "Our systems have been tested and they can handle heavy
+volume effectiviy and efficiently," Torrenzano said.
+    He said the Exchange has been in constant contact with the
+Securities and Exchange Commission concerning today's record
+breaking decline and heavy volume. He declined to comment on
+the context of those discussions.
+    Earlier today, SEC chairman David Ruder said a brief
+trading halt has been discussed as one way of restoring order
+to the market, but stressed he is not recommending one at this
+time. He did not say if the option was discussed with the NYSE.
+ Reuter
+&#3;</BODY></TEXT>

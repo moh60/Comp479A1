@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="NOT-USED" CGISPLIT="PUBLISHED-TESTSET" OLDID="21877" NEWID="17255">
+<DATE>27-APR-1987 06:31:40.95</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>japan</D><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0450&#31;reute
+u f BC-TOSHIBA-TO-SET-UP-MIC   04-27 0064</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TOSHIBA TO SET UP MICROCHIP PARTNERSHIP IN U.S.</TITLE>
+<DATELINE>    TOKYO, April 27 - </DATELINE><BODY>Toshiba Corp &lt;TSBA.T> will set up a
+five-year technology partnership with California-based SDA
+Systems Inc with the intention of designing and producing
+computer microchips, a company spokesman said.
+    Toshiba's investment in the project is likely to total less
+than 10 mln dlrs over the five years, he said.
+ REUTER
+&#3;</BODY></TEXT>

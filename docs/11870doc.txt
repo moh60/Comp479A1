@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="98" NEWID="11870">
+<DATE> 1-APR-1987 08:31:25.83</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>west-germany</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0683&#31;reute
+d f BC-VW'S-CREDIT-BANK-SUBS   04-01 0087</UNKNOWN>
+<TEXT>&#2;
+<TITLE>VW'S CREDIT BANK SUBSIDIARY OPTIMISTIC FOR 1987</TITLE>
+<DATELINE>    BRUNSWICK, West Germany, April 1 - </DATELINE><BODY>V.A.G. Kredit Bank GmbH,
+the credit bank subsidiary of Volkswagen AG &lt;VOWG.F>, said it
+was optimistic for 1987 after raising turnover and balance
+sheet total in 1986.
+    V.A.G., Which finances the purchase of new and used cars
+for VW customers, said 1986 profits met expectations but gave
+no details.
+    Financing turnover rose by 4.2 billion marks to 24.4
+billion in 1986. Balance sheet total increased by 228 mln marks
+to 2.84 billion.
+ REUTER
+&#3;</BODY></TEXT>

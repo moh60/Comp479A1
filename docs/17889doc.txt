@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7334" NEWID="17889">
+<DATE> 2-JUN-1987 02:46:50.85</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>japan</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0100&#31;reute
+u f BC-FUJITSU-GROUP-FORECAS   06-02 0063</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FUJITSU GROUP FORECASTS 75 PCT RISE IN NET PROFITS</TITLE>
+<DATELINE>    TOKYO, June 2 - </DATELINE><BODY>Fujitsu Ltd &lt;ITSU.T> has forecast that
+group net profits will rise 75.9 pct in the current year to 38
+billion yen and current profits will rise 72.6 pct to 65
+billion, the company said in its earnings statement.
+    Sales are expected to rise 14 pct to 2,040 billion yen in
+the same period, it said.
+ REUTER
+&#3;</BODY></TEXT>

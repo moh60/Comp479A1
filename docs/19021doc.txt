@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6857" NEWID="19021">
+<DATE>18-JUN-1987 21:07:33.30</DATE>
+<TOPICS><D>money-fx</D><D>dlr</D></TOPICS>
+<PLACES></PLACES>
+<PEOPLE><D>miyazawa</D></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM AI 
+&#22;&#22;&#1;f5083&#31;reute
+f f BC-Japan-still-asking-in   06-18 0013</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE>Japan still asking institutions to limit speculative dlr
+deals - Miyazawa
+</TITLE>&#3;
+
+</TEXT>

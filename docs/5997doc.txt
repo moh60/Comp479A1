@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10909" NEWID="5997">
+<DATE>17-MAR-1987 10:57:20.54</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f5258&#31;reute
+d f BC-LTV-&lt;QLTV>-GETS-MARIN   03-17 0059</UNKNOWN>
+<TEXT>&#2;
+<TITLE>LTV &lt;QLTV> GETS MARINE CORPS CONTRACT</TITLE>
+<DATELINE>    SOUTH BEND, Ind., March 17 - </DATELINE><BODY>LTV Corp said it has received
+a 23.5 mln dlr fixed-price contract to rebuild 923 M54 five-ton
+cargo trucks into more modern M813 cargo trucks.
+    It said it will deliver 120 conversion kits a months,
+starting late in the second quarter and ending early in the
+first quarter of 1988.
+ Reuter
+&#3;</BODY></TEXT>

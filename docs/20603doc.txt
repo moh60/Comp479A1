@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="21198" NEWID="20603">
+<DATE>20-OCT-1987 15:01:13.20</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2832&#31;reute
+r f BC-GRAPHIC-TECHNOLOGY-&lt;G   10-20 0047</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GRAPHIC TECHNOLOGY &lt;GRT> BEGINS STOCK REPURCHASE</TITLE>
+<DATELINE>    KANSAS CITY, Oct 20 - </DATELINE><BODY>Graphic Technology Inc said its board
+has authorized the periodic repurchase of up to 100,000 shares
+of common stock.
+    The company said the board believed that the stock has been
+undervalued in the market.
+ Reuter
+&#3;</BODY></TEXT>

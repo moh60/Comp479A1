@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4852" NEWID="15675">
+<DATE> 9-APR-1987 11:50:30.61</DATE>
+<TOPICS><D>orange</D></TOPICS>
+<PLACES><D>italy</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C T
+&#22;&#22;&#1;f1452&#31;reute
+d f BC-WEATHER-HURTS-ITALIAN   04-09 0114</UNKNOWN>
+<TEXT>&#2;
+<TITLE>WEATHER HURTS ITALIAN ORANGES - USDA REPORT</TITLE>
+<DATELINE>    WASHINGTON, April 9 - </DATELINE><BODY>Unfavorable weather conditions during
+the second week of March caused damage to oranges in the
+Calabria region in southern Italy, the U.S. Agriculture
+Department's officer in Rome said in a field report.
+    The report, dated April 3, said the region accounts for
+about 22,000 hectares of the Italian orange crop or about 26
+pct of total production.
+    However, orange production in the region for marketing year
+1986/87 is forecast at 565,000 tonnes or 25 pct of the total
+Italian orange crop, it said.
+    The report said trade contacts agree that about 15 pct of
+the orange output in Calabria was damaged by frost.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19687" NEWID="3265">
+<DATE> 9-MAR-1987 13:27:30.75</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0162&#31;reute
+h f BC-ALC'S-&lt;ALCC>ALLNET-TO   03-09 0082</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ALC'S &lt;ALCC>ALLNET TO CONSOLIDATE DATA CENTERS</TITLE>
+<DATELINE>    BIRMINGHAM, MICH., March 9 - </DATELINE><BODY>ALC Communication Services Inc
+said its Allnet Communications Corp will consolidate its two
+data centers and relocate at a Southfield, Michigan office
+center.
+    The new facility will employ more than 300 people and is
+expected to absorb employees from the existing centers in
+Birmingham and Chicago, a company spokesman said.
+    Start-up of the consolidated computer data center is
+expected in late June, it said.
+ Reuter
+&#3;</BODY></TEXT>

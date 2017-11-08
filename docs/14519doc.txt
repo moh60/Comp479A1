@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="3502" NEWID="14519">
+<DATE> 7-APR-1987 15:46:29.51</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2271&#31;reute
+r f BC-MANHATTAN-NATIONAL-&lt;M   04-07 0087</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MANHATTAN NATIONAL &lt;MLC> ELECTS CHAIRMAN</TITLE>
+<DATELINE>    NEW YORK, April 7 - </DATELINE><BODY>Manhattan National Corp said it elected
+Charles Hinckley chairman and chief executive officer of the
+life insurance holding company.
+    Hinckley succeeds Wilmot Wheeler Jr, who returns to his
+former position as vice chairman, the company said.
+    Hinckley will continue as president and chief executive
+officer of Union Central Life Insurance Co, a Cincinnati-based
+mutual insurer, which owns approximately 52.2 pct of Manhattan
+National outstanding stock.
+
+ Reuter
+&#3;</BODY></TEXT>

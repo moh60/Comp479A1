@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="744" NEWID="16209">
+<DATE>13-APR-1987 08:23:44.97</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0688&#31;reute
+d f BC-NORTHROP-&lt;NOC>/EATON   04-13 0061</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NORTHROP &lt;NOC>/EATON &lt;ETN> IN HELICOPTER PROGRAM</TITLE>
+<DATELINE>    LOS ANGELES, April 13 - </DATELINE><BODY>Northrop Corp said it and Eaton
+Corp have been selected by the McDonnell Douglas Corp/Textron
+Inc team to codevelop the aircraft survivability equipment for
+the U.S. Army's light helicopter experimental program.
+    The Army is expected to pick contractors to produce the
+helicopters in 1992.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="3710" NEWID="14727">
+<DATE> 7-APR-1987 17:46:35.83</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE><D>james-baker</D><D>volcker</D><D>stoltenberg</D></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A RM
+&#22;&#22;&#1;f2595&#31;reute
+b f BC-BAKER,-VOLCKER-MEET-W   04-07 0094</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BAKER, VOLCKER MEET WEST GERMAN OFFICIALS</TITLE>
+<DATELINE>    WASHINGTON, April 7 - </DATELINE><BODY>Treasury Secretary James Baker and
+Federal Reserve Board Chairman Paul Volcker held a meeting with
+senior West German monetary officials, including Finance
+Minister Gerhard Stoltenberg, Volcker said.
+    Volcker emerged after two-hours in the Treasury building
+but declined to comment on the subjects they discussed.
+    Stoltenberg, accompanied by other senior West German
+officials attending the spring meeting of the International
+Monetary Fund, left the Treasury without speaking to reporters.
+ Reuter
+&#3;</BODY></TEXT>

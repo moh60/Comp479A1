@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5444" NEWID="15546">
+<DATE> 9-APR-1987 10:07:37.41</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0968&#31;reute
+b f BC-/SEARS,-ROEBUCK-&lt;S>-M   04-09 0060</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SEARS, ROEBUCK &lt;S> MARCH RETAIL SALES UP</TITLE>
+<DATELINE>    CHICAGO, April 9 - </DATELINE><BODY>Sears, Roebuck and Co said retail sales
+of its Merchandise Group in March rose 4.2 pct to 2.62 billion
+dlrs from 2.51 billion dlrs a year ago.
+    For the nine weeks ended April Four, Sears Merchandise
+Group sales rose 4.5 pct to 4.46 billion dlrs from 4.27 billion
+dlrs in the same 1986 period.
+ Reuter
+&#3;</BODY></TEXT>

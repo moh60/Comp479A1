@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18244" NEWID="1827">
+<DATE> 4-MAR-1987 16:58:20.79</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D><D>japan</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0853&#31;reute
+r f BC-&lt;OKUMA-MACHINERY-WORK   03-04 0063</UNKNOWN>
+<TEXT>&#2;
+<TITLE>&lt;OKUMA MACHINERY WORKS> BUILDS PLANT IN U.S</TITLE>
+<DATELINE>    CHARLOTTE, N.C., March 4 - </DATELINE><BODY>State Commerce Secretary Claude
+Pope said Japan's Okuma Machinery Works LTD will build a
+multi-million dollar manufacturing machinery plant here.
+    He said the plant will be the company's first in the U.S.
+and will employ approximately 150 people.
+    He said start-up date is set for late this year.
+ Reuter
+&#3;</BODY></TEXT>

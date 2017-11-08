@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10870" NEWID="5957">
+<DATE>17-MAR-1987 10:18:55.88</DATE>
+<TOPICS><D>rubber</D></TOPICS>
+<PLACES><D>switzerland</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;T
+&#22;&#22;&#1;f5079&#31;reute
+u f BC-NEGOTIATORS-DRAFT-DET   03-17 0088</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NEGOTIATORS DRAFT DETAILS OF NEXT RUBBER PACT</TITLE>
+<DATELINE>    GENEVA, March 17 - </DATELINE><BODY>Rubber producers and consumers, who
+agreed last week on the central elements of a new international
+natural rubber pact, have started work on the legal drafting of
+a future accord, delegates said.
+    Compromise on issues blocking an agreement was reached at a
+United Nations conference on an accord to replace the current
+pact, which expires in October.
+    The new International Natural Rubber Agreement (INRA) is
+expected to be formally adopted on Friday.
+ Reuter
+&#3;</BODY></TEXT>

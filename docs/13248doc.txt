@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="2249" NEWID="13248">
+<DATE> 5-APR-1987 03:43:04.85</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>indonesia</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0036&#31;reute
+r f BC-INDONESIAN-AIRLINER-C   04-05 0089</UNKNOWN>
+<TEXT>&#2;
+<TITLE>INDONESIAN AIRLINER CRASH KILLS 27 PEOPLE</TITLE>
+<DATELINE>    JAKARTA, April 5 - </DATELINE><BODY>Twenty-seven people were killed and 18
+injured when an Indonesian airliner flew into electricity lines
+and tumbled to the ground in an explosive ball of fire, airport
+officials said.
+    The Garuda Indonesia Airways DC-9 crashed yesterday on a
+domestic flight while carrying 37 passengers and eight crew
+members, an airline spokesman said.
+    The plane, made by McDonnell Douglas Corp &lt;MD.N>, cost 18
+mln dlrs and was one of 19 DC-9s in Garuda's fleet of 74 jets.
+ REUTER
+&#3;</BODY></TEXT>

@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14574" NEWID="9053">
+<DATE>24-MAR-1987 17:03:05.68</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2608&#31;reute
+d f BC-NORTHERN-INDIANA-PUBL   03-24 0071</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NORTHERN INDIANA PUBLIC SVC &lt;NI> AGAIN OMITS DIV</TITLE>
+<DATELINE>    HAMMIND, Ind., March 24 - </DATELINE><BODY>Northern Indiana Public Service
+Company said it again omitted its quarterly common stock
+dividend which would have been payable in May.
+    NIPSCO said it has not paid a qtly dividend since December
+1985 following an adverse decision by the Indiana Supreme Court
+denying amortization of about 191 mln dlrs NIPSCO invested in
+its Bailly N-1 project.
+ Reuter
+&#3;</BODY></TEXT>

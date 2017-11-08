@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="8124" NEWID="19796">
+<DATE>29-JUN-1987 13:54:05.60</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2022&#31;reute
+u f BC-SETON-&lt;SEL>-DIRECTORS   06-29 0042</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SETON &lt;SEL> DIRECTORS APPROVE MERGER AGREEMENT</TITLE>
+<DATELINE>    NEWARK, N.J., June 29 - </DATELINE><BODY>Seton Co said its board of
+directors unanimously approved an agreement and plan of merger
+providing for the merger of Seton with a unit of S Acquisition
+Corp, a New Jersey company.
+    Seton said its board of directors unanimously approved the
+merger in a meeting held today.
+    Seton said the agreement and plan of merger provides that
+all shares of Seton Co common stock not held by S Acquisition
+Corp, or its units, will be converted upon the merger into the
+right to receive 15.88 dlrs per share in cash.
+   
+ Reuter
+&#3;</BODY></TEXT>

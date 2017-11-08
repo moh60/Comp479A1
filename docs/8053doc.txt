@@ -1,0 +1,30 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13574" NEWID="8053">
+<DATE>20-MAR-1987 18:48:35.54</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;V RM
+&#22;&#22;&#1;f2693&#31;reute
+u f AM-ARMS-KAMPELMAN   03-20 0112</UNKNOWN>
+<TEXT>&#2;
+<TITLE>U.S. ARMS NEGOTIATOR SAID TO HAVE HEART ATTACK</TITLE>
+<DATELINE>    WASHINGTON, March 20 - </DATELINE><BODY>U.S. arms negotiator Max Kampelman
+suffered a mild heart attack, an aide said.
+    Nancy Tackett, Kampleman's staff assistant, told Reuters
+Kampelman was doing well and was expected to leave George
+Washington Hospital in about a week.
+    "A full recovery is expected," she said.
+    Kampelman did not feel well yesterday and may have
+sufffered the heart attack then, Tackett said. He had a
+regularly-scheduled physical this morning and entered the
+hospital after that, on his doctor's advice, she said.
+      A hospital spokesman confirmed that Kampelman was a
+patient in the coronary care unit.
+
+ Reuter
+&#3;</BODY></TEXT>

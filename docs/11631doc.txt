@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17693" NEWID="11631">
+<DATE>31-MAR-1987 15:28:34.68</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2434&#31;reute
+d f BC-MECHTON-INT'L-&lt;MCHT>   03-31 0075</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MECHTON INT'L &lt;MCHT> SETS STOCK BUYBACK</TITLE>
+<DATELINE>    ORLANDO, Fla., March 31 - </DATELINE><BODY>Mechton International Corp said
+its board authorized the company to buy its outstanding stock
+in the open market at prices deemed appropriate by management.
+    No amount of shares were specified.
+    The company also said it expects 1987 results to exceed
+1986 net income of 46,000 dlrs or three cts a share. It cited
+recent acquisitions and establishment of operations in France.
+ Reuter
+&#3;</BODY></TEXT>

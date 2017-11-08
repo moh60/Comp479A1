@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20394" NEWID="21043">
+<DATE>19-OCT-1987 14:55:34.56</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2687&#31;reute
+d f BC-SAFEGUARD-&lt;SFGD.O>-TO   10-19 0070</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SAFEGUARD &lt;SFGD.O> TO BUY BACK MORE SHARES</TITLE>
+<DATELINE>    ANAHEIM, Calif., Oct 19 - </DATELINE><BODY>Safeguard Health Enterprises Inc
+said its board authorized management to step up its stock
+repurchase program by doubling the repurchase ceiling to 1.6
+mln shares.
+    The company also said it has already purchased 691,000
+shares through September 30 under the previous authorization to
+buy 800,000 shares, or 10 pct of the stock then outstanding.
+ Reuter
+&#3;</BODY></TEXT>

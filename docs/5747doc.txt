@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10660" NEWID="5747">
+<DATE>16-MAR-1987 18:19:54.90</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A RM
+&#22;&#22;&#1;f3854&#31;reute
+r f BC-FNMA-&lt;FNM>-WILL-NOT-B   03-16 0062</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FNMA &lt;FNM> WILL NOT BUY HOME-EQUITY LOANS</TITLE>
+<DATELINE>    WASHINGTON, March 16 - </DATELINE><BODY>The Federal National Mortgage
+Association said it will not purchase home-equity loans as part
+of its mortgage-purchase and swap activities in the secondary
+market.
+    "We don't believe that our provision of liquidity is needed
+in this segment of the market," David Maxwell, Fannie Mae's
+chairman, said.
+ Reuter
+&#3;</BODY></TEXT>

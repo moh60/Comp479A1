@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15847" NEWID="10326">
+<DATE>27-MAR-1987 05:12:31.32&#5;&#5;&#5;RM</DATE>
+<UNKNOWN>&#22;&#22;&#1;f0315&#31;reute</UNKNOWN>
+<TOPICS></TOPICS>
+<PLACES><D>taiwan</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+u f BC-TAIWAN-ISSUES-MORE-CE   03-27 0096</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TAIWAN ISSUES MORE CERTIFICATES OF DEPOSITS</TITLE>
+<DATELINE>    TAIPEI, March 27 - </DATELINE><BODY>The Central Bank issued 2.47 billion
+Taiwan dlrs worth of certificates of deposit (CDs), raising CD
+issues so far this year to 141.93 billion, a bank spokesman
+told Reuters.
+    The new CDs, repayable from six months to one year, carry
+interest rates ranging from 4.07 pct to five pct, he said.
+    The issues are intended to help curb the growth of the M-1b
+money supply, which has expanded as a result of large foreign
+exchange reserves.
+    The reserves hit a record 53 billion U.S. Dlrs this week.
+ REUTER
+&#3;</BODY></TEXT>

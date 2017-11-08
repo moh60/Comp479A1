@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="359" NEWID="12131">
+<DATE> 1-APR-1987 13:11:58.10</DATE>
+<TOPICS><D>interest</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;A
+&#22;&#22;&#1;f1827&#31;reute
+r f BC-FIRST-BANK-SYSTEMS-&lt;F   04-01 0037</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FIRST BANK SYSTEMS &lt;FBS> UNITS HIKE RATE</TITLE>
+<DATELINE>    MINNEAPOLIS, April 1 - </DATELINE><BODY>First Bank Minneaplois and First
+Bank Saint Paul, both units of First Bank Systems Inc, said
+they raised their reference rates to 7-3/4 pct from 7-1/2 pct.
+ Reuter
+&#3;</BODY></TEXT>

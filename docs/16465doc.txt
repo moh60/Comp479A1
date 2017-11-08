@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1000" NEWID="16465">
+<DATE>13-APR-1987 12:39:39.48</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1785&#31;reute
+d f BC-ARRAYS-&lt;ARAY>-COMPLET   04-13 0056</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ARRAYS &lt;ARAY> COMPLETES MERGER</TITLE>
+<DATELINE>    VAN NUYS, Calif., April 13 - </DATELINE><BODY>Arrays Inc said it completed
+its merger with Haba Systems Inc.
+    Terms of the merger called for each share of Arrays to be
+exchange for a share of Haba in a transaction valued at 4.1 mln
+dlrs, the company said.
+    Both companies produce and market microcomputer software.
+ Reuter
+&#3;</BODY></TEXT>

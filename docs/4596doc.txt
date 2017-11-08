@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9509" NEWID="4596">
+<DATE>12-MAR-1987 17:58:36.36</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0765&#31;reute
+d f BC-TITAN-&lt;TTN>-EXTENDS-O   03-12 0052</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TITAN &lt;TTN> EXTENDS ODD LOT TENDER OFFER</TITLE>
+<DATELINE>    SAN DIEGO, March 12 - </DATELINE><BODY>Titan Corp said it extended its
+odd-lot tender offer program to purchase shares of its
+preferred stock to June 10, 1987.
+    The offer is made to holders of 99 or fewer preferred
+shares.
+    The offer was originally scheduled to expire March 10.
+ Reuter
+&#3;</BODY></TEXT>

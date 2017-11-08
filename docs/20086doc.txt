@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20681" NEWID="20086">
+<DATE>20-OCT-1987 07:20:51.65</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f0595&#31;reute
+f f BC-German-Boersen-Zeitun   10-20 0012</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE> German Boersen-Zeitung share index only 1.2 pct down at bourse start
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

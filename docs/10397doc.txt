@@ -1,0 +1,18 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15918" NEWID="10397">
+<DATE>27-MAR-1987 09:04:09.37&#5;&#5;&#5;RM</DATE>
+<UNKNOWN>&#22;&#22;&#1;f0780&#31;reute</UNKNOWN>
+<TOPICS><D>interest</D></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+f f BC-Top-discount-rate-at   03-27 0010</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE> Top discount rate at U.K. Bill tender rises to 9.3456 pct
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

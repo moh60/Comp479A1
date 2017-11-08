@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9463" NEWID="4550">
+<DATE>12-MAR-1987 16:42:50.90</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0555&#31;reute
+h f BC-FARM-EQUIPMENT-RETAIL   03-12 0093</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FARM EQUIPMENT RETAIL SALES FALL IN FEBRUARY</TITLE>
+<DATELINE>    CHICAGO, March 12 - </DATELINE><BODY>Sale of farm wheel tractors in February
+declined 26.7 pct to 4,123 units from 5,627 units a year ago,
+reported the Farm and Industrial Equipment Institute.
+    Year to date, total tractor sales fell 21.7 pct to 10,354
+units from 13,231 units a year ago.
+    The trade group said in the two-wheel drive sector, 2,477
+under 40 horsepower tractors were sold compared to 2,479 a year
+ago during the month, while in the 40 to 100 horsepower sector,
+1,323 units were sold compared to 1,810 units.
+ Reuter
+&#3;</BODY></TEXT>

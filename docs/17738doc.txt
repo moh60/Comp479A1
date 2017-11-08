@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6076" NEWID="17738">
+<DATE> 1-JUN-1987 14:59:23.27</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2170&#31;reute
+r f BC-CO-OPERATIVE-&lt;COBK.O>   06-01 0067</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CO-OPERATIVE &lt;COBK.O> COMPLETES ACQUISITION</TITLE>
+<DATELINE>    ACTON, Mass., June 1 - </DATELINE><BODY>Co-operative Bancorp said it
+completed the acquisition of all the issued and outstanding
+stock of the Quincy Co-operative Bank &lt;QBCK.O>.
+    Under the agreement, Quincy stockholders will receive 30
+dlrs cash for each share owned of the Quincy Co-operative Bank,
+for a total transaction of approximately 50 mln dlrs,
+Co-operative said.
+ Reuter
+&#3;</BODY></TEXT>

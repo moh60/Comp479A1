@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="NOT-USED" CGISPLIT="PUBLISHED-TESTSET" OLDID="21662" NEWID="17012">
+<DATE>21-APR-1987 12:13:27.73</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F Y
+&#22;&#22;&#1;f1605&#31;reute
+r f BC-dome-&lt;dmp>-executives   04-21 0083</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TURNER TO MEET WITH DOME &lt;DMP> EXECUTIVES</TITLE>
+<DATELINE>    Ottawa, April 21 - </DATELINE><BODY>Liberal Party leader John Turner said he
+will meet with senior executives of Dome Petroleum Ltd in
+Calgary tomorrow to discuss the proposed sale of Dome.
+    Turner's office said he will hold a news conference
+tomorrow at 1400 MDT (1600 EDT) in Calgary.
+    Turner, who is opposition leader in Parliament, has
+criticized Dome's acceptance of a 5.1 billion dlr takeover bid
+from Amoco Corp &lt;AN> as a sell-out of Canada's oil industry.
+ Reuter
+&#3;</BODY></TEXT>

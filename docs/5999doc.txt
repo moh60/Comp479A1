@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10912" NEWID="5999">
+<DATE>17-MAR-1987 10:58:59.69</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>spain</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C T
+&#22;&#22;&#1;f5261&#31;reute
+r f BC-SPAIN-TO-SUSPEND-LEMO   03-17 0058</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SPAIN TO SUSPEND LEMON EXPORTS FROM THURSDAY</TITLE>
+<DATELINE>    VALENCIA, Spain, March 17 - </DATELINE><BODY>Spain's citrus management
+committee said it was suspending lemon exports from Thursday in
+view of the likelihood of new European Community tariffs.
+    A committee spokesman said the body would meet next week to
+review the situation and decide whether to lift the suspension.
+ Reuter
+&#3;</BODY></TEXT>

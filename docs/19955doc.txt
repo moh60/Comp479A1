@@ -1,0 +1,35 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="8283" NEWID="19955">
+<DATE>29-JUN-1987 17:57:11.43</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2732&#31;reute
+u f BC-CONTEL-&lt;CTC>-UNIT-SAL   06-29 0101</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CONTEL &lt;CTC> UNIT SALES SEEN BY ANALYSTS</TITLE>
+<DATELINE>    NEW YORK, June 29 - </DATELINE><BODY>Contel Corp's telecommunications
+equipment unit is the most likely candidate for sale by the
+Atlanta-based telecommunications company, Wall Street analysts
+said.
+    "Executone is at the top of the list," said one analyst,
+referring to Contel's loss-riden telecommunications equipment
+unit. "The question is, who would take it?" he added.
+    The company, forecasting a 15 pct drop in 1987 operating
+earnings over last year, said late today that it is reviewing
+all operations in an effort aimed at "maximizing long-term
+stockholder value."
+    Analysts also said Contel's federal systems division, which
+has been hit with several executive defections, may also be put
+on the block.
+    Contel officials declined to comment on the possibility of
+selling any operations. However, the company indicated in a
+statement that it was closely evaluating the telecommunications
+and federal systems units.
+ Reuter
+&#3;</BODY></TEXT>

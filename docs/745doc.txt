@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12928" NEWID="745">
+<DATE> 2-MAR-1987 15:54:16.76</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0963&#31;reute
+r f BC-UTILICORP-&lt;UCU>-ACQUI   03-02 0038</UNKNOWN>
+<TEXT>&#2;
+<TITLE>UTILICORP &lt;UCU> ACQUIRES DOMINION &lt;D> SUBSIDIARY</TITLE>
+<DATELINE>    KANSAS CITY, Mo., March 2 - </DATELINE><BODY>UtiliCorp United Inc said it
+has closed the previously announced acquisition of West
+Virginia Power from Dominion Resources Inc for about 21 mln
+dlrs.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="3377" NEWID="14394">
+<DATE> 7-APR-1987 14:54:55.64</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2111&#31;reute
+d f BC-PARTNERSHIP-BUYS-5.1   04-07 0094</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PARTNERSHIP BUYS 5.1 PCT ORANGE-CO &lt;OJ> STAKE</TITLE>
+<DATELINE>    WASHINGTON, April 7 - </DATELINE><BODY>Parsow Partnership Ltd, an Elkhorn,
+Neb., investment partnership, said it bought a 5.1 pct stake in
+Orange-Co Inc common stock as an investment.
+    In a filing with the Securities and Exchange Commission,
+Parsow said it had bought all its 220,000 Orange-Co shares in
+the open market with funds from its working capital.
+    The partnership, whose sole general partner is Elkhorn
+investor Alan Parsow, said it "has no present intention of
+effecting any change in the control of Orange-Co Inc."
+ Reuter
+&#3;</BODY></TEXT>

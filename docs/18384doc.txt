@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="NOT-USED" CGISPLIT="PUBLISHED-TESTSET" OLDID="22109" NEWID="18384">
+<DATE>15-JUN-1987 11:36:19.03</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>nyse</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1413&#31;reute
+r f BC-LEWIS-GALOOB-&lt;GATO.O>   06-15 0060</UNKNOWN>
+<TEXT>&#2;
+<TITLE>LEWIS GALOOB &lt;GATO.O> CLEARED FOR NYSE LISTING</TITLE>
+<DATELINE>    SOUTH SAN FRANCISCO, Calif., June 15 - </DATELINE><BODY>Lewis Galoob Toys
+Inc said it has been cleared to apply for New York Stock
+Exchange listing, and it has filed a formal application.
+    the company said it expects to be listed on the NYSE by the
+first week in July.
+    Galoob's stock is now traded on the NASDAQ system.
+ Reuter
+&#3;</BODY></TEXT>

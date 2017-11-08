@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1199" NEWID="16664">
+<DATE>13-APR-1987 16:19:35.97</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2526&#31;reute
+d f BC-FIRST-OF-AMERICA-BANK   04-13 0050</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FIRST OF AMERICA BANK INC &lt;FABK.O> 1ST QTR NET</TITLE>
+<DATELINE>    KALAMAZOO, MICH., April 13 -
+    </DATELINE><BODY>Shr 1.12 dlrs vs 1.27 dlrs
+    Net 15,000,000 vs 11,900,000
+    Avg shrs 9,642,403 vs 8,322,245
+    Loans 4.57 billion vs 3.29 billion
+    Deposits 6.80 billion vs 4.75 billion
+    Assets 7.75 billion vs 5.37 billion
+ Reuter
+&#3;</BODY></TEXT>

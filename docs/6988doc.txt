@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11901" NEWID="6988">
+<DATE>19-MAR-1987 05:22:52.38</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0293&#31;reute
+f f BC-DRG-Plc-issues-40-mln   03-19 0016</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE> DRG Plc issues 40 mln stg convertible bond due 2002, ind coupon 6 to 6-1/4 pct - lead Baring
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

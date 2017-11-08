@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7204" NEWID="19368">
+<DATE>19-JUN-1987 14:54:11.82</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2057&#31;reute
+u f BC-VR-&lt;VRBB.O>-CLOSES-ST   06-19 0104</UNKNOWN>
+<TEXT>&#2;
+<TITLE>VR &lt;VRBB.O> CLOSES STOCK SALE TO VR ACQUISITION</TITLE>
+<DATELINE>    BOSTON, Mass., June 19 - </DATELINE><BODY>VR Business Brokers Inc said it
+closed the sale of a controlling interest in its comon and
+preferred stock to VR Acquisition Corp, a Delaware corporation
+controlled by an investment group led by C. Robin Relph of
+London.
+    Under the agreement dated April 28, VR Business agreed to
+sell 5,008,120 shares of common stock and 11,846 shares of 10
+pct cumulative stock.
+    VR Business said it issued 3,964,000 shares of common stock
+and 11,846 shares of preferred stock, with the remaining shares
+of common to be listed within the next week to 10 days.
+ Reuter
+&#3;</BODY></TEXT>

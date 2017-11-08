@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12640" NEWID="457">
+<DATE> 2-MAR-1987 10:44:32.03</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0761&#31;reute
+r f BC-JUDGE-RULES-IN-FAVOR   03-02 0099</UNKNOWN>
+<TEXT>&#2;
+<TITLE>JUDGE RULES IN FAVOR OF DOW CHEM &lt;DOW> UNIT</TITLE>
+<DATELINE>    FREEHOLD, N.J., March 2 - </DATELINE><BODY>Dow Chemical Co said a judge on
+the New Jersey Superior Court for Monmouth County granted its
+Merrell Dow Pharmaceuticals Inc unit a motion for a directed
+verdict in its favor in a case alleging its morning sickness
+drug, Bendectin, caused a child's birth defects.
+    Merrell Dow said after plaintiffs had completed their
+presentation of evidence, Judge Marshall Selikoff granted the
+company's motion and discharged the jury on grounds tha
+plaintiffs did not present evidence showing the drug caused the
+child' problems.
+ Reuter
+&#3;</BODY></TEXT>

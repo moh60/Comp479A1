@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="21076" NEWID="20481">
+<DATE>20-OCT-1987 13:46:25.10</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2494&#31;reute
+d f BC-EMPIRE-OF-CAROLINA-&lt;E   10-20 0055</UNKNOWN>
+<TEXT>&#2;
+<TITLE>EMPIRE OF CAROLINA &lt;EMP> IN RESTRUCTURING</TITLE>
+<DATELINE>    TARBORO, N.C., Oct 20 - </DATELINE><BODY>Empire of Carolina Inc said it
+plans to streamline operations, which will result in an
+approximate 20 pct reduction of manufacturing management and
+support personnel.
+    The company said it expects to increase production
+personnel by a like amount of people.
+ Reuter
+&#3;</BODY></TEXT>

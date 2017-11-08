@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17006" NEWID="10945">
+<DATE>30-MAR-1987 13:24:56.34</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2003&#31;reute
+r f BC-GANNETT'S-&lt;GCI>-USA-T   03-30 0084</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GANNETT'S &lt;GCI> USA TODAY'S ADVERTISING RISES</TITLE>
+<DATELINE>    WASHINGTON, March 30 - </DATELINE><BODY>Gannett Co's USA Today said it
+carried a total of 957 paid advertising pages through the end
+of its first quarter, compared to 769 paid pages a year ago.
+    USA Today said it has averaged just under 15 advertising
+pages per day in 1987, up from 12 per day in the first quarter
+of 1986.
+    Gannett also said that effective March 30, USA Today will
+have a new circulation rate base of 1.50 mln up from its
+previous base of 1.45 mln.
+ Reuter
+&#3;</BODY></TEXT>

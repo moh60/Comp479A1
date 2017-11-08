@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20631" NEWID="20036">
+<DATE>20-OCT-1987 04:58:56.26</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE><D>poehl</D></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM V 
+&#22;&#22;&#1;f0293&#31;reute
+f f BC-Inflationary-fears-ar   10-20 0011</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE> Inflationary fears are unjustified and exaggerated, Poehl says
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

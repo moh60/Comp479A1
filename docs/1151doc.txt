@@ -1,0 +1,20 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16471" NEWID="1151">
+<DATE> 3-MAR-1987 12:08:27.83</DATE>
+<TOPICS><D>oilseed</D><D>rapeseed</D></TOPICS>
+<PLACES><D>japan</D><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G
+&#22;&#22;&#1;f0992&#31;reute
+u f BC-JAPAN-BUYS-5,000-TONN   03-03 0031</UNKNOWN>
+<TEXT>&#2;
+<TITLE>JAPAN BUYS 5,000 TONNES CANADIAN RAPESEED</TITLE>
+<DATELINE>    WINNIPEG, March 3 - </DATELINE><BODY>Japan bought 5,000 tonnes of Canadian
+rapeseed overnight at an undisclosed price for April shipment,
+trade sources said.
+ Reuter
+&#3;</BODY></TEXT>

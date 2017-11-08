@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7604" NEWID="18159">
+<DATE> 2-JUN-1987 13:36:37.87</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE><D>greenspan</D><D>volcker</D></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F A RM
+&#22;&#22;&#1;f2040&#31;reute
+u f BC-UAW-CHIEF-DISPLEASED   06-02 0099</UNKNOWN>
+<TEXT>&#2;
+<TITLE>UAW CHIEF DISPLEASED WITH GREENSPAN APPOINTMENT</TITLE>
+<DATELINE>    DETROIT, June 2 - </DATELINE><BODY>United Automobile Workers union president
+Owen Bieber said he was pleased Paul Volcker is leaving as
+chairman of the Federal Reserve Board but not encouraged at
+Alan Greenspan's nomination to succeed him.
+    "When you say Greenspan in now in view, that troubles me,"
+the UAW leader told reporters at a news conference.
+    Bieber, whose union has 1.1 mln members, said that with
+Greenspan heading the Fed, "I'm afraid it means a continuation
+of the same policies we've been on, which I don't think are the
+right policies."
+   
+ Reuter
+&#3;</BODY></TEXT>

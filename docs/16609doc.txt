@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1144" NEWID="16609">
+<DATE>13-APR-1987 15:15:39.70</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2338&#31;reute
+d f BC-HUTTON-&lt;EFH>-NAMES-PE   04-13 0085</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HUTTON &lt;EFH> NAMES PERAS SENIOR VP</TITLE>
+<DATELINE>    NEW YORK, April 13 - </DATELINE><BODY>E.F. Hutton said it named Steven 
+Peras, formerly vice president in charge of all spot trading
+for Irving Bank's &lt;V> Irving Trust Co, senior vice president
+for worldwide foreign exchange trading.
+    Peras, 30, will direct Hutton's foreign corporate and
+individual foreign exchange account development, and
+market-making in currencies for the firm on a worldwide basis,
+Hutton said. Hutton has foreign exchange trading operations in
+London and New York.
+ Reuter
+&#3;</BODY></TEXT>

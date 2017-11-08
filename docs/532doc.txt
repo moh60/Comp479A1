@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12715" NEWID="532">
+<DATE> 2-MAR-1987 11:59:34.49</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0114&#31;reute
+r f BC-KAPOK-CORP-&lt;KPK>-IN-T   03-02 0069</UNKNOWN>
+<TEXT>&#2;
+<TITLE>KAPOK CORP &lt;KPK> IN TECHNICAL DEFAULT</TITLE>
+<DATELINE>    CLEARWATER, Fla., March 2 - </DATELINE><BODY>Kapok Corp said it is in
+techical default of its loans from Southeast Banking Corp &lt;STB>
+and Murray Steinfeld but is negotiating with the lenders.
+    It said neither has declared the loans due.
+    The company said it has agreed to sell the Peter Pan
+Restaurant in Urbana, Md., for 1,100,000 dlrs, or one mln dlrs
+after the payment of expenses.
+ Reuter
+&#3;</BODY></TEXT>

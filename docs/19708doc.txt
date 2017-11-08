@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="8036" NEWID="19708">
+<DATE>29-JUN-1987 12:07:35.96</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1598&#31;reute
+d f BC-&lt;FRANKLIN-OPTION-FUND   06-29 0046</UNKNOWN>
+<TEXT>&#2;
+<TITLE>&lt;FRANKLIN OPTION FUND> SETS DIVIDEND</TITLE>
+<DATELINE>    SAN METEO, Calif., June 29 -
+    </DATELINE><BODY>Qtly dividend 23 cts vs 21.6 cts in prior qtr
+    Payable July 14
+    Record July one
+    Dividend includes short-term capital gain of 20 cts vs 16
+cts short-term and 2.2 cts long-term gains in prior quarter
+ Reuter
+&#3;</BODY></TEXT>

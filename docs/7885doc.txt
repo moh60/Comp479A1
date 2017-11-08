@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13406" NEWID="7885">
+<DATE>20-MAR-1987 13:56:37.58</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1959&#31;reute
+u f BC-DST-SYSTEMS-&lt;DSTS>-PR   03-20 0058</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DST SYSTEMS &lt;DSTS> PRESIDENT DIES</TITLE>
+<DATELINE>    KANSAS CITY, MO., March 20 - </DATELINE><BODY>DST Systems Inc said its
+president and director, Robert L. Gould, died of an apparent
+heart attack.
+    It said his duties will be assumed by Thomas McDonnell, the
+company's chief executive officer.
+    Mr. Gould had served as president and chief operating
+officer since October, 1984.
+ Reuter
+&#3;</BODY></TEXT>

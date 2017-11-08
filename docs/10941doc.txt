@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17002" NEWID="10941">
+<DATE>30-MAR-1987 13:18:02.34</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1983&#31;reute
+r f BC-&lt;CLAYTON-AND-DUBILIER   03-30 0062</UNKNOWN>
+<TEXT>&#2;
+<TITLE>&lt;CLAYTON AND DUBILIER INC> SELLS BURPEE</TITLE>
+<DATELINE>    NEW YORK, March 30 - </DATELINE><BODY>Privately-held Clayton and Dubilier
+Inc said it has sold W. Atlee Burpee Co to a new company formed
+by Wicks Capital Corp, Bankers Trust New York Corp &lt;BT> aND
+Burpee management for undisclosed terms.
+    The garden supply company was acquired from ITT Corp &lt;ITT>
+in December along with O.M. Scott and Sons Co.
+ Reuter
+&#3;</BODY></TEXT>

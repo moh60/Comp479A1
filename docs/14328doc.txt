@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="3311" NEWID="14328">
+<DATE> 7-APR-1987 12:29:17.53</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1579&#31;reute
+d f BC-COMPUTER-NETWORK&lt;CMNT   04-07 0055</UNKNOWN>
+<TEXT>&#2;
+<TITLE>COMPUTER NETWORK&lt;CMNT> MAKES SIX INSTALLATIONS</TITLE>
+<DATELINE>    MINNEAPOLIS, April 7 - </DATELINE><BODY>Computer Network Technology Corp
+said after six months of testing, American Telephone and
+Telegraph Co &lt;T> has installed initial orders for six of the
+company's CHANNELink 5100/R products.
+    The product is used for interconnection of IBM mainframe
+computers.
+ Reuter
+&#3;</BODY></TEXT>

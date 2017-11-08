@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="28" NEWID="11800">
+<DATE> 1-APR-1987 04:30:08.57</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>australia</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0249&#31;reute
+b f BC-GMAC-UNIT-ISSUES-50-M   04-01 0089</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GMAC UNIT ISSUES 50 MLN AUSTRALIAN DLR BOND</TITLE>
+<DATELINE>    LONDON, April 1 - </DATELINE><BODY>GMAC (Australia) Finance Ltd is issuing a
+50 mln Australian dlr eurobond due May 6, 1991 paying 14-1/4
+pct and priced at 101 pct, sole lead manager Hambros Bank Ltd
+said.
+    The issue is guaranteed by General Motors Acceptance Corp.
+The non-callable bond is available in denominations of 1,000
+Australian dlrs and will be listed in London.
+    The selling concession is 1-1/8 pct while management and
+underwriting combined pays 5/8 pct. The payment date is May 6.
+ REUTER
+&#3;</BODY></TEXT>

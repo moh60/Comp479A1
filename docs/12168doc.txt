@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="396" NEWID="12168">
+<DATE> 1-APR-1987 13:54:46.70</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1961&#31;reute
+d f BC-SARLEN-&lt;SALNU>-COMPLE   04-01 0077</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SARLEN &lt;SALNU> COMPLETES PRIVATE PLACEMENT</TITLE>
+<DATELINE>    DEERFIELD BEACH, Fla., April 1 - </DATELINE><BODY>Sarlen and Associates Inc
+said it completed its private placement of 12.5 mln dlrs of
+five-year eight pct senior subordinated notes with warrants to
+purchase common and 2.5 mln dlrs of 12 pct series A preferred
+with warrants to purchase common.
+    It said a portion of the proceeds was used to finance its
+acquisition of Gleason Security Services Inc and Gleason Plant
+Security Inc.
+ Reuter
+&#3;</BODY></TEXT>

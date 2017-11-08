@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16117" NEWID="10596">
+<DATE>27-MAR-1987 13:59:33.80&#5;&#5;&#5;F</DATE>
+<UNKNOWN>&#22;&#22;&#1;f1940&#31;reute</UNKNOWN>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+d f BC-CORNING-GLASS-WORKS&lt;G   03-27 0071</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CORNING GLASS WORKS&lt;GLW> BUYS FIBER-OPTIC STAKE</TITLE>
+<DATELINE>    CORNING, N.Y., March 27 - </DATELINE><BODY>Corning Glass Works said it
+bought a 50 pct interest in Technology Dynamics Inc, a
+Woodinville, Wash., company involved in research and
+development of fiber-optic sensors.
+    The purchase price was not disclosed.
+    Privately held Technology Dynamics plans to introduce its
+first line of fiber-optic sensors later this year, Corning
+Glass said.
+  
+ Reuter
+&#3;</BODY></TEXT>

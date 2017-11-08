@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="2" NEWID="11774">
+<DATE> 1-APR-1987 00:03:09.24</DATE>
+<TOPICS><D>dlr</D><D>money-fx</D></TOPICS>
+<PLACES><D>japan</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f3061&#31;reute
+b f BC-BANK-OF-JAPAN-INTERVE   04-01 0076</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BANK OF JAPAN INTERVENES IN EARLY TOKYO AFTERNOON</TITLE>
+<DATELINE>    TOKYO, April 1 - </DATELINE><BODY>The Bank of Japan intervened in the market
+in the early afternoon, buying dollars around 147.30 yen and
+continuing to buy them as high as 147.50 yen, dealers said.
+    The Bank intervened just after the dollar started rising on
+buying by securities houses at around 147.05 yen, and hoped to
+accelerate the dollar's advance, they said.
+    The dollar rose as high as 147.50 yen.
+  REUTER
+&#3;</BODY></TEXT>

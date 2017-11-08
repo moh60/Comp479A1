@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5009" NEWID="15971">
+<DATE> 9-APR-1987 16:27:52.47</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2558&#31;reute
+r f BC-NATIONAL-SEMI-&lt;NSM>,   04-09 0063</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NATIONAL SEMI &lt;NSM>, CANON IN DEVELOPMENT PACT</TITLE>
+<DATELINE>    SANTA CLARA, Calif., April 9 - </DATELINE><BODY>National Semiconductor Corp
+said it and Canon Inc &lt;CANNY> plan to jointly develop
+integrated circuits and software products which will be
+manufactured by Canon.
+    The first product will be a laser-beam printer for
+National's Series 32000 family of 32-bit microprocessor
+products, the company said.
+ Reuter
+&#3;</BODY></TEXT>

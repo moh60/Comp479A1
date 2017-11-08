@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4037" NEWID="15054">
+<DATE> 8-APR-1987 11:15:46.20</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1356&#31;reute
+r f BC-AVNET-INC-&lt;AVT>-FILES   04-08 0093</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AVNET INC &lt;AVT> FILES FOR DEBENTURE OFFERING</TITLE>
+<DATELINE>    NEW YORK, April 8 - </DATELINE><BODY>Anvet Inc said it filed with the
+Securities and Exchange Commission a registration statement for
+a proposed public offering of 150 mln dlrs of convertible
+subordinated debentures due 2012.
+    Avnet said it will use the net proceeds for general working
+capital purposes and the anticipated domestic and foreign
+expansion of its distribution, assembly and manufacturing
+businesses.
+    The company said an investment banking group managed by
+Dillon Read and Co Inc will handle the offering.
+ Reuter
+&#3;</BODY></TEXT>

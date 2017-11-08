@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15391" NEWID="9870">
+<DATE>26-MAR-1987 09:47:46.32</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1030&#31;reute
+r f BC-COMMODORE-&lt;CBU>-IN-PA   03-26 0113</UNKNOWN>
+<TEXT>&#2;
+<TITLE>COMMODORE &lt;CBU> IN PACT FOR COMPUTER GRAPHICS</TITLE>
+<DATELINE>    WEST CHESTER, Pa., March 26 - </DATELINE><BODY>Commodore International Corp
+said it entered into two agreements to provide Amiga computer
+graphics technology to the coin-operated amusement industry.
+    The agreements are with London-based &lt;Mastertronic Ltd> and
+&lt;Grand Products> of Elk Grove, Ill., and they join a similar
+previously-announced agreement with Bally Manufacturing Corp
+&lt;BLY>, the company said.
+    Under the terms of the agreement, Commodore said it will
+supply the companies with Amiga printed circuit board and
+Commodore technical knowhow and will obtain software licensing
+rights to video games developed for the Amiga hardware.
+&#3;</BODY></TEXT>

@@ -1,0 +1,20 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7626" NEWID="18181">
+<DATE> 2-JUN-1987 13:56:59.46</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2109&#31;reute
+r f BC-MUNSON-TRANSPORTATION   06-02 0039</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MUNSON TRANSPORTATION POSTPONES INITIAL OFFERING</TITLE>
+<DATELINE>    MONMOUTH, Ill., June 2 - </DATELINE><BODY>Munson Transportation Inc said its
+proposed initial public offering has been postponed due to a
+recent weakness in the prices of comparable trucking stocks.
+ Reuter
+&#3;</BODY></TEXT>

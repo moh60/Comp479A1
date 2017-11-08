@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7366" NEWID="17921">
+<DATE> 2-JUN-1987 05:27:37.63</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>netherlands</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0352&#31;reute
+u f BC-NATIONALE-NEDERLANDEN   06-02 0115</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NATIONALE-NEDERLANDEN EXPECTS TO MATCH 1986 PROFIT</TITLE>
+<DATELINE>    THE HAGUE, June 2 - </DATELINE><BODY>Nationale-Nederlanden NV &lt;NTNN.AS>, the
+largest Dutch insurance company, reported a four-pct rise in
+first quarter profits. The announcement represented a break
+with the company's past practice of giving annual results only.
+    The company said it expects its 1987 net profit will at
+least equal the 1986 figure of 635.5 guilders.
+    Nationale-Nederlanden said the lower exchange rates for the
+U.S. Dollar, Australian dollar and sterling had brought the
+increase in the quarter's net profit down from 6.3 pct.
+    Premium income from damage and life insurances pushed
+turnover in the Netherlands up by eight pct.
+ reuter
+&#3;</BODY></TEXT>

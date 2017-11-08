@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5356" NEWID="15458">
+<DATE> 9-APR-1987 08:26:38.46</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0624&#31;reute
+d f BC-ARUS-&lt;ARSCC>-GETS-5.2   04-09 0070</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ARUS &lt;ARSCC> GETS 5.2 MLN DLR ORDER</TITLE>
+<DATELINE>    UTICA, N.Y., April 9 - </DATELINE><BODY>Arus Corp said it has received a
+letter of intent from Winston Financial Corp for the purchase
+of over 5,200,000 dlrs in telephone diagnostic testing
+equipment.
+    It said it expects to negotiate a firm order in May.
+    The company said the total value of the order is at least
+5,200,000 dlrs and could be more, depending on circuit
+configurations required.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="5612" NEWID="69">
+<DATE>26-FEB-1987 16:10:43.67</DATE>
+<TOPICS><D>veg-oil</D><D>soybean</D><D>oilseed</D><D>meal-feed</D><D>soy-meal</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G
+&#22;&#22;&#1;f0951&#31;reute
+b f BC-nspa-weekly-crush   02-26 0110</UNKNOWN>
+<TEXT>&#2;
+<TITLE>U.S. WEEKLY SOYBEAN CRUSH 21,782,929 BUSHELS</TITLE>
+<DATELINE>    WASHINGTON, Feb 26 - </DATELINE><BODY>Reporting members of the National
+Soybean Processors Association (NSPA) crushed 21,782,929
+bushels of soybeans in the week ended Feb 25 compared with
+22,345,718 bushels in the previous week and 16,568,000 in the
+year-ago week, the association said.
+    It said total crushing capacity for members was 25,873,904
+bushels vs 25,873,904 last week and 25,459,238 bushels last
+year.
+    NSPA also said U.S. soybean meal exports in the week were
+117,866 tonnes vs 121,168 tonnes a week ago and compared with
+84,250 tonnes in the year-ago week.
+    NSPA said the figures include only NSPA member firms.
+ Reuter
+&#3;</BODY></TEXT>

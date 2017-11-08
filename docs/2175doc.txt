@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18593" NEWID="2175">
+<DATE> 5-MAR-1987 11:33:11.89</DATE>
+<TOPICS><D>crude</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;Y
+&#22;&#22;&#1;f0659&#31;reute
+r f BC-REPORT-DUE-ON-OIL-IMP   03-05 0099</UNKNOWN>
+<TEXT>&#2;
+<TITLE>REPORT DUE ON OIL IMPORTS AND NATIONAL SECURITY</TITLE>
+<DATELINE>    WASHINGTON, March 4 - </DATELINE><BODY>A presidential commission that has
+been studying oil imports, including their effect on national
+security, is to to make its report soon, the White House said.
+    Spokesman Marlin Fitzwater said the panel, set up last
+October to examine U.S. oil import needs, would make its report
+soon, probably within the next few weeks.
+    He said National Security Adviser Frank Carlucci "will wait
+until that report is in and then see if there is any special
+action needed to be taken in the national security area to
+implement it."
+ Reuter
+&#3;</BODY></TEXT>

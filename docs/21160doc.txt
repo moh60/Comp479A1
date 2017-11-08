@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20277" NEWID="21160">
+<DATE>19-OCT-1987 13:46:41.39</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2353&#31;reute
+r f BC-INFOTRON-&lt;INFN.O>-NAM   10-19 0061</UNKNOWN>
+<TEXT>&#2;
+<TITLE>INFOTRON &lt;INFN.O> NAMES NEW CHIEF EXECUTIVE</TITLE>
+<DATELINE>    CHERRY HILL, N.J., Oct 19 - </DATELINE><BODY>Infotron Systems Corp said
+James C. Castle has been named president and chief executive
+officer, succeeding James C. Hann, who becomes vice chairman
+and will focus on product technology issues.
+    Castle had been president of TBG Information Systems Inc, a
+subsidiary of Thyssen AG &lt;THYH.G>.
+ Reuter
+&#3;</BODY></TEXT>

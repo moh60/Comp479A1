@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10554" NEWID="5641">
+<DATE>16-MAR-1987 15:35:42.19</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f3464&#31;reute
+u f BC-LYNCH-CORP-&lt;LGL>-UNIT   03-16 0104</UNKNOWN>
+<TEXT>&#2;
+<TITLE>LYNCH CORP &lt;LGL> UNIT BUYS TELEVISION STATION</TITLE>
+<DATELINE>    FAIRFIELD, N.J., March 16 - </DATELINE><BODY>Lynch Corp subisidiary Lynch
+Entertainment Corp said it formed a general partnership called
+Coronet Communications Co, which has acquired WHBF-TV station,
+in Rock Island, Ill.
+    The company said the price for the station, a CBS
+television network affiliate, was 20 mln dlrs. The company also
+said the other partner is Lombardo Communications Inc, a
+wholly-owned corporation of Phillip Lombardo.
+    Lynch said it will pursue further acquisitions of media and
+entertainment entities with emphasis on broadcasting and cable
+television operations.
+ Reuter
+&#3;</BODY></TEXT>

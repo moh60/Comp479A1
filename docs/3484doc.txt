@@ -1,0 +1,35 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="8397" NEWID="3484">
+<DATE>11-MAR-1987 05:02:52.28</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>japan</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS><D>ec</D></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0383&#31;reute
+u f BC-JAPAN-}O-CURB-VEHICLE   03-11 0107</UNKNOWN>
+<TEXT>&#2;
+<TITLE>JAPAN }O CURB VEHICLE EXPORTS TO EC</TITLE>
+<DATELINE>    TOKYO, March 11 - </DATELINE><BODY>Japanese car makers will curb their
+exports to the European Community (EC) following an unofficial
+directive from the Ministry of International Trade and Industry
+(MITI), automobile industry sources said.
+    Some sources said exports to the EC this year are likely to
+be at most unchanged from last year's 1.10 mln units and may
+even fall due to an anticipated slackening of EC economic
+growth and increasing trade friction.
+    Last week, MITI vice minister for international affairs
+Makoto Kuroda said the ministry had asked car makers to
+exercise prudence in exporting to Europe.
+    Japanese car makers boosted exports to the EC in January to
+build up depleted vehicle inventories, industry sources said.
+    Japan's vehicle exports to Europe in January rose 38 pct
+from a year earlier to 174,133 units.
+    In December, exports fell 70.4 pct year-on-year as makers
+curbed shipments to meet an earlier directive from MITI to
+limit 1986 exports, they said.
+ REUTER
+&#3;</BODY></TEXT>

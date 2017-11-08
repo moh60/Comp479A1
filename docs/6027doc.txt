@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10940" NEWID="6027">
+<DATE>17-MAR-1987 11:26:47.36</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f5388&#31;reute
+d f BC-DEVELOPMENT-CORP-OF-A   03-17 0078</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DEVELOPMENT CORP OF AMERICA &lt;DCA> MERGED</TITLE>
+<DATELINE>    HOLLYWOOD, Fla., March 17 - </DATELINE><BODY>Development Corp of America
+said its merger with Lennar Corp &lt;LEN> was completed and its
+stock no longer existed.
+    Development Corp of America, whose board approved the
+acquisition last November for 90 mln dlrs, said the merger was
+effective today and its stock now represents the right to
+receive 15 dlrs a share.
+    The American Stock Exchange said it would provide further
+details later.
+ Reuter
+&#3;</BODY></TEXT>

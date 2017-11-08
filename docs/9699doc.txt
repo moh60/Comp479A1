@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15220" NEWID="9699">
+<DATE>25-MAR-1987 23:33:48.99</DATE>
+<TOPICS><D>money-fx</D></TOPICS>
+<PLACES></PLACES>
+<PEOPLE><D>sumita</D></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f2884&#31;reute
+f f BC-Sumita-says-major-nat   03-25 0013</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE>Sumita says major nations will continue to cooperate to stabilize currencies
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15520" NEWID="9999">
+<DATE>26-MAR-1987 12:11:33.18</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A RM
+&#22;&#22;&#1;f1719&#31;reute
+r f BC-BRUNSWICK-CORP-&lt;BC>-S   03-26 0085</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BRUNSWICK CORP &lt;BC> SELLS NOTES AT 8.199 PCT</TITLE>
+<DATELINE>    NEW YORK, March 26 - </DATELINE><BODY>Brunswick Corp is raising 100 mln dlrs
+through an offering of notes due 1997 yielding 8.199 pct, lead
+manager Shearson Lehman Brothers Inc said.
+    The notes have an 8-1/2 pct coupon and were priced at 99.50
+to yield 96 basis points over comparable Treasury securities.
+    The issue is non-callable for life and rated Baa-1 by
+Moody's Investors Service Inc and BBB-plus by Standard and
+Poor's Corp.
+    Salomon Brothers co-managed the deal.
+ Reuter
+&#3;</BODY></TEXT>

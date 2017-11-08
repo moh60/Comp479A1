@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17704" NEWID="11642">
+<DATE>31-MAR-1987 15:52:02.44</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2527&#31;reute
+u f BC-LUCKY-&lt;LKS>-SPINOFF-G   03-31 0093</UNKNOWN>
+<TEXT>&#2;
+<TITLE>LUCKY &lt;LKS> SPINOFF GETS FAVORABLE TAX RULING</TITLE>
+<DATELINE>    DUBLIN, Calif., March 31 - </DATELINE><BODY>Lucky Stores Inc said its
+planned distribution of Hancock Fabrics shares to Lucky
+stockholders will qualify as a tax-free spinoff under the
+Internal Revenue Code.
+    The company also said it still must wait for completion of
+a pending Securities and Exchange Commission review of an
+information statement related to the spinoff before it can
+carry out the transaction.
+    Subject to completion of the review, it expects to make the
+distribution in early May, Lucky Stores also said.
+ Reuter
+&#3;</BODY></TEXT>

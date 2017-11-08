@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10681" NEWID="5768">
+<DATE>16-MAR-1987 21:29:51.26</DATE>
+<TOPICS><D>wpi</D></TOPICS>
+<PLACES><D>japan</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f3949&#31;reute
+f f BC-Japan-February-wholes   03-16 0014</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE>Japan February wholesale prices fall 0.1 pct (0.6 pct January drop) - official
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

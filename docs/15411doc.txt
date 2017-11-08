@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4589" NEWID="15411">
+<DATE> 9-APR-1987 06:35:14.06</DATE>
+<TOPICS><D>gold</D></TOPICS>
+<PLACES><D>belgium</D><D>switzerland</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0370&#31;reute
+u f BC-BELGIUM-TO-ISSUE-GOLD   04-09 0042</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BELGIUM TO ISSUE GOLD WARRANTS, SOURCES SAY</TITLE>
+<DATELINE>    ZURICH, April 9 - </DATELINE><BODY>Belgium plans to issue Swiss franc
+warrants to buy gold, with Credit Suisse as lead manager,
+market sources said.
+    No confirmation or further details were immediately
+available.
+ REUTER
+&#3;</BODY></TEXT>

@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5127" NEWID="15772">
+<DATE> 9-APR-1987 13:22:40.81</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A
+&#22;&#22;&#1;f1878&#31;reute
+d f BC-WESTERN-FEDERAL-SAVIN   04-09 0039</UNKNOWN>
+<TEXT>&#2;
+<TITLE>WESTERN FEDERAL SAVINGS BANK &lt;WFPR> 1ST QTR NET</TITLE>
+<DATELINE>    NEW YORK, April 9 -
+    </DATELINE><BODY>Shr 74 cts vs 92 cts
+    Net 1,300,450 vs 1,600,258
+    NOTE: Share adjusted for 10 pct stock dividend in July
+1986.
+    Company based in Mayaguez, Puerto Rico.
+ Reuter
+&#3;</BODY></TEXT>

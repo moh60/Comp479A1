@@ -1,0 +1,20 @@
+
+<REUTERS TOPICS="BYPASS" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="3805" NEWID="14822">
+<DATE> 7-APR-1987 23:58:56.24</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;G
+&#22;&#22;&#1;f0001&#31;reute
+u f BC-BANGKOK-TAPIOCA---APR   04-07 0030</UNKNOWN>
+<TEXT TYPE="UNPROC">&#2;
+BANGKOK TAPIOCA - APRIL 8 Thai pellets (62 min starch, five pc
+max fibre, three pc max sand, 14 pc max moisture) Apr/Sept  255
+sellers, D-marks per tonne CIF Euro ports (prev 255).
+&#3;
+
+</TEXT>

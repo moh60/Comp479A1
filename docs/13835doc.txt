@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="2818" NEWID="13835">
+<DATE> 7-APR-1987 10:08:25.14</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G
+&#22;&#22;&#1;f0913&#31;reute
+u f BC-CARGILL-U.K.-STRIKE-E   04-07 0089</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CARGILL U.K. STRIKE ENDS</TITLE>
+<DATELINE>    LONDON, April 7 - </DATELINE><BODY>Cargill U.K. Ltd's oilseed processing
+plant in Seaforth, northwest England, will resume operations
+tomorrow morning following settlement of a labour dispute which
+has paralysed production there since December 19, a company
+spokesman said.
+    It is likely to resume deliveries of soymeal and oil within
+a couple of days. Force majeure had previously been declared
+for supplies up to, and including May, but the company will
+attempt to fulfill all outstanding contracts, the spokesman
+said.
+ Reuter
+&#3;</BODY></TEXT>

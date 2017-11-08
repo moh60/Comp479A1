@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6015" NEWID="17677">
+<DATE> 1-JUN-1987 13:39:38.05</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1908&#31;reute
+d f BC-PHILIP-CROSBY-&lt;PCRO.O   06-01 0056</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PHILIP CROSBY &lt;PCRO.O> MAKES ACQUISITION</TITLE>
+<DATELINE>    WINTER HAVEN, Fla., June 1 - </DATELINE><BODY>Philip Crosby Associates Inc
+said it has agreed to acquire Process Integrity Inc of Dallas,
+a computer software designer, for undisclosed terms.
+    It said Process' software helps companies monitor
+industrial processes, identifies problems and recommends
+solutions.
+ Reuter
+&#3;</BODY></TEXT>

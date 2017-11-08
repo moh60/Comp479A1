@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="BYPASS" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="2923" NEWID="13940">
+<DATE> 7-APR-1987 10:38:21.67</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;CQ MQ
+&#22;&#22;&#1;f1050&#31;reute
+u f BC-ny-comex-delivery   04-07 0029</UNKNOWN>
+<TEXT TYPE="UNPROC">&#2;
+N.Y. COMEX DELIVERY NOTICES
+ (Spot April)
+Notices for April 7
+ Silver     2 so far    522
+ Copper     0 so far      0
+ Gold     191 so far  13171
+ Aluminium  0   so far    0
+ Reuter
+&#3;
+
+</TEXT>

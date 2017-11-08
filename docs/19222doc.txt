@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7058" NEWID="19222">
+<DATE>19-JUN-1987 11:28:36.62</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1255&#31;reute
+r f BC-NVHOMES-LP-&lt;NVH>-SETS   06-19 0030</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NVHOMES LP &lt;NVH> SETS LOWER DIV</TITLE>
+<DATELINE>    MCLEAN, Va., June 19 -
+    </DATELINE><BODY>Qtly div 20 cts vs 21 cts prior
+    Pay July 31
+    Record July 1
+    NOTE: Partnership does not pay at regular rate.
+ Reuter
+&#3;</BODY></TEXT>

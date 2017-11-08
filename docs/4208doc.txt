@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9121" NEWID="4208">
+<DATE>12-MAR-1987 09:49:54.09</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0020&#31;reute
+d f BC-HEEKIN-CAN-&lt;HEKN>-TO   03-12 0065</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HEEKIN CAN &lt;HEKN> TO BUILD OHIO PLANT</TITLE>
+<DATELINE>    CINCINNATI, March 12 - </DATELINE><BODY>Heekin Can Inc said it plans to
+build a seven mln dlr Columbus, Ohio, plant financed by
+industrial revenue bonds.
+    It said construction on the 50,000 square foot plant is
+scheduled to start in April and manufacturing will start at the
+end of 1987.  The plant will initially make two-piece 6.5 ounce
+steel cans for pet food.
+ Reuter
+&#3;</BODY></TEXT>

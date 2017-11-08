@@ -1,0 +1,30 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7665" NEWID="18220">
+<DATE> 2-JUN-1987 14:40:58.44</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2289&#31;reute
+u f BC-NEWBERY-&lt;NBE>-EXPECTS   06-02 0094</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NEWBERY &lt;NBE> EXPECTS TO FILE FOR BANKRUPTCY</TITLE>
+<DATELINE>    TEMPE, Ariz., June 2 - </DATELINE><BODY>Newbery Corp said Fireman's Fund
+Corp &lt;FFC> and United Bank of Arizona are continuing to meet to
+explore alternatives, but the company believes, that
+irrespective of the outcome, it will be forced to file for
+bankruptcy by the end of the week.
+    On May four Newbery said it would receive supplemental
+funding under a 30-day arrangement with Fireman's Fund and
+United Bank that would allow it to continue to operate until a
+decision was made on the company's request for long-term
+financing.
+    The company later announced that it would not be able to
+make its July one interest payment on its 12 pct subordinated
+convertible debentures.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,32 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9423" NEWID="4510">
+<DATE>12-MAR-1987 16:11:38.60</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0443&#31;reute
+d f BC-&lt;SUMMIT-PETROLEUM-COR   03-12 0101</UNKNOWN>
+<TEXT>&#2;
+<TITLE>&lt;SUMMIT PETROLEUM CORP> SELLS SHARES</TITLE>
+<DATELINE>    ABILENE, TEXAS, March 12 - </DATELINE><BODY>Summit Petroleum Corp said it
+sold 11.3 mln shares, or 29.4 pct, of its common stock to
+&lt;Halbert and Associates Inc>.
+    The company said the shares were previously held by
+&lt;Consolidated Energy Corp> and Harken Oil and Gas Inc &lt;HOGI>.
+    In addition, David D. Halbert, president and chief
+executive officer of Halbert, an Abilene investment firm, was
+named chairman and chief executive of Summit, the company said.
+   Halbert, Charles M. Bruce and James O. Burke were also named
+directors, expanding the board to five, Summit added.
+    The company said Burke is president and chief executive of
+&lt;Allied Comprehensive Health Inc>, Abilene, while Bruce is a
+partner in the Washington law firm of Butler and Binion.
+    Summit said it intends to actively seek acquisitions to
+increase its asset base.
+ Reuter
+&#3;</BODY></TEXT>

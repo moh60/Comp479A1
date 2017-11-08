@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7339" NEWID="17894">
+<DATE> 2-JUN-1987 03:31:14.04</DATE>
+<TOPICS><D>rubber</D></TOPICS>
+<PLACES><D>malaysia</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;T
+&#22;&#22;&#1;f0161&#31;reute
+u f BC-MALAYSIAN-RUBBER-OUTP   06-02 0111</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MALAYSIAN RUBBER OUTPUT RECOVERS FROM WINTERING</TITLE>
+<DATELINE>    KUALA LUMPUR, June 2 - </DATELINE><BODY>Malaysian rubber production should
+return to normal levels this month after a hard wintering
+season, the Malaysian Rubber Exchange and Licensing Board said
+in its latest review. "As packers and remillers expect
+production to recover to normal levels in June, sellers will
+remain reserved in the near future," the review, dated May 14,
+said. Many consumers are holding off, waiting for the best time
+to buy.
+    The market is mindful of approaching summer holidays in
+industrial countries and there is an air of uncertainty beyond
+July, it said. It gave no figures for the output drop.
+ REUTER
+&#3;</BODY></TEXT>

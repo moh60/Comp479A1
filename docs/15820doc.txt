@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5175" NEWID="15820">
+<DATE> 9-APR-1987 14:22:27.45</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2065&#31;reute
+d f BC-GTE-&lt;GTE>-UNIT-SIGNS   04-09 0068</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GTE &lt;GTE> UNIT SIGNS DEAL WITH SKYSWITCH</TITLE>
+<DATELINE>    GOLDEN, Colo, April 9 - </DATELINE><BODY>&lt;Skyswitch Satellite Communications
+Co> said it GTE Corp's GTE Spacenet has signed an original
+equipment manufacturing agreement with Skyswitch that will
+enable the two companies to set the standard for satellite news
+gathering voice communications systems.
+    The equipment will be provided under GTE's specifications
+and label, it said.
+ Reuter
+&#3;</BODY></TEXT>

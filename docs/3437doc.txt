@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19524" NEWID="3437">
+<DATE> 9-MAR-1987 21:58:23.83</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>japan</D><D>poland</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0140&#31;reute
+u f BC-POLES-SAID-HELD-IN-JA   03-09 0107</UNKNOWN>
+<TEXT>&#2;
+<TITLE>POLES SAID HELD IN JAPAN ON COMPUTER THEFT CHARGES</TITLE>
+<DATELINE>    TOKYO, March 10 - </DATELINE><BODY>Police arrested two Polish citizens for
+trying to steal Japanese computer technology, local media
+reports said today.
+    The reports said the two had worked at a computer-related
+company in Tokyo and visited Japanese computer makers several
+times after coming to Japan on tourist visas last October.
+    One report said they were computer specialists at a Polish
+technology institute, and that the company they worked for was
+managed by a naturalised Japanese from Poland who was a
+graduate of the institute.
+    Police officials declined to comment on the reports.
+ REUTER
+&#3;</BODY></TEXT>

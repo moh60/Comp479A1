@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7107" NEWID="19271">
+<DATE>19-JUN-1987 12:55:45.30</DATE>
+<TOPICS><D>acq</D><D>nat-gas</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1651&#31;reute
+u f BC-N-D-RESOURCES-&lt;NUDY.O   06-19 0063</UNKNOWN>
+<TEXT>&#2;
+<TITLE>N-D RESOURCES &lt;NUDY.O> AGREES TO ACQUIRE ATOKA</TITLE>
+<DATELINE>    CASTLE ROCK, COLO., June 19 - </DATELINE><BODY>N-D Resources Inc said it
+agreed in principle to issue an undetermined number of shares
+to Recovery Resources Corp, Bahrain, in order to acquire
+Recovery's Atoka Gas Gathering Systems Inc.
+    Atoka currently operates a 20-mile natural gas pipeline of
+46 miles in length in southeastern Oklahoma.
+ Reuter
+&#3;</BODY></TEXT>

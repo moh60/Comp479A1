@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4944" NEWID="15767">
+<DATE> 9-APR-1987 13:17:35.88</DATE>
+<TOPICS><D>lead</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;M F
+&#22;&#22;&#1;f1861&#31;reute
+u f BC-st-joe-zinc-price   04-09 0054</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DOE RUN RAISES LEAD PRICE 0.50 CT TO 26.50 CTS</TITLE>
+<DATELINE>    ST LOUIS, MO., April 9 - </DATELINE><BODY>Doe Run Company said it is
+increasing the price of its corroding grade lead by one-half
+cent to 26.50 cents a lb, effective immediately.
+    The price is quoted FOB, Herculaneum, Mo., and FOB, Boss,
+Mo., with freight allowed for carload quantities.
+   
+ Reuter
+&#3;</BODY></TEXT>

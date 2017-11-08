@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="5713" NEWID="170">
+<DATE>26-FEB-1987 17:46:34.09</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0244&#31;reute
+r f BC-(CORRECTED)---BANPONC   02-26 0077</UNKNOWN>
+<TEXT>&#2;
+<TITLE>(CORRECTED) - BANPONCE &lt;BDEP> PLACES NOTES</TITLE>
+<DATELINE>    NEW YORK, Feb 26 - </DATELINE><BODY>BanPonce Corp said it privately placed
+30 mln dlrs of its 8.25 pct senior notes due 1992 through
+Lincoln National Investment Management Co, New York Life
+Insurance Co and Dillon Read and Co Inc.
+    It said proceeds will be used to increase working capital,
+for general corporate purposes, and for possible future
+acquisitions.
+    - Corrects dollar figure of notes placed in item appearing
+Feb 25.
+ Reuter
+&#3;</BODY></TEXT>

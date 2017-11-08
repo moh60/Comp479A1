@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="8747" NEWID="3834">
+<DATE>11-MAR-1987 13:33:15.81</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D><D>new-zealand</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A RM
+&#22;&#22;&#1;f0132&#31;reute
+r f BC-EMERSON-&lt;EMR>-SELLS-N   03-11 0077</UNKNOWN>
+<TEXT>&#2;
+<TITLE>EMERSON &lt;EMR> SELLS NEW ZEALAND DOLLAR NOTES</TITLE>
+<DATELINE>    NEW YORK, March 11 - </DATELINE><BODY>Emerson Electric Co is offering in the
+U.S. debt market 100 mln New Zealand dlrs of notes due 1989
+with an 18.55 pct coupon and par pricing, said lead underwriter
+Prudential-Bache Securities Inc.
+    That is 170 basis points below comparable New Zealand
+rates.
+    Non-callable to maturity, the issue is rated a top-flight
+AAA by both Moody's Investors Service Inc and Standard and
+Poor's Corp.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11608" NEWID="6695">
+<DATE>18-MAR-1987 13:53:28.76</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f8978&#31;reute
+d f BC-RABBIT-SOFTWARE-&lt;RABT   03-18 0043</UNKNOWN>
+<TEXT>&#2;
+<TITLE>RABBIT SOFTWARE &lt;RABT> TO MAKE ACQUISITION</TITLE>
+<DATELINE>    MALVERN, Pa., March 18 - </DATELINE><BODY>Rabbit Software Corp said it has
+agreed in principle to acquire privately-held communications
+hardware maker Micro Plus II Corp for about two mln common
+shares, with closing expected by May.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,33 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="713" NEWID="16178">
+<DATE>13-APR-1987 07:18:10.85</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>italy</D><D>ussr</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0512&#31;reute
+r f BC-ITALIAN-BANKS-TO-SIGN   04-13 0116</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ITALIAN BANKS TO SIGN ACCORD WITH SOVIET BANKS</TITLE>
+<DATELINE>    MILAN, April 13 - </DATELINE><BODY>Italian state-owned bank Banca
+Commerciale Italiana, BCI, said it and Mediocredito Centrale
+will sign a joint venture pact with Soviet central bank Gosbank
+and Vneshtorgbank, the foreign trade financial institution.
+    A BCI spokesman told Reuters the agreement involves the
+banks providing financial services and taking equity stakes in
+joint Soviet-Italian industrial ventures.
+    Under the agreement, the Italian banks will have a 50 pct
+interest in a new firm to be formed by the four institutions.
+The accord is expected to be signed today or tomorrow at a
+Venice conference on East West trade, the spokesman said.
+    The spokesman said the joint venture company will operate
+primarily in the corporate finance sector. Additional details
+about the firm's activities were not available, he said.
+    BCI is Italy's second largest bank, while Mediocredito
+provides medium-term export financing.
+ REUTER
+&#3;</BODY></TEXT>

@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1059" NEWID="16524">
+<DATE>13-APR-1987 13:28:20.43</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2010&#31;reute
+d f BC-MEDICAL-IMAGING-&lt;MIKA   04-13 0096</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MEDICAL IMAGING &lt;MIKA.O> L.P. PLANS OFFER</TITLE>
+<DATELINE>    SAN DIEGO, Calif., April 13 - </DATELINE><BODY>Medical Imaging Centers of
+America Inc said Shared Imaging Partners L.P., a Delaware
+limited partnership, filed a registration statement with the
+Securities and Exchange Commission covering a planned offering
+of partnership units.
+    SI Management Corp, a wholly-owned Medical Imaging
+subsidiary, is the general partner of Shared Imaging.
+    The company said the partnership intends to offer between
+7.5 mln dlrs and 18.5 mln dlrs of limited partnership interests
+at a price of 1,000 dlrs per unit.
+ Reuter
+&#3;</BODY></TEXT>

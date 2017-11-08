@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7160" NEWID="19324">
+<DATE>19-JUN-1987 14:00:49.58</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A RM 
+&#22;&#22;&#1;f1894&#31;reute
+r f BC-SAINSBURY-&lt;SBRY.L>-LO   06-19 0109</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SAINSBURY &lt;SBRY.L> LONG-TERM DEBT AFFIRMED BY S/P</TITLE>
+<DATELINE>    NEW YORK, June 19 - </DATELINE><BODY>Standard and Poor's Corp said it
+affirmed the AA long-term debt of J. Sainsbury PLC.
+    S and P cited Sainsbury's offer for the shares of Shaws
+Supermarkets Inc's &lt;SHAW> it does not own. Sainsbury currently
+holds 28.5 pct of that company.
+    The acquisition will be financed by an equity issue, so the
+impact on Sainsbury's capital structure will not be
+significant, the agency said. The merger will provide an
+opportunity for expansion in an area with favorable economic
+trends, although it will lower trading margins by more than
+Sainsbury's historic levels, S and P pointed out.
+ Reuter
+&#3;</BODY></TEXT>

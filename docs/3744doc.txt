@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="8657" NEWID="3744">
+<DATE>11-MAR-1987 12:07:57.38</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0751&#31;reute
+b f BC-CHEMLAWN-&lt;CHEM>-IN-TA   03-11 0065</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CHEMLAWN &lt;CHEM> IN TALKS ON BEING ACQUIRED</TITLE>
+<DATELINE>    COLUMBUS, Ohio, March 11 - </DATELINE><BODY>ChemLawn Corp said it has
+started talks on the possible sale of the company with "various
+parties" that it did not identify.
+    The company said the talks began after it considred and
+rejected Waste Management Inc's &lt;WMX> 27 dlr per share tender
+offer for all its sharesd.
+    ChemLawn gave no details on the talks.
+ Reuter
+&#3;</BODY></TEXT>

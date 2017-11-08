@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18934" NEWID="2516">
+<DATE> 5-MAR-1987 17:49:36.15</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0033&#31;reute
+h f BC-CEMDAC-GOES-OUT-OF-BU   03-05 0033</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CEMDAC GOES OUT OF BUSINESS</TITLE>
+<DATELINE>    MINNEAPOLIS, March 5 - </DATELINE><BODY>Cemdac Corp said it told the state
+of Minnesota to permanently suspend trading of its common
+stock.
+    The company said it is ceasing operations.
+ Reuter
+&#3;</BODY></TEXT>

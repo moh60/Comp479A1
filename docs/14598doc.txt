@@ -1,0 +1,31 @@
+
+<REUTERS TOPICS="BYPASS" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="3581" NEWID="14598">
+<DATE> 7-APR-1987 16:18:13.77</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C T
+&#22;&#22;&#1;f2363&#31;reute
+u f BC-ny-coffee-phys-shpmts   04-07 0102</UNKNOWN>
+<TEXT TYPE="UNPROC">&#2;
+N.Y. COFFEE PHYSICALS SHIPMENTS - April 7
+    (ex-dock NY, cents per lb unless stated)
+ Santos No. 4 May                        96.00N
+ Parana No. 4 Feb                           UNQ
+ Victoria No. 5                             UNQ
+ Colombian MAMs, April/May gross        108.50N
+ El Salvador, Standards, April          103.00N
+ Mexican P. Washed new crop, April/May   95.00N
+ Guatemalan prime washed new crop       103.00N
+ Peruvian, May                           86.00N
+ Ugandan FAQ,                               UNQ
+ Indonesian EK-ones, April/May           86.00N
+ Ecuador Three Pcts                      80.00N
+ Reuter
+&#3;
+
+</TEXT>

@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13588" NEWID="8067">
+<DATE>21-MAR-1987 08:18:21.73</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>china</D><D>hong-kong</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0028&#31;reute
+r f BC-CHINA,-HONG-KONG-FIRM   03-21 0104</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CHINA, HONG KONG FIRMS SIGNS LOAN AGREEMENT</TITLE>
+<DATELINE>    PEKING, March 21 - </DATELINE><BODY>&lt;China Sports Service Corp> of China and
+&lt;Seylla Corp> of Hong Kong signed an agreement to borrow five
+billion yen from an international syndicate of banks led by the
+Bank of China, the New China News Agency said.
+    It said the two firms will use the money to construct the
+Olympic Hotel, with 14 storeys and 380 rooms, near Peking's
+largest indoor stadium, to cater for participants at
+international competitions and tourists.
+    Construction of the hotel is under way and due to be
+completed by June 1988, the agency added but gave no more
+details.
+ REUTER
+&#3;</BODY></TEXT>

@@ -1,0 +1,31 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13816" NEWID="8295">
+<DATE>23-MAR-1987 10:55:55.02</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1200&#31;reute
+d f BC-PRIME-COMPUTER-&lt;PRM>   03-23 0099</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PRIME COMPUTER &lt;PRM> INTRODUCES WORKSTATION</TITLE>
+<DATELINE>    PHILADELPHIA, March 23 - </DATELINE><BODY>Prime Computer Inc said it
+introduced an interactive three dimensional graphics
+workstation.
+    Prime said it is its first offering in a new
+engineering/scientific product line and employs Prime's
+implementation of ATT's &lt;T> UNIX System V.3 operating system, a
+program that controls the computer.
+    Prime said the new product delivers up to twice the
+performance of the IRIS 3120 series, considered the industry's
+leading 3-D graphics workstation, and is driven by five times
+the performances of a VAX 11/780 system.
+    Shipment is scheduled for June, 1987, and the product's
+standard configuration is priced at 74,900 dls with a monthly
+maintenance fee of 492 dlrs, Prime said.
+ Reuter
+&#3;</BODY></TEXT>

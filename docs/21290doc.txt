@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20146" NEWID="21290">
+<DATE>19-OCT-1987 11:51:22.03</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1726&#31;reute
+d f BC-GENCORP-&lt;GY>-RKO-UNIT   10-19 0106</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GENCORP &lt;GY> RKO UNIT ASKS TO KEEP FCC LICENSES</TITLE>
+<DATELINE>    WASHINGTON, Oct 19 - </DATELINE><BODY>RKO General Inc, a unit of GenCorp
+Inc, said it asked the Federal Communications Commission (FCC)
+to reverse a preliminary ruling by an agency hearing officer
+and let it keep its 14 broadcast licenses.
+    The FCC hearing officer had recommended that all 14 of
+RKO's licenses be revoked.
+    "If the decision is allowed to stand, it will destroy our
+right to broadcast," said William Reynolds, GenCorp chairman, in
+a printed statement. "The decision was based on allegations of
+misconduct that are either in error or have no bearing on our
+fitness as a broadcaster."
+ Reuter
+&#3;</BODY></TEXT>

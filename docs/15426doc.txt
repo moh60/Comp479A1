@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5324" NEWID="15426">
+<DATE> 9-APR-1987 07:13:52.76</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0431&#31;reute
+b f BC-TORONTO-DOMINION-AUST   04-09 0044</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TORONTO DOMINION AUSTRALIA DOLLAR BOND INCREASED</TITLE>
+<DATELINE>    LONDON, April 9 - </DATELINE><BODY>Toronto Dominion Bank, Nassau Branch, has
+increased its eurobond offering to 50 mln Australian &lt;dlrs from
+40 mln, lead manager Hambros Bank Ltd said.
+    All other terms remain the same.
+ REUTER
+&#3;</BODY></TEXT>

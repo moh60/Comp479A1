@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18178" NEWID="1760">
+<DATE> 4-MAR-1987 15:36:52.88</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0633&#31;reute
+d f BC-HEALTHVEST-&lt;HVT>-SELL   03-04 0055</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HEALTHVEST &lt;HVT> SELLS SHARES</TITLE>
+<DATELINE>    AUSTIN, Texas, March 4 - </DATELINE><BODY>Healthvest, a Maryland real estate
+investment trust, said it began selling five mln shares of
+common stock at 21 dlrs a share.
+    The company said it is also selling 543,237 shares to
+Healthcare International Inc &lt;HII>, giving the company a 9.8
+pct stake in Healthvest.
+ Reuter
+&#3;</BODY></TEXT>

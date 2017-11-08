@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16428" NEWID="1108">
+<DATE> 3-MAR-1987 11:26:01.24</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F
+&#22;&#22;&#1;f0783&#31;reute
+b f BC-ford-canada   03-03 0055</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FORD MOTOR CO OF CANADA LTD &lt;FC> 4TH QTR NET</TITLE>
+<DATELINE>    OAKVILLE, Ontario, March 3 -
+    </DATELINE><BODY>Shr 8.17 dlrs vs 55 cts
+    Net 67.7 mln vs 4.5 mln
+    Revs 3.67 billion vs 3.54 billion
+    Year
+    Shr 12.19 dlrs vs 24.00 dlrs
+    Net 101.1 mln vs 199.0 mln
+    Revs 14.33 billion vs 13.35 billion
+    Note: 90 pct owned by Ford Motor Co &lt;F>
+ Reuter
+&#3;</BODY></TEXT>

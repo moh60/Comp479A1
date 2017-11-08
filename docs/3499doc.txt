@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="8412" NEWID="3499">
+<DATE>11-MAR-1987 05:52:11.70</DATE>
+<TOPICS><D>veg-oil</D><D>palm-oil</D></TOPICS>
+<PLACES><D>uk</D><D>saudi-arabia</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G
+&#22;&#22;&#1;f0478&#31;reute
+u f BC-SAUDI-ARABIA-BUYS-5,0   03-11 0044</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SAUDI ARABIA BUYS 5,000 TONNES RBD PALM OLEIN</TITLE>
+<DATELINE>    LONDON, March 11 - </DATELINE><BODY>Saudi Arabia bought 5,000 tonnes of
+refined bleached deodorised palm olein at its import tender
+yesterday for April 16/25 shipment at 353 dlrs per tonne cost
+and freight Jeddah, traders said.
+ REUTER
+&#3;</BODY></TEXT>

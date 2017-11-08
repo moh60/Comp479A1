@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16587" NEWID="1267">
+<DATE> 3-MAR-1987 15:29:00.29</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A
+&#22;&#22;&#1;f0716&#31;reute
+r f BC-MOODY'S-DOWNGRADES-LO   03-03 0101</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MOODY'S DOWNGRADES LORAL &lt;LOR> DEBT</TITLE>
+<DATELINE>    NEW YORK, March 3 - </DATELINE><BODY>Moody's Investors Service Inc said it
+downgraded to Baa-2 from A-3 the rating on Loral Corp's 7-1/4
+pct convertible subordinated debentures of 2010 and on 10-3/4
+pct subordinated sinking fund debentures due 1997.
+    Moody's said it took the action, which affects
+approximately 117 mln dlrs of debt, after examining Loral's
+acquisition of Goodyear Aerospace Corp.
+    It said the downgrade reflects the substantial increase in
+the company's debt in order to finance the acquisition and the
+risks of assimilating such a relatively large acquisition.
+ Reuter
+&#3;</BODY></TEXT>

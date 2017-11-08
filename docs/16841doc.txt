@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1376" NEWID="16841">
+<DATE>17-APR-1987 10:26:44.34</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0249&#31;reute
+r f BC-TEXAS-AIR'S-&lt;TEX>-UNI   04-17 0081</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TEXAS AIR'S &lt;TEX> UNIT TO CUT STAFF</TITLE>
+<DATELINE>    MIAMI, April 17 - </DATELINE><BODY>Texas Air Corp's Eastern Airlines
+subsidiary said it will cut 259 jobs for mechanics and related
+employees in Miami and Boston, effective around May One.
+    The company said part of the staff cuts result from the
+proposed sale of five Boeing Co &lt;BA> 727-100's and two Lockheed
+Corp &lt;LK> L-1011's, as well as the previously announced
+transfer of six &lt;Airbus Industrie> A300's to Continental
+Airlines, another Texas Air subsidiary.
+ Reuter
+&#3;</BODY></TEXT>

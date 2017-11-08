@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5461" NEWID="15563">
+<DATE> 9-APR-1987 10:23:50.87</DATE>
+<TOPICS><D>lead</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;M F
+&#22;&#22;&#1;f1052&#31;reute
+u f BC-asarco-lead-price   04-09 0040</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ASARCO UPS U.S. LEAD PRICE 0.50 CT TO 26.50 CTS</TITLE>
+<DATELINE>    NEW YORK, April 9 - </DATELINE><BODY>Asarco Inc said it is increasing its
+base spot sales price for refined lead by one-half cent to
+26.50 cents a lb, FOB, delivered in carload lots, effective
+immediately.
+ Reuter
+&#3;</BODY></TEXT>

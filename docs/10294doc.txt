@@ -1,0 +1,18 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15815" NEWID="10294">
+<DATE>27-MAR-1987 01:35:42.65&#5;&#5;&#5;RM</DATE>
+<UNKNOWN>&#22;&#22;&#1;f0059&#31;reute</UNKNOWN>
+<TOPICS><D>bop</D></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+f f BC-Japan-Feb-current-acc   03-27 0014</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE>Japan Feb current account surplus 7.38 billion dlrs (Jan 4.95 billion surplus)
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

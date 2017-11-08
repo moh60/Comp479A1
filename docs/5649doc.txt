@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10562" NEWID="5649">
+<DATE>16-MAR-1987 15:42:13.94</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f3483&#31;reute
+r f BC-ADVANCED-MICRO-&lt;AMD>   03-16 0099</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ADVANCED MICRO &lt;AMD> PLANS NEW MICROPROCESSOR</TITLE>
+<DATELINE>    SUNNYVALE, Calif., March 16 - </DATELINE><BODY>Advanced Micro Devices said
+it plans to build the first of a new generation of 32-bit CMOS
+microprocessors designed to operate three to five times faster
+than the 32-bit devices currently built.
+    The new microprocessor is capable of sustained performance
+of 17 mln instructions per second and has a peak of 25 mln
+instructions per second, the company said.
+    It said the new device is suitable for engineering
+workstations, super-minicomputers, laser printer controllers
+and other high-performance applications.
+ Reuter
+&#3;</BODY></TEXT>

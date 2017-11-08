@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12516" NEWID="333">
+<DATE> 2-MAR-1987 06:57:36.55</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>west-germany</D><D>japan</D><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0031&#31;reute
+u f BC-HOECHST-TO-RESEARCH-D   03-02 0089</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HOECHST TO RESEARCH DISCS WITH U.S., JAPAN FIRMS</TITLE>
+<DATELINE>    FRANKFURT, March 2 - </DATELINE><BODY>Hoechst AG &lt;HFAG.F>, &lt;Kerdix Inc.>,
+Boulder, Colorado, and &lt;Nakamichi Corp>, Tokyo, have agreed to
+pool their research and development on magneto-optical memory
+discs, Hoechst said in a statement.
+    Research will be carried out at each company and Hoechst
+will start to produce the discs by mid-1988 and distribute them
+worldwide under the brand name Ozadisc.
+    A Hoechst spokesman said an eventual joint venture was
+likely but could give no details.
+ REUTER
+&#3;</BODY></TEXT>

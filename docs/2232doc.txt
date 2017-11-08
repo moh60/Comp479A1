@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18650" NEWID="2232">
+<DATE> 5-MAR-1987 12:19:25.98</DATE>
+<TOPICS><D>grain</D><D>barley</D></TOPICS>
+<PLACES><D>uk</D><D>ireland</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G
+&#22;&#22;&#1;f0905&#31;reute
+u f BC-TRADERS-DETAIL-IRISH   03-05 0044</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TRADERS DETAIL IRISH INTERVENTION BARLEY TENDER</TITLE>
+<DATELINE>    LONDON, March 5 - </DATELINE><BODY>The European Commission authorised the
+export of 33,500 tonnes of Irish intervention barley at today's
+tender for non-European Community destinations at 53.10 Ecus
+per tonne, grain traders said.
+ Reuter
+&#3;</BODY></TEXT>

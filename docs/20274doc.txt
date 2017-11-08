@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20869" NEWID="20274">
+<DATE>20-OCT-1987 10:48:22.64</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1401&#31;reute
+d f BC-XYVISION-INC-&lt;XYVI.O>   10-20 0073</UNKNOWN>
+<TEXT>&#2;
+<TITLE>XYVISION INC &lt;XYVI.O> 2ND QTR SEPTEMBER 26</TITLE>
+<DATELINE>    WAKEFIELD, Mass., Oct 20 -
+    </DATELINE><BODY>Shr 14 cts vs 15 cts
+    Net 867,000 vs 956,000
+    Revs 9,203,000 vs 5,304,000
+    Six mths
+    Shr 18 cts vs 34 cts
+    Net 1,111,000 vs 1,747,000
+    Revs 16.7 mln vs 10.4 mln
+    NOTE: 1987 2nd qtr and six mths net includes 279,000 dlrs
+and 432,000 dlrs for tax credits. 1986 2nd qtr and six mths net
+includes 361,000 dlrs and 1,747,000 dlrs for tax credits.
+ Reuter
+&#3;</BODY></TEXT>

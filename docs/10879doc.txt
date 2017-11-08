@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16940" NEWID="10879">
+<DATE>30-MAR-1987 11:55:25.76</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1658&#31;reute
+d f BC-QUEST-MEDICAL-INC-&lt;QM   03-30 0048</UNKNOWN>
+<TEXT>&#2;
+<TITLE>QUEST MEDICAL INC &lt;QMED> 4TH QTR LOSS</TITLE>
+<DATELINE>    DALLAS, March 30 -
+    </DATELINE><BODY>Shr loss six cts vs profit two cts
+    Net loss 463,473 vs profit 126,835
+    Revs 3,506,066 vs 3,082,499
+    Year
+    Shr loss four cts vs profit three cts
+    Net loss 323,214 vs profit 187,893
+    Revs 13.8 mln vs 10.8 mln
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,31 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6819" NEWID="18983">
+<DATE>18-JUN-1987 18:09:07.17</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F RM A 
+&#22;&#22;&#1;f4880&#31;reute
+r f BC-FIRST-WACHOVIA-&lt;FW>-A   06-18 0104</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FIRST WACHOVIA &lt;FW> ADDS TO LOAN LOSS RESERVE</TITLE>
+<DATELINE>    ATLANTA, Ga., June 18 - </DATELINE><BODY>First Wachovia Corp said it will
+add 50 mln dlrs to its loan loss reserve. It said about 35 mln
+dlrs will cover bad loans to developing countries and the
+balance is for domestic and international loans.
+    First Wachovia also said it will report a second quarter
+capital gain of 14.3 mln dlrs from the sale of equity
+securities. It said the effect of these transactions will
+reduce its second quarter earnings by 20 mln dlrs or 37 cts a
+share in net income for the quarter.
+    In the year-ago quarter the bank earned 45 mln dlrs or 83
+cts a share.
+    First Wachovia also said that excluding the second quarter
+special items, it expects to report a "good operating earnings
+performance" compared with the year-ago quarter.
+ Reuter
+&#3;</BODY></TEXT>

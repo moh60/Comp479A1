@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12466" NEWID="283">
+<DATE> 2-MAR-1987 02:48:11.01</DATE>
+<TOPICS><D>reserves</D></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0670&#31;reute
+f f BC-Japan-February-extern   03-02 0014</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE>Japan February external reserves record 51.73 billion dlrs (January 51.46 billion)
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

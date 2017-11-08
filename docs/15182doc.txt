@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4165" NEWID="15182">
+<DATE> 8-APR-1987 13:26:59.07</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D><D>japan</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1961&#31;reute
+r f BC-ARVIN-&lt;ARV>,-SANGO-ST   04-08 0059</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ARVIN &lt;ARV>, SANGO START BUILDING PLANT</TITLE>
+<DATELINE>    MADISON, Ind., April 8 - </DATELINE><BODY>Arvin Industries Inc said it and
+Sango Co Ltd of Japan have started building a new 119,000
+square foot joint venture auto exhaust plant in Madison, Wis.
+    The company said the 15.2 mln dlr plant of its Arvin Sango
+Inc venture with Sango is scheduled to be in operation early in
+1988.
+ Reuter
+&#3;</BODY></TEXT>

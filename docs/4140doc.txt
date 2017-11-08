@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9053" NEWID="4140">
+<DATE>12-MAR-1987 08:21:05.89</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0715&#31;reute
+r f BC-JENNIFER-CONVERTIBLES   03-12 0075</UNKNOWN>
+<TEXT>&#2;
+<TITLE>JENNIFER CONVERTIBLES &lt;JENN>INITIAL OFFER STARTS</TITLE>
+<DATELINE>    NEW YORK, March 12 - </DATELINE><BODY>Jennifer Convertibles Inc said an
+initial public offering of 500,000 units is underway at eight
+dlrs each through underwriters led by Evans and Co Inc.
+    Each unit consists of two common shares and one redeemable
+Class A warrant enabling the holder to buy one common share at
+five dlrs until March 11, 1992.
+    The shares and warrants are immediately separately
+transferable.
+ Reuter
+&#3;</BODY></TEXT>

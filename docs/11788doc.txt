@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16" NEWID="11788">
+<DATE> 1-APR-1987 03:18:52.62</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>japan</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0152&#31;reute
+u f BC-SUMITOMO-METAL-SETS-U   04-01 0087</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SUMITOMO METAL SETS UP LONDON, OSAKA FINANCE FIRMS</TITLE>
+<DATELINE>    TOKYO, April 1 - </DATELINE><BODY>&lt;Sumitomo Metal Industries Ltd> has set up
+two finance firms, one in Osaka and one in London, a company
+spokesman said.
+    &lt;Sumitomo Metal International Finance Plc> in London is
+wholly-owned. &lt;Fuso Finance Co Ltd> in Osaka, is owned 50 pct
+by Sumitomo with the rest equally shared by two small Sumitomo
+Metal subsidiaries.
+    The two new companies will work for the Sumitomo Metal
+group on fund raising and investment in financial markets.
+ REUTER
+&#3;</BODY></TEXT>

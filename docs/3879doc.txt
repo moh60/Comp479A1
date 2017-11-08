@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="8792" NEWID="3879">
+<DATE>11-MAR-1987 14:47:59.26</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0316&#31;reute
+d f BC-BAYLY-&lt;BAYL>-BUYS-MAJ   03-11 0036</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BAYLY &lt;BAYL> BUYS MAJORITY OF CHUTES</TITLE>
+<DATELINE>    DENVER, Colo, March 11 - </DATELINE><BODY>Bayly Corp said it acquired 55 pct
+of Chutes Corp, a maker of denim-oriented sportswear
+headquartered in Seattle, Wash.
+    Terms were not disclosed.
+ Reuter
+&#3;</BODY></TEXT>

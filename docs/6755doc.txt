@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11668" NEWID="6755">
+<DATE>18-MAR-1987 15:21:52.55</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F
+&#22;&#22;&#1;f9235&#31;reute
+d f BC-LSI-LOGIC-CANADA-FILE   03-18 0062</UNKNOWN>
+<TEXT>&#2;
+<TITLE>LSI LOGIC CANADA FILES FOR OFFERING</TITLE>
+<DATELINE>    CALGARY, Alberta, March 18 - </DATELINE><BODY>LSI Logic Corp of Canada Inc
+said it filed for a proposed public offering of common shares
+to be underwritten by McLeod Young Weir Ltd and Nesbitt Thomson
+Deacon Inc.
+    The company did not give details of the proposed offering.
+    LSI Logic is associated with, but not owned by, LSI Logic
+Corp &lt;LLSI>.
+
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11756" NEWID="6843">
+<DATE>18-MAR-1987 16:47:25.40</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f9497&#31;reute
+r f BC-OCILLA-INDUSTRIES-&lt;OC   03-18 0095</UNKNOWN>
+<TEXT>&#2;
+<TITLE>OCILLA INDUSTRIES &lt;OCIL> UNIT OBTAINS CREDIT</TITLE>
+<DATELINE>    OCILLA, Ga., March 18 - </DATELINE><BODY>Ocilla Industries Inc said its
+Flintstone Industries Inc subsidiary obtained a three mln
+dollar revolving credit with Bank South Corp &lt;BKSO>.
+    It said Bank South will lend Flintstone amounts
+constituting up to a maximum of 80 pct of acceptable
+receivables and 25 pct of acceptable inventory as defined in
+the loan agreement.
+    In connection with the agreement, Flinstone was granted a
+security interest in its inventory, receivables, and equipment,
+and in certain property in Irwin County, Ga.
+ Reuter
+&#3;</BODY></TEXT>

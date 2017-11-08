@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="21327" NEWID="20732">
+<DATE>20-OCT-1987 16:35:08.18</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D><D>japan</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f3206&#31;reute
+r f BC-TRW-&lt;TRW>-WINS-JAPANE   10-20 0098</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TRW &lt;TRW> WINS JAPANESE AIRPORT CONTRACT</TITLE>
+<DATELINE>    FAIRFAX, Va., Oct 20 - </DATELINE><BODY>TRW Inc said it was selected to
+perform fact-finding security system surveys for the authority
+that is building Kansai International Airport in Osaka, Japan.
+    The company said the 340,000 dlr contract was significant
+because it was the first contract issued by the authority
+solely to an American company without Japanese partners.
+    The contract calls for TRW to perform studies of other
+international airport security systems on behalf of Kansai, the
+company said.
+    Kansai is scheduled to be operational in 1993.
+ Reuter
+&#3;</BODY></TEXT>

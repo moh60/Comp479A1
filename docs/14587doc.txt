@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="3570" NEWID="14587">
+<DATE> 7-APR-1987 16:14:42.78</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F E
+&#22;&#22;&#1;f2351&#31;reute
+u f BC-COCA-COLA-BOTTLING-&lt;C   04-07 0065</UNKNOWN>
+<TEXT>&#2;
+<TITLE>COCA-COLA BOTTLING &lt;COKE> TERMINATES TALKS</TITLE>
+<DATELINE>    CHARLOTTE, N.C., APril 7 - </DATELINE><BODY>Coca-Cola Bottling Co
+Consolidated said it terminated negotiations with the proposed
+purchaser of its wholly owned subsidiary headquartered in
+Vancouver, B.C.
+    The company said it is vigorously continuing its efforts to
+sell its Canadian operations, substantially on the terms and
+conditions previously announced.
+ Reuter
+&#3;</BODY></TEXT>

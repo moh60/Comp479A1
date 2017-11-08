@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13389" NEWID="7868">
+<DATE>20-MAR-1987 13:37:59.92</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1917&#31;reute
+u f BC-TOYOTA-&lt;TOYOY>-HIKES   03-20 0053</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TOYOTA &lt;TOYOY> HIKES 1987 PRICES</TITLE>
+<DATELINE>    DETROIT, March 20 - </DATELINE><BODY>Toyota Motors Sales U.S.A. Inc said it
+will raise the price of its 1987 cars by an average 1.8 pct, or
+208 dlrs, effective immediately.
+    Toyota cited the higher yen as the reason for the increase.
+    Prices on some models will not be increased, Toyota noted.
+ Reuter
+&#3;</BODY></TEXT>

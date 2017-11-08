@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7535" NEWID="18090">
+<DATE> 2-JUN-1987 11:50:01.21</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>west-germany</D></PLACES>
+<PEOPLE><D>volcker</D></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f1542&#31;reute
+u f BC-BUNDESBANK-SOURCES-SA   06-02 0084</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BUNDESBANK SOURCES SAY VOLCKER MOVE REGRETTED</TITLE>
+<DATELINE>    FRANKFURT, June 2 - </DATELINE><BODY>The Bundesbank noted with regret that
+Paul Volcker will not be available for a further term as
+Federal Reserve chairman, Bundesbank sources said.
+    Cooperation with Volcker was always trusting and successful
+for many years, the sources said.
+    On the other hand the Bundesbank is confident that the good
+cooperation between the Bundesbank and the Fed will continue
+under the chairmanship of Alan Greenspan, the sources said.
+ REUTER
+&#3;</BODY></TEXT>

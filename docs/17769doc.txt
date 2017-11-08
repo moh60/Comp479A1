@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6107" NEWID="17769">
+<DATE> 1-JUN-1987 15:36:08.46</DATE>
+<TOPICS><D>grain</D><D>barley</D></TOPICS>
+<PLACES><D>usa</D><D>saudi-arabia</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G
+&#22;&#22;&#1;f2292&#31;reute
+b f BC-ussr-export-sale   06-01 0043</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BARLEY SOLD TO SAUDI ARABIA  - USDA</TITLE>
+<DATELINE>    WASHINGTON, June 1 - </DATELINE><BODY>Private exporters reported sales of
+150,000 tonnes of barley to Saudi Arabia for delivery in the
+1987/88 season, the U.S. Agriculture Deapartment said.
+    The 1987/88 season for barley begins today.
+ Reuter
+&#3;</BODY></TEXT>

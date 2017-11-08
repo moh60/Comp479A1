@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11737" NEWID="6824">
+<DATE>18-MAR-1987 16:26:16.66</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f9440&#31;reute
+r f BC-UNOCAL-&lt;UCL>-UNIT-BEG   03-18 0086</UNKNOWN>
+<TEXT>&#2;
+<TITLE>UNOCAL &lt;UCL> UNIT BEGINS PLANT CONSTRUCTION</TITLE>
+<DATELINE>    LOS ANGELES, March 18 - </DATELINE><BODY>Unocal Corp said its Desert Power
+subsidiary began construction of a 47,500 kilowatt geothermal
+plant in Southern California's Imperial Valley.
+    The company said Desert Power expects the plant to be
+operational by early 1989.
+    The new plant will be located at the southern end of the
+Salton Sea, about one-half mile from an existing 10,000
+kilowatt generating plant owned and operated by Southern
+California Edison Co &lt;SEC>, Unocal also said.
+ Reuter
+&#3;</BODY></TEXT>

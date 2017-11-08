@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5139" NEWID="15784">
+<DATE> 9-APR-1987 13:31:56.19</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1919&#31;reute
+r f BC-MARS-STORES-&lt;MXXX>-MA   04-09 0086</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MARS STORES &lt;MXXX> MARCH SALES FALL</TITLE>
+<DATELINE>    DIGHTON, Mass., April 9 - </DATELINE><BODY>Mars Stores Inc said sales for
+the five weeks ended April 4 were off 22.3 pct to 8,242,525
+dlrs from 10.6 mln dlrs a year earlier.
+    The company said sales for the first nine weeks of its
+fiscal year were off 14.5 pct to 14.1 mln dlrs from 16.5 mln
+dlrs a year before.
+    Results exclude the discontiued Big Value Outlet division,
+it said, and are not directly comparable because Easter fell in
+March last year and will fall late in April this year.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11761" NEWID="6848">
+<DATE>18-MAR-1987 16:50:11.59</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f9508&#31;reute
+d f BC-NORTH-WEST-TELECOM-&lt;N   03-18 0056</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NORTH-WEST TELECOM &lt;NOWT> 4TH QTR OPER NET</TITLE>
+<DATELINE>    LA CROSSE, WIS., March 18 -
+    </DATELINE><BODY>Oper shr 64 cts vs 52 cts
+    Oper net 872,272 vs 706,836
+    Revs 9,271,541 vs 7,744,466
+    Year
+    Oper shr 2.03 dlrs vs 1.96 dlrs
+    Oper net 2,782,7801 vs 2,684,089
+    Revs 31.2 mln vs 29.1 mln
+    NOTE: Full name is North-West Telecommunications Inc
+ Reuter
+&#3;</BODY></TEXT>

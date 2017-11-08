@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6409" NEWID="18657">
+<DATE>18-JUN-1987 09:46:04.73</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F Y 
+&#22;&#22;&#1;f3082&#31;reute
+u f BC-BP-CANADA-&lt;BPC.TO>-PR   06-18 0095</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BP CANADA &lt;BPC.TO> PROCEEDING WITH PROJECT</TITLE>
+<DATELINE>    CALGARY, Alberta, June 18 - </DATELINE><BODY>BP Canada Inc, 64 pct-owned by
+British Petroleum Co PLC, said it and state-owned Petro-Canada
+were proceeding with Wolf Lake 2, the second phase of a
+bitumen-recovery project in Wolf Lake, Alberta.
+    The expansion, with an estimated pre-start up cost of 200
+mln dlrs, will add 15,000 barrels a day to current capacity of
+8,000 barrels a day.
+    Construction will start in early 1988, with 248 wells
+drilled initially and 975 more wells to be added over the
+project's 25-year life, BP Canada said.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1465" NEWID="16930">
+<DATE>17-APR-1987 21:56:19.50</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>philippines</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0470&#31;reute
+b f BC-RADIO-REPORTS-SHOOTIN   04-17 0085</UNKNOWN>
+<TEXT>&#2;
+<TITLE>RADIO REPORTS SHOOTING AT MANILA ARMY HEADQUARTERS</TITLE>
+<DATELINE>    MANILA, April 18 - </DATELINE><BODY>Shooting erupted at Philippine army
+headquarters early this morning, an independent Manila radio
+station said.
+    Radio DZRH said it was checking unconfirmed reports that
+about 120 mutineers had surrounded an office building inside
+Fort Bonifacio.
+    An officer told Reuters an alert had been sounded at the
+camp.
+    A Reuter reporter at the camp said the gates had been
+sealed and guards were preventing anyone from going inside.
+REUTER
+&#3;</BODY></TEXT>

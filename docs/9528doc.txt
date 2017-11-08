@@ -1,0 +1,32 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15048" NEWID="9528">
+<DATE>25-MAR-1987 14:58:07.52</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2130&#31;reute
+d f BC-COMPUTERVISION-&lt;CVN>   03-25 0103</UNKNOWN>
+<TEXT>&#2;
+<TITLE>COMPUTERVISION &lt;CVN> UNVEILS NEW DESIGN GEAR</TITLE>
+<DATELINE>    BEDFORD, Mass., March 25 - </DATELINE><BODY>Computervision Corp said it
+introduced additions to its CADDS 4X software line, a new
+CADDStation workstation and upgrade kits for existing
+CADDStation workstations.
+    The company said the new software products include
+Autoboard SMT, priced at 35,000 dlrs, which is a microchip
+version of its printed circuit board software.
+    The new CADDStation, based on Sun Microsystems Inc's &lt;SUNW>
+workstation technology, is a 32-bit system, available initially
+as a server, with a processing capacity of four mips, or
+million instructions per second.
+    The new CADDStation, Computervision said, is priced at
+90,400 dlrs.
+    The company said it is also offering kits to upgrade its
+2-mips CADDstation priced at 35,000 dlrs.
+ Reuter
+&#3;</BODY></TEXT>

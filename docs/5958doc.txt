@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10871" NEWID="5958">
+<DATE>17-MAR-1987 10:20:32.78</DATE>
+<TOPICS><D>gold</D></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;M
+&#22;&#22;&#1;f5085&#31;reute
+d f BC-&lt;VICEROY-RESOURCE-COR   03-17 0071</UNKNOWN>
+<TEXT>&#2;
+<TITLE>VICEROY RESOURCE CORP DETAILS GOLD ASSAYS</TITLE>
+<DATELINE>    Vancouver, British Columbia, March 17 - </DATELINE><BODY>Viceroy Resource
+Corp said recent drilling on the Lesley Ann deposit extended
+the high-grade mineralization over a width of 600 feet.
+    Assays ranged from about 0.35 ounces of gold per short ton
+over a 150-foot interval at a depth of 350 to 500 feet to about
+1.1 ounces of gold per ton over a 65-foot interval at a depth
+of 200 to 410 feet.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14639" NEWID="9118">
+<DATE>24-MAR-1987 19:57:30.70</DATE>
+<TOPICS><D>money-fx</D><D>dlr</D></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f2851&#31;reute
+f f BC-Bank-of-Japan-bought   03-24 0012</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE>Bank of Japan bought 200 to 300 mln dlrs this morning, dealers said.
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

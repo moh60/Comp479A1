@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16003" NEWID="10483">
+<DATE>27-MAR-1987 11:26:02.38&#5;&#5;&#5;F</DATE>
+<UNKNOWN>&#22;&#22;&#1;f1275&#31;reute</UNKNOWN>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+h f BC-ADVANCED-TOBACCO-&lt;ATP   03-27 0100</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ADVANCED TOBACCO &lt;ATPI> IN LICENSING PACT</TITLE>
+<DATELINE>    SAN ANTONIO, Texas, March 27 - </DATELINE><BODY>Advanced Tobacco Products
+Inc said it signed a letter of intent to license a smoking
+deterrent product to a unit of Pharmacia AB &lt;PHABY> of Sweden.
+    Under terms of the agreement, the company said Pharmacia's
+AB Leo unit will pay an undisclosed sum, including
+non-refundable royalties, for exclusive rights to evaluate
+Advanced Tobacco's nicotine technology through July.
+    The company said the unit will also have an option to buy
+exclusive worldwide licensing rights for the technology for
+additional cash and royalties.
+ Reuter
+&#3;</BODY></TEXT>

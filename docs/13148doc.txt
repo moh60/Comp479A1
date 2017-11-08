@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="2117" NEWID="13148">
+<DATE> 3-APR-1987 16:24:53.34</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2298&#31;reute
+r f BC-E-AND-B-MARINE-&lt;EBMI>   04-03 0047</UNKNOWN>
+<TEXT TYPE="UNPROC">&#2;
+E AND B MARINE &lt;EBMI> 4TH QTR NET
+    EDISON, N.J., April 3
+    Shr loss 1.65 dlrs vs loss 24 cts
+    Net loss 3,259,000 vs loss 470,000
+    Revs 16.0 mln vs 9,510,000
+    12 mths
+    Shr loss 84 cts vs gain 63 cts
+    Net loss 1,661,000 vs gain 1,301,000
+    Revs 80.5 mln vs 56.4 mln
+ Reuter
+&#3;
+
+</TEXT>

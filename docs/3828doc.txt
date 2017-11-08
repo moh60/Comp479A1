@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="8741" NEWID="3828">
+<DATE>11-MAR-1987 13:29:48.44</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0118&#31;reute
+d f BC-JIM-WALTER-&lt;JWC>-BUSY   03-11 0074</UNKNOWN>
+<TEXT>&#2;
+<TITLE>JIM WALTER &lt;JWC> BUSY OWENS-CORNING &lt;OCF> PLANT</TITLE>
+<DATELINE>    TAMPA, Fla, March 11 - </DATELINE><BODY>Jim Walter Corp said it completed
+the acquisition of Owens-Corning Fiberglas Corp's mineral
+ceiling and fiberboard plant in Meridian, Miss.
+    Terms were not disclosed
+    The plant's operations will complement existing ceiling
+materials production within jim Walter's building material's
+group, which last year generated income of 54.9 mln dlrs on
+sales of 740 mln dlrs.
+ Reuter
+&#3;</BODY></TEXT>

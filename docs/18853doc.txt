@@ -1,0 +1,20 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6605" NEWID="18853">
+<DATE>18-JUN-1987 13:27:05.54</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f4055&#31;reute
+r f BC-SHAWMUT-&lt;SHAS.O>-REPU   06-18 0035</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SHAWMUT &lt;SHAS.O> REPURCHASES 400,000 SHARES</TITLE>
+<DATELINE>    BOSTON, June 18 - </DATELINE><BODY>Shawmut Corp said it has repurchased
+400,000 common shares and placed them in its treasury.
+    The company has about 16.1 mln shares outstanding.
+ Reuter
+&#3;</BODY></TEXT>

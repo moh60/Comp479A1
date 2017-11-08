@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14883" NEWID="9362">
+<DATE>25-MAR-1987 11:17:45.61</DATE>
+<TOPICS><D>sugar</D><D>ship</D></TOPICS>
+<PLACES><D>uk</D><D>india</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C T
+&#22;&#22;&#1;f1317&#31;reute
+b f BC-INDIA-REPORTED-BUYING   03-25 0069</UNKNOWN>
+<TEXT>&#2;
+<TITLE>INDIA REPORTED BUYING TWO WHITE SUGAR CARGOES</TITLE>
+<DATELINE>    LONDON, March 25 - </DATELINE><BODY>India is reported to have bought two
+white sugar cargoes for April/May shipment at its tender today
+near 227 dlrs a tonne cost and freight and could be seeking a
+third cargo, traders said.
+    A British operator is believed to have sold one of the
+cargoes, while an Austrian concern is thought to have featured
+in the second cargo sale, they said.
+ Reuter
+&#3;</BODY></TEXT>

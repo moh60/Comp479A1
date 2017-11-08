@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7741" NEWID="18296">
+<DATE> 2-JUN-1987 16:35:13.36</DATE>
+<TOPICS><D>instal-debt</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;V RM
+&#22;&#22;&#1;f2631&#31;reute
+u f BC-FED-TO-RELEASE-U.S.-A   06-02 0054</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FED TO RELEASE U.S. APRIL CONSUMER CREDIT JUNE 5</TITLE>
+<DATELINE>    WASHINGTON, June 2 - </DATELINE><BODY>The Federal Reserve Board said it
+would release April consumer instalment credit figures on
+Friday.
+    No fixed time was set for the release.
+    Consumer credit fell a seasonally adjusted 63 mln dlrs in
+March after rising 1.01 billion dlrs in February.
+ Reuter
+&#3;</BODY></TEXT>

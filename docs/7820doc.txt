@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13341" NEWID="7820">
+<DATE>20-MAR-1987 12:42:06.98</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1690&#31;reute
+u f BC-REVLON-&lt;REV>-BUYS-BEE   03-20 0079</UNKNOWN>
+<TEXT>&#2;
+<TITLE>REVLON &lt;REV> BUYS BEECHAM'S COMSMETICS UNIT</TITLE>
+<DATELINE>    NEW YORK, March 20 - </DATELINE><BODY>Revlon Group Inc said it bought
+Germaine Monteil's cosmetics business in the U.S. from the
+Beecham Group PLC.
+    Terms of the sale were not disclosed.
+    The sale includes the rights to Germaine Monteil in North
+and South America and in the Far East, as well as the worldwide
+rights to the Diane von Furstenberg cosmetics and fragrances
+lines and the U.S. distribution rights to Lancaster beauty
+products.
+    Meanwhile in London a statement from Beecham said the
+business was sold to Revlon for 2.5 mln dlrs in cash and a
+royalty payment.
+ Reuter
+&#3;</BODY></TEXT>

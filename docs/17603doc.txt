@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5941" NEWID="17603">
+<DATE> 1-JUN-1987 11:39:26.47</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1461&#31;reute
+r f BC-KROGER-&lt;KR>-EMPLOYEES   06-01 0063</UNKNOWN>
+<TEXT>&#2;
+<TITLE>KROGER &lt;KR> EMPLOYEES TO VOTE ON NEW CONTRACT</TITLE>
+<DATELINE>    DENVER, June 1 - </DATELINE><BODY>Kroger Co said members of the United Food
+and Commercial Workers Union, which have been on strike against
+its King Soopers Supermarkets division for the past two weeks,
+will vote tonight on a new contract proposal.
+    It said the union has removed pickets from King Soopers
+stores pending the outcome of the vote.
+ Reuter
+&#3;</BODY></TEXT>

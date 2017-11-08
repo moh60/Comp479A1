@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12275" NEWID="7362">
+<DATE>19-MAR-1987 15:00:12.68</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2158&#31;reute
+r f BC-AZURE-VENTURES-TO-BUY   03-19 0066</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AZURE VENTURES TO BUY ADVERTISING UNIT</TITLE>
+<DATELINE>    KANSAS CITY, Mo., March 19 - </DATELINE><BODY>&lt;Azure Ventures Ltd> said it
+signed a letter of intent to acquire John Paul Richards and
+Associates Inc.
+    The company said if the merger is approved by shareholders
+of both companies, the shareholders of John Paul Richards would
+become majority shareholders, owning 60 pct of the common
+stock, of the new public company.
+ Reuter
+&#3;</BODY></TEXT>

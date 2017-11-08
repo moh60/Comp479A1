@@ -1,0 +1,31 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20714" NEWID="20119">
+<DATE>20-OCT-1987 08:42:21.03</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f0834&#31;reute
+r f BC-CONVERGENT-INC-&lt;CVGT.   10-20 0061</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CONVERGENT INC &lt;CVGT.O> 3RD QTR NET</TITLE>
+<DATELINE>    SAN JOSE, Calif., Oct 20 -
+    </DATELINE><BODY>Shr profit four cts vs loss 56 cts
+    Net profit 2,043,000 vs loss 25.7 mln
+    Revs 111.3 mln vs 64.7 mln
+    Avg shrs 48.3 mln vs 45.8 mln
+    Nine mths
+    Shr loss 18 cts vs loss 63 cts
+    Net loss 8,695,000 vs loss 28.4 mln
+    REvs 308.4 mln vs 228.4 mln
+    Avg shrs 48.0 mln vs 44.8 mln
+    NOTE: 1986 net includes tax credits of 1,646,000 dlrs in
+quarter and 3,401,000 dlrs in nine mths.
+    1987 nine mths results restated for pooled acquisition of
+Bidtek Inc.
+ Reuter
+&#3;</BODY></TEXT>

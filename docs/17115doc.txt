@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="NOT-USED" CGISPLIT="PUBLISHED-TESTSET" OLDID="21738" NEWID="17115">
+<DATE>24-APR-1987 11:56:05.90</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1469&#31;reute
+r f BC-SIERRA-HEALTH   04-24 0082</UNKNOWN>
+<TEXT>&#2;
+<TITLE>INVESTOR HAS 5.1 PCT OF SIERRA HEALTH &lt;SIE></TITLE>
+<DATELINE>    WASHINGTON, April 24 - </DATELINE><BODY>Peter Lin, a Montebello, Calif.,
+physician, told the Securities and Exchange Commission he has
+acquired 285,000 shares of Sierra Health Services Inc, or 5.1
+pct of the total outstanding common stock.
+    Lin said he bought the stock for about 1.7 mln dlrs solely
+for investment purposes.
+    Although he said he may buy more stock in Sierra Health
+Services, Lin said he has no intention of seeking control of
+the company.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,20 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="3129" NEWID="14146">
+<DATE> 7-APR-1987 11:40:28.57</DATE>
+<TOPICS><D>sugar</D></TOPICS>
+<PLACES><D>uk</D><D>malta</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C T
+&#22;&#22;&#1;f1341&#31;reute
+b f BC-MALTA-TENDERS-FOR-WHI   04-07 0030</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MALTA TENDERS FOR WHITE SUGAR TODAY - TRADE</TITLE>
+<DATELINE>    LONDON, April 7 - </DATELINE><BODY>Malta is tendering to buy 3,000 tonnes
+white sugar today for arrival in two equal parts in May and
+June, traders said.
+ Reuter
+&#3;</BODY></TEXT>

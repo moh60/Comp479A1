@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="1610" NEWID="12534">
+<DATE> 2-APR-1987 09:37:18.77</DATE>
+<TOPICS><D>jobs</D></TOPICS>
+<PLACES><D>belgium</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0962&#31;reute
+r f BC-BELGIAN-UNEMPLOYMENT   04-02 0077</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BELGIAN UNEMPLOYMENT FALLS IN MARCH</TITLE>
+<DATELINE>    BRUSSELS, April 2 - </DATELINE><BODY>Belgian unemployment, based on the
+number of jobless drawing unemployment benefit, fell to 11.8
+pct of the working population at the end of March from 12.1 pct
+at end of February, the National Statistics Office said.
+    The rate compares with 12.0 pct at the end of March, 1986.
+    The total number of jobless stood at 495,208, compared with
+508,392 in February and 504,652 in March last year.
+ REUTER
+&#3;</BODY></TEXT>

@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15978" NEWID="10458">
+<DATE>27-MAR-1987 10:52:04.86&#5;&#5;&#5;F</DATE>
+<UNKNOWN>&#22;&#22;&#1;f1106&#31;reute</UNKNOWN>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+r f BC-LSB-INDUSTRIES-&lt;LSB>   03-27 0058</UNKNOWN>
+<TEXT>&#2;
+<TITLE>LSB INDUSTRIES &lt;LSB> AGREES TO ACQUIRE BANK</TITLE>
+<DATELINE>    OKLAHOMA CITY, March 27 - </DATELINE><BODY>LSB Industries Inc said it agreed
+to acquire Northwest Federal Savings and Loan Association for
+1,500,000 dlrs.
+    As part of the agreement, LSB said it also would transfer
+assets valued of not less than 30 mln dlrs to Northwest
+Federal, which is located in Woodward, Okla.
+ Reuter
+&#3;</BODY></TEXT>

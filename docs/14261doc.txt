@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="3244" NEWID="14261">
+<DATE> 7-APR-1987 12:10:32.37</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F
+&#22;&#22;&#1;f1488&#31;reute
+r f BC-gandalf,-british   04-07 0055</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GANDALF &lt;GANDF>, BRITISH TELECOM IN AGREEMENT</TITLE>
+<DATELINE>    OTTAWA, April 7 - </DATELINE><BODY>Gandalf Technologies Inc said it signed a
+two-year, eight mln dlr agreement with British Telecom to
+distribute British Telecom's Mezza Voicestation System in
+Canada and the United States.
+    Gandalf said it will market the system as the Gandalf
+Voicestation System.
+ Reuter
+&#3;</BODY></TEXT>

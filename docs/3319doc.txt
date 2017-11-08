@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19741" NEWID="3319">
+<DATE>  9-MAR-1987 15:14:31.08</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0475&#31;reute
+r f BC-CHRYSLER-&lt;C>-TO-CLOSE   03-09 0083</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CHRYSLER &lt;C> TO CLOSE INDIANA ELECTRICAL PLANT</TITLE>
+<DATELINE>    DETROIT, March 9 - </DATELINE><BODY>Chrysler Corp said over the next two
+years it will phase out production at its Indianapolis
+Electrical Plant, which currently employs 975 hourly hourly and
+salaried workers.
+    The company said that its recently concluded study
+indicated the plant, now operating at less than 50 pct
+capacity, could not be competitive in an increasingly
+competitive automotive market in the production of
+electro-mechanical automotive components.
+
+
+&#3;</BODY></TEXT>

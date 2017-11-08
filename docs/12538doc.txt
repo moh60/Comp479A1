@@ -1,0 +1,20 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="1614" NEWID="12538">
+<DATE> 2-APR-1987 09:40:39.48</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0978&#31;reute
+d f BC-KEY-CENTURION-&lt;KEYC>   04-02 0037</UNKNOWN>
+<TEXT>&#2;
+<TITLE>KEY CENTURION &lt;KEYC> COMPLETES ACQUISITIONS</TITLE>
+<DATELINE>    CHARLESTON, W.Va., April 2 - </DATELINE><BODY>Key Centurion Bancshares Inc
+said it has completed the previously-announced acquisitions of
+Union Bancorp of West Virginia Inc and Wayne Bancorp Inc.
+ Reuter
+&#3;</BODY></TEXT>

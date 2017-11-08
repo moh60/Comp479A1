@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9982" NEWID="5069">
+<DATE>13-MAR-1987 16:36:20.34</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A RM
+&#22;&#22;&#1;f0467&#31;reute
+r f BC-GUILFORD-MILLS-&lt;GFD>   03-13 0087</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GUILFORD MILLS &lt;GFD> TO SELL CONVERTIBLE DEBT</TITLE>
+<DATELINE>    NEW YORK, March 13 - </DATELINE><BODY>Guilford Mills Inc said it filed with
+the Securities and Exchange Commission a registration statement
+covering a 60 mln dlr issue of convertible subordinated
+debentures.
+    Proceeds will be used to repay certain indebtedness and
+increase working capital, as well as for general corporate
+purposes.
+    Guilford Mills said it expects the issue will be offered
+later this month. The company named Bear, Stearns and Co as
+lead underwriter of the offering.
+ Reuter
+&#3;</BODY></TEXT>

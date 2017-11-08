@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7218" NEWID="19382">
+<DATE>19-JUN-1987 15:23:24.76</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2153&#31;reute
+r f BC-COASTAL-&lt;CGP>-EXTENDS   06-19 0084</UNKNOWN>
+<TEXT>&#2;
+<TITLE>COASTAL &lt;CGP> EXTENDS OFFERING OF DRILLING UNITS</TITLE>
+<DATELINE>    HOUSTON, June 19 - </DATELINE><BODY>Coastal Corp's Coastal Limited Ventures
+Inc subsidiary said its offering of 14,000 limited partnership
+units in the Coastal 1987 Drilling Program Ltd has been
+extended to July two or until all the units are solf if that
+occurs earlier.
+    It said about eight mln dlrs in 1,000 dlr units had been
+sold as of yesterday. The partnership plans to raise 14 mln
+dlrs from the sale of the units and will borrow four mln dlrs,
+Coastal said.
+ Reuter
+&#3;</BODY></TEXT>

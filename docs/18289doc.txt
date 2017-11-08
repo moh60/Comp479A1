@@ -1,0 +1,20 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7734" NEWID="18289">
+<DATE> 2-JUN-1987 16:25:08.91</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2600&#31;reute
+d f BC-SHAWMUT-&lt;SHAS.O>-CHAN   06-02 0030</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SHAWMUT &lt;SHAS.O> CHANGES NAME OF SUBSIDIARY</TITLE>
+<DATELINE>    BOSTON, June 2 - </DATELINE><BODY>Shawmut Corp said it changed the name of
+its subsidiary, First Gibraltar Mortgage Corp, to Shawmut First
+Mortgage Corp.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6611" NEWID="18859">
+<DATE>18-JUN-1987 13:31:17.08</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f4078&#31;reute
+h f BC-LEASEWAY-TRANSPORTATI   06-18 0064</UNKNOWN>
+<TEXT>&#2;
+<TITLE>LEASEWAY TRANSPORTATION &lt;LTC>COMPLETES UNIT SALE</TITLE>
+<DATELINE>    CLEVELAND, June 18 - </DATELINE><BODY>Leaseway Transportation Corp said it
+has completed the previously-announced sale of its Leaseway of
+Puerto Rico Inc subsidiary to Caguas Central Federal Savings
+Bank for undisclosed terms.
+    The company said the sale satisfied a condition for its
+proposed acquisition by an investor group led by Citicorp &lt;CCI>.
+ Reuter
+&#3;</BODY></TEXT>

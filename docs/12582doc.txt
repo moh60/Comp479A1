@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="1658" NEWID="12582">
+<DATE> 2-APR-1987 10:33:22.67</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1215&#31;reute
+u f BC-SOFTWARE-PUBLISHING-&lt;   04-02 0045</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SOFTWARE PUBLISHING &lt;SPCO> USING SMALLER DISKS</TITLE>
+<DATELINE>    MIAMI, April 2 - </DATELINE><BODY>Software Publishing Corp said it has
+converted all of its programs to the three and a half inch disk
+format required to run on International Business Machines
+Corp's &lt;IBM> new Personal System/2 computers.
+ Reuter
+&#3;</BODY></TEXT>

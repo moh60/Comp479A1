@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14603" NEWID="9082">
+<DATE>24-MAR-1987 17:53:11.46</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A RM
+&#22;&#22;&#1;f2730&#31;reute
+r f BC-TRAVELERS-&lt;TIC>-UNIT   03-24 0102</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TRAVELERS &lt;TIC> UNIT SELLS MORTGAGE CERTIFICATES</TITLE>
+<DATELINE>    New York, March 24 - </DATELINE><BODY>Travelers Mortgage Services Inc, a
+unit of Travelers Corp, is issuing nearly 75.2 mln dlrs of
+mortgage pass-through certificates, said sole manager Morgan
+Stanely and Co Inc.
+    The certificates have a 6-1/2 pct coupon and initial price
+of 89.6 for a bond equivalent yield of 8-1/2 pct. Morgan said
+the certificates will be reoffered at various prices and have
+an average life of 9.6 years.
+    Principal and interest will be payed each month beginning
+May 25. Standard and Poor's is expected to rate the
+certificates AA, Morgan said.
+     
+ Reuter
+&#3;</BODY></TEXT>

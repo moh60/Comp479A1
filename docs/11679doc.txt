@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17741" NEWID="11679">
+<DATE>31-MAR-1987 16:26:26.79</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2619&#31;reute
+d f BC-PHILADELPHIA-SUBURBAN   03-31 0067</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PHILADELPHIA SUBURBAN &lt;PSC> BUYS SOFTWARE FIRM</TITLE>
+<DATELINE>    BRYN MAWR, Pa., March 31 - </DATELINE><BODY>Philadelphia Suburban Corp said
+it acquired Mentor Systems Inc, a Lexington, Ky., computer
+software company, for common stock.
+    Detailed terms were not disclosed.
+    Mentor specializes in public sector accounting systems. It
+has 73 employees at its Lexington facility, four branch offices
+in the Midwest and one in New York.
+ Reuter
+&#3;</BODY></TEXT>

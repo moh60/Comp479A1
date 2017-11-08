@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6443" NEWID="18691">
+<DATE>18-JUN-1987 10:42:18.40</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f3306&#31;reute
+u f BC-ENERGY-CONVERSION-&lt;EN   06-18 0033</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ENERGY CONVERSION &lt;ENER.O> IN SUPERCONDUCTIVITY</TITLE>
+<DATELINE>    TROY, MICH., June 18 - </DATELINE><BODY>Energy Conversion Devices Inc said
+its scientists have achieved superconductivity at  a
+temperature of 90 degrees Fahrenheit.
+    The company said the general composition of the fluorinated
+multi-phase superconducting material involved is yttrium,
+barium, copper, fluorine and oxygen.
+                         
+ Reuter
+&#3;</BODY></TEXT>

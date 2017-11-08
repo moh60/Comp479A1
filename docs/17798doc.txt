@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6136" NEWID="17798">
+<DATE> 1-JUN-1987 16:24:28.54</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2404&#31;reute
+d f BC-WYSE-&lt;WYSE.O>-TO-GET   06-01 0051</UNKNOWN>
+<TEXT>&#2;
+<TITLE>WYSE &lt;WYSE.O> TO GET LINK TECHNOLOGIES</TITLE>
+<DATELINE>    SAN JOSE, Calif., June 1 - </DATELINE><BODY>Wyse Technology said it agreed
+in principle to acquire privately-held Link Technologies Inc in
+exchange for an undisclosed amount of Wyse Technology shares.
+    Link Technologies develops and markets computer terminals,
+Wyse also said.
+ Reuter
+&#3;</BODY></TEXT>

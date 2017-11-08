@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="8209" NEWID="19881">
+<DATE>29-JUN-1987 15:54:44.31</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2397&#31;reute
+r f BC-AMERICAN-CENTURY-&lt;ACT   06-29 0073</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AMERICAN CENTURY &lt;ACT> UNIT SELLS STOCK</TITLE>
+<DATELINE>    SAN ANTONIO, Texas, June 29 - </DATELINE><BODY>American Century Corp said
+its Commerce Savings unit will sell 997,756 common shares in
+First American Financial Corp &lt;FAMR.O>, representing 18 pct of
+First American.
+    The company said the shares are being repurchased by First
+American for 29.4 mln dlrs and two real estate assets in
+California.
+    It said Commerce Savings acquired the shares in 1982 and
+1983.
+ Reuter
+&#3;</BODY></TEXT>

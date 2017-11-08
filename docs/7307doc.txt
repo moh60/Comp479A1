@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12220" NEWID="7307">
+<DATE>19-MAR-1987 13:43:49.05</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F Y
+&#22;&#22;&#1;f1917&#31;reute
+r f BC-PANHANDLE-&lt;PEL>-LINES   03-19 0105</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PANHANDLE &lt;PEL> LINES EXTEND TRANSPORT SERVICE</TITLE>
+<DATELINE>    HOUSTON, March 19 - </DATELINE><BODY>Panhanele Eastern Corp said its two
+interstate pipeline subsidiaries will extend the availability
+of self-implementing transportation service beyond the
+scheduled May one termination of the program set by federal
+regulators.
+    The company explained that Panhandle Eastern Pipe Line Co
+and Trunkline Gas Co are engaged in renegotiating their basic
+utility service agreements to provide both traditional tariff
+sales and transportation service. Because this process requires
+considerable time, the continuity of transport service is being
+preserved, it added.
+ Reuter
+&#3;</BODY></TEXT>

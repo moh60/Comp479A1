@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20539" NEWID="20898">
+<DATE>19-OCT-1987 17:43:05.57</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f3297&#31;reute
+u f BC-GREAT-ATLANTIC-&lt;GAP>   10-19 0084</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GREAT ATLANTIC &lt;GAP> WITHDRAWS DECHAMPS BID</TITLE>
+<DATELINE>    MONTVALE, N.J., Oct 19 - </DATELINE><BODY>The Great Atlantic and Pacific Tea
+Co Inc said it withdrew its offer to acquire Delchamps Inc
+&lt;DLCH.O> for 27 dlrs a share or about 175 mln dlrs, which was
+made earlier this month.
+    Michael Rourke, A and P vice president, said the company
+withdrew the offer because Delchamps did not respond favorably
+to it and because of market conditions.
+    He would not comment on whether A and P would make another
+offer to acquire Delchamps.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6651" NEWID="18899">
+<DATE>18-JUN-1987 14:14:34.47</DATE>
+<TOPICS><D>grain</D><D>wheat</D></TOPICS>
+<PLACES><D>uk</D><D>south-korea</D><D>west-germany</D><D>poland</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS><D>ec</D></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G 
+&#22;&#22;&#1;f4202&#31;reute
+u f BC-EC-UPS-SIZE-OF-SPECIA   06-18 0098</UNKNOWN>
+<TEXT>&#2;
+<TITLE>EC INCREASES SPECIAL FEED WHEAT TENDERS - TRADE</TITLE>
+<DATELINE>    LONDON, June 18 - </DATELINE><BODY>The European Community (EC) has increased
+the size of two special export tenders for British and West
+German feed wheat held in intervention stores and included
+South Korea as an acceptable destination, traders said.
+    The tender was originally for 120,000 tonnes of British and
+120,000 tonnes of West German feed wheat for shipment only to
+Poland.
+    But now both tranches have been increased by 50,000 tonnes
+to 170,000 tonnes with South Korea added as a possible
+destination. Both tenders are open from June 24.
+ Reuter
+&#3;</BODY></TEXT>

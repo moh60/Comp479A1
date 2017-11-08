@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6346" NEWID="18594">
+<DATE>18-JUN-1987 08:22:50.15</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A RM 
+&#22;&#22;&#1;f2811&#31;reute
+r f BC-MARINE-MIDLAND-&lt;MM>-D   06-18 0107</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MARINE MIDLAND &lt;MM> DEBT AFFIRMED BY MOODY'S</TITLE>
+<DATELINE>    NEW YORK, June 18 - </DATELINE><BODY>Moody's Investors Service Inc said it
+affirmed the ratings on 1.4 billion dlrs of debt of Marine
+Midland Banks Inc and unit, Marine Midland Bank NA.
+    Affirmed were the parent's A-2 senior debt and preferred
+stock and A-3 subordinated debt, and the unit's Prime-1
+commercial paper, A-1 long-term deposits, A-2 subordinated debt
+and Prime-1 short-term deposits.
+    Moody's cited a 400 mln dlr addition to the firm's loan
+loss reserves as a reflection of exposure to economically
+troubled borrowers. Moody's said the addition merely more
+accurately reflects economic reality.
+ Reuter
+&#3;</BODY></TEXT>

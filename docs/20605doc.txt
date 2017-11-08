@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="21200" NEWID="20605">
+<DATE>20-OCT-1987 15:02:19.22</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2836&#31;reute
+d f BC-DIAMOND-CRYSTAL-&lt;DSLT   10-20 0051</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DIAMOND CRYSTAL &lt;DSLT.O> 2ND QTR SEPT 30 NET</TITLE>
+<DATELINE>    ST CLAIR, Mich, Oct 20 -
+    </DATELINE><BODY>Shr 69 cts vs 39 cts
+    Net 1,767,000 vs 1,007,000
+    Sales 32.3 mln vs 29.2 mln
+    Six mths
+    Shr 53 cts vs 12 cts
+    Net 1,348,000 vs 319,000
+    Sales 62.2 mln vs 55.2 mln
+    NOTE: Full name is Diamond Crystal Salt Co.
+ Reuter
+&#3;</BODY></TEXT>

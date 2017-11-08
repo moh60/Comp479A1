@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7063" NEWID="19227">
+<DATE>19-JUN-1987 11:37:21.25</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1297&#31;reute
+d f BC-AMERICAN-FEDERAL-SAVI   06-19 0089</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AMERICAN FEDERAL SAVINGS &lt;AFSL.O> SEES PRESSURE</TITLE>
+<DATELINE>    DENVER, June 19 - </DATELINE><BODY>American Federal Savings and Loans
+Association of Colorado said its earnings will continue to be
+under pressure this year due to the weakness of the Colorado
+economy.
+    The company, which today declared a regular quarterly
+dividend, said it was also under pressure from the level of
+non-earning assets it holds.
+    The company said this pressure will be offset to a certain
+extent by increased revenues from out-of-state operations and
+its strong capital position.
+ Reuter
+&#3;</BODY></TEXT>

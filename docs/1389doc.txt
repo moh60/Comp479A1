@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16709" NEWID="1389">
+<DATE> 3-MAR-1987 17:51:56.06</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0117&#31;reute
+u f BC-BRITISH-AEROSPACE-TO   03-03 0068</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BRITISH AEROSPACE TO ANNOUNCE JET SALES</TITLE>
+<DATELINE>    WASHINGTON, March 3 - </DATELINE><BODY>British Aerospace inc said it would
+hold a news conference Thursday morning to announce the sale of
+18 to 20 jets to four airlines, two of them in the United
+States.
+    A company spokesman said the sales involved 12 BAE 146 jets
+and six to eight Jetstream 31 commuter jets.
+    He declined to name the four airlines which were buying the
+jets.
+ Reuter
+&#3;</BODY></TEXT>

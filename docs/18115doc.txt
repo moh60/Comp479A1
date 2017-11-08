@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7560" NEWID="18115">
+<DATE> 2-JUN-1987 12:20:23.70</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1723&#31;reute
+d f BC-LOPAT-INDUSTRIES-&lt;LPA   06-02 0055</UNKNOWN>
+<TEXT>&#2;
+<TITLE>LOPAT INDUSTRIES &lt;LPAT.O> HAS PROFITABLE MONTH</TITLE>
+<DATELINE>    WANAMASSA, N.J., June 2 - </DATELINE><BODY>Lopat Industries Inc said it had
+its first profitable month of operations in May, earning 47,900
+dlrs on revenues of 162,200 dlrs.
+    Lopat said "The May results signal the start of profitable
+operations and growing revenues over the balance of the year."
+ Reuter
+&#3;</BODY></TEXT>

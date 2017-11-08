@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14345" NEWID="8824">
+<DATE>24-MAR-1987 11:40:26.13</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A RM
+&#22;&#22;&#1;f1453&#31;reute
+r f BC-S/P-UPGRADES-IOWA-ILL   03-24 0104</UNKNOWN>
+<TEXT>&#2;
+<TITLE>S/P UPGRADES IOWA-ILLINOIS GAS &lt;IWG> PREFERRED</TITLE>
+<DATELINE>    NEW YORK, March 24 - </DATELINE><BODY>Standard and Poor's said it upgraded
+31 mln dlrs of preferred and preference stock of Iowa-Illinois
+Gas and Electric Co.
+    It raised the preferred stock to AA-minus from A-plus and
+preference stock to A-plus from A and affirmed Iowa-Illinois'
+AA senior debt, AA-minus subordinated debt and A-1-plus
+commercial paper. The utility has 350 mln dlrs of debt
+securities outstanding.
+    S and P said the upgrade reflected the firm's overall
+strong profile, high quality earnings and cash flow, and
+prospects for modest preferred and preference stock usage.
+ Reuter
+&#3;</BODY></TEXT>

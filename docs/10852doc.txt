@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16913" NEWID="10852">
+<DATE>30-MAR-1987 11:39:07.07</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1584&#31;reute
+d f BC-SPECTRUM-CONCEPTS-UNV   03-30 0093</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SPECTRUM CONCEPTS UNVEILS NETWORKING PRODUCT</TITLE>
+<DATELINE>    LAS VEGAS, March 30 - </DATELINE><BODY>&lt;Spectrum Concepts Inc> said it
+unveiled a new software product called XCOM 6.2 that links
+various computer systems together.
+    The company said the software can transfer data between
+International Business Machine Corp's &lt;IBM> mainframe
+computers, System/38 minicomputers, Digital Equipment Corp
+&lt;DEC> Vax minicomputers, IBM personal computers and Token Ring
+local area networks.
+    It said prices range from 26,000 dlrs for a mainframe
+license to 200 dlrs for each personal computer.
+ Reuter
+&#3;</BODY></TEXT>

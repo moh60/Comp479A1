@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14599" NEWID="9078">
+<DATE>24-MAR-1987 17:44:49.75</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2716&#31;reute
+r f BC-ORMAND-INDUSTRIES-&lt;OM   03-24 0076</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ORMAND INDUSTRIES &lt;OMD> UNIT TO REPAY DEBT</TITLE>
+<DATELINE>    LOS ANGELES, March 24 - </DATELINE><BODY>Ormand Industries INc said its
+General Can Co Inc unit has finalized all transactions needed
+to repay about 3.3 mln dlrs of past-due accounts to its
+unsecured lenders.
+    The plan calls for payment of about 1.5 mln dlrs in cash
+and the issuance of a new class of preferred stock by Ormand
+Industries.
+    The company said it anticipates full distribution to the
+creditors during March.
+ Reuter
+&#3;</BODY></TEXT>

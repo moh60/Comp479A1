@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7240" NEWID="19404">
+<DATE>19-JUN-1987 16:00:13.98</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2252&#31;reute
+h f BC-ENVIRONMENTAL-&lt;POWER.   06-19 0048</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ENVIRONMENTAL &lt;POWER.O> BOARDMEMBER RESIGNS</TITLE>
+<DATELINE>    BOSTON, June 19 - </DATELINE><BODY>Environmental Power Corp said that Robert
+W. Baldridge has resigned from its board of directors,
+effective June 17.
+    Environmental develops, owns and operates small power
+production, hydropower, and waste-energy plants.
+ Reuter
+&#3;</BODY></TEXT>

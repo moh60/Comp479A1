@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17806" NEWID="11744">
+<DATE>31-MAR-1987 18:20:54.46</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2872&#31;reute
+u f BC-CYCLOPS   03-31 0080</UNKNOWN>
+<TEXT>&#2;
+<TITLE>OPPENHEIMER SELLS SIX PCT CYCLOPS &lt;CYL> STAKE</TITLE>
+<DATELINE>    WASHINGTON, March 30 - </DATELINE><BODY>Oppenheimer, the brokerage and
+investment subsidiary of Oppenheimer Group Inc, told the
+Securities and Exchange Commission it sold its entire 6.0 pct,
+stake of Cyclops Corp.
+    Oppenheimer said it sold the 243,400-share stake on March
+27 at 95.00 dlrs a share.
+    It said it initially bought the stock in connection with
+risk arbitrage and other investment activities in the ordinary
+course of its business.
+ Reuter
+&#3;</BODY></TEXT>

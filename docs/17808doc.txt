@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6146" NEWID="17808">
+<DATE> 1-JUN-1987 16:34:12.74</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2428&#31;reute
+u f BC-PHILLIPS-VAN-HEUSEN-C   06-01 0050</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PHILLIPS-VAN HEUSEN CORP &lt;PVH> 1ST QTR</TITLE>
+<DATELINE>    NEW YORK, June 1 -
+    </DATELINE><BODY>Shr 73 cts vs 60 cts
+    Net 4.6 mln vs 3.8 mln
+    Revs 112.8 mln vs 104.1 mln
+    NOTE:1987 includes lifo charge of 1.5 mln dlrs, pension
+expenses declined by 879,000 dlrs due to change in accounting,
+interest decreased by 382,000 dlrs.
+ Reuter
+&#3;</BODY></TEXT>

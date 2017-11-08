@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17029" NEWID="10968">
+<DATE>30-MAR-1987 13:44:09.44</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2068&#31;reute
+w f BC-SPORTS-NEWS,-CYBERNET   03-30 0073</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SPORTS NEWS, CYBERNETIC IN DEAL</TITLE>
+<DATELINE>    NORTH MIAMI BEACH, Fla, March 30 - </DATELINE><BODY>Sports News Network
+International Inc said it signed an exclusive agreement to
+distribute its electronic news service, Sportswatch, through
+Cybernetic Data Products.
+    The agreement calls for Sports News Network to provide its
+sports news service to more than 1,300 existing electronic
+board owned by Cybernetic Data Products and operated under the
+name, SilentRadio.
+ Reuter
+&#3;</BODY></TEXT>

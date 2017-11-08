@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15893" NEWID="10372">
+<DATE>27-MAR-1987 08:07:17.04&#5;&#5;&#5;RM</DATE>
+<UNKNOWN>&#22;&#22;&#1;f0630&#31;reute</UNKNOWN>
+<TOPICS><D>trade</D><D>bop</D></TOPICS>
+<PLACES><D>south-africa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+u f BC-S.-AFRICAN-TRADE-SURP   03-27 0103</UNKNOWN>
+<TEXT>&#2;
+<TITLE>S. AFRICAN TRADE SURPLUS RISES SHARPLY IN FEBRUARY</TITLE>
+<DATELINE>    JOHANNESBURG, March 27 - </DATELINE><BODY>South Africa's trade surplus rose
+to 1.62 billion rand in February after falling to 906.2 mln in
+January, Customs and Excise figures show.
+    This compares with a year earlier surplus of 958.9 mln
+rand.
+    Exports rose slightly to 3.36 billion rand in February from
+3.31 billion in January but imports fell to 1.74 billion from
+2.41 billion.
+    This brought total exports for the first two months of 1987
+to 6.67 billion rand and imports to 4.15 billion for a total
+surplus of 2.52 billion rand against 1.71 billion a year
+earlier.
+ REUTER
+&#3;</BODY></TEXT>

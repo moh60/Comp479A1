@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="21422" NEWID="20827">
+<DATE>20-OCT-1987 18:50:09.95</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F 
+&#22;&#22;&#1;f3566&#31;reute
+r f BC-MDS-HEALTH-&lt;MHGA.TO>   10-20 0078</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MDS HEALTH &lt;MHGA.TO> GETS ORDER</TITLE>
+<DATELINE>    TORONTO, Oct 20 - </DATELINE><BODY>MDS Health Group Ltd said that mass
+spectrometry equipment developed and made by its Sciex division
+will be used in British-made contraband detection systems being
+purchased by the Japanese government.
+    The company said the Japanese customs bureau placed an
+initial 21 mln dlr order.
+    The equipment is able to detect illegal drugs in cargo, the
+company said. The systems are made by British Aerospace
+&lt;BAEL.L>.
+ Reuter
+&#3;</BODY></TEXT>

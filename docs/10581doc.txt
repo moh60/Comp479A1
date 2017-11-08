@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16102" NEWID="10581">
+<DATE>27-MAR-1987 13:22:09.41&#5;&#5;&#5;F</DATE>
+<UNKNOWN>&#22;&#22;&#1;f1834&#31;reute</UNKNOWN>
+<TOPICS><D>pet-chem</D></TOPICS>
+<PLACES><D>usa</D><D>taiwan</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+r f BC-HENLEY-GROUP-&lt;HENG>-U   03-27 0097</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HENLEY GROUP &lt;HENG> UNIT WINS TAIWAN CONTRACT</TITLE>
+<DATELINE>    HOUSTON, March 27 - </DATELINE><BODY>Henley Group Inc's M.W. Kellogg Co unit
+said it was selected by &lt;Chinese Petroleum Corp> to design,
+engineer and build a ethylene plant at Chinese
+Petroleum's Kaohsiung refinery in Taiwan.
+    Terms of the contract were not disclosed, but Kellogg said
+the total cost of the plant will be 300 mln dlrs.
+    Kellogg said engineering of the plant, which will have a
+capacity of 400,000 tonnes a year, is already underway and
+construction will begin in 1988.
+    The plant will go into operation in 1990, Kellogg said.
+ Reuter
+&#3;</BODY></TEXT>

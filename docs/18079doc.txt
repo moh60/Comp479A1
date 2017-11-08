@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7524" NEWID="18079">
+<DATE> 2-JUN-1987 11:42:19.36</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1511&#31;reute
+r f BC-RAYCOMM-TRANSWORLD-&lt;R   06-02 0104</UNKNOWN>
+<TEXT>&#2;
+<TITLE>RAYCOMM TRANSWORLD &lt;RACM.O> TO MAKE ACQUISITION</TITLE>
+<DATELINE>    FREEHOLD, N.J., June 2 - </DATELINE><BODY>Raycomm Transworld Industries Inc
+said it has agreed in principle subject to board approvals to
+acquire Spiridellis Consulting Group Inc, a privately-held
+computer services consulting firm, for a number of common
+shares to be determined based on pretax earnings of Spiridellis
+over a five-year period.
+    The company said it will gaurantee that almost all of the
+issued shares will attain price levels ranging from five to
+nine dlrs each for two years after their issuance.
+    It said Spiridellis had revenues of 3,500,000 dlrs in
+calendar 1986.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10377" NEWID="5464">
+<DATE>16-MAR-1987 12:08:10.26</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2690&#31;reute
+u f BC-HECHINGER-CO-&lt;HECH>-4   03-16 0054</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HECHINGER CO &lt;HECH> 4TH QTR NET</TITLE>
+<DATELINE>    LANDOVER, Md., March 16 -
+    </DATELINE><BODY>Shr primary 28 cts vs 22 cts
+    Shr diluted 26 cts vs 21 cts
+    Net 8,637,000 vs 6,577,000
+    Sales 140.3 mln vs 116.8 mln
+    Year
+    Shr primary 92 cts vs 77 cts
+    Shr diluted 88 cts vs 75 cts
+    Net 28.3 mln vs 23.1 mln
+    Sales 588.4 mln vs 479 mln
+ Reuter
+&#3;</BODY></TEXT>

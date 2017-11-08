@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9496" NEWID="4583">
+<DATE>12-MAR-1987 17:37:42.94</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E
+&#22;&#22;&#1;f0718&#31;reute
+r f BC-counsel   03-12 0059</UNKNOWN>
+<TEXT>&#2;
+<TITLE>COUNSEL CORP SETS THREE-FOR-TWO STOCK SPLIT</TITLE>
+<DATELINE>    TORONTO, March 12 - </DATELINE><BODY>&lt;Counsel Corp> said it plans a
+three-for-two stock split, pending shareholder approval at the
+April 28 annual meeting.
+    The company said it recently reported 1986 profit of 5.9
+mln dlrs, or 1.51 dlrs a share, before extraordinary items,
+compared with 2.2 mln dlrs, or 81 cts, in 1985.
+ Reuter
+&#3;</BODY></TEXT>

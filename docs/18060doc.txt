@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7505" NEWID="18060">
+<DATE> 2-JUN-1987 11:25:35.88</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1423&#31;reute
+r f BC-MICRO-D-&lt;MCRD.O>-IN-A   06-02 0088</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MICRO D &lt;MCRD.O> IN AGREEMENT WITH ZENITH &lt;ZE></TITLE>
+<DATELINE>    GLENVIEW, ILL., June 2 - </DATELINE><BODY>Zenith Electronics Corp said its
+computer subsidiary signed an agreement under which Micro D Inc
+will market the new Zenith Data Systems monitor, which uses the
+flat tension mask color video display.
+    The monitor offers more than 50 pct greater brightness and
+contrast performance than conventional high-revolution computer
+monitors, Zenith said. It is compatible with the new IBM
+Personal System/2 computers and will be available later this
+summer.
+ Reuter
+&#3;</BODY></TEXT>

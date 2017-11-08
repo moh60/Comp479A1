@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14445" NEWID="8924">
+<DATE>24-MAR-1987 13:56:12.27</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2015&#31;reute
+r f BC-COCA-COLA-&lt;KO>-EXECUT   03-24 0057</UNKNOWN>
+<TEXT>&#2;
+<TITLE>COCA-COLA &lt;KO> EXECUTIVE RESIGNS</TITLE>
+<DATELINE>    ATLANTA, March 24 - </DATELINE><BODY>Coca-Cola Co said Eugene V. Amoroso has
+resigned as president and chief executive officer of its
+Coca-Cola Foods division to pursue other business interests.
+    The company said Harry E. Teasley Jr., who had headed its
+bottling subsidiary serving southern England, will succeed
+Amoroso.
+ Reuter
+&#3;</BODY></TEXT>

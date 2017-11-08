@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4234" NEWID="15251">
+<DATE> 8-APR-1987 15:16:17.11</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2279&#31;reute
+r f BC-KAUFMAN-AND-BROAD-&lt;KB   04-08 0049</UNKNOWN>
+<TEXT>&#2;
+<TITLE>KAUFMAN AND BROAD &lt;KB> FILE STOCK OFFER</TITLE>
+<DATELINE>    LOS ANGELES, April 8 - </DATELINE><BODY>Kaufman and Broad Inc said it
+registered with the Securities and Exchange Commission to offer
+up to two mln shares of common stock.
+    First Boston Corp and Merrill Lynch Capital Markets will be
+the underwriters for the offering.
+ Reuter
+&#3;</BODY></TEXT>

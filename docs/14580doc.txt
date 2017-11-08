@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="BYPASS" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="3563" NEWID="14580">
+<DATE> 7-APR-1987 16:11:06.34</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;GQ
+&#22;&#22;&#1;f2343&#31;reute
+r f BC-st-louis-barge-call   04-07 0031</UNKNOWN>
+<TEXT TYPE="UNPROC">&#2;
+RICHMOND CASH GRAIN
+ no2 red winter wheat 271-281 new crop 253-258
+ no2 yellow corn      158-183
+ no1 white corn       233
+ no1 soybeans         470-495
+ no2 barley           new crop 115
+ Reuter
+&#3;
+
+</TEXT>

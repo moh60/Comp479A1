@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12158" NEWID="7245">
+<DATE>19-MAR-1987 12:36:59.69</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1654&#31;reute
+d f BC-FEDERATED-FIN'L-SAVIN   03-19 0053</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FEDERATED FIN'L SAVINGS &lt;FEDF> INITIAL PAYOUT</TITLE>
+<DATELINE>    MILWAUKEE, WIS., March 19 - </DATELINE><BODY>Federated Financial Savings
+said it declared an initial quarterly dividend of 85 cts a
+share April 27, record April 13.
+    This is the first dividend paid by Federated since its
+conversion to a stock company from a mutual on Jan 28, 1987.
+ Reuter
+&#3;</BODY></TEXT>

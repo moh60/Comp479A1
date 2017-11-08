@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16874" NEWID="10813">
+<DATE>30-MAR-1987 08:56:14.67</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0882&#31;reute
+r f BC-MAGMA-POWER-&lt;MGMA>-NA   03-30 0093</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MAGMA POWER &lt;MGMA> NAMES NEW CHIEF EXECUTIVE</TITLE>
+<DATELINE>    SAN DIEGO, March 30 - </DATELINE><BODY>Magma Power Co said director Arnold
+L. Johnson has been named president and chief executive
+officer.
+    He succeeds Andrew W. Hoch, who moved to chairman in
+February following the resignation of B.C. McCabe Sr.
+    The company said Johnson has also been named president and
+chief executive officer of Magma Energy Inc &lt;MAGE>, which Magma
+Power controls, succeeding Hoch, who becomes Magma Energy
+chairman as well. McCabe, whom Hoch also succeeds there, has
+been named chairman emeritus.
+ Reuter
+&#3;</BODY></TEXT>

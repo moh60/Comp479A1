@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17272" NEWID="11211">
+<DATE>31-MAR-1987 05:07:51.05</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>japan</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0387&#31;reute
+u f BC-NIPPON-COLUMBIA-TO-MA   03-31 0092</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NIPPON COLUMBIA TO MAKE BONUS STOCK ISSUES</TITLE>
+<DATELINE>    TOKYO, March 31 - </DATELINE><BODY>Nippon Columbia Co Ltd &lt;NCOL.T> will make
+a one-for-20 bonus stock issue on July 14 to pay back remaining
+premiums accumulated by 4.5 mln shares issued at market price
+through public placement in September 1980, a spokesman said.
+    The bonus issue will bring its outstanding capital shares
+to 65.02 mln from 61.92 mln as at March 31 1987. It is open to
+shareholders registered on May 31.
+    Nippon Columbia's share price fell 20 to 1,260 yen on the
+Tokyo Stock Exchange today.
+ REUTER
+&#3;</BODY></TEXT>

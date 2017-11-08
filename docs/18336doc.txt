@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7781" NEWID="18336">
+<DATE> 2-JUN-1987 18:18:25.09</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2854&#31;reute
+d f BC-WICKES-&lt;WIX>-COMPLETE   06-02 0040</UNKNOWN>
+<TEXT>&#2;
+<TITLE>WICKES &lt;WIX> COMPLETES PURCHASE</TITLE>
+<DATELINE>    SANTA MONICA, Calif, June 2 - </DATELINE><BODY>Wickes Cos Inc said it has
+completed the purchase of Dura Corp for an undisclosed amount.
+    Dura, a supplier of automotive equipment, had annual sales
+of over 100 mln dlrs.
+ Reuter
+&#3;</BODY></TEXT>

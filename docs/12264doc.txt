@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="492" NEWID="12264">
+<DATE> 1-APR-1987 15:40:18.79</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>nyse</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2302&#31;reute
+u f BC-NYSE-SAYS-LORAL-&lt;LOR>   04-01 0075</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NYSE SAYS LORAL &lt;LOR> WILL NOT COMMENT ON STOCK</TITLE>
+<DATELINE>    NEW YORK, April 1 - </DATELINE><BODY>The New York Stock Exchange said  Loral
+Corp told the exchange its policy is not to comment on unusual
+market activity in its stock.
+    The exchange said it contacted the company and requested
+that Loral issue a public statement indicating whether any
+corporate developments would explain the unusual activity in
+its stock.
+    The stock was trading at 47-1/2, up 2-1/2 points.
+ Reuter
+&#3;</BODY></TEXT>

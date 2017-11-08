@@ -1,0 +1,30 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10958" NEWID="6045">
+<DATE>17-MAR-1987 11:44:54.11</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>nyse</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f5478&#31;reute
+u f BC-NYSE-REVIEWS-PROGRAM   03-17 0037</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NYSE REVIEWS PROGRAM TRADING</TITLE>
+<DATELINE>    NEW YORK, March 17 - </DATELINE><BODY>The &lt;New York Stock Exchange> said it
+is undertaking a review of the long-term effects on securities
+markets of computer-driven trading techniques known as program
+trading.
+    The NYSE said, "The study will review major new trading
+techniques involving programmed portfolio hedging and index
+arbitrage for their potential benefits and risks to the
+financial system.  It will also explore the regulatory
+implications of these trading techniques and whether their
+increased use could possibly lead to market abuse."
+    The exchange said a final report is expected before the end
+of 1987.  It said program trading is becoming increasingly
+important as a market factor.
+ Reuter
+&#3;</BODY></TEXT>

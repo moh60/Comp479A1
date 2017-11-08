@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20137" NEWID="21299">
+<DATE>19-OCT-1987 11:48:30.58</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1707&#31;reute
+a f BC-&lt;ADVANCED-VIRAL>-RESC   10-19 0051</UNKNOWN>
+<TEXT>&#2;
+<TITLE>&lt;ADVANCED VIRAL> RESCHEDULES MEETING</TITLE>
+<DATELINE>    MIAMI, Oct 19 - </DATELINE><BODY>Advanced Viral Research Corp said that its
+annual shareholders meeting has been rescheduled for November
+12 from September 14.
+    The company said the rescheduling was made to meet
+Securities and Exchange Commission regulations. It did not
+elaborate.
+ Reuter
+&#3;</BODY></TEXT>

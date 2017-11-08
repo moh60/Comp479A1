@@ -1,0 +1,30 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12864" NEWID="681">
+<DATE> 2-MAR-1987 14:18:24.53</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0686&#31;reute
+h f BC-FIRST-FINANCIAL-MANAG   03-02 0100</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FIRST FINANCIAL MANAGEMENT &lt;FFMC> REVISES PACT</TITLE>
+<DATELINE>    ATLANTA, March 2 - </DATELINE><BODY>First Financial Management Corp said it
+revised the agreement under which it provides data processing
+services to First Union Corp of Georgia &lt;FUNC>.
+    The company said the revised agreement establishes specific
+minimum payments to be made by First Union and shortens the
+duration of the original pact by 16 months, with the new
+agreement expiring on December 31, 1989.
+    Under terms of the amended contract, First Financial said
+it received 19.8 mln dlrs in cash and is guaranteed an
+additional 50.3 mln dlrs in service revenues.
+    The company said the agreement calls for minimum payments
+of 16.5 mln dlrs for the balance of 1987, 18 mln dlrs in 1988
+and 15.8 mln dlrs in 1989.
+ Reuter
+&#3;</BODY></TEXT>

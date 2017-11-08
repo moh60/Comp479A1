@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="NOT-USED" CGISPLIT="PUBLISHED-TESTSET" OLDID="21564" NEWID="12707">
+<DATE> 2-APR-1987 16:12:17.09</DATE>
+<TOPICS><D>jet</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F Y
+&#22;&#22;&#1;f2454&#31;reute
+r f BC-PHILLIPS-&lt;P>-EXTENDS   04-02 0064</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PHILLIPS &lt;P> EXTENDS AVIATION FUEL, LUBE MARKETS</TITLE>
+<DATELINE>    BARTLESVILLE, Okla., April 2 - </DATELINE><BODY>Phillips Petroleum Co said
+its Phillips 66 Co subsidiary is expanding its aviation fuel
+and lubricants marketing activities into Southern California.
+    The company said it bagan selling aviation products on the
+West Coast today at Combs Gates Palm Springs, which serves most
+of Southern California.
+ Reuter
+&#3;</BODY></TEXT>

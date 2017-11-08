@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19630" NEWID="3208">
+<DATE> 9-MAR-1987 12:27:29.87</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0886&#31;reute
+r f BC-JEFFERIES-&lt;JEFG>-MARK   03-09 0057</UNKNOWN>
+<TEXT>&#2;
+<TITLE>JEFFERIES &lt;JEFG> MARKETS DIAMOND SHAMROCK &lt;DIA></TITLE>
+<DATELINE>    LOS ANGELES, March 9 - </DATELINE><BODY>Jefferies and Co Inc said it intends
+to make a market in the stock of Diamond Shamrock Corp, when,
+as and if distributed.
+    Diamond Shamrock has offered to repurchase twenty miillion
+shares of its common stock at 17 dlrs per share until midnight,
+EST, March 9.
+   
+ Reuter
+&#3;</BODY></TEXT>

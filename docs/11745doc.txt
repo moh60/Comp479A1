@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17807" NEWID="11745">
+<DATE>31-MAR-1987 18:21:19.52</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F Y
+&#22;&#22;&#1;f2873&#31;reute
+r f BC-GULF-STATES-&lt;GSU>-SUB   03-31 0090</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GULF STATES &lt;GSU> SUBMITS FINANCING PLAN</TITLE>
+<DATELINE>    AUSTIN, Texas, March 31 - </DATELINE><BODY>Gulf States Utilities Co said it
+filed a 266 mln dlr financing plan with Texas regulators and
+asked for quick approval so that it can implement a previously
+approved 39.9 mln dlr interim rate increase.
+    In the filing with the Texas Public Utilities Commission,
+Gulf States said it listed six sources of funding that it
+believes meet the commission's requirement that it obtain 250
+mln dlrs in credit and other financing before it can institute
+the interim rate hike.
+ Reuter
+&#3;</BODY></TEXT>

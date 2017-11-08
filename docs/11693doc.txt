@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17755" NEWID="11693">
+<DATE>31-MAR-1987 16:33:58.07</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2649&#31;reute
+r f BC-CBS-&lt;CBS>-PURCHASES-N   03-31 0060</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CBS &lt;CBS> PURCHASES NEW GAME SHOW</TITLE>
+<DATELINE>    NEW YORK, March 31 -</DATELINE><BODY>&lt;Ralph Andrews Productions> and &lt;CCR 
+Productions> said their new game show, "Lingo", was purchased
+for the fall season by CBS Inc for broadcast on its O and O
+network.
+    The show will be hosted by Michael Reagan, son of President
+Reagan by his marriage to Jane Wyman, the production companies
+said.
+ Reuter
+&#3;</BODY></TEXT>

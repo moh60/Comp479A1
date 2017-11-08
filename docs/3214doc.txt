@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19636" NEWID="3214">
+<DATE> 9-MAR-1987 12:31:13.77</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0904&#31;reute
+r f BC-THE-FEDERATED-GROUP-&lt;   03-09 0069</UNKNOWN>
+<TEXT>&#2;
+<TITLE>THE FEDERATED GROUP &lt;FEGP> 4-WEEK SALES DOWN</TITLE>
+<DATELINE>    CITY OF COMMERCE, Calif., March 9 - </DATELINE><BODY>The Federated Group Inc
+said its four-week March 1 sales totaled 25.7 mln dlrs, down
+eight pct from the same period a year ago.
+    The company said sales in the 13 weeks ended March 1 rose
+11 pct to 136.6 mln dlrs.
+    In the 52-weeks ended March 1 sales totaled 430.2 mln dlrs,
+up 18 pct from a year earlier, the company said.
+ Reuter
+&#3;</BODY></TEXT>

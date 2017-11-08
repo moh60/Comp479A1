@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="707" NEWID="16172">
+<DATE>13-APR-1987 07:02:16.07</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0471&#31;reute
+f f BC-Glaxo-pre-tax-profit   04-13 0013</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE> Glaxo pre-tax profit 376 mln stg vs 260 mln in six months to end-December
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

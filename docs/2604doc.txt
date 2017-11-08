@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19021" NEWID="2604">
+<DATE> 6-MAR-1987 10:27:16.69</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0270&#31;reute
+r f BC-STONE-CONTAINER-&lt;STO>   03-06 0055</UNKNOWN>
+<TEXT>&#2;
+<TITLE>STONE CONTAINER &lt;STO> COMPLETES WAITING PERIOD</TITLE>
+<DATELINE>    CHICAGO, March 6 - </DATELINE><BODY>Stone Container Corp said it and
+Southwest Forest Industries Inc &lt;SWF> completed all waiting
+period requirements under the Hart-Scott-Rodino Anti-Trust
+Improvements Act of 1976.
+    Stone said it will proceed with its previously proposed
+acquisition of Southwest.
+ Reuter
+&#3;</BODY></TEXT>

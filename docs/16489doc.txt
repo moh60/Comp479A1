@@ -1,0 +1,33 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1024" NEWID="16489">
+<DATE>13-APR-1987 12:56:12.51</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1860&#31;reute
+r f BC-CHAMBERS-DEVELOPMENT   04-13 0094</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CHAMBERS DEVELOPMENT &lt;CDV> SIGNS PACT</TITLE>
+<DATELINE>    PITTSBURGH, April 13 - </DATELINE><BODY>Chambers Development Co Inc said it
+signed an easment and license agreement with the Passaic County
+Utilities Authority for the disposal of nonhazardous solid
+waste from Passaic County, N.J.
+    Chambers said it expects the agreement to generate 12 mln
+dlrs a year throughout its term.
+    The company said according to the agreement it will accept
+municipal waste generated in Passaic County for disposal until
+the county's planned waste-to-energy facility is operational
+within the next five years.
+    Chambers said it and the Passaic Authority also entered
+into agreements with &lt;Penpac Inc> who will transport the waste
+to Chambers' landfills.
+    The company said all agreements are sunbject to approval of
+the New Jersey Board of Public Utilities and the New Jersey
+Department of Environmental Protection.
+ Reuter
+&#3;</BODY></TEXT>

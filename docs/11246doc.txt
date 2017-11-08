@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17308" NEWID="11246">
+<DATE>31-MAR-1987 07:36:34.66</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>uk</D><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A
+&#22;&#22;&#1;f0683&#31;reute
+r f BC-GMAC-TO-LAUNCH-EURO-N   03-31 0100</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GMAC TO LAUNCH EURO NOTE PROGRAM APRIL 7</TITLE>
+<DATELINE>    LONDON, March 31 - </DATELINE><BODY>General Motors Acceptance Corp (GMAC),
+the financing arm of General Motors Corp of the U.S., Will
+launch its planned one billion U.S. Dlr medium term note
+program in the international capital markets on April 7, said
+Wendy Dietz, a vice-president at Salomon Brothers Inc, New
+York.
+    She told a conference here on medium term notes that GMAC
+is looking to obtain as fine pricing on the paper as it does
+with its program in the U.S.
+    The notes will be sold on a continuously offered basis, the
+most popular structure so far in the U.S.
+ REUTER
+&#3;</BODY></TEXT>

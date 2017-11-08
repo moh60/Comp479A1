@@ -1,0 +1,30 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17122" NEWID="11061">
+<DATE>30-MAR-1987 16:06:53.63</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G
+&#22;&#22;&#1;f2481&#31;reute
+d f BC-FOREIGN-OWNERSHIP-OF   03-30 0127</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FOREIGN OWNERSHIP OF U.S. FARMLAND UP -- USDA</TITLE>
+<DATELINE>    WASHINGTON, March 30 - </DATELINE><BODY>Non-U.S. citizens held 12.4 mln
+acres of privately owned U.S. agricultural land as of December
+31, slightly less than one pct of the total agricultural land,
+but 369,000 acres above the foreign ownership at the end of
+1985, the U.S. Agriculture Department said.
+    The department said forest land accounted for 52 pct of all
+foreign-owned acreage, cropland 17 pct, pastures and other
+agricultural land 26 pct and non-agricultural and unreported
+uses, five pct.
+    Corporations owned 79 pct of the foreign-held acreage,
+parternships 11 pct, and individuals eight pct, the department
+said. The remaining two pct was held by estates, trusts,
+associations, institutions and others, it said.
+ Reuter
+&#3;</BODY></TEXT>

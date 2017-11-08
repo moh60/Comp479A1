@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13320" NEWID="7799">
+<DATE>20-MAR-1987 12:16:22.77</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A RM
+&#22;&#22;&#1;f1573&#31;reute
+r f BC-THERMO-ELECTRON-&lt;TMO>   03-20 0111</UNKNOWN>
+<TEXT>&#2;
+<TITLE>THERMO ELECTRON &lt;TMO> TO SELL CONVERTIBLE DEBT</TITLE>
+<DATELINE>    NEW YORK, March 20 - </DATELINE><BODY>Thermo Electron Corp said it filed
+with the Securities and Exchange Commission a registration
+statement covering a 75 mln dlr issue of convertible
+subordinated debentures due 2012.
+    Proceeds will be used principally for acquisitions of
+companies that complement or expand Thermo's existing line of
+business and for general corporate purposes, it said.
+    The company said the offering will be sold through Shearson
+Lehman Brothers Inc, Drexel Burnham Lambert Inc and Tucker,
+Anthony and R.L. Day Inc. They have an over-allotment option to
+purchase an additional 11.25 mln dlrs of the debt.
+ Reuter
+&#3;</BODY></TEXT>

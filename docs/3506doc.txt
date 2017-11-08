@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="8419" NEWID="3506">
+<DATE>11-MAR-1987 06:28:14.35</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>netherlands</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0524&#31;reute
+r f BC-DUTCH-CAR-IMPORTS-RIS   03-11 0097</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DUTCH CAR IMPORTS RISE 27.5 PCT IN 1986</TITLE>
+<DATELINE>    AMSTERDAM, March 11 - </DATELINE><BODY>Dutch car imports rose 27.5 pct in
+1986 to 610,500 units in 1986, reflecting a 41.8 pct growth in
+Japanese imports, the association for the Dutch vehicle
+industry reported.
+    Dutch imports of Japanese cars rose 41.8 pct last year to
+143,880 units, compared with a 37.4 pct rise in imports from
+other EC countries to 437,500 units, the association said,
+quoting unpublished Central Bureau of Statistics figures.
+    The figure excludes Dutch imports of vehicles for final
+destination outside the Netherlands.
+ REUTER
+&#3;</BODY></TEXT>

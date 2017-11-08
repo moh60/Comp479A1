@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19635" NEWID="3213">
+<DATE> 9-MAR-1987 12:30:44.73</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0902&#31;reute
+s f BC-BCI-HOLDINGS-UNIT-PRE   03-09 0068</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BCI HOLDINGS UNIT PRESIDENT NAMED</TITLE>
+<DATELINE>    OAK BROOK, ILL., March 9 - </DATELINE><BODY>BCI Holdings Corp said it named
+Stephen Rowley president of Day-Timers Inc, a subsidiary of the
+company's Beatrice Consumer Durables, effective immediately.
+    It said he replaces Robert Dorney, founder and former
+president, who will remain as senior vice president, new
+product development of the company, which produces time
+management systems.
+ Reuter
+&#3;</BODY></TEXT>

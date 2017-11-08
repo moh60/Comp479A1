@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1034" NEWID="16499">
+<DATE>13-APR-1987 13:05:47.28</DATE>
+<TOPICS><D>nat-gas</D></TOPICS>
+<PLACES><D>canada</D><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F Y
+&#22;&#22;&#1;f1911&#31;reute
+d f BC-CANADA-APPROVES-U.S.   04-13 0067</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CANADA APPROVES U.S. GAS EXPORTS BY PROGAS</TITLE>
+<DATELINE>    OTTAWA, April 13 - </DATELINE><BODY>ProGas Ltd was issued an export licence
+to sell 10.3 billion cubic meters of natural gas to Ocean State
+Power Co of Burrillville, Rhode Island, the federal energy
+department said.
+    The sale, covering a 20 year period beginning May 1, 1989,
+was previously recommended by the National Energy Board.
+    Contract terms were not released.
+ Reuter
+&#3;</BODY></TEXT>

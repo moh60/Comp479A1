@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7072" NEWID="19236">
+<DATE>19-JUN-1987 11:46:31.71</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1342&#31;reute
+r f BC-THE-HYDRAULIC-CO-&lt;THC   06-19 0056</UNKNOWN>
+<TEXT>&#2;
+<TITLE>THE HYDRAULIC CO &lt;THC> FILES FOR OFFERING</TITLE>
+<DATELINE>    BRIDGEPORT, Conn., June 19 - </DATELINE><BODY>The Hydraulic Co said it filed
+for a proposed public offering of 500,000 shares of common
+stock through an underwriting group co-managed by Salomon
+Brothers Inc and Edward D. Jones and Co.
+    The company said proceeds will be used to repay certain
+short-term debt.
+ Reuter
+&#3;</BODY></TEXT>

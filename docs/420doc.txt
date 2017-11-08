@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12603" NEWID="420">
+<DATE> 2-MAR-1987 09:43:47.96</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0531&#31;reute
+u f BC-WHITTAKER-CORP-&lt;WKR>   03-02 0083</UNKNOWN>
+<TEXT>&#2;
+<TITLE>WHITTAKER CORP &lt;WKR> 1ST QTR JAN 31 NET</TITLE>
+<DATELINE>    LOS ANGELES, March 2 -
+    </DATELINE><BODY>Oper shr 17 cts vs 25 cts
+    Qtly div 15 cts vs 15 cts prior
+    Oper net 1,522,000 vs 3,501,000
+    Sales 98.0 mln vs 86.3 mln
+    NOTE: Prior year net excludes loss from discontinued
+operations of 1,817,000 dlrs.
+    Company said common shares outstanding down significantly
+to 7,814,000, reflecting retirement of about 5,200,000 shares
+since start of restructurining in August 1986.
+    Dividend pay April 30, record April 16.
+ Reuter
+&#3;</BODY></TEXT>

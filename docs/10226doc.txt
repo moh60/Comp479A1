@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15747" NEWID="10226">
+<DATE>26-MAR-1987 17:46:49.87</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2790&#31;reute
+d f BC-PRESIDENTIAL-AIR-&lt;PAI   03-26 0083</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PRESIDENTIAL AIR &lt;PAIR> FEBRUARY LOAD FACTOR UP</TITLE>
+<DATELINE>    WASHINGTON, March 26 - </DATELINE><BODY>Presidential Airways Inc said its
+load factor, or percentage of seats filled, totaled 66.8 pct in
+February, up from 53.4 pct for the same month last year.
+    The airline said its traffic for the month rose to 49.1 mln
+revenue passenger miles, from 33.9 mln last year. A revenue
+passenger mile is one paying passenger flown one mile.
+    The carrier said its capacity increased to 73.5 mln
+available seat miles from 63.5 mln.
+ Reuter
+&#3;</BODY></TEXT>

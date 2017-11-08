@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18810" NEWID="2393">
+<DATE> 5-MAR-1987 15:27:36.40</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0589&#31;reute
+r f BC-BEI-HOLDINGS-LTD-&lt;BEI   03-05 0049</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BEI HOLDINGS LTD &lt;BEIH> 1ST QTR JAN 31 NET</TITLE>
+<DATELINE>    ATLANTA, March 5 -
+    </DATELINE><BODY>Shr 13 cts vs eight cts
+    Net 1,364,712 vs 881,082
+    Rev 11.6 mln vs 11.5 mln
+    NOTE: Qtr includes extraordinary gain of 586,826 dlrs, or
+six cts a share, versus 183,850 dlrs or two cts a share in
+fiscal 1986's first qtr.
+ Reuter
+&#3;</BODY></TEXT>

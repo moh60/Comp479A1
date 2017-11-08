@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6579" NEWID="18827">
+<DATE>18-JUN-1987 12:56:29.73</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f3932&#31;reute
+d f BC-MCDONNELL-DOUGLAS-&lt;MD   06-18 0075</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MCDONNELL DOUGLAS &lt;MD> GETS AIR FORCE CONTRACT</TITLE>
+<DATELINE>    NEW YORK, June 18 - </DATELINE><BODY>McDonnell Douglas Corp said it received
+authorization to build larger solid rocket boosters than the
+U.S. Air Force originally planned.
+    McDonnell Douglas, which said it subcontracts the orders,
+also said the new solid rocket boosters will be 42 feet long,
+increased from the original 36-foot long type. The company said
+the additional size will cost the Air Force 10.3 mln dlrs.
+ Reuter
+&#3;</BODY></TEXT>

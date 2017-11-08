@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="NOT-USED" CGISPLIT="PUBLISHED-TESTSET" OLDID="21791" NEWID="17168">
+<DATE>24-APR-1987 15:56:02.48</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2370&#31;reute
+r f BC-MOLECULAR-GENETICS-&lt;M   04-24 0087</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MOLECULAR GENETICS &lt;MOGN.O> IN MERGER TALKS</TITLE>
+<DATELINE>    MINNETONKA, Minn., April 24 - </DATELINE><BODY>Molecular Genetics Inc said
+it has held preliminary discussions with a privately-held
+company convening a possible acquisition.
+    "No agreement in principle has been reached, and serious
+negotiations on material terms have not begun," said Robert
+Auritt, acting co-chief executive officer and co-president.
+    Molecular said it would have no further comment on the
+matter until an agreement in principle is reached or
+discussions are terminated.
+ Reuter
+&#3;</BODY></TEXT>

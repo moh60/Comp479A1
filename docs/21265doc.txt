@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20171" NEWID="21265">
+<DATE>19-OCT-1987 12:09:52.75</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1834&#31;reute
+h f BC-UNIVERSAL-FURNITURE-L   10-19 0043</UNKNOWN>
+<TEXT>&#2;
+<TITLE>UNIVERSAL FURNITURE LTD &lt;UFURF.O> 3RD QTR NET</TITLE>
+<DATELINE>    HIGH POINT, N.C., Oct 19 -
+    </DATELINE><BODY>Shr 34 cts vs 26 cts
+    Net 6,150,000 vs 4,743,000
+    Revs 61.4 mln vs 49.5 mln
+    Nine months
+    Shr 89 cts vs 70 cts
+    Net 16 mln vs 11.8 mln
+    Revs 170 mln vs 137.5 mln
+    NOTE: All share and per share data have been adjusted to
+reflect 100 pct stock dividend distrition on April 24, 1987 and
+the public offier of two mln shares ofthe company on June 4,
+1986.
+ Reuter
+&#3;</BODY></TEXT>

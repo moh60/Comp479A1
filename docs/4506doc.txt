@@ -1,0 +1,33 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9419" NEWID="4506">
+<DATE>12-MAR-1987 16:08:30.16</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D><D>france</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0432&#31;reute
+u f BC-PRESIDENT-NAMED-FOR-D   03-12 0113</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PRESIDENT NAMED FOR DISNEY &lt;DIS> EUROPEAN PARK</TITLE>
+<DATELINE>    BURBANK, Calif., March 12 - </DATELINE><BODY>Walt Disney Co &lt;DIS> said it
+named Robert J. Fitzpatrick, president of Euro Disneyland.
+    Disney said the appointment becomes effective when it and
+the French government sign the definitive agreement for the new
+outdoor entertainment complex near Paris. It said the park will
+be built on nearly 5,000 acres in Marne-la-Vallee, 20 miles
+east of Paris. It said it will include the Magic Kingdom theme
+park, outdoor recreation, shops and hotels.
+    It said it will seek qualified investors in France and
+elsewhere to form the Europ Disneyland owner company, in which
+it will also be an equity partner.
+    Disney also said it will receive management fees for
+operating the park in addition to license and royalty income.
+    It said Fitzpatrick is president of California Institute of
+the Arts and director of the Los Angeles Festival.
+
+ Reuter
+&#3;</BODY></TEXT>

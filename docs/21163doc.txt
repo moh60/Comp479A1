@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20274" NEWID="21163">
+<DATE>19-OCT-1987 13:45:16.81</DATE>
+<TOPICS><D>money-fx</D></TOPICS>
+<PLACES></PLACES>
+<PEOPLE><D>balladur</D></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM 
+&#22;&#22;&#1;f2344&#31;reute
+f f BC-Balladur-urges-G-7-to   10-19 0013</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE> Balladur urges G-7 to respect pledges on monetary policy in Louvre accord
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4388" NEWID="14907">
+<DATE> 8-APR-1987 07:10:48.46</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>australia</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0524&#31;reute
+u f BC-BELL-GROUP-CONFIRMS-S   04-08 0105</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BELL GROUP CONFIRMS STANDARD CHARTERED STAKE</TITLE>
+<DATELINE>    PERTH, April 8 - </DATELINE><BODY>The Bell Group Ltd &lt;BLLA.S> said it now
+holds 14.9 pct of the issued capital of Standard Chartered Plc
+&lt;STCH.L> after acquiring further shares.
+    The one-sentence statement from Bell's headquarters
+confirmed what its brokers Warburg Securities told Reuters in
+London yesterday.
+    Bell previously held 10 pct of Standard.
+    Bell chairman Robert Holmes a Court, who is also a director
+of Standard, was not available for comment on his company's
+intentions in boosting its holding and other company officials
+contacted here by Reuters declined to comment.
+ REUTER
+&#3;</BODY></TEXT>

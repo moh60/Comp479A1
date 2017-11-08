@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5529" NEWID="15631">
+<DATE> 9-APR-1987 11:14:45.93</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1292&#31;reute
+d f BC-MORGAN,-OLMSTEAD,-KEN   04-09 0083</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MORGAN, OLMSTEAD, KENNEDY &lt;MOKG> NAMES PRES</TITLE>
+<DATELINE>    LOS ANGELES, April 9 - </DATELINE><BODY>Morgan, Olmstead, Kennedy and
+Gardner Capital Corp said Michael Fusco has been named
+president of its securities brokerage and investment banking
+firm, Morgan, Olmstead, Kennedy and Gardner Inc.
+    Fusco formerly was executive vice president of PaineWebber
+Inc.
+    He replaces G. Bryan Herrmann, who will retain his title of
+president of the parent group, and assume the title of vice
+chairman of the parent, the company said.
+ Reuter
+&#3;</BODY></TEXT>

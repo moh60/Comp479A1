@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11221" NEWID="6308">
+<DATE>17-MAR-1987 17:02:47.88</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f6631&#31;reute
+r f BC-PUERTO-RICAN-COMPANY   03-17 0054</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PUERTO RICAN COMPANY GETS JET FUEL CONTRACT</TITLE>
+<DATELINE>    WASHINGTON, March 17 - </DATELINE><BODY>The Puerto Rico Sun Oil Co is being
+awarded a 42.4 mln dlr contract for jet fuel, the Defense
+Department said.
+    It said work on the contract, which was awarded as part of
+a multi-contract procurement program, is expected to be
+completed by April 1988.
+ Reuter
+&#3;</BODY></TEXT>

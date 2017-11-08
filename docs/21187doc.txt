@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20249" NEWID="21187">
+<DATE>19-OCT-1987 13:21:11.21</DATE>
+<TOPICS><D>trade</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE><D>james-baker</D></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F RM 
+&#22;&#22;&#1;f2237&#31;reute
+r f BC-U.S.-HOUSE-SPEAKER-DE   10-19 0080</UNKNOWN>
+<TEXT>&#2;
+<TITLE>U.S. HOUSE SPEAKER DENIES TRADE BILL HURT STOCKS</TITLE>
+<DATELINE>    WASHINGTON, Oct 19 - </DATELINE><BODY>House Speaker Jim Wright dismissed
+charges that the trade bill before Congress contributed to the
+fall in stock prices on Wall Street.
+    "That is utterly ridiculous," the Texas Democrat told
+reporters.
+    Treasury Secretary James Baker and other administration
+officials over the weekend pointed to the pending legislation
+-- which they brand too protectionist -- as a key factor in the
+record-setting drop.
+ Reuter
+&#3;</BODY></TEXT>

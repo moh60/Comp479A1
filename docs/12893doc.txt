@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="1862" NEWID="12893">
+<DATE> 3-APR-1987 10:33:18.03</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1128&#31;reute
+u f BC-FEDERAL-CO-&lt;FFF>-3RD   04-03 0054</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FEDERAL CO &lt;FFF> 3RD QTR FEB 28 NET</TITLE>
+<DATELINE>    MEMPHIS, April 3 -
+    </DATELINE><BODY>Shr 1.00 dlr vs 34 cts
+    Net 16.9 mln vs 5,696,000
+    Revs 371.3 mln vs 303.2 mln
+    Avg shrs 16.9 mln vs 16.3 mln
+    Nine mths
+    Shr 3.55 dlrs vs 1.66 dlrs
+    Net 59.3 mln vs 27.1 mln
+    Revs 1.02 billion vs 912.8 mln
+    Avg shrs 16.7 mln vs 16.3 mln
+ Reuter
+&#3;</BODY></TEXT>

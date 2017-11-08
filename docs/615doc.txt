@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12798" NEWID="615">
+<DATE> 2-MAR-1987 13:22:31.66</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F
+&#22;&#22;&#1;f0491&#31;reute
+r f BC-(CORRECTED)---&lt;TRANSA   03-02 0058</UNKNOWN>
+<TEXT>&#2;
+<TITLE>(CORRECTED) - &lt;TRANSALTA UTILITIES CORP> YEAR NET</TITLE>
+<DATELINE>    CALGARY, Alberta, March 2 -
+    </DATELINE><BODY>Shr 81 cts vs 2.78 dlrs
+    Net 53.5 mln vs 180.9 mln
+    Revs 915.5 mln vs 836.0 mln
+    Note: 1986 net includes 125 mln dlr or 1.90 dlr shr
+writedown of investment in &lt;Canada Northwest Energy Ltd> vs
+yr-ago extraordinary loss of 17 cts shr (net fig not given).
+ Reuter
+&#3;</BODY></TEXT>

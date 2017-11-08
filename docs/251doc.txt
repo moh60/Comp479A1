@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="8336" NEWID="251">
+<DATE> 1-MAR-1987 20:57:29.58</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>hong-kong</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0465&#31;reute
+b f BC-SHARE-TRADING-IN-CHEU   03-01 0102</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SHARE TRADING IN CHEUNG KONG GROUP SUSPENDED</TITLE>
+<DATELINE>    HONG KONG, March 2 - </DATELINE><BODY>Trading in the shares of three of the
+Cheung Kong group of companies will be suspended for two days
+at the request of the companies, the Stock Exchange of Hong
+Kong said.
+    The three are Cheung Kong (Holdings) Ltd &lt;CKGH.HK>,
+Hongkong Electric Holdings Ltd &lt;HKEH.HK> and Hutchison Whampoa
+Ltd &lt;HWHH.HK>.
+    They will announce their 1986 results later today, with
+market speculation of a major reorganisation within the group.
+Cheung Kong rose 75 cents to 45.25 dlrs on Friday, Hk Electric
+60 to 16.00 and Hutchison 1.50 dlrs to 54.50.
+ REUTER
+&#3;</BODY></TEXT>

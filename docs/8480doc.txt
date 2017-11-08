@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14001" NEWID="8480">
+<DATE>23-MAR-1987 15:31:14.73</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2235&#31;reute
+u f BC-AUDITORS-LIFT-QUALIFI   03-23 0089</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AUDITORS LIFT QUALIFICATION ON BRUNSWICK &lt;BC></TITLE>
+<DATELINE>    CHICAGO, March 23 - </DATELINE><BODY>Auditors of Brunswick Corp lifted a
+four year qualification on the company's financial statements,
+vice president-finance Frederick Florjancic told securities
+analysts here.
+    The financial results for the diversified leisure and
+defense/aerospace company had been qualifed by Arthur Andersen
+and Co since 1982.
+    The qualification related to certain tax liabilities,
+amounting to 65 mln dlrs, associated with a medical division
+sold by Brunswick in 1982, he said.
+ Reuter
+&#3;</BODY></TEXT>

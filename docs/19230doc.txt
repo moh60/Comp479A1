@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7066" NEWID="19230">
+<DATE>19-JUN-1987 11:40:07.55</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1306&#31;reute
+r f BC-CANON-&lt;CANNY.O>-OPENS   06-19 0067</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CANON &lt;CANNY.O> OPENS VIRGINIA FACILITY</TITLE>
+<DATELINE>    NEWPORT NEWS, Va., June 19 - </DATELINE><BODY>Canon Inc of Japan said Canon
+of Virginia Inc has opened a 26 mln dlr 289,000 square foot
+plant in Newport News, Va.
+    The company said the plant will initially make 700 to 1,000
+Canon dual-color copiers a month, and other business equipment
+lines including laser beam printers and electronic typewriters
+may be phased in later.
+ Reuter
+&#3;</BODY></TEXT>

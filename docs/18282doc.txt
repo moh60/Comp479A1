@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7727" NEWID="18282">
+<DATE> 2-JUN-1987 16:22:03.49</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2586&#31;reute
+h f BC-U.S.-SUGAR-&lt;USUG.O>-P   06-02 0059</UNKNOWN>
+<TEXT>&#2;
+<TITLE>U.S. SUGAR &lt;USUG.O> PRESIDENT TO RETIRE</TITLE>
+<DATELINE>    CLEWISTON, Fla., June 2 - </DATELINE><BODY>John Boy, president and chief
+executive officer of the U.S. Sugar Corp, said he will retire
+effective June 30, 1987.
+    He will be replaced by J. Nelson Fairbanks, currently
+senior vice president, the company said.
+    Boy will be the vice chairman of the board effective July
+One, 1987.
+ Reuter
+&#3;</BODY></TEXT>

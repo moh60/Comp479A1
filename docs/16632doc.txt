@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1167" NEWID="16632">
+<DATE>13-APR-1987 15:40:53.49</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2419&#31;reute
+d f BC-BIONUTRONICS-&lt;BNUI.O>   04-13 0042</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BIONUTRONICS &lt;BNUI.O> MAY CEASE OPERATIONS</TITLE>
+<DATELINE>    NEW YORK, April 13 - </DATELINE><BODY>Bio-Nutronics Inc said that if it is
+unable in the "very near future" to substantially increase its
+revenues or otherwise raise additional funds, it may be
+required to cease operations.
+ Reuter
+&#3;</BODY></TEXT>

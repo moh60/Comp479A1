@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17658" NEWID="11597">
+<DATE>31-MAR-1987 14:53:05.34</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2280&#31;reute
+d f BC-GOULD-&lt;GLD>-DIVISION   03-31 0098</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GOULD &lt;GLD> DIVISION GETS FINANCING</TITLE>
+<DATELINE>    PHILADELPHIA, March 31 - </DATELINE><BODY>Gould Inc's systems protection
+division said it selected Merrill Lynch Interfunding INc to
+provide financing for the purchase of the division from the
+parent company.
+    Terms were not disclosed. The agreement was announced in
+February and Gould expects the transaction to be completed by
+the end of April.
+    The agreement assures the retention of more than 600 jobs
+at a northeast Philadelphia plant which had been in jeapardy
+when Gould had accepted a tentative offer from Westinghouse INc
+which was later terminated.
+ Reuter
+&#3;</BODY></TEXT>

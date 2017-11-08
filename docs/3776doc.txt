@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="8689" NEWID="3776">
+<DATE>11-MAR-1987 12:42:15.39</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0911&#31;reute
+r f BC-VIRAGEN-&lt;VRGN>-STARTS   03-11 0060</UNKNOWN>
+<TEXT>&#2;
+<TITLE>VIRAGEN &lt;VRGN> STARTS HUMAN TRIALS</TITLE>
+<DATELINE>    HIALEAH, Fla, March 11 - </DATELINE><BODY>Viragen Inc said it is sponsoring
+clinical studies of Human Leukocyte Interferon, Alpha, in the
+treatment of renal cell carcinoma and bladder cell carcinoma.
+    The Food and Drug Administration approved human trials 
+will be conducted on at least 30 patients, male and female for
+each cancer type.
+ Reuter
+&#3;</BODY></TEXT>

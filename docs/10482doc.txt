@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16002" NEWID="10482">
+<DATE>27-MAR-1987 11:25:54.51&#5;&#5;&#5;F</DATE>
+<UNKNOWN>&#22;&#22;&#1;f1274&#31;reute</UNKNOWN>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+d f BC-SYNERGETICS-&lt;SYNG>-EX   03-27 0081</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SYNERGETICS &lt;SYNG> EXTENDS WARRANT EXPIRATION</TITLE>
+<DATELINE>    BOULDER, Colo., March 27 - </DATELINE><BODY>Synergetics International Inc
+said it extended the expiration date of its warrants to June 15
+and temporarily reduced the warrant conversion price to 2.25
+dlrs, from 2.50 dlrs.
+    The company said it made the extension to permit a
+re-registration of the common stock underlying the warrants.
+    Synergetics said the reduced conversion price will remain
+effective until May 29, when it will return to 2.50 dlrs.
+ Reuter
+&#3;</BODY></TEXT>

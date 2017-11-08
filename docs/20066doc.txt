@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20661" NEWID="20066">
+<DATE>20-OCT-1987 06:39:03.42</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>ase</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f0509&#31;reute
+f f BC-Amsterdam-all-share-i   10-20 0011</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE>Amsterdam all-share index down 13.3 pct at 1015 GMT - bourse
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

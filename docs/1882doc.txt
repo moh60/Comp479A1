@@ -1,0 +1,31 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18300" NEWID="1882">
+<DATE> 4-MAR-1987 18:48:10.60</DATE>
+<TOPICS><D>grain</D><D>cotton</D><D>rice</D><D>oilseed</D><D>soybean</D></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G
+&#22;&#22;&#1;f0078&#31;reute
+u f BC-USDA-WOULD-SCRAP-COTT   03-04 0140</UNKNOWN>
+<TEXT>&#2;
+<TITLE>USDA WOULD SCRAP COTTON, RICE, BEAN PRICE FLOORS</TITLE>
+<DATELINE>    WASHINGTON, March 4 - </DATELINE><BODY>The package of proposed farm policy
+changes that the Reagan administration sent to Congress today
+includes a provision that would eliminate minimum price support
+levels for upland cotton, rice and soybeans.
+    The package, obtained by Reuters, also includes a
+provision, outlined in advance by USDA officials, that would
+increase the annual permissible cut in the basic price support
+levels for all major crops to 10 pct from five pct.
+    Under current law, the basic support prices for upland
+cotton, rice and soybeans between 1987 and 1990 cannot be cut
+below 50 cents per lb, 6.50 dlrs per hundredweight and 4.50
+dlrs per bushel, respectively.
+    USDA's intention to propose scrapping price floors for
+cotton, rice and soybeans had not been disclosed previously.
+ Reuter
+&#3;</BODY></TEXT>

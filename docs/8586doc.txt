@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14107" NEWID="8586">
+<DATE>23-MAR-1987 19:36:49.15</DATE>
+<TOPICS><D>money-fx</D></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f2700&#31;reute
+f f BC-TOKYO---Bank-of-Japan   03-23 0011</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE>TOKYO - Bank of Japan buys small amount of dollars, dealers said
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

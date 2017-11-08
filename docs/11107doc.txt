@@ -1,0 +1,33 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17168" NEWID="11107">
+<DATE>30-MAR-1987 17:08:02.18</DATE>
+<TOPICS><D>iron-steel</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2639&#31;reute
+r f BC-STEEL-TECHNOLOGIES-&lt;S   03-30 0108</UNKNOWN>
+<TEXT>&#2;
+<TITLE>STEEL TECHNOLOGIES &lt;STTX> IN JOINT VENTURE</TITLE>
+<DATELINE>    LOUISVILLE, Ky., March 30 - </DATELINE><BODY>Steel Technologies Inc said it
+signed an agreement with Mitsui and Co Ltd &lt;MITSY> and its
+subsidiaries to establish a joint venture corporation to be
+called Mi-Tech Steel Inc.
+    Mitsui, through its subsidiaries, Mitsui and Co USA Inc and
+Mitsui Steel Development Co Inc, and Steel Technologies each
+will own 50 pct of the new company, the company said.
+    Mi-tech Steel will construct, own and operate steel service
+centers. The facilities will be established to serve Japanese
+and domestic automobile and appliance parts manufactures in the
+U.S., the company said.
+    The initial processing center will be located near
+Murfreesboro, Tenn., and is expected to begin operations in the
+fall of 1987, Steel Technologies said.
+    Daryl Elser, president of Steel Technologies, will be
+president of the new company, it said.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4836" NEWID="15659">
+<DATE> 9-APR-1987 11:46:59.75</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1426&#31;reute
+r f BC-CONSECO-&lt;CNC>-FILES-T   04-09 0075</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CONSECO &lt;CNC> FILES TO OFFER SHARES</TITLE>
+<DATELINE>    CARMEL, Ind., April 9 - </DATELINE><BODY>Conseco Inc said it has filed to
+offer two mln common shares through underwriters led by Sears,
+Roebuck and Co Inc's &lt;S> Dean Witter Reynolds unit.
+    It said the offering is expected to be made in early May,
+with proceeds to be used to partly finance the proposed 275 mln
+dlr acquisition of Western National Life Insurance Co or to
+repay bank debt if the acquisition is not completed.
+ Reuter
+&#3;</BODY></TEXT>

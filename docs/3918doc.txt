@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="8831" NEWID="3918">
+<DATE>11-MAR-1987 15:41:29.74</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0476&#31;reute
+r f BC-KANSAS-CITY-SOUTHERN   03-11 0107</UNKNOWN>
+<TEXT>&#2;
+<TITLE>KANSAS CITY SOUTHERN &lt;KSU> MERGER RESPONSE</TITLE>
+<DATELINE>    KANSAS CITY, MO., March 11 - </DATELINE><BODY>Kansas City Southern
+Industries Inc said an attempt by Santa Fe Southern Pacific Co
+&lt;SFX> to reopen the proposed merger of the Atchison, Topeka and
+Santa Fe Railway Co and the Southern Pacific Transportation Co
+offers "nothing truly new."
+    In a letter to shippers, Kansas City Chairman Landon
+Rowland stated "This proposed merger is plainly
+anti-competitive, as found by the ICC and urged by the
+Department of Justice. Nothing has changed."
+    Landon said Kansas City Southern is continuing its efforts
+to acquire the transportation operation of Santa Fe Railway.
+ Reuter
+&#3;</BODY></TEXT>

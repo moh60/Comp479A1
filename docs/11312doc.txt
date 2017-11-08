@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17374" NEWID="11312">
+<DATE>31-MAR-1987 09:31:38.54</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0982&#31;reute
+r f BC-VLI-CORP-&lt;VLIC>-TO-EN   03-31 0069</UNKNOWN>
+<TEXT>&#2;
+<TITLE>VLI CORP &lt;VLIC> TO ENTER CONDOM MARKET</TITLE>
+<DATELINE>    IRVINE, Calif., March 31 - </DATELINE><BODY>VLI Corp said it is in the final
+planning stages for the introduction of a line of condoms that
+it would introduce in the second half.
+    It said it is in the process of selecting a supplier.
+    In addition, the company said in the third quarter it will
+start marketing in the U.S. the Clearplan ovulation test kit,
+made by Unilever PLC &lt;UL>.
+ Reuter
+&#3;</BODY></TEXT>

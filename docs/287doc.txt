@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12470" NEWID="287">
+<DATE> 2-MAR-1987 03:45:48.48</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>japan</D><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0723&#31;reute
+u f BC-JAPAN-DISTRIBUTOR-MAY   03-02 0093</UNKNOWN>
+<TEXT>&#2;
+<TITLE>JAPAN DISTRIBUTOR MAY IMPORT MAZDA U.S.-MADE CARS</TITLE>
+<DATELINE>    TOKYO, March 2 - </DATELINE><BODY>&lt;Autorama Inc>, a distributor for Ford
+Motor Co &lt;F> in Japan, is considering importing cars made by
+&lt;Mazda Motor Manufacturing (USA) Corp>, (MMUC), a wholly owned
+U.S. Subsidiary of Mazda Motor Corp &lt;MAZT.T>, an Autorama
+spokesman said.
+    Mazda, owned 24 pct by Ford, is due to begin production of
+the 2,000-cc-engine cars at the Michigan plant in September at
+an annual rate of 240,000, of which between 60 and 70 pct will
+go to Ford and the rest to Mazda's own U.S. Sales network.
+ REUTER
+&#3;</BODY></TEXT>

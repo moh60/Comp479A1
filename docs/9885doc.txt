@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15406" NEWID="9885">
+<DATE>26-MAR-1987 10:16:34.54</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1136&#31;reute
+r f BC-&lt;MARSAM-PHARMACEUTICA   03-26 0043</UNKNOWN>
+<TEXT>&#2;
+<TITLE>&lt;MARSAM PHARMACEUTICALS INC> IN INITIAL OFFERING</TITLE>
+<DATELINE>    CHERRY HILL, N.J., March 26 - </DATELINE><BODY>Marsam Pharmaceuticals Inc
+said an initial public offering of 800,000 common shares is
+underway at 15 dlrs per share through sole underwriter &lt;Smith
+Barney, Harris Upham and Co>.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4020" NEWID="15037">
+<DATE> 8-APR-1987 10:45:50.03</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1221&#31;reute
+r f BC-WEDGESTONE-REALTY-&lt;WD   04-08 0046</UNKNOWN>
+<TEXT>&#2;
+<TITLE>WEDGESTONE REALTY &lt;WDG> ACQUISITION APPROVED</TITLE>
+<DATELINE>    NEWTON, Mass., April 8 - </DATELINE><BODY>Wedgestone Realty Investors Trust
+said shareholkders have approved the acquisition of its
+advisor, Wedgestone Advisory Corp, for 600,000 shares.
+    It said completion is expected to take place April 10.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6633" NEWID="18881">
+<DATE>18-JUN-1987 13:56:28.97</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f4148&#31;reute
+r f BC-TRITON-GROUP-&lt;TRRO.O>   06-18 0073</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TRITON GROUP &lt;TRRO.O> PRESIDENT RESIGNS</TITLE>
+<DATELINE>    LA JOLLA, Calif., June 18 - </DATELINE><BODY>Triton Group Ltd said John
+Stiska has resigned as its president. He will be replaced by
+Triton Chairman Charles Scott.
+    Stiska will return to private law practice and will
+continue to serve as special counsel to Triton and to Intermark
+Inc &lt;IMI>.
+    Intermark, which owns 41 pct of Triton's common stock, took
+a controlling interest in the company in March, 1986.
+ Reuter
+&#3;</BODY></TEXT>

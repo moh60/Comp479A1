@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16553" NEWID="1233">
+<DATE> 3-MAR-1987 14:43:48.64</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0577&#31;reute
+d f BC-EXECUTIVE-TELECOM-&lt;XT   03-03 0091</UNKNOWN>
+<TEXT>&#2;
+<TITLE>EXECUTIVE TELECOM &lt;XTEL> CHANGES MEETING DATE</TITLE>
+<DATELINE>    TULSA, Okla., March 3 - </DATELINE><BODY>Executive Telecommunications Inc
+said the recently announced joint board of directors meeting
+with &lt;First Equipment Leasing Co> to negotiate the details of
+the First Equipment reverse takeover offer has been changed
+from March 12 to March 16.
+    XTEL said the move was made to accommodate several of the
+directors with conflicting schedules.
+    First Equipment recently offered to buy XTEL in a reverse
+takeover deal in which the new company would retain the XTEL
+name.
+ Reuter
+&#3;</BODY></TEXT>

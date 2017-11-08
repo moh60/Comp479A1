@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12208" NEWID="7295">
+<DATE>19-MAR-1987 13:30:30.37</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1861&#31;reute
+d f BC-LANSON-NAMES-WHITBREA   03-19 0047</UNKNOWN>
+<TEXT>&#2;
+<TITLE>LANSON NAMES WHITBREAD PLC UNIT AS IMPORTER</TITLE>
+<DATELINE>    NEW YORK, March 19 - </DATELINE><BODY>Lanson Champagne of France said it
+named Whitbread PLC's Regal Brands Inc unit as its exclusive
+U.S. importer, effective April one.
+    Regal Brands is also the sole U.S. importer for Benedictine
+S.A.'s liqueurs.
+ Reuter
+&#3;</BODY></TEXT>

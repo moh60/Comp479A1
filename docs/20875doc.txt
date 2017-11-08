@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20562" NEWID="20875">
+<DATE>19-OCT-1987 18:54:23.19</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f3394&#31;reute
+d f BC-CHEYENNE-&lt;CHEY.O>-TO   10-19 0050</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CHEYENNE &lt;CHEY.O> TO DISTRIBUTE RIGHTS</TITLE>
+<DATELINE>    ROSLYN, N.Y., Oct 19 - </DATELINE><BODY>Cheyenne Software Inc said it
+intends to distribute to its shareholders rights to buy common
+shares of its F.A. Computer Technologies Inc subsidiary on the
+basis of one sahre of F.A. stock for every two shares of
+Cheyenne stock owned.
+ Reuter
+&#3;</BODY></TEXT>

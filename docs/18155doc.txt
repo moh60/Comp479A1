@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7600" NEWID="18155">
+<DATE> 2-JUN-1987 13:33:36.71</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2030&#31;reute
+r f BC-CML-GROUP-INC-&lt;CMLI.O   06-02 0056</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CML GROUP INC &lt;CMLI.O> 3RD QTR NET</TITLE>
+<DATELINE>    ACTON, Mass., June 2 - </DATELINE><BODY>qtr ended May 2
+    Shr 29 cts vs 22 cts
+    Net 1,975,000 vs 1,403,000
+    Revs 68.1 mln vs 54.0 mln
+    Avg shrs 6,722,527 vs 6,597,492
+    Nine mths
+    Shr 1.17 dlrs vs 92 cts
+    Net 7,847,000 vs 6,017,000
+    Revs 209.7 mln vs 175.7 mln
+    Avg shrs 6,687,138 vs 6,549,197
+ Reuter
+&#3;</BODY></TEXT>

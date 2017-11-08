@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="21289" NEWID="20694">
+<DATE>20-OCT-1987 16:08:53.61</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f3123&#31;reute
+r f BC-BURLINGTON-NORTHERN-&lt;   10-20 0084</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BURLINGTON NORTHERN &lt;BNI> TO REPURCHASE STOCK</TITLE>
+<DATELINE>    SEATTLE, Oct 20 - </DATELINE><BODY>Burlington Northern Inc said it plans to
+repurchase up to five mln shares, or about seven pct of its
+common stock.
+    The company, joining a number of others buying back their
+shares in the wake of yesterday's maket decline, said it will
+make the purchases from time to time, based on market
+conditions.
+    Burlington said its operating businesses are performing
+well and are expected to continue generating substantial free
+cash flow.
+ Reuter
+&#3;</BODY></TEXT>

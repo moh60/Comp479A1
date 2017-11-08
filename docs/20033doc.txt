@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20628" NEWID="20033">
+<DATE>20-OCT-1987 04:49:48.44</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE><D>poehl</D></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM V 
+&#22;&#22;&#1;f0287&#31;reute
+f f BC-Bundesbank-has-no-int   10-20 0012</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE> Bundesbank has no interest in higher capital market rates - Poehl
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

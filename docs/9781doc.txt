@@ -1,0 +1,20 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15302" NEWID="9781">
+<DATE>26-MAR-1987 07:20:17.43</DATE>
+<TOPICS><D>money-fx</D></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0552&#31;reute
+b f BC-U.K.-MONEY-MARKET-FOR   03-26 0033</UNKNOWN>
+<TEXT>&#2;
+<TITLE>U.K. MONEY MARKET FORECAST REVISED TO DEFICIT</TITLE>
+<DATELINE>    LONDON, March 26 - </DATELINE><BODY>The Bank of England said it revised its
+estimate of today's money market shortfall to around 350 mln
+stg from a flat position.
+ REUTER
+&#3;</BODY></TEXT>

@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14762" NEWID="9241">
+<DATE>25-MAR-1987 08:27:16.19</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0692&#31;reute
+a f BC-SINGER-&lt;SMF>-GETS-TEX   03-25 0080</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SINGER &lt;SMF> GETS TEXAS AIR &lt;TEX> CONTRACT</TITLE>
+<DATELINE>    STAMFORD, Conn., March 25 - </DATELINE><BODY>Singer Co said it has signed a
+12-year contract with Texas Air Corp's Continental Airlines Inc
+unit to lease Continental an aircraft simulator for flight crew
+training.
+    Singer said it will also market training on the simulator
+to other airlines.
+    The company said initially it will provide a simulator for
+McDonnell Douglas Corp's MD-80 but will replace that simulator
+in 1988 with one for the MD-82.
+ Reuter
+&#3;</BODY></TEXT>

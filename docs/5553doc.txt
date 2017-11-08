@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10466" NEWID="5553">
+<DATE>16-MAR-1987 13:28:48.06</DATE>
+<TOPICS><D>crude</D><D>ship</D></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f3085&#31;reute
+r f BC-GOTAAS-LARSEN-&lt;GOTLF>   03-16 0045</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GOTAAS-LARSEN &lt;GOTLF> TO BUILD FIFTH CARRIER</TITLE>
+<DATELINE>    HAMILTON, Bermuda, March 16 - </DATELINE><BODY>Gotaas-Larsen Shipping Corp
+said it had exercised an option to build a fifth in a series of
+crude oil carriers to be constructed by &lt;Daewoo Shipbuilding
+and Heavy Machinery Ltd> in South Korea.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="8175" NEWID="19847">
+<DATE>29-JUN-1987 15:08:16.88</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A RM 
+&#22;&#22;&#1;f2255&#31;reute
+u f BC-ALLIS-CHALMERS-&lt;AH>-D   06-29 0101</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ALLIS-CHALMERS &lt;AH> DEBT, PAPER CUT BY MOODY'S</TITLE>
+<DATELINE>    NEW YORK, June 29 - </DATELINE><BODY>Moody's Investors Service said it
+downgraded 95 mln dlrs of outstanding Allis-Chalmers Corp
+issues. It lowered the sinking fund debentures to Ca from B-3
+and the Series C preferred stock to Ca from Caa.
+    Moody's cited as justification the company's filing for
+court protection under Chapter 11 of the Federal Bankruptcy
+Code. Also, the agency noted the company's inability to
+restructure its debt obligations.
+    Allis-Chalmers Corp is a manufacturer of air quality
+control, fluids handling and solid materials processing
+equipment.
+ Reuter
+&#3;</BODY></TEXT>

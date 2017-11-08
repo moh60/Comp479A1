@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13250" NEWID="7729">
+<DATE>20-MAR-1987 11:08:28.66</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1227&#31;reute
+d f BC-ENVIROPACT-&lt;VIRO>-TO   03-20 0055</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ENVIROPACT &lt;VIRO> TO MAKE ACQUISITION</TITLE>
+<DATELINE>    MIAMI, March 20 - </DATELINE><BODY>Enviropact Inc said it has signed a
+letter of intent to acquire Willms Trucking Co Inc for about
+12.5 mln dlrs, with completion expected in 45 days.
+    In the year ended September 30, Willms had revenues of
+about 15 mln dlrs.  It transports hazardous waste, sand and
+gravel.
+ Reuter
+&#3;</BODY></TEXT>

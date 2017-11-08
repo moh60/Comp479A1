@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4250" NEWID="15267">
+<DATE> 8-APR-1987 15:37:06.82</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D><D>us-virgin-islands</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2361&#31;reute
+r f BC-E.F.-HUTTON-&lt;EFH>-SET   04-08 0078</UNKNOWN>
+<TEXT>&#2;
+<TITLE>E.F. HUTTON &lt;EFH> SETS FINANCES TELEPHONE DEAL</TITLE>
+<DATELINE>    NEW YORK, April 8 - </DATELINE><BODY>E.F. Hutton Group Inc said it is
+providing financing for the previously announced acquisition of
+&lt;Virgin Islands Telephone Co> by &lt;Atlantic Tele-Network Co>.
+    Terms of the financing were not disclosed.
+    Virgin Islands Telephone, which operates telephone systems
+in the U.S. Virgin Islands, handles about 1.5 mln local calls
+per week and one mln long-distance calls per month, the company
+said.
+
+ Reuter
+&#3;</BODY></TEXT>

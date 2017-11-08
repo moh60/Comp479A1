@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="19925" NEWID="21511">
+<DATE>19-OCT-1987 07:20:44.69</DATE>
+<TOPICS><D>interest</D><D>money-fx</D></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM 
+&#22;&#22;&#1;f0560&#31;reute
+f f BC-Bundesbank-adds-money   10-19 0011</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE> Bundesbank adds money market liquidity at 3.70-3.80 pct -dealers
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19415" NEWID="2997">
+<DATE> 9-MAR-1987 04:31:35.30</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>uk</D><D>finland</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0376&#31;reute
+b f BC-UNION-BANK-OF-FINLAND   03-09 0075</UNKNOWN>
+<TEXT>&#2;
+<TITLE>UNION BANK OF FINLAND ISSUES EUROYEN BOND</TITLE>
+<DATELINE>    LONDON, March 9 - </DATELINE><BODY>Union Bank of Finland is issuing a 10
+billion yen eurobond due March 30, 1992 paying five pct and
+priced at 102-3/8 pct, lead manager LTCB International Ltd
+said.
+    The bond is available in denominations of one mln yen and
+will be listed in Luxembourg. Payment date is March 30.
+    Fees comprise 1-1/4 pct selling concession and 5/8 pct for
+management and underwriting combined.
+ REUTER
+&#3;</BODY></TEXT>

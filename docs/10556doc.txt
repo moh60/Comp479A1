@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16077" NEWID="10556">
+<DATE>27-MAR-1987 12:56:01.84&#5;&#5;&#5;F</DATE>
+<UNKNOWN>&#22;&#22;&#1;f1729&#31;reute</UNKNOWN>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+d f BC-COMPUTER-NETWORK-TECH   03-27 0070</UNKNOWN>
+<TEXT>&#2;
+<TITLE>COMPUTER NETWORK TECHNOLOGY &lt;CMNT> 4TH QTR LOSS</TITLE>
+<DATELINE>    MINNEAPOLIS, March 27 -
+    </DATELINE><BODY>Shr loss eight cts vs loss eight cts
+    Net loss 655,457 vs loss 566,429
+    Rev 258,712 vs nil
+    Year
+    Shr loss 31 cts vs loss 26 cts
+    Net loss 2,725,882 vs loss 1,759,675
+    Rev 349,070 vs nil
+    NOTE: Company's full name is Computer Network Technology
+Corp. 1985 revenues n.a. because 1986 was initial year of
+product revenue.
+ Reuter
+&#3;</BODY></TEXT>

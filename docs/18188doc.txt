@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7633" NEWID="18188">
+<DATE> 2-JUN-1987 14:09:08.28</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2142&#31;reute
+r f BC-PACIFICORP-&lt;PPW>-BUYS   06-02 0077</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PACIFICORP &lt;PPW> BUYS BUYS COMPUTER FIRM</TITLE>
+<DATELINE>    PORTLAND, June 2 - </DATELINE><BODY>PacifiCorp said it acquired Thomas
+Nationwide Computer Corp for 25 mln dlrs in cash and 15 mln
+dlrs in deferred consideration depending on the future
+performance of the company.
+    Thomas Nationwide leases and re-markets new and used
+International Business Machines Corp equipment, PacifiCorp
+said.
+    It said Thomas Nationwide will be combined with its Systems
+Leasing Corp unit in MacLean, Va.
+ Reuter
+&#3;</BODY></TEXT>

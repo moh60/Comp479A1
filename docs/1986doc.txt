@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18404" NEWID="1986">
+<DATE> 5-MAR-1987 08:30:56.21</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A
+&#22;&#22;&#1;f0879&#31;reute
+d f BC-MITSUI-AND-CO-EUROBON   03-05 0105</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MITSUI AND CO EUROBONDS FORMALLY LAUNCHED</TITLE>
+<DATELINE>    LONDON, March 5 - </DATELINE><BODY>The two 150 mln dlr equity warrant
+eurobonds for Mitsui and Co Ltd, reported earlier today from
+Tokyo, have now been formally launched, lead manager Nomura
+International Ltd said.
+    The first tranche matures on March 30, 1992 and has an
+indicated coupon of 2-3/4 pct while the second tranche matures
+on March 30, 1994 and has a fixed coupon of three pct. Both
+deals have an indicated pricing of par.
+    The selling concession for both deals is 1-1/2 pct while
+management and underwriting combined pays 3/4 pct. Final terms
+on the deals will be fixed on March 12.
+ Reuter
+&#3;</BODY></TEXT>

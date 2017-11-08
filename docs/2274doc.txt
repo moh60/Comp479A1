@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18692" NEWID="2274">
+<DATE> 5-MAR-1987 12:53:15.57</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM A F
+&#22;&#22;&#1;f0072&#31;reute
+r f BC-BROWN-FORMAN-&lt;BFD>-FI   03-05 0058</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BROWN-FORMAN &lt;BFD> FILES 200 MLN DLR DEBT OFFER</TITLE>
+<DATELINE>    LOUISVILLE, Ky., March 5 - </DATELINE><BODY>Brown-Forman Corp said it filed
+a shelf registration covering up to 200 mln dlrs of debt
+securities guaranteed by its parent company, Brown-Forman Inc.
+    Proceeds will be used to retire commercial paper, to repay
+some long-term debt and for general corporate purposes.
+ Reuter
+&#3;</BODY></TEXT>

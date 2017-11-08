@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16742" NEWID="10681">
+<DATE>30-MAR-1987 00:57:35.31</DATE>
+<TOPICS><D>money-fx</D><D>dlr</D><D>yen</D></TOPICS>
+<PLACES></PLACES>
+<PEOPLE><D>miyazawa</D></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0030&#31;reute
+f f BC-Miyazawa-says-major-n   03-30 0015</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE>Miyazawa says major nations have intervened aggressively since dlr fell below 150 yen
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7813" NEWID="18368">
+<DATE> 2-JUN-1987 23:16:57.80</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>japan</D><D>brazil</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f3066&#31;reute
+u f BC-MATSUSHITA-BRAZIL-JOI   06-02 0114</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MATSUSHITA BRAZIL JOINT VENTURE TO MAKE VTRS</TITLE>
+<DATELINE>    OSAKA, June 3 - </DATELINE><BODY>A Matsushita Electric Co Ltd &lt;MC.T> joint
+venture will make VHS-format video tape recorders (vtrs) in
+Brazil for the domestic market in the face of government quotas
+on vtr imports, a Matsushita spokesman told Reuters.
+    &lt;Springer National de Amazonia SA> will start output in
+early 1988 at a rate of 20,000 vtrs the first year, he said.
+    Springer National, located in Manaus and capitalised at
+89.93 mln cruzeiros, is owned 51 pct by &lt;Springer SA> of Brazil
+and 49 pct by Matsushita unit &lt;National do Brasil Ltd>.
+    It was formed in July 1981 to make colour televisions,
+audio equipment and microwave ovens.
+ REUTER
+&#3;</BODY></TEXT>

@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="3743" NEWID="14760">
+<DATE> 7-APR-1987 18:50:44.03</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2673&#31;reute
+d f BC-AMERITRUST-&lt;AMTR>-INT   04-07 0056</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AMERITRUST &lt;AMTR> INTRODUCES IRA FUND</TITLE>
+<DATELINE>    CLEVELAND, Ohio, April 7 - </DATELINE><BODY>Ameritrust Corp said it is
+introducing a pooled investment fund for IRA's and other
+retirement accounts, called the Collective INvestment
+Retirement Fund.
+    The fund will operate much like a mutual fund and will
+allow initial investments as low as 250 dlrs, it said.
+ Reuter
+&#3;</BODY></TEXT>

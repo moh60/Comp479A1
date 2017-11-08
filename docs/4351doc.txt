@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9264" NEWID="4351">
+<DATE>12-MAR-1987 13:03:16.57</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0831&#31;reute
+d f BC-PARADISE-FRUIT-CO-INC   03-12 0039</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PARADISE FRUIT CO INC &lt;PARF> YEAR NET</TITLE>
+<DATELINE>    PLANT CITY, Fla., March 12 -
+    </DATELINE><BODY>Shr 86 cts vs 99 cts
+    Net 435,610 vs 497,160
+    Sales 16.6 mln vs 17.7 mln
+    NOTE: 1986 year net penalized 13 cts shr from loss of
+investment tax credits.
+  
+ Reuter
+&#3;</BODY></TEXT>

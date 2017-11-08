@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6037" NEWID="17699">
+<DATE> 1-JUN-1987 14:04:15.25</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1988&#31;reute
+d f BC-INVESTITECH-&lt;ITLD.O>   06-01 0054</UNKNOWN>
+<TEXT>&#2;
+<TITLE>INVESTITECH &lt;ITLD.O> GETS MORTGAGE LOAN</TITLE>
+<DATELINE>    FORT LAUDERDALE, Fla., June 1 - </DATELINE><BODY>Investitech Ltd said it has
+closed on a 500,000 dlr long-term mortgage loan in connection
+with its previous purchase of a Mulberry, Fla., plant,
+replacing a short-term borrowing.
+    The company said full production at the plant will start
+immediately.
+ Reuter
+&#3;</BODY></TEXT>

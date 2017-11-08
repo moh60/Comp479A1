@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6973" NEWID="19137">
+<DATE>19-JUN-1987 09:34:09.91</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f0826&#31;reute
+u f BC-MTECH-&lt;MTCH>-HAS-33,4   06-19 0052</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MTECH &lt;MTCH> HAS 33,467 COMMERCIAL SHARES</TITLE>
+<DATELINE>    IRVING, Texas, June 19 - </DATELINE><BODY>MTech Corp said it has received
+33,467 shares of Commercial Resources Corp in response to its
+10.25 dlr per share tender offer for all 150,000 shares.
+    The company said it has extended the offer until July 2. It
+was to have expired yesterday.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15512" NEWID="9991">
+<DATE>26-MAR-1987 11:55:50.03</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1625&#31;reute
+w f BC-UNITED-WATER-&lt;UWR>,-B   03-26 0092</UNKNOWN>
+<TEXT>&#2;
+<TITLE>UNITED WATER &lt;UWR>, BASE TEN &lt;BASE> SET VENTURE</TITLE>
+<DATELINE>    HARRINGTON PARK, N.J., March 26 - </DATELINE><BODY>United Water Resources
+Inc said it formed a venture with Base Ten Systems Inc's Base
+Ten Telecom Inc to sell a telephone-based automatic meter
+reading system to the utility industry.
+    United Water Resources, parent of Hackensack and Spring
+Valley Water Cos, said it will provide marketing and customer
+support for Base Ten's automatic meter reading system.
+    The company said it will install the system for 168,000
+commercial and residential customers this spring.
+ Reuter
+&#3;</BODY></TEXT>

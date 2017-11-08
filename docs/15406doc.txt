@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5304" NEWID="15406">
+<DATE> 9-APR-1987 06:29:36.97</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>netherlands</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0360&#31;reute
+u f BC-NATIONALE-NEDERLANDEN   04-09 0074</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NATIONALE NEDERLANDEN PROFITS, SALES STEADY</TITLE>
+<DATELINE>    THE HAGUE, April 9 - </DATELINE><BODY>Year 1986
+    Net profit 635.5 mln guilders vs 603.4 mln.
+    Revenues 17.35 billion guilders vs 17.27 billion.
+    Net profit per nominal 2.50 guilder share 5.79 guilders vs
+5.67, corrected for capital increase. (1985 uncorrected figure
+5.73).
+    Dividend 2.50 guilders vs 2.38, corrected. (2.40
+uncorrected.)
+    Note - Full name is Nationale Nederlanden NV &lt;NTNN.AS>
+REUTER
+&#3;</BODY></TEXT>

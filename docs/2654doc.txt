@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19072" NEWID="2654">
+<DATE> 6-MAR-1987 11:20:35.02</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0507&#31;reute
+r f BC-COMPUTER-FACTORY-&lt;CFA   03-06 0069</UNKNOWN>
+<TEXT>&#2;
+<TITLE>COMPUTER FACTORY &lt;CFA> SHARE OFFERING STARTS</TITLE>
+<DATELINE>    NEW YORK, March 6 - </DATELINE><BODY>Sole underwriter E.F. Hutton Group Inc
+&lt;EFH> said an offering of 2,100,000 common shares of Computer
+Factory Inc is under way at 24.50 dlrs per share.
+    The company is selling 1,800,000 shares and a shareholder
+the rest.  Computer Factory and the shareholder have granted
+Hutton an option to buy up to 315,000 more shares to cover
+over-allotments.
+ Reuter
+&#3;</BODY></TEXT>

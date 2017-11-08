@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13030" NEWID="847">
+<DATE> 2-MAR-1987 18:09:17.65</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0293&#31;reute
+h f BC-COUSINS-HOME-FURNISHI   03-02 0089</UNKNOWN>
+<TEXT>&#2;
+<TITLE>COUSINS HOME FURNISHINGS &lt;CUZZ> GET CREDIT LINE</TITLE>
+<DATELINE>    SAN DIEGO, March 2 - </DATELINE><BODY>Cousins Home Furnishings Inc said it
+obtained a 5.0-mln-dlr working capital line of credit from
+Lloyds Bank PLC, through its Los Angeles branch.
+    The credit is supported by a guarantee from the company's
+Canadian affiliate, The Brick Warehouse Ltd, which will receive
+200,000-dlrs worth of the company's stock.
+    The line of credit, which expires in July, 1989, will be
+used to pay off a 1,750,000-dlr working capital loan the
+company owes Wells Farg Bank.
+ Reuter
+&#3;</BODY></TEXT>

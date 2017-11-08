@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13145" NEWID="7624">
+<DATE>20-MAR-1987 08:26:27.64</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>israel</D><D>lebanon</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;V
+&#22;&#22;&#1;f0649&#31;reute
+u f BC-ISRAELI-JETS-RAID-SOU   03-20 0067</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ISRAELI JETS RAID SOUTH LEBANON</TITLE>
+<DATELINE>    BEIRUT, March 20 - </DATELINE><BODY>Israeli jets bombed Palestinian targets
+east of the south Lebanese port town of Sidon, in the first
+such attack this month, local radio stations said.
+    They said the planes attacked Palestinian targets in the
+Darb al-Sim area, a few km (miles) east of Sidon, and smoke was
+seen billowing over the area.
+    Details were not immediately available.
+ Reuter
+&#3;</BODY></TEXT>

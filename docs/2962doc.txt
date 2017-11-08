@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19380" NEWID="2962">
+<DATE> 7-MAR-1987 03:53:06.35</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>malaysia</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0896&#31;reute
+u f BC-&lt;TRACTORS-MALAYSIA-HO   03-07 0052</UNKNOWN>
+<TEXT>&#2;
+<TITLE>&lt;TRACTORS MALAYSIA HOLDINGS BHD></TITLE>
+<DATELINE>    KUALA LUMPUR, March 7 - </DATELINE><BODY>Six months to December 31
+    SHR 8.8 cts vs 0.5 ct
+    Interim dividend 12.5 cts vs nil
+    Group net 9.5 mln ringgit vs 0.6 mln
+    Pre-tax 11 mln vs 1.1 mln
+    Turnover 88.9 mln vs 70.8 mln
+    Note - dividend pay May 15, register April 17.
+ REUTER
+&#3;</BODY></TEXT>

@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4663" NEWID="15485">
+<DATE> 9-APR-1987 09:01:41.95</DATE>
+<TOPICS><D>jobs</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;A RM
+&#22;&#22;&#1;f0740&#31;reute
+b f BC-U.S.-FIRST-TIME-JOBLE   04-09 0081</UNKNOWN>
+<TEXT>&#2;
+<TITLE>U.S. FIRST TIME JOBLESS CLAIMS FELL IN WEEK</TITLE>
+<DATELINE>    WASHINGTON, April 9 - </DATELINE><BODY>New applications for unemployment
+insurance benefits fell to a seasonally adjusted 338,000 in the
+week ended March 28 from 355,000 in the prior week, the Labor
+Department said.
+    The number of people actually receiving benefits under
+regular state programs totaled 2,436,000 in the week ended
+March 21, the latest period for which that figure was
+available.
+    That was down from 2,480,000 the previous week.
+     
+ Reuter
+&#3;</BODY></TEXT>

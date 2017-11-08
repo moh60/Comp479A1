@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14241" NEWID="8720">
+<DATE>24-MAR-1987 09:14:45.00</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F
+&#22;&#22;&#1;f0851&#31;reute
+d f BC-associated-porcupine   03-24 0076</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ASSOCIATED PORCUPINE FUNDING ACCORD TERMINATED</TITLE>
+<DATELINE>    TORONTO, March 24 - </DATELINE><BODY>&lt;Associated Porcupine Mines Ltd> said
+its September 22, 1986 agreement with Quill Resources Ltd, for
+Quill to provide certain funding, has been terminated.
+    Under the agreement, Quill was to provide funding for a
+three phase program to place Associated Porcupine's Paymaster
+gold property at Timmins, Ontario into commerical production,
+the company said without further elaborating.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13000" NEWID="817">
+<DATE> 2-MAR-1987 17:23:30.47</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0204&#31;reute
+h f BC-MFS-MUNICIPAL-INCOME   03-02 0050</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MFS MUNICIPAL INCOME TRUST &lt;MFM> SETS PAYOUT</TITLE>
+<DATELINE>    BOSTON, March 2 - </DATELINE><BODY>MFS Municipal Income Trust said it
+declared a monthly income distribution of 5.7 cts a share
+compared with 5.5 cts a share paid in the previous month.
+    It said the distribution is payable March 27 to
+shareholders of record March 13.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17978" NEWID="1561">
+<DATE> 4-MAR-1987 11:55:38.67</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0784&#31;reute
+u f BC-OUTBOARD-MARINE-&lt;OM>   03-04 0069</UNKNOWN>
+<TEXT>&#2;
+<TITLE>OUTBOARD MARINE &lt;OM> KNOWS NO REASON STOCK IS UP</TITLE>
+<DATELINE>    CHICAGO, March 4 - </DATELINE><BODY>Outboard Marine Corp, whose stock is
+trading higher, said there were no corporate developments to
+account for the rise.
+    Outboard Marine was up 2-1/2 to 34 with 48,000 shares
+traded.
+    A spokesman said the company wasn't planning any
+announcements. Several analysts who follow the company also did
+not know why Outboard was trading higher.
+ Reuter
+&#3;</BODY></TEXT>

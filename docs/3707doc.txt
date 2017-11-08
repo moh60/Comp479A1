@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="8620" NEWID="3707">
+<DATE>11-MAR-1987 11:25:10.65</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0555&#31;reute
+r f BC-MOORE-MCCORMACK-&lt;MMC>   03-11 0082</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MOORE MCCORMACK &lt;MMC> TO SELL GLOBE UNIT</TITLE>
+<DATELINE>    STAMFORD, March 11 - </DATELINE><BODY>Moore McCormack Resources Inc said it
+agreed in principle to sell its Globe Metallurgical Inc unit to
+Cyprus Minerals Co &lt;CYPM> for undisclosed terms.
+    The sale, expected to close by mid-April, is subject to
+certain conditions, including board approval at both companies.
+    Globe produces silicon metals and magnesium ferrosilicon.
+The products are used in the chemical, aluminum, iron, rubber
+and semiconductor industries.
+ Reuter
+&#3;</BODY></TEXT>

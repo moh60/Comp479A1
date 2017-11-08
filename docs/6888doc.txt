@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11801" NEWID="6888">
+<DATE>18-MAR-1987 17:25:02.53</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f9619&#31;reute
+r f BC-PROVIDENCE-ENERGY-&lt;PV   03-18 0050</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PROVIDENCE ENERGY &lt;PVY> FINALIZES ACQUISITION</TITLE>
+<DATELINE>    PROVIDENCE, R.I., March 18 - </DATELINE><BODY>Providence Energy Corp said it
+completed the purchase of North Attleboro Gas co.
+    Terms were not disclosed.
+    North Attleboro serves 2,273 residential customers, 288
+commercial customers, and 40 industrial customers.
+ Reuter
+&#3;</BODY></TEXT>

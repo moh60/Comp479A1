@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7670" NEWID="18225">
+<DATE> 2-JUN-1987 14:49:54.70</DATE>
+<TOPICS><D>copper</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;M F
+&#22;&#22;&#1;f2326&#31;reute
+r f BC-mueller-brass-price   06-02 0058</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MUELLER BRASS LOWERS PRODUCT PRICES</TITLE>
+<DATELINE>    PORT HURON, MICH., June 2 - </DATELINE><BODY>Mueller Brass Co said that
+effective with shipments today, it is adjusting the price of
+all brass mill products, except free-cutting brass rod and
+related alloys and copper water tube and related products, to
+reflect contained copper values at 73 cents a pound, down two
+cents.
+   
+ Reuter
+&#3;</BODY></TEXT>

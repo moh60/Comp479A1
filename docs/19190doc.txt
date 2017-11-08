@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7026" NEWID="19190">
+<DATE>19-JUN-1987 10:46:15.93</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1076&#31;reute
+d f BC-AMERICAN-FEDERAL-SAVI   06-19 0039</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AMERICAN FEDERAL SAVINGS &lt;AFSL.O> QTLY DIV</TITLE>
+<DATELINE>    DENVER, June 19 - 
+    </DATELINE><BODY>Qtly div 75 cts vs 75 cts prior
+    Pay July 14
+    Record June 30
+    Note:the company's full name is American Federal Savings   
+ and Loans Association of Colorado
+ Reuter
+&#3;</BODY></TEXT>

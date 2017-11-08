@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6515" NEWID="18763">
+<DATE>18-JUN-1987 11:47:58.73</DATE>
+<TOPICS><D>money-fx</D><D>interest</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;V RM 
+&#22;&#22;&#1;f3620&#31;reute
+b f BC-/-FED-ADDS-RESERVES-V   06-18 0055</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FED ADDS RESERVES VIA CUSTOMER REPURCHASES</TITLE>
+<DATELINE>    NEW YORK, June 18 - </DATELINE><BODY>The Federal Reserve entered the
+government securities market to supply temporary reserves
+indirectly via two billion dlrs of customer repurchase
+agreements, a spokesman for the New York Fed said.
+    Fed funds were trading at 6-3/4 pct when the Fed began
+its action.
+ Reuter
+&#3;</BODY></TEXT>

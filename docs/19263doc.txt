@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7099" NEWID="19263">
+<DATE>19-JUN-1987 12:36:11.54</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1572&#31;reute
+u f BC-FIRST-&lt;FBT>-REITERATE   06-19 0100</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FIRST &lt;FBT> REITERATES SPECULATION PREMATURE</TITLE>
+<DATELINE>    HOUSTON, June 19 - </DATELINE><BODY>First City Bancorp of Texas Inc, which
+is soliciting bidders, reiterated that it is premature to
+speculate on what course of action it will pursue following a
+story in today's Wall Street Journal that it has attracted at
+least three potential acquirers.
+    First City said the article was not confirmed by the
+company, and it cautioned that there is "absotluely nothing to
+say or report beyond" its statement.
+    The Journal reported that among the bidders for First city
+was Robert Carney and Robert Abboud, a former Chicago banker.
+ Reuter
+&#3;</BODY></TEXT>

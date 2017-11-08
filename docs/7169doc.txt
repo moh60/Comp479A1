@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12082" NEWID="7169">
+<DATE>19-MAR-1987 11:10:12.89</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1242&#31;reute
+d f BC-ACCOUNTING-GROUP-SETS   03-19 0102</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ACCOUNTING GROUP SETS COMPUTER COST GUIDELINES</TITLE>
+<DATELINE>    MONTVALE, N.J., March 19 - </DATELINE><BODY>The National Association of
+Accountants said it has a set of guidelines to account for
+costs from internal use of computers.
+    The Association said Statement No. 4F, written by the
+Management Accounting Practices Committee, advises that users
+generally should be charged for services furnished by an
+information system.
+    The Association said users can measure internal computing
+costs against costs charged by outside vendors. But it said a
+company may not want to allocate costs when attempting to
+encourage use of a new system.
+
+ Reuter
+&#3;</BODY></TEXT>

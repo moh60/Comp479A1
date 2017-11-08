@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6043" NEWID="17705">
+<DATE> 1-JUN-1987 14:22:43.92</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2048&#31;reute
+d f BC-SYNERCOM-&lt;SYNR.O>-NAM   06-01 0042</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SYNERCOM &lt;SYNR.O> NAMES NEW PRESIDENT</TITLE>
+<DATELINE>    HOUSTON, June 1 - </DATELINE><BODY>Synercom Technology Inc said it has named
+Robert Forsyth president.
+    The company said Forsyth is taking over the position from
+Thomas Moore, who remains chairman and chief executive officer.
+ Reuter
+&#3;</BODY></TEXT>

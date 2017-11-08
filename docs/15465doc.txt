@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5363" NEWID="15465">
+<DATE> 9-APR-1987 08:27:51.00</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>amex</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0633&#31;reute
+r f BC-GALAXY-OIL-&lt;GOX>-BEIN   04-09 0079</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GALAXY OIL &lt;GOX> BEING DELISTED BY AMEX</TITLE>
+<DATELINE>    WICHITA FALLS, Texas, April 9 - </DATELINE><BODY>Galaxy Oil Co said its
+common stock and nine pct convertible subordinated debentures
+due 1994 are being delisted from the &lt;American Stock Exchange>
+because the company no longer meets listing criteria.
+    Galaxy filed Chapter 11 bankruptcy on April Six.
+    The company said trading in both issues will be suspended
+by the Amex at the close on May One but is expected to start
+elsewhere on May Four.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,20 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15366" NEWID="9845">
+<DATE>26-MAR-1987 09:18:19.18</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0921&#31;reute
+u f BC-jefferies-is-making   03-26 0033</UNKNOWN>
+<TEXT>&#2;
+<TITLE>JEFFERIES IS MAKING A MARKET IN STANDARD &lt;SRD></TITLE>
+<DATELINE>    LOS ANGELES, March 26 - </DATELINE><BODY>Jefferies and Co Inc said it is
+making a market in Standard Oil Co at 73 bid offerred at 75 --
+has been trading stock at 74.
+ Reuter
+&#3;</BODY></TEXT>

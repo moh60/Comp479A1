@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18463" NEWID="2046">
+<DATE> 5-MAR-1987 10:03:43.41</DATE>
+<TOPICS><D>crude</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F Y
+&#22;&#22;&#1;f0186&#31;reute
+u f BC-DIAMOND-SHAMROCK-&lt;DIA   03-05 0073</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DIAMOND SHAMROCK &lt;DIA> RAISES CRUDE OIL POSTINGS</TITLE>
+<DATELINE>    NEW YORK, MAR 5 - </DATELINE><BODY>Diamond Shamrock said it raised its
+posted prices for all grades of crude oil one dlr a barrel,
+effective yesterday.
+    The one dlr increase brings West Texas Intermediate, WTI
+the U.S. benchmark crude, to 17.00 dlrs a bbl, the company
+said.
+    Diamond Shamrock joined Sun Co, Coastal, Citgo and Murphy
+Oil in raising crude oil posted prices one dlr a barrel
+yesterday.
+ Reuter
+&#3;</BODY></TEXT>

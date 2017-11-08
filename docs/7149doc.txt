@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12062" NEWID="7149">
+<DATE>19-MAR-1987 10:56:23.79</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1171&#31;reute
+r f BC-AMCAST-&lt;ACST>-COMPLET   03-19 0098</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AMCAST &lt;ACST> COMPLETES SALE OF NEWMAN DIVISION</TITLE>
+<DATELINE>    DAYTON, Ohio, March 19 - </DATELINE><BODY>Amcast Industrial Corp said it
+completed the sale of its Newman Division to Newman
+Manufacturing Inc, a new company formed by Newman's employees.
+    The sale price was not disclosed.
+    Amcast said Newman's Kendallville, Indiana plant is one of
+the country's largest producers of gray iron castings for the
+automotive and commercial air conditioning and refrigeration
+industries. It said the plant employs 300 people.
+    Amcast said it decided to sell the division to move out of
+the gray iron castings business.
+ Reuter
+&#3;</BODY></TEXT>

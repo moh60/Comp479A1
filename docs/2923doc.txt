@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19341" NEWID="2923">
+<DATE> 6-MAR-1987 17:56:05.28</DATE>
+<TOPICS><D>nat-gas</D></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS><D>un</D></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;Y
+&#22;&#22;&#1;f0757&#31;reute
+r f AM-PETROLEUM   03-06 0107</UNKNOWN>
+<TEXT>&#2;
+<TITLE>U.N. ISSUES REPORT ON NATURAL GAS CLAUSES</TITLE>
+<DATELINE>    UNITED NATIONS, March 6 - </DATELINE><BODY>The U.N. Centre on Transnational
+Corporations has issued a report containing guidelines and
+recommendations for negotiating natural gas clauses in
+agreements between transnational petroleum corporations and
+host countries.
+    The U.N. said the report was aimed at promoting petroleum
+exploration in areas perceived as being gas prone. The 49-page
+report contains an in-depth examination of the problems of gas
+developoment and looks at different ways in which contractual
+terms might deal with the risks in gas development associated
+with pricing, marketing and volume.
+ Reuter
+&#3;</BODY></TEXT>

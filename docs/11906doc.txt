@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="134" NEWID="11906">
+<DATE> 1-APR-1987 09:39:26.52</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F Y
+&#22;&#22;&#1;f0871&#31;reute
+r f BC-NATIONAL-INTERGROUP-&lt;   04-01 0084</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NATIONAL INTERGROUP &lt;NII> UNIT FILES FOR OFFER</TITLE>
+<DATELINE>    PITTSBURGH, April 1 - </DATELINE><BODY>National Intergrup Inc said its
+Permian Partners LP subsidiary, recently formed to take over
+the business of its Permian Corp unit, plans to make a public
+offering of cumulative convertible preferred partnership units.
+    Permian buys, transports and resells crude oil.
+    Lead underwriters are American Express Co's &lt;AXP> Shearson
+Lehman Brothers Inc and &lt;Donaldson, Lufin and Jenrette
+Securities Corp> will be lead underwriters.
+ Reuter
+&#3;</BODY></TEXT>

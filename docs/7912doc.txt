@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13433" NEWID="7912">
+<DATE>20-MAR-1987 14:49:15.17</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2112&#31;reute
+h f BC-FIRST-FINANCIAL-&lt;FFMC   03-20 0086</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FIRST FINANCIAL &lt;FFMC> ACQUIRES TEL-A-DATA</TITLE>
+<DATELINE>    ATLANTA, March 20 - </DATELINE><BODY>First Financial Management Corp said it
+acquired the data processing contracts and certain related
+assets of Tel-A-Data L.P. for about 5.7 mln dlrs cash plus the
+assumption of certain liabilities of about 2.5 mln dlrs.
+    Tel-A-Data serves about 50 bank and thrift institutions
+through a processing center in Lombard, Illinois.
+    First Financial offers data processing services to over 800
+financial institutions through 35 data processing centers.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19529" NEWID="3109">
+<DATE> 9-MAR-1987 10:43:31.26</DATE>
+<TOPICS><D>orange</D></TOPICS>
+<PLACES><D>usa</D><D>brazil</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0351&#31;reute
+d f BC-U.S.-HAS-TO-MIDNIGHT   03-09 0079</UNKNOWN>
+<TEXT>&#2;
+<TITLE>U.S. HAS TO MIDNIGHT TO SET ORANGE JUICE DUTIES</TITLE>
+<DATELINE>    WASHINGTON, March 9 - </DATELINE><BODY>A decision on final dumping duties on
+frozen orange juice from Brazil may not be issued until
+tomorrow, Commerce Department officials said.
+    They said the department has until midnight tonight to set
+the duty, but may not make the finding public until tomorrow.
+    A preliminary duty of 8.54 pct was set last Oct. 17.
+    The final duty will be based on more detailed information,
+the officials said.
+ reuter
+&#3;</BODY></TEXT>

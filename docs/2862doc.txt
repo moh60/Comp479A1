@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19280" NEWID="2862">
+<DATE> 6-MAR-1987 16:15:19.54</DATE>
+<TOPICS><D>trade</D></TOPICS>
+<PLACES><D>usa</D><D>nicaragua</D><D>romania</D><D>paraguay</D></PLACES>
+<PEOPLE><D>reagan</D><D>yeutter</D></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G L M T
+&#22;&#22;&#1;f0525&#31;reute
+r f BC-NICARAGUA,-ROMANIA,-P   03-06 0097</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NICARAGUA, ROMANIA, PARAGUAY LOSE TRADE RIGHTS</TITLE>
+<DATELINE>    WASHINGTON, March 6 - </DATELINE><BODY>President Reagan formally ended
+preferential duty-free trade treatment for exports from
+Nicaragua, Romania and Paraguay under the Generalized System of
+Preferences (GSP).
+    He took the action after determining that the three
+countries are not taking steps to give their workers
+internationally recognized rights.
+    U.S. Trade Representative Clayton Yeutter had announced the
+intended action on January 2. The United States conducts no
+trade with Nicaragua and very little trade with Romania and
+Paraguay.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16512" NEWID="1192">
+<DATE> 3-MAR-1987 12:55:41.33</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0180&#31;reute
+r f BC-DATAMAG-INC-&lt;DMAG>-1S   03-03 0036</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DATAMAG INC &lt;DMAG> 1ST QTR DEC 31 LOSS</TITLE>
+<DATELINE>    SCOTTSDALE, Ariz., March 3 -
+    </DATELINE><BODY>Net loss 92,623 vs profit 11,209
+    Sales 93,483 vs 189,388
+    Note: per share data not available, as company went public
+in January, 1987.
+ Reuter
+&#3;</BODY></TEXT>

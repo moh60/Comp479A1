@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18347" NEWID="1929">
+<DATE> 5-MAR-1987 04:49:51.18</DATE>
+<TOPICS><D>tin</D></TOPICS>
+<PLACES><D>thailand</D><D>singapore</D><D>japan</D><D>uk</D><D>netherlands</D><D>malaysia</D><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;M C
+&#22;&#22;&#1;f0470&#31;reute
+u f BC-THAI-TIN-EXPORTS-RISE   03-05 0052</UNKNOWN>
+<TEXT>&#2;
+<TITLE>THAI TIN EXPORTS RISE IN JANUARY</TITLE>
+<DATELINE>    BANGKOK, March 5 - </DATELINE><BODY>Thailand exported 1,816 tonnes of tin
+metal in January, up from 1,731 in December and 1,330 a year
+ago, the Mineral Resources Department said.
+    It said major buyers last month were Singapore, Japan,
+Britain, the Netherlands, Malaysia and the U.S.
+ REUTER
+&#3;</BODY></TEXT>

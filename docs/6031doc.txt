@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10944" NEWID="6031">
+<DATE>17-MAR-1987 11:28:28.04</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f5398&#31;reute
+d f BC-ERC-&lt;ERC>-GETS-THIRD   03-17 0083</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ERC &lt;ERC> GETS THIRD CONTRACT</TITLE>
+<DATELINE>    FIARFAX, Va., March 17 - </DATELINE><BODY>ERC International said its
+Facilities Management Group subsidiary, ERCI Facilities Service
+Corp, was awarded a 2.1 mln dlrs contract in the drug
+repository field, the third such contract in nine months.
+    It said that under the five-year contract, it will manage
+the National Cancer Institutes's pre-clinical drug repository
+of more than 400,000 drugs and chemicals used to test antitumor
+activity in animals and tissue culture systems.
+ Reuter
+&#3;</BODY></TEXT>

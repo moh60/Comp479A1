@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13003" NEWID="820">
+<DATE> 2-MAR-1987 17:26:06.03</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0211&#31;reute
+r f BC-ARMTEK-&lt;ARM>-TO-SELL   03-02 0095</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ARMTEK &lt;ARM> TO SELL INDUSTRIAL TIRE UNIT</TITLE>
+<DATELINE>    NEW HAVEN, CONN., March 2 - </DATELINE><BODY>Armtek Corp, previously the
+Armstrong Rubber Co, said it agreed to sell its industrial tire
+and assembly division to a Dyneer Corp &lt;DYR> for an undisclosed
+sum.
+    It said the agreement covers the division's tire production
+facility in Clinton, Tenn., and its plants serving original
+equipment and replacement markets. Armstrong Tire Co, an Armtek
+unit, will continue to sell replacement industrial tires, the
+company said.
+    Final closing is expected in the third fiscal quarter
+ending June 30.
+
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9124" NEWID="4211">
+<DATE>12-MAR-1987 09:53:23.60</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>nasdaq</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0034&#31;reute
+d f BC-NASD-NAMES-NEW-BOARD   03-12 0064</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NASD NAMES NEW BOARD MEMBER</TITLE>
+<DATELINE>    WASHINGTON, March 12 - </DATELINE><BODY>The &lt;National Association of
+Securities Dealers> said it has named Jaguar Cars Inc president
+Graham W. Whitehead as one of its three governors-at-large
+representing companies listed on the NASDAQ system.
+    Jaguar Cars is the U.S. marketing arm of Jaguar PLC
+&lt;JAGRY>, which was NASDAQ's third-most-actively traded issue in
+1986.
+ Reuter
+&#3;</BODY></TEXT>

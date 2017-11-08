@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18653" NEWID="2235">
+<DATE> 5-MAR-1987 12:20:54.04</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0913&#31;reute
+u f BC-CHRYSLER-&lt;C>-OVERSEAS   03-05 0105</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CHRYSLER &lt;C> OVERSEAS UNIT REDEEMING DEBENTURES</TITLE>
+<DATELINE>    DETROIT, March 5 - </DATELINE><BODY>Chrysler Overseas Capital Corp said it
+authorized redemption on April 17 of its 4-3/4 pct and five pct
+convertible debentures due 1988.
+    The Chrysler Corp unit said the move is prompted by the
+parent company's three-for-two stock split, which requires a
+recalculation of the debentures' conversion prices that will
+adversely affect those prices by at least five pct.
+    Chrysler said holders converting debentures before the
+stock split becomes effective March 23 will receive a greater
+number of shares on a post-split basis than if they convert
+afterwards.
+ Reuter
+&#3;</BODY></TEXT>

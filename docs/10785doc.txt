@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16846" NEWID="10785">
+<DATE>30-MAR-1987 08:17:29.78</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>france</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0749&#31;reute
+d f BC-RENAULT-PLANS-JOB-CUT   03-30 0094</UNKNOWN>
+<TEXT>&#2;
+<TITLE>RENAULT PLANS JOB CUTS AT BOULOGNE PLANT</TITLE>
+<DATELINE>    PARIS, March 30 - </DATELINE><BODY>State-run carmaker Regie Nationale des
+Usines Renault &lt;RENA.PA> said it plans to cut 1,300 jobs at its
+Boulogne-Billancourt centre in Paris by this summer which will
+reduce its workforce there to 5,500 by June from a current
+6,810.
+    Renault said that in an overall plan to improve
+productivity it planned to reduce the workforce to 5,100 at the
+end of this year.
+    The car firm has already announced its intention to reduce
+its total workforce to 73,000 by end-1987 from 79,000 at the
+end of 1986.
+ REUTER
+&#3;</BODY></TEXT>

@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14091" NEWID="8570">
+<DATE>23-MAR-1987 18:19:05.85</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2641&#31;reute
+r f BC-GEODYNE-&lt;GEOD>-TO-OFF   03-23 0077</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GEODYNE &lt;GEOD> TO OFFER PARTNERSHIP UNITS</TITLE>
+<DATELINE>    TULSA, Okla., March 23 - </DATELINE><BODY>Geodyne Resources Inc said it will
+begin selling immediately 300 mln dlrs worth of limited
+partnership interests in PaineWebber/Geodyne Energy Income
+Program II.
+     The company said a unit will serve as general partner of
+the partnership, which will acquire oil and gas producing
+properties from third parties.
+    PaineWebber &lt;PWJ> will serve as the dealer-manager for the
+offering, it said.
+ Reuter
+&#3;</BODY></TEXT>

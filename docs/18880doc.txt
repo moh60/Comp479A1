@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6632" NEWID="18880">
+<DATE>18-JUN-1987 13:56:09.01</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F 
+&#22;&#22;&#1;f4146&#31;reute
+r f BC-HOLLINGER-&lt;HLG.TO>-BU   06-18 0101</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HOLLINGER &lt;HLG.TO> BUYS CANADIAN MAGAZINE</TITLE>
+<DATELINE>    Toronto, June 18 - </DATELINE><BODY>Hollinger Inc said it purchased Saturday
+Night, a Canadian general-interest magazine.
+    Financial terms were not disclosed, but Hollinger said it
+has no immediate plans for changes in senior editorial
+personnel.
+    Saturday Night, which publishes features and analyses of
+current events, is celebrating its 100th anniversary and has a
+circulation of about 120,000, according to a magazine
+spokesman.
+    Hollinger, which owns 58 pct of &lt;Daily Telegraph PLC>, also
+today completed the acquisition of Unimedia Inc, a Quebec-based
+publisher.
+ Reuter
+&#3;</BODY></TEXT>

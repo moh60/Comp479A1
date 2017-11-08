@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1334" NEWID="16799">
+<DATE>17-APR-1987 08:52:31.05</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0190&#31;reute
+d f BC-GENERAL-HOUSEWARES-CO   04-17 0039</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GENERAL HOUSEWARES CORP &lt;GHW> 1ST QTR NET</TITLE>
+<DATELINE>    STAMFORD, Conn., April 17 -
+    </DATELINE><BODY>Shr two cts vs one ct
+    Net 42,000 vs 26,000
+    Sales 15.6 mln vs 15.2 mln
+    NOTE: 1987 net includes gain 63,000 dlrs from change in
+pension accounting.
+ Reuter
+&#3;</BODY></TEXT>

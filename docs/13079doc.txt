@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="2048" NEWID="13079">
+<DATE> 3-APR-1987 14:52:29.37</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2025&#31;reute
+r f BC-UNITED-WATER-&lt;UWR>-UN   04-03 0108</UNKNOWN>
+<TEXT>&#2;
+<TITLE>UNITED WATER &lt;UWR> UNIT RATE CUT APPROVED</TITLE>
+<DATELINE>    HARRINGTON PARK, N.J., April 3 - </DATELINE><BODY>United Water Resources
+Inc's Hackensack Water Co subsidiary said the New Jersey Board
+of Public Utilities has authorized a 5.9 pct cut in its water
+rates.
+    The company said the cut, which is effective today, is
+expected to reduce its revenues by 5.2 mln dlrs a year.
+    The company also said it probably will not need to seek
+additionalk rate adjustments until the end of 1987. It applied
+in January for a decrease of about 2.3 mln dlrs in annual
+revenues, equal to about three pct. This was adjusted to
+reflect increased water use, and lower power costs and taxes.
+ Reuter
+&#3;</BODY></TEXT>

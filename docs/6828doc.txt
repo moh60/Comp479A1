@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11741" NEWID="6828">
+<DATE>18-MAR-1987 16:31:02.11</DATE>
+<TOPICS><D>jet</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f9457&#31;reute
+u f BC-TEXACO-INC-&lt;TX>-84.1   03-18 0060</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TEXACO INC &lt;TX> 84.1 MLN DLR DEFENSE CONTRACT</TITLE>
+<DATELINE>    WASHINGTON, March 18 - </DATELINE><BODY>Texaco Refining and Marketing Inc is
+being awarded a 84.1 mln dlr Defense Logistics Agency contract
+for jet fuel, the Defense Department said.
+    It said work on the contract, which was awarded as part of
+a multi-contract procurement program, is expected to be
+completed by March 31, 1988.
+ Reuter
+&#3;</BODY></TEXT>

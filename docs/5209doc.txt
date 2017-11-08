@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10122" NEWID="5209">
+<DATE>16-MAR-1987 04:09:11.15</DATE>
+<TOPICS><D>gold</D></TOPICS>
+<PLACES><D>japan</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F RM M C
+&#22;&#22;&#1;f1246&#31;reute
+u f BC-JAPAN'S-DOWA-MINING-T   03-16 0103</UNKNOWN>
+<TEXT>&#2;
+<TITLE>JAPAN'S DOWA MINING TO PRODUCE GOLD FROM APRIL</TITLE>
+<DATELINE>    TOKYO, March 16 - </DATELINE><BODY>&lt;Dowa Mining Co Ltd> said it will start
+commercial production of gold, copper, lead and zinc from its
+Nurukawa Mine in northern Japan in April.
+    A company spokesman said the mine's monthly output is
+expected to consist of 1,300 tonnes of gold ore and 3,700 of
+black ore, which consists of copper, lead and zinc ores.
+    A company survey shows the gold ore contains up to 13.3
+grams of gold per tonne, he said.
+    Proven gold ore reserves amount to 50,000 tonnes while
+estimated reserves of gold and black ores total one mln tonnes,
+he added.
+ REUTER
+&#3;</BODY></TEXT>

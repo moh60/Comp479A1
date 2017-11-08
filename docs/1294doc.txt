@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16614" NEWID="1294">
+<DATE> 3-MAR-1987 15:48:02.22</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F
+&#22;&#22;&#1;f0791&#31;reute
+r f BC-carling-o'keefe-to   03-03 0088</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CARLING O'KEEFE &lt;CKB> TO RETAIN FOOTBALL CLUB</TITLE>
+<DATELINE>    TORONTO, March 3 - </DATELINE><BODY>Carling O'Keefe Ltd said the board
+decided to retain ownership of its Toronto Argonaut Football
+Club, after considering offers to acquire the team.
+    The company said it received a number of expressions of
+interest in buying the club, of which two became formal offers
+to purchase.
+    Neither offer met the company's unspecified requirements
+for selling the football club, Carling said.
+    The Toronto Argonauts are a member of the Canadian Football
+League.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13784" NEWID="8263">
+<DATE>23-MAR-1987 10:03:44.66</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0990&#31;reute
+f f BC-Belgian-three-month-t   03-23 0015</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE> Belgian three-month treasury certificate rate cut 0.10 points to 7.40 pct - official
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

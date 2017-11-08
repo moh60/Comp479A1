@@ -1,0 +1,20 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15687" NEWID="10166">
+<DATE>26-MAR-1987 16:21:58.09</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2564&#31;reute
+r f BC-GE-&lt;GE>-GETS-133.0-ML   03-26 0038</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GE &lt;GE> GETS 133.0 MLN DLR MILITARY CONTRACT</TITLE>
+<DATELINE>    WASHINGTON, March 26 - </DATELINE><BODY>RCA Inc of Moorestown, N.J., a
+division of General Electric, has been awarded a 133.0 mln dlr
+contract for work on the Aegis weapons system, the Navy said.
+ REUTER
+&#3;</BODY></TEXT>

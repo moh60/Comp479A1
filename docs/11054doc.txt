@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17115" NEWID="11054">
+<DATE>30-MAR-1987 15:59:24.50</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2460&#31;reute
+r f BC-3COM-CORP-&lt;COMS>-INTR   03-30 0085</UNKNOWN>
+<TEXT>&#2;
+<TITLE>3COM CORP &lt;COMS> INTRODUCES NEW WORKSTATION</TITLE>
+<DATELINE>    SANTA CLARA, Calif., March 30 - </DATELINE><BODY>3Com Corp said it
+introduced a new network workstation for business applications.
+    The product, called 3Station, is the first in a family of
+network workstations, which will later include a Token Ring
+version, the company said.
+    It said the 3Station is an IBM-compatible 80286-based
+Ethernet product which can be integrated with personal
+computers on a network.
+    The company also said it plans to begin shipments on May
+15.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7466" NEWID="18021">
+<DATE> 2-JUN-1987 10:30:58.70</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A RM
+&#22;&#22;&#1;f1142&#31;reute
+r f BC-NOBLE-AFFILIATES-&lt;NBL   06-02 0112</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NOBLE AFFILIATES &lt;NBL> SELLS CONVERTIBLE DEBT</TITLE>
+<DATELINE>    NEW YORK, June 2 - </DATELINE><BODY>Noble Affiliates Inc is raising 100 mln
+dlrs via an offering of convertible subordinated debentures due
+2012 with a 7-1/4 pct coupon and par pricing, said lead
+underwriter Morgan Stanley and Co Inc.
+    The debentures can be converted into the company's common
+stock at 19.625 dlrs per share, representing a premium of 25.6
+pct over the stock price when terms on the debt were set.
+    Non-callable for three years, the issue is rated Baa-3 by
+Moody's and BBB-plus by Standard and Poor's. Noble Affiliates
+is also offering 125 mln dlrs of 10-1/8 pct notes due 1997
+through a group led by Morgan Stanley.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10153" NEWID="5240">
+<DATE>16-MAR-1987 05:31:50.70</DATE>
+<TOPICS><D>ipi</D></TOPICS>
+<PLACES><D>sweden</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f1407&#31;reute
+u f BC-SWEDISH-INDUSTRIAL-PR   03-16 0073</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SWEDISH INDUSTRIAL PRODUCTION FALLS IN JANUARY</TITLE>
+<DATELINE>    STOCKHOLM, March 16 - </DATELINE><BODY>Sweden's industrial production fell
+1.8 pct during January compared with a fall of 0.8 pct the
+month before and remains unchanged compared with January 1986,
+according to figures from the Central Bureau of Statistics.
+    The bureau attributed the fall to a long Christmas break
+and particularly cold weather, which lowered production in the
+forestry industry.
+ REUTER
+&#3;</BODY></TEXT>

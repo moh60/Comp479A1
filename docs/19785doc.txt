@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="8113" NEWID="19785">
+<DATE>29-JUN-1987 13:49:28.82</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E A RM 
+&#22;&#22;&#1;f1996&#31;reute
+u f BC-CANADA-SETS-NEW-STAND   06-29 0110</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CANADA SETS NEW STANDBY CREDIT FACILITY</TITLE>
+<DATELINE>    OTTAWA, June 29 - </DATELINE><BODY>Finance Minister Michael Wilson announced
+amendments to Canada's revolving standby credit facility with a
+group of Canadian banks to provide more favorable terms
+including a reduced commitment fee and lower-cost borrowing
+options.
+    The size of the facility has also been reduced to three
+billion dlrs U.S. from 3.5 billion dlrs U.S. The maturity
+debate of the new agreement will be June 19, 1992.
+    The move follows similar amendments last November to
+Canada's revolving standby credit facility with international
+banks. The amendments provide a total of seven billion dlrs
+U.S. in standby credit.
+ Reuter
+&#3;</BODY></TEXT>

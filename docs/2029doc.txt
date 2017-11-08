@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18447" NEWID="2029">
+<DATE> 5-MAR-1987 09:45:10.22</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F
+&#22;&#22;&#1;f0115&#31;reute
+r f BC-thomson   03-05 0046</UNKNOWN>
+<TEXT>&#2;
+<TITLE>&lt;INTERNATIONAL THOMSON ORGANISATION LTD> YEAR</TITLE>
+<DATELINE>    TORONTO, Mar 5 -
+    </DATELINE><BODY>Shr 33p vs 38p
+    Net 97 mln vs 111 mln
+    Revs 1.71 billion vs 1.76 billion
+    NOTE: Figures in sterling.
+    Share results after deducting preferred share dividends of
+one mln pounds sterling in 1986.
+ Reuter
+&#3;</BODY></TEXT>

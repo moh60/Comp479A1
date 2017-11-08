@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12130" NEWID="7218">
+<DATE>19-MAR-1987 11:59:12.20</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1455&#31;reute
+r f BC-FINANCIAL-PERFORMANCE   03-19 0069</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FINANCIAL PERFORMANCE &lt;FPCC> PURSUES EXPANSION</TITLE>
+<DATELINE>    NEW YORK, March 19 - </DATELINE><BODY>Financial Performance Corp said it
+continued its rapid expansion with a signing of a partnership
+agreement with Gold Sierra Financial Advisors, founded by
+former Bank of America officers in capital markets.
+    It said the agreement, under which it owns 50 pct of the
+partnership, enables it to move into the mergers and
+acquisitions business.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9366" NEWID="4453">
+<DATE>12-MAR-1987 15:11:44.63</DATE>
+<TOPICS><D>crude</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;Y
+&#22;&#22;&#1;f0217&#31;reute
+u f BC-SUN-&lt;SUN>-RAISES-CRUD   03-12 0069</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SUN &lt;SUN> RAISES CRUDE POSTINGS 50 CTS</TITLE>
+<DATELINE>    New York, March 12 - </DATELINE><BODY>Sun Co said it raised the contract
+price it will pay for crude oil 50 cts a barrel, effective
+today.
+    The increase brings Sun's posted price for the West Texas
+Intermediate and West Texas Sour grades to 17.50 dlrs/bbl. The
+Light Louisiana Sweet grade was also raised 50 cts to 17.85
+dlrs/bbl.
+    Sun Co last changed its crude postings on March 4.
+ Reuter
+&#3;</BODY></TEXT>

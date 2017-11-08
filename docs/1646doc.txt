@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18064" NEWID="1646">
+<DATE> 4-MAR-1987 13:20:44.59</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;M
+&#22;&#22;&#1;f0196&#31;reute
+d f BC-FORD-CANADA-FEBRUARY   03-04 0053</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FORD CANADA FEBRUARY CAR SALES OFF SIX PCT</TITLE>
+<DATELINE>    OAKVILLE, Ontario, March 4 - </DATELINE><BODY>Ford Motor Co of Canada, 90
+pct-owned by Ford Motor Co, said February car sales fell six
+pct to 13,734 units from year-earlier 14,589 units.
+    Year-to-date car sales fell one pct to 25,534 units from
+25,851 units the previous year, it said.
+ Reuter
+&#3;</BODY></TEXT>

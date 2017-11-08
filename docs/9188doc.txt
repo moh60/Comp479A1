@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14709" NEWID="9188">
+<DATE>25-MAR-1987 05:46:06.54</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>west-germany</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0362&#31;reute
+r f BC-VEBA-PLACEMENT-CONTIN   03-25 0116</UNKNOWN>
+<TEXT>&#2;
+<TITLE>VEBA PLACEMENT CONTINUES FOR SMALL SHAREHOLDERS</TITLE>
+<DATELINE>    FRANKFURT, March 25 - </DATELINE><BODY>The placement of 10.1 mln government
+owned shares in Veba AG &lt;VEBG.F> is still open for small
+shareholders but lead manager Deutsche Bank AG &lt;DBKG.F> has
+already closed its books for institutional investors, a
+Deutsche spokesman said in answer to queries.
+    Under the terms of the placement which opened on Monday,
+small shareholders were given priority for three days so that
+this privilege will not lapse until close of business today.
+    Consortium banks set aside fixed amounts for small
+shareholders. The spokesman could not say how big these were,
+or whether other banks had closed books for institutions.
+ REUTER
+&#3;</BODY></TEXT>

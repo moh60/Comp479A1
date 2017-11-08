@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17523" NEWID="11461">
+<DATE>31-MAR-1987 12:30:16.65</DATE>
+<TOPICS><D>trade</D></TOPICS>
+<PLACES><D>usa</D><D>japan</D></PLACES>
+<PEOPLE><D>yeutter</D></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM F A
+&#22;&#22;&#1;f1783&#31;reute
+u f BC-U.S.-JAPAN-NOT-IN-TRA   03-31 0106</UNKNOWN>
+<TEXT>&#2;
+<TITLE>U.S.-JAPAN NOT IN TRADE WAR, YEUTTER SAYS</TITLE>
+<DATELINE>    WASHINGTON, March 31 - </DATELINE><BODY>The United States and Japan are not
+involved in a trade war, despite U.S. sanctions announced last
+week against Japanese semiconductors, U.S. Trade Representative
+Clayton Yeutter said.
+    "In my judgement, we're not even close to a trade war,"
+Yeutter told a House Agriculture Committee hearing.
+    Yeutter said if Japan takes action to honor its agreement
+with the U.S. on semiconductor trade, "Then the retaliatory
+response will last a relatively short period."
+    Yeutter said Japan must stop dumping chips in third
+countries and buy more American computer chips.
+ Reuter
+&#3;</BODY></TEXT>

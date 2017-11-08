@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="8299" NEWID="19971">
+<DATE>29-JUN-1987 18:52:07.02</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F A 
+&#22;&#22;&#1;f2801&#31;reute
+r f BC-ELSINORE-&lt;ELS>-SETS-D   06-29 0087</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ELSINORE &lt;ELS> SETS DEPOSIT ON BONDS</TITLE>
+<DATELINE>    LAS VEGAS, June 29 - </DATELINE><BODY>Elsinore Corp said it deposited
+5,795,833 dlrs with Manufacturers Hanover Trust Co  the trustee
+of its Elsinore Finance Corp unit's 15-1/2 pct senior mortgage
+bonds due 1999.
+    The deposit represents the balance of accrued and unpaid
+interest on the bonds thorugh June 30, 1986.
+    Elsinore Corp has guaranteed payment on the bonds. Payment
+of this amount, about 50.40 dlrs per 1,000 dlrs principal, will
+be made on July 14 to shareholders of record July 13.
+
+ Reuter
+&#3;</BODY></TEXT>

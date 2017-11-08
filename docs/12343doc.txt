@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="571" NEWID="12343">
+<DATE> 1-APR-1987 17:16:08.30</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2579&#31;reute
+d f BC-TENERA-&lt;TLPZV>-PLANS   04-01 0064</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TENERA &lt;TLPZV> PLANS TO BUY BACK LP UNITS</TITLE>
+<DATELINE>    BERKELEY, Calif., April 1 - </DATELINE><BODY>Tenera LP said it plans to
+periodically repurchase up to 200,000 limited partnership units
+in the open market.
+    The timing and amount of the proposed purchases will depend
+on the prevailing market price and trading volumes in the units
+to comply with Securities and Exchange Commission regulators,
+Tenera said.
+ Reuter
+&#3;</BODY></TEXT>

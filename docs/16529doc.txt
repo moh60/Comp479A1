@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1064" NEWID="16529">
+<DATE>13-APR-1987 13:33:13.14</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2036&#31;reute
+d f BC-&lt;SCAN-GRAPHICS-INC>IN   04-13 0044</UNKNOWN>
+<TEXT>&#2;
+<TITLE>&lt;SCAN-GRAPHICS INC>IN MCDONNELL DOUGLAS&lt;MD> PACT</TITLE>
+<DATELINE>    BROOMALL, Pa., April 13 - </DATELINE><BODY>Scan-Graphics Inc said it has
+received about 500,000 dlrs in orders for its new CF1000
+Scanner and RAVE software, a document scanning and vectorizing
+system, from McDonnell Douglas Corp.
+ Reuter
+&#3;</BODY></TEXT>

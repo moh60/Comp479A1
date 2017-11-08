@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="BYPASS" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="3295" NEWID="14312">
+<DATE> 7-APR-1987 12:23:46.79</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f1556&#31;reute
+b f BC-LONDON-EXCHANGES---SD   04-07 0050</UNKNOWN>
+<TEXT>&#2;
+<TITLE>LONDON EXCHANGES - SDR CALCULATION</TITLE>
+<DATELINE>    LONDON, April 7 - </DATELINE><BODY>The following information
+ has been advised by the Bank of England to the
+ International Monetary Fund in Washington to
+ enable calculation of the value of the SDR -
+ middle spot rates at noon today.
+ DMK 1.8216
+ FFR 6.0612
+ YEN 145.15
+ STG 1.6198
+&#3;</BODY></TEXT>

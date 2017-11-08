@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15487" NEWID="9968">
+<DATE>26-MAR-1987 11:39:07.56</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1536&#31;reute
+h f BC-BALLY-&lt;BLY>-NAMES-NEW   03-26 0062</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BALLY &lt;BLY> NAMES NEW CHIEF FINANCIAL OFFICER</TITLE>
+<DATELINE>    CHICAGO, March 26 - </DATELINE><BODY>Bally Manufacturing Corp said it has
+elected Paul Johnson a vice president and named him chief
+financial officer, replacing Donald Romans, who took early
+retirement.
+    Bally also said it has appointed Jerry Blumenshine,
+formerly a vice president, treasurer to fill the position left
+vacant by Johnson.
+ Reuter
+&#3;</BODY></TEXT>

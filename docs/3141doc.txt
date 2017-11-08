@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19563" NEWID="3141">
+<DATE> 9-MAR-1987 11:09:44.81</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F E
+&#22;&#22;&#1;f0503&#31;reute
+r f BC-GOLDEN-TECH-RESOURCES   03-09 0050</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GOLDEN TECH RESOURCES &lt;GTS.V> UNIT NOTES SALES</TITLE>
+<DATELINE>    VANCOUVER, British Columbia, March 9 - </DATELINE><BODY>International
+Geosystems Corp, a subsidiary of Golden Tech Resources, said
+recent orders of its TianMa Chinese Language word processing
+system have brought year-to-date sales to more than 2,900,000
+Canadian dlrs.
+ Reuter
+&#3;</BODY></TEXT>

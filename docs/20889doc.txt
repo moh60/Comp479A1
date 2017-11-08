@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20548" NEWID="20889">
+<DATE>19-OCT-1987 18:21:36.25</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f3356&#31;reute
+d f BC-NAT'L-PROCESSING-&lt;FKY   10-19 0067</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NAT'L PROCESSING &lt;FKYN.O>, CHRYSLER &lt;C> IN PACT</TITLE>
+<DATELINE>    LOUISVILLE, Ky., Oct 19 - </DATELINE><BODY>National Processing Co INc said
+it signed a contract with Chrylser Corp's Chrysler Financial
+Corp unit to process its loan payment trasactions beginning
+February 1988.
+    Terms weren't disclosed.
+    National said that more than four mln transactions are
+expected to be processed for Chrysler each year under the
+contract.
+ Reuter
+&#3;</BODY></TEXT>

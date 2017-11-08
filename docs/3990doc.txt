@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="8903" NEWID="3990">
+<DATE>11-MAR-1987 17:34:42.64</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0782&#31;reute
+d f BC-&lt;BROAD>-ACQUIRES-&lt;VOG   03-11 0062</UNKNOWN>
+<TEXT>&#2;
+<TITLE>&lt;BROAD> ACQUIRES &lt;VOGT AND CONANT> UNIT</TITLE>
+<DATELINE>    RIVER ROUGE, Mich., March 11 - </DATELINE><BODY>Broad Corp said it acquired
+the construction activities of Vogt and Conant Co of Cleveland.
+    The combined companies, to be called Broad, Vogt and Conant
+INc, will be the largest structural steel erection company in
+the U.S. Combined sales of the two operations were more than 40
+mln dlrs in 1986.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5903" NEWID="17565">
+<DATE> 1-JUN-1987 10:50:45.92</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1238&#31;reute
+u f BC-THOMPSON-MEDICAL-&lt;TM>   06-01 0060</UNKNOWN>
+<TEXT>&#2;
+<TITLE>THOMPSON MEDICAL &lt;TM> TENDER OVERSUBSCRIBED</TITLE>
+<DATELINE>    NEW YORK, June 1 - </DATELINE><BODY>Thompson Medical co Inc said it received
+about 1,290,000 of its common shares in response to its tender
+offer for up to one mln at 20 dlrs each, and as a result the
+proration percentage is expected to be about 77.5 pct.
+    The company said payment for the shares is expected to
+start June 12.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7092" NEWID="19256">
+<DATE>19-JUN-1987 12:25:10.55</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1516&#31;reute
+r f BC-BOEING-&lt;BA>-MERGER-WA   06-19 0055</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BOEING &lt;BA> MERGER WAITING PERIOD EXPIRES</TITLE>
+<DATELINE>    SEATTLE, June 19 - </DATELINE><BODY>Boeing Co said the Hart-Scott-Rodino
+waiting period required in connection with its pending tender
+offer for ArgoSystems Inc &lt;ARGI.O> expired at midnight June 18.
+    Boeing began its 37 dlr per share cash tender offer for the
+defense electronics firm on June two.
+ Reuter
+&#3;</BODY></TEXT>

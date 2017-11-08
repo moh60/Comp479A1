@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20338" NEWID="21099">
+<DATE>19-OCT-1987 14:21:13.90</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C 
+&#22;&#22;&#1;f2527&#31;reute
+d f BC-UK-SEEKS-WINDING-UP-O   10-19 0098</UNKNOWN>
+<TEXT>&#2;
+<TITLE>UK SEEKS WINDING UP OF JAMES TENNANT COMMODITIES</TITLE>
+<DATELINE>    LONDON, Oct 19 - </DATELINE><BODY>The U.K. Government said it would seek the
+compulsory winding up of James Tennant Commodities Ltd on
+grounds of public interest and that details would be heard in
+the High Court on November 18.
+    A Department of Trade and Industry spokesman said that
+James Tennant was relatively small and that its activities had
+concentrated on allowing investors to participate in pooled
+trading schemes in commodity futures.
+    No application had been made for the appointment of a
+provisional liquidator in the case, he added.
+ Reuter
+&#3;</BODY></TEXT>

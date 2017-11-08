@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="BYPASS" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="2656" NEWID="13673">
+<DATE> 7-APR-1987 09:00:06.23</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C L
+&#22;&#22;&#1;f0687&#31;reute
+u f BC-SIOUX-CITY-CATTLE-SEE   04-07 0060</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SIOUX CITY CATTLE SEEN UP 0.50-1.00 DLR-PRIVATE</TITLE>
+<DATELINE>    Sioux City, April 7 - Sunny/34 degrees - </DATELINE><BODY>Cattle prices
+expected 0.50 to 1.00 dlr higher on estimated receipts of 900
+head, private sources said. Steer top seen at 67.00 to 67.50
+and Heifers at 66.00 dlrs.
+    Sources expect support from good buyer demand influenced by
+higher trending wholesale carcass beef.
+ Reuter
+&#3;</BODY></TEXT>

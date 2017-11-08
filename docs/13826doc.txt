@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="2809" NEWID="13826">
+<DATE> 7-APR-1987 10:05:32.06</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0899&#31;reute
+r f BC-PHOTON-TECHNOLOGY-&lt;PH   04-07 0081</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PHOTON TECHNOLOGY &lt;PHON> FINALIZES AGREEMENT</TITLE>
+<DATELINE>    PRINCETON, N.J., April 7 - </DATELINE><BODY>Photon Technology International
+said it signed a research and development agreement with &lt;M-L
+Technology Ventures L.P.>, a research and development limited
+partnership sponsored by Merrill Lynch Capital Markets
+   The agreement calls for MLTV to pay Photon more than 3.1 mln
+dlrs over a three-year period to develop new electro-optical
+technologies with applications in the medical field, the
+company said.
+    In 1988, MLTV may, at its option, have the right to acquire
+warrants to purchase, during the next six years, 475,000 shares
+of the company's common stock at 6.50 dlrs per share, adjusted
+for future earnings, Photon said.
+ Reuter
+&#3;</BODY></TEXT>

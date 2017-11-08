@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="814" NEWID="16279">
+<DATE>13-APR-1987 10:05:52.85</DATE>
+<TOPICS><D>coffee</D></TOPICS>
+<PLACES><D>colombia</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C T
+&#22;&#22;&#1;f0994&#31;reute
+b f BC-colombia-june-coffee   04-13 0057</UNKNOWN>
+<TEXT>&#2;
+<TITLE>COLOMBIA JUNE COFFEE REGISTRATIONS OPENED</TITLE>
+<DATELINE>    BOGOTA, April 13 - </DATELINE><BODY>Colombia has opened coffee
+registrations for June shipment with no limit set for private
+exporters, as in April and May, a National Coffee Growers'
+Federation official said.
+    Colombia has sold an average of 900,000 bags per month
+since the beginning of the calendar year.
+ Reuter
+&#3;</BODY></TEXT>

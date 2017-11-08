@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4343" NEWID="15360">
+<DATE> 8-APR-1987 17:46:02.99</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2723&#31;reute
+h f BC-SELAS-CORP-OF-AMERICA   04-08 0053</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SELAS CORP OF AMERICA &lt;SLS> SETS SALE/LEASEBACK</TITLE>
+<DATELINE>    DRESHER, Pa., April 8 - </DATELINE><BODY>Selas Corp of America said it
+signed a letter of intent for a three mln dlr sale and
+leaseback of its corporate offices and plants.
+    The sale is subject to a number of conditions, including
+approval by the board and the unidentified buyer.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7153" NEWID="19317">
+<DATE>19-JUN-1987 13:46:46.90</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1866&#31;reute
+h f BC-PACIFIC-INTERNATIONAL   06-19 0047</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PACIFIC INTERNATIONAL &lt;PISC.O> TO OFFER DEBT</TITLE>
+<DATELINE>     HONOLULU, June 19 - </DATELINE><BODY>Pacific International Services Corp
+said it plans to register with the Securities and Exchange
+Commission in July to issue convertible subordinated
+debentures.
+    The company did not detail the prospective offering.
+ Reuter
+&#3;</BODY></TEXT>

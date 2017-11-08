@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14748" NEWID="9227">
+<DATE>25-MAR-1987 07:43:05.88</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>thailand</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G T
+&#22;&#22;&#1;f0578&#31;reute
+u f BC-SEVERE-DROUGHT-AFFECT   03-25 0104</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SEVERE DROUGHT AFFECTS EAST, NORTHEAST THAILAND</TITLE>
+<DATELINE>    BANGKOK, March 25 - </DATELINE><BODY>A severe drought has affected 170,560
+hectares of farmlands in six eastern and northeastern
+provinces, Interior Permanent Secretary Pisarn Mulasartsathorn
+said.
+    He told reporters some 178,790 farming families in 45
+districts in Chaiyaphum, Korat, Phrae, Chainat, Rayong and Trat
+provinces were seeking relief water from the government.
+    The official did not say what crops have been damaged.
+    Senior Interior Ministry officials said this week the worse
+than average drought this year has affected 14 provinces and
+may last until early May.
+ REUTER
+&#3;</BODY></TEXT>

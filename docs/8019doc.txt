@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13540" NEWID="8019">
+<DATE>20-MAR-1987 17:23:12.99</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2549&#31;reute
+r f BC-MORTON-THIOKOL-&lt;MTI>   03-20 0061</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MORTON THIOKOL &lt;MTI> GETS 61.4 MLN DLR CONTRACT</TITLE>
+<DATELINE>    WASHINGTON, March 20 - </DATELINE><BODY>Morton Thiokol Inc's Wasatch
+Operations is being awarded a 61.4 mln dlr contract
+modification finalizing a previously awarded contract for
+missile rocket motors for Terrier, Tarter and Aegis ships, the
+Defense Department said.
+    It said the work is expected to be completed in October 
+1987.
+ Reuter
+&#3;</BODY></TEXT>

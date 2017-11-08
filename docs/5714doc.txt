@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10627" NEWID="5714">
+<DATE>16-MAR-1987 16:58:18.84</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F
+&#22;&#22;&#1;f3690&#31;reute
+r f BC-vulcan-packaging   03-16 0053</UNKNOWN>
+<TEXT>&#2;
+<TITLE>VULCAN PACKAGING &lt;VIPLF> SETS ISSUER BID</TITLE>
+<DATELINE>    TORONTO, March 16 - </DATELINE><BODY>Vulcan Packaging Inc said it received
+regulatory approval for a normal course issuer bid, allowing
+the company to acquire for cancellation up to five pct of
+outstanding common shares on the Toronto Stock Exchange between
+April 24, 1987 and April 23, 1988.
+ Reuter
+&#3;</BODY></TEXT>

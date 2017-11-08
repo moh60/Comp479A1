@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="8352" NEWID="267">
+<DATE> 1-MAR-1987 23:58:46.85</DATE>
+<TOPICS><D>meal-feed</D><D>copra-cake</D></TOPICS>
+<PLACES><D>indonesia</D><D>philippines</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;G C
+&#22;&#22;&#1;f0559&#31;reute
+r f BC-INDONESIA-UNLIKELY-TO   03-01 0094</UNKNOWN>
+<TEXT>&#2;
+<TITLE>INDONESIA UNLIKELY TO IMPORT PHILIPPINES COPRA</TITLE>
+<DATELINE>    JAKARTA, March 2 - </DATELINE><BODY>Indonesia is unlikely to import copra
+from the Philippines in 1987 after importing 30,000 tonnes in
+1986, the U.S. Embassy's annual agriculture report said.
+    The report said the 31 pct devaluation of the Indonesian
+rupiah, an increase in import duties on copra and increases in
+the price of Philippines copra have reduced the margin between
+prices in the two countries.
+    Indonesia's copra production is forecast at 1.32 mln tonnes
+in calendar 1987, up from 1.30 mln tonnes in 1986.
+ REUTER
+&#3;</BODY></TEXT>

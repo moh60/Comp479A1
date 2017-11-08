@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="BYPASS" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="3121" NEWID="14138">
+<DATE> 7-APR-1987 11:38:21.08</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;G
+&#22;&#22;&#1;f1326&#31;reute
+r f BC-KANSAS-CITY-CARLOTS-A   04-07 0065</UNKNOWN>
+<TEXT TYPE="UNPROC">&#2;
+KANSAS CITY CARLOTS AS OF April 7
+           Shipments          Receipts
+          Today     Yr Ago    Today   Yr Ago
+ Wheat    133        44         52       4
+ Corn     143        47         16       7
+ Grain
+ Sorghum    5         2         22      --
+ Soybns    28        37         30       7
+ Bran &amp;
+ Shorts    --        --         --      --
+ Flour      2         2         --      --
+ Reuter
+&#3;
+
+</TEXT>

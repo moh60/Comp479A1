@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12625" NEWID="442">
+<DATE> 2-MAR-1987 10:29:07.31</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0682&#31;reute
+b f BC-CORNING-&lt;GLW>,-HAZLET   03-02 0083</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CORNING &lt;GLW>, HAZLETON &lt;HLC> SET EXCAHNGE RATIO</TITLE>
+<DATELINE>    CORNING, N.Y., March 2 - </DATELINE><BODY>Corning Glass Works said the
+exchange ratio for its previously announced acquisition of
+Hazleton Laboratories Corp has been established at 0.5165
+Corning common share for each Hazleton common share.
+    Corning said the prospectus regarding the merger is
+expected to be mailed tomorrow to all Hazleton holders of
+record February 18. Hazleton shareholders will vote on the
+proposed merger at a special meeting on March 31.
+ Reuter
+&#3;</BODY></TEXT>

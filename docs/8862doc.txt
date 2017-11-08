@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14383" NEWID="8862">
+<DATE>24-MAR-1987 12:21:25.14</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F
+&#22;&#22;&#1;f1657&#31;reute
+d f BC-GIANT-BAY-&lt;GBYLF>,-YE   03-24 0103</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GIANT BAY &lt;GBYLF>, YELLOWKNIFE &lt;GYK> APPROVE DEAL</TITLE>
+<DATELINE>    VANCOUVER, British Columbia, March 24 - </DATELINE><BODY>Giant Bay Resources
+Ltd said its and Giant Yellowknife Mines Ltd's directors
+approved a previously announced plan to build and operate an
+ore bioleach plant at Giant Yellowknife's Salmita Mill in the
+Northwest Territories.
+    It added that it also received regulatory approval for the
+first of the private placements and warrants to be issued under
+the pact.
+    The program, expected to start operating by the end of
+April, will cost about 750,000 dlrs, with Giant Bay's share
+expected to total up to 450,000 dlrs, it said.
+ Reuter
+&#3;</BODY></TEXT>

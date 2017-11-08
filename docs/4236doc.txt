@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9149" NEWID="4236">
+<DATE>12-MAR-1987 10:19:32.05</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>france</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>pse</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0141&#31;reute
+d f BC-FRANCE-PLANS-TIGHTER   03-12 0106</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FRANCE PLANS TIGHTER SHAREHOLDING DISCLOSURE LEVELS</TITLE>
+<DATELINE>    PARIS, March 12 - </DATELINE><BODY>The French government plans new
+legislation this year which will lower the thresholds at which
+investors in companies must declare their shareholdings, Bourse
+officials said.
+    The new rules, part of a scheme to provide more openness in
+corporate ownership structure, will lower the initial
+declaration threshold to five pct of a company's capital.
+    Under current rules, an investor has to notify the Bourse
+supervisory commission when a holding exceeds 10 pct, and again
+at 33 pct and 50 pct. The officials said a 20 pct level has
+also been added to the scale.
+ Reuter
+&#3;</BODY></TEXT>

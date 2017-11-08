@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="3148" NEWID="14165">
+<DATE> 7-APR-1987 11:43:16.57</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1361&#31;reute
+w f BC-UNIVERSITY-&lt;UPT>-REPO   04-07 0054</UNKNOWN>
+<TEXT>&#2;
+<TITLE>UNIVERSITY &lt;UPT> REPORTS MARCH LENS SALE</TITLE>
+<DATELINE>    WESTPORT, Conn., April 7 - </DATELINE><BODY>University Patents Inc said its
+optical products subsidiary sold 5,652 Alges soft bifocal
+contact lenses in March, after allowances for exchanges and
+returns.
+    The lenses were approved for marketing in April 1986 by the
+Food and Drug Administration.
+ Reuter
+&#3;</BODY></TEXT>

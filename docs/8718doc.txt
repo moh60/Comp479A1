@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14239" NEWID="8718">
+<DATE>24-MAR-1987 09:14:26.58</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F
+&#22;&#22;&#1;f0849&#31;reute
+r f BC-central-capital-sets   03-24 0085</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CENTRAL CAPITAL SETS 100 MLN DLR SHARE ISSUE</TITLE>
+<DATELINE>    HALIFAX, Nova Scotia, March 24 - </DATELINE><BODY>&lt;Central Capital Corp>
+said it filed a final prospectus in all provinces for a 100 mln
+dlr offering of 7-5/8 pct cumulative redeemable retractable
+senior preferred shares, series A.
+    Net proceeds will be used to expand financial intermediary
+activities of the Central Capital group of companies and for
+general corporate purposes, it said.
+    Underwriters are Wood Gundy Inc, Dominion Securities Inc
+and Midland Doherty Ltd.
+ Reuter
+&#3;</BODY></TEXT>

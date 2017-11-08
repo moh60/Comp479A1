@@ -1,0 +1,32 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="NOT-USED" CGISPLIT="PUBLISHED-TESTSET" OLDID="21492" NEWID="12635">
+<DATE> 2-APR-1987 12:12:24.64</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>canada</D><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F
+&#22;&#22;&#1;f1661&#31;reute
+r f BC-mitel   04-02 0077</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BRITISH TELECOM &lt;BTY> GIVES CTG TO MITEL &lt;MLT></TITLE>
+<DATELINE>    OTTAWA, April 2 - </DATELINE><BODY>British Telecommunications PLC has
+transferred the information systems division of its wholly
+owned Canadian subsidiary, CTG Inc, to 51-pct-owned Mitel Corp,
+Mitel said.
+    It said the transfer was designed to strengthen Mitel's
+position in the Canadian market.
+    British Telecom acquired 51 pct of Mitel in March, 1986,
+while CTG became a wholly owned British Telecom subsidiary in
+May, 1985.
+    Mitel said the transfer of holdings represents a
+restructuring of British Telecom's private branch exchange
+(PBX) interests in Canada.
+    It said the CTG unit will become the center of a newly
+formed Mitel direct sales division, which will sell SX-2000
+products to major Canadian business customers.
+ Reuter
+&#3;</BODY></TEXT>

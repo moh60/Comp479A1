@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13897" NEWID="8376">
+<DATE>23-MAR-1987 12:29:48.83</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1645&#31;reute
+d f BC-LOPAT-&lt;LPAT>-NAMES-WE   03-23 0061</UNKNOWN>
+<TEXT>&#2;
+<TITLE>LOPAT &lt;LPAT> NAMES WEST COAST DISTRIBUTOR</TITLE>
+<DATELINE>    WANAMASSA, N.J., March 23 - </DATELINE><BODY>Lopat Industries Inc said &lt;BKK
+Inc>'s Falcon Disposal Service Inc has agreed to become the
+exclusive distributor of Lopat's K-20 toxic waste clean up
+products in 12 western states.
+    Lopat said Falcon's sales specified under the agreement are
+targeted at 43 mln dlrs over the next 54 months.
+ Reuter
+&#3;</BODY></TEXT>

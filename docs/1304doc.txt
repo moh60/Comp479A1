@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16624" NEWID="1304">
+<DATE> 3-MAR-1987 15:54:28.03</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0822&#31;reute
+r f BC-APPLIED-MAGNETICS-&lt;AP   03-03 0061</UNKNOWN>
+<TEXT>&#2;
+<TITLE>APPLIED MAGNETICS &lt;APM> NAMES OFFICERS</TITLE>
+<DATELINE>    GOLETA, Calif., March 3 - </DATELINE><BODY>Applied Magnetics Corp said its
+board named Ben Newitt to the new position of vice chairman and
+as chief executive officer.
+    Newitt, who had been president and chief executive officer,
+is succeeded as president by William Anderson, who had been
+executive vice president and chief operating officer.
+ Reuter
+&#3;</BODY></TEXT>

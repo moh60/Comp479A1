@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13738" NEWID="8217">
+<DATE>23-MAR-1987 08:56:47.81</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0777&#31;reute
+d f BC-&lt;MICROTEL-INC>-MAKES   03-23 0069</UNKNOWN>
+<TEXT>&#2;
+<TITLE>&lt;MICROTEL INC> MAKES ACQUISITION</TITLE>
+<DATELINE>    BOCA RATON, Fla., March 23 - </DATELINE><BODY>Microtel Inc said it has
+completed the acquisition of &lt;American Teledata Corp> and its
+US Dial subsidiary, which provide long distance telephone
+service in northeast Florida. Terms were not disclosed.
+    Microtel's shareholders include Norfolk Southern Corp
+&lt;NSC>, M/A-Com Inc &lt;MAI>, Centel Corp &lt;CNT>, Alltel Corp &lt;AT>
+and E.F. Hutton Group Inc &lt;EFH>.
+ Reuter
+&#3;</BODY></TEXT>

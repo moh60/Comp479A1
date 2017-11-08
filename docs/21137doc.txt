@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20300" NEWID="21137">
+<DATE>19-OCT-1987 13:56:20.35</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2420&#31;reute
+d f BC-ENSECO-&lt;NCCO.O>-GETS   10-19 0048</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ENSECO &lt;NCCO.O> GETS EPA CONTRACT</TITLE>
+<DATELINE>    CAMBRIDGE, Mass, Oct 19 - </DATELINE><BODY>Enseco Inc said it has received
+4,600,000 dlrs in contract from the U.S. Environmental
+Protection Agency to test samples in support of the Superfund
+program over a 30-month period and to perform special
+analytical services.
+ Reuter
+&#3;</BODY></TEXT>

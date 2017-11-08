@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="8086" NEWID="19758">
+<DATE>29-JUN-1987 13:05:03.27</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1846&#31;reute
+u f BC-CAREMARK-&lt;CMRK.O>-TO   06-29 0092</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CAREMARK &lt;CMRK.O> TO VOTE BAXTER &lt;BAX> MERGER</TITLE>
+<DATELINE>    NEWPORT BEACH, Calif., June 29 - </DATELINE><BODY>Caremark Inc and Baxter
+Travenol Laboratories Inc jointly announced that Caremark
+shareholders will vote on July 31 to approve the previously
+announced merger with Baxter.
+    The companies said Caremark shareholders of record as of
+June 26 will be entitled to vote at the meeting to be held in
+Newport Beach, Calif, at 1000 PDT.
+    On May 11, Baxter and Carmark announced a definitive
+agreement for Baxter to acquire Carmark in a stock transaction
+valued at 528 mln dlrs.
+ Reuter
+&#3;</BODY></TEXT>

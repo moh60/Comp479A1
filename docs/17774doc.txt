@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6112" NEWID="17774">
+<DATE> 1-JUN-1987 15:46:15.27</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2315&#31;reute
+d f BC-FIRST-PHILADELPHIA-UN   06-01 0106</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FIRST PHILADELPHIA UNIT FILES FOR CHAPTER 11</TITLE>
+<DATELINE>    PHILADELPHIA, June 1 - </DATELINE><BODY>&lt;First Philadelphia Corp> said its
+Computone Systems Inc unit filed a chapter 11 plan for with the
+U.S. Bankruptcy Court in Atlanta.
+    Subject to confirmation by the court of the plan, the
+assets of Computone's two operating divisions would be
+transferred to CPX Inc, a wholly-owned subsidiary of First
+Philadelphia, the company said.
+    First Philadelphia said it is in the process of raising
+1,750,000 dlrs to complement it initial investment of 750,000
+dlrs to fund the cost of the reorganization and provide ongoing
+capital for existing Computone businesses.
+ Reuter
+&#3;</BODY></TEXT>

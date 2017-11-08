@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="BYPASS" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="2382" NEWID="13399">
+<DATE> 7-APR-1987 04:02:56.40</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C T
+&#22;&#22;&#1;f0149&#31;reute
+u f BC-TOKYO-RUBBER-FUTURES   04-07 0082</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TOKYO RUBBER FUTURES CLOSE QUIETLY LOWER</TITLE>
+<DATELINE>    TOKYO, April 7 - </DATELINE><BODY>Rubber futures closed 0.2 to 0.9 yen per
+kilo down except nearby June which was unchanged at 125.2,
+despite a higher Singapore market this morning, dealers said.
+    Prices maintained their decline all day after opening
+easier on sporadic stoploss selling due to the dollar's slight
+drop against the yen but nearby and mid-term months recovered
+slightly at the second afternoon session on small-lot buying in
+thin trading.
+ REUTER
+&#3;</BODY></TEXT>

@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="8194" NEWID="19866">
+<DATE>29-JUN-1987 15:37:22.70</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2344&#31;reute
+d f BC-UNITED-MEDICAL-CORP-&lt;   06-29 0086</UNKNOWN>
+<TEXT>&#2;
+<TITLE>UNITED MEDICAL CORP &lt;UM> SELLS UNIT</TITLE>
+<DATELINE>    HADDONFIELD, N.J., June 29 - </DATELINE><BODY>United Medical Corp said it
+will sell its Trotter Treadmills Inc unit.
+    The company said the sale is in line with its strategy of
+refocusing on its health care service business. It said it had
+received interest from several parties, but no agreement has
+yet been reached.
+    Trotter Treadmills makes motorized treadmills for the
+exercise enthusiast and fitness club market. It said its sales
+for this year are projected to be over 10 mln dlrs.
+
+ Reuter
+&#3;</BODY></TEXT>

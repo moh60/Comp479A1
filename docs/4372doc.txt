@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9285" NEWID="4372">
+<DATE>12-MAR-1987 13:26:52.71</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0932&#31;reute
+r f BC-VOLT-INFORMATION-SCIE   03-12 0084</UNKNOWN>
+<TEXT>&#2;
+<TITLE>VOLT INFORMATION SCIENCES INC &lt;VOLT> 1ST QTR</TITLE>
+<DATELINE>    NEW YORK, March 12 -
+    </DATELINE><BODY>Shr 12 cts vs seven cts
+    Net 817,000 vs 512,000
+    Revs 107.5 mln vs 99.9 mln
+    Avg 6.9 mln vs 7.2 mln
+    NOTE: 1987 net includes 2.4 mln dlr pretax gain on
+settlement, 743,000 dlrs gain on securities sale, interest
+expense net of investment income of 2.2 mln dlrs and 920,000
+dlrs in fiscal 1986. Change of European operations method
+resulted in pre-tax translation losses of 1.1 mln dlrs in 1987.
+Period ended January 30.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1245" NEWID="16710">
+<DATE>13-APR-1987 17:19:41.69</DATE>
+<TOPICS><D>crude</D></TOPICS>
+<PLACES><D>canada</D><D>egypt</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F Y
+&#22;&#22;&#1;f2693&#31;reute
+r f BC-GULF-CANADA-&lt;GOC>-ACQ   04-13 0100</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GULF CANADA &lt;GOC> ACQUIRES SUEZ OIL STAKE</TITLE>
+<DATELINE>    CALGARY, Alberta, April 13 - </DATELINE><BODY>Gulf Canada Corp said it
+acquired a 25 pct working interest in the Gulf of Suez oil
+concession for undisclosed terms.
+    The company said its agreement with operator Conoco
+Hurghada Inc and Hispanoil covered the 168,374-acre East
+Hurghada offshore concession. It said a 15.6 mln U.S. dlr
+four-well program was planned for 1987.
+    After the acquisition, which is subject to Egyptian
+government approval, working interests in the Hurghada block
+will be Conoco Hurghada at 45 pct, Hispanoil 30 pct and Gulf
+Canada the balance.
+ Reuter
+&#3;</BODY></TEXT>

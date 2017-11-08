@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4138" NEWID="15155">
+<DATE> 8-APR-1987 13:08:54.02</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1874&#31;reute
+r f BC-EMERSON-RADIO-&lt;EME>-S   04-08 0058</UNKNOWN>
+<TEXT>&#2;
+<TITLE>EMERSON RADIO &lt;EME> SELLS NOTES PRIVATELY</TITLE>
+<DATELINE>    NORTH BERGEN, N.J., April 8 - </DATELINE><BODY>Emerson Radio Corp said it
+has sold 10 mln dlrs of eight pct senior notes due March 1992
+to a major institutional investor it did not name.
+    The company also said 5,800,000 dlrs of its convertible
+subordinated notes due 1997 have been converted into 728,476
+common shares.
+ Reuter
+&#3;</BODY></TEXT>

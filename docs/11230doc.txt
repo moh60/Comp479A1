@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17292" NEWID="11230">
+<DATE>31-MAR-1987 06:42:41.04</DATE>
+<TOPICS><D>sugar</D></TOPICS>
+<PLACES><D>mauritius</D><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C T
+&#22;&#22;&#1;f0539&#31;reute
+u f BC-MAURITIAN-SUGAR-EXPOR   03-31 0107</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MAURITIAN SUGAR EXPORTS FALL IN FEBRUARY</TITLE>
+<DATELINE>    LONDON, March 31 - </DATELINE><BODY>Mauritius exported 47,144 tonnes of
+sugar (tel quel) in February, down from 57,911 tonnes (tel
+quel) shipped in January and 89,351 in February 1986, the
+Mauritius Chamber of Agriculture's Sugar News Bulletin said.
+    Opening stocks at the beginning of last month totalled
+320,057 tonnes, against 288,406 tonnes at the start of February
+last year. Closing stocks at the end of February were 270,212
+tonnes, up from 196,309 tonnes at end-February 1986.
+    The estimate for 1986 sugar production was unchanged from
+last month at 748,472 tonnes, raw value, the Chamber said.
+ REUTER
+&#3;</BODY></TEXT>

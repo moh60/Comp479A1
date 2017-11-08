@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13419" NEWID="7898">
+<DATE>20-MAR-1987 14:06:05.20</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F E
+&#22;&#22;&#1;f1998&#31;reute
+r f BC-SEAGRAM-&lt;VO>-UNIT-REA   03-20 0090</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SEAGRAM &lt;VO> UNIT REALIGNING OPERATIONS</TITLE>
+<DATELINE>    NEW YORK, March 20 - </DATELINE><BODY>Seagram Co Ltd's Joseph E. Seagram and
+Sons Inc said it is realigning its Fine Wine operations
+following last week's sale of its medium-priced table wines
+business.
+    Seagram Vintners, the entity under which all fine wine
+operations were group, is being dissolved, the company said.
+The Seagram Classic Wine Co will move its operations to the
+West Coast, the company said.
+    Seagram Chateau and Estate Wines Co will continue to be
+headquartered in New York, the company said.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9647" NEWID="4734">
+<DATE>13-MAR-1987 08:15:57.80</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F Y E
+&#22;&#22;&#1;f0637&#31;reute
+d f BC-&lt;WILLOW-RESOURCES-LTD   03-13 0085</UNKNOWN>
+<TEXT>&#2;
+<TITLE>&lt;WILLOW RESOURCES LTD> SAYS DRILLING STARTS</TITLE>
+<DATELINE>    TORONTO, March 13 - </DATELINE><BODY>Willow Resources Ltd said drilling of
+the Number One Dudley Williams Heirs well in Panola County,
+Texas, in which it has a 75 pct working interest, has begin.
+    The company said it obtained a 12-month loan of 109,000
+dlrs at two points over prime from Altair Investments Inc to
+fund its share of the drilling costs.
+    It said the well will be drilled to about 6,800 feet and is
+likely to yield natural gas and condensate from multiple zones.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="3418" NEWID="14435">
+<DATE> 7-APR-1987 15:09:35.94</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2170&#31;reute
+r f BC-JAMESWAY-&lt;JMY>-SEES-Y   04-07 0051</UNKNOWN>
+<TEXT>&#2;
+<TITLE>JAMESWAY &lt;JMY> SEES YEAR SALES AT 700 MLN DLRS</TITLE>
+<DATELINE>    SECAUCUS, N.J., April 7 - </DATELINE><BODY>Jamesway Corp president Arlie
+Lazarus, said the sales for the fiscal year ending January 30,
+1988, would reach approximately 700 mln dlrs.
+    Jamesway recorded sales for the fiscal year ending January
+31, 1987, of 612.4 mln dlrs.
+ Reuter
+&#3;</BODY></TEXT>

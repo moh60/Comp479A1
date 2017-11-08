@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9108" NEWID="4195">
+<DATE>12-MAR-1987 09:33:46.07</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0968&#31;reute
+d f BC-MARKITSTAR-&lt;MARK>-NAM   03-12 0039</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MARKITSTAR &lt;MARK> NAMES SALES REPRESENTATIVE</TITLE>
+<DATELINE>    NEW YORK, March 12 - </DATELINE><BODY>MarkitStar Inc said it has signed an
+agreement for Orimedia of Paris to become a sales
+representative for MarkitStar products and services in the
+European Community.
+ Reuter
+&#3;</BODY></TEXT>

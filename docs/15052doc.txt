@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4035" NEWID="15052">
+<DATE> 8-APR-1987 11:15:35.75</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1354&#31;reute
+r f BC-READER'S-DIGEST-ASSOC   04-08 0071</UNKNOWN>
+<TEXT>&#2;
+<TITLE>READER'S DIGEST ASSOCIATION SELLS UNIT</TITLE>
+<DATELINE>    PLEASANTVILLE, N.Y., April 8 - </DATELINE><BODY>&lt;The Reader's Digest
+Association Inc> said it sold its subsidiary, Source
+Telecomputing Corp, to the venture capital firm of &lt;Welsh,
+Carson, Anderson and Stowe>.
+    The purchase price was not disclosed, Reader's Digest said.
+    It said it purchased an 80 pct stake in Source in 1980 and
+earned an unspecified profit on 14 mln dlrs in revenues in
+1986.
+ Reuter
+&#3;</BODY></TEXT>

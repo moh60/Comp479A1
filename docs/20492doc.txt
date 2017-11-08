@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="21087" NEWID="20492">
+<DATE>20-OCT-1987 13:55:45.96</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE><D>lyng</D></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F A RM 
+&#22;&#22;&#1;f2544&#31;reute
+r f BC-LYNG-OPTIMISTIC-U.S.   10-20 0093</UNKNOWN>
+<TEXT>&#2;
+<TITLE>LYNG OPTIMISTIC U.S. FUTURES MARKETS HEALTHY</TITLE>
+<DATELINE>    WASHINGTON, Oct 20 - </DATELINE><BODY>U.S. commodity markets should not
+suffer any long-term ill effects from Monday's financial
+turmoil, Agriculture Secretary Richard Lyng said.
+    "I think traditionally that commodity markets have moved
+separately from the equity shares, so I wouldn't think that
+this would have any long-term effect," Lyng told Reuters in an
+interview.
+    Most commodity futures prices declined on Monday, some
+sharply, largely in response to plummeting stock prices. Many
+futures prices rallied on Tuesday.
+ Reuter
+&#3;</BODY></TEXT>

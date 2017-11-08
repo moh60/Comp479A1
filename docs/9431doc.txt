@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14952" NEWID="9431">
+<DATE>25-MAR-1987 12:45:57.39</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1715&#31;reute
+u f BC-SYNALLOY-&lt;SYO>-ENDS-P   03-25 0047</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SYNALLOY &lt;SYO> ENDS PLANS TO SELL UNIT</TITLE>
+<DATELINE>    SPARTANBURG, S.C., March 25 - </DATELINE><BODY>Synalloy Corp said it has
+ended talks on the sale of its Blackman Uhler Chemical Division
+to Intex Products Inc because agreement could not be reached.
+    The company said it does not intend to seek another buyer.
+ Reuter
+&#3;</BODY></TEXT>

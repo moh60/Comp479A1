@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9848" NEWID="4935">
+<DATE>13-MAR-1987 13:38:10.76</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0929&#31;reute
+d f BC-STATUS-GAME-&lt;STGM>-TO   03-13 0087</UNKNOWN>
+<TEXT>&#2;
+<TITLE>STATUS GAME &lt;STGM> TO PRODUCE CONDOM MACHINES</TITLE>
+<DATELINE>    NEWINGTON, Conn., March 13 - </DATELINE><BODY>Status Game Corp said it has
+started making condom vending machines which it will start
+distributing within the next 30 days.
+    It said initially it will place the machines in the 1,200
+Nevada locations in which it has other vending machines. But it
+said it has already received a substantial number of inquiries
+from potential customers in Europe, Canada and the U.S.,
+including two large English breweries which each operates over
+5,000 pubs.
+ Reuter
+&#3;</BODY></TEXT>

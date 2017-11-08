@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12859" NEWID="676">
+<DATE> 2-MAR-1987 14:16:51.49</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D><D>japan</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0680&#31;reute
+d f BC-DELTA-AIR-&lt;DAL>-BEGIN   03-02 0043</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DELTA AIR &lt;DAL> BEGINS ATLANTA-TOKYO SERVICE</TITLE>
+<DATELINE>    ATLANTA, March 2 - </DATELINE><BODY>Delta Air Lines Inc said it began
+service from Atlanta to Tokyo today.
+    The carrier will fly single-plane through service departing
+daily from Atlanta and Tokyo five days a week, it said.
+ Reuter
+&#3;</BODY></TEXT>

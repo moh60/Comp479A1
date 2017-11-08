@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15709" NEWID="10188">
+<DATE>26-MAR-1987 16:41:52.65</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D><D>guam</D><D>new-zealand</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2639&#31;reute
+r f BC-HAWAIIAN-AIRLINES-&lt;HA   03-26 0096</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HAWAIIAN AIRLINES &lt;HA> TO EXPAND SERVICES</TITLE>
+<DATELINE>    HONOLULU, March 26 - </DATELINE><BODY>Hawaiian Airlines Inc said it will
+continue to expand services to Pacific Islands this year.
+    The company said it will increase its South Pacific
+services to daily service, from the current four flights per
+week, and beginning May 21 it will fly twice a week to the
+Western Pacific to Guam.
+    Hawaiian Airlines also said it has applied with the
+Department of Transportation for an emergency exemption to
+provide service to Tahiti, with connecting services to American
+Samoa, New Zealand and Cooke Islands.
+ Reuter
+&#3;</BODY></TEXT>

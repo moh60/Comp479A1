@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7086" NEWID="19250">
+<DATE>19-JUN-1987 12:18:49.82</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G L 
+&#22;&#22;&#1;f1483&#31;reute
+u f BC-USDA-ENDS-SCREWWORM-C   06-19 0081</UNKNOWN>
+<TEXT>&#2;
+<TITLE>USDA ENDS SCREWWORM CONTROL POST IN ALBUQUERQUE</TITLE>
+<DATELINE>    WASHINGTON, June 19 - </DATELINE><BODY>The U.S. Agriculture Department has
+ended its screwworm alert control program in Albuquerque, New
+Mexico, because the potential of a screwworm outbreak in the
+area has been contained.
+    The department said the program was set up after a case of
+screwworms was confirmed in a hunting dog being returned from
+Venezuela.
+    It said six weeks of surveillance has failed to turn up an
+additional cases of screrwworms.
+ Reuter
+&#3;</BODY></TEXT>

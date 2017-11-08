@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16371" NEWID="1051">
+<DATE> 3-MAR-1987 10:29:32.44</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0519&#31;reute
+h f BC-UNITED-GUARDIAN-&lt;UNIR   03-03 0075</UNKNOWN>
+<TEXT>&#2;
+<TITLE>UNITED-GUARDIAN &lt;UNIR>, &lt;FEDERAL> SIGN CONTRACT</TITLE>
+<DATELINE>    SMITHTOWN, N.Y., March 3 - </DATELINE><BODY>United-Guardian Inc said it
+signed a contract with &lt;Federal Health Corp> covering the
+exclusive marketing of Warexin, a disinfectant for kidney
+dialysis machines, hospital equipment and instruments.
+    Under the contract, United-Guardian said Federal will
+continue to supply Hospal, a subsidiary of &lt;Sandoz Ltd> and
+&lt;Rhone Poulenc S.A.> with all its Warexin requirements.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16893" NEWID="10832">
+<DATE>30-MAR-1987 11:14:26.42</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1474&#31;reute
+r f BC-METROMAIL-&lt;MTML>-SEES   03-30 0083</UNKNOWN>
+<TEXT>&#2;
+<TITLE>METROMAIL &lt;MTML> SEES FLAT YEAR NET</TITLE>
+<DATELINE>    LINCOLN, Neb., March 30 - </DATELINE><BODY>Metromail Corp said it expects
+earnings for the year to be about flat due to higher expenses
+caused by an expansion of data processing capabilities and
+startup costs associated with new cooperative programs that
+will continue into the fourth quarter.
+    The company today reported earnings for the nine months
+ended March One of 7,214,900 dlrs, down from 7,752,800 dlrs a
+year before.  For all of last year it earned 10.9 mln dlrs.
+ Reuter
+&#3;</BODY></TEXT>

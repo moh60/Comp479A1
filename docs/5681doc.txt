@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10594" NEWID="5681">
+<DATE>16-MAR-1987 16:19:39.66</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f3572&#31;reute
+h f BC-AMERICAN-LOCKER-&lt;ALGI   03-16 0086</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AMERICAN LOCKER &lt;ALGI> CONDUCTS TESTS</TITLE>
+<DATELINE>    JAMESTOWN, N.Y., March 16 - </DATELINE><BODY>American Locker Group Inc said
+environmental tests revealed low but unacceptable levels of two
+chemical compounds in ground water at its Signore plant near
+here.
+    The tests, conducted by Dames and Moore, an environmental
+engineering firm, followed the termination of talks for sale of
+the plant, which makes steel office furniture.
+    The company said the compounds were not used as part of its
+current operations. Testing will continue, it said.
+ Reuter
+&#3;</BODY></TEXT>

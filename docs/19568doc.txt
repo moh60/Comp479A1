@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7896" NEWID="19568">
+<DATE> 29-JUN-1987 07:37:02.22</DATE>
+<TOPICS><D>bop</D></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM 
+&#22;&#22;&#1;f0590&#31;reute
+f f BC-   06-29 0016</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE> German May current account surplus 7.5 billion marks
+(April surplus 6.1  billion) - official
+</TITLE>&#3;
+
+</TEXT>

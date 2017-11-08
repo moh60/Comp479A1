@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20066" NEWID="21370">
+<DATE>19-OCT-1987 10:49:52.59</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>kuwait</D><D>saudi-arabia</D><D>egypt</D><D>morocco</D><D>iraq</D><D>qatar</D><D>bahrain</D></PLACES>
+<PEOPLE><D>herrington</D></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;Y 
+&#22;&#22;&#1;f1369&#31;reute
+u f BC-U.S.-ENERGY-SECRETARY   10-19 0081</UNKNOWN>
+<TEXT>&#2;
+<TITLE>U.S. ENERGY SECRETARY IN MOROCCO AFTER GULF TOUR</TITLE>
+<DATELINE>    RABAT, Oct 19 - </DATELINE><BODY>U.S. Energy Secretary John Herrington
+arrived in Rabat on Monday after a tour of the Gulf and the
+Middle East.
+    Herrington, who is scheduled to meet King Hassan during his
+24-hour official visit, said on arrival he would discuss
+regional and international issues with Moroccan leaders.
+    Morocco is the last stop of a tour that has taken
+Herrington to Iraq, Kuwait, Qatar, Bahrain, Saudi Arabia and
+Egypt.
+ REUTER
+&#3;</BODY></TEXT>

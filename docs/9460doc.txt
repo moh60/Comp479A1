@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14979" NEWID="9460">
+<DATE>25-MAR-1987 13:31:39.26</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A RM F
+&#22;&#22;&#1;f1860&#31;reute
+b f BC-CONSUMERS-POWER-&lt;CMS>   03-25 0103</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CONSUMERS POWER &lt;CMS> DEBT RAISED BY S/P</TITLE>
+<DATELINE>    NEW YORK, March 25 - </DATELINE><BODY>Standard and Poor's Corp said it
+raised Consumers Power's senior debt to BBB-minus from BB-plus
+and its subordinated debt to BB-plus from BB-minus.
+    The rating agency also affirmed Consumers Power's BB-minus
+preferred stock and B-rated preference stock. The utility has
+about 3.3 billion dlrs of debt outstanding.
+    S and P cited rate relief stabilization in 1985, bank debt
+restructuring and the implementation of cash conservation
+measures.
+    Plans to retire or refinance high-cost debt should improve
+the company's credit quality, S and P added.
+ Reuter
+&#3;</BODY></TEXT>

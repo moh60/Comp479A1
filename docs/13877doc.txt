@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="2860" NEWID="13877">
+<DATE> 7-APR-1987 10:20:18.51</DATE>
+<TOPICS><D>copper</D><D>zinc</D></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0970&#31;reute
+d f BC-BALL-&lt;BLL>-TO-SUPPLY   04-07 0095</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BALL &lt;BLL> TO SUPPLY PENNY BLANKS TO MINTS</TITLE>
+<DATELINE>    MUNCIE, IND., April 7 - </DATELINE><BODY>Ball Corp said it was awarded a
+one-year 12,750,000 dlr contract to supply copper-plated zinc
+penny blanks to the U.S. mints in Philadelphia and Denver.
+    The new contract, effective in June, calls for shipping
+23,200,000 pounds of blanks to the mint in Philadelphia and
+7,600,000 pounds to Denver. It said the blanks will be
+manufactured in Greenville, Tenn.
+    Ball began supplying blanks to the San Francisco and West
+Point mints in 1981 when the penny's content was changed to
+zinc from copper.
+ Reuter
+&#3;</BODY></TEXT>

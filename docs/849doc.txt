@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13032" NEWID="849">
+<DATE> 2-MAR-1987 18:09:46.79</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0296&#31;reute
+r f BC-REXNORD-&lt;REX>-TO-REDE   03-02 0065</UNKNOWN>
+<TEXT>&#2;
+<TITLE>REXNORD &lt;REX> TO REDEEM RIGHTS</TITLE>
+<DATELINE>    BROOKFIELD, Wis., March 2 - </DATELINE><BODY>Rexnord Inc said it will redeem
+all of its preferred stock purchase rights for 10 cts a right
+effective today.
+    Rexnord said the rights will be redeemed because it is
+expected its shares will be tendered under a January 30
+takeover offer from Banner Acquisition Corp. The rights trade
+in tandem with Rexnord's common stock.
+ Reuter
+&#3;</BODY></TEXT>

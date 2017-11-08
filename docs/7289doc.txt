@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12202" NEWID="7289">
+<DATE>19-MAR-1987 13:26:36.10</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1840&#31;reute
+u f BC-STET-CONFIRMS-TALKS-U   03-19 0114</UNKNOWN>
+<TEXT>&#2;
+<TITLE>STET CONFIRMS TALKS UNDER WAY WITH THOMSON</TITLE>
+<DATELINE>    ROME, March 19 - </DATELINE><BODY>Italy's state-controlled
+telecommunications company &lt;Stet - Societa Finanziaria
+Telfonica P.A.> and France's Thomson-CSF &lt;TCSF.PA> said they
+were negotiating a deal involving their respective subsidiaries
+&lt;SGS Microelettronica SpA> and &lt;Thomson Semiconducteurs>.
+    The deal in question was in the civil semiconductor sector,
+the companies said in a joint statement, but gave no details.
+    The final agreement would be submitted for approval to the
+French and Italian authorities, they added. The statement
+follows recent press speculation that the two companies were
+holding talks aimed at a long-term agreement.
+ REUTER
+&#3;</BODY></TEXT>

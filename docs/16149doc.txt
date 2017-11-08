@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="684" NEWID="16149">
+<DATE>13-APR-1987 05:47:05.16</DATE>
+<TOPICS><D>gold</D></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0341&#31;reute
+b f BC-ST.GOBAIN-UNIT-ISSUES   04-13 0101</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ST.GOBAIN UNIT ISSUES ECU BOND WITH GOLD WARRANTS</TITLE>
+<DATELINE>    LONDON, April 13 - </DATELINE><BODY>St.Gobain Netherlands, guaranteed by Cie
+de St.Gobain, is issuing a 75 mln ECU bond with gold warrants
+attached, due May 6, 1992 carrying a 4-1/2 pct coupon and
+priced at par, lead manager Salomon Brothers International Ltd
+said.
+    Fees comprise 1-1/4 pct selling concession with 5/8 pct for
+management and underwriting combined. Listing is in Luxembourg.
+    Each 1,000 ECU bond carries one gold warrant exercisable
+from May 6, 1987 until May 6, 1990 entitling the holder to
+purchase one ounce at an exercise price of 490 dlrs.
+ REUTER
+&#3;</BODY></TEXT>

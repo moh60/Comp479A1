@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="BYPASS" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="2657" NEWID="13674">
+<DATE> 7-APR-1987 09:00:21.66</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C L
+&#22;&#22;&#1;f0689&#31;reute
+u f BC-SIOUX-CITY-HOGS-SEEN   04-07 0045</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SIOUX CITY HOGS SEEN UP 0.50 DLR - PRIVATE</TITLE>
+<DATELINE>    Sioux City, April 7 - Sunny/34 degrees - </DATELINE><BODY>Hog prices
+expected 0.50 dlr higher on estimated receipts of 3,200 head,
+private sources said. Top seen at 51.00 dlrs per cwt.
+    Sources cited higher cut-out values late yesterday.
+ Reuter
+&#3;</BODY></TEXT>

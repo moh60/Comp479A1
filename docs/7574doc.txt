@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13095" NEWID="7574">
+<DATE>20-MAR-1987 06:04:43.11</DATE>
+<TOPICS><D>alum</D></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C M
+&#22;&#22;&#1;f0335&#31;reute
+f f BC-Feb-daily-ave-unwroug   03-20 0013</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE> Feb daily ave unwrought aluminium output 33,900 tonnes, up 400 tonnes, IPAI.
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9410" NEWID="4497">
+<DATE>12-MAR-1987 16:03:01.84</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0396&#31;reute
+r f BC-MUSIKAHN-CORP-FILES-F   03-12 0103</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MUSIKAHN CORP FILES FOR REORGANIZATION</TITLE>
+<DATELINE>    FREEPORT, N.Y., March 12 - </DATELINE><BODY>&lt;Musikahn Corp> said it filed a
+reorganization plan with the U.S. Bankruptcy Court for itself
+and its subsidiary, Jack Kahn Music Co.
+    The company said both entities have been operating as
+debtors in Chapter 11 since Oct 22, 1985.
+    The plan provides for payment in full of administration
+expenses and priority claims, and secured claims, the companies
+said. In addition, priority claims of governmental units will
+be paid in full over a period of six years.
+    The companies said unsecured creditors will receive up to
+25 pct of their claims.
+ Reuter
+&#3;</BODY></TEXT>

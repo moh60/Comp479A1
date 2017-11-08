@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16505" NEWID="1185">
+<DATE> 3-MAR-1987 12:53:09.38</DATE>
+<TOPICS><D>grain</D><D>wheat</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;G
+&#22;&#22;&#1;f0162&#31;reute
+u f BC-gulf-barge-srw-wheat   03-03 0052</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ONE OFFER FOR SRW WHEAT ON CALL SESSION, NO MILO</TITLE>
+<DATELINE>    ST LOUIS, March 3 - </DATELINE><BODY>One offer but no bid was posted for SRW
+wheat on the call session at the St Louis Merchants Exchange
+today. There were no bids or offers for milo.
+    June 15-July 15 bill of lading for wheat was offered at 17
+over July, no comparison, no bid.
+ Reuter
+&#3;</BODY></TEXT>

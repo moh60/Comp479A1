@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="2171" NEWID="13201">
+<DATE> 3-APR-1987 17:49:17.26</DATE>
+<TOPICS><D>coffee</D></TOPICS>
+<PLACES><D>brazil</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C T
+&#22;&#22;&#1;f2486&#31;reute
+b f BC-IBC-CLOSES-COFFEE-EXP   04-03 0078</UNKNOWN>
+<TEXT>&#2;
+<TITLE>IBC CLOSES EXPORT REGISTRATIONS - EXPORTERS</TITLE>
+<DATELINE>    RIO DE JANEIRO, April 3 - </DATELINE><BODY>The Brazilian Coffee Institute
+(IBC) tonight closed export registrations, exporters said.
+    They said they heard of the closure from IBC officials but
+no officials could be reached immediately for confirmation.
+    Earlier an IBC statement said registrations for May, the
+only month which was open, today totalled 1.4 mln bags of 60
+kilos to bring the total registered for the month to 2.05 mln.
+ Reuter
+&#3;</BODY></TEXT>

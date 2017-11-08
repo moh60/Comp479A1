@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10943" NEWID="6030">
+<DATE>17-MAR-1987 11:28:09.98</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f5396&#31;reute
+d f BC-TEVA-&lt;TEVIY>-SELLS-PR   03-17 0067</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TEVA &lt;TEVIY> SELLS PROMEDICO SUBSIDIARY</TITLE>
+<DATELINE>    NEW YORK, March 17 - </DATELINE><BODY>Teva Pharmaceutical Industries Ltd,
+based in Israel, said it sold its wholly owned Promedico
+subsidiary, to foreign investors for four mln dlrs.
+    It said the book value of the unit is about 2.2 mln dlrs.
+    Teva said it will continue to market Promedico's products
+through its wholly owned subsidiary, Salomon, Levin and Elstein
+Ltd.
+   
+ Reuter
+&#3;</BODY></TEXT>

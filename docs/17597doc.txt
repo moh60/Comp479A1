@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5935" NEWID="17597">
+<DATE> 1-JUN-1987 11:37:03.53</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1452&#31;reute
+d f BC-WALLACE-COMPUTER-&lt;WCS   06-01 0043</UNKNOWN>
+<TEXT>&#2;
+<TITLE>WALLACE COMPUTER &lt;WCS> BUY OFFICE PRODUCTS FIRM</TITLE>
+<DATELINE>    HILLSIDE, ILL., June 1 - </DATELINE><BODY>Wallace Computer Services Inc said
+it acquired for 12 mln dlrs in cash and industrial revenue
+bonds, certain assets of Rockwell-Barnes Inc, a Chicago-based
+office products company.
+ Reuter
+&#3;</BODY></TEXT>

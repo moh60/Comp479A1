@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6194" NEWID="17856">
+<DATE> 1-JUN-1987 17:59:06.72</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F
+&#22;&#22;&#1;f2680&#31;reute
+r f BC-INTL-THOMSON-&lt;ITO.TO>   06-01 0102</UNKNOWN>
+<TEXT>&#2;
+<TITLE>INTL THOMSON &lt;ITO.TO> PLANS PREFERRED ISSUE</TITLE>
+<DATELINE>    TORONTO, June 1 - </DATELINE><BODY>International Thomson Organization Ltd
+said it planned an issue in all of Canada except Quebec of two
+mln 1.85 dlr cumulative redeemable retractable series one
+preferred shares.
+    It said that underwriters McLeod Young Weir Ltd and Wood
+Gundy Inc agreed to acquire the issue at 25.568 dlrs a share,
+with yield to retraction on October 15, 1991 of 7-1/8 pct a
+year. The company said it also agreed to sell to the two
+underwriters two mln 1.84375 dlr series four cumulative
+redeemable retractable preferred shares, which will be resold
+privately.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4033" NEWID="15050">
+<DATE> 8-APR-1987 11:15:23.93</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1352&#31;reute
+r f BC-BEST-BUY-&lt;BBUY>-MARCH   04-08 0063</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BEST BUY &lt;BBUY> MARCH SALES RISE</TITLE>
+<DATELINE>    MINNEAPOLIS, April 8 - </DATELINE><BODY>Best Buy Co Inc said its sales for
+March rose to 26.1 mln dlrs from 11.9 mln dlrs in the
+comparable 1986 period.
+    It said sales for the fiscal year ended March 31 rose to
+329.5 mln dlrs from 113.1 mln dlrs a year earlier.
+    The company said sales performance was based on the
+addition of 12 new retail facilities.
+ Reuter
+&#3;</BODY></TEXT>

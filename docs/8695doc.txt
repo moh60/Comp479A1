@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14216" NEWID="8695">
+<DATE>24-MAR-1987 08:25:11.29</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>sweden</D><D>algeria</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0715&#31;reute
+u f BC-ERICSSON-WINS-400-MLN   03-24 0052</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ERICSSON WINS 400 MLN CROWN ALGERIAN ORDER</TITLE>
+<DATELINE>    STOCKHOLM, March 24 - </DATELINE><BODY>L M Ericsson &lt;ERIC ST> said it had
+signed a contract worth nearly 400 mln crowns with the Algerian
+Ministry of Telecommunications covering the supply of AXE
+exchanges as part of an expansion of the country's
+telecommunications network.
+ REUTER
+&#3;</BODY></TEXT>

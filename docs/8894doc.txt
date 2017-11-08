@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14415" NEWID="8894">
+<DATE>24-MAR-1987 13:13:31.58</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1868&#31;reute
+d f BC-RIBI-&lt;RIBI>-SIGNS-PAC   03-24 0107</UNKNOWN>
+<TEXT>&#2;
+<TITLE>RIBI &lt;RIBI> SIGNS PACT WITH TRAVENOL &lt;BAX></TITLE>
+<DATELINE>    HAMILTON, Montana, March 24 - </DATELINE><BODY>Ribi ImmunoChem Research Inc
+said Baxter Travenol Laboratories Inc's Travenol Laboratories
+Inc unit will evaluate whether one of its products can be used
+to prevent infectious disease.
+    Under an agreement, Ribi said Travenol will conduct studies
+with the product, monophosphoryl lipid A, and will have the
+option to pursue a woldwide license for the product.
+    Ribi said the product is used in combination with other
+agents in experimental treatments to boost the function of the
+immune system in patients suffering from malignant melanoma and
+other cancers.
+
+ Reuter
+&#3;</BODY></TEXT>

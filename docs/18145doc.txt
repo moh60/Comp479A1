@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7590" NEWID="18145">
+<DATE>  2-JUN-1987 13:10:10.20</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F Y
+&#22;&#22;&#1;f1938&#31;reute
+r f BC-ATLANTIC-RICHFIELD-&lt;A   06-02 0097</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ATLANTIC RICHFIELD &lt;ARC> UNIT BUYS TECHNOLOGY</TITLE>
+<DATELINE>    PHILADELPHIA, June 2 - </DATELINE><BODY>Atlantic Richfield Co said it has
+acquired exclusive worldwide rights to the methyl methacrylate
+technology of Texas Eastern Corp's Halcon SD Group affiliate
+for undisclosed terms.
+    The company said the technology will allow it to introduce
+a cleaner and more efficient way of making methyl methacrylate,
+a liquid monomer used to make resins for acrylic sheet,
+coatings, molded parts and products and plastic impact
+modifiers.
+    ARCO said it is reviewing options for commercialization of
+the technology.
+ Reuter
+&#3;</BODY></TEXT>

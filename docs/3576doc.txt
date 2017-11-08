@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="8489" NEWID="3576">
+<DATE>11-MAR-1987 09:15:13.54</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>new-zealand</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;G T
+&#22;&#22;&#1;f0977&#31;reute
+d f BC-FLOOD-THREAT-EASES-IN   03-11 0118</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FLOOD THREAT EASES IN SOUTHERN NEW ZEALAND</TITLE>
+<DATELINE>    WELLINGTON, March 11 - </DATELINE><BODY>Thousands of people evacuated from
+two towns in flood-hit southern New Zealand began returning to
+their homes late today as the waters began to recede.
+    A state of emergency had been declared in Southland
+province apart from the city of Invercargill and its port,
+Bluff, as rivers rose over four meters above normal after
+torrential rain.
+    Local officials in the farming province said stock losses
+were "miraculously low" but they expect major crop destruction.
+    Roads and rail links were cut and Invercargill airport was
+closed. Part of neighbouring Otago province also had a state of
+emergency with some rivers well above normal.
+ Reuter
+&#3;</BODY></TEXT>

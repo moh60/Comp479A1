@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15061" NEWID="9540">
+<DATE>25-MAR-1987 15:19:27.94</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2205&#31;reute
+r f BC-PHILIP-MORRIS'-&lt;MO>-O   03-25 0065</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PHILIP MORRIS' &lt;MO> OSCAR MAYER SETS REDEMPTION</TITLE>
+<DATELINE>    MADISON, WIS., March 25 - </DATELINE><BODY>Oscar Mayer and Co Inc, a unit of
+Philip Morris Cos Inc, said it will redeem all of its
+outstanding 7.85 pct debentures due January 15, 1996 on April
+30, 1987, at 1,014.50 dlrs plus accrued interest for each 1,000
+dlrs prinicpal amount.
+    A notice of redemption will be mailed to noteholders March
+27, it said.
+ Reuter
+&#3;</BODY></TEXT>

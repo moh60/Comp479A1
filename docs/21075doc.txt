@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20362" NEWID="21075">
+<DATE>19-OCT-1987 14:38:56.05</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2608&#31;reute
+r f BC-QUANTUM-&lt;QNTM.O>-SETT   10-19 0087</UNKNOWN>
+<TEXT>&#2;
+<TITLE>QUANTUM &lt;QNTM.O> SETTLES SUIT WITH NEC</TITLE>
+<DATELINE>    MILPITAS, Calif., Oct 19 - </DATELINE><BODY>Quantum Corp said it agreed to
+settle a suit which charged NEC Corp and its NEC Information
+Systems Inc subsidiary with infringing on a Quantum patent for
+a disk drive architecture.
+    The company said the settlement agreement calls for NEC and
+NEC Information to pay a total of 2,975,000 dlrs.
+    It said the arrangement follows a recent court order that
+granted Quantum's motion for summary judgment and ruled that
+NEC infringed on the Quantum patent.
+ Reuter
+&#3;</BODY></TEXT>

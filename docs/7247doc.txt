@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12160" NEWID="7247">
+<DATE>19-MAR-1987 12:37:31.65</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1658&#31;reute
+h f BC-REXNORD-&lt;REX>-SEES-MA   03-19 0049</UNKNOWN>
+<TEXT>&#2;
+<TITLE>REXNORD &lt;REX> SEES MAY MERGER WITH BANNER &lt;BNR></TITLE>
+<DATELINE>    MILWAUKEE, WIS., March 19 - </DATELINE><BODY>Rexnord Inc said it expects to
+merge with a wholly-owned subsidiary of Banner Industries Inc
+in early May.
+    Late last month, Banner said it completed a tender offer
+for and held 96 pct of Rexnord's common shares.
+ Reuter
+&#3;</BODY></TEXT>

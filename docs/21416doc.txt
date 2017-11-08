@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20020" NEWID="21416">
+<DATE>19-OCT-1987 10:14:27.33</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1176&#31;reute
+u f BC-BROCKWAY-INC-&lt;BRK>-3R   10-19 0053</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BROCKWAY INC &lt;BRK> 3RD QTR NET</TITLE>
+<DATELINE>    JACKSONVILLE, Fla., Oct 19 -
+    </DATELINE><BODY>Shr 98 cts vs 70 cts
+    Net 12.3 mln vs 8,699,000
+    Sales 284.7 mln vs 280.7 mln
+    Nine mths
+    Shr 2.83 dlrs vs 2.23 dlrs
+    Net 35.3 mln vs 27.6 mln
+    Sales 824.6 mln vs 818.4 mln
+    NOTE: Share adjusted for December 1986 three-for-two split.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="2531" NEWID="13548">
+<DATE> 7-APR-1987 07:28:46.57</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>italy</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A
+&#22;&#22;&#1;f0455&#31;reute
+u f BC-CHRISTIAN-DEMOCRATS-S   04-07 0111</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CHRISTIAN DEMOCRATS SAY ROME GOVERNMENT FINISHED</TITLE>
+<DATELINE>    ROME, April 7 - </DATELINE><BODY>Italy's majority Christian Democrat party,
+saying the five-party government to which it belongs is
+finished, has decided to withdraw its 16 ministers before a
+parliamentary confidence vote later this week.
+    Christian Democrat leadership issued a document saying it
+"registers ... The dissolution of the present government."
+    Socialist Prime Minister Bettino Craxi's five-party
+government resigned on March 3 after a dispute between his
+party and the Christian Democrats. President Francesco Cossiga
+has rejected the resignation and sent the government back to
+parliament for a confidence debate.
+ REUTER
+&#3;</BODY></TEXT>

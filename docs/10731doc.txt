@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16792" NEWID="10731">
+<DATE>30-MAR-1987 05:21:16.55</DATE>
+<TOPICS><D>money-fx</D><D>dlr</D></TOPICS>
+<PLACES></PLACES>
+<PEOPLE><D>miyazawa</D></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0395&#31;reute
+f f BC-Miyazawa-expects-doll   03-30 0010</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE> Miyazawa expects dollar to rebound soon, spokesman says
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

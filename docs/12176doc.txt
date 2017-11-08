@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="404" NEWID="12176">
+<DATE> 1-APR-1987 13:56:34.48</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1972&#31;reute
+h f BC-PENTA-SYSTEMS-INTERNA   04-01 0048</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PENTA SYSTEMS INTERNATIONAL INC &lt;PSLI> 4TH QTR</TITLE>
+<DATELINE>    NEW YORK, April 1 -
+    </DATELINE><BODY>Shr loss six cts vs loss 76 cts
+    Net loss 343,748 vs loss 4.0 mln
+    Revs 5.1 mln vs 4.8 mln
+    Year
+    Shr profit 12 cts vs loss 1.45 dlr
+    Net profit 611,784 vs loss 7.7 mln
+    Revs 21.6 mln vs 19.7 mln
+ Reuter
+&#3;</BODY></TEXT>

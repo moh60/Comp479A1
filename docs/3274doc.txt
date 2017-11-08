@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19696" NEWID="3274">
+<DATE> 9-MAR-1987 13:41:42.16</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0212&#31;reute
+r f BC-FLYING-TIGERS-&lt;TGR>-A   03-09 0048</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FLYING TIGERS &lt;TGR> ADDS AIR CARGO ROUTES</TITLE>
+<DATELINE>    LOS ANGELES, March 9 - </DATELINE><BODY>Flying Tigers said it has expanded
+its air cargo routes to include Asia-to-Europe jetfreighter
+flights.
+    The company also said it is launching a jetfreighter
+service to Milan, Italy.
+    Both routes will operate weekly.
+ Reuter
+&#3;</BODY></TEXT>

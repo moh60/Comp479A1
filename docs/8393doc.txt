@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13914" NEWID="8393">
+<DATE>23-MAR-1987 12:55:37.56</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1746&#31;reute
+d f BC-PRE-PAID-LEGAL-&lt;PD>-E   03-23 0041</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PRE-PAID LEGAL &lt;PD> ENTERS WASHINGTON MARKET</TITLE>
+<DATELINE>    ADA, Okla., March 23 - </DATELINE><BODY>Pre-Paid Legal Services Inc said it
+will start marketing its Pre-Paid Legal Services contract in
+the state of Washington today.
+    It said it is now doing business in 23 states.
+ Reuter
+&#3;</BODY></TEXT>

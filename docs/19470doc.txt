@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7306" NEWID="19470">
+<DATE>19-JUN-1987 17:56:58.74</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2543&#31;reute
+u f BC-WPP-GROUP-PLC-EXTENDS   06-19 0060</UNKNOWN>
+<TEXT>&#2;
+<TITLE>WPP GROUP PLC EXTENDS ITS OFFER FOR JWT &lt;JWT></TITLE>
+<DATELINE>    NEW YORK, June 19 - </DATELINE><BODY>&lt;WPP Group Plc> said it is extending
+its 50.50 dlrs a share offer for JWT Group Inc until midday
+June 22.
+    The company temporarily extended the offer on June 17 but
+did not give an expiration date.
+    Its 45 dlrs a share offer for JWT, which has been rejected
+by JWT, expires on July 10.
+ Reuter
+&#3;</BODY></TEXT>

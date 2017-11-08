@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="607" NEWID="12379">
+<DATE> 1-APR-1987 18:20:37.59</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2688&#31;reute
+d f BC-MR.-GASEKT-CO-&lt;MRGC>   04-01 0048</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MR. GASEKT CO &lt;MRGC> 3RD QTR DEC 31</TITLE>
+<DATELINE>    CLEVELAND, April 1 -
+    </DATELINE><BODY>Shr loss 26 cts vs profit eight cts
+    net loss 2.8 mln vs profit 897,000
+    Revs 27.0 mln vs 30.0 mln
+    Nine months
+    Shr loss 51 cts vs profit 46 cts
+    Net loss 5.4 mln vs profit 4.9 mln
+    Revs 88.4 mln vs 99.8 mln
+ Reuter
+&#3;</BODY></TEXT>

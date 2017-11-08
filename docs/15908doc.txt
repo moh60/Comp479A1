@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5263" NEWID="15908">
+<DATE> 9-APR-1987 15:39:40.87</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2355&#31;reute
+r f BC-ADAMS-EXPRESS-CO-&lt;ADX   04-09 0049</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ADAMS EXPRESS CO &lt;ADX> MARCH 31 ASSETS</TITLE>
+<DATELINE>    NEW YORK, April 9 -
+    </DATELINE><BODY>Shr 22.50 dlrs vs 21.74 dlrs
+    Assets 546.9 mln vs 485.2 mln
+    Shrs out 24.3 mln vs 22.3 mln
+    NOTE: lastest assets after capital gain distributions of 28
+cts a share in February 1987 and 2.55 dlrs a share in December
+1986
+ Reuter
+&#3;</BODY></TEXT>

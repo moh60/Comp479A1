@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6163" NEWID="17825">
+<DATE> 1-JUN-1987 16:58:13.86</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2513&#31;reute
+r f BC-FLUOROCARBON-&lt;FCBN.O>   06-01 0067</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FLUOROCARBON &lt;FCBN.O> COMPLETES ACQUISITION</TITLE>
+<DATELINE>    LAGUNA NIGEL, Calif., June 1 - </DATELINE><BODY>Fluorocarbon Co said it
+completed the acquisition of Eaton Corp's &lt;ETN> industrial
+polymer division.
+    The company said it paid about 70 mln dlrs in cash for the
+division, which will be renamed Samuel Moore Group.
+    Fluorocarbon also said the division should boost annual
+sales to 165 mln dlrs from last year's 98 mln dlrs.
+ Reuter
+&#3;</BODY></TEXT>

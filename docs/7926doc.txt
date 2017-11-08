@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13447" NEWID="7926">
+<DATE>20-MAR-1987 15:13:29.79</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A RM
+&#22;&#22;&#1;f2195&#31;reute
+r f BC-S/P-UPGRADES-AMERICAN   03-20 0099</UNKNOWN>
+<TEXT>&#2;
+<TITLE>S/P UPGRADES AMERICAN SECURITY &lt;ASEC> AND UNIT</TITLE>
+<DATELINE>    NEW YORK, March 20 - </DATELINE><BODY>Standard and Poor's Corp said it
+raised to A-1 from A-2 American Security Corp's commercial
+paper.
+    S and P also upgraded, to A and A-1 from BBB-plus and A-2
+respectively, the certificates of deposit of American
+Security's lead bank, American Security Bank N.A.
+    The rating agency said the actions reflected the firm's
+merger with what it termed a stronger Maryland National Corp,
+as well as American's improving performance. S and P said the
+merger would allow American Security to diversify its wholesale
+funding base.
+ Reuter
+&#3;</BODY></TEXT>

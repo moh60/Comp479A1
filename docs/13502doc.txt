@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="BYPASS" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="2485" NEWID="13502">
+<DATE> 7-APR-1987 07:00:56.03</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0392&#31;reute
+u f BC-PARIS-GOLD-COINS---AP   04-07 0043</UNKNOWN>
+<TEXT TYPE="UNPROC">&#2;
+PARIS GOLD COINS - APR 7
+ Franc per coin
+ Ingot 1 kilo 81950
+ Napoleon 512
+ Sovereign 595
+ Double eagle 2895     Single 1440
+ Latine Union 485
+ Swiss Louis 559
+ Mexican Pesos 3150
+ Turnovers - Paris Gold 8.5 (8.9) Mln francs
+ Ingots 60 (70)
+ Napoleons 2000 (2000)
+&#3;
+
+</TEXT>

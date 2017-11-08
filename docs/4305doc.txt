@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9218" NEWID="4305">
+<DATE>12-MAR-1987 11:58:27.66</DATE>
+<TOPICS><D>veg-oil</D><D>palm-oil</D></TOPICS>
+<PLACES><D>uk</D><D>india</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G
+&#22;&#22;&#1;f0542&#31;reute
+u f BC-INDIA-BUYS-RBD-PALM-O   03-12 0049</UNKNOWN>
+<TEXT>&#2;
+<TITLE>INDIA BUYS RBD PALM OLEIN AT TENDER</TITLE>
+<DATELINE>    LONDON, March 12 - </DATELINE><BODY>The Indian State Trading Corp bought
+one, or possibly two, 6,000 tonne cargoes of Malaysian refined
+bleached deodorised palm olein at its vegetable oil import
+tender today for Mar 15/Apr 15 shipment at 355 dlrs per tonne
+cif, traders said.
+ Reuter
+&#3;</BODY></TEXT>

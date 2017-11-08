@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15548" NEWID="10028">
+<DATE>26-MAR-1987 12:41:30.21</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1864&#31;reute
+h f BC-CLINICAL-DATA-&lt;CLDA>   03-26 0050</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CLINICAL DATA &lt;CLDA> AWARDED RESEARCH CONTRACTS</TITLE>
+<DATELINE>    BOSTON, March 26 - </DATELINE><BODY>Clinical Data Inc said it has contracts
+with four major pharmaceutical firms to analyze certain data in
+research studies evaluating the efficacy and safety of new
+cardiovascular drugs.
+    It said the contracts exceed 500,000 dlrs.
+ Reuter
+&#3;</BODY></TEXT>

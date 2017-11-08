@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="8730" NEWID="3817">
+<DATE>11-MAR-1987 13:23:32.74</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F
+&#22;&#22;&#1;f0093&#31;reute
+r f BC-TOTAL-ERICKSON-RESOUR   03-11 0079</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TOTAL ERICKSON RESOURCES LTD &lt;TLEXF> YEAR NET</TITLE>
+<DATELINE>    VANCOUVER, British Columbia, March 11 -
+    </DATELINE><BODY>Shr profit nine cts vs loss 45 cts
+    Net profit 2,500,000 vs loss 9,900,000
+    Revs 16,800,000 vs 3,300,000
+    Note: 1986 net includes 2.6 mln dlr or nine ct a shr
+writedown of nine pct stake in &lt;Trans-Canada Resources Ltd>.
+    1985 results reflect only six mths of mining operations due
+to merger of Erickson Gold Mines Ltd and Total Eastcan
+Exploration Ltd on June 30, 1985.
+ Reuter
+&#3;</BODY></TEXT>

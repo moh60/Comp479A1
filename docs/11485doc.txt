@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17547" NEWID="11485">
+<DATE>31-MAR-1987 12:44:37.90</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1859&#31;reute
+r f BC-UNIVERSITY-FEDERAL-&lt;U   03-31 0102</UNKNOWN>
+<TEXT>&#2;
+<TITLE>UNIVERSITY FEDERAL &lt;UFSB> SEEKS STATE CHARTER</TITLE>
+<DATELINE>    SEATTLE, March 31 - </DATELINE><BODY>University Federal Savings Bank said
+its board authorized the bank to apply to change its present
+federal charter to a Washington state charter.
+    The company said it also will seek to change its depositor
+insurance coverage from the Federal Savings and Loan Insurance
+Corp to the Federal Deposit Insurance Corp.
+    Its board believes the broader banking powers available to
+state-chartered institutions will better serve the long-term
+objectives of the bank and will be in the best interest of
+shareholders, University Federal also said.
+ Reuter
+&#3;</BODY></TEXT>

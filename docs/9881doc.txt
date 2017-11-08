@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15402" NEWID="9881">
+<DATE>26-MAR-1987 10:12:28.52</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1103&#31;reute
+u f BC-IOMEGA-&lt;IOMG>-IN-SUPP   03-26 0052</UNKNOWN>
+<TEXT>&#2;
+<TITLE>IOMEGA &lt;IOMG> IN SUPPLY AGREEMENT</TITLE>
+<DATELINE>    ROY, Utah, March 26 - </DATELINE><BODY>Iomega Corp said it has signed a
+four-year agreement to supply Beta-20 disk drives with
+removable cartridges to &lt;Leading Edge Hardware Products Inc>.
+    Value was not disclosed.
+    The company said shipments will stgart in the second
+quarter of 1987.
+ Reuter
+&#3;</BODY></TEXT>

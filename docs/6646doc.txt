@@ -1,0 +1,36 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11559" NEWID="6646">
+<DATE>18-MAR-1987 13:11:13.22</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>belgium</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS><D>ec</D></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f8794&#31;reute
+d f BC-EC-COMMISSION-THREATE   03-18 0095</UNKNOWN>
+<TEXT>&#2;
+<TITLE>EC COMMISSION THREATENS ACTION AGAINST AIRLINES</TITLE>
+<DATELINE>    BRUSSELS, March 18 - </DATELINE><BODY>The European Commission said it could
+begin legal moves within the next month against three major
+airlines - Deutsche Lufthansa AG &lt;LHAG.F>, Alitalia Linee Aeree
+Italiane Spa &lt;AZPI.MI> and &lt;Olympic Airways> - accusing them of
+unfair fare-fixing and route sharing practices.
+    The Commission also announced a move designed to put
+pressure on EC ministers to agree by the end of June a new,
+more liberal, airline regime, which could bring lower fares and
+a greater choice of carriers for passengers.
+    The Commission has for years been pushing to force EC
+airlines to abandon arrangements under which they agree not to
+compete against each other on price and share flights on routes
+between major cities on a 50-50 basis.
+    Last July, it wrote to 10 major airlines saying their
+practices breach EC competition rules and demanding
+undertakings that they would be revised or abolished.
+    The Commission said in a statement today seven airlines
+have responded positively to these letters and negotiations are
+taking place on how their practices might be modified.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12995" NEWID="812">
+<DATE> 2-MAR-1987 17:08:23.67</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F A RM
+&#22;&#22;&#1;f0171&#31;reute
+r f BC-COMMERCIAL-CREDIT-&lt;CC   03-02 0086</UNKNOWN>
+<TEXT>&#2;
+<TITLE>COMMERCIAL CREDIT &lt;CCC> SELLS 10-YEAR NOTES</TITLE>
+<DATELINE>    NEW YORK, March 2 - </DATELINE><BODY>Commercial Credit Co is raising 150 mln
+dlrs through an offering of notes due 1997 yielding 8.217 pct,
+said lead manager Morgan Stanley and Co Inc.
+    The notes have an 8-1/8 pct coupon and were priced at
+99.375 to yield 105 basis points more than comparable Treasury
+securities.
+    Non-callable for life, the issue is rated Baa-2 by Moody's
+and BBB-plus by Standard and Poor's. First Boston Corp and
+Shearson Lehman Brothers Inc co-managed the deal.
+ Reuter
+&#3;</BODY></TEXT>

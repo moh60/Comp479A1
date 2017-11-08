@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16087" NEWID="10566">
+<DATE>27-MAR-1987 13:00:32.16&#5;&#5;&#5;F</DATE>
+<UNKNOWN>&#22;&#22;&#1;f1748&#31;reute</UNKNOWN>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+r f BC-DOSKOCIL-&lt;DOSK>-SHARE   03-27 0053</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DOSKOCIL &lt;DOSK> SHAREHOLDERS VOTE REVERSE SPLIT</TITLE>
+<DATELINE>    HUTCHINSON, Kan., March 27 - </DATELINE><BODY>Doskocil Cos Inc said its
+shareholders approved a one-for-10 reverse stock split, which
+is expected to become effective by April 30.
+    The company said the reverse split will reduce the its
+outstanding shares to about six mln from 60 mln.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19307" NEWID="2889">
+<DATE> 6-MAR-1987 16:42:51.98</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F A RM
+&#22;&#22;&#1;f0599&#31;reute
+u f BC-BENEFICIAL-CORP-&lt;BNL>   03-06 0104</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BENEFICIAL CORP &lt;BNL> DEBT RATINGS CUT BY S/P</TITLE>
+<DATELINE>    NEW YORK, March 6 - </DATELINE><BODY>Standard and Poor's Corp said it
+lowered the ratings on about 3.7 billion dlrs of Beneficial
+Corp's long-term debt.
+    S/P said that its action follows the firm's sizeable 186.6
+mln dlr loss at year-end 1986. It also reflects S/P's
+expectation that Beneficial's profitability will not return to
+pre-1986 levels soon after the firm's recent corporate
+restructuring efforts have been completed.
+    Ratings lowered include the company's senior debt to
+A-minus from A and commercial paper to A-2 from A-1. The issues
+had been on creditwatch since January 2.
+ Reuter
+&#3;</BODY></TEXT>

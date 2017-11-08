@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16699" NEWID="1379">
+<DATE> 3-MAR-1987 17:29:34.16</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0068&#31;reute
+u f BC-KANEB-ENERGY-&lt;KEP>-MA   03-03 0069</UNKNOWN>
+<TEXT>&#2;
+<TITLE>KANEB ENERGY &lt;KEP> MAY OMIT FUTURE PAYOUTS</TITLE>
+<DATELINE>    HOUSTON, March 3 - </DATELINE><BODY>Kaneb Energy Partners Ltd said it may be
+forced to omit or lower future quarterly cash distributions
+because of a contract dispute with two major customers and the
+continued slump in oil and gas prices.
+    The partnership said, however, that it will pay a regular
+quarterly distribution of 60 cts a unit on April 15 to holders
+of record March 31.
+ Reuter
+&#3;</BODY></TEXT>

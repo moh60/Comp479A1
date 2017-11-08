@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9455" NEWID="4542">
+<DATE>12-MAR-1987 16:35:31.87</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A RM
+&#22;&#22;&#1;f0533&#31;reute
+r f BC-HARCOURT-BRACE-&lt;HBJ>   03-12 0079</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HARCOURT BRACE &lt;HBJ> MAY BE LOWERED BY MOODY'S</TITLE>
+<DATELINE>    NEW YORK, March 12 - </DATELINE><BODY>Moody's Investors Service Inc said it
+may downgrade 200 mln dlrs of debt of Harcourt Brace Jovanovich
+Inc.
+    The rating agency cited Harcourt Brace's recent aggressive
+acquisition activity and increasing leverage.
+    Harcourt Brace has offered 220 mln dlrs for Harper and Row
+Publishers, Moody's noted. This follows Harcourt's completed
+acquisitions of the publishing group of CBS Inc and Marineland.
+ Reuter
+&#3;</BODY></TEXT>

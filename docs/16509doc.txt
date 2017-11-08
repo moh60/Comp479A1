@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1044" NEWID="16509">
+<DATE>13-APR-1987 13:22:45.41</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A RM
+&#22;&#22;&#1;f1980&#31;reute
+r f BC-MARYLAND-NATIONAL-&lt;MD   04-13 0072</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MARYLAND NATIONAL &lt;MDNT> FILES TO OFFER NOTES</TITLE>
+<DATELINE>    NEW YORK, April 13 - </DATELINE><BODY>Maryland National Corp said it filed
+with the Securities and Exchange Commission a registration
+statement covering a 125 mln dlr issue of subordinated capital
+notes due 1999.
+    Proceeds will be used for general corporate purposes,
+Maryland National said.
+    The firm named Goldman, Sachs and Co and Merrill Lynch
+Capital Markets as managers of the offering.
+ Reuter
+&#3;</BODY></TEXT>

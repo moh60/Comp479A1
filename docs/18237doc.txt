@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7682" NEWID="18237">
+<DATE> 2-JUN-1987 15:23:32.92</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A RM
+&#22;&#22;&#1;f2426&#31;reute
+u f BC-HOSPITAL-CORP-&lt;HCA>-M   06-02 0104</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HOSPITAL CORP &lt;HCA> MAY BE DOWNGRADED BY S/P</TITLE>
+<DATELINE>    NEW YORK, June 2 - </DATELINE><BODY>Standard and Poor's Corp said it may
+downgrade Hospital Corp of America's 1.8 billion dlrs of debt.
+    S and P cited uncertainties over the company's major
+restructuring. It noted that Hospital Corp has agreed to sell
+104 acute care hospitals to a new company owned by an employee
+stock ownership plan.
+    The sale is for 1.8 billion dlrs cash. If the proceeds are
+used primarily for share repurchases, weaker asset and cash
+flow protection will result, S and P said.
+    Hospital Corp currently carries A-rated senior debt and
+A-minus subordinated debt.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6514" NEWID="18762">
+<DATE>18-JUN-1987 11:47:54.23</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A RM 
+&#22;&#22;&#1;f3619&#31;reute
+r f BC-CRANE-&lt;CR>-DEBT-UPGRA   06-18 0104</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CRANE &lt;CR> DEBT UPGRADED BY MOODY'S</TITLE>
+<DATELINE>    NEW YORK, June 18 - </DATELINE><BODY>Moody's Investors Service Inc said it
+upgraded Crane Co's 75 mln dlrs of debt.
+    Raised were the company's subordinated debt to Baa-3 from
+Ba-2 and in-substance defeased senior debentures to A-2 from
+A-3.
+    Moody's cited Crane's progress in reducing its exposure to
+such cyclical industries as steel and in strengthening its core
+businesses through acquisitions and cost reduction.
+    The agency expects Crane to have further improvement in
+operating margins. The diversity of Crane's businesses will
+strengthen cash flow and improve debt protection, it said.
+ Reuter
+&#3;</BODY></TEXT>

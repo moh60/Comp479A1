@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7640" NEWID="18195">
+<DATE> 2-JUN-1987 14:13:38.45</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2164&#31;reute
+d f BC-DISC-&lt;DSTC.O>-GETS-OR   06-02 0047</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DISC &lt;DSTC.O> GETS ORDER FROM MINISCRIBE&lt;MINY.O></TITLE>
+<DATELINE>    BILLERICA, Mass., June 2 - </DATELINE><BODY>Disc Technology Corp said it has
+received 1,500,000 dlrs in orders for hard discs from
+MiniScribe Corp's MiniScribe Ltd Singapore affiliate.
+    It said the shipments are to be completed by September 30.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19347" NEWID="2930">
+<DATE> 6-MAR-1987 18:17:15.07</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0783&#31;reute
+h f BC-HOUSTON-OIL-TRUST-&lt;HO   03-06 0085</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HOUSTON OIL TRUST &lt;HO> OMITS MARCH DISTRIBUTION</TITLE>
+<DATELINE>    HOUSTON, March 6 - </DATELINE><BODY>Houston Oil Trust said there will be no
+cash distribution to the unit holders in March.
+    The most significant factor for the lack of a distribution
+this month is the establishment of additional special cost
+escrow accounts, the company said, adding, that there may be no
+cash distribution in other months or during the remainder of
+the year.
+    For March, the working interest owner will place 1.9 mln
+dlrs in special cost escrow accounts.
+ Reuter
+&#3;</BODY></TEXT>

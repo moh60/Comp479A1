@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4598" NEWID="15420">
+<DATE> 9-APR-1987 07:02:48.95</DATE>
+<TOPICS><D>platinum</D><D>strategic-metal</D><D>palladium</D></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;C M
+&#22;&#22;&#1;f0404&#31;reute
+u f BC-JOHNSON-MATTHEY'S-PLA   04-09 0061</UNKNOWN>
+<TEXT>&#2;
+<TITLE>JOHNSON MATTHEY'S PLATINUM GROUP PRICES</TITLE>
+<DATELINE>    LONDON, APRIL 9 - </DATELINE><BODY>Johnson Matthey today issued the
+following Platinum group base prices (unfabricated), all U.S.
+Dlrs per troy ounce.
+ Previous prices in parentheses.
+ PLATINUM  -   562   (567)
+ PALLADIUM -   130   (130)
+ IRIDIUM   -   400   (400)
+ RHODIUM     1,230 (1,230)
+ RUTHENIUM -    80    (80)
+&#3;</BODY></TEXT>

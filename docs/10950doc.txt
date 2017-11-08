@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17011" NEWID="10950">
+<DATE>30-MAR-1987 13:30:55.32</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2015&#31;reute
+d f BC-CIRCLE-EXPRESS   03-30 0076</UNKNOWN>
+<TEXT>&#2;
+<TITLE>INVESTOR GROUP HAS CIRCLE EXPRESS &lt;CEXX> STAKE</TITLE>
+<DATELINE>    WASHINGTON, March 30 - </DATELINE><BODY>An investor group controlled by New
+York Investor David Rocker told the Securities and Exchange
+Commission it has acquired 291,400 shares of Circle Express
+Inc, or 6.1 pct of the total outstanding common stock.
+    The group, Rocker Partners Ltd and Compass Investments Ltd,
+said it bought the stake for investment purposes and not as
+part of an effort to seek control of the company.
+
+ Reuter
+&#3;</BODY></TEXT>

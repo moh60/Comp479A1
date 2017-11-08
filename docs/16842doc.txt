@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1377" NEWID="16842">
+<DATE>17-APR-1987 10:36:40.69</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0255&#31;reute
+u f BC-CHRYSLER-&lt;C>-PAYS-77   04-17 0098</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CHRYSLER &lt;C> PAYS 77 MLN DLRS IN BONUSES</TITLE>
+<DATELINE>    DETROIT, April 17 - </DATELINE><BODY>Chrysler Corp said its board made cash
+bonus awards of 77 mln dlrs to 1,914 executives in 1986 based
+on 1985 earnings, including a 975,000 dlr bonus that brought
+chairman Lee Iacocca's cash compensation to 1.7 mln dlrs.
+    The number three U.S. automaker also disclosed in its
+shareholder proxy statement that Iacocca exercised stock
+options last year that netted him nearly 9.6 mln dlrs and
+received 337,500 shares of Chrysler stock last November three
+that at current market prices would be worth more than 18 mln
+dlrs.
+ Reuter
+&#3;</BODY></TEXT>

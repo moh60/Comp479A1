@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1296" NEWID="16761">
+<DATE>17-APR-1987 03:21:09.84</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>china</D><D>luxembourg</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0048&#31;reute
+u f BC-BANK-OF-CHINA-BUYS-SH   04-17 0067</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BANK OF CHINA BUYS SHARE IN LUXEMBOURG COMPANY</TITLE>
+<DATELINE>    PEKING, April 17 - </DATELINE><BODY>State-owned Bank of China has bought a
+three to five pct share of BAII Holding SA, a financial
+institution registered in Luxembourg, the China Daily Business
+Weekly said.
+    It said the institution is 50 pct owned by Arab interests
+and has set up a wholly owned commercial banking branch in Hong
+Kong but gave no more details.
+ REUTER
+&#3;</BODY></TEXT>

@@ -1,0 +1,32 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15286" NEWID="9765">
+<DATE>26-MAR-1987 06:32:20.12</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>austria</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0462&#31;reute
+b f BC-AUSTRIA-MAKES-TWO-BIL   03-26 0102</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AUSTRIA MAKES TWO BILLION SCHILLING NOTE ISSUE</TITLE>
+<DATELINE>    VIENNA, March 26 - </DATELINE><BODY>Austria is making a two billion
+schilling issue of floating rate treasury notes carrying
+interest of 1/8th of a point over the three-month Vienna
+Interbank Offered Rate (VIBOR), lead manager Oesterreichische
+Laenderbank AG [OLBV.VI] said.
+    The issue, to be made at par, carries a placing fee of 20
+basis points and will be listed in Vienna, a Laenderbank
+official told Reuters.
+    The issue will have an initial three-year life and the
+issuer has the right to make two three-year extensions and a
+further one-year extension to 1997.
+    Payment and closing date is April 23 and redemption will be
+on the same date at the end of each of the periods.
+    The notes, in one mln schilling denominations, may not be
+offered in Austria, Britain or the United States.
+ REUTER
+&#3;</BODY></TEXT>

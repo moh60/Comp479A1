@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10220" NEWID="5307">
+<DATE>16-MAR-1987 08:59:28.01</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f1896&#31;reute
+b f BC-EXPORT-DEVELOPMENT-CO   03-16 0072</UNKNOWN>
+<TEXT>&#2;
+<TITLE>EXPORT DEVELOPMENT CORP ISSUES EUROYEN BOND</TITLE>
+<DATELINE>    LONDON, March 16 - </DATELINE><BODY>Export Development Corp is issuing a 15
+billion yen eurobond due August 28, 1992 paying 4-1/2 pct and
+priced at 101-7/8 pct, lead manager Bank of Tokyo International
+said.
+    The bond is available in denominations of one mln yen and
+will be listed in Luxembourg.
+    Fees comprise 1-1/4 pct selling concession and 5/8 pct
+management and underwriting combined.
+ REUTER
+&#3;</BODY></TEXT>

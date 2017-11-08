@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1280" NEWID="16745">
+<DATE>13-APR-1987 21:22:08.53</DATE>
+<TOPICS><D>trade</D></TOPICS>
+<PLACES><D>usa</D><D>japan</D></PLACES>
+<PEOPLE><D>miyazawa</D></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f2865&#31;reute
+u f BC-MIYAZAWA-SEES-EVENTUA   04-13 0107</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MIYAZAWA SEES EVENTUAL LOWER U.S. TRADE DEFICIT</TITLE>
+<DATELINE>    TOKYO, April 14 - </DATELINE><BODY>Japanese Finance Minister Kiichi Miyazawa
+told a press conference he expects the U.S. Trade deficit to
+eventually start reflecting economic fundamentals, which should
+influence exchange rates.
+    The minister was not referring to the U.S. Trade data to be
+released in Washington later today.
+    Miyazawa also said he told major industrial nations when he
+was in Washington last week that present exchange rates are not
+necessarily good. He had said earlier in Washington that
+current exchange rates were within levels implied in the
+February Paris currency accord.
+ REUTER
+&#3;</BODY></TEXT>

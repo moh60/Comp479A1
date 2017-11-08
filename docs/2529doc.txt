@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18947" NEWID="2529">
+<DATE> 5-MAR-1987 18:15:53.47</DATE>
+<TOPICS><D>cpi</D></TOPICS>
+<PLACES><D>argentina</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0089&#31;reute
+u f BC-ARGENTINE-INFLATION-R   03-05 0054</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ARGENTINE INFLATION ROSE 6.5 PCT IN FEBRUARY</TITLE>
+<DATELINE>    BUENOS AIRES, March 5 - </DATELINE><BODY>Argentina's cost of living index
+grew 6.5 pct in January, down from last month's 7.6 pct, the
+National Statistics Institute said.
+    It said consumer prices rose 98.9 pct over the last 12
+months, against 81.9 pct inflation in the calendar year 1986.
+ Reuter
+&#3;</BODY></TEXT>

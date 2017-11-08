@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19385" NEWID="2967">
+<DATE> 7-MAR-1987 06:10:40.16</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>india</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0912&#31;reute
+r f BC-SIX-HURT-IN-SHOOTING   03-07 0102</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SIX HURT IN SHOOTING AT SIKH TEMPLE IN AMRITSAR</TITLE>
+<DATELINE>    CHANDIGARH, India, March 7 - </DATELINE><BODY>Police and security forces
+entered the Golden Temple in Amritsar after six people
+including four policemen were wounded in a shooting incident in
+the complex, police said.
+    Police in Chandigarh, capital of Punjab state, said about
+300 men entered the complex after a party of plainclothes
+police were fired on, apparently by extremists campaigning for
+a separate Sikh homeland.
+    It was the first time uniformed police had entered
+Sikhdom's holiest shrine since last June when extremists
+stabbed a temple guard to death.
+ REUTER
+&#3;</BODY></TEXT>

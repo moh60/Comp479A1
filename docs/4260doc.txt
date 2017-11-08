@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9173" NEWID="4260">
+<DATE>12-MAR-1987 10:43:27.43</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0249&#31;reute
+d f BC-GENERAL-BUILDING-INIT   03-12 0089</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GENERAL BUILDING INITIAL SHARE OFFER UNDER WAY</TITLE>
+<DATELINE>    NEW YORK, March 12 - </DATELINE><BODY>&lt;General Building Products Corp> is
+offering one mln shares of stock at 11 dlrs a share, said
+co-managing underwriters, PaineWebber Inc and Ladenburg
+Thalmann and Co Inc.
+    Proceeds from the offering will be used to repay short-term
+debt, to finance the opening of new locations and as working
+capital, they said.
+    The company, headquarted in Medford, N.Y., sells lumber and
+building supplies to building contractors and, through retail
+outlets, to consumers.
+ 
+ Reuter
+&#3;</BODY></TEXT>

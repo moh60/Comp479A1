@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14161" NEWID="8640">
+<DATE>24-MAR-1987 05:47:21.38</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>india</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0390&#31;reute
+u f BC-INDIA-LAUNCHES-FIRST   03-24 0085</UNKNOWN>
+<TEXT>&#2;
+<TITLE>INDIA LAUNCHES FIRST INTERCONTINENTAL-RANGE ROCKET</TITLE>
+<DATELINE>    NEW DELHI, March 24 - </DATELINE><BODY>India launched its first
+intercontinental-range rocket, the Press Trust of India
+reported.
+    The rocket blasted off from Sriharikota near Madras and 406
+seconds later placed a 145 kg satellite in a 400 km earth
+orbit. The satellite will carry out scientific missions.
+    India put its first satellite launch vehicle into space in
+1980. But this and a second rocket launched in 1983 were
+classed in the below-intermediate range.
+ REUTER
+&#3;</BODY></TEXT>

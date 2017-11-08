@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17395" NEWID="11333">
+<DATE>31-MAR-1987 10:08:59.40</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1134&#31;reute
+u f BC-HECK'S-INC-&lt;HEX>-4TH   03-31 0072</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HECK'S INC &lt;HEX> 4TH QTR JAN THREE NET</TITLE>
+<DATELINE>    NITRO, W.Va., March 31 -
+    </DATELINE><BODY>Shr losses not given
+    Net loss 7,800,000 vs loss 5,400,000
+    Sales 181.2 mln vs 182.0 mln
+    Year
+    Shr losses not given
+    Net loss 17.8 mln vs loss 4,900,000
+    Sales 566.3 mln vs 523.3 mln
+    NOTE: Company operating in Chapter 11 bankruptcy.
+    1986 year net includes four mln dlr LIFO charge and
+3,400,000 dlr credit from pension plan termination.
+ Reuter
+&#3;</BODY></TEXT>

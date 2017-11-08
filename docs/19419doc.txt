@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7255" NEWID="19419">
+<DATE>19-JUN-1987 16:17:15.98</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2299&#31;reute
+u f BC-JUDGE-TO-RULE-MONDAY   06-19 0085</UNKNOWN>
+<TEXT>&#2;
+<TITLE>JUDGE TO RULE MONDAY ON BURLINGTON &lt;BUR> CASE</TITLE>
+<DATELINE>    New York, June 19 - </DATELINE><BODY>Manhattan Federal Court Judge Shirley
+Wohl Kram said she would rule Monday on whether to grant a
+request to block a 78 dlr per share merger agreement between
+Burlington Industries Inc and Morgan Stanely Group Inc &lt;MS>.
+    The request to bar the merger was made by Samjens
+Acquisition Corp, a partnership formed by financier Asher B.
+Edelman and Dominion Textiles Inc. Samjens has made a hostile
+77 dlr per share takeover bid for Burlington.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12677" NEWID="494">
+<DATE> 2-MAR-1987 11:21:58.83</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0946&#31;reute
+d f BC-PRESIDENTIAL-REALTY-C   03-02 0048</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PRESIDENTIAL REALTY CORP &lt;PDO> ANNUAL NET</TITLE>
+<DATELINE>    WHITE PLAINS, N.Y., March 2 -
+    </DATELINE><BODY>Shr 1.65 dlrs vs 1.50 dlrs
+    Net 5,370,000 vs 4,901,000
+    Rev 8.4 mln vs 7.8 mln
+    NOTE: 1986 net gain from property investments 717,000 dlrs,
+or 22 cts per share, vs 721,000 dlrs, or 22 cts per share.
+ Reuter
+&#3;</BODY></TEXT>

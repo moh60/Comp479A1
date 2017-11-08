@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19339" NEWID="2921">
+<DATE> 6-MAR-1987 17:53:19.21</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E
+&#22;&#22;&#1;f0755&#31;reute
+r f BC-STEINBERG-SIGNS-UP-IN   03-06 0042</UNKNOWN>
+<TEXT>&#2;
+<TITLE>STEINBERG SIGNS UP INDEPENDENT GROCERS</TITLE>
+<DATELINE>    MONTREAL, March 6 - </DATELINE><BODY>&lt;Steinberg Inc> said it has affiliated
+the first two independent grocers in the Montreal area to the
+Steinberg banner. It said it plans to announce shortly
+affiliations with independent grocers.
+ Reuter
+&#3;</BODY></TEXT>

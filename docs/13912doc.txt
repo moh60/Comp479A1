@@ -1,0 +1,20 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="2895" NEWID="13912">
+<DATE> 7-APR-1987 10:30:45.09</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>nasdaq</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1015&#31;reute
+r f BC-HITK-&lt;HITK>-JOINS-NAS   04-07 0034</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HITK &lt;HITK> JOINS NASDAQ NATIONAL MARKET SYSTEM</TITLE>
+<DATELINE>    STAMFORD, Conn., April 7 - </DATELINE><BODY>HITK Corp said its common stock
+will be included in NASDAQ's National Market System starting
+today, making the stock marginable.
+ Reuter
+&#3;</BODY></TEXT>

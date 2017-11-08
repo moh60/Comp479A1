@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1247" NEWID="16712">
+<DATE>13-APR-1987 17:20:52.08</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2695&#31;reute
+d f BC-HEILEMAN-&lt;GHB>-ACQUIR   04-13 0095</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HEILEMAN &lt;GHB> ACQUIRING C. SCHMIDT TRADEMARKS</TITLE>
+<DATELINE>    LA CROSSE, WIS., April 13 - </DATELINE><BODY>G. Heileman Brewing Co Inc said
+it agreed to acquire the trademarks of Philadelphia-based C.
+Schmidt which produces a line of malt beverage products,
+including Schmidt, Rheingold, Duquesne and Ortlieb.
+    In 1986, Schmidt sold about 1.6 mln barrels.
+    Under terms of the proposed agreement, Heileman said it
+will enter a trademark transfer agreement which provides for
+royalties to be paid to Schmidt over a specified period of time
+on beverage products produced under the C. Schmidt labels.
+
+ Reuter
+&#3;</BODY></TEXT>

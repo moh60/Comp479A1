@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9728" NEWID="4815">
+<DATE>13-MAR-1987 10:05:52.33</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A RM
+&#22;&#22;&#1;f0980&#31;reute
+r f BC-MINNESOTA-POWER-&lt;MPL>   03-13 0111</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MINNESOTA POWER &lt;MPL> DEBT DOWNGRADED BY MOODY'S</TITLE>
+<DATELINE>    NEW YORK, March 13 - </DATELINE><BODY>Moody's Investors Service Inc said it
+lowered Minnesota Power and Light Co's 490 mln dlrs of debt.
+    Cut were the company's first mortgage bonds and pollution
+control revenue bonds to A-2 from Aa-3, unsecured pollution
+control and industrial revenue bonds to A-3 from A-1 and
+preferred stock to A-2 from Aa-3.
+    Moody's expects Minnesota Power's earnings, returns,
+coverage ratios and cash flow measures to decline substantially
+during the next few years. It cited tax reform, weaker
+performance by the utility's securities investment program and
+initial losses for non-utility business.
+ Reuter
+&#3;</BODY></TEXT>

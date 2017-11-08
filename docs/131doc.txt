@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="5674" NEWID="131">
+<DATE>26-FEB-1987 17:06:06.68</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0135&#31;reute
+r f BC-OLIN-CORP-&lt;OLM>-TO-EL   02-26 0074</UNKNOWN>
+<TEXT>&#2;
+<TITLE>OLIN CORP &lt;OLM> TO ELECT NEW CEO IN APRIL</TITLE>
+<DATELINE>    STAMFORD, Conn., Feb 26 - </DATELINE><BODY>Olin Corp said its board will
+elect in April John Johnstone Jr as its chief executive
+officer.
+    The company said he will succeed John M Henske, who is also
+chairman. It said Johnstone, 54, is now president and chief
+operating officer.
+    Henske, 53, has served as CEO since 1978 and chairman since
+1980. He will continue as chairman until his retirement in June
+1988.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5010" NEWID="15972">
+<DATE> 9-APR-1987 16:28:13.98</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2561&#31;reute
+r f BC-LIBERTY-FINANCIAL-GRO   04-09 0076</UNKNOWN>
+<TEXT>&#2;
+<TITLE>LIBERTY FINANCIAL GROUP &lt;LFG> PRESIDENT RESIGNS</TITLE>
+<DATELINE>    HORSHAM, Pa., April 9 - </DATELINE><BODY>Liberty Financial Group Charles D.
+Cheleden, chairman and chief executive officer, said Harold
+Kline has resigned his position as president of the group and
+its subsidiary, Liberty Savings Bank, effective May One.
+    Cheleden said he will assume the offices previously held by
+Kline, who will continue to serve on the board of the Liberty
+Financal Group and Liberty Savings Bank.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="NOT-USED" CGISPLIT="PUBLISHED-TESTSET" OLDID="21536" NEWID="12679">
+<DATE> 2-APR-1987 14:25:14.89</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2103&#31;reute
+d f BC-ACME-STEEL-&lt;ACME>-TO   04-02 0071</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ACME STEEL &lt;ACME> TO ACQUIRE UNIVERSAL TOOL</TITLE>
+<DATELINE>    RIVERDALE, Ill., April 2 - </DATELINE><BODY>Acme Steel Co said it has agreed
+in principle to acquire &lt;Universal Tool and Stamping Inc> for
+an undisclosed price.
+    The agreement is subject to approval by Acme's board and
+execution of a definitive purchase agreement, the companies
+said.
+    Universal Tool makes and distributes automotive jacks and
+related equipment for the domestic auto industry.
+ Reuter
+&#3;</BODY></TEXT>

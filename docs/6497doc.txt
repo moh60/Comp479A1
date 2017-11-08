@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11408" NEWID="6497">
+<DATE>18-MAR-1987 10:26:41.59</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F
+&#22;&#22;&#1;f8027&#31;reute
+r f BC-GELCO-&lt;GEL>-TO-SELL-C   03-18 0083</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GELCO &lt;GEL> TO SELL CANADIAN COURIER UNIT</TITLE>
+<DATELINE>    MINNEAPOLIS, March 18 - </DATELINE><BODY>Gelco Corp said it signed a letter
+of intent to sell its Canadian courier unit, Gelco Express Ltd,
+to Air Canada for about 54 mln dlrs (U.S.).
+    It said consummation of the transaction depends on
+execution of a definitive agreement, which is expected in May.
+    As part of its restructuring plan, Gelco had announced that
+it would sell four business units. Gelco Express Ltd was one of
+the companies scheduled for divestiture.
+ Reuter
+&#3;</BODY></TEXT>

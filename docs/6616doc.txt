@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11529" NEWID="6616">
+<DATE>18-MAR-1987 12:38:12.25</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f8655&#31;reute
+r f BC-FINANCIAL-SECURITY-&lt;F   03-18 0054</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FINANCIAL SECURITY &lt;FSSLA> TO SELL BRANCH</TITLE>
+<DATELINE>    DELRAY BEACH, Fla., March 18 - </DATELINE><BODY>Financial Security Savings
+and Loan Association said it has agreed to sell its Sunrise,
+Fla., branch to Fortune Financial Group Inc &lt;FORF> of
+Clearwater, Fla., for a "substantial profit," subject to
+regulatory approval.
+    Terms were not disclosed.
+ Reuter
+&#3;</BODY></TEXT>

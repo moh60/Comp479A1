@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19616" NEWID="3194">
+<DATE> 9-MAR-1987 12:14:26.53</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0804&#31;reute
+d f BC-SERVICEMASTER-&lt;SVM>-S   03-09 0077</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SERVICEMASTER &lt;SVM> SETS QUARTER DISTRIBUTION</TITLE>
+<DATELINE>    DOWNERS GROVE, ILL., March 9 - </DATELINE><BODY>ServiceMaster L.P. approved
+a second quarter cash distribution of 58 cts, payable April 10,
+record March 23.
+    Previously, ServiceMaster said it would pay in 1987 an
+indicated cash distribution of 1.50 dlrs a share, including  95
+cts a share which would be paid before April 15, 1987.
+    In other action, the company set May eight as the date of
+its annual shareholders' meeting.
+ Reuter
+&#3;</BODY></TEXT>

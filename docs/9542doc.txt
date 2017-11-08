@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15063" NEWID="9542">
+<DATE>25-MAR-1987 15:19:44.93</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2207&#31;reute
+r f BC-MERCK-&lt;MRK>-GETS-FDA   03-25 0054</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MERCK &lt;MRK> GETS FDA HEARTWORM MEDICINE APPROVAL</TITLE>
+<DATELINE>    RAHWAY, N.J., March 25 - </DATELINE><BODY>Merck and Co Inc said its
+veterinary drug Heartgard-30 for the prevention of heartworm
+disease in dogs has been approved by the U.S. Food and Drug
+Administration.
+    The company said the drug will be availiable only through
+licensed veterinarians.
+ Reuter
+&#3;</BODY></TEXT>

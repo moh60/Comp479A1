@@ -1,0 +1,20 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6542" NEWID="18790">
+<DATE>18-JUN-1987 12:18:38.25</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f3755&#31;reute
+d f BC-&lt;VIRTUSONICS-CORP>-CU   06-18 0033</UNKNOWN>
+<TEXT>&#2;
+<TITLE>&lt;VIRTUSONICS CORP> CUTS WARRANT EXERCISE PRICE</TITLE>
+<DATELINE>    NEW YORK, June 18 - </DATELINE><BODY>Virtusonics Corp said it has cut the
+exercise price of its warrants to 1.5 cts per share from 2.5
+cts from June 22 until July 22.
+ Reuter
+&#3;</BODY></TEXT>

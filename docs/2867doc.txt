@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19285" NEWID="2867">
+<DATE> 6-MAR-1987 16:20:09.74</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0540&#31;reute
+d f BC-BELL-AND-HOWELL-&lt;BHW>   03-06 0060</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BELL AND HOWELL &lt;BHW> COMPLETES SALE OF UNIT</TITLE>
+<DATELINE>    SKOKIE, Ill., March 6 - </DATELINE><BODY>Bell and Howell Co said it
+completed the sale of its computer output microfilm business to
+COM Products Inc, a unit of privately-held &lt;LeBow Industries
+Inc>.
+    The sum of the deal was not disclosed.
+    The unit makes a device that prints data directly from a
+computer onto microfilm.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="5728" NEWID="185">
+<DATE>26-FEB-1987 18:12:35.70</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F
+&#22;&#22;&#1;f0300&#31;reute
+r f BC-VERSATILE-TO-SELL-UNI   02-26 0049</UNKNOWN>
+<TEXT>&#2;
+<TITLE>VERSATILE TO SELL UNIT TO VICON</TITLE>
+<DATELINE>    VANCOUVER, British Columbia, Feb 26 - </DATELINE><BODY>&lt;Versatile Corp> said
+it agreed in principle to sell its Alberta-based Versatile
+Noble Cultivators Co division to Vicon Inc, of Ontario, for
+undisclosed terms.
+    The division manufactures tillage and spraying equipment.
+ Reuter
+&#3;</BODY></TEXT>

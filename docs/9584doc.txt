@@ -1,0 +1,31 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15105" NEWID="9584">
+<DATE>25-MAR-1987 16:22:57.99</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>ecuador</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G L M T
+&#22;&#22;&#1;f2365&#31;reute
+r f AM-ecuador   03-25 0132</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SIX REPORTED WOUNDED IN ECUADOR GENERAL STRIKE</TITLE>
+<DATELINE>    QUITO, March 25 - </DATELINE><BODY>At least six persons, including three
+soldiers, were reported wounded at the start of a general
+strike in Ecuador called to press the government to suspend an
+earthquake-related austerity programme.
+    The information ministry said workers had partially
+complied with the strike. Witnesses said bus transport ground
+to a halt in Quito and schools were closed throughout the
+country, but banks and shops remained open.
+    Three soldiers on a military truck were burned by a
+gasoline bomb, information minister Marco Lara told reuters.
+    In the central city of Latacunga, three workers were
+wounded in clashes with police, unionists and hospital
+authorities said. The strike was called for one day but could
+be extended.
+ Reuter
+&#3;</BODY></TEXT>

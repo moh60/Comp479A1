@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="652" NEWID="16117">
+<DATE>13-APR-1987 02:05:55.66</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>australia</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0071&#31;reute
+u f BC-WESTERN-MINING-SELLS   04-13 0106</UNKNOWN>
+<TEXT>&#2;
+<TITLE>WESTERN MINING SELLS ACM STAKE</TITLE>
+<DATELINE>    MELBOURNE, April 13 - </DATELINE><BODY>Western Mining Corp Holdings Ltd
+&lt;WMNG.S> (WMC) said it sold its entire holding of 22.13 mln
+shares in the gold mining company &lt;Australian Consolidated
+Minerals Ltd> (ACM).
+    WMC gave no details, but stockbrokers said the sale was
+made at eight dlrs a share on Friday to a number of U.S.,
+European and Australian investors through WMC's usual brokers.
+    The company purchased the 19.9 pct parcel in early March
+from Amax Inc &lt;AMX.N> at 6.32 dlrs a share ahead of a
+one-for-three bonus issue when Amax sold its entire 47 pct
+stake in ACM to a number of local companies.
+ REUTER
+&#3;</BODY></TEXT>

@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="8491" NEWID="3578">
+<DATE>11-MAR-1987 09:16:25.09</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0984&#31;reute
+u f BC-HEART-FEDERAL-&lt;HFED>   03-11 0063</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HEART FEDERAL &lt;HFED> SETS TWO FOR ONE SPLIT</TITLE>
+<DATELINE>    AUBURN, Calif., March 11 - </DATELINE><BODY>Heart Federal Savings and Loan
+Association said its board declared a two-for-one stock split,
+payable April 30 to holders of record April 15.
+    The company said the split is subject to shareholder
+approval at the April 15 annual meeting of an increase in
+authorized common shares to 10 mln from five mln.
+ Reuter
+&#3;</BODY></TEXT>

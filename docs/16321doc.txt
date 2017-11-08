@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="856" NEWID="16321">
+<DATE>13-APR-1987 10:50:54.08</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>uk</D><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f1231&#31;reute
+b f BC-ALZA-CORP-ISSUES-75-M   04-13 0100</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ALZA CORP ISSUES 75 MLN DLR CONVERTIBLE BOND</TITLE>
+<DATELINE>    LONDON, April 13 - </DATELINE><BODY>Alza Corp &lt;AZA>, a U.S. Pharmaceutical
+products concern, is issuing a 75 mln dlr convertible eurobond
+due May 8, 2002 with an indicated coupon of 5-1/2 to 5-3/4 pct
+and par pricing, lead manager Merrill Lynch Capital Markets
+said.
+    The bond is available in denominations of 1,000 and 10,000
+dlrs and will be listed in Luxembourg.
+    Fees comprise 1-1/2 pct selling concession and 1/2 pct
+management and underwriting combined. The conversion premium is
+indicated at 17 to 22 pct. Final terms will be fixed before
+April 21.
+ REUTER
+&#3;</BODY></TEXT>

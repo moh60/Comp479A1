@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18977" NEWID="2559">
+<DATE> 6-MAR-1987 09:14:55.44</DATE>
+<TOPICS><D>gold</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0056&#31;reute
+r f BC-SILVER-STATE-MINING-&lt;   03-06 0038</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SILVER STATE MINING &lt;SSMC> SEES PRODUCTION RISE</TITLE>
+<DATELINE>    DENVER, March 6 - </DATELINE><BODY>Silver State Mining Corp said it expects
+gold production this year to be more than double 1986's 17,458
+ounces.
+    The company's 1985 production was 2,050 ounces.
+ Reuter
+&#3;</BODY></TEXT>

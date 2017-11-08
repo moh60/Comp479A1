@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="8905" NEWID="3993">
+<DATE>11-MAR-1987 17:39:46.99</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0795&#31;reute
+u f BC-FIRST-PENNSYLVANIA   03-11 0114</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GOLDMAN SELLS MOST 1ST PENNSYLVANIA &lt;FPA> STOCK</TITLE>
+<DATELINE>    WASHINGTON, March 11 - </DATELINE><BODY>Goldman, Sachs and Co told the
+Securities and Exchange Commission it sold nearly its entire
+stake in First Pennsylvania Corp of 2,450,598 shares, or 5.2
+pct of the total outstanding common stock.
+    Goldman Sachs said it has about 17,800 First Pennsylvania
+common shares remaining. On February 26, the company redeemed
+convertible debentures with common stock, which at once
+increased Goldman's stock holding and the total outstanding.
+    Goldman Sachs said it originally bought the stake as part
+of its arbitrage business. Marine Midland Banks &lt;MM> has an
+agreement in principal to acquire First Pennsylvania.
+ Reuter
+&#3;</BODY></TEXT>

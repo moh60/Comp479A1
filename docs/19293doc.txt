@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7129" NEWID="19293">
+<DATE>19-JUN-1987 13:26:56.15</DATE>
+<TOPICS><D>trade</D></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM 
+&#22;&#22;&#1;f1794&#31;reute
+u f BC-CIVIL-SERVICE-STRIKE   06-19 0074</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CIVIL SERVICE STRIKE DELAYS U.K. TRADE FIGURES</TITLE>
+<DATELINE>    LONDON, June 19 - </DATELINE><BODY>Civil service industrial action started
+early this month will delay the publication of May's U.K.
+Overseas trade figures, which had been due out next Thursday, a
+Trade and Industry Department statement said.
+    A department spokesman said the figures will probably be
+put back by about a month. The June trade figures, due in late
+July, will also be delayed, he added.
+ REUTER
+&#3;</BODY></TEXT>

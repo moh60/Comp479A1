@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13671" NEWID="8150">
+<DATE>23-MAR-1987 05:07:11.66</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>japan</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0270&#31;reute
+u f BC-MODERATE-EARTHQUAKE-H   03-23 0084</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MODERATE EARTHQUAKE HITS SOUTHWEST JAPAN</TITLE>
+<DATELINE>    TOKYO, March 23 - </DATELINE><BODY>A moderate earthquake measuring 5.5 on
+the Richter scale shook southwestern Japan but caused no
+injuries or damage, police said.
+    The tremor, recorded at 1358 local time (0458), had its
+epicentre about 50 km offshore from the city of Miyazaki on the
+western Japanese island of Kyushu, they said.
+    It affected almost the same area as last Wednesday's strong
+earthquake which killed two people and injured at least three,
+they said.
+ REUTER
+&#3;</BODY></TEXT>

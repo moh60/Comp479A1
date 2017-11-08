@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11713" NEWID="6800">
+<DATE>18-MAR-1987 16:08:12.76</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f9392&#31;reute
+r f BC-RAMADA-INC-&lt;RAM>-FILE   03-18 0067</UNKNOWN>
+<TEXT>&#2;
+<TITLE>RAMADA INC &lt;RAM> FILES FOR NOTE OFFERING</TITLE>
+<DATELINE>    PHOENIX, Ariz., March 18 - </DATELINE><BODY>Ramada Inc said it filed a
+registration statement with the Securities and Exchange
+Commission covering a proposed offering of 100 mln dlrs of
+12-year subordinated notes through underwriter Salomon Brothers
+Inc.
+    Net proceeds from the offering will be used to repay debt
+and to fund its capital expenditure program, Ramada said.
+ Reuter
+&#3;</BODY></TEXT>

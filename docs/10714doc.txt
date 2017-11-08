@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16775" NEWID="10714">
+<DATE>30-MAR-1987 04:18:41.26</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0273&#31;reute
+u f BC-TESCO-BUYS-5.4-PCT-OF   03-30 0067</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TESCO BUYS 5.4 PCT OF HILLARDS</TITLE>
+<DATELINE>    LONDON, March 30 - </DATELINE><BODY>Tesco Plc &lt;TSCO.L> said &lt;County Bank
+Ltd> had bought 165,000 shares in &lt;Hillards Plc> on its behalf,
+increasing its stake to 5.4 pct. The shares were bought at
+313.25p each.
+    Tesco is making an opposed 151 mln stg bid for Hillards.
+    Hillards shares at 0900 GMT were quoted one penny firmer at
+317p while Tesco was one penny easier at 479p.
+ REUTER
+&#3;</BODY></TEXT>

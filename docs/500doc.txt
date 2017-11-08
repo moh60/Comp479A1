@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12683" NEWID="500">
+<DATE> 2-MAR-1987 11:25:38.57</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0962&#31;reute
+r f BC-FAA-FINES-DELTA-&lt;DAL>   03-02 0106</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FAA FINES DELTA &lt;DAL> 140,400 DLRS ON SAFETY</TITLE>
+<DATELINE>    WASHINGTON, March 2 - </DATELINE><BODY>The Federal Aviation Administration
+fined Delta Air Lines Inc 140,400 dlrs for alleged violations
+of federal air safety rules, FAA officials said.
+    The FAA had reviewed Delta safety and maintenance
+operations early last year as part of a series of special
+inspections of U.S. air carriers.
+    The Delta fine is the smallest to come out of the special
+inspections, the officials said.
+    As a result of the inspections, Eastern Air Lines was fined
+a record 9.5 mln dlrs, American Airlines was penalized 1.5 mln
+dlrs and Pan American World Airways 1.95 million dlrs.
+ Reuter
+&#3;</BODY></TEXT>

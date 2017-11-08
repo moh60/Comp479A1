@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14823" NEWID="9302">
+<DATE>25-MAR-1987 09:57:02.99</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>west-germany</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0972&#31;reute
+d f BC-COMMERZBANK-TO-ACQUIR   03-25 0082</UNKNOWN>
+<TEXT>&#2;
+<TITLE>COMMERZBANK TO ACQUIRE AND FLOAT LINOTYPE</TITLE>
+<DATELINE>    FRANKFURT, March 25 - </DATELINE><BODY>Commerzbank AG &lt;CBKG.F> said it will
+acquire &lt;Linotype GmbH>, Europe's largest manufacturer of
+type-setting and printing communications technology from Allied
+Signal Inc &lt;ALD.N> and float off the shares in the company.
+    Commerzbank declined to say how much it had paid for
+Linotype.
+    Linotype's group turnover in 1986 rose 15 pct to more than
+500 mln marks, the bank said. The group's net return on capital
+was seven pct.
+ Reuter
+&#3;</BODY></TEXT>

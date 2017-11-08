@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="938" NEWID="16404">
+<DATE>13-APR-1987 12:02:01.58</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1573&#31;reute
+r f BC-OAK-ONDUSTRIES-&lt;OAK>   04-13 0075</UNKNOWN>
+<TEXT>&#2;
+<TITLE>OAK ONDUSTRIES &lt;OAK> TO BUY ELECTRONICS FIRM</TITLE>
+<DATELINE>    SAN DIEGO, Calif., April 13 - </DATELINE><BODY>Oak Industries Inc said it
+agreed to buy the stock of Electronic Technologies Inc of New
+York for an undisclosed amount of cash.
+    Electronic Technologies manufactures quartz crystal
+components, Oak said.
+    It said the acquisition is part of its ongoing stategy to
+restructure its core businesses through cost reduction programs
+and the purchase of compatible companies.
+ Reuter
+&#3;</BODY></TEXT>

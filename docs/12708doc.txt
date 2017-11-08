@@ -1,0 +1,31 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="NOT-USED" CGISPLIT="PUBLISHED-TESTSET" OLDID="21565" NEWID="12708">
+<DATE> 2-APR-1987 16:13:25.97</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>nymex</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C M T
+&#22;&#22;&#1;f2459&#31;reute
+u f BC-NYMEX-SURVEILLANCE-AD   04-02 0132</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NYMEX SURVEILLANCE ADEQUATE, CFTC SAYS</TITLE>
+<DATELINE>    WASHINGTON, April 2 - </DATELINE><BODY>The New York Mercantile Exchange,
+NYMEX, has adequate trade practice surveillance and
+disciplinary programs, but could take steps to improve them,
+the Commodity Futures Trading Commission, CFTC, said.
+    In a rule enforcement review, CFTC said NYMEX was able to
+identify possible "violative market activity" and that
+investigations were generally thorough.
+    However, the commission faulted the exchange for limiting
+access to its computer-assisted trade practice surveillance
+system and recommended NYMEX enhance its computerized
+surveillance system.
+    CFTC also found NYMEX had an adequate disciplinary program,
+but noted that the disciplinary process sometimes was delayed
+because of failure to promptly schedule hearings.
+ Reuter
+&#3;</BODY></TEXT>

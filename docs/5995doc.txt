@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10907" NEWID="5995">
+<DATE>17-MAR-1987 10:57:04.41</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f5256&#31;reute
+d f BC-SYSTEMED-CHANGES-NAME   03-17 0038</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SYSTEMED CHANGES NAME TO KNOWLEDGE DATA &lt;KDSI></TITLE>
+<DATELINE>    SALT LAKE CITY, March 17 - </DATELINE><BODY>Systemed Inc said it changed its
+name to Knowledge Data Systems Inc.
+    It will now trade under the NASDAQ symbol KDSI. Its
+previous symbol was &lt;SYMD>.
+ Reuter
+&#3;</BODY></TEXT>

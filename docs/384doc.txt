@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12567" NEWID="384">
+<DATE> 2-MAR-1987 08:55:29.53</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0396&#31;reute
+d f BC-ILC-TECHNOLOGY-&lt;ILCT>   03-02 0101</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ILC TECHNOLOGY &lt;ILCT> OFFICER REMOVED</TITLE>
+<DATELINE>    SUNNYVALE, Calif., March 2 - </DATELINE><BODY>ILC Technology Inc said
+Raymond Montoya, vice president of finance, has been removed as
+an officer and terminated as an employee of the company, and
+ILC has filed a civil action against him to recover alleged
+improprer disbursements of company funds.
+    The company said Montoya has been arrested by police in
+Hawthorne, Calif., and charged with grand theft and
+embezzlement.
+    It said the extent of the disbursements has not yet been
+determined.  In independent auditor is helping assess the
+alleged irregularities, the company said.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="BYPASS" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="3769" NEWID="14786">
+<DATE> 7-APR-1987 21:47:14.35</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM M
+&#22;&#22;&#1;f2730&#31;reute
+r f BC-TOKYO-GOLD-FUTURES-OP   04-07 0093</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TOKYO GOLD FUTURES OPEN SLIGHTLY FIRMER</TITLE>
+<DATELINE>    TOKYO, April 8 - </DATELINE><BODY>Yen-denominated gold futures opened mostly
+firmer, with contracts unchanged to eight yen per gram higher,
+after falls yesterday, dealers said.
+    Gold closed stronger and near the day's highs in New York
+yesterday, underpinned by a buoyant silver market, they noted.
+    This generated sporadic buying at the opening here but
+investors continue to focus interest on the silver market, they
+said.
+    International bullion firmed to 423.00/423.50 dlrs an ounce
+from 422.25/3.25 in New York.
+ REUTER
+&#3;</BODY></TEXT>

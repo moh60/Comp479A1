@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16098" NEWID="10577">
+<DATE>27-MAR-1987 13:18:44.13&#5;&#5;&#5;F</DATE>
+<UNKNOWN>&#22;&#22;&#1;f1823&#31;reute</UNKNOWN>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+d f BC-GULF/WESTERN-&lt;GW>-UNI   03-27 0063</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GULF/WESTERN &lt;GW> UNIT, DISNEY &lt;DIS> SET PACT</TITLE>
+<DATELINE>    NEW YORK, March 27 - </DATELINE><BODY>Gulf and Western Inc's Simon and
+Schuster Inc unit said it will become the exclusive worldwide
+distributor for Walt Disney Co's educational films, videos and
+filmstrips.
+    The company said the agreement covers more than 300 films
+and videos and 500 filmstrips for schools, colleges and other
+institutions.
+ Reuter
+&#3;</BODY></TEXT>

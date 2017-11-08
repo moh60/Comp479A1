@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17923" NEWID="1505">
+<DATE> 4-MAR-1987 10:52:15.38</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F
+&#22;&#22;&#1;f0489&#31;reute
+r f BC-omnibus-computer   03-04 0059</UNKNOWN>
+<TEXT>&#2;
+<TITLE>OMNIBUS COMPUTER IN DEFAULT ON LINE OF CREDIT</TITLE>
+<DATELINE>    TORONTO, March 4 - </DATELINE><BODY>&lt;Omnibus Computer Graphics Inc> said it
+is in default of certain credit provisions of its line of
+credit with its Canadian banker, resulting from a working
+capital beficit of eight mln dlrs.
+    The company said it is currently negotiating additional
+financing to alleviate the problem.
+ Reuter
+&#3;</BODY></TEXT>

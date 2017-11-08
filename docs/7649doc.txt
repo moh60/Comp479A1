@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13170" NEWID="7649">
+<DATE>20-MAR-1987 09:23:41.19</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E A
+&#22;&#22;&#1;f0811&#31;reute
+r f BC-discovery   03-20 0106</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DISCOVERY WEST PLANS CONVERTIBLE NOTE ISSUE</TITLE>
+<DATELINE>    TORONTO, March 20 - </DATELINE><BODY>&lt;Discovery West Corp> said it plans to
+sell convertible subordinated notes in a principal amount of
+between four mln and seven mln dlrs by way of a private
+placement through First Marathon Securities Ltd.
+    Discovery West said the notes will be convertible into
+eight pct convertible subordinated debentures, which in turn
+will be convertible into common shares at a price of two dlrs a
+share.
+    It said it expects to complete the note sale on April nine
+and plans to use up to five mln dlrs of proceeds to buy
+convertible notes of &lt;Rayrock Yellowknife Resources Inc>.
+ Reuter
+&#3;</BODY></TEXT>

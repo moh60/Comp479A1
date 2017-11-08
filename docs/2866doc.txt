@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19284" NEWID="2866">
+<DATE> 6-MAR-1987 16:19:42.43</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0539&#31;reute
+h f BC-ALFIN-INC-&lt;AFN>-2ND-Q   03-06 0060</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ALFIN INC &lt;AFN> 2ND QTR JAN 31 LOSS</TITLE>
+<DATELINE>    NEW YORK, March 6 -
+    </DATELINE><BODY>Shr loss 20 cts vs profit 14 cts
+    Net loss 1,417,000 vs profit 933,000
+    Revs 5,623,000 vs 5,403,000
+    Avg shrs 6,957,300 vs 7,115,248
+    Six mths
+    Shr loss 18 cts vs profit 43 cts
+    Net loss 1,269,000 vs profit 3,079,000
+    Revs 15.7 mln vs 14.2 mln
+    Avg shrs 7,195,720 vs 7,115,248
+ Reuter
+&#3;</BODY></TEXT>

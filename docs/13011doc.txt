@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="1980" NEWID="13011">
+<DATE> 3-APR-1987 12:58:50.26</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1722&#31;reute
+r f BC-BENEFICIAL-&lt;BNL>-UNIT   04-03 0100</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BENEFICIAL &lt;BNL> UNIT SALE APPROVED</TITLE>
+<DATELINE>    NEW YORK, April 3 - </DATELINE><BODY>Beneficial Corp said the sale of its
+American Centennial Insurance Co subsidiary to &lt;First Delaware
+Holdings Inc> was approved by the Delaware Insurance
+Department.
+    Under the transaction, American Centennial will receive a
+cash infusion of 200 mln dlrs, including the settlement of tax
+sharing agreements with Beneficial Corp, Beneficial said.
+    It will also receive 25 mln dlrs from Beneficial
+International Insurance Co, another Beneficial subsidiary being
+purchased by the management-led group of First Delaware, the
+company said.
+ Reuter
+&#3;</BODY></TEXT>

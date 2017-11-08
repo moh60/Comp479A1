@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="5633" NEWID="90">
+<DATE>26-FEB-1987 16:29:30.05</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0014&#31;reute
+d f BC-TEXAS-INSTRUMENTS-&lt;TX   02-26 0098</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TEXAS INSTRUMENTS &lt;TXN> DEVELOPS NEW CHIP</TITLE>
+<DATELINE>    NEW YORK, Feb 26 - </DATELINE><BODY>Texas Instruments Inc said it has
+developed the first 32-bit computer chip designed specifically
+for artificial intelligence applications.
+    The company said the new microprocessor, measuring
+one-centimeter square and containing 553,687 transistors, is
+the densest chip ever made.
+    The chip was designed, Texas Instruments said, for use with
+the Lisp langugage, which is used widely by software
+programmers in the artificial intelligence field.
+    The company added that it is working on a production
+version of the chip.
+ Reuter
+&#3;</BODY></TEXT>

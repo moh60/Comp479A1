@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13199" NEWID="7678">
+<DATE>20-MAR-1987 10:05:33.45</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0956&#31;reute
+u f BC-FIRST-FEDERAL-&lt;FFBN>   03-20 0039</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FIRST FEDERAL &lt;FFBN> MERGING INTO BANKEAST &lt;BENH></TITLE>
+<DATELINE>    NASHUA, N.H., March 20 - </DATELINE><BODY>First Federal Bank FSB said it has
+entered into a letter of intent to merge into BankEast Corp for
+60 dlrs per First Federal share in BankEast common stock.
+    First Federal said, subject to certain adjustments,
+including First Federal's earnings prior to the close of the
+deal, each share of its common stock shall not be converted
+into less than 2.9 shares or more than 3.5 shares of BankEast
+common.
+    First Federal said the proposed move is also subject to
+execution of a definitive agreement, regulatory approval and
+the approval of First Federal shareholders.
+ Reuter
+&#3;</BODY></TEXT>

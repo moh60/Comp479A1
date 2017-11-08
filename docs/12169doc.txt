@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="397" NEWID="12169">
+<DATE> 1-APR-1987 13:54:51.35</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1962&#31;reute
+d f BC-&lt;SASCO-PRODUCTS-INC>   04-01 0038</UNKNOWN>
+<TEXT>&#2;
+<TITLE>&lt;SASCO PRODUCTS INC> YEAR LOSS</TITLE>
+<DATELINE>    DALLAS, April 1 -
+    </DATELINE><BODY>Shr loss eight cts vs profit four cts
+    Net loss 365,430 vs profit 165,508
+    Revs 5,577,244 vs 4,643,803
+    NOTE: 1986 net includes nonrecurring expenses of 408,518
+dlrs.
+ Reuter
+&#3;</BODY></TEXT>

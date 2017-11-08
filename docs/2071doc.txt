@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18488" NEWID="2071">
+<DATE> 5-MAR-1987 10:26:54.83</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0290&#31;reute
+b f BC-MOBIL'S&lt;MOB>-MONTGOME   03-05 0042</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MOBIL'S&lt;MOB> MONTGOMERY WARD FEBRUARY SALES UP</TITLE>
+<DATELINE>    CHICAGO, March 5 - </DATELINE><BODY>Mobil Corp said its Montgomery Ward and
+Co's retail sales for the four weeks ended February 28 rose
+12.7 pct on a comparable store basis to 276.7 mln from 249.0
+mln dlrs a year ago.
+ Reuter
+&#3;</BODY></TEXT>

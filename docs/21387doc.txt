@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20049" NEWID="21387">
+<DATE>19-OCT-1987 10:36:44.23</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1303&#31;reute
+u f BC-ARNOX-&lt;ARNX.O>-STILL   10-19 0046</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ARNOX &lt;ARNX.O> STILL IN MERGER TALKS WITH TXL</TITLE>
+<DATELINE>    GREENWICH, Conn., Oct 19 - </DATELINE><BODY>Arnox Corp said a special
+committee of its board is continuing talks with &lt;TXL Corp> on
+the terms of TXL's offer to acquire Arnox at 10 dlrs per share.
+    It said TXL has arranged preliminary financing.
+ Reuter
+&#3;</BODY></TEXT>

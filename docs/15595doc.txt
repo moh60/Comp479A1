@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5493" NEWID="15595">
+<DATE> 9-APR-1987 10:51:40.15</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;E
+&#22;&#22;&#1;f1177&#31;reute
+u f BC-BRENDA-MINES-SELLING   04-09 0045</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BRENDA MINES SELLING KERR ADDISON SHARES</TITLE>
+<DATELINE>    TORONTO, April 9 - </DATELINE><BODY>&lt;Brenda Mines Ltd> said it sold
+2,830,390 &lt;Kerr Addison Mines Ltd> shares to a group of
+underwriters led by Wood Gundy Inc and Brown, Baldwin Nisker
+Ltd for redistribution.
+    Financial terms were undisclosed.
+ Reuter
+&#3;</BODY></TEXT>

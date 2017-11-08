@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="2508" NEWID="13524">
+<DATE> 7-APR-1987 07:16:21.70</DATE>
+<TOPICS><D>money-fx</D><D>dlr</D></TOPICS>
+<PLACES><D>japan</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A
+&#22;&#22;&#1;f0420&#31;reute
+r f BC-BANK-OF-JAPAN-INTERVE   04-07 0067</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BANK OF JAPAN INTERVENES SHORTLY AFTER TOKYO OPENS</TITLE>
+<DATELINE>    TOKYO, April 7 - </DATELINE><BODY>The Bank of Japan bought a small amount of
+dollars at around 145.95 yen shortly after the Tokyo market
+opened, dealers said.
+    But the dollar then fell on speculative selling by trading
+houses, they said.
+    The dollar had opened here at 145.95 yen against 145.85/90
+yen in New York and 146.00 yen at the close here yesterday.
+ REUTER
+&#3;</BODY></TEXT>

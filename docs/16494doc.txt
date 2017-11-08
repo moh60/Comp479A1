@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1029" NEWID="16494">
+<DATE>13-APR-1987 13:00:15.45</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>switzerland</D><D>japan</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f1877&#31;reute
+u f BC-MORGAN-STANLEY-ISSUES   04-13 0104</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MORGAN STANLEY ISSUES WARRANTS INTO JAPANESE FIRM</TITLE>
+<DATELINE>    ZURICH, April 13 - </DATELINE><BODY>Morgan Stanley (Jersey) Ltd is issuing
+45,000 covered equity warrants exercisable into shares of Japan
+Synthetic Rubber Co Ltd at an issue price of 212 Swiss francs
+per warrant, lead manager Morgan Stanley SA said.
+    The initial exercise price is 494 yen per share and
+maturity is February 4, 1992. The issue price represents a
+premium of 6.57 pct over the stock's closing price of 653 yen.
+    Each warrant is exercisable into 100 shares of common stock
+of Japan Synthetic Rubber.
+    The exercise period is June 5, 1987 to February 4, 1992.
+ REUTER
+&#3;</BODY></TEXT>

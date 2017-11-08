@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="3739" NEWID="14756">
+<DATE> 7-APR-1987 18:43:02.22</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E Y F
+&#22;&#22;&#1;f2664&#31;reute
+d f BC-TRANS-CANADA-RESOURCE   04-07 0074</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TRANS-CANADA RESOURCES WINS FILING EXTENSION</TITLE>
+<DATELINE>    CALGARY, Alberta, April 7 - </DATELINE><BODY>&lt;Trans-Canada Resources Ltd>
+said it received an Alberta court order extending to April 20
+from April six the filing of a plan of arrangement with the
+court under the Companies' Creditors Arrangement Act.
+    It said the order also extended the stay of legal
+proceedings against the company to May 20 and provided for
+shareholders' and creditors' meetings by May 15.
+ Reuter
+&#3;</BODY></TEXT>

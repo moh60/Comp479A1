@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11630" NEWID="6717">
+<DATE>18-MAR-1987 14:17:08.30</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f9044&#31;reute
+r f BC-SCOTT-PAPER-&lt;SPP>-TO   03-18 0080</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SCOTT PAPER &lt;SPP> TO UPGRADE PULP FACILITIES</TITLE>
+<DATELINE>    PHILADELPHIA, March 18 - </DATELINE><BODY>Scott Paper Co said it will spend
+70 mln dlrs to upgrade pulping facilities at its paper plant in
+Westbrook, Me.
+    The company said the effort is part of its plan to reduce
+costs by increasing the integration of its pulping facilities
+with its papermaking operations.
+    Construction is expected to start in early April with
+completion of the entire project scheduled for the end of 1988,
+the company said.
+ Reuter
+&#3;</BODY></TEXT>

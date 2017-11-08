@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="21328" NEWID="20733">
+<DATE>20-OCT-1987 16:35:24.33</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f3207&#31;reute
+h f BC-CERPROBE-CORP-(CRPB.O   10-20 0061</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CERPROBE CORP &lt;CRPB.O> PRESIDENT TO RESIGN IN EARLY 1988</TITLE>
+<DATELINE>    TEMPE, Ariz., Oct 20- </DATELINE><BODY>CerProbe Corp said its chairman, John
+Tarzell, will give up the positions of president and chief
+executive in early 1988 to concentrate on long-range planning
+for the company in the semiconductor testing field.
+    CerProbe said a successor to Tarzell has not been selected.
+          
+ Reuter
+&#3;</BODY></TEXT>

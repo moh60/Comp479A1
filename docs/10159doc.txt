@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15680" NEWID="10159">
+<DATE>26-MAR-1987 16:19:07.96</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2547&#31;reute
+d f BC-AMERITECH-&lt;AIT>-UNIT   03-26 0059</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AMERITECH &lt;AIT> UNIT NAMES NEW PRESIDENT</TITLE>
+<DATELINE>    TROY, Mich., March 26 - </DATELINE><BODY>Ameritech Publishing, a unit of
+Ameritech, the midwest-based telephone services company, said
+it has named Barry Allen president effective April.
+    Ameritech Publishing said Allen will succeed Leo Egan, who
+will become chairman and chief executive officer until he
+retires on June 1.
+ Reuter
+&#3;</BODY></TEXT>

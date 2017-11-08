@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15950" NEWID="10429">
+<DATE>27-MAR-1987 10:17:42.22&#5;&#5;&#5;F</DATE>
+<UNKNOWN>&#22;&#22;&#1;f0985&#31;reute</UNKNOWN>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+u f BC-MULTIVEST-&lt;MVST>-ENDS   03-27 0058</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MULTIVEST &lt;MVST> ENDS MERGER TALKS,SETS PURCHASE</TITLE>
+<DATELINE>    NEW YORK, March 27 - </DATELINE><BODY>Multivest Corp said it has ended talks
+on &lt;Oryx Capital Corp>'s possible acqusition of Multivest and
+is starting an offer of 1.51 dlrs a share for all the
+oustanding shares of &lt;T.B.C. Industries Inc>.
+    Multivest said its T.B.C. tender offer is scheduled to
+expire April 30.
+ Reuter
+&#3;</BODY></TEXT>

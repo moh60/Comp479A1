@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="8886" NEWID="3973">
+<DATE>11-MAR-1987 17:08:23.10</DATE>
+<TOPICS><D>ship</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G
+&#22;&#22;&#1;f0707&#31;reute
+r f BC-SENATOR-LUGAR-CALLS-F   03-11 0098</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SENATOR LUGAR CALLS FOR CARGO PREFERENCE REPEAL</TITLE>
+<DATELINE>    WASHINGTON, March 11 - </DATELINE><BODY>The senior Republican on the U.S.
+Senate Agriculture Committee, Richard Lugar of Indiana, called
+for repeal of the cargo preference law that aids the American
+shipping industry but which he said hurts farmers.
+    "Cargo preference is a costly special interest operated at
+the expense of American farmers and dockworkers," Lugar said in
+signing on as a co-sponsor or cargo preference repeal
+legislation.
+    The law requires shipment of U.S. goods on American ships
+rather than foreign vessels which are less costly.
+ Reuter
+&#3;</BODY></TEXT>

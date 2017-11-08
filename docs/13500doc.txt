@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="BYPASS" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="2483" NEWID="13500">
+<DATE> 7-APR-1987 06:59:32.15</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;M
+&#22;&#22;&#1;f0389&#31;reute
+b f BC-LME-SILVER-1ST-RING-1   04-07 0038</UNKNOWN>
+<TEXT TYPE="UNPROC">&#2;
+LME SILVER 1ST RING 1157 - APR 7
+                 LAST    BUYER   SELLER
+ Large Cash        --       --       --
+ 3 Months          --       --       --
+ Small Cash        --       --       --
+ 3 Months          --       --       --
+&#3;
+
+</TEXT>

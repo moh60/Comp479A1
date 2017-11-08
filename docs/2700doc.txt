@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19118" NEWID="2700">
+<DATE> 6-MAR-1987 12:03:25.41</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0690&#31;reute
+d f BC-COMPUTER-MEMORIES-INC   03-06 0068</UNKNOWN>
+<TEXT>&#2;
+<TITLE>COMPUTER MEMORIES INC &lt;CMIN> 3RD QTR LOSS</TITLE>
+<DATELINE>    CHATSWORTH, Calif., March 6 - </DATELINE><BODY>Period ended December 31.
+    Shr loss nine cts vs loss 1.92 dlrs
+    Net loss 950,000 vs loss 21,334,000
+    Revs 580,000 vs 22.2 mln
+    Nine Mths
+    Shr loss six cts vs loss 1.23 dlrs
+    Net loss 694,000 vs loss 13,710,000
+    Revs 5,129,000 vs 111.9 mln
+    Note: Current qtr includes tax loss of 118,000 vs loss of
+476,000 dlrs.
+ Reuter
+&#3;</BODY></TEXT>

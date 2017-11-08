@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17631" NEWID="11570">
+<DATE>31-MAR-1987 14:29:26.71</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2187&#31;reute
+h f BC-GENEX-CORP-&lt;GNEX>-YEA   03-31 0038</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GENEX CORP &lt;GNEX> YEAR LOSS</TITLE>
+<DATELINE>    GAITHERSBURG, Md., March 31 -
+    </DATELINE><BODY>Shr loss 94 cts vs loss 1.25 dlrs
+    Net loss 12.1 mln vs loss 15.9 mln
+    Revs 3,307,000 vs 16.2 mln
+    NOTE: Current year includes writedown of 8.5 mln dlrs.
+ Reuter
+&#3;</BODY></TEXT>

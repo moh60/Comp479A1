@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7789" NEWID="18344">
+<DATE> 2-JUN-1987 18:53:18.16</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>brazil</D></PLACES>
+<PEOPLE><D>volcker</D><D>greenspan</D></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;V RM
+&#22;&#22;&#1;f2902&#31;reute
+u f PM-VOLCKER-BRAZIL   06-02 0113</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CONCERN IN BRAZIL OVER VOLCKER DEPARTURE</TITLE>
+<DATELINE>    SAO PAULO, June 2 - </DATELINE><BODY>Brazilian officials are privately
+expressing concern that the change of command at the Federal
+Reserve may lead to a tougher U.S. Policy on debt and less
+understanding of the problems of the Third World.
+    Paul Volcker, head of the Federal Reserve, was considered
+here to be understanding of Brazil's difficulties.
+    A Finance Ministry source said of his colleagues in the
+ministry: "They are a bit apprehensive about (Alan) Greenspan
+(who will replace Volcker), considering his reputation as a
+very tough man, an advocate of recessive measures to
+counter-attack inflation. There is a little bit of concern."
+ Reuter
+&#3;</BODY></TEXT>

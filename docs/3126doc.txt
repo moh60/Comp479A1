@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19548" NEWID="3126">
+<DATE> 9-MAR-1987 10:56:38.37</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0417&#31;reute
+u f BC-RLR-FINANCIAL-SERVICE   03-09 0040</UNKNOWN>
+<TEXT>&#2;
+<TITLE>RLR FINANCIAL SERVICES &lt;RLRF> TO MAKE STATEMENT</TITLE>
+<DATELINE>    LAUDERHILL, Fla., March 9 - </DATELINE><BODY>RLR Financial Services said it
+will be releasing a statement shortly concerning the company.
+    RLR's stock was halted this morning for news pending by the
+NASDAQ.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,30 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14448" NEWID="8927">
+<DATE>24-MAR-1987 14:00:29.01</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2028&#31;reute
+d f BC-SHOWBOAT-&lt;SBO>-PLAY-M   03-24 0105</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SHOWBOAT &lt;SBO> PLAY MONEY OPENING DELAYED</TITLE>
+<DATELINE>    ATLANTIC CITY, N.J., March 24 - </DATELINE><BODY>Showboat Inc said the play
+money opening of gambling at its Atlantic City, N.J., Showboat
+Hotel, Casino and Bowling Center has been delayed pending the
+receipt of regulatory approvals.
+    Gambling with play money was to have started tomorrow. A
+company spokesman said Showboat must still receive its
+certificate of occupancy, after which the New Jersey Casino
+Control Commission needs about 48 hours to set up for the
+trial-run gambling. After the trial run, Showboat is required
+by commission regulations to run at least one day of low-limit
+betting.
+    The spokesman said, however, that Showboat still expects to
+start normal gaming operations on April 3 as scheduled.
+ Reuter
+&#3;</BODY></TEXT>

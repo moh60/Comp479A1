@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10862" NEWID="5949">
+<DATE>17-MAR-1987 10:14:08.70</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F Y
+&#22;&#22;&#1;f5061&#31;reute
+r f BC-TEXAS-INTERNATIONAL-&lt;   03-17 0071</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TEXAS INTERNATIONAL &lt;TEI> COMPLETES RESERVE SALE</TITLE>
+<DATELINE>    OKLAHOMA CITY, March 17 - </DATELINE><BODY>Texas International Co said it
+has completed the previously-announced 120 mln dlr sale of its
+domestic oil and natural gas reserves to &lt;Total Compagnie
+Francaise des Petroles>.
+    It said on closing it used part of the proceeds to retire
+all 100 mln dlrs of its U.S. bank and U.S. senior debt and the
+rest will be used for general corporate purposes.
+ Reuter
+&#3;</BODY></TEXT>

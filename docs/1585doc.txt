@@ -1,0 +1,31 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18003" NEWID="1585">
+<DATE> 4-MAR-1987 12:14:50.32</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0905&#31;reute
+r f BC-EQUITABLE-OF-IOWA-COS   03-04 0046</UNKNOWN>
+<TEXT>&#2;
+<TITLE>EQUITABLE OF IOWA COS &lt;EQICA> 4TH QTR NET</TITLE>
+<DATELINE>    DES MOINES, Iowa, March 4 -
+    </DATELINE><BODY>Oper shr 78 cts vs 51 cts
+    Oper net 7,030,000 vs 4,944,000
+    Revs 126.6 mln vs 120.9 mln
+    Year
+    Oper shr 1.59 dlrs vs 89 cts
+    Oper net 14.7 mln vs 9,864,000
+    Revs 425.1 mln vs 416.9 mln
+    NOTE: Net excludes realized gains on investment of 73,000
+dlrs vs 4,224,000 dlrs in quarter and 6,253,000 vs 14.5 mln
+dlrs in year.
+    Net excludes discontinued Massachusetts Casualty operations
+loss 5,180,000 dlrs vs gain 778,000 dlrs in quarter and gain
+9,214,000 dlrs vs gain 3,504,000 dlrs in year.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20485" NEWID="20952">
+<DATE>19-OCT-1987 16:25:49.86</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f3053&#31;reute
+r f BC-U.S.-CHAMBER-SAYS-STO   10-19 0083</UNKNOWN>
+<TEXT>&#2;
+<TITLE>U.S. CHAMBER SAYS STOCK DROP HAS RUN COURSE</TITLE>
+<DATELINE>    WASHINGTON, Oct 19 - </DATELINE><BODY>The U.S. Chamber of Commerce, in a
+statement, said the phenomenal sell-off in the stock market is
+very likely to have run its course.
+    The chamber said "there is no justification for such a
+dramatic downward correction."
+    While conceding that there is some justifiable concern
+about inflation, higher interest rates and a lower dollar,
+these uncertainties have been overcompensated for over recent
+weeks, the Chamber said.
+ Reuter
+&#3;</BODY></TEXT>

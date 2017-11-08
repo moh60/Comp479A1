@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9450" NEWID="4537">
+<DATE>12-MAR-1987 16:32:57.85</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0526&#31;reute
+r f BC-NEW-HAMPSHIRE-SAVINGS   03-12 0063</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NEW HAMPSHIRE SAVINGS &lt;NHSB> TO BUY BANK</TITLE>
+<DATELINE>    CONCORD, N.H., March 12 - </DATELINE><BODY>New Hampshire Savings Bank Corp
+said it agreed to buy &lt;Seashore Bankshares Inc> in an exchange
+of stock.
+    According to the terms of the deal, it said Seashore's
+61,000 shares will be exchanged for 9.8 mln dlrs of New
+Hampshire Savings stock.
+    It said Seashore Bankshares has assets of about 46 mln
+dlrs.
+
+ Reuter
+&#3;</BODY></TEXT>

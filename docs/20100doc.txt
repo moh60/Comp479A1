@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20695" NEWID="20100">
+<DATE>20-OCT-1987 08:13:02.16</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>fse</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f0753&#31;reute
+f f BC-Frankfurt-bourse-exte   10-20 0012</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE> Frankfurt bourse extends trading by half-hour to 1300 GMT - official
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

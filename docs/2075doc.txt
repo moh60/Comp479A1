@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18492" NEWID="2075">
+<DATE> 5-MAR-1987 10:29:32.48</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0307&#31;reute
+u f BC-AMES-DEPARTMENT-STORE   03-05 0049</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AMES DEPARTMENT STORES &lt;ADD> FEBRUARY SALES UP</TITLE>
+<DATELINE>    ROCKY HILL, Conn., March 5 - </DATELINE><BODY>Ames Department Stores Inc
+said sales for the four weeks ended February 28, the firstr
+month of its fiscal year, were up 30.4 pct to 113.6 mln dlrs
+from 87.1 mln dlrs a year earlier, with same-store sales up
+28.6 pct.
+ Reuter
+&#3;</BODY></TEXT>

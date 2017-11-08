@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6988" NEWID="19152">
+<DATE>19-JUN-1987 09:57:13.78</DATE>
+<TOPICS><D>acq</D><D>gold</D></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F 
+&#22;&#22;&#1;f0892&#31;reute
+r f BC-TOTAL-ERICKSON-&lt;TLE.T   06-19 0070</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TOTAL ERICKSON &lt;TLE.T> BUYS MINING PROPERTY</TITLE>
+<DATELINE>    VANCOUVER, B.C., June 19 - </DATELINE><BODY>Total Erickson Resources Ltd and
+Consolidated Silver Standard Mines Ltd &lt;CDS.V> said that Total
+Erickson has purchased all Consolidated's interests in its Dome
+Mountain property for 60,000 Total Erickson shares and 70,000
+dlrs in cash.
+    The companies said the property has several gold-bearing
+veins and has considerable exploration potential.
+ Reuter
+&#3;</BODY></TEXT>

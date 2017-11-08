@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="NOT-USED" CGISPLIT="PUBLISHED-TESTSET" OLDID="21517" NEWID="12660">
+<DATE> 2-APR-1987 13:24:16.71</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>france</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1934&#31;reute
+u f BC-UNION-CARBIDE-FRENCH   04-02 0086</UNKNOWN>
+<TEXT>&#2;
+<TITLE>UNION CARBIDE FRENCH UNIT IN TAKEOVER BID</TITLE>
+<DATELINE>    PARIS, April 2 - </DATELINE><BODY>Union Carbide France, a unit of Union
+Carbide Corp &lt;UK>, has launched a bid to buy shares of French
+chemical group &lt;Duffour et Igon> at 2,100 francs a share until
+May 4, the stockbrokers' association CSAC said in a statement.
+    Duffour et Igon has capital of 13.3 mln francs, divided
+into 133,100 shares with a nominal value of 100 francs. They
+were last traded on January 9 at 856 francs.
+    &lt;Rothschild et Associes Banque> is acting for Union
+Carbide.
+ Reuter
+&#3;</BODY></TEXT>

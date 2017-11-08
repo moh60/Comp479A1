@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6859" NEWID="19023">
+<DATE>18-JUN-1987 21:15:11.47</DATE>
+<TOPICS><D>money-fx</D><D>dlr</D></TOPICS>
+<PLACES><D>japan</D></PLACES>
+<PEOPLE><D>miyazawa</D></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM AI 
+&#22;&#22;&#1;f5087&#31;reute
+b f BC-JAPAN-STILL-WANTS-SPE   06-18 0069</UNKNOWN>
+<TEXT>&#2;
+<TITLE>JAPAN STILL WANTS SPECULATIVE DLR DEALS LIMITED</TITLE>
+<DATELINE>    TOKYO, June 19 - </DATELINE><BODY>The Finance Ministry is still asking
+financial institutions to limit speculative dollar dealings,
+Finance Minister Kiichi Miyazawa told reporters.
+    He was responding to rumours in the New York currency
+market overnight that the Ministry was reducing its pressure on
+institutions to refrain from excessively speculative dollar
+dealings.
+ REUTER
+&#3;</BODY></TEXT>

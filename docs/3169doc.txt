@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19591" NEWID="3169">
+<DATE> 9-MAR-1987 11:53:58.61</DATE>
+<TOPICS><D>crude</D><D>nat-gas</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F Y
+&#22;&#22;&#1;f0679&#31;reute
+r f BC-HAMILTON-OIL-&lt;HAML>-S   03-09 0044</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HAMILTON OIL &lt;HAML> SAYS RESERVES RISE</TITLE>
+<DATELINE>    DENVER, March 9 - </DATELINE><BODY>Hamilton Oil Corp said reserves at the
+end of 1986 were 59.8 mln barrels of oil and 905.5 billion
+cubic feet of natural gas, or 211 mln barrels equivalent, up 10
+mln equivalent barrels from a year before.
+ Reuter
+&#3;</BODY></TEXT>

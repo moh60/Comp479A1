@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17074" NEWID="11013">
+<DATE>30-MAR-1987 14:32:29.52</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>cbt</D><D>nyce</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F RM
+&#22;&#22;&#1;f2222&#31;reute
+u f BC-REGULATORS-TO-CONSIDE   03-30 0112</UNKNOWN>
+<TEXT>&#2;
+<TITLE>REGULATORS TO CONSIDER CBT EVENING SESSION</TITLE>
+<DATELINE>    WASHINGTON, March 30 - </DATELINE><BODY>The Commodity Futures Trading
+Commission, CFTC, said that on April 15 it will consider the
+Chicago Board of Trade's proposal to establish night trading.
+    The Chicago exchange hopes to begin night trading at the
+end of the month. The proposed trading session -- which would
+be the first in the United States -- would extend from 1700 to
+2100 local time (2300 to 0300 GMT).
+    CFTC also said that on April 22 it will consider the
+Philadelphia Board of Trade's application to trade futures on
+the Australian dollar and the New York Cotton Exchange's
+application to trade the five-year U.S. Treasury Index.
+ Reuter
+&#3;</BODY></TEXT>

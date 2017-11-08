@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20636" NEWID="20041">
+<DATE>20-OCT-1987 05:03:42.33</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>pse</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f0303&#31;reute
+f f BC-Paris-share-price-ind   10-20 0010</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE>Paris share price indicator opens 2.31 pct down - official
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

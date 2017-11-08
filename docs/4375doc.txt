@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9288" NEWID="4375">
+<DATE>12-MAR-1987 13:28:25.60</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0938&#31;reute
+r f BC-DIGITEXT-&lt;DIGT>-PLANS   03-12 0064</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DIGITEXT &lt;DIGT> PLANS UNIT OFFERING</TITLE>
+<DATELINE>    THOUSAND OAKS, Calif., March 12 - </DATELINE><BODY>Digitext Inc said it
+signed a letter of intent covering a planned 12 mln dlr unit
+offering consisting of preferred stock and warrants to purchase
+common stock.
+    The company said it expects to file a registration
+statement covering the offering with the Securities and
+Exchange Commission within the next 60 days.
+ Reuter
+&#3;</BODY></TEXT>

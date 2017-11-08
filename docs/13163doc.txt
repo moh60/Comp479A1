@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="2132" NEWID="13163">
+<DATE> 3-APR-1987 16:42:30.56</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2348&#31;reute
+r f BC-TEXAS-AMERICAN-&lt;TXA>   04-03 0055</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TEXAS AMERICAN &lt;TXA> BANKS TO BE MERGED</TITLE>
+<DATELINE>    FORT WORTH, Texas, April 3 - </DATELINE><BODY>Texas American Bancshares Inc
+said three of its Texas American banks will be merged into
+Texas American Bank/Galleria.
+    The corporation said the Spring Branch, Fonderen and
+Gulfway Texas American banks will become separate banking
+offices of TAB/Galleria.
+ Reuter
+&#3;</BODY></TEXT>

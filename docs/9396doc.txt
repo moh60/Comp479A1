@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14917" NEWID="9396">
+<DATE>25-MAR-1987 12:00:04.53</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>canada</D><D>singapore</D><D>philippines</D><D>indonesia</D><D>thailand</D><D>brunei</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E
+&#22;&#22;&#1;f1475&#31;reute
+r f BC-ACCUGRAPH-IN-ASIA-MAR   03-25 0058</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ACCUGRAPH IN ASIA MARKETING PACT WITH TRIO-TECH</TITLE>
+<DATELINE>    TORONTO, March 25 - </DATELINE><BODY>&lt;Accugraph Corp> said it named
+Trio-Tech International Pte Ltd, of Singapore, as exclusive
+distributor of Accugraph's computer-aided design and
+manufacturing software for Singapore, the Philippines,
+Thailand, Malaysia, Indonesia and Brunei.
+    Financial terms were undisclosed.
+ Reuter
+&#3;</BODY></TEXT>

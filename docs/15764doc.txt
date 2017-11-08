@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4941" NEWID="15764">
+<DATE> 9-APR-1987 13:10:07.67</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D><D>portugal</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1834&#31;reute
+r f BC-GE-&lt;GE>-GETS-PORTUGUE   04-09 0049</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GE &lt;GE> GETS PORTUGUESE ENGINE ORDER</TITLE>
+<DATELINE>    EVENDALE, Ohio, April 9 - </DATELINE><BODY>General Electric Co said it has
+received a 60 mln dlr order to provide CF6-80C2 engines for
+three &lt;Airbus Industrie> A310-300 aircraft bought by TAP Air
+Portugal.
+    It said aircraft deliveries are scheduled to start in late
+1988.
+ Reuter
+&#3;</BODY></TEXT>

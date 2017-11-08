@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16967" NEWID="10906">
+<DATE>30-MAR-1987 12:35:36.73</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>uk</D><D>finland</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1825&#31;reute
+d f BC-MIDLAND-SETS-UP-SUBSI   03-30 0113</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MIDLAND SETS UP SUBSIDIARY IN FINLAND</TITLE>
+<DATELINE>    LONDON, March 30 - </DATELINE><BODY>Midland Bank Plc &lt;MDBL.L> said its
+&lt;Midland Montagu> investment banking arm has set up a
+subsidiary in Finland, &lt;Midland Montagu Osakepankki>.
+    It said in a statement the new unit, the first Finnish
+subsidiary of a U.K. Bank, is a member of the Helsinki Stock
+Exchange. As such, it will be active in equity trading and will
+advise on new issues, listings, mergers and acquisitions.
+    It will also help raising equity and debt capital and
+provide a full range of foreign exchange and treasury products.
+In the domestic money market, it will manage commercial paper
+issues and will trade in CD's and Treasury Bills.
+ Reuter
+&#3;</BODY></TEXT>

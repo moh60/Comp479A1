@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4082" NEWID="15099">
+<DATE> 8-APR-1987 11:47:10.42</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1532&#31;reute
+d f BC-THERMWOOD-&lt;THM>-EXTEN   04-08 0084</UNKNOWN>
+<TEXT>&#2;
+<TITLE>THERMWOOD &lt;THM> EXTENDS DATE ON WARRANTS</TITLE>
+<DATELINE>    DALE, IND., April 8 - </DATELINE><BODY>Thermwood Corp said it is extending
+the expiration date of its 620,000 common stock warrants
+through Dec 31, 1987.
+    It said the warrants to purchase one share of common stock,
+which have an exercise price of 3.00 dlrs, were to expire April
+11.
+    The company noted that its stock price has more than
+doubled since late last year and "is now much closer to the
+exercise price of the warrants."
+    Thermwood is trading at 1-7/8, off 1/8.
+ Reuter
+&#3;</BODY></TEXT>

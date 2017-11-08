@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16713" NEWID="1393">
+<DATE> 3-MAR-1987 18:00:55.71</DATE>
+<TOPICS><D>livestock</D><D>carcass</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C L
+&#22;&#22;&#1;f0139&#31;reute
+d f BC-MANDATORY-PRODUCTION   03-03 0089</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MANDATORY PRODUCTION CONTROLS DEBATED AT APC</TITLE>
+<DATELINE>    Chicago, March 3 - </DATELINE><BODY>Delegates to the American Pork Congress
+will decide whether or not they want mandatory production
+controls when they vote on the official pork producer policy
+wednesday, the National Pork Producers Council said.
+    The American Pork Congress, APC, delegates, listened to
+both sides of the question when former Iowa Congressman Berkley
+Bedell and Bill Lesher, USDA Assistant Secretary for Economics
+for the years 1981 to 1985 debated at the convention in
+Indianapolis.
+ Reuter
+&#3;</BODY></TEXT>

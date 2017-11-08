@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20704" NEWID="20109">
+<DATE>20-OCT-1987 08:38:46.53</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f0822&#31;reute
+r f BC-DIRECT-ACTION-&lt;DMK>-C   10-20 0060</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DIRECT ACTION &lt;DMK> CALLS SHAREHOLDER MEETING</TITLE>
+<DATELINE>    LAKE SUCCESS, N.Y., Oct 20 - </DATELINE><BODY>Direct Action Marketing Inc
+said it has called a shareholder meeting for a vote on the
+election of directors for January 27.
+    Last week, Ocilla Industries Inc &lt;OCIL.O>, a Direct Action
+shareholder, had said it would seek to elect its own board
+slate at the next shareholder meeting.
+ Reuter
+&#3;</BODY></TEXT>

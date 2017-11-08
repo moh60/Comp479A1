@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15129" NEWID="9609">
+<DATE>25-MAR-1987 16:59:14.09</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2468&#31;reute
+r f BC-KANSAS-POWER-AND-LIGH   03-25 0068</UNKNOWN>
+<TEXT>&#2;
+<TITLE>KANSAS POWER AND LIGHT &lt;KAN> CHAIRMAN LEAVING</TITLE>
+<DATELINE>    TOPEKA, Kan., March 25 - </DATELINE><BODY>Kansas Power and Light Co said it
+will name a successor on or before May 5 to its outgoing
+chairman and chief executive officer William Wall.
+    Wall, who will assume the position of chairman and chief
+executive officer at Asbestos Claims Facility, will fill the
+positions which have been vacant for several months, the
+company said.
+ Reuter
+&#3;</BODY></TEXT>

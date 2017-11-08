@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15067" NEWID="9546">
+<DATE>25-MAR-1987 15:20:50.50</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2214&#31;reute
+r f BC-MERCK-&lt;MRK>-GETS-APPR   03-25 0060</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MERCK &lt;MRK> GETS APPROVAL FOR DOG HEART DRUG</TITLE>
+<DATELINE>    RAHWAY, N.J., March 25 - </DATELINE><BODY>Merck and Co said a drug to
+prevent heartworm disease in dogs, ivermectin, has been
+approved by the U.S. Food and Drug Administration.
+    The drug, made by Merck's animal health and agricultural
+products division, will be sold under the name Heartgard-30
+through licensed veterinarians.
+ Reuter
+&#3;</BODY></TEXT>

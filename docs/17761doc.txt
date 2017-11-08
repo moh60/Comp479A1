@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6099" NEWID="17761">
+<DATE> 1-JUN-1987 15:27:00.15</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F
+&#22;&#22;&#1;f2264&#31;reute
+u f BC-TORONTO-SUN-&lt;TSP.TO>   06-01 0056</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TORONTO SUN &lt;TSP.TO> RAISES DIVIDEND</TITLE>
+<DATELINE>    Toronto, June 1 - </DATELINE><BODY>Toronto Sun Publishing Corp said it
+raised its semi-annual dividend to five cts per share, pay June
+15, record June nine
+    The company said the annual dividend rate, now ten cts per
+share, is an increase of 33 pct after adjusting for a two for
+one split of the common shares.
+ Reuter
+&#3;</BODY></TEXT>

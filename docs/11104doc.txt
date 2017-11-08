@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17165" NEWID="11104">
+<DATE>30-MAR-1987 17:04:41.27</DATE>
+<TOPICS><D>iron-steel</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2633&#31;reute
+r f BC-STEEL-TECHNOLOGIES-&lt;S   03-30 0076</UNKNOWN>
+<TEXT>&#2;
+<TITLE>STEEL TECHNOLOGIES &lt;STTX>, MITSUI SET VENTURE</TITLE>
+<DATELINE>    LOUISVILLE, March 30 - </DATELINE><BODY>Steel Technologies Inc said it
+agreed to form a 50-50 joint venture with &lt;Mitsui and Co Ltd>
+to make steel products.
+    The venture, called Mi-Tech Steel Inc, will be set up to
+serve Japanese and domestic automobile and appliance parts
+makers in the U.S.
+    A plant will be located near Murfreesboro, Tenn., and
+production is expected to begin in the fall 1987, the company
+said.
+
+ Reuter
+&#3;</BODY></TEXT>

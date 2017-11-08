@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17274" NEWID="11212">
+<DATE>31-MAR-1987 05:17:05.33</DATE>
+<TOPICS><D>money-fx</D><D>dlr</D><D>dmk</D></TOPICS>
+<PLACES><D>west-germany</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0401&#31;reute
+b f BC-BUNDESBANK-HAS-NOT-IN   03-31 0104</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BUNDESBANK HAS NOT INTERVENED TODAY, DEALERS</TITLE>
+<DATELINE>    FRANKFURT, March 31 - </DATELINE><BODY>The Bundesbank declined to comment on
+rumours in Tokyo that it was intervening heavily to support the
+dollar, but dealers here said they had not seen the German
+central bank in the market all morning.
+    The dollar was quoted at around 1.8040 marks shortly after
+midday in nervous but quiet trading, up from its 1.7975/85
+opening.
+    Spreads against the mark remained around 10 basis points,
+with some banks quoting only five point spreads. Dealers said
+spreads would widen and the dollar would move more sharply if
+the Bundesbank did intervene.
+ REUTER
+&#3;</BODY></TEXT>

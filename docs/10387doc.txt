@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15908" NEWID="10387">
+<DATE>27-MAR-1987 08:38:22.92&#5;&#5;&#5;E F</DATE>
+<UNKNOWN>&#22;&#22;&#1;f0731&#31;reute</UNKNOWN>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+r f BC-macbloedel   03-27 0057</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MACMILLAN BLOEDEL &lt;MMB> STOCK SPLIT APPROVED</TITLE>
+<DATELINE>    VANCOUVER, British Columbia, March 27 - </DATELINE><BODY>MacMillan Bloedel
+Ltd said shareholders authorized a previously announced
+three-for-one stock split, applicable to holders of record
+April nine.
+    The company said its stock will begin trading on a split
+basis on April 3, subject to regulatory approvals.
+ Reuter
+&#3;</BODY></TEXT>

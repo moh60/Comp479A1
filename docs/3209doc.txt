@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19631" NEWID="3209">
+<DATE> 9-MAR-1987 12:27:37.16</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0887&#31;reute
+d f BC-HOLIDAY-CORP-&lt;HIA>-TO   03-09 0089</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HOLIDAY CORP &lt;HIA> TO OPEN NEW CHAIN IN EUROPE</TITLE>
+<DATELINE>    MEMPHIS, Tenn., March 9 - </DATELINE><BODY>Holiday Corp said its Holiday Inn
+Hotel Group will soon introduce a chain of limited-service
+hotels in international markets.
+    The company said the chain, which will be launched
+initially in Western Europe, will usually feature 60 to 150
+guest rooms and a small restuarant/lounge area, but will offer
+fewer services and amenities than typical Holiday Inn hotels.
+    It said the new hotels will cater to commercial travelers
+in smaller cities and suburbs.
+ Reuter
+&#3;</BODY></TEXT>

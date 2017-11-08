@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1156" NEWID="16621">
+<DATE>13-APR-1987 15:28:29.59</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2380&#31;reute
+d f BC-&lt;FOURTH-NATIONAL-CORP   04-13 0083</UNKNOWN>
+<TEXT>&#2;
+<TITLE>&lt;FOURTH NATIONAL CORP> STAKE ACQUIRED</TITLE>
+<DATELINE>    TULSA, Okla., April 13 - </DATELINE><BODY>Fourth National Corp said an
+investor group led by management has acquired a 73 pct stake in
+the company from Interfirst Corp &lt;IFC>, a Dallas bank holding
+firm.
+    A Fourth National spokesman said the deal was for cash but
+would not disclose the amount.
+    Fourth National, a bank holding company with about 500 mln
+dlrs in assets, said in a statement that it will continue to
+operate its four subsidiaries and retain its employees.
+ Reuter
+&#3;</BODY></TEXT>

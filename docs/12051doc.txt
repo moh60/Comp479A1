@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="279" NEWID="12051">
+<DATE> 1-APR-1987 11:53:49.16</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE><D>reagan</D></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;V RM
+&#22;&#22;&#1;f1505&#31;reute
+b f BC-/SENATE-UPHOLDS-REAGA   04-01 0088</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SENATE UPHOLDS REAGAN'S VETO BUT WILL REVOTE</TITLE>
+<DATELINE>    WASHINGTON, April 1 - </DATELINE><BODY>The Senate voted to sustain President
+Reagan's veto of an 88 billion dlr highway and mass transit
+funding bill, but Senate Democratic leader Robert Byrd of West
+Virginia called for a second vote to reconsider the outcome.
+    The first vote ended with 65 Senators voting for the bill
+and 35 voting to sustain the veto, two short of the two-thirds
+majority needed to override. One of those voting to sustain the
+veto was North Carolina Democrat Terry Sanford.
+ Reuter
+&#3;</BODY></TEXT>

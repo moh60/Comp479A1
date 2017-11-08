@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13416" NEWID="7895">
+<DATE>20-MAR-1987 14:03:41.61</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1984&#31;reute
+r f BC-CHARTER-CRELLIN-&lt;CRTR   03-20 0075</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CHARTER-CRELLIN &lt;CRTR> TO ACQUIRE SEBRO PLASTICS</TITLE>
+<DATELINE>    NEW YORK, March 20 - </DATELINE><BODY>Charter-Crellin Inc said it signed a
+letter of intent to acquire all outstanding shares of &lt;Sebro
+Plastics Inc's> capital stock.
+    Charter-Crellin, a molded plastic product maker, said Sebro
+is a precision molder of engineered specialty plastic products
+for the automotive industry.
+    The company said the deal is subject to the execution of a
+definitive purchase agreement.
+ Reuter
+&#3;</BODY></TEXT>

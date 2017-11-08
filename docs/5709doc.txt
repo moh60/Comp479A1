@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10622" NEWID="5709">
+<DATE>16-MAR-1987 16:48:45.06</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f3661&#31;reute
+d f BC-HIGH-VOLTAGE-&lt;HVE>-AD   03-16 0097</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HIGH VOLTAGE &lt;HVE> ADOPTS STOCK OWNERSHIP PLAN</TITLE>
+<DATELINE>    BURLINGTON, MASS., March 16 - </DATELINE><BODY>High Voltage Engineering Corp
+said it adopted an employee stock ownership plan.
+    All domestic non-union employees who have completed one
+thousand hours of service in the 12 months ended December 31
+are eligible to participate in the plan.
+    On March 12, the plan purchased 259,186 common shares at
+14.50 dlrs per share. In connection with the purchase, the plan
+borrowed 3.8 mln dlrs under a loan that is guaranteed by High
+Voltage.
+     In addition, High Voltage contributed 814 shares to the
+plan.
+
+ Reuter
+&#3;</BODY></TEXT>

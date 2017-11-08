@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11662" NEWID="6749">
+<DATE>18-MAR-1987 15:15:30.72</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f9214&#31;reute
+r f BC-COMMODORE-&lt;CBU>,-BALL   03-18 0096</UNKNOWN>
+<TEXT>&#2;
+<TITLE>COMMODORE &lt;CBU>, BALLY &lt;BLY> SET SOFTWARE PACT</TITLE>
+<DATELINE>    WEST CHESTER, Penn., March 18 - </DATELINE><BODY>Commodore International Ltd
+said its Commodore Business Machines unit reached an agreement
+with Bally Manufacturing Corp to supply software for the design
+of coin-operated video games.
+    The company said its Amiga computer graphics technology
+will be used to develop the games. In return, Commodore will
+receive software licensing rights to Bally video games
+developed for Amiga computer hardware.
+    The first game designed under the arrangement will be
+unveiled on March 20, the company said.
+ Reuter
+&#3;</BODY></TEXT>

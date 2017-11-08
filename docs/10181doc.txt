@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15702" NEWID="10181">
+<DATE>26-MAR-1987 16:34:54.61</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2616&#31;reute
+r f BC-ATCOR-&lt;ATCO>-CUTS-DIV   03-26 0051</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ATCOR &lt;ATCO> CUTS DIVIDEND</TITLE>
+<DATELINE>    HARVEY, Ill., March 26 - </DATELINE><BODY>Atcor Inc said it cut its
+quarterly dividend to three cts per share from 12 cts because
+of depressed earnings.
+    The dividend is payable April 15 to holders of record April
+6.
+    It said it will continue to review the dividend on a
+quarterly basis.
+ Reuter
+&#3;</BODY></TEXT>

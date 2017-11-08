@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16976" NEWID="10915">
+<DATE>30-MAR-1987 12:51:43.04</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>nyse</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1874&#31;reute
+u f BC-NYSE-SAYS-SANTA-FE-&lt;S   03-30 0090</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NYSE SAYS SANTA FE &lt;SFX> DECLINES COMMENT</TITLE>
+<DATELINE>    NEW YORK, March 30 - </DATELINE><BODY>The New York Stock Exchange said Santa
+Fe Southern Pacific Corp declined to comment on inquiries
+regarding the unusual activity in its stock.
+    Earlier, analysts and traders said the stock rose sharply
+after Henley Group &lt;HENG> disclosed in a securities and
+Exchange Commission filing that it holds almost eight mln
+shares in the railroad and real estate conglomerate.
+    The stock was trading at 38-3/4, up 2-5/8 on early
+afternoon turnover of over one million shares.
+ Reuter
+&#3;</BODY></TEXT>

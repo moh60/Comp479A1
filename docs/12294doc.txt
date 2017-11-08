@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="522" NEWID="12294">
+<DATE> 1-APR-1987 16:12:47.10</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2400&#31;reute
+h f BC-TRANSDUCER-SYSTEMS-IN   04-01 0065</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TRANSDUCER SYSTEMS INC YEAR</TITLE>
+<DATELINE>    KULPSVILLE, PA, April 1 -
+    </DATELINE><BODY>Shr profit 12 cts vs loss 49 cts
+    Net profit 117,000 vs loss 506,000
+    Revs 1.1 mln vs 1.2 mln
+    Year
+    Shr profit seven cts vs loss 89 cts
+    Net profit 66,000 vs loss 921,000
+    Revs 4.4 mln vs 3.9 mln
+    NOTE:1986 reflects tax benefit of 24,000. 1985 reflects tax
+benefit of 186,000 for quarter and 573,000 for year.
+ Reuter
+&#3;</BODY></TEXT>

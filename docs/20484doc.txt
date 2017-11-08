@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="21079" NEWID="20484">
+<DATE>20-OCT-1987 13:49:06.08</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>italy</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;V 
+&#22;&#22;&#1;f2506&#31;reute
+u f BC-G-7-MEETING-UNLIKELY   10-20 0084</UNKNOWN>
+<TEXT>&#2;
+<TITLE>G-7 MEETING UNLIKELY - ITALIAN TREASURY OFFICIAL</TITLE>
+<DATELINE>    ROME, Oct 20 - </DATELINE><BODY>A senior treasury ministry official said an
+early meeting of Group of Seven (G-7) finance ministers was
+unlikely following the sharp fall in stock markets around the
+world.
+    "I do not think a G-7 meeting is imminent, because the
+agreements made at the last meeting at the end of September in
+Washington remain valid," Antonio Pedone, economic adviser to
+Treasury Minister Giuliano Amato, said in an interview on
+Italian state radio.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16555" NEWID="1235">
+<DATE> 3-MAR-1987 14:45:29.33</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0579&#31;reute
+h f BC-PERINI-INVESTMENT-&lt;PN   03-03 0060</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PERINI INVESTMENT &lt;PNV> BUYS FLORIDA PROPERTIES</TITLE>
+<DATELINE>    FRAMINGHAM, Mass., March 3 - </DATELINE><BODY>Perini Investment Properties
+Inc said it has purchased three industrial/warehouse properties
+in Boca Raton, Fla., and one in Pompano Beach, Fla., for an
+undisclosed amount.
+    The company said the purchases increase its
+industrial/warehouse inventory by about 252,000 square feet.
+ Reuter
+&#3;</BODY></TEXT>

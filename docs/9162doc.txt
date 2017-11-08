@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14683" NEWID="9162">
+<DATE>25-MAR-1987 04:26:13.50</DATE>
+<TOPICS><D>money-fx</D><D>dlr</D></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0212&#31;reute
+f f BC-Japan-Trade-Ministry   03-25 0014</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE>Japan Trade Ministry asks trade houses, exporters to reduce dlr sales, sources
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

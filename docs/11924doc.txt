@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="152" NEWID="11924">
+<DATE> 1-APR-1987 10:04:10.74</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>nasdaq</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0971&#31;reute
+r f BC-BIOTHERAPEUTICS-&lt;BITX   04-01 0041</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BIOTHERAPEUTICS &lt;BITX> IN NASDAQ EXPANSION</TITLE>
+<DATELINE>    FRANKLIN, Tenn., April 1 - </DATELINE><BODY>Biotherapeutics Inc said its
+common stock will be included in the NASDAQ National Market
+System starting April Seven.
+    As a result, it said the stock will become marginable.
+ Reuter
+&#3;</BODY></TEXT>

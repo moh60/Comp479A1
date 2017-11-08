@@ -1,0 +1,37 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1010" NEWID="16475">
+<DATE>13-APR-1987 12:43:38.42</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F Y
+&#22;&#22;&#1;f1808&#31;reute
+u f BC-CANADA-STOCKS/DOME-PE   04-13 0104</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CANADA STOCKS/DOME PETROLEUM LTD &lt;DMP></TITLE>
+<DATELINE>    TORONTO, April 13 - </DATELINE><BODY>Dome Petroleum Ltd shares moved higher
+in the U.S. and Canada after TransCanada PipeLines Ltd &lt;TRP>
+made a 4.3 billion Canadian dlr bid for Dome and Dome said it
+is in talks with two other unidentified companies.
+    Market speculation is that the other two potential bidders
+are not Canadian companies and DuPont's &lt;DD> Conoco and
+Atlantic Richfield Co &lt;ARC> are mentioned as possibilities,
+Wilf Gobert of Peters and Co Ltd said.
+    Dome rose 1/4 to 1-1/8 on the American Stock Exchange.
+TransCanada PipeLines was down 1/4 at 15-3/4 on the New York
+Stock Exchange.
+    Dome was the most active stock on the Toronto exchange at
+1.50 dlrs per share, up 37 cts.
+    Gobert characterized the market action in Dome as "awfully
+optimistic" but said investors are hoping for a competing offer
+to the shareholders.
+    TransCanada PipeLines' offer is to Dome management, not to
+shareholders. However, it proposes issuing new equity in a
+subsidiary that would operate Dome assets. Current Dome
+shareholders would own 20 pct of the new subsidiary.
+ Reuter
+&#3;</BODY></TEXT>

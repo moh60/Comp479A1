@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13266" NEWID="7745">
+<DATE>20-MAR-1987 11:23:49.51</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1300&#31;reute
+d f BC-STANDARD-OIL-&lt;SRD>-LE   03-20 0067</UNKNOWN>
+<TEXT>&#2;
+<TITLE>STANDARD OIL &lt;SRD> LEASES CRAY &lt;CYR> COMPUTER</TITLE>
+<DATELINE>    MINNEAPOLIS, MINN., March 20 - </DATELINE><BODY>Cray Research Inc said
+Standard Oil Production Co, a Dallas-based subsidiary of
+Standard Oil Co, will lease its CRAY X-MP/28 supercomputer with
+an SSD solid state storage device.
+    The leased system will be installed in the second quarter
+of 1987 and replace a CRAY X-MP/24 computer system in operation
+since 1984, it said.
+ Reuter
+&#3;</BODY></TEXT>

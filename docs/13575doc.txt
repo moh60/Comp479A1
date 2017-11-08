@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="BYPASS" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="2558" NEWID="13575">
+<DATE> 7-APR-1987 07:49:52.65</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C T
+&#22;&#22;&#1;f0497&#31;reute
+u f BC-LDN-COFFEE-ROBUSTA-OP   04-07 0044</UNKNOWN>
+<TEXT TYPE="UNPROC">&#2;
+LDN COFFEE ROBUSTA OPEN POSITIONS (REVISED) - APR 6
+ May   17,090
+ Jul   15,603
+ Sep    6,959
+ Nov    6,234
+ Jan    3,119
+ Mar      632
+ May       40
+ TOTAL 49,677
+ Note: The figures represent the total clients long and short
+positions plus the net house positions.
+&#3;
+
+</TEXT>

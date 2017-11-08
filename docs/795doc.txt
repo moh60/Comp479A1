@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12978" NEWID="795">
+<DATE> 2-MAR-1987 16:51:00.84</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0111&#31;reute
+d f BC-DIAMOND-SHAMROCK-&lt;DIA   03-02 0033</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DIAMOND SHAMROCK &lt;DIA> SETS MEETING RECORD DATE</TITLE>
+<DATELINE>    DALLAS, MARCH 2 - </DATELINE><BODY>Diamond Shamrock Corp said it set March
+26 as the record date for stockholders entitled to vote at its
+April 30 annual meeting.
+
+ Reuter
+&#3;</BODY></TEXT>

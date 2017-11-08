@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15781" NEWID="10260">
+<DATE>26-MAR-1987 19:43:08.71</DATE>
+<TOPICS><D>cpi</D></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f2915&#31;reute
+f f BC-Japan-February-consum   03-26 0013</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE>Japan February consumer prices unchanged (0.4 pct January drop) - official
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

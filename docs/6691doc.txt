@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11604" NEWID="6691">
+<DATE>18-MAR-1987 13:52:20.68</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f8970&#31;reute
+r f BC-UNISYS-&lt;UIS>-MERGES-U   03-18 0096</UNKNOWN>
+<TEXT>&#2;
+<TITLE>UNISYS &lt;UIS> MERGES UNIX COMPUTER SYSTEMS</TITLE>
+<DATELINE>    DETROIT, March 18 - </DATELINE><BODY>Unisys Corp said that UNIX OS-based
+computer systems previously offered by Sperry and Burroughs
+have been merged into a single family of products.
+    It said completeness of product line, brand recognition and
+commitment to customers and original equipment manufacturer
+vendors prompted the move.
+    Unisys UNIX OS products consist of compatible software
+packages, terminals and printers for use in such applications
+as small business accounting systems to networking requirements
+of distributed processing.
+ Reuter
+&#3;</BODY></TEXT>

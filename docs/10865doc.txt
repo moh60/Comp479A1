@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16926" NEWID="10865">
+<DATE>30-MAR-1987 11:45:57.20</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1620&#31;reute
+r f BC-CENTRONICS-&lt;CEN>-CHAI   03-30 0051</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CENTRONICS &lt;CEN> CHAIRMAN RESIGNS</TITLE>
+<DATELINE>    NASHUA, N.H., March 30 - </DATELINE><BODY>Centronics Corp said its chairman,
+Stephen Weinroth, resigned his post to devote more time to his
+duties as managing director of Drexel Burnham Lambert Inc.
+    The company said Thomas Kamp, formerly vice chairman, was
+named to replace Weinroth.
+ Reuter
+&#3;</BODY></TEXT>

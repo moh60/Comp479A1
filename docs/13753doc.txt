@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="2736" NEWID="13753">
+<DATE> 7-APR-1987 09:38:37.86</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>canada</D><D>norway</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F Y
+&#22;&#22;&#1;f0796&#31;reute
+r f BC-bow-valley-&lt;bvi>-to-s   04-07 0079</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BOW VALLEY &lt;BVI> TO SELL NORWEGIAN SUBSIDIARY</TITLE>
+<DATELINE>   Calgary, Alberta, April 7 - </DATELINE><BODY>Bow Valley Industries Ltd said
+it agreed to sell its wholly owned Norwegian subsidiary to Elf
+Aquitaine Norge A/S of Stavanger, Norway for 13 mln Canadian
+dlrs.
+    The principal asset of the subsidiary, Bow Valley
+Exploration Norge A/S, is  an eight pct interest in the Heimdal
+gas and condensate field offshore Norway.
+    The sale is expected to conclude by the middle of April,
+Bow Valley said.
+ Reuter
+&#3;</BODY></TEXT>

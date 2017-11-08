@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7171" NEWID="19335">
+<DATE>19-JUN-1987 14:11:38.17</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A 
+&#22;&#22;&#1;f1933&#31;reute
+d f BC-BEST-BUY-&lt;BBUY.O>-FIL   06-19 0074</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BEST BUY &lt;BBUY.O> FILES 30 MLN DLR DEBT OFFERING</TITLE>
+<DATELINE>    MINNEAPOLIS, June 19 - </DATELINE><BODY>Best Buy Co Inc said it filed a
+registration statement with the Securities and Exchange
+Commission for a proposed offering of 30 mln dlrs of
+subordinated extendable notes.
+    Underwriters are led by Piper, Jaffray and Hopwood Inc.
+Financing is expected to be completed within 30 days, the
+company said.
+    Proceeds will be used to fund the company's planned
+expansion.
+ Reuter
+&#3;</BODY></TEXT>

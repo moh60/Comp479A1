@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13330" NEWID="7809">
+<DATE>20-MAR-1987 12:34:08.21</DATE>
+<TOPICS><D>lead</D></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>lme</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C M
+&#22;&#22;&#1;f1641&#31;reute
+u f BC-NO-FORCE-MAJEURE-ON-L   03-20 0098</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NO FORCE MAJEURE ON LEAD FROM CAPPER PASS</TITLE>
+<DATELINE>    LONDON, March 20 - </DATELINE><BODY>U.K. Smelter Capper Pass denied rumours
+that the company had declared, or was about to declare, force
+majeure on lead deliveries.
+    This followed trader talk on the London Metal Exchange,
+LME, after broker bids were made at increased premiums for
+Capper Pass brand material.
+    Traders said some slight production problems seem to exist
+but are unlikely to have any impact on the market. Lead values
+on the LME today were unchanged around 299 stg per tonne for
+three months delivery after thin business in a one stg range.
+ Reuter
+&#3;</BODY></TEXT>

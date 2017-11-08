@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="8166" NEWID="19838">
+<DATE>29-JUN-1987 14:54:15.63</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2212&#31;reute
+d f BC-BISCAYNE-HOLDINGS-&lt;BI   06-29 0100</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BISCAYNE HOLDINGS &lt;BISHA.O> REVERSE SPLIT OK'D</TITLE>
+<DATELINE>    MIAMI, June 29 - </DATELINE><BODY>Biscayne Holdings Inc said its
+stockholders approved a one-for-three reverse stock split as a
+portion of the amendments approved to its certificate of
+incorporation.
+    The company said holders reduced the number of authorized
+class A common shares to 50 mln from 100 mln and reclassified
+each outstanding three shares into one share. About 6,036,800
+shares will be outstanding after the split.
+    Biscayne Holdings said shareholders also approved annual
+election of directors, eliminating provisions related to the
+classified board.
+ Reuter
+&#3;</BODY></TEXT>

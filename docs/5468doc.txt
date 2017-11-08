@@ -1,0 +1,48 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10381" NEWID="5468">
+<DATE>16-MAR-1987 12:11:23.24</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>belgium</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f2716&#31;reute
+u f BC-IFC-PLANS-TO-LEAD-THI   03-16 0098</UNKNOWN>
+<TEXT>&#2;
+<TITLE>IFC PLANS TO LEAD THIRD WORLD TO CAPITAL MARKETS</TITLE>
+<DATELINE>    BRUSSELS, March 16 - </DATELINE><BODY>The International Finance Corporation
+is planning to intervene to help certain developing country
+companies to borrow on world capital markets, IFC chief
+executive Sir William Ryrie told a news conference.
+    Ryrie said the IFC is at present seeking to overcome
+regulatory barriers to its underwriting business on the United
+States and London markets.
+    "There are many companies in the more advanced developing
+countries which are strong enough to borrow by issuing bonds or
+floating rate notes," he added.
+    However, such companies needed help and the IFC could play
+a role by introducing them into the market and underwriting
+issues, Ryrie said.
+    "The capital markets would then get used to the idea of
+buying the paper of these companies," he added. "There is a
+potential source of development finance there which could be
+very large."
+    He said he was confident there were enough institutional
+investors who would be interested in taking paper in the
+interests of portfolio diversification.
+    The IFC, whose role is to provide international financing
+for private sector investments in developing nations, generally
+does this by providing pump priming finance to persuade western
+companies to invest in third world enterprises.
+    However, in recent years it has set up three investment
+funds through which institutional investors can hold shares in
+developing country stock exchanges.
+    It announced the third such fund, one of 30 mln dlrs for
+investment on the Thai stock exchange, in December. There is a
+120 mln dlr South Korea fund and one of 50 mln dlrs which
+invests in a number of developing country stock exchanges.
+ REUTER
+&#3;</BODY></TEXT>

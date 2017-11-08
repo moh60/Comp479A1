@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19228" NEWID="2810">
+<DATE> 6-MAR-1987 15:10:22.48</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0337&#31;reute
+r f BC-SOUTHTRUST-&lt;SOTR>-TO   03-06 0106</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SOUTHTRUST &lt;SOTR> TO ACQUIRE FOUR BANKS</TITLE>
+<DATELINE>    BIRMINGHAM, Ala., March 6 - </DATELINE><BODY>SouthTrust Corp, a 5.1 billion
+dlr multibank holding company, said it entered into agreements
+to acquire four Florida banks with assets totalling more than
+233.2 mln dlrs.
+    Terms of the agreements were not disclosed.
+    The four banks are: Central Bank of Volusia County, with
+assets of 59.3 mln dlrs, Bank of Pensacola with assets of 63.8
+mln dlrs, and Vista Bank, which operates Vista Bank of Volusia
+County with assets of 37.8 mln dlrs and Vista Bank of Marion
+County with assets of 72.3 mln dlrs.
+    It said the agreements are subject to regulatory approval.
+ Reuter
+&#3;</BODY></TEXT>

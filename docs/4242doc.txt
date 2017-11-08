@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9155" NEWID="4242">
+<DATE>12-MAR-1987 10:23:42.49</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0162&#31;reute
+u f BC-HYDRO-QUEBEC-CANADIAN   03-12 0040</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HYDRO QUEBEC CANADIAN DLR BOND RAISED TO 150 MLN</TITLE>
+<DATELINE>    LONDON, March 12 - </DATELINE><BODY>The Canadian dollar bond launched
+earlier today for Hydro Quebec has been increased to 150 mln
+dlrs from 125 mln, lead manager Merrill Lynch International
+said.
+ REUTER
+&#3;</BODY></TEXT>

@@ -1,0 +1,20 @@
+
+<REUTERS TOPICS="BYPASS" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="3793" NEWID="14810">
+<DATE> 7-APR-1987 23:03:21.00</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C T
+&#22;&#22;&#1;f2763&#31;reute
+b f BC-malaysian-rubber-opg   04-07 0018</UNKNOWN>
+<TEXT TYPE="UNPROC">&#2;
+Malaysian rubber opg - april 8 quiet ones may  228.00  230.00
+(prev same)
+     Jne  228.00  230.00 (prev same)
+&#3;
+
+</TEXT>

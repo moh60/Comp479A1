@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7812" NEWID="18367">
+<DATE> 2-JUN-1987 22:58:37.55</DATE>
+<TOPICS><D>gas</D></TOPICS>
+<PLACES><D>singapore</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;Y
+&#22;&#22;&#1;f3058&#31;reute
+u f BC-ESS0-LOWERS-PREMIUM-P   06-02 0063</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ESS0 LOWERS PREMIUM PETROL PUMP PRICE</TITLE>
+<DATELINE>    SINGAPORE, June 3 - </DATELINE><BODY>Esso Singapore Pte Ltd will lower the
+pump price of its premium 97 octane petrol price to 96.8
+cents/litre from 97 cents effective midnight tonight, a
+spokeswoman said.
+    The new price is similar to other oil companies' price for
+the same grade.
+    Esso's price for 95 octane remains unchanged at 90.8 cents.
+ REUTER
+&#3;</BODY></TEXT>

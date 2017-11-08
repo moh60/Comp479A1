@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15977" NEWID="10457">
+<DATE>27-MAR-1987 10:51:56.49&#5;&#5;&#5;E F</DATE>
+<UNKNOWN>&#22;&#22;&#1;f1105&#31;reute</UNKNOWN>
+<TOPICS></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+r f BC-bell-canada-buys   03-27 0067</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BELL CANADA &lt;BCE> BUYS SHARES ISSUED BY UNIT</TITLE>
+<DATELINE>    MONTREAL, March 27 - </DATELINE><BODY>Bell Canada Enterprises Inc said it
+acquired 150 mln dlrs of common shares issued by its wholly
+owned telephone unit, Bell Canada.
+    Bell said the transaction is expected to be completed on
+April 15, 1987, and proceeds to the telephone business will be
+used in part for capital expenditures and to provide additional
+working funds.
+ Reuter
+&#3;</BODY></TEXT>

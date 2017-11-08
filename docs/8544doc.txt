@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14065" NEWID="8544">
+<DATE>23-MAR-1987 17:24:52.38</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2538&#31;reute
+r f BC-QUAKER-OATS-&lt;OAT>-SEL   03-23 0069</UNKNOWN>
+<TEXT>&#2;
+<TITLE>QUAKER OATS &lt;OAT> SELLS VERNELL'S FINE CANDIES</TITLE>
+<DATELINE>    CHICAGO, March 23 - </DATELINE><BODY>Quaker Oats Co said Keystone Partners
+Inc has purchased Vernell's Fine Candies Inc, previously an
+indirect subsidiary of Quaker. The price was not disclosed.
+    It said Vernell's, based in Bellevue, Wash., had annual
+sales exceeding 30 mln dlrs. Vernell's was acquired by Quaker
+in its acquisition of Golden Grain Macaroni Co in August 1986.
+ Reuter
+&#3;</BODY></TEXT>

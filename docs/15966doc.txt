@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5004" NEWID="15966">
+<DATE> 9-APR-1987 16:23:33.04</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F A RM
+&#22;&#22;&#1;f2534&#31;reute
+r f BC-MOODY'S-UPGRADES-SOUT   04-09 0089</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MOODY'S UPGRADES SOUTHWEST AIRLINES &lt;LUV> UNIT</TITLE>
+<DATELINE>    NEW YORK, April 9 - </DATELINE><BODY>Moody's Investors Service said it has
+raised its ratings on about 50 mln dlrs of outstanding
+securities of Southwest Airlines Co unit, TransStar Airlines
+Corp, formerly named Musa Air Corp.
+    The agency has up the company's senior secured debt to Ba2
+from B2.
+    The action reflects the improvement in the company's
+financial position since its acquisition by Southwest.
+    Southwest operates TransStar as a separate unit and has not
+legally assumed its debt.
+   
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17719" NEWID="11657">
+<DATE>31-MAR-1987 16:04:29.48</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D><D>west-germany</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2571&#31;reute
+d f BC-ALLIED-SIGNAL-&lt;ALD>-C   03-31 0057</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ALLIED-SIGNAL &lt;ALD> COMPLETES UNIT SALE</TITLE>
+<DATELINE>    MORRIS TOWNSHIP, N.J., March 31 - </DATELINE><BODY>Allied-Signal Inc said it
+completed the previously announced sale of its Linotype Group
+to Commerzbank AG of West Germany.
+    The purchase price was not disclosed.
+    Eschborn, West Germany-based Linotype had 1986 sales of
+more than 200 mln dlrs, the company said.
+ Reuter
+&#3;</BODY></TEXT>

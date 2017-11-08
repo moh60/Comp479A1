@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13753" NEWID="8232">
+<DATE>23-MAR-1987 09:27:09.39</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0844&#31;reute
+d f BC-SUN-MICROSYSTEMS-&lt;SUN   03-23 0044</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SUN MICROSYSTEMS &lt;SUNW> CONTRACT EXTENDED</TITLE>
+<DATELINE>    MOUNTAIN VIEW, Calif., March 23 - </DATELINE><BODY>Sun Microsystems Inc said
+it has received a one-year 15 mln dlr renewal of its agreement
+to provide Interleaf Inc &lt;LEAF> with Sun-3 technical
+workstations on an original equipment basis.
+ Reuter
+&#3;</BODY></TEXT>

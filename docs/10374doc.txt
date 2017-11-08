@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15895" NEWID="10374">
+<DATE>27-MAR-1987 08:13:03.76&#5;&#5;&#5;V</DATE>
+<UNKNOWN>&#22;&#22;&#1;f0653&#31;reute</UNKNOWN>
+<TOPICS></TOPICS>
+<PLACES><D>italy</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+r f BC-ANDREOTTI-DROPS-COALI   03-27 0060</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ANDREOTTI DROPS COALITION BID</TITLE>
+<DATELINE>    ROME, March 25 - </DATELINE><BODY>Veteran politician Giulio Andreotti
+abandoned his attempts to form a government, putting Italy on
+course for early elections, political sources said.
+    Christian Democrat Andreotti told President Francesco
+Cossiga he was unable to reconstruct the five-party coalition
+after two weeks of negotiations, they said.
+ Reuter
+&#3;</BODY></TEXT>

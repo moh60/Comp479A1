@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7012" NEWID="19176">
+<DATE>19-JUN-1987 10:36:56.10</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1034&#31;reute
+d f BC-GTE-&lt;GTE>-UNIT-GETS-C   06-19 0068</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GTE &lt;GTE> UNIT GETS CONTRACT FOR PRODUCTS</TITLE>
+<DATELINE>    NEW YORK, June 19 - </DATELINE><BODY>GTE Corp said its Fiber Optic Products
+division was awarded a 250,000 dlr minimum contract by NYNEX
+Corp's &lt;NYN> Enterprise Co.
+    The bulk of the agreement applies to GTE's elastomeric
+glass tube splice products, the company said, as well as other
+fiber optic components, including GTE's recently-introduced
+cleaving tool and installation kit.
+ Reuter
+&#3;</BODY></TEXT>

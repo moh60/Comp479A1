@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1101" NEWID="16566">
+<DATE>13-APR-1987 14:25:07.12</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A
+&#22;&#22;&#1;f2165&#31;reute
+d f BC-BANKAMERICA-&lt;BAC>-SET   04-13 0111</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BANKAMERICA &lt;BAC> SETS NEW BANKING SERVICE</TITLE>
+<DATELINE>    SAN FRANCISCO, April 13 - </DATELINE><BODY>BankAmerica Corp said it has
+introduced an electronic information and transaction service
+for small businesses in California.
+    The bank holding company said the service, called Business
+Connection, allows customers to use personal computers to
+transefer money between accounts, check account balances in
+Bank of America business checking, savings and credit card
+accounts, and to call up checking account statements.
+    The service also allows businesses to use electronic mail
+to stop payments on checks, access commercial credit lines for
+advancements and repayments,  and to pay bills.
+ Reuter
+&#3;</BODY></TEXT>

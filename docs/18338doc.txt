@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7783" NEWID="18338">
+<DATE> 2-JUN-1987 18:19:34.28</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2856&#31;reute
+r f BC-SOUTHERN-AIR-SUES-MIA   06-02 0077</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SOUTHERN AIR SUES MIAMI TV STATION</TITLE>
+<DATELINE>    MIAMI, June 2 - </DATELINE><BODY>&lt;Southern Air Transport> said it sued
+WPLG-Channel 10 of Miami for compensatory and punitive damages
+in excess of 50 mln dlrs for false and defamatory statements
+made by the television station in a series of broadcasts last
+month.
+    The complaint alleges that the broadcast contained numerous
+false statements which the stations knew were untrue.
+    Officials of either company were unavailable for comment.
+ Reuter
+&#3;</BODY></TEXT>

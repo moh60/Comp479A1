@@ -1,0 +1,31 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12126" NEWID="7214">
+<DATE>19-MAR-1987 11:52:40.02</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C
+&#22;&#22;&#1;f1433&#31;reute
+d f BC-U.S.-OFFICIAL-PESSIMI   03-19 0122</UNKNOWN>
+<TEXT>&#2;
+<TITLE>U.S. OFFICIAL PESSIMISTIC ON AID FUNDING</TITLE>
+<DATELINE>    WASHINGTON, March 19 - </DATELINE><BODY>Deputy Assistant Treasury Secretary
+James Conrow said he was exceedingly pessimistic that 1988
+funding for the multilateral development banks, as proposed by
+the Reagan administration, will be approved by Congress.
+    Speaking to an international development conference, Conrow
+said it appears almost certain Congress will opt to cut
+spending for international programs before they cut into
+domestic programs.
+    He said in such an environment "foreign aid will lose and
+lose big."
+    The administration has proposed development bank funding of
+1.8 billion dlrs for fiscal year 1988 and seeks about 290 mln
+dlrs in catch-up from funding reduced in prior years.
+  
+ Reuter
+&#3;</BODY></TEXT>

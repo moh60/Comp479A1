@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7116" NEWID="19280">
+<DATE>19-JUN-1987 13:11:55.92</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1728&#31;reute
+u f BC-GALAXY-&lt;GTV>-TO-SELL   06-19 0106</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GALAXY &lt;GTV> TO SELL WEST TEXAS ASSETS</TITLE>
+<DATELINE>    SIKESTON, Mo., June 19 - </DATELINE><BODY>Galaxy Cablevision L.P. said it
+signed a letter of intent to sell the assets of its cable
+television systems in West Texas which serve about 4,600 basic
+subscribers through nine cable television systems.
+    Terms were not disclosed and the Galaxy did not identify
+the buyer. The company also said it will make its first cash
+dividend of 37 cents per unit on or about August 15 to holders
+of record June 30.
+    In March, Galaxy completed a public offering of 2.2 mln
+units for 43 mln dlrs and acquired the assets of 132 cable
+television systems for about 34 mln dlrs.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11291" NEWID="6378">
+<DATE>18-MAR-1987 06:18:25.05</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>switzerland</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f7339&#31;reute
+u f BC-ROCHE-INTRODUCES-NEW   03-18 0090</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ROCHE INTRODUCES NEW ANTI-RHEUMATISM DRUG</TITLE>
+<DATELINE>    BASLE, Switzerland, March 18 - </DATELINE><BODY>F. Hoffmann-La Roche und Co
+AG &lt;HOFZ.Z> said it introduced a new anti-rheumatism drug with
+the brand name tilcotil on the Swiss market starting today.
+    The drug, developed by Roche itself, contains the substance
+tenoxicam. The company said in a statement that tests had shown
+its effectiveness against various types of rheumatism and
+arthritis. It was attractive for sufferers because it worked
+quickly and needed to be taken only once a day, Roche said.
+ REUTER
+&#3;</BODY></TEXT>

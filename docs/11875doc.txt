@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="103" NEWID="11875">
+<DATE> 1-APR-1987 08:34:57.17</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0702&#31;reute
+r f BC-ANTONOVICH-&lt;FURS>-INI   04-01 0048</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ANTONOVICH &lt;FURS> INITIAL OFFERING UNDER WAY</TITLE>
+<DATELINE>    NEW YORK, April 1 - </DATELINE><BODY>Antonovich Inc said an initial offering
+of 750,000 Class A common shares is under way at 9.625 dlrs
+each through underwriters led by Evans and Co Inc.
+    It said it is selling 500,000 shares and shareholders the
+rest.
+ Reuter
+&#3;</BODY></TEXT>

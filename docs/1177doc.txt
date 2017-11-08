@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16497" NEWID="1177">
+<DATE> 3-MAR-1987 12:43:47.29</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0127&#31;reute
+r f BC-CARME-INC-&lt;CAME>-2ND   03-03 0041</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CARME INC &lt;CAME> 2ND QTR JAN 31 NET</TITLE>
+<DATELINE>    NOVATO, Calif., March 3 -
+    </DATELINE><BODY>Shr nine cts vs one ct
+    Net 247,489 vs 27,301
+    Sales 1,933,107 vs 796,613
+    Six mths
+    Shr 21 cts vs five cts
+    Net 565,106 vs 121,997
+    Sales 3,781,970 vs 1,778,110
+ Reuter
+&#3;</BODY></TEXT>

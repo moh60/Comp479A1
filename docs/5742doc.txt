@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10655" NEWID="5742">
+<DATE>16-MAR-1987 18:06:01.02</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E
+&#22;&#22;&#1;f3827&#31;reute
+d f BC-&lt;FINANCIAL-TRUSTCO-CA   03-16 0044</UNKNOWN>
+<TEXT>&#2;
+<TITLE>&lt;FINANCIAL TRUSTCO CAPITAL LTD> HIKES PAYOUT</TITLE>
+<DATELINE>    CALGARY, Alberta, March 16 -
+    </DATELINE><BODY>Qtly div 12.5 cts vs six cts
+    Pay March 31
+    Record March 24
+    Note: Co also declares 12.5 ct qtly div on special shares
+issued in December, 1986, with same pay and record dates.
+ Reuter
+&#3;</BODY></TEXT>

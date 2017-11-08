@@ -1,0 +1,31 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7193" NEWID="19357">
+<DATE>19-JUN-1987 14:43:34.45</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2023&#31;reute
+r f BC-COSTCO-WHOLESALE-&lt;COS   06-19 0048</UNKNOWN>
+<TEXT>&#2;
+<TITLE>COSTCO WHOLESALE &lt;COST.O> 3RD QTR MAY 11 NET</TITLE>
+<DATELINE>    SEATTLE, June 19 -
+    </DATELINE><BODY>Oper shr two cts vs three cts
+    Oper net 529,000 vs 579,000
+    Sales 322.0 mln vs 173.8 mln
+    Nine mths
+    Oper shr six cts vs eight cts
+    Oper net 1,619,000 vs 1,700,000
+    Sales 875.1 mln vs 482.3 mln
+   
+    Note: oper data does not include extraordinary gains from
+tax loss carryforwards of 291,000 dlrs, or one ct per shr, vs
+316,000 dlrs, or one ct per shr in qtr and 890,000 dlrs, or
+four cts per shr vs 992,000 dlrs, or four cts per shr in nine
+mths.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="1928" NEWID="12959">
+<DATE> 3-APR-1987 11:55:12.42</DATE>
+<TOPICS><D>rubber</D></TOPICS>
+<PLACES><D>canada</D><D>finland</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;E F
+&#22;&#22;&#1;f1464&#31;reute
+r f BC-polysar-in-joint   04-03 0105</UNKNOWN>
+<TEXT>&#2;
+<TITLE>POLYSAR IN JOINT VENTURE ON FINLAND LATEX PLANT</TITLE>
+<DATELINE>    SARNIA, Ontario, April 3 - </DATELINE><BODY>Polysar Ltd, wholly owned by
+&lt;Canada Development Corp>, said it agreed to form a joint
+venture with Raision Tehtaat, of Finland, to build a synthetic
+rubber latex plant in southern Finland.
+    Project cost and plant capacity were not disclosed.
+    The joint venture, to be 51 pct owned by Raision Tehtaat
+and 49 pct by Polysar, will build a plant at Anjalankoski, east
+of Helsinki, to produce carboxylated styrene-butadiene latex.
+    The plant's production will be used by Finland's paper
+industry for making coated paper and paper board products.
+ Reuter
+&#3;</BODY></TEXT>

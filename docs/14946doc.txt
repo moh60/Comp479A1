@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="3929" NEWID="14946">
+<DATE> 8-APR-1987 08:46:06.75</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0786&#31;reute
+r f BC-ALLIED-SIGNAL-&lt;ALD>-F   04-08 0063</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ALLIED SIGNAL &lt;ALD> FIBERS UNIT SETS RESEARCH</TITLE>
+<DATELINE>    BOULDER, Colo., April 8 - </DATELINE><BODY>Hauser Chemical Research Inc said
+it has been contracted by Allied Signal Inc's Allied Fibers
+division for research consulting on further development of
+improved adhesion of polyolefin fiber through photografting.
+    Hauser said it previously completed the successful first
+phase of this research effort.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17710" NEWID="11648">
+<DATE>31-MAR-1987 15:54:17.43</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2537&#31;reute
+d f BC-BANNER-&lt;BNR>-DISPUTE   03-31 0103</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BANNER &lt;BNR> DISPUTE MUST GO TO ARBITRATION</TITLE>
+<DATELINE>    CLEVELAND, March 31 - </DATELINE><BODY>Banner Industries Inc said a judge of
+the U.S. District Court in Chicago ruled that Banner must
+resolve its pension fund dispute in arbitration rather than in
+federal court.
+    The court's ruling stems from a lawsuit Banner filed in
+federal court last May seeking a ruling that it is not liable
+to the Central States Fund for about 20 mln dlrs in pension
+withdrawal liability payments.
+    Banner said the district court reserved ruling on whether
+it must pay about five mln dlrs that the Central Fund claims is
+owed in back-due interim payments.
+ Reuter
+&#3;</BODY></TEXT>

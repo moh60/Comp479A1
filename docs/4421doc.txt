@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9334" NEWID="4421">
+<DATE>12-MAR-1987 14:22:16.52</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0077&#31;reute
+r f BC-E-SYSTEMS-&lt;ESY>-CHAIR   03-12 0069</UNKNOWN>
+<TEXT>&#2;
+<TITLE>E-SYSTEMS &lt;ESY> CHAIRMAN TO RETIRE</TITLE>
+<DATELINE>    DALLAS, March 12 - </DATELINE><BODY>E-Systems Inc said John W. Dixon will
+retire April 21 as chairman and chief executive officer but
+remain on the board as chairman emeritus.
+    The company said president and chief operating officer
+David R. Tacke will succeed Dixon as chairman and chief
+executive and senior vice president E. Gene Keigger will become
+president and chief operating officer.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15949" NEWID="10428">
+<DATE>27-MAR-1987 10:16:44.82&#5;&#5;&#5;RM</DATE>
+<UNKNOWN>&#22;&#22;&#1;f0980&#31;reute</UNKNOWN>
+<TOPICS></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+u f BC-MORGAN-GUARANTY-JOINS   03-27 0066</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MORGAN GUARANTY JOINS DEALERS FOR BSAF PROGRAM</TITLE>
+<DATELINE>    LONDON, March 27 - </DATELINE><BODY>Morgan Guaranty Ltd said it has been
+added to the group of dealers for the euro-commercial paper
+program for BASF Corp that was launched last year.
+    The program is for an unspecified amount and is guaranteed
+by the parent BASF Ag.
+    The other dealers are Union Bank of Switzerland and Morgan
+Stanley International.
+ REUTER
+&#3;</BODY></TEXT>

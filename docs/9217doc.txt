@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14738" NEWID="9217">
+<DATE>25-MAR-1987 07:27:18.76</DATE>
+<TOPICS><D>money-fx</D></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0527&#31;reute
+b f BC-U.K.-MONEY-MARKET-FOR   03-25 0045</UNKNOWN>
+<TEXT>&#2;
+<TITLE>U.K. MONEY MARKET FORECAST REVISED TO SHOW SURPLUS</TITLE>
+<DATELINE>    LONDON, March 25 - </DATELINE><BODY>The Bank of England said it had revised
+its forecast of the liquidity position in the money market
+today to a surplus of 150 mln stg after it estimated a flat
+position earlier this morning.
+ REUTER
+&#3;</BODY></TEXT>

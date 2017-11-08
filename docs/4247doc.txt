@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9160" NEWID="4247">
+<DATE>12-MAR-1987 10:26:49.07</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0175&#31;reute
+d f BC-LEWIS-LEHRMAN-TO-JOIN   03-12 0093</UNKNOWN>
+<TEXT>&#2;
+<TITLE>LEWIS LEHRMAN TO JOIN MORGAN STANLEY &lt;MS></TITLE>
+<DATELINE>    NEW YORK, March 12 - </DATELINE><BODY>Morgan Stanley Group Inc said Lewis E.
+Lehrman will join the firm as senior advisor as a directory of
+Morgan Stanley Asset Management.
+    It said Lehrman will concentrate on the growth and
+development of Morgan Stanley's asset management business in
+the U.S., Europe and Asia.
+    Lehrman, the former president and chairman of the executive
+committee at Rite Aid Corpo &lt;RAD>, ran against Mario Cuomo as
+the Republican and Conservative Party Candidate for governor of
+New York State in 1982.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14093" NEWID="8572">
+<DATE>23-MAR-1987 18:20:04.72</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2644&#31;reute
+r f BC-QUAKER-OATS-&lt;OAT>-SEL   03-23 0066</UNKNOWN>
+<TEXT>&#2;
+<TITLE>QUAKER OATS &lt;OAT> SELLS UNIT TO KEYSTONE</TITLE>
+<DATELINE>    SEATTLE, Wash., March 23 - </DATELINE><BODY>The Quaker Oats Co said it sold
+its Vernell's Fine Candies Inc unit to privately-held Keystone
+Partners Inc for an undisclosed price.
+    The company said Vernells had sales of around 30 mln dlrs
+in the year ended in August, 1986.
+    Quaker Oats acquired Vernells in August, 1986 when it
+purchased Golden Grain Macaroni Co.
+   
+ Reuter
+&#3;</BODY></TEXT>

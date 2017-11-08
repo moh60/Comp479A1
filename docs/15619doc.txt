@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5517" NEWID="15619">
+<DATE> 9-APR-1987 11:07:33.90</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1259&#31;reute
+u f BC-DAYTON-HUDSON-&lt;DH>-MA   04-09 0070</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DAYTON HUDSON &lt;DH> MARCH SALES OFF 4.9 PCT</TITLE>
+<DATELINE>    MINNEAPOLIS, April 9 - </DATELINE><BODY>Dayton Hudson Corp said retail sales
+for the five weeks ended April Four were 791.8 mln dlrs
+compared to 755.6 mln dlrs a year ago. On a comparable store
+basis, it said sales declined 4.9 pct.
+    Sales for the nine months were 1.39 billion dlrs, up from
+1.26 billion dlrs in the same 1986 period. On a comparable
+store basis, the sales rose 1.2 pct.
+ Reuter
+&#3;</BODY></TEXT>

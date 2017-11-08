@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17911" NEWID="1493">
+<DATE> 4-MAR-1987 10:40:41.91</DATE>
+<TOPICS><D>pet-chem</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0431&#31;reute
+d f BC-DOW-CHEMICAL-CO-&lt;DOW>   03-04 0063</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DOW CHEMICAL CO &lt;DOW> UNIT INCREASES PRICES</TITLE>
+<DATELINE>    MIDLAND, Mich., March 4 - </DATELINE><BODY>The Dow Chemical Co said its
+Engineering Thermoplastics Department will increase the selling
+prices of standard grades of MAGNUM ABS resins by three cts per
+pound.
+    It also announced an increase of five cts per pound for
+performance grades of the resins.
+    Both increases are effective April 1, 1987.
+
+ Reuter
+&#3;</BODY></TEXT>

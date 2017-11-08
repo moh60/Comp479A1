@@ -1,0 +1,20 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1210" NEWID="16675">
+<DATE>13-APR-1987 16:30:43.10</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2558&#31;reute
+d f BC-&lt;THERA-CARE-INC>-TO-A   04-13 0033</UNKNOWN>
+<TEXT>&#2;
+<TITLE>&lt;THERA-CARE INC> TO ACQUIRE CUSHING</TITLE>
+<DATELINE>    EL CAJON, Calif., April 13 - </DATELINE><BODY>Thera-Care Inc said it agreed
+to acquire Cushing and Associates of Glendale, Calif., in
+exchange for 1,480,000 Thera-Care shares.
+ Reuter
+&#3;</BODY></TEXT>

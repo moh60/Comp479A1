@@ -1,0 +1,32 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1410" NEWID="16875">
+<DATE>17-APR-1987 13:02:39.75</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0347&#31;reute
+u f BC-HOSPITAL-CORP-&lt;HCA>-B   04-17 0107</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HOSPITAL CORP &lt;HCA> BOARD AGAINST BUYOUT BID</TITLE>
+<DATELINE>    NASHVILLE, Tenn., April 17 - </DATELINE><BODY>Hospital Corp of America said
+its management believes the 47 dlr per share acquisition offer
+it received from Charles R. Miller, Richard E. Ragsdale and
+Richard L. Scott is not in the best interest of shareholders,
+and it does not plan to meet with the individuals.
+    The company said its board considered information on the
+three and their bid, and "Given the lack of any demonstrated
+ability on the part of these individuals to consummate an
+acquisition of this magnitude, the board decided it was not
+necessary to take any action on their proposal at this time."
+    Hospital Corp said "The benefits of the company's ongoing
+repositioning program are already being realized, and we will
+continue to explore appropriate alternatives for enhancing
+shareholder value."
+ Reuter
+&#3;</BODY></TEXT>

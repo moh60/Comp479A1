@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13301" NEWID="7780">
+<DATE>20-MAR-1987 11:54:29.63</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1454&#31;reute
+h f BC-LOTUS-&lt;LOTS>,-MCI-&lt;MC   03-20 0069</UNKNOWN>
+<TEXT>&#2;
+<TITLE>LOTUS &lt;LOTS>, MCI &lt;MCIC> SHIP SOFTWARE PACKAGE</TITLE>
+<DATELINE>    CAMBRIDGE, Mass., March 20 - </DATELINE><BODY>Lotus Development Corp and MCI
+Communications Corp said they made the first shipment of Lotus
+Express for MCI Mail, a communications-software product that
+enables personal computer users to exchange messages, send
+telexes and transfer files.
+    Lotus Express was announced last December and was shipped
+on schedule, the companies said.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="NOT-USED" CGISPLIT="PUBLISHED-TESTSET" OLDID="21731" NEWID="17108">
+<DATE>24-APR-1987 11:31:18.91</DATE>
+<TOPICS><D>crude</D><D>nat-gas</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F Y
+&#22;&#22;&#1;f1358&#31;reute
+h f BC-NOBLE-&lt;NBL>-SUBMITS-H   04-24 0068</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NOBLE &lt;NBL> SUBMITS HIGH BID FOR TRACT</TITLE>
+<DATELINE>    ARDMORE, Okla., April 24 - </DATELINE><BODY>Noble Affiliates Inc said it
+submitted the high bid for six tracts at the Central Gulf of
+Mexico sale on April 22.
+    It said its exploration and production subsidiary, Samedan
+Oil Corp, participated in the high bid for the following
+tracts, West Cameron 296, East Cameron 296, Vermilion 266, Ship
+Shoal 350, Main Pass 90 and Main Pass 100.
+ Reuter
+&#3;</BODY></TEXT>

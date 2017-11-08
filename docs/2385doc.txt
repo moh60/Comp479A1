@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18802" NEWID="2385">
+<DATE> 5-MAR-1987 15:16:33.26</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0546&#31;reute
+u f BC-LUCKY-STORES-INC-&lt;LKS   03-05 0034</UNKNOWN>
+<TEXT>&#2;
+<TITLE>LUCKY STORES INC &lt;LKS> REINSTATES QUARTERLY DIV</TITLE>
+<DATELINE>    DUBLIN, Calif., March 5 -
+    </DATELINE><BODY>Qtly div 12.5 cts vs nil
+    Pay April 3
+    Record March 16
+    Note: in quarters preceeding 4th qtr, dividend was 29 cts.
+ Reuter
+&#3;</BODY></TEXT>

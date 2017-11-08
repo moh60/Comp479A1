@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6268" NEWID="18516">
+<DATE>18-JUN-1987 05:33:42.40</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>new-zealand</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM 
+&#22;&#22;&#1;f2426&#31;reute
+u f BC-NEW-ZEALAND-TAX-IMPUT   06-18 0084</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NEW ZEALAND TAX IMPUTATION SYSTEM BY 1988/89</TITLE>
+<DATELINE>    WELLINGTON, June 18 - </DATELINE><BODY>Finance Minister Roger Douglas said
+the government would introduce a full tax imputation system on
+dividends effective from the 1988/89 income year.
+    Confirming the government's timetable for the imputation
+system, which had been announced in earlier budgets, Douglas
+said in a statement that the system would substantially reduce
+the influence of the tax system on companies' financial
+policies and investment strategies.
+ REUTER
+&#3;</BODY></TEXT>

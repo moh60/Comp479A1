@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17267" NEWID="11206">
+<DATE>31-MAR-1987 04:40:45.28</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0329&#31;reute
+u f BC-DPCE-SEEKS-14.6-MLN-S   03-31 0090</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DPCE SEEKS 14.6 MLN STG IN RIGHTS ISSUE</TITLE>
+<DATELINE>    LONDON, March 31 - </DATELINE><BODY>&lt;DPCE Holdings Plc> said it planned to
+raise 14.6 mln stg net through an underwritten rights issue of
+4.7 mln shares at 320p issued on a one-for-six basis.
+    The funds would be used to expand the computer maintenance
+company's presence in major centres where computer technology
+is developed. The company planned to make acquisitions, extend
+the range of services it offered and buy capital equipment to
+support major new contracts.
+    DPCE shares were unchanged at 365p.
+ REUTER
+&#3;</BODY></TEXT>

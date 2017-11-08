@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7672" NEWID="18227">
+<DATE> 2-JUN-1987 14:51:02.85</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2329&#31;reute
+r f BC-AMR-&lt;AMR>-COMPLETES-P   06-02 0101</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AMR &lt;AMR> COMPLETES PREFERRED STOCK PLACEMENT</TITLE>
+<DATELINE>    DALLAS, June 2 - </DATELINE><BODY>AMR Corp, parent company of American
+Airlines, said it has completed a private placement of 150 mln
+dlrs of preferred auction rate stock through Bankers Trust Co
+NY &lt;BT>.
+    AMR said the preferred stock was sold in three series of 50
+mln dlrs each. Each series is perpetual and will pay dividend
+rates which will be determined every seven weeks through a
+Dutch Auction process, AMR added.
+    The company said it will add the proceeds from the issue to
+working capital and use it for capital expenditures and for
+general corporate purposes.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1232" NEWID="16697">
+<DATE>13-APR-1987 16:58:55.17</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A RM
+&#22;&#22;&#1;f2648&#31;reute
+r f BC-MOODY'S-DOWNGRADES-MI   04-13 0110</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MOODY'S DOWNGRADES MICHIGAN GENERAL &lt;MGL> DEBT</TITLE>
+<DATELINE>    NEW YORK, April 13 - </DATELINE><BODY>Moody's Investors Service Inc said it
+downgraded 110 mln dlrs of debt of Michigan General Corp.
+    Reduced were the company's 10-3/4 pct senior subordinated
+debentures of 1998 to Caa from B-3.
+    Moody's cited Michigan's ongoing losses which have impaired
+liquidity, weakened financial flexibility and lessened the
+likelihood for operating performance to improve.
+    Michigan's principal business, lumber and housebuilding
+products sales, operates in a cyclical and highly competitve
+environment so that even debt restructuring would probably not
+improve earnings, Moody's pointed out.
+ Reuter
+&#3;</BODY></TEXT>

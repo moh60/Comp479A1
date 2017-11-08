@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18372" NEWID="1954">
+<DATE> 5-MAR-1987 06:02:28.72</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>japan</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0588&#31;reute
+r f BC-JAPAN'S-CHAMBER-OF-CO   03-05 0105</UNKNOWN>
+<TEXT>&#2;
+<TITLE>JAPAN'S CHAMBER OF COMMERCE URGES FISCAL SPENDING</TITLE>
+<DATELINE>    TOKYO, March 5 -</DATELINE><BODY>President of the Japan Chamber of Commerce
+and Industry (JCCI) Noboru Gotoh called on the Government to
+issue additional construction bonds as an emergency measure to
+stimulate domestic demand.
+    Gotoh told a press conference that increased fiscal
+spending is the only alternative to prop up the economy as
+credit conditions are easy enough, a JCCI spokesman said.
+    Japan faces serious unemployment unless more construction
+bonds, to raise cash for public works, are issued but Japan
+should continue to carry out fiscal reform programmes, Gotoh
+said.
+ REUTER
+&#3;</BODY></TEXT>

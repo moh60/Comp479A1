@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7585" NEWID="18140">
+<DATE> 2-JUN-1987 12:57:55.62</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1886&#31;reute
+r f BC-KROGER-&lt;KR>-SAYS-UNIO   06-02 0060</UNKNOWN>
+<TEXT>&#2;
+<TITLE>KROGER &lt;KR> SAYS UNION REJECTS CONTRACT</TITLE>
+<DATELINE>    DENVER, June 2 - </DATELINE><BODY>Kroger Co's King Soopers Supermarkets unit
+said employees, members of the United Food and Commercial
+Workers Union, rejected its latest contract proposal by a 58
+pct to 42 pct margin.
+    The company said employees have been on strike since May 8,
+but it has kept the stores open and fully staffed.
+ Reuter
+&#3;</BODY></TEXT>

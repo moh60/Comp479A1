@@ -1,0 +1,20 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18524" NEWID="2106">
+<DATE> 5-MAR-1987 10:49:45.98</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0415&#31;reute
+u f BC-WAL-MART-STORES-&lt;WMT>   03-05 0036</UNKNOWN>
+<TEXT>&#2;
+<TITLE>WAL-MART STORES &lt;WMT> FEBRUARY SALES UP 44 PCT</TITLE>
+<DATELINE>    BENTONVILLE, Ark., March 5 - </DATELINE><BODY>Wal-Mart Stores Inc said
+February sales were up 44 pct to 885 mln dlrs from 615 mln dlrs
+a year before, with same-store sales up 14 pct.
+ Reuter
+&#3;</BODY></TEXT>

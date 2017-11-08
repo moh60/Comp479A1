@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19600" NEWID="3178">
+<DATE> 9-MAR-1987 11:59:01.48</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A RM
+&#22;&#22;&#1;f0709&#31;reute
+r f BC-MTECH-&lt;MTCH>-FILES-CO   03-09 0090</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MTECH &lt;MTCH> FILES CONVERTIBLE DEBT OFFERING</TITLE>
+<DATELINE>    NEW YORK, March 9 - </DATELINE><BODY>MTech Corp said it filed with the
+Securities and Exchange Commission a registration statement
+covering a 75 mln dlr issue of convertible subordinated
+debentures due 2012.
+    The company named Alex Brown and Sons Inc as lead manager,
+with First Boston Corp and Shearson Lehman Brothers Inc as
+co-managers, of the offering.
+    MTech said it granted the underwriters an option to buy an
+additional 11.25 mln dlrs in principal amount of the debentures
+to cover over-allotments.
+ Reuter
+&#3;</BODY></TEXT>

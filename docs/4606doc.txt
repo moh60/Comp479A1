@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9519" NEWID="4606">
+<DATE>12-MAR-1987 19:00:08.24</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0855&#31;reute
+d f BC-GERBER-&lt;GRB>-BUYS-GER   03-12 0064</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GERBER &lt;GRB> BUYS GERBER SYSTEMS &lt;GSTI> SHARES</TITLE>
+<DATELINE>    SOUTH WINDSOR, Conn, March 12 - </DATELINE><BODY>Gerber Scientific Inc said
+its GST Acquisition Corp purchased 444,646 shares of its 84 pct
+owned Gerber Systems Technology pursuant to a January 15 tender
+offer.
+    Following the purchase, Gerber made a capital contribution
+to GST of all the shares it owned resulting in 95.6 pct
+ownership by GST.
+   
+ Reuter
+&#3;</BODY></TEXT>

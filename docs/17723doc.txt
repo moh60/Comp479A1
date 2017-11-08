@@ -1,0 +1,32 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6061" NEWID="17723">
+<DATE> 1-JUN-1987 14:33:33.18</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2097&#31;reute
+u f BC-COMPUTERLAND-TO-BE-AC   06-01 0079</UNKNOWN>
+<TEXT>&#2;
+<TITLE>COMPUTERLAND TO BE ACQUIRED BY INVESTOR GROUP</TITLE>
+<DATELINE>    OAKLAND, Calif., June 1 - </DATELINE><BODY>Computerland Corp said an
+investor group led by the financial services firm E.M. Warburg
+Pincus and Co Inc has agreed to acquire Computerland's
+business.
+    Computerland, a privately-held company said to be the
+world's largest retailer of personal computers, declined to
+provide details of the arrangement.
+    But the company said it expects to close the acquisition
+over the next 60 to 90 days.
+    In announcing the transaction, Computerland said the
+acquisition will provide it with resources and support to
+maintain and expand its leadership position in the computer
+retail industry.
+    Computerland also said its network retail sales in 1986
+totalled 1.45 billion dlrs.
+ Reuter
+&#3;</BODY></TEXT>

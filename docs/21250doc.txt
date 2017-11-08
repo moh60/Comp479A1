@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20186" NEWID="21250">
+<DATE>19-OCT-1987 12:25:30.42</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>nyse</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM F 
+&#22;&#22;&#1;f1928&#31;reute
+r f BC-econ-summit   10-19 0105</UNKNOWN>
+<TEXT>&#2;
+<TITLE>U.S. LAWMAKERS SAY STOCK DIVE CALLS FOR SUMMIT</TITLE>
+<DATELINE>    WASHINGTON, Oct 19 - </DATELINE><BODY>Two congressmen urged President Reagan
+to to call congressional leaders to a domestic economic summit
+to settle budget and trade matters they said contributed to the
+stock market fall.
+    Noting the nosediving New York Stock Exchange, Rep David
+Obey, a Wisconsin Democrat and former chairman of the
+Congressional Economic Committee, said "for the last five years
+this economic recovery has been running on borrowed money and
+borrowed time."
+    In another House speech, Democrat Donald Pease of Ohio said
+a domestic economic summit was "desperately needed."
+ Reuter
+&#3;</BODY></TEXT>

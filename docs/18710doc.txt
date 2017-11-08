@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6462" NEWID="18710">
+<DATE>18-JUN-1987 11:00:43.36</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f3390&#31;reute
+r f BC-VMS-HOTEL-&lt;VHT>-INCRE   06-18 0088</UNKNOWN>
+<TEXT>&#2;
+<TITLE>VMS HOTEL &lt;VHT> INCREASES LOAN TO HOTEL</TITLE>
+<DATELINE>    CHICAGO, June 18 - </DATELINE><BODY>VMS Hotel Investment Trust said it
+committed to fund a 1,029,600 dlr short-term loan increase for
+capital improvements in the Omni Park Central Hotel in New
+York.
+    The secured loan will increase a previously announced
+commitment to 5,154,600 dlrs from 4,125,000 dlrs. The total
+loan will have a term of one year with an option to extend for
+another one-year term.
+    Current interest and loan fees are expected to produce an
+annualized yield of 14.43 pct, VMS said.
+ Reuter
+&#3;</BODY></TEXT>

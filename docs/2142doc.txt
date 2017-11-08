@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18560" NEWID="2142">
+<DATE> 5-MAR-1987 11:12:24.36</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0538&#31;reute
+u f BC-BEST-PRODUCTS-&lt;BES>-F   03-05 0096</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BEST PRODUCTS &lt;BES> FEBRUARY SALES OFF 12.7 PCT</TITLE>
+<DATELINE>    RICHMOND, Va., March 5 - </DATELINE><BODY>Best Products Inc said sales for
+the four weeks ended February 28 were off 12.7 pct to 111.3 mln
+dlrs from 127.6 mln dlrs a year before, excluding sales from
+catalog stores and Ashby's Ltd outlets that were closed or sold
+last year.
+    The company said in an effort to improve gross margins, it
+significantly cut promotional activity in February from a year
+earlier.  In addition, it said it distributed its spring
+catalog nationwide in February last year and will distribute it
+in March this year.
+ Reuter
+&#3;</BODY></TEXT>

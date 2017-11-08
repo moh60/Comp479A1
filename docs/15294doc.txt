@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4277" NEWID="15294">
+<DATE> 8-APR-1987 16:08:52.19</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2456&#31;reute
+u f BC-UAL-&lt;UAL>-HAS-NO-COMM   04-08 0078</UNKNOWN>
+<TEXT>&#2;
+<TITLE>UAL &lt;UAL> HAS NO COMMENT ON STOCK RISE</TITLE>
+<DATELINE>    NEW YORK, April 8 - </DATELINE><BODY>UAL Inc, citing company policy, told
+the New York Stock Exchange it would not comment on the unusual
+rise in its stock.
+    UAL, parent of United Airlines, closed up 6-1/4 at 72 on
+volume of 3.9 mln shares.
+    Wall Street traders said UAL's stock soared in response to
+the the proposed 4.6 billion dlr buyout offer by United Air's
+pilots union and on a general rise in air fares throughout the
+industry.
+ Reuter
+&#3;</BODY></TEXT>

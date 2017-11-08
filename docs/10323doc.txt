@@ -1,0 +1,18 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15844" NEWID="10323">
+<DATE>27-MAR-1987 05:04:50.04&#5;&#5;&#5;RM</DATE>
+<UNKNOWN>&#22;&#22;&#1;f0304&#31;reute</UNKNOWN>
+<TOPICS><D>money-fx</D><D>dlr</D></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+f f BC-Bank-of-France-buying   03-27 0010</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE> Bank of France buying dollars for yen - banking sources
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

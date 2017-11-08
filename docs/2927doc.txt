@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19344" NEWID="2927">
+<DATE> 6-MAR-1987 18:00:22.59</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0765&#31;reute
+w f BC-ENERGEN-&lt;EGN>-BUYS-MU   03-06 0057</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ENERGEN &lt;EGN> BUYS MUNICIPAL GAS SYSTEM</TITLE>
+<DATELINE>    BIRMINGHAM, Ala, March 6 - </DATELINE><BODY>Energen Corp said it has
+acquired the distribution system of the City of Clanton, Ala.
+for about 1.2 mln dlrs.
+    The 1,800 customer system is the fourth municipal system
+acquired by Energen's Alabama Gas subsidiary since October
+1986, adding a total of 9,600 customers.
+ Reuter
+&#3;</BODY></TEXT>

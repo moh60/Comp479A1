@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="3718" NEWID="14735">
+<DATE> 7-APR-1987 17:50:15.06</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F
+&#22;&#22;&#1;f2605&#31;reute
+r f BC-FIRST-TORONTO-COMPLET   04-07 0059</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FIRST TORONTO COMPLETES ISSUE</TITLE>
+<DATELINE>    TORONTO, April 7 - </DATELINE><BODY>&lt;First Toronto Capital Corp> said it
+completed an issue of a five mln dlrs convertible debenture to
+Arcalex B.V., a Dutch corporation that owns 54.3 pct of First
+Toronto's outstanding common shares.
+    The debenture is convertible to one mln common shares of
+First Toronto for a period of five years.
+ Reuter
+&#3;</BODY></TEXT>

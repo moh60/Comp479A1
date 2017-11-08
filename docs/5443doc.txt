@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10356" NEWID="5443">
+<DATE>16-MAR-1987 11:47:20.75</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2584&#31;reute
+r f BC-TOFUTTI-BRANDS-&lt;TOF>   03-16 0082</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TOFUTTI BRANDS &lt;TOF> SEES PROFIT FOR NEW YEAR</TITLE>
+<DATELINE>    RAHWAY, N.J., March 16 - </DATELINE><BODY>Tofutti Brands Inc said it is
+changing its fiscal year to a calendar year from a year ending
+July 31, and it expects to be profitable on higher sales in
+1987.
+    The company lost 658,000 dlrs on sales of 11.6 mln dlrs in
+the year ended July 31.  A company spokesman said Tofutti will
+be reporting earnings for the last five months of calendar 1986
+by the end of March and will then report calendar first quarter
+results.
+ Reuter
+&#3;</BODY></TEXT>

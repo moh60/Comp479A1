@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4044" NEWID="15061">
+<DATE> 8-APR-1987 11:18:14.40</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1371&#31;reute
+r f BC-FIDELCOR-&lt;FICR>-COMPL   04-08 0059</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FIDELCOR &lt;FICR> COMPLETES SALE OF UNIT</TITLE>
+<DATELINE>    PHILADELPHIA, April 8 - </DATELINE><BODY>Fidelcor Inc said it has completed
+the sale of its Industrial Valley Title Insurance Co subsidiary
+to a group of investors including the unit's management for
+undisclosed terms.
+    Industrial Valley has assets of about 37.6 mln dlrs and was
+acquired last year along with IVB Financial Corp.
+ Reuter
+&#3;</BODY></TEXT>

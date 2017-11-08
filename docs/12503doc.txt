@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="1579" NEWID="12503">
+<DATE> 2-APR-1987 09:03:21.43</DATE>
+<TOPICS><D>crude</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F Y
+&#22;&#22;&#1;f0864&#31;reute
+r f BC-NP-ENERGY-&lt;NPEEQ>-SAY   04-02 0083</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NP ENERGY &lt;NPEEQ> SAYS TRUSTEE APPOINTED</TITLE>
+<DATELINE>    LOS ANGELES, April 2 - </DATELINE><BODY>NP Energy Corp said the U.S.
+Bankruptcy Court has indicated it will appoint a trustee to
+oversee the company's Chapter 11 bankruptcy proceedings.
+    It said it hopes the appointment will thwart "hostile"
+actions being pursued by two unsecured creditors to whose
+claims the company objects.
+    NP further said the Nielsen 1-20 well in Duchesne County,
+Utah, has tested 300 barrels of oil per day.  NP owns a 61 pct
+working interest.
+ Reuter
+&#3;</BODY></TEXT>

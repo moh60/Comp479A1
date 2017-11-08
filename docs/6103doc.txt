@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11016" NEWID="6103">
+<DATE>17-MAR-1987 12:56:10.88</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f5827&#31;reute
+u f BC-GROUP-BOOSTS-GELCO-&lt;G   03-17 0081</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GROUP BOOSTS GELCO &lt;GEL> STAKE TO 8.2 PCT</TITLE>
+<DATELINE>    WASHINGTON, March 17 - </DATELINE><BODY>An investor group including New
+York-based Mutual Shares Corp and Mutual Qualified Income Fund
+Inc told the Securities and Exchange Commission it raised its
+stake in Gelco Corp common stock to 575,859 shares or 8.2 pct
+of the total outstanding.
+    The group said its most recent purchases included 241,000
+shares bought between January 21 and March 10.
+    The group said it purchased the shares for investment
+purposes.
+ Reuter
+&#3;</BODY></TEXT>

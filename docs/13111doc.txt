@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="2080" NEWID="13111">
+<DATE> 3-APR-1987 15:39:45.86</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2171&#31;reute
+r f BC-AMERICAN-HONDA-U.S.-L   04-03 0052</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AMERICAN HONDA U.S. LATE-MARCH CAR SALES UP</TITLE>
+<DATELINE>    DETROIT, April 3 - </DATELINE><BODY>American Honda Motor Co said domestic
+car sales for the March 21-31 period rose to 16,635 from 6,358
+a year ago.
+    It said sales for all of March advanced to 28,476 from
+15,175. Year to date, the domestic car sales rose to 76,225
+from 43,075.
+ Reuter
+&#3;</BODY></TEXT>

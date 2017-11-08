@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="1644" NEWID="12568">
+<DATE> 2-APR-1987 10:21:37.16</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1160&#31;reute
+r f BC-STATUS-GAME-&lt;STGM>-TO   04-02 0067</UNKNOWN>
+<TEXT>&#2;
+<TITLE>STATUS GAME &lt;STGM> TO SELL CONDOMS</TITLE>
+<DATELINE>    NEWINGTON, Conn., April 2 - </DATELINE><BODY>Status Game Corp said it will
+immediately start selling condoms through the 500 cigarette
+machines it owns and operates in Las Vegas.
+    The company said it is negotiating a contract with one of
+the world's largest condom maker, which it did not identify,
+for the production of specially-packaged condoms for the
+cigarette machine sales.
+ Reuter
+&#3;</BODY></TEXT>

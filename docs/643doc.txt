@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12827" NEWID="643">
+<DATE> 2-MAR-1987 13:44:39.75</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0574&#31;reute
+h f BC-WESTERN-DIGITAL-&lt;WDC>   03-02 0072</UNKNOWN>
+<TEXT>&#2;
+<TITLE>WESTERN DIGITAL &lt;WDC> ADDS ELECTRONIC MAIL</TITLE>
+<DATELINE>    IRVINE, Calif., March 2 - </DATELINE><BODY>Western Digital Corp said it is
+adding the Network Courier, an electronic mail software package
+by Consumers Software, to its Local Area Network (LAN)
+products.
+    The company said The Network Courier allows LAN users to
+exchange messages and complete files without having to exit
+their current applications and to exchange mail and files with
+remote networks.
+ Reuter
+&#3;</BODY></TEXT>

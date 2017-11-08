@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19590" NEWID="3168">
+<DATE> 9-MAR-1987 11:53:32.89</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0677&#31;reute
+r f BC-ALLEGHENY-&lt;AG>-AIMS-T   03-09 0109</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ALLEGHENY &lt;AG> AIMS TO DIVEST MORE BUSINESSES</TITLE>
+<DATELINE>   PITTSBURGH, Penn., March 9 - </DATELINE><BODY>Allegheny International Inc,
+the consumer products concern that today announced a merger
+agreement with a First Boston Corp &lt;FBC> affiliate in a deal
+worth about 500 mln dlrs, said it intends to divest more units
+as a way to increase profits.
+    "We're going to reduce AI to a size consistent with our
+financial resources," said Chairman Oliver S. Travers.
+    "We have made a conscious, strategic choice to become a
+smaller, financially sound, consumer products company which
+operates predominantly in the stable political and economic
+environment of North America," he said.
+
+&#3;</BODY></TEXT>

@@ -1,0 +1,30 @@
+
+<REUTERS TOPICS="BYPASS" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="3494" NEWID="14511">
+<DATE> 7-APR-1987 15:43:27.02</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C T
+&#22;&#22;&#1;f2260&#31;reute
+u f BC-ny-cocoa-clsg-report   04-07 0114</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NY COCOA FUTURES CLOSE MIXED</TITLE>
+<DATELINE>    NEW YORK, April 6 - </DATELINE><BODY>Cocoa futures drifted into a dull
+finish, settling at nine dlrs lower to seven higher, with most
+contracts near unchanged from midday levels.
+    May closed nine dlrs lower at 1,925 dlrs. Estimated volume
+was 1,461 contracts.
+    Light selling based on weak London prices and continued
+offers by West African origins applied light pressure.
+    A report from London that traders question the supportive
+potential of newly-negotiated buffer stock rules was also
+depressing to prices, analysts said.
+    Bahia arrivals now total a cumulative 6,475,385 bags,
+private Brazil trade sources said, half a mln bags above the
+year ago count.
+ Reuter
+&#3;</BODY></TEXT>

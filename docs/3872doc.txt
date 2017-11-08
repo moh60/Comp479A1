@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="8785" NEWID="3872">
+<DATE>11-MAR-1987 14:40:15.47</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F
+&#22;&#22;&#1;f0294&#31;reute
+d f BC-shadowfax-resources   03-11 0043</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SHADOWFAX RESOURCES LTD &lt;SHFXF> YEAR LOSS</TITLE>
+<DATELINE>    TORONTO, March 11 -
+    </DATELINE><BODY>Shr loss three cts vs profit 14 cts
+    Net loss 79,778 vs profit 458,176
+    Revs 1,063,623 vs 1,165,186
+    Note: 1986 year includes 400,000 dlr writedown on Utah oil
+and gas properties
+ Reuter
+&#3;</BODY></TEXT>

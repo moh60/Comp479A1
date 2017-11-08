@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19817" NEWID="3395">
+<DATE> 9-MAR-1987 17:18:06.47</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0920&#31;reute
+d f BC-&lt;GRAND-METROPOLITAN-P   03-09 0048</UNKNOWN>
+<TEXT>&#2;
+<TITLE>&lt;GRAND METROPOLITAN PLC> UNIT TO SELL BUSINESS</TITLE>
+<DATELINE>    MONTVALE, N.J., March 9 - </DATELINE><BODY>Grand Metropolitan PLC said its
+Grandmet USA Inc unit decided to sell its physical fitness and
+exercise equipment business.
+    The company said Morgan Stanely and Co Inc is advising it
+on the sale of the business.
+ Reuter
+&#3;</BODY></TEXT>

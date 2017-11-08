@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12953" NEWID="770">
+<DATE> 2-MAR-1987 16:25:16.17</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G L
+&#22;&#22;&#1;f0047&#31;reute
+d f BC-ANNUAL-MAILING-TO-DEL   03-02 0106</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ANNUAL MAILING TO DELINQUENT FARMERS -- USDA</TITLE>
+<DATELINE>    WASHINGTON, March 2 - </DATELINE><BODY>The Farmers Home Admininstration
+(FmHA) is undertaking its annual mailing of notices to
+delinquent farm borrowers, the U.S. Agriculture Department
+said.
+    It said about 26,400 FmHA farm borrowers were delinquent on
+December 31, 1986, and will be sent letters by early March.
+They should get in touch with the FmHA county office as soon as
+possible to make an appointment to discuss the account, it
+said.
+    The letter requests the borrower choose one or more
+servicing options listed on an accompanying form and return the
+form within 30 days, the department said.
+ Reuter
+&#3;</BODY></TEXT>

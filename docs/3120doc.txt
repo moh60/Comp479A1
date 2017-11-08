@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19542" NEWID="3120">
+<DATE> 9-MAR-1987 10:53:41.84</DATE>
+<TOPICS><D>pet-chem</D><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0408&#31;reute
+r f BC-PPG-INDUSTRIES-&lt;PPG>   03-09 0078</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PPG INDUSTRIES &lt;PPG> SELLS ETHYLENE INTERESTS</TITLE>
+<DATELINE>    PITTSBURGH, March 9 - </DATELINE><BODY>PPG Industries Inc said a group of
+investors led by &lt;Sterling Group> of Houston said it has agreed
+to acquire PPG's ethylene products business, including its
+inteest in an ethylene glycols joint venture with du Pont Co
+&lt;DD> in Beaumont, Texas, for undisclosed terms.
+    The company said completion is expected in the second
+quarter.
+    It said the business had sales of over 50 mln dlrs in 1986.
+ Reuter
+&#3;</BODY></TEXT>

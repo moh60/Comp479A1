@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6994" NEWID="19158">
+<DATE>19-JUN-1987 10:10:39.23</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>france</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G T 
+&#22;&#22;&#1;f0937&#31;reute
+u f BC-WET-WEATHER-NO-REAL-P   06-19 0112</UNKNOWN>
+<TEXT>&#2;
+<TITLE>WET WEATHER SEEN NO PROBLEM YET FOR FRENCH FARMS</TITLE>
+<DATELINE>    PARIS, June 19 - </DATELINE><BODY>The wet, cold weather which has shrouded
+northern Europe recently is not a real problem for farmers yet,
+a spokeswoman for France's largest farm union, FNSEA, said.
+    The bad weather has only affected the northern part of
+France while the Mediterranean region needs more moisture.
+    Sugar beet producers said the climatic conditions are not
+causing them any difficulties yet although there could be
+problems if there is a lack of sun in the next few weeks.
+    The only real problem is for fruit producers in the north
+as people are consuming less fresh fruit and excessive rain
+rots the crop, she said.
+ Reuter
+&#3;</BODY></TEXT>

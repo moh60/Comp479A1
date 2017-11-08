@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="446" NEWID="12218">
+<DATE> 1-APR-1987 14:45:23.16</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2135&#31;reute
+r f BC-FIRST-FEDERAL-CHARLES   04-01 0050</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FIRST FEDERAL CHARLESTON &lt;FFCH> NAMES NEW CEO</TITLE>
+<DATELINE>    CHARTLESTON, S.C., April 1 - </DATELINE><BODY>First Federal Savings and Loan
+Association of Charleston said executive vice president A.L.
+Hutchinson Jr. has been named to succeed Robert L. Cale as
+president and chief executive officer when he retires on April
+1, 1988.
+ Reuter
+&#3;</BODY></TEXT>

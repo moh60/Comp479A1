@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="656" NEWID="16121">
+<DATE>13-APR-1987 03:14:22.80</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>hong-kong</D><D>china</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0112&#31;reute
+u f BC-CHINESE-HOTEL-RAISES   04-13 0109</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CHINESE HOTEL RAISES 21 MLN DLR LOAN</TITLE>
+<DATELINE>    HONG KONG, April 13 - </DATELINE><BODY>A tourist hotel in Suzhou, Jiangsu
+province, is raising a 21 mln U.S. Dlr loan to cover its
+construction cost, lead manager &lt;DnC Ltd> said.
+    The loan for the Suzhou Aster Hotel will mature in 10 years
+and is guaranteed by the provincial investment arm &lt;Jiangsu
+International Trust and Investment Corp>. The terms were not
+revealed. The loan, to be signed by the end of the month, will
+be provided by a number of banks on a club basis.
+    The hotel is being developed on a contractual joint venture
+basis between an unnamed Hong Kong Chinese investor and Suzhou
+municipal entities.
+ REUTER
+&#3;</BODY></TEXT>

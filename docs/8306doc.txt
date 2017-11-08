@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13827" NEWID="8306">
+<DATE>23-MAR-1987 11:02:05.97</DATE>
+<TOPICS><D>sugar</D></TOPICS>
+<PLACES><D>uk</D><D>greece</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C T
+&#22;&#22;&#1;f1222&#31;reute
+u f BC-GREECE-SEEKING-EC-SUG   03-23 0046</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GREECE SEEKING EC SUGAR NEXT MONTH AT TENDER</TITLE>
+<DATELINE>    LONDON, March 23 - </DATELINE><BODY>Greece will hold a buying tender on
+April 8, for reply by April 10, for 40,000 tonnes of white
+sugar from EC member countries, for delivery in four equal
+tranches in May, June, July and August, traders said.
+ Reuter
+&#3;</BODY></TEXT>

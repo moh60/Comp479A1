@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="19916" NEWID="21520">
+<DATE>19-OCT-1987 06:55:59.97</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>pse</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM 
+&#22;&#22;&#1;f0511&#31;reute
+f f BC-Paribas-shares-slump   10-19 0012</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE>Paribas shares slump 12 pct to 363.30 francs on Paris bourse - dealers
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

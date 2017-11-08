@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="21443" NEWID="20848">
+<DATE>20-OCT-1987 20:33:10.92</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM 
+&#22;&#22;&#1;f3662&#31;reute
+f f BC-Australian-share-inde   10-20 0012</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+***<TITLE>Australian share index up 79.0 points at 1628.5 in first 30 minutes
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

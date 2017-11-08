@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="NOT-USED" CGISPLIT="PUBLISHED-TESTSET" OLDID="21778" NEWID="17155">
+<DATE>24-APR-1987 14:15:16.65</DATE>
+<TOPICS><D>iron-steel</D></TOPICS>
+<PLACES><D>spain</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;M
+&#22;&#22;&#1;f2051&#31;reute
+d f BC-SPAIN-APPROVES-AID-FU   04-24 0093</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SPAIN APPROVES AID FUNDS FOR STEEL INDUSTRY</TITLE>
+<DATELINE>    MADRID, April 24 - </DATELINE><BODY>The Spanish cabinet agreed a 223.33
+billion peseta aid package for the steel industry to restore
+the sector to profitability by 1989, Industry Minister Luis
+Carlos Croissier said.
+    He told reporters at a news conference the money would be
+shared among four state and privately-owned mills, which now
+operate at a loss.
+    The funds will be used to help modernise the industry,
+increase productivity and cut production to 17.5 mln tonnes a
+year from a current capacity of 18.2 mln tonnes.
+ Reuter
+&#3;</BODY></TEXT>

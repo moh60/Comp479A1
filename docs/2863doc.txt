@@ -1,0 +1,20 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19281" NEWID="2863">
+<DATE> 6-MAR-1987 16:15:35.97</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0527&#31;reute
+d f BC-LOCKHEED-&lt;LK>-GETS-80   03-06 0035</UNKNOWN>
+<TEXT>&#2;
+<TITLE>LOCKHEED &lt;LK> GETS 80.0 MLN DLR CONTRACT</TITLE>
+<DATELINE>    WASHINGTON, March 6 - </DATELINE><BODY>Lockheed Corp has received an 80.0
+mln dlr contract for engineering support services for high
+energy laser facilities, the Defense Department said.
+ REUTER
+&#3;</BODY></TEXT>

@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20040" NEWID="21396">
+<DATE>19-OCT-1987 10:26:34.75</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1248&#31;reute
+r f BC-MILLIPORE-CORP   10-19 0075</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MILLIPORE &lt;MILI> FILES FOR DEBENTURE OFFERING</TITLE>
+<DATELINE>    WASHINGTON, Oct 19 - </DATELINE><BODY>Millipore Corp filed with the
+Securities and Exchange Commission for a proposed offering of
+up to 75 mln dlrs of convertible subordinated debentures due
+November 15, 2012.
+    First Boston Corp and Alex. Brown and Sons Inc will act as
+underwriters for the proposed offering.
+    Millipore said it will use proceeds from the offering to
+repay debt and for general corporate purposes.
+ Reuter
+&#3;</BODY></TEXT>

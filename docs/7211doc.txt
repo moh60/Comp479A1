@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12123" NEWID="7211">
+<DATE>19-MAR-1987 11:49:57.38</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>switzerland</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f1422&#31;reute
+u f BC-RECORD-LOW-COUPON-ON   03-19 0094</UNKNOWN>
+<TEXT>&#2;
+<TITLE>RECORD LOW COUPON ON SUMITOMO SWISS CONVERTIBLE</TITLE>
+<DATELINE>    ZURICH, March 19 - </DATELINE><BODY>A coupon of 1/2 pct, equal to the lowest
+ever in the Swiss franc market, has been set for Sumitomo
+Corp's 200 mln franc convertible notes due September 30, 1992,
+lead manager Swiss Bank Corp said.
+     The conversion price has been set at 1,004 yen, a 3.93 pct
+premium over today's 966 yen close. The exchange rate has been
+set at 99.78 yen to the franc.
+    The issue, whose coupon was indicated at 5/8 pct, carries a
+put option after three years at 103 pct. Payment date is March
+30.
+ REUTER
+&#3;</BODY></TEXT>

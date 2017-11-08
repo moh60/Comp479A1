@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14850" NEWID="9329">
+<DATE>25-MAR-1987 10:35:46.64</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1127&#31;reute
+r f BC-&lt;XYLOGICS-INC>-INITIA   03-25 0064</UNKNOWN>
+<TEXT>&#2;
+<TITLE>&lt;XYLOGICS INC> INITIAL OFFERING UNDERWAY</TITLE>
+<DATELINE>    NEW YORK, March 25 - </DATELINE><BODY>Lead underwriters Salomon Inc &lt;SB> and
+Cowen anbd Co said an initial public offering of 1,089,300
+shares of Xylogics Inc is underway at 16 dlrs per share.
+    The company is selling 750,000 shares and shareholders the
+rest.  The company has granted underwriters an overallotment
+option to buy up to 150,000 more shares.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12258" NEWID="7345">
+<DATE>19-MAR-1987 14:44:13.69</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2105&#31;reute
+d f BC-BIOSENSOR-&lt;BSNR>-SIGN   03-19 0075</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BIOSENSOR &lt;BSNR> SIGNS MARKETING AGREEMENT</TITLE>
+<DATELINE>    MINNEAPOLIS, March 19 - </DATELINE><BODY>Biosensor Corp said it signed an
+agreement with Del Mar Avionics, Irvine, Calif., to market the
+Biosensor Multiday system.
+    Multiday monitoring products can analyze patient heart
+signals for up to five days in or out of the hospital. Patients
+can transmit complex cardiac data over the telephone to their
+medical center, allowing physicians to review the information
+as necessary.
+ Reuter
+&#3;</BODY></TEXT>

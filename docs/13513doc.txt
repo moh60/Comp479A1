@@ -1,0 +1,30 @@
+
+<REUTERS TOPICS="BYPASS" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="2496" NEWID="13513">
+<DATE> 7-APR-1987 07:06:08.89</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C T
+&#22;&#22;&#1;f0404&#31;reute
+u f BC-INTERNATIONAL-COFFEE   04-07 0084</UNKNOWN>
+<TEXT TYPE="UNPROC">&#2;
+INTERNATIONAL COFFEE ORGANISATION - APR 7
+ Prices for Apr 6 in U.S.Cents per lb.
+ Composite daily price ICA 1979  98.29
+                 15 day average  99.17
+ Composite daily price ICA 1976  97.75
+ Other mild Arabicas   New York  98.00
+                 Bremen/Hamburg 104.30
+                        Average  99.58
+ Robustas              New York  97.50
+            Le Havre/Marseilles  96.23
+                        Average  96.99
+ Colombian mild Arabicas        107.00
+ Brazilian and other Arabicas    94.50
+&#3;
+
+</TEXT>

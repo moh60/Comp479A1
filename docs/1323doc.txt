@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16643" NEWID="1323">
+<DATE> 3-MAR-1987 16:17:52.27</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0896&#31;reute
+d f BC-REIDEL-&lt;RETI>-UNIT-SE   03-03 0085</UNKNOWN>
+<TEXT>&#2;
+<TITLE>REIDEL &lt;RETI> UNIT SELECTED FOR EPA CONTRACT</TITLE>
+<DATELINE>    PORTLAND, Ore., March 3 - </DATELINE><BODY>Reidel Environmental Technologies
+Inc said its Reidel Envirnomental Services Inc unit won a
+contract with the Environmental Protection Agency that could
+total over 100 mln dlrs over the next four years.
+    Under the agreement, which began March 1, Reidel will act
+as the prime contractor for the cleanup and removal of
+hazardous substances from contaminated sites in the EPA's Zone
+IV, which encompasses 23 states west of the Mississippi.
+ Reuter
+&#3;</BODY></TEXT>

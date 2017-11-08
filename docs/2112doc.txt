@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18530" NEWID="2112">
+<DATE> 5-MAR-1987 10:54:32.45</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0434&#31;reute
+r f BC-SL-INDUSTRIES-INC-&lt;SL   03-05 0066</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SL INDUSTRIES INC &lt;SL> 2ND QTR JAN 31 NET</TITLE>
+<DATELINE>    MARLTON, N.J., March 5 -
+    </DATELINE><BODY>Oper shr 22 cts vs 20 cts
+    Oper net 1,153,000 vs 1,068,000
+    Revs 15.7 mln vs 15.8 mln
+    Six mths
+    Oper shr 38 cts vs 38 cts
+    Oper net 2,039,000 vs 2,051,000
+    Revs 31.4 mln vs 31.6 mln
+    NOTE: exlcudes 145,000 discontinued operations for 1986
+oper net for six mths for sale of electronics division.
+    Oper shr for qtr and six mths 1986 adjusted for stock split
+and dividend distribution in November.
+ Reuter
+&#3;</BODY></TEXT>

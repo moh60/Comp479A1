@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10492" NEWID="5579">
+<DATE>16-MAR-1987 14:03:23.38</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f3196&#31;reute
+r f BC-HARRIS-TEETER-PROPERT   03-16 0052</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HARRIS-TEETER PROPERTIES &lt;HTP> REPORTS EARNINGS</TITLE>
+<DATELINE>    CHARLOTTE, N.C., March 16 - </DATELINE><BODY>Harris-Teeter Properties Inc
+reported fourth quarter fiscal 1986 earnings per share of 24
+cts on earnings of 601,000 dlrs. 
+    The realty investment trust company started operations in
+August and had no comparable figures, it said.
+ Reuter
+&#3;</BODY></TEXT>

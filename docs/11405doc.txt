@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17467" NEWID="11405">
+<DATE>31-MAR-1987 11:28:31.98</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1537&#31;reute
+r f BC-TELECAST-&lt;TCST>-COMPL   03-31 0062</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TELECAST &lt;TCST> COMPLETES ACQUISITION FINANCING</TITLE>
+<DATELINE>    FRASER, Mich., March 31 - </DATELINE><BODY>Telecast Inc said it closed on
+the financing portion of its previously-announced acquisition
+of approximately 14,600 hotel rooms from &lt;Dynavision Inc>.
+    The three mln dlr financing package was provided by Sanwa
+Business Credit Corp, a subsidiary of &lt;Sanwa Bank Ltd> of
+Japan, the company said.
+ Reuter
+&#3;</BODY></TEXT>

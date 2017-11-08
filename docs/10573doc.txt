@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16094" NEWID="10573">
+<DATE>27-MAR-1987 13:13:48.65&#5;&#5;&#5;F</DATE>
+<UNKNOWN>&#22;&#22;&#1;f1810&#31;reute</UNKNOWN>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+d f BC-EDUCATION-SYSTEMS-&lt;ES   03-27 0047</UNKNOWN>
+<TEXT>&#2;
+<TITLE>EDUCATION SYSTEMS &lt;ESPC> YEAR NET</TITLE>
+<DATELINE>    BELLEVILLE, N.J., March 27 - 
+    </DATELINE><BODY>Shr 27 cts vs 34 cts
+    Net 174,390 vs 222,720
+    Revs 4,948,622 vs 4,516,042
+    Note: Current net includes non-recurring loss on
+investments of 82,034.
+    Full name is Education Systems and Publications Corp.
+ Reuter
+&#3;</BODY></TEXT>

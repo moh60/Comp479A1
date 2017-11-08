@@ -1,0 +1,20 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11574" NEWID="6661">
+<DATE>18-MAR-1987 13:35:07.20</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f8901&#31;reute
+r f BC-ELDORADO-BANCORP-&lt;ELD   03-18 0033</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ELDORADO BANCORP &lt;ELDB> SETS 10 PCT DIVIDEND</TITLE>
+<DATELINE>    TUSTIN, Calif., March 18 - </DATELINE><BODY>Eldorado Bancorp said its board
+declared a 10 pct stock dividend, Payable April 17 to
+shareholders of record April three.
+ Reuter
+&#3;</BODY></TEXT>

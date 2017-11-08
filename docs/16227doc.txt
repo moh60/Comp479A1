@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="762" NEWID="16227">
+<DATE>13-APR-1987 09:03:14.72</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>malaysia</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0803&#31;reute
+u f BC-MALAYSIA-CUTS-FIVE-YE   04-13 0108</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MALAYSIA CUTS FIVE YEAR PLAN BUDGET</TITLE>
+<DATELINE>    KUALA LUMPUR, April 13 - </DATELINE><BODY>Malaysia will reduce its budget
+for the 1986-1990 development plan to 49 billion ringgit from
+its original 74 billion to limit expenditure, the Economic
+Planning Unit (EPU) of the Prime Minister's Department said.
+    EPU director-general Radin Soenarno was quoted by the
+national news agency Bernama as saying this would be done by
+suspending many projects which could only take off when the
+recession-hit economy improved.
+    Radin did not specify what projects would be suspended but
+said the Fifth Malaysian Plan will be reviewed annually instead
+of on a mid-term basis.
+ REUTER
+&#3;</BODY></TEXT>

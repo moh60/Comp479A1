@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15940" NEWID="10419">
+<DATE>27-MAR-1987 09:56:09.62&#5;&#5;&#5;F</DATE>
+<UNKNOWN>&#22;&#22;&#1;f0917&#31;reute</UNKNOWN>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+r f BC-HANSON-TRUST-&lt;HAN>-U.   03-27 0072</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HANSON TRUST &lt;HAN> U.S. ARM SELLS CHEMICAL UNIT</TITLE>
+<DATELINE>    NEW YORK, March 27 - </DATELINE><BODY>Hanson Trust Plc &lt;HAN> said its U.S.
+subsidiary, Hanson Industries, sold PCR Inc, a specialty
+chemicals unit, for 6.25 mln dlrs in cash to &lt;Chemical Partners
+Inc>.
+    Hanson Industries said it acquired PCR Inc in 1986 as part
+of its purchase of &lt;SCM Corp>.
+    PCR Inc posted an operating loss in 1986 of 381,000 dlrs on
+sales of 13.2 mln dlrs, the company said.
+ Reuter
+&#3;</BODY></TEXT>

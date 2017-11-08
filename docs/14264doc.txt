@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="3247" NEWID="14264">
+<DATE> 7-APR-1987 12:11:01.90</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1492&#31;reute
+r f BC-UAL-&lt;UAL>-AIRLINE-PIL   04-07 0100</UNKNOWN>
+<TEXT>&#2;
+<TITLE>UAL &lt;UAL> AIRLINE PILOTS HOLDING NATIONAL MEETING</TITLE>
+<DATELINE>    CHICAGO, April 7 - </DATELINE><BODY>The pilots union that has bid 4.5
+billion dlrs to buy United Airlines from UAL Inc said it is
+holding a meeting for all airline employees that will be
+televised on closed-circuit channels across the country to
+other locations to present details of the offer.
+    The meeting at a suburban Chicago location is intended to
+provide information on the offer to buy the airline, it said.
+    Lawyer F. Lee Bailey, pilot chiefs, attorneys and
+investment bankers from Lazard Freres, the pilots' financial
+advisors, will speak, it said.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18628" NEWID="2210">
+<DATE> 5-MAR-1987 11:58:20.18</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0782&#31;reute
+r f BC-TOKHEIM-CORP-&lt;TOK>-EN   03-05 0107</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TOKHEIM CORP &lt;TOK> ENTERS JOINT VENTURE</TITLE>
+<DATELINE>    FORT WAYNE, Ind., March 5 - </DATELINE><BODY>Tokheim Corp said its advanced
+products and electronics division has reached a four-year
+manufacturing and marketing agreement with &lt;TechVend>, a New
+Jersey-based corporation which had developed a credit card
+activated video cassette rental machine.
+    Tokheim said the agreement gives it exclusive manufacturing
+and servicing rights for all TechVend machines, as well as
+exclusive marketing rights for convenience stores and other
+petroleum market-related installations.
+    The company said the vending machines are a springboard
+into the video cassette rental industry.
+
+ Reuter
+&#3;</BODY></TEXT>

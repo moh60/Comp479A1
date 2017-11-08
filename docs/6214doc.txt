@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11127" NEWID="6214">
+<DATE>17-MAR-1987 15:08:35.28</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f6310&#31;reute
+u f BC-HILTON-&lt;HLT>-SEES-IMP   03-17 0109</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HILTON &lt;HLT> SEES IMPROVED FIRST QUARTER PROFITS</TITLE>
+<DATELINE>    NEW YORK, March 17 - </DATELINE><BODY>Hilton Hotels Corp expects earnings
+per share for first quarter fiscal 1987 to March 31 to be about
+90 cts compared with 70 cts a year earlier, Hilton Hotels
+division president Carl Mottek said.
+    He told a news conference the company expected costs for
+its first 10 all-suite hotels, announced today, to be about 150
+mln dlrs. Initial financing would come from the company's cash
+flow. Later, Hilton plans to use borrowings from traditional
+sources, he added.
+    Hilton, which hopes to build 50 all-suite hotels within
+five years, may take in partners in the new venture, he added.
+ Reuter
+&#3;</BODY></TEXT>

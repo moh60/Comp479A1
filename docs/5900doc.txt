@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10813" NEWID="5900">
+<DATE>17-MAR-1987 09:15:19.87</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>france</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f4859&#31;reute
+d f BC-CREDIT-AGRICOLE-REPLA   03-17 0101</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CREDIT AGRICOLE REPLACES BNP IN HACHETTE TV BID</TITLE>
+<DATELINE>    PARIS, March 17 - </DATELINE><BODY>French state agricultural bank &lt;Caisse
+Nationale du Credit Agricole> has joined the group led by
+publishing house &lt;Hachette> which is bidding for control of the
+state television station TF1, replacing &lt;Banque Nationale de
+Paris> which has withdrawn, Hachette said in a statement.
+    Credit Agricole's stake in the consortium will be 3.5 pct.
+    Last week the broadcasting supervisory board asked Hachette
+to remove BNP from the consortium because the bank had acted as
+adviser to the government for the imminent privatisation of
+TF1.
+ Reuter
+&#3;</BODY></TEXT>

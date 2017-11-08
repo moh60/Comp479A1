@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10963" NEWID="6050">
+<DATE>17-MAR-1987 11:47:33.87</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f5500&#31;reute
+r f BC-GANNETT-&lt;GCI>-SEEKS-T   03-17 0046</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GANNETT &lt;GCI> SEEKS TO DOUBLE AUTHORIZED SHARES</TITLE>
+<DATELINE>    WASHINGTON, March 17 - </DATELINE><BODY>Gannett Co Inc said it will ask
+shareholders at the May Seven annual meeting to approve a
+doubling of authorized common shares to 400 mln and limitations
+on the liability of directors under Delaware law.
+ Reuter
+&#3;</BODY></TEXT>

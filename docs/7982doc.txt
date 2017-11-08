@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13503" NEWID="7982">
+<DATE>20-MAR-1987 16:25:22.47</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2403&#31;reute
+r f BC-WATER-SPORTS-NETWORK   03-20 0049</UNKNOWN>
+<TEXT>&#2;
+<TITLE>WATER SPORTS NETWORK BUYS DEBT FROM NTN</TITLE>
+<DATELINE>    CARLSBAD, Calif., March 20 - </DATELINE><BODY>&lt;Water Sports Network> said it
+purchased 750,000 dlrs in convertible debentures from &lt;NTN
+Communications Inc>.
+    The companies said they are exploring ways to mutually
+market the programs and properties of each company.
+ Reuter
+&#3;</BODY></TEXT>

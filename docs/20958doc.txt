@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20479" NEWID="20958">
+<DATE>19-OCT-1987 16:20:54.79</DATE>
+<TOPICS><D>money-fx</D></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM 
+&#22;&#22;&#1;f3034&#31;reute
+f f BC-German-Finance   10-19 0018</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+****<TITLE>German Finance Ministry confident of maintaining currency stability at around current levels - spokesman
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

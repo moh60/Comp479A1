@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="3701" NEWID="14718">
+<DATE> 7-APR-1987 17:36:28.80</DATE>
+<TOPICS><D>grain</D><D>wheat</D></TOPICS>
+<PLACES><D>usa</D><D>egypt</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G
+&#22;&#22;&#1;f2580&#31;reute
+u f BC-EGYPT-CANCELS-PL480-S   04-07 0043</UNKNOWN>
+<TEXT>&#2;
+<TITLE>EGYPT SAID TO CANCEL PL480 SOFT WHEAT TENDER</TITLE>
+<DATELINE>    KANSAS CITY, April 7 - </DATELINE><BODY>Egypt has cancelled its Export Bonus
+tender for 200,000 tonnes of soft red winter wheat for May-June
+shipment after failing to bid a price acceptable to USDA,
+private export sources said.
+ Reuter
+&#3;</BODY></TEXT>

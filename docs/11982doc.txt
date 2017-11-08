@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="210" NEWID="11982">
+<DATE> 1-APR-1987 10:45:30.92</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1187&#31;reute
+w f BC-FIRST-NATIONAL-BANK-C   04-01 0097</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FIRST NATIONAL BANK CORP TO BUY BRANCH</TITLE>
+<DATELINE>    MOUNT CLEMENS, MICH., April 1 - </DATELINE><BODY>First National Bank Corp,
+the newly formed parent of First National Bank in Mount
+Clemens, Mich., and Bankers Fund Life Insurance Co, said it
+reached an agreement to buy a branch in Clinton Township from a
+nonrelated financial institution.
+    It said the acquisition brings to 10 the number of bank
+branches in Macomb County. Terms were not disclosed.
+    Separately, the newly formed holding company also said it
+named Arie Guldemond as chairman and Harold Allmacher as
+president and chief executive officer.
+ Reuter
+&#3;</BODY></TEXT>

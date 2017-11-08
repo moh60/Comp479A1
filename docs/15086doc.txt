@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4069" NEWID="15086">
+<DATE> 8-APR-1987 11:36:49.46</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1477&#31;reute
+d f BC-DATA-I/O-&lt;DAIO>-HAS-S   04-08 0070</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DATA I/O &lt;DAIO> HAS SOFTWARE FOR MOSAIC SYSTEMS</TITLE>
+<DATELINE>    NEW YORK, April 8 - </DATELINE><BODY>Data I/O Corp said it unveiled a
+software package that helps engineers design complex integrated
+circuits that fit on circuit boards built by &lt;Mosaic Systems
+Inc>.
+    It said the Mosaic boards allow engineers to develop the
+circuits at one-tenth their present size. The software will be
+marketed in conjuction with the circuit boards, the company
+said.
+ Reuter
+&#3;</BODY></TEXT>

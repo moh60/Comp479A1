@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15669" NEWID="10148">
+<DATE>26-MAR-1987 16:10:21.05</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2511&#31;reute
+r f BC-MOTOROLA-&lt;MOT>-UNIT-R   03-26 0067</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MOTOROLA &lt;MOT> UNIT REDUCES COMPUTER BOARD PRICE</TITLE>
+<DATELINE>    TEMPE, Ariz., March 26 - </DATELINE><BODY>Motorolo Inc's Microcomputer
+Division said it has reduced the price on 28 of its computer
+board products based on the VMEbus architecture.
+    The company said it was decreasing the price to consumers
+because falling component prices, increased volumes and
+manfucturing efficiency have achieved savings of 700 dlrs per
+board.
+ Reuter
+&#3;</BODY></TEXT>

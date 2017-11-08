@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16746" NEWID="10685">
+<DATE>30-MAR-1987 01:14:40.60</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0039&#31;reute
+f f BC-BASF-1986-world-group   03-30 0012</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE>BASF 1986 world group pre-tax profit 2.63 billion marks vs 3.04 billion
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

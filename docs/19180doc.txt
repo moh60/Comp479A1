@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7016" NEWID="19180">
+<DATE>19-JUN-1987 10:38:30.21</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1040&#31;reute
+d f BC-COLONIAL-BANCGROUP-&lt;C   06-19 0059</UNKNOWN>
+<TEXT>&#2;
+<TITLE>COLONIAL BANCGROUP &lt;CLBGA> BUYS DESTIN BANK</TITLE>
+<DATELINE>    MONTGOMERY, Ala., June 19 - </DATELINE><BODY>Colonial Bancgroup said it
+agreed to buy &lt;First National Bank of Destin> for an
+undisclosed sum.
+    The company said if it is approved, the sale will mark its
+second move to acquire a Florida bank.
+    It said it signed a letter of intent to buy Liberty Bank of
+Pensacola in April.
+ Reuter
+&#3;</BODY></TEXT>

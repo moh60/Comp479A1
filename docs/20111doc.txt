@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20706" NEWID="20111">
+<DATE>20-OCT-1987 08:40:02.88</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>fse</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM 
+&#22;&#22;&#1;f0825&#31;reute
+f f BC-German-public-bonds-s   10-20 0013</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE>German public bonds surge about 300 basis points in hectic bourse -dealers
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

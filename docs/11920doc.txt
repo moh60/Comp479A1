@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="148" NEWID="11920">
+<DATE> 1-APR-1987 10:01:25.81</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0951&#31;reute
+u f BC-CYCLOPS-&lt;CYL>-NAMES-D   04-01 0077</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CYCLOPS &lt;CYL> NAMES DIXONS OFFICIALS TO BOARD</TITLE>
+<DATELINE>    PITTSBURGH, April 1 - </DATELINE><BODY>Cyclops corp said it has
+reconstituted its board to include three &lt;Dixons Group PLC>
+executives following Dixons' acquisition of 83 pct of Cyclops'
+4,061,000 shares in a 95 dlr per share tender offer.
+    Cyclops said remaining on the six-member board are chairman
+and chief executive W.H. Knoell, president and chief operating
+officer James F. Will and senior vice president William D.
+Dickey.
+ Reuter
+&#3;</BODY></TEXT>

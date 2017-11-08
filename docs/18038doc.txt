@@ -1,0 +1,20 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7483" NEWID="18038">
+<DATE> 2-JUN-1987 10:51:55.69</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1259&#31;reute
+d f BC-BANC-ONE-&lt;ONE>-MAKES   06-02 0033</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BANC ONE &lt;ONE> MAKES INDIANA ACQUISITION</TITLE>
+<DATELINE>    COLUMBUS, Ohio, June 2 - </DATELINE><BODY>Banc One Corp said it has
+completed the acquisition of First National Bank of
+Bloomington, Ind, which has assets of 271 mln dlrs.
+ Reuter
+&#3;</BODY></TEXT>

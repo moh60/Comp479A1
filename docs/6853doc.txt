@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11766" NEWID="6853">
+<DATE>18-MAR-1987 16:52:28.84</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f9522&#31;reute
+u f BC-XTRA-&lt;XTR>-TO-BUY-FRU   03-18 0057</UNKNOWN>
+<TEXT>&#2;
+<TITLE>XTRA &lt;XTR> TO BUY FRUEHAUF &lt;FTR> UNIT</TITLE>
+<DATELINE>    BOSTON, March 18 - </DATELINE><BODY>XTRA Corp said it agreed to acquire all
+the stock of RentCo Trailer Corp, a wholly owned subsidiary of
+Fruehauf Corp for about 70 mln dlrs.
+    RentCo had revenues of about 70 mln dlrs.
+    The transaction is expected to be completed in April and is
+subject to regulatory approval.
+ Reuter
+&#3;</BODY></TEXT>

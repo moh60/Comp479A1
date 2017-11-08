@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12132" NEWID="7220">
+<DATE>19-MAR-1987 12:00:26.57</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1461&#31;reute
+d f BC-FED-APPROVES-AMSOUTH   03-19 0079</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FED APPROVES AMSOUTH &lt;ASO> AFFILIATION</TITLE>
+<DATELINE>    BIRMINGHAM, Ala, March 19 - </DATELINE><BODY>AmSouth Corp said the Federal
+Reserve Board approved the affiliation of First Tuskaloosa Corp
+with Amsouth.
+    The approval was the final regulatory step in the
+affiliation process which began in August, Amsouth said.
+    Under terms of the affiliation, each First Tuskaloosa
+shareholder will receive 66 dlrs value of AmSouth stock for
+each share held. The total consideration is valued at 105.6 mln
+dlrs.
+ Reuter
+&#3;</BODY></TEXT>

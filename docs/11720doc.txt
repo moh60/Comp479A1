@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17782" NEWID="11720">
+<DATE>31-MAR-1987 17:17:17.49</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A
+&#22;&#22;&#1;f2758&#31;reute
+r f BC-FDIC-TO-EASE-RULE-FOR   03-31 0107</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FDIC TO EASE RULE FOR BANKS' SECURITIES UNITS</TITLE>
+<DATELINE>    WASHINGTON, March 31 - </DATELINE><BODY>The Federal Deposit Insurance Corp
+proposed to ease its regulations on operations of securities
+subsidiaries of banks.
+    The FDIC proposed for comment for 30 days amendments to end
+a ban on the sharing of a corporate name and logo by a bank and
+its security unit.
+    It also said the securities subsidiary was no longer
+required to have an entrance separate from the bank's, but the
+bank's and subsidiary's separate office space must be marked.
+    The bank must inform customers that securities purchased
+from the subsidiary were not covered by FDIC deposit insurance.
+ Reuter
+&#3;</BODY></TEXT>

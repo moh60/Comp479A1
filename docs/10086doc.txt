@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15607" NEWID="10086">
+<DATE>26-MAR-1987 14:24:01.94</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2187&#31;reute
+r f BC-LOUISIANA-PACIFIC-&lt;LP   03-26 0051</UNKNOWN>
+<TEXT>&#2;
+<TITLE>LOUISIANA-PACIFIC &lt;LPX> TO SELL SAWMILL</TITLE>
+<DATELINE>    PORTLAND, Ore., March 26 - </DATELINE><BODY>Louisiana-Pacific Corp said it
+plans to sell its sawmill in Lakeview, Oregon and 18,000 acres
+of timberland to Ostrander Construction Co.
+    The company said the transaciton shoould be finalized in
+early April. Terms were not disclosed.
+ Reuter
+&#3;</BODY></TEXT>

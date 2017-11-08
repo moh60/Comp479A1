@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="156" NEWID="11928">
+<DATE> 1-APR-1987 10:04:52.57</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0977&#31;reute
+r f BC-DIVI-HOTELS-&lt;DVH>-WAR   04-01 0048</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DIVI HOTELS &lt;DVH> WARRANT PRICE ADJUSTED</TITLE>
+<DATELINE>    NEW YORK, April 1 - </DATELINE><BODY>Divi Hotels NV of Aruba said the
+exercise price of its warrants has been cut to 11 dlrs per
+share from 12 dlrs until September 17 and to 13 dlrs from 14
+dlrs thereafter due to the impact of a recent 1,500,000 share
+offering.
+ Reuter
+&#3;</BODY></TEXT>

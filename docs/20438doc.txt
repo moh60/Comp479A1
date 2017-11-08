@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="21033" NEWID="20438">
+<DATE>20-OCT-1987 13:19:42.95</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2317&#31;reute
+u f BC-PRESTON-CORP-&lt;PTRK.O>   10-20 0042</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PRESTON CORP &lt;PTRK.O> 3RD QTR NET</TITLE>
+<DATELINE>    PRESTON, Md, Oct 20 -
+    </DATELINE><BODY>Shr four cts vs 36 cts
+    Net 254,000 vs 2,063,000
+    Revs 130.0 mln vs 107.8 mln
+    Nine mths
+    Shr 23 cts vs 1.16 dlrs
+    Net 1,336,000 vs 6,659,000
+    Revs 370.9 mln vs 313.7 mln
+ Reuter
+&#3;</BODY></TEXT>

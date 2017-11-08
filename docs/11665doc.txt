@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17727" NEWID="11665">
+<DATE>31-MAR-1987 16:12:50.65</DATE>
+<TOPICS><D>housing</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2583&#31;reute
+u f AM-HOUSING   03-31 0097</UNKNOWN>
+<TEXT>&#2;
+<TITLE>U.S. SENATE PASSES HOUSING BILL</TITLE>
+<DATELINE>    WASHINGTON, March 31 - </DATELINE><BODY>The Senate passed a two year
+extension of federal housing programs, including 15 billion
+dlrs for lower income housing assistance over two years. The
+vote was 71 to 27.
+    Total value of the bill was estimated at 31 billion dlrs.
+The bill permanently extended the authorization for Federal
+Housing Authority mortgage insurnce.
+    The bill also extended the urban development grant program,
+the national flood insurance act, the rural housing program as 
+well as several other housing programs. The bill now goes to
+the House.
+ Reuter
+&#3;</BODY></TEXT>

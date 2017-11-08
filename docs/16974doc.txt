@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="NOT-USED" CGISPLIT="PUBLISHED-TESTSET" OLDID="21624" NEWID="16974">
+<DATE>21-APR-1987 09:06:11.25</DATE>
+<TOPICS><D>grain</D><D>wheat</D></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;G
+&#22;&#22;&#1;f0786&#31;reute
+u f BC-SMALL-QUANTITY-OF-U.K   04-21 0049</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SMALL QUANTITY OF U.K. WHEAT SOLD TO HOME MARKET</TITLE>
+<DATELINE>    LONDON, April 21 - </DATELINE><BODY>A total of 2,769 tonnes of British
+intervention feed wheat, out of an available 57,300 tonnes, was
+sold at today's tender for the home market, the Home Grown
+Cereals Authority, HGCA, said.
+    Price details were not reported.
+ Reuter
+&#3;</BODY></TEXT>

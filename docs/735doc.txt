@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12918" NEWID="735">
+<DATE> 2-MAR-1987 15:42:29.51</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0928&#31;reute
+r f BC-INT'L-MINERALS-&lt;IGL>   03-02 0076</UNKNOWN>
+<TEXT>&#2;
+<TITLE>INT'L MINERALS &lt;IGL> BUYS ANIMAL PRODUCTS UNIT</TITLE>
+<DATELINE>    NORTHBROOK, Ill., March 2 - </DATELINE><BODY>International Minerals and
+Chemical Corp said it completed its acquisition of Johnson and
+Johnson Co's Pitman-Moore unit, a producer of animal health
+products.
+    Terms of the acquisition were not disclosed. International
+Minerals and Chemical said annual sales of the unit are about
+45 mln dlrs.
+    Pitman-Moore makes health products for pets and for farm
+and feedstock animals.
+ Reuter
+&#3;</BODY></TEXT>

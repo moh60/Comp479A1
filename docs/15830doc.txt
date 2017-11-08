@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5185" NEWID="15830">
+<DATE> 9-APR-1987 14:41:42.28</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM A F
+&#22;&#22;&#1;f2109&#31;reute
+u f BC-BANKERS-TRUST-&lt;BT>-FI   04-09 0079</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BANKERS TRUST &lt;BT> FILES 400 MLN DLR OFFERING</TITLE>
+<DATELINE>    WASHINGTON, April 9 - </DATELINE><BODY>Bankers Trust New York Corp filed
+with the Securities and Exchange Commission for a shelf
+offering of up to 400 mln dlrs of subordinated debentures on
+terms to be set at the time of sale.
+    The bank holding company said proceeds will be used for
+general corporate purposes including investments in or
+extensions of credit to its subsidiaries.
+    Underwriters were not named in the draft prospectus.
+ Reuter
+&#3;</BODY></TEXT>

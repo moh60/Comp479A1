@@ -1,0 +1,20 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4997" NEWID="15959">
+<DATE> 9-APR-1987 16:20:40.00</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2520&#31;reute
+r f BC-NEWHALL-INVESTMENT-&lt;N   04-09 0036</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NEWHALL INVESTMENT &lt;NIP> SETS SPECIAL PAYOUT</TITLE>
+<DATELINE>    VALENCIA, Calif., April 9 - </DATELINE><BODY>Newhall Investment Properties
+said it declared a special distribution of 50 cts per share,
+payable June one, to unitholders of record April 24.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,20 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18445" NEWID="2027">
+<DATE> 5-MAR-1987 09:44:47.86</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0112&#31;reute
+r f BC-ORANGE-CO-&lt;OJ>-HOLDER   03-05 0035</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ORANGE-CO &lt;OJ> HOLDER RAISES STAKE</TITLE>
+<DATELINE>    LAKE HAMILTON, Fla., March 5 - </DATELINE><BODY>Orange-Co Inc said its
+largest shareholder, &lt;Summit Resoureces Inc>, has increased its
+stake to 15 pct from 14 pct and now owns 644,727 shares.
+ Reuter
+&#3;</BODY></TEXT>

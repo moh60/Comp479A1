@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14104" NEWID="8583">
+<DATE>23-MAR-1987 19:00:27.86</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>west-germany</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G L M T
+&#22;&#22;&#1;f2679&#31;reute
+r f BC-CAR-BOMB-EXPLODES-AT   03-23 0059</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CAR BOMB EXPLODES AT BRITISH BASE IN W. GERMANY</TITLE>
+<DATELINE>    BONN, March 23 - </DATELINE><BODY>A big car bomb exploded at the
+headquarters of the British Rhine army near Moenchengladbach in
+West Germany tonight, police said.
+    A police spokesman said it was not immediately known if
+anyone was killed in the blast. He said some people had been
+injured but did not know how many.
+ Reuter
+&#3;</BODY></TEXT>

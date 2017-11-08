@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4019" NEWID="15036">
+<DATE> 8-APR-1987 10:45:44.23</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1220&#31;reute
+r f BC-AMERICAN-MIDLAND-&lt;AMC   04-08 0088</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AMERICAN MIDLAND &lt;AMCO> SETS OPERATOR FOR CASINO</TITLE>
+<DATELINE>    ENGLEWOOD CLIFFS, N.J., April 8 - </DATELINE><BODY>American Midland Corp
+said &lt;Braodway Casinos Inc> has entered into a letter of intent
+for a new company to be formed by &lt;Carnival Cruise Lines Inc>
+and &lt;Continental Hotel Cos> to operate Broadway's planned
+hotel/casino in the Marina area of Atlantic City, N.J.
+    American Midland has agreed to spin off its 8.2 acre
+Atlantic City property to Broadway, a new company in which
+American Midland shareholders would initially own an 85 pct
+interest.
+ Reuter
+&#3;</BODY></TEXT>

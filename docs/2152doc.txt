@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18570" NEWID="2152">
+<DATE> 5-MAR-1987 11:19:45.31</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0585&#31;reute
+h f BC-AGS-COMPUTER-&lt;AGS>-UN   03-05 0060</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AGS COMPUTER &lt;AGS> UNIT GETS IBM LICENSE</TITLE>
+<DATELINE>    NEW YORK, March 5 - </DATELINE><BODY>Systems Strategies Inc, a unit of AGS
+Computers Inc, said International Business Machines Corp &lt;IBM>
+has licensed five of its Systems Network Architecture and
+Binary Synchronous software packages.
+    Systems said it modified the software to run on the IBM
+4361 under the IX/370 operating system.
+ Reuter
+&#3;</BODY></TEXT>

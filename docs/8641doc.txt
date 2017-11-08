@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14162" NEWID="8641">
+<DATE>24-MAR-1987 05:50:23.14</DATE>
+<TOPICS><D>money-fx</D></TOPICS>
+<PLACES><D>japan</D><D>usa</D></PLACES>
+<PEOPLE><D>miyazawa</D></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0392&#31;reute
+b f BC-MIYAZAWA-SAYS-U.S.-LI   03-24 0104</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MIYAZAWA SAYS U.S. LIKELY TO INTERVENE</TITLE>
+<DATELINE>    TOKYO, March 24 - </DATELINE><BODY>Finance Minister Kiichi Miyazawa told
+Parliament's Lower House Finance Committee that the U.S. Is
+expected to intervene in the foreign exchange market to
+stabilise exchange rates, political sources said.
+    Asked if the U.S. Federal Reserve Board agreed in Paris
+last month to intervene to stabilise exchange rates, Miyazawa
+said yes, the sources said.
+    Miyazawa was also quoted as saying that he is sceptical
+about the effectiveness of currency reference ranges even if
+major nations agree on such an idea as it is extremely
+difficult to set such ranges.
+ REUTER
+&#3;</BODY></TEXT>

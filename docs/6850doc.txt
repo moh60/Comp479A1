@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11763" NEWID="6850">
+<DATE>18-MAR-1987 16:51:33.74</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f9516&#31;reute
+h f BC-AULT-INC-&lt;AULT>-3RD-Q   03-18 0051</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AULT INC &lt;AULT> 3RD QTR MARCH ONE NET</TITLE>
+<DATELINE>    MINNEAPOLIS, MINN., March 18 - 
+    </DATELINE><BODY>Shr profit eight cts vs loss 16 cts
+    Net profit 153,000 vs loss 310,000
+    Sales 3,937,000 vs 2,364,000
+    Nine Mths
+    Shr profit five cts vs loss 53 cts
+    Net profit 97,000 vs loss 1,042,000
+    Sales 10.2 mln vs 7,564,000
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="NOT-USED" CGISPLIT="PUBLISHED-TESTSET" OLDID="21709" NEWID="17086">
+<DATE>24-APR-1987 09:18:30.33</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0818&#31;reute
+b f BC-/CHRYSLER-&lt;C>-SETS-NE   04-24 0099</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CHRYSLER &lt;C> SETS NEW AMC &lt;AMO> TARGET DATE</TITLE>
+<DATELINE>    DETROIT, April 24 - </DATELINE><BODY>Chrysler Corp said it and Regie
+Nationale des Usines Renault &lt;RENA.PA> agreed to set May 5 as
+the new target date when Chrysler aimed at reaching a
+definitive agreement for Chrysler for acquire American Motors
+Corp.
+    AMC is 46.1 pct owned by Renault.
+    The two companies originally had targeted April 23 as
+completion date for reaching a definitive agreement.
+    Chrysler, which signed a letter of intent on March 9 to
+acquire AMC, said "considerable progress has been made, but a
+number of issues remain to be resolved."
+ Reuter
+&#3;</BODY></TEXT>

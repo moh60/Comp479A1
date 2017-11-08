@@ -1,0 +1,31 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12310" NEWID="7397">
+<DATE>19-MAR-1987 15:47:44.44</DATE>
+<TOPICS><D>heat</D><D>naphtha</D><D>jet</D><D>fuel</D></TOPICS>
+<PLACES><D>usa</D><D>singapore</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;Y
+&#22;&#22;&#1;f2303&#31;reute
+r f BC-CALTEX-RAISES-SINGAPO   03-19 0102</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CALTEX RAISES SINGAPORE OIL PRODUCT PRICES</TITLE>
+<DATELINE>    NEW YORK, March 19 - </DATELINE><BODY>Caltex Petroleum Corp, a joint venture
+between Chevron Corp &lt;CHV> and Texaco Inc &lt;TX>, said it raised
+posted prices for several petroleum products in Singapore,
+effective today.
+     The company said its naphtha posting is up three cts a
+gallon to 43 cts. It said it is raising jet and kerosene
+postings 2.5 cts, bringing jet to 52.5 cts and kerosene to 51.5
+cts.
+    Diesel grades are up two cts, Caltex said, bringing both
+diesel gas oil (one pct sulfur) and 52-57 D.I. (55 cetane) to
+52 cts a gallon, and diesel gas oil (0.5 pct) to 52 cts.
+    The company said it is increasing medium and heavy fuel oil
+postings by one dlr a barrel. Medium is now 15.50 dlrs a
+barrel, and heavy fuel is 14.75 dlrs.
+ Reuter
+&#3;</BODY></TEXT>

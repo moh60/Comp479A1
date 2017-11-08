@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6467" NEWID="18715">
+<DATE>18-JUN-1987 11:05:19.21</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f3424&#31;reute
+d f BC-WELLS-GARDNER-&lt;WGA>-A   06-18 0073</UNKNOWN>
+<TEXT>&#2;
+<TITLE>WELLS-GARDNER &lt;WGA> AWARDED CONTRACT</TITLE>
+<DATELINE>    CHICAGO, June 18 - </DATELINE><BODY>Wells-Gardner Electronics Corp said it
+was awarded a five-year contract to supply touch panel monitors
+to Matrox Electronics Systems Ltd, Dorval, Quebec, Canada.
+    The company said the contract is expected to generate total
+revenues of about five mln dlrs.
+    It said the monitors will be part of a videodisc system for
+the U.S. Army's Electronic Information Delivery System.
+ Reuter
+&#3;</BODY></TEXT>

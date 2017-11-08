@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12912" NEWID="729">
+<DATE> 2-MAR-1987 15:39:51.85</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0912&#31;reute
+r f BC-LODGISTIX-&lt;LDGX>-TO-B   03-02 0049</UNKNOWN>
+<TEXT>&#2;
+<TITLE>LODGISTIX &lt;LDGX> TO BUYBACK 100,000 SHARES</TITLE>
+<DATELINE>    WICHITA, Kansas, March 2 - </DATELINE><BODY>Lodgistix Inc said its board
+authorized a program for the company to purchase up to 100,000
+of its shares from time to time.
+    The company said the shares will be used for general
+purposes, including incentive programs.
+ Reuter
+&#3;</BODY></TEXT>

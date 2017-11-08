@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13877" NEWID="8356">
+<DATE>23-MAR-1987 11:56:14.20</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>finland</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f1489&#31;reute
+u f BC-BANK-OF-FINLAND-ISSUE   03-23 0084</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BANK OF FINLAND ISSUES CDS FOR FIRST TIME</TITLE>
+<DATELINE>    HELSINKI, March 23 - </DATELINE><BODY>The Bank of Finland issued for the
+first time a small amount of its own certificates of deposit
+following its decision last Friday to enter the interbank
+market by buying and selling CDs, a Central Bank official said.
+    The official said the volume of the Central Bank CDs, which
+had a maturity of three months, was still small as today's
+transactions were seen as an exercise for what is still a new
+market for the Bank of Finland.
+ REUTER
+&#3;</BODY></TEXT>

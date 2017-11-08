@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16774" NEWID="10713">
+<DATE>30-MAR-1987 04:16:11.34</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>japan</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>tse</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0270&#31;reute
+u f BC-CORRECTION---TOKYO-ST   03-30 0043</UNKNOWN>
+<TEXT TYPE="UNPROC">&#2;
+CORRECTION - TOKYO STOCK EXCHANGE CUTS HOURS
+    In the Tokyo story headlined "TOKYO STOCK EXCHANGE CUTS
+TRADING HOURS" please read in the second paragraph " ... From
+1100 to 1300 ... " instead of " ... From 1115 to 1300 ... "
+correcting closing time.
+ REUTER
+&#3;
+
+</TEXT>

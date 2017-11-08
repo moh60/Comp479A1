@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="NOT-USED" CGISPLIT="PUBLISHED-TESTSET" OLDID="21950" NEWID="17328">
+<DATE>27-APR-1987 10:28:14.37</DATE>
+<TOPICS><D>jobs</D></TOPICS>
+<PLACES><D>france</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f1216&#31;reute
+b f BC-FRENCH-MARCH-UNEMPLOY   04-27 0066</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FRENCH MARCH UNEMPLOYMENT RISES TO RECORD 11.1 PCT</TITLE>
+<DATELINE>    PARIS, April 27 - </DATELINE><BODY>France's seasonally adjusted unemployment
+rate rose to a record 11.1 pct of the workforce at end-March
+compared with 11 pct at end-February, the National Statistics
+Institute (INSEE) said.
+    The total number of unemployed edged up to 2.67 mln at
+end-March from 2.65 mln at end-February, an INSEE spokeswoman
+said.
+ REUTER
+&#3;</BODY></TEXT>

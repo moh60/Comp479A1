@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="518" NEWID="12290">
+<DATE> 1-APR-1987 16:09:30.33</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2392&#31;reute
+r f BC-LTV-&lt;QLTV>-UNIT-WINS   04-01 0065</UNKNOWN>
+<TEXT>&#2;
+<TITLE>LTV &lt;QLTV> UNIT WINS AIR FORCE CONTRACT</TITLE>
+<DATELINE>    DALLAS, April 1 - </DATELINE><BODY>LTV Corp's LTV Missiles and Electronics
+Group said it received a 28.3 mln dlr contract from the U.S.
+Air Force for continued design and development of an
+anti-satellite weapon system.
+    The company said the contract work will be performed at its
+facilities in Grand Prairie, Texas, and is expected to be
+completed by September.
+ Reuter
+&#3;</BODY></TEXT>

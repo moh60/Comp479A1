@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4871" NEWID="15694">
+<DATE> 9-APR-1987 12:10:40.23</DATE>
+<TOPICS><D>money-fx</D></TOPICS>
+<PLACES><D>usa</D><D>france</D></PLACES>
+<PEOPLE><D>balladur</D></PEOPLE>
+<ORGS><D>imf</D></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A RM
+&#22;&#22;&#1;f1561&#31;reute
+b f BC-FRANCE'S-BALLADUR-SAY   04-09 0110</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FRANCE'S BALLADUR SAYS TARGET ZONE NOTION NEARER</TITLE>
+<DATELINE>    WASHINGTON, April 9 - </DATELINE><BODY>French Finance Minister Edouard
+Balladur said that the financial community is closer to
+arriving at a system of target zones for currencies despite the
+fact that little is being said about them.
+    Speaking with reporters at the semiannual meetings of the
+International Monetary Fund, Balladur said, "We are not very far
+from the notion of target zones, even if we don't say so."
+    He told reporters that "our ideas are progressing," adding
+that the finance ministers have been talking about more
+cooperation on economic policies and on levels around which
+currencies should stabilize.
+ Reuter
+&#3;</BODY></TEXT>

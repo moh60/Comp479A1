@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="2055" NEWID="13086">
+<DATE> 3-APR-1987 15:13:53.13</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F
+&#22;&#22;&#1;f2086&#31;reute
+b f BC-general-motors-canada   04-03 0059</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GM &lt;GM> CANADA MARCH CAR SALES UP 12.6 PCT</TITLE>
+<DATELINE>    OSHAWA, Ontario, April 3 - </DATELINE><BODY>General Motors of Canada Ltd,
+wholly owned by General Motors Corp, said March car sales
+increased 12.6 pct to 38,520 units from 34,209 units a year
+earlier.
+    Year-to-date car sales fell 10.1 pct to 82,000 units from
+91,243 units in the same period last year, the company said.
+ Reuter
+&#3;</BODY></TEXT>

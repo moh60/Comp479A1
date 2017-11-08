@@ -1,0 +1,20 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7467" NEWID="18022">
+<DATE> 2-JUN-1987 10:31:26.20</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>nasdaq</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1146&#31;reute
+r f BC-MERIDIAN-INSURANCE-&lt;M   06-02 0033</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MERIDIAN INSURANCE &lt;MIGI.O> IN NASDAQ EXPANSION</TITLE>
+<DATELINE>    INDIANAPOLIS, June 2 - </DATELINE><BODY>Meridian Insurance Group Inc said
+its common stock has been included in the NASDAQ National
+Market System, effective today.
+ Reuter
+&#3;</BODY></TEXT>

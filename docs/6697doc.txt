@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11610" NEWID="6697">
+<DATE>18-MAR-1987 13:53:37.49</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f8980&#31;reute
+d f BC-&lt;AMOUR-INC>-TO-MAKE-A   03-18 0056</UNKNOWN>
+<TEXT>&#2;
+<TITLE>&lt;AMOUR INC> TO MAKE ACQUISITION</TITLE>
+<DATELINE>    PHILADELPHIA, March 18 - </DATELINE><BODY>Amour Inc said it has entered into
+a letter of intent to acquire &lt;Bard International Associates
+Inc> for 70 mln common shares in a transaction that would give
+former Bard shareholders control of the combined company.
+    Bard makes tennis and squash racquets and accessories.
+ Reuter
+&#3;</BODY></TEXT>

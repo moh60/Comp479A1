@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7330" NEWID="17885">
+<DATE> 2-JUN-1987 02:15:10.69</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0079&#31;reute
+f f BC-Fujitsu-Ltd-group-net   06-02 0014</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE>Fujitsu Ltd group net profit 21.61 billion yen vs 38.93 billion (year to Mar 31)
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

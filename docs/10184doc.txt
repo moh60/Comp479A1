@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15705" NEWID="10184">
+<DATE>26-MAR-1987 16:37:59.69</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2629&#31;reute
+h f BC-CPI-&lt;CPIC>-TO-SELL-AT   03-26 0061</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CPI &lt;CPIC> TO SELL ATT &lt;T> COMPUTER PRODUCTS</TITLE>
+<DATELINE>    ST. LOUIS, March 26 - </DATELINE><BODY>CPI Corp said American Telephone and
+Telegraph has authorized its Business Telephone Systems
+division to represent its computer product line to the St.
+Louis and Chicago business markets.
+    CPI said the products included in the agreement are
+computers, printers, telephone modems and fax machines.
+ Reuter
+&#3;</BODY></TEXT>

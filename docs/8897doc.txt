@@ -1,0 +1,20 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14418" NEWID="8897">
+<DATE>24-MAR-1987 13:14:06.76</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1873&#31;reute
+h f BC-HOME-INTENSIVE-&lt;KDNY>   03-24 0037</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HOME INTENSIVE &lt;KDNY> OPENS TWO DIALYSIS UNITS</TITLE>
+<DATELINE>    NORTH MIAMI BEACH, Fla., March 24 - </DATELINE><BODY>Home Intensive Care Inc
+said it operned two more Dialysis at Home offices, bringing to
+11 the total number of such offices nationwide.
+ Reuter
+&#3;</BODY></TEXT>

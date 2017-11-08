@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15587" NEWID="10066">
+<DATE>26-MAR-1987 13:57:24.34</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2118&#31;reute
+d f BC-SECURITY-&lt;SPC>,-USERS   03-26 0097</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SECURITY &lt;SPC>, USERS, END MERGER TALKS</TITLE>
+<DATELINE>    VALLEY FORGE, Penn., March 26 - </DATELINE><BODY>Security Pacific Corp and
+&lt;Users Inc>, a credit union data processing concern, said they
+have mutually agreed to withdraw from further merger
+negotiations.
+    Users said that since it signed a letter of intent to merge
+with Security in November, it has received a strong show of
+support for continuing the credit union ownership of the
+company with credit unions committing themselves to purchase
+additional Users common.
+    Users also said it is in the strongest financial position
+in its 24-year history.
+ Reuter
+&#3;</BODY></TEXT>

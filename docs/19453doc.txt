@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7289" NEWID="19453">
+<DATE>19-JUN-1987 17:08:17.82</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2460&#31;reute
+r f BC-GATEWAY-&lt;GMSI.O>-RECI   06-19 0054</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GATEWAY &lt;GMSI.O> RECINDS OFFER FOR WESTWORLD</TITLE>
+<DATELINE>    ATLANTA, June 19 - </DATELINE><BODY>Gateway Medical Systems Inc said it has
+withdrawn its May 27 offer to acquire &lt;Westworld Community
+Healthcare Inc>.
+    The company said it remains interested in acquiring the
+Westworld's hospitals and will attempt to continue negotiations
+with Westworld.
+ Reuter
+&#3;</BODY></TEXT>

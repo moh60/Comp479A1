@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1033" NEWID="16498">
+<DATE>13-APR-1987 13:03:40.34</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1901&#31;reute
+h f BC-APOLLO-COMPUTER-&lt;APCI   04-13 0050</UNKNOWN>
+<TEXT>&#2;
+<TITLE>APOLLO COMPUTER &lt;APCI.O> IN PACT WITH INFERENCE</TITLE>
+<DATELINE>    CHELMSFORD, Mass., April 13 - </DATELINE><BODY>Apollo Computer Inc said it
+has entered into a joint marketing agreement with &lt;Inference
+Corp> whereby Apollo will join with Inference to market
+Inference's Automated Reasoning Tool software on Apollo
+workstations.
+   
+ Reuter
+&#3;</BODY></TEXT>

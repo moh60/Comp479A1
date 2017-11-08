@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="8018" NEWID="19690">
+<DATE>29-JUN-1987 11:42:43.55</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1475&#31;reute
+r f BC-CYCLOPS-&lt;CYL>-MERGER   06-29 0071</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CYCLOPS &lt;CYL> MERGER APPROVED</TITLE>
+<DATELINE>    PITTSBURGH, June 29 - </DATELINE><BODY>Cyclops Corp said shareholders
+approved a previously announced merger of the company with a
+subsidiary of dixons Group PLC.
+    It said Dixons held about 83 pct of Cyclops stock following
+a tender offer and other purchases earlier in the year.
+    With the completion of the transaction, Dixons will proceed
+to pay 95 dlrs a share to the remaining Cyclops shareholders.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="8020" NEWID="19692">
+<DATE>29-JUN-1987 11:44:32.84</DATE>
+<TOPICS><D>zinc</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;M 
+&#22;&#22;&#1;f1481&#31;reute
+u f BC-AMAX-ZINC-CO-RAISES-D   06-29 0057</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AMAX ZINC CO RAISES DYECAST ALLOY PRICES</TITLE>
+<DATELINE>    GREENWICH, CONN, June 29 - </DATELINE><BODY>Amax Zinc Co, a division of Amax
+Inc, said it is increasing the price of dyecast alloys No.
+Three and No. Five by three cents a lb, effective immediately.
+    Dyecast alloy No. Three is now 52.5 cents a lb, while alloy
+No. Five is now 53.5 cents a lb, the company said.
+ Reuter
+&#3;</BODY></TEXT>

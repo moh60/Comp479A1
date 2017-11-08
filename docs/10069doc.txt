@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15590" NEWID="10069">
+<DATE>26-MAR-1987 13:58:29.31</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2121&#31;reute
+d f BC-&lt;FIRST-NATIONAL-SUPER   03-26 0103</UNKNOWN>
+<TEXT>&#2;
+<TITLE>&lt;FIRST NATIONAL SUPERMARKETS> ANNUAL SALES RATE</TITLE>
+<DATELINE>    WINDSOR LOCKS, Conn., March 26 - </DATELINE><BODY>First National
+Supermarkets said its annual sales are running at a rate of
+1.58 billion dlrs, compared with 1.39 billion dlrs 18 months
+ago, when the company was taken private by its management.
+    The company said it is commencing a four-year capital
+program that will include the opening 20 new stores as well as
+the enlargement and remodeling of selected existing stores.
+    It said it will continue its practice of closing some
+smaller, less productive stores, converting those assets into
+larger stores in its core market areas.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6616" NEWID="18864">
+<DATE>18-JUN-1987 13:34:16.52</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D><D>israel</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f4102&#31;reute
+a f BC-ELBIT-COMPUTERS-&lt;ELBT   06-18 0061</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ELBIT COMPUTERS &lt;ELBTF.O> GETS CONTRACTS</TITLE>
+<DATELINE>    BOSTON, June 18 - </DATELINE><BODY>Elbit Computers Ltd of Israel said it has
+received a 6,300,000 dlr contract from a buyer it did not name
+for its DASHJ helmet-mounted sight system, which allows pilots
+to aim weapons by looking at targets.
+    The company said deliveries are expected to start in 18
+months and be completed 12 months later.
+ Reuter
+&#3;</BODY></TEXT>

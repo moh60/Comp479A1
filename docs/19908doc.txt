@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="8236" NEWID="19908">
+<DATE>29-JUN-1987 16:34:00.30</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2505&#31;reute
+d f BC-WARRANTECH-CORP-&lt;WTEC   06-29 0092</UNKNOWN>
+<TEXT>&#2;
+<TITLE>WARRANTECH CORP &lt;WTEC.O> AGREES INSURANCE</TITLE>
+<DATELINE>     NEW YORK, June 29 - </DATELINE><BODY>Warrantech Corp said it agreed with
+Providence Washington Insurance Group to insure Warrantech's
+obligations on its Extended Service line of business.
+    The company said that last year it wrote over 1.9 mln dlrs
+of extended service plans representing over 20 mln dlrs' worth
+of electronic products.
+    The company said the agreement will enhance its future
+business opportunities, as an important aspect for it is the
+flexibility, credibility and aggressiveness of its insurance
+company.
+ Reuter
+&#3;</BODY></TEXT>

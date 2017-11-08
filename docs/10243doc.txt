@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15764" NEWID="10243">
+<DATE>26-MAR-1987 18:23:27.16</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2852&#31;reute
+r f BC-TEKTRONIX-INC-&lt;TEK>-Q   03-26 0036</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TEKTRONIX INC &lt;TEK> QUARTERLY DIVIDEND</TITLE>
+<DATELINE>    BEAVERTON, Wash., March 26 -
+    </DATELINE><BODY>Qtly div 15 cts vs 15 cts
+    Pay May 4
+    Record April 10
+    Note: previous dividend restated to reflect January 26
+two-for-one stock split.
+ Reuter
+&#3;</BODY></TEXT>

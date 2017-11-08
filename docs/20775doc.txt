@@ -1,0 +1,30 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="21370" NEWID="20775">
+<DATE>20-OCT-1987 17:27:40.48</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f3388&#31;reute
+d f BC-METROPOLITAN-&lt;MONY.O>   10-20 0088</UNKNOWN>
+<TEXT>&#2;
+<TITLE>METROPOLITAN &lt;MONY.O> TO MAKE OFFER FOR METEX</TITLE>
+<DATELINE>    NEW YORK, Oct 20 - </DATELINE><BODY>Metropolitan Consolidated Industries Inc
+said it will make a tender offer for all or any of the
+outstanding shares of common stock of Metex Corp &lt;MTX> not
+currently held by or under option to Metropolitan for 7.75 dlrs
+per share.
+    The company said the offer will be subject ot securing
+satisfactory financing.
+    Metropolitan currently owns about 25.7 pct of Metex common
+and holds options to purchase about an additional 16 pct of
+Metex common stock.
+   
+    Metropolitan said the offer will be made no later than
+October 27.
+ Reuter
+&#3;</BODY></TEXT>

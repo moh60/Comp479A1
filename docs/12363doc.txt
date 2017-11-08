@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="591" NEWID="12363">
+<DATE> 1-APR-1987 17:31:57.50</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>canada</D><D>japan</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;E F
+&#22;&#22;&#1;f2617&#31;reute
+u f BC-CANADA,-JAPAN-TRADING   04-01 0110</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CANADA, JAPAN TRADING FIRM AGREE TO BOOST TIES</TITLE>
+<DATELINE>    OTTAWA, April 1 - </DATELINE><BODY>The federal government and the Japanese
+trading company, C. Itoh and Co Ltd, have signed a letter of
+understanding to try and boost trade ties between the two
+countries, the Industry department said.
+    The two parties have agreed to encourage direct Japanese
+investment in Canada, bilateral trade, and more joint ventures
+and licensing accords between Canadian and Japanese companies.
+    C. Itoh has just begun a trade mission in Canada to
+investigate trading opportunities in the aerospace, autoparts
+electronics and other sectors and will visit some 30 leading
+companies across Canada. 
+ Reuter
+&#3;</BODY></TEXT>

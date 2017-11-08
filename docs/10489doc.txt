@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16009" NEWID="10489">
+<DATE>27-MAR-1987 11:37:38.28&#5;&#5;&#5;C G</DATE>
+<UNKNOWN>&#22;&#22;&#1;f1348&#31;reute</UNKNOWN>
+<TOPICS><D>corn</D><D>grain</D></TOPICS>
+<PLACES><D>france</D><D>greece</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+u f BC-GREECE-BUYS-55,000-TO   03-27 0068</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GREECE BUYS 55,000 TONNES FRENCH MAIZE - TRADE</TITLE>
+<DATELINE>    PARIS, March 27 - </DATELINE><BODY>Greece bought a total of 55,000 tonnes of
+French maize when it tendered yesterday, initially for 30,000
+tonnes of April delivery, trade sources said.
+    They said 25,000 tonnes, to be shipped from Bordeaux, were
+sold at 1,603 francs per tonne fob, 15,000 tonnes from Rouen at
+1,596 francs fob and 15,000 tonnes from Sete at 1,607 francs
+fob.
+ Reuter
+&#3;</BODY></TEXT>

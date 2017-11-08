@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16558" NEWID="1238">
+<DATE> 3-MAR-1987 14:50:47.02</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0596&#31;reute
+d f BC-AMERICAN-AIRCRAFT-COR   03-03 0083</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AMERICAN AIRCRAFT CORP BUYS PRIVATE FIRM</TITLE>
+<DATELINE>    SAN FRANCISCO, March 3 - </DATELINE><BODY>&lt;American Aircraft Corp> said it
+has acquired a 51 pct interest in privately-held &lt;Hunter
+Helicopter of Nevada, Inc>.
+    The purchase was made for an undisclosed amount of American
+Aircraft stock, the company said.
+    It said the acquisition will increase shareholder equity in
+American Aircraft to 45 cts per share from 18 cts per share.
+    Hunter Helicopter builds two-passenger helicopters that
+retail for about 50,000 dlrs.
+ Reuter
+&#3;</BODY></TEXT>

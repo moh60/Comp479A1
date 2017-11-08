@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7161" NEWID="19325">
+<DATE>19-JUN-1987 14:01:00.14</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1896&#31;reute
+u f BC-N.-AMERICAN-COMMUNICA   06-19 0089</UNKNOWN>
+<TEXT>&#2;
+<TITLE>N. AMERICAN COMMUNICATIONS &lt;NACS.O> WEIGHS SALE</TITLE>
+<DATELINE>    HECTOR, Minn., June 19 - </DATELINE><BODY>North American Communications Corp
+said it is considering several options to maximize shareholder
+value, including a possible sale, merger, corporate
+restructuring, or leveraged buyout.
+    Trading in the company's stock was halted pending an
+announcement.
+    The company, which owns and operates 47 cable television
+systems in Minnesota and Wisconsin, said it retained
+Communications Equity Associates as its financial adviser to
+explore alternatives.
+   
+ Reuter
+&#3;</BODY></TEXT>

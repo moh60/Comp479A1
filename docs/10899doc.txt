@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16960" NEWID="10899">
+<DATE>30-MAR-1987 12:22:37.15</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1779&#31;reute
+d f BC-LOUISIANA-PACIFIC-&lt;LP   03-30 0048</UNKNOWN>
+<TEXT>&#2;
+<TITLE>LOUISIANA PACIFIC &lt;LPX> TO BUY WALLBOARD PLANT</TITLE>
+<DATELINE>    PORTLAND, Ore., March 30 - </DATELINE><BODY>Louisiana Pacific Corp said it
+reached a non-binding agreement in principle to buy a gypsum
+wallboard plant in Seattle from Norwest Gypsum.
+    Purchase price and other details of the agreement were not
+disclosed.
+ Reuter
+&#3;</BODY></TEXT>

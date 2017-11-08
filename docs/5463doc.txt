@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10376" NEWID="5463">
+<DATE>16-MAR-1987 12:08:00.29</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2688&#31;reute
+u f BC-PENN-CENTRAL-&lt;PC>-CAN   03-16 0104</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PENN CENTRAL &lt;PC> CAN'T EXPLAIN STOCK ACTIVITY</TITLE>
+<DATELINE>    NEW YORK, March 16 - </DATELINE><BODY>A spokesman for Penn Central Corp said
+he was unable to explain a rise in the company's shares.
+    Penn Central rose 2-1/4 to 55-7/8 on 538,000 shares by
+midmorning.
+    The spokesman noted the stock had dipped to 52-3/4 in
+intrasession dealings Friday but closed at 53-5/8. The stock
+had traded over 54 dlrs in the preceding week but was pressured
+last week on a large block sale. The spokesman said he did not
+know who the seller was. He said he did not believe it was Carl
+Lindner, a Cincinnati investor who owns about 28 pct of Penn
+Central's stock.
+ Reuter
+&#3;</BODY></TEXT>

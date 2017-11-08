@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="1882" NEWID="12913">
+<DATE> 3-APR-1987 10:53:37.74</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1231&#31;reute
+r f BC-TRANS-WORLD-LIQUIDATI   04-03 0048</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TRANS WORLD LIQUIDATING TRUST TO CLOSE BOOKS</TITLE>
+<DATELINE>    NEW YORK, April 3 - </DATELINE><BODY>The Trans World Corp Liquidating Trust
+said it will permanently close its books of record and transfer
+on April seven.
+    Beneficial interest in the trust ceased trading on the New
+York Stock Exchange on March 31, it noted.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20157" NEWID="21279">
+<DATE>19-OCT-1987 11:58:56.32</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1764&#31;reute
+h f BC-LOGICON-INC-&lt;LGN>-GET   10-19 0075</UNKNOWN>
+<TEXT>&#2;
+<TITLE>LOGICON INC &lt;LGN> GETS ADD ON TO CONTRACT</TITLE>
+<DATELINE>    LOS ANGELES, Oct 19 - </DATELINE><BODY>Logicon Inc said it received a
+three-mln-dlr modification to its contract to develop cruise
+missile simulation systems for the U.S. Air Force.
+    The company said the modification brings the contract to
+12.6 mln dlrs.
+    In addition, a separate 500,000-dlr option may be exercised
+after the basic simulation systems and software simulation are
+delivered in September, 1988, it said.
+ Reuter
+&#3;</BODY></TEXT>

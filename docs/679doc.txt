@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12862" NEWID="679">
+<DATE> 2-MAR-1987 14:18:06.33</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0684&#31;reute
+h f BC-&lt;PANTRY-INC>-INB-TALK   03-02 0068</UNKNOWN>
+<TEXT>&#2;
+<TITLE>&lt;PANTRY INC> INB TALKS ON BEING ACQUIRED</TITLE>
+<DATELINE>    SANFORD, N.C., March 2 - </DATELINE><BODY>Privately-held Pantry Inc, which
+operates 477 convenience stores in five Southeastern states,
+said it has engaged Alex. Brown and Sons Inc &lt;ABSB> to explore
+a possbile sale of the company.
+    It said it expects to start talks with prospective
+acquirers shortly. The company said it has been approached by a
+number of parties in recent months.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13185" NEWID="7664">
+<DATE>20-MAR-1987 09:51:33.25</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0894&#31;reute
+u f BC-SWANK-INC-&lt;SNK>-CAN'T   03-20 0060</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SWANK INC &lt;SNK> CAN'T EXPLAIN STOCK ACTION</TITLE>
+<DATELINE>    ATTLEBORO, Mass., March 20 - </DATELINE><BODY>Swank Inc said it knows of no
+corporate development to account for the volume of activity in
+its stock yesterday and can only assume institutional trading
+was the cause.
+    In New York Stock Exchange composite trading yesterday,
+Swank stock rose 7/8 to 15-3/4 on volume of 104,700 shares.
+ Reuter
+&#3;</BODY></TEXT>

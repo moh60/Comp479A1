@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="8576" NEWID="3663">
+<DATE>11-MAR-1987 10:47:05.09</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F RM
+&#22;&#22;&#1;f0363&#31;reute
+r f BC-DUFF/PHELPS-UPGRADES   03-11 0075</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DUFF/PHELPS UPGRADES BELLSOUTH CORP &lt;BLS> UNIT</TITLE>
+<DATELINE>    CHICAGO, March 11 - </DATELINE><BODY>Duff and Phelps raised its ratings to
+DP-1 (AAA) from DP-2 (high AA) on 2.6 billion dlrs in
+debentures and 150 mln dlrs in notes of South Central Bell
+Telephone Co, a unit of BellSouth Corp.
+    The rating agency cited the company's strong financial
+performance, which was achieved by keeping expenses under
+control and not by relying on raising local phone rates to its
+customers.
+ Reuter
+&#3;</BODY></TEXT>

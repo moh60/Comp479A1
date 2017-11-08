@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6544" NEWID="18792">
+<DATE>18-JUN-1987 12:20:20.82</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f3766&#31;reute
+r f BC-ZENITH-&lt;ZEN>,-SQUIBB   06-18 0089</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ZENITH &lt;ZEN>, SQUIBB &lt;SQB> IN SUPPLY TALKS</TITLE>
+<DATELINE>    RAMSEY, N.J., June 19 - </DATELINE><BODY>Zenith Laboratories Inc said it is
+discusssing with Squibb Corp's SquibbMark division a three-year
+agreement to supply some products to Squibb to sell under a
+SquibbMark label.
+    Zenith said the deal includes products it already markets
+and some that are pending marketing approval from the U.S. Food
+and Drug Administration.
+    Zenith also said the proposed agreement is still in
+negotiation and subject to approval by senior managements of
+Squibb and Zenith.
+ Reuter
+&#3;</BODY></TEXT>

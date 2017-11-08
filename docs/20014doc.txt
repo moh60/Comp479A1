@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20609" NEWID="20014">
+<DATE>20-OCT-1987 02:51:54.24</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>tse</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM AI 
+&#22;&#22;&#1;f0126&#31;reute
+f f BC-Tokyo-Stock-Exchange   10-20 0013</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE>Tokyo Stock Exchange has no plan to suspend trading on Wednesday-president
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

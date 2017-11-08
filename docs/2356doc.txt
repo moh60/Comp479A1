@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18773" NEWID="2356">
+<DATE> 5-MAR-1987 14:23:03.08</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F E
+&#22;&#22;&#1;f0390&#31;reute
+r f BC-AMERICAN-HOME-&lt;AHP>-U   03-05 0109</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AMERICAN HOME &lt;AHP> UNIT TO GET RIGHTS TO DRUG</TITLE>
+<DATELINE>    TORONTO, March 5 - </DATELINE><BODY>Polydex Pharmaceuticals Ltd &lt;POLYXF>
+said the Canadian unit of American Home Products Corp's Ayerst
+Labs subsidiary will probably receive marketing and
+distribution rights to its cholesterol lowering drug Dexide,
+now in clinical trials in Canada.
+    George Usher, president of Dextran Products Limited, the
+Canadian subsidiary of Polydex, said that the company will file
+in August to both U.S. and Canadian regulatory authorities to
+receive marketing approval for the drug. He also said that
+American Home Products would quite possibly get distribution
+rights to the drug in the U.S.
+   
+ Reuter
+&#3;</BODY></TEXT>

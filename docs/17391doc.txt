@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="NOT-USED" CGISPLIT="PUBLISHED-TESTSET" OLDID="22040" NEWID="17391">
+<DATE>29-APR-1987 09:45:10.87</DATE>
+<TOPICS><D>lei</D><D>gnp</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A RM
+&#22;&#22;&#1;f0948&#31;reute
+r f BC-U.S.-INDEX-SAID-CONSI   04-29 0086</UNKNOWN>
+<TEXT>&#2;
+<TITLE>U.S. INDEX SAID CONSISTENT WITH GROWTH FORECAST</TITLE>
+<DATELINE>    WASHINGTON, April 29 -  </DATELINE><BODY>Robert Ortner, under secretary of
+commerce, said last month's 0.4 pct rise in the Index of
+Leading Indicators was consistent with growth of 3.0 pct this
+year.
+    He said in a statement that stock prices accounted for a
+large share of the index's growth in the last six months.
+    "Excluding stock prices, the rate of increase was still a
+healthy 6.2 pct and is consistent with 3.0 pct or more overall
+economic growth during 1987," he said.
+ Reuter
+&#3;</BODY></TEXT>

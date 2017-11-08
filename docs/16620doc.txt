@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1155" NEWID="16620">
+<DATE>13-APR-1987 15:28:03.58</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2379&#31;reute
+r f BC-NL-INDUSTRIES-&lt;NL>-NA   04-13 0052</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NL INDUSTRIES &lt;NL> NAMES PRESIDENT</TITLE>
+<DATELINE>    NEW YORK, April 13 - </DATELINE><BODY>NL Industries Inc said it named J.
+Landis Martin as president and chief executive officer,
+succeeding Harold Simmons, who will continue as chairman.
+    The company said Martin, 41, was also named chairman and
+chief executive of its NL Chemicals Inc unit.
+ Reuter
+&#3;</BODY></TEXT>

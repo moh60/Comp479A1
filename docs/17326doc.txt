@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="NOT-USED" CGISPLIT="PUBLISHED-TESTSET" OLDID="21948" NEWID="17326">
+<DATE>27-APR-1987 10:20:08.53</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1185&#31;reute
+r f BC-ITT-CORP-&lt;ITT>-CONFID   04-27 0088</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ITT CORP &lt;ITT> CONFIDENT ABOUT FISCAL 1987</TITLE>
+<DATELINE>    NEW YORK, April 27 - </DATELINE><BODY>ITT Corp said first quarter results,
+reported earlier, were substantially ahead of budget and added
+it is confident of a continued improvement by all divisions in
+the remainder of the year.
+    The company said the natural resources division more than
+doubled its contribution from the year ago quarter while the
+diversified services business reported strong operating results
+due to continued improvement in the domestic casualty business
+at The Hartford.
+    It said the operationg performance of the industrial and
+defense technology business was above expectations but below
+the year ago result.
+ Reuter
+&#3;</BODY></TEXT>

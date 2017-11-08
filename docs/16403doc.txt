@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="937" NEWID="16403">
+<DATE>13-APR-1987 12:01:41.53</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D><D>south-africa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1570&#31;reute
+r f BC-MCGRAW-HILL-&lt;MHP>-DIV   04-13 0086</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MCGRAW-HILL &lt;MHP> DIVESTS SOUTH AFRICAN UNIT</TITLE>
+<DATELINE>    NEW YORK, April 13 - </DATELINE><BODY>McGraw-Hill Inc said it has sold its
+McGraw-Hill Book Co South Africa Pty Ltd subsidiary to a local
+management group for an undisclosed amount of cash and halted
+the sale of all products and services to South Africa.
+    The company said the divestiture follows a resolution of
+its board in February that cited increased political and social
+unrest within South Africa and the refusal of the South African
+government to abolish the apartheid system.
+ Reuter
+&#3;</BODY></TEXT>

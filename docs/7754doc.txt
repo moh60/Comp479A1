@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13275" NEWID="7754">
+<DATE>20-MAR-1987 11:36:37.25</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1361&#31;reute
+r f BC-BELDING-HEMINWAY-&lt;BHY   03-20 0046</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BELDING HEMINWAY &lt;BHY> OFFICIAL RESIGNS</TITLE>
+<DATELINE>    NEW YORK, March 20 - </DATELINE><BODY>Belding Heminway Co Inc said Bruce
+Hausman has resigned as senior vice chairman and chairman of
+the executive committee to pursue personal interests in real
+estate and other investments but will remain on the board.
+ Reuter
+&#3;</BODY></TEXT>

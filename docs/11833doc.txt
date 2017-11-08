@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="61" NEWID="11833">
+<DATE> 1-APR-1987 06:20:55.09</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>netherlands</D><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0438&#31;reute
+r f BC-INTERNATIO-MUELLER-AC   04-01 0108</UNKNOWN>
+<TEXT>&#2;
+<TITLE>INTERNATIO-MUELLER ACQUIRES CANADIAN COMPANY</TITLE>
+<DATELINE>    ROTTERDAM, April 1- </DATELINE><BODY>Internatio-Mueller NV &lt;INTN.AS> said it
+will acquire &lt;Promac Controls Inc> of Canada but declined to
+comment on the amount of the payment, which will be in cash.
+    Promac, which produces measurement and regulating
+equipment, has a work force of 50 and had 1986 turnover of five
+mln guilders, an Internatio spokesman said.
+    He said the takeover fits into the company's drive for
+expansion in the U.S and Canada and further acquisitions are
+possible.
+    Promac Controls will be part of Internatio's
+electrotechnical sector.
+ REUTER
+&#3;</BODY></TEXT>

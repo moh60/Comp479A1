@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14436" NEWID="8915">
+<DATE>24-MAR-1987 13:47:16.93</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1986&#31;reute
+r f BC-MICROSIZE-INC-&lt;MSIZ>   03-24 0050</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MICROSIZE INC &lt;MSIZ> 2ND QTR ENDS FEB 28 NET</TITLE>
+<DATELINE>    SALT LAKE CITY, March 24 -
+    </DATELINE><BODY>Shr profit one cent vs loss 2.6 cts
+    Net profit 59,198 vs loss 132,702
+    Revs 634,616 vs 485,730
+    six mths
+    Shr profit one cent vs loss four cts
+    Net profit 49,669 vs loss 208,278
+    Revs 1,056,452 vs 944,330
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19662" NEWID="3240">
+<DATE> 9-MAR-1987 12:49:57.69</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0005&#31;reute
+r f BC-LOTUS-&lt;LOTS>-GETS-ORD   03-09 0049</UNKNOWN>
+<TEXT>&#2;
+<TITLE>LOTUS &lt;LOTS> GETS ORDER FROM MICRO D &lt;MCRD></TITLE>
+<DATELINE>    CAMBRIDGE, Mass., March 9 - </DATELINE><BODY>Lotus Development Corp said it
+has received a 30 mln dlr order from Micro D Inc for a number
+of Lotus software products.
+    It said the order is the largest it has ever received and
+is to be delivered over six months.
+ Reuter
+&#3;</BODY></TEXT>

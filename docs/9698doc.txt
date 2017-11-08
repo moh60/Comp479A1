@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15219" NEWID="9698">
+<DATE>25-MAR-1987 23:32:44.59</DATE>
+<TOPICS><D>money-fx</D><D>yen</D></TOPICS>
+<PLACES></PLACES>
+<PEOPLE><D>sumita</D></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f2883&#31;reute
+f f BC-Sumita-says-further-y   03-25 0012</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE>Sumita says further yen rise would adversely affect Japanese economy
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

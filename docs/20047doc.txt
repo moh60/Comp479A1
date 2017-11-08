@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20642" NEWID="20047">
+<DATE>20-OCT-1987 05:28:05.60</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>mise</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f0355&#31;reute
+f f BC-Milan-bourse-opening   10-20 0011</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE>Milan bourse opening delayed one hour to 1200 GMT - official
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

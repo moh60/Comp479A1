@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7484" NEWID="18039">
+<DATE> 2-JUN-1987 10:53:42.76</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1265&#31;reute
+r f BC-PENTLAND-INDUSTRIES-P   06-02 0062</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PENTLAND INDUSTRIES PLC HOLDERS APPROVE SPLIT</TITLE>
+<DATELINE>    NEW YORK, June 2 - </DATELINE><BODY>Pentland Industries PLC said
+shareholders at the annual meeting approved an increase in
+authorized share capital to 36 mln stg to 12 mln stg by
+creation of another 240 mln ordinary shares, allowing for a
+three-for-one stock split.
+    It said dealings in the new shares are expected to start on
+June 15.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15166" NEWID="9645">
+<DATE>25-MAR-1987 17:55:23.33</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2613&#31;reute
+d f BC-CONNECTICUT-ENERGY-&lt;C   03-25 0101</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CONNECTICUT ENERGY &lt;CNE>UNIT SEEKS HIGHER RATES</TITLE>
+<DATELINE>    BRIDGEPORT, Conn., March 25 - </DATELINE><BODY>Connecticut Energy Corp said
+its Southern Connecticut Gas Co unit filed with state
+regulators a letter of intent to raise its rates by 2.7 pct, or
+about 4.2 mln dlrs, beginning in late 1987.
+    The company said it expects to file a formal application
+with the Connecticut Department of Public Utility Control
+within 60 days.
+    The company said a rate increase is needed to cover higher
+operating and maintenance expenses that have occurred since it
+last received a rate hike of three pct, or 4.8 mln dlrs, in
+January 1985.
+ Reuter
+&#3;</BODY></TEXT>

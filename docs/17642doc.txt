@@ -1,0 +1,20 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5980" NEWID="17642">
+<DATE> 1-JUN-1987 12:54:09.87</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1754&#31;reute
+h f BC-N.A.-COMMUNICATIONS-&lt;   06-01 0035</UNKNOWN>
+<TEXT>&#2;
+<TITLE>N.A. COMMUNICATIONS &lt;NACS.O> LIMITS LIABILITY</TITLE>
+<DATELINE>    HECTOR, Minn., June 1 - </DATELINE><BODY>North American Communications Inc
+said its shareholders approved at the annual meeting an
+amendment to limit the liability of its directors.
+ Reuter
+&#3;</BODY></TEXT>

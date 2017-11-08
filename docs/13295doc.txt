@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="2278" NEWID="13295">
+<DATE> 7-APR-1987 00:14:40.77</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D><D>japan</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0005&#31;reute
+u f BC-OKI-ELECTRIC-STUDIES   04-07 0101</UNKNOWN>
+<TEXT>&#2;
+<TITLE>OKI ELECTRIC STUDIES IMPORT OF U.S. CAR PHONES</TITLE>
+<DATELINE>    TOKYO, April 7 - </DATELINE><BODY>&lt;Oki Electric Industry Co Ltd> may import
+car telephones made by its 100 pct U.S. Subsidiary, &lt;Oki
+America Inc>, for sale in Japan, an Oki spokesman said.
+    The firm would like to import the car phones, which are
+made according to a system developed jointly by Motorola Inc
+&lt;MOT> of the U.S. And Oki Electric, the spokesman said.
+    A final decision will hinge on obtaining approval from
+Japan's Post and Telecommunications Ministry and whether or not
+it is feasible to convert the models to meet Japanese
+specifications, he said.
+ REUTER
+&#3;</BODY></TEXT>

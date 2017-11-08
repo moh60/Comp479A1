@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="8202" NEWID="19874">
+<DATE>29-JUN-1987 15:50:38.54</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F E Y 
+&#22;&#22;&#1;f2382&#31;reute
+r f BC-MCCHIP-&lt;MCS.TO>-TO-AC   06-29 0061</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MCCHIP &lt;MCS.TO> TO ACQUIRE RESERVE HOLDING</TITLE>
+<DATELINE>    TORONTO, June 29 - </DATELINE><BODY>McChip Resources Inc said it has agreed
+to exchange its interest in Oklahoma oil and gas properties
+operated by Reserve Exploration Co &lt;REXC.O> for 638,435
+restricted Reserve common shares.
+    The company said it will have a 44 pct stake in Reserve's
+outstanding shares as a result of the exchange.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10110" NEWID="5197">
+<DATE>16-MAR-1987 01:00:02.36</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>japan</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f1095&#31;reute
+u f BC-JAPAN-FIRMS-SELL-GENE   03-16 0098</UNKNOWN>
+<TEXT>&#2;
+<TITLE>JAPAN FIRMS SELL GENERATORS FOR SOUTH AMERICAN DAM</TITLE>
+<DATELINE>    TOKYO, March 16 - </DATELINE><BODY>A Japanese consortium will supply 10
+generators worth some 10 billion yen to a joint
+Argentine/Paraguay hydroelectric project, a Mitsubishi Electric
+Corp &lt;MIET.T> official said.
+    The presidents of Mitsubishi Electric, Hitachi Ltd &lt;HIT.T>
+and Toshiba Corp &lt;TSBA.T>, the three firms in the consortium,
+will sign the contract with Entidad Binacional Yacyreta, an
+Argentine public company, later this month.
+    The Export-Import Bank of Japan Ltd will provide yen
+financing for the project, the official said.
+ REUTER
+&#3;</BODY></TEXT>

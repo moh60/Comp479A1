@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14591" NEWID="9070">
+<DATE>24-MAR-1987 17:29:06.75</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2661&#31;reute
+s f BC-MOBIL-&lt;MOB>-UNIT-NAME   03-24 0047</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MOBIL &lt;MOB> UNIT NAMES GROUP PRESIDENT</TITLE>
+<DATELINE>    CHICAGO, March 24 - </DATELINE><BODY>Montomgery Ward and Co, a subsidiary of
+Mobil Corp, said it named John Weil as president of its Apparel
+Group, replacing Richard Bourret, who has resigned.
+    It said Weil has been a consultant to the company since
+1986.
+ Reuter
+&#3;</BODY></TEXT>

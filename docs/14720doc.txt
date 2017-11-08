@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="3703" NEWID="14720">
+<DATE> 7-APR-1987 17:37:06.15</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2582&#31;reute
+r f BC-RED-LION-INNS-L.P.-BE   04-07 0048</UNKNOWN>
+<TEXT>&#2;
+<TITLE>RED LION INNS L.P. BEGINS OFFERING</TITLE>
+<DATELINE>    NEW YORK, APril 7 - </DATELINE><BODY>Red Lion Inns L.P. said it began an
+initial public offering of 4.9 mln units priced at 20 dlrs a
+unit.
+    Proceeds and a 105.87 mln dlrs mortgage loan will be used
+to finance the acquisition of 10 Red Lion hotels, it said.
+    
+ Reuter
+&#3;</BODY></TEXT>

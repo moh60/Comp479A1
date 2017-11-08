@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14513" NEWID="8992">
+<DATE>24-MAR-1987 15:49:33.70</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2380&#31;reute
+r f BC-NEW-PROCESS-CO-&lt;NOZ>   03-24 0075</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NEW PROCESS CO &lt;NOZ> SETS QTLY PAYOUT</TITLE>
+<DATELINE>    WARREN, Pa., March 24 - </DATELINE><BODY>New Process Co said it declared a
+quarterly dividend of 12-1/2 cts, the regular dividend it pays
+during the first three quarters of the year.
+    The dividend is payable May 1 to shareholders of record
+April 10.
+    Last year, New Process paid an annual dividend of 1.18 dlrs
+by paying 12-1/2 cts a share in each of the first three
+quarters and a fourth quarter dividend of 80-1/2 cts.
+ Reuter
+&#3;</BODY></TEXT>

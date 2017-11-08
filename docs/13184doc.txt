@@ -1,0 +1,33 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="2153" NEWID="13184">
+<DATE> 3-APR-1987 17:12:38.81</DATE>
+<TOPICS><D>crude</D></TOPICS>
+<PLACES><D>colombia</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;Y
+&#22;&#22;&#1;f2427&#31;reute
+r f AM-colombia-oil   04-03 0098</UNKNOWN>
+<TEXT>&#2;
+<TITLE>COLOMBIA'S MAIN OIL PIPELINE ATTACKED</TITLE>
+<DATELINE>    BOGOTA, April 3 - </DATELINE><BODY>State-run oil company Ecopetrol said
+Colombia's main oil pipeline was bombed again and pumping of
+170,000 barrels per day was suspended.
+    A spokeswoman for the company said that the early morning
+dynamite attack was the 31st in the last nine months on the
+Cano Limon-Covenas pipeline, which links Colombia's biggest
+oilfied at Cravo Norte to the Caribbean.
+    She said about 2,000 barrels of crude were spilled and
+could not indicate when pumping would resume. The attack was
+near Magangue in northeastern Bolivar province.
+    Ecopetrol is exploiting Cravo Norte in association with
+Occidental Petroleum Corp &lt;OXY> and Shell Petroleum N.V., a
+unit of the Royal Dutch/Shell Group &lt;RD> &lt;ST>.
+    Ecopetrol said in a communique that bombings since last
+July led to a loss of more than 110,000 barrels of crude, or
+the equivalent of 10 mln dlrs.
+ Reuter
+&#3;</BODY></TEXT>

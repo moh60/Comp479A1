@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12961" NEWID="778">
+<DATE> 2-MAR-1987 16:27:52.88</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0061&#31;reute
+d f BC-CPL-REIT-&lt;CNTRS>-4TH   03-02 0043</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CPL REIT &lt;CNTRS> 4TH QTR NET</TITLE>
+<DATELINE>    DAVENPORT, Iowa, March 2 -
+    </DATELINE><BODY>Shr 24 cts
+    Net 412,737
+    Revs 605,321
+    Year
+    Shr 93 cts
+    Net 1,577,892
+    Revs 2,345,261
+    NOTE: Full name CPL Real Estate Investment Trust.
+    Company was formed Dec 30, 1985.
+ Reuter
+&#3;</BODY></TEXT>

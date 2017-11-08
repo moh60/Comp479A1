@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1070" NEWID="16535">
+<DATE>13-APR-1987 13:41:24.32</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2052&#31;reute
+d f BC-DIGILOG-&lt;DIOL>-GETS-B   04-13 0039</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DIGILOG &lt;DIOL> GETS BELLSOUTH &lt;BSC> ORDERS</TITLE>
+<DATELINE>    MONTGOMERYVILLE, Pa., April 13 - </DATELINE><BODY>Digilog Inc said it has
+received 669,000 dlrs in orders from BellSouth Corp for network
+monitoring and management equipment that is to be delivered
+this month.
+ Reuter
+&#3;</BODY></TEXT>

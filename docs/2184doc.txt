@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18602" NEWID="2184">
+<DATE> 5-MAR-1987 11:38:33.87</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0691&#31;reute
+r f BC-SALOMON-&lt;SB>-NAMES-RO   03-05 0104</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SALOMON &lt;SB> NAMES ROSENFELD TO NEW POST</TITLE>
+<DATELINE>    NEW YORK, March 5 - </DATELINE><BODY>Salomon Inc said it elected Gerald
+Rosenfeld exeuctive vice president and chief financial officer,
+succeeding Ray Golden who left January 31 and has since joined
+&lt;Trammell Crow Co>.
+    Salomon also said Rosenfeld was named to the new position
+of chief financial officer of Salomon Brothers, where he will
+oversee its financial division of 560 people.
+    Rosenfeld joined Salomon in 1979 and has been a member of
+Salomon Brothers' merger and acquisitions group. Last year he
+became head of Salomon Brothers' Capital commitments committee,
+a role he retains.
+ Reuter
+&#3;</BODY></TEXT>

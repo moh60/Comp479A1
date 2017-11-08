@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15089" NEWID="9568">
+<DATE>25-MAR-1987 15:57:21.90</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2302&#31;reute
+d f BC-HELM-&lt;H>-AFFILIATE-SE   03-25 0082</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HELM &lt;H> AFFILIATE SELLS SYSTEM</TITLE>
+<DATELINE>    NEW YORK, March 25 - </DATELINE><BODY>Teletrak Advanced Technology Systems
+Inc, 35 pct-owned by Helm Resources Inc, said it received a 
+contract to provide its Laser Base 400 System to a national
+commercial bank.
+    The system is an optical disk storage and retrieval system
+that utilizes commercially accepted computer hardware, it said.
+    Teletrak also said a New York law firm has retained it to
+develop the laser base software for the firm's word processing
+system.
+
+ Reuter
+&#3;</BODY></TEXT>

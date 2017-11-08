@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15272" NEWID="9752">
+<DATE>26-MAR-1987 05:29:07.05</DATE>
+<TOPICS><D>money-supply</D></TOPICS>
+<PLACES><D>taiwan</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0342&#31;reute
+u f BC-TAIWAN'S-SAVINGS-AT-R   03-26 0104</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TAIWAN'S SAVINGS AT RECORD HIGH</TITLE>
+<DATELINE>    TAIPEI, March 26 - </DATELINE><BODY>Taiwan has over one trillion Taiwan dlrs
+in savings, official statistics show.
+    Figures released yesterday show all forms of savings by
+individuals and public and private firms, including bank
+deposits, certificates of deposits and bond's, are running at
+about 37 pct of gross national product (GNP).
+    GNP rose by 14.35 pct in 1986 to 2.74 trillion dlrs.
+    Taiwan's strict foreign exchange controls and lack of
+incentives to invest abroad mean its huge export earnings are
+mainly deposited in bank savings accounts, earning below four
+pct interest each year.
+ REUTER
+&#3;</BODY></TEXT>

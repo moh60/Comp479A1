@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6834" NEWID="18998">
+<DATE>18-JUN-1987 18:40:19.73</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D><D>india</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f4958&#31;reute
+r f BC-PLAYBOY-&lt;PLA>-GETS-LI   06-18 0085</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PLAYBOY &lt;PLA> GETS LICENSING PACT IN INDIA</TITLE>
+<DATELINE>    CHICAGO, June 18 - </DATELINE><BODY>Playboy Enterprises Inc said its Playboy
+Licensing unit has entered into an agreement with Fashionport
+Private Ltd of India to market Playboy and Playmate fashions
+and accessories in India, the Middle East and several Eastern
+bloc countries.
+    Fashionport will produce men's and women's apparel, leather
+garments, footwear, small leather goods and accessories, it
+said.
+    Fashionport is based in Bombay, India. No other details
+were available.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="NOT-USED" CGISPLIT="PUBLISHED-TESTSET" OLDID="21561" NEWID="12705">
+<DATE> 2-APR-1987 15:55:11.52</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2405&#31;reute
+d f BC-LINEAR-CORP-&lt;LINE>-3R   04-02 0050</UNKNOWN>
+<TEXT>&#2;
+<TITLE>LINEAR CORP &lt;LINE> 3RD QTR FEB 28 NET</TITLE>
+<DATELINE>    CARLSBAD, Calif., April 2 -
+    </DATELINE><BODY>Shr profit 15 cts vs profit six cts
+    Net profit 471,000 vs profit 193,000
+    Sales 14 mln vs 9,795,000
+    Nine Mths
+    Shr profit 77 cts vs loss six cts
+    Net profit 2,324,000 vs loss 183,000
+    Sales 41.9 mln vs 30.3 mln
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4536" NEWID="15354">
+<DATE> 8-APR-1987 17:39:45.07</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2705&#31;reute
+r f BC-STEWART-AND-STEVENSON   04-08 0050</UNKNOWN>
+<TEXT>&#2;
+<TITLE>STEWART AND STEVENSON SERVICES &lt;SSSS> 4TH QTR</TITLE>
+<DATELINE>    HOUSTON, April 8 - </DATELINE><BODY>4th qtr ended Jan 31.
+    Shr profit 72 cts vs profit 14 cts
+    Net profit 3,309,000 vs 609,000
+    Revs 72 mln vs 65 mln
+    Year
+    Shr profit nil vs loss 4.13 dlrs
+    Net profit 1,000 vs loss 19 mln
+    Revs 245 mln vs 269.1 mln
+ Reuter
+&#3;</BODY></TEXT>

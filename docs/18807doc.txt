@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6559" NEWID="18807">
+<DATE>18-JUN-1987 12:44:36.25</DATE>
+<TOPICS><D>pet-chem</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F E 
+&#22;&#22;&#1;f3880&#31;reute
+r f BC-REICHHOLD-&lt;RCI>-RAISE   06-18 0047</UNKNOWN>
+<TEXT>&#2;
+<TITLE>REICHHOLD &lt;RCI> RAISES WAFERBOARD RESIN PRICES</TITLE>
+<DATELINE>    MISSISSAUGA, Ont., June 18 - </DATELINE><BODY>Reichhold Chemicals Inc said
+its Reichhold Ltd subsidiary has raised prices seven U.S. cent
+per pound on powdered phenolic waferboard resins, effective
+July 1, due to sharp increases in the cost of phenol.
+ Reuter
+&#3;</BODY></TEXT>

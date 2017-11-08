@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16693" NEWID="1373">
+<DATE> 3-MAR-1987 17:25:41.33</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0053&#31;reute
+u f BC-JEFFERIES-AND-CO-MAKI   03-03 0060</UNKNOWN>
+<TEXT>&#2;
+<TITLE>JEFFERIES AND CO MAKING MARKET FOR GM STOCK</TITLE>
+<DATELINE>    LOS ANGELES, March 3 - </DATELINE><BODY>Jefferies and Co Inc said it is
+making a market for General Motors Corp &lt;GM> stock at 77-1/2 to
+78.
+    GM said earlier today its directors authorized the
+repurchase of up to 20 pct of its common stock by the end of
+1990 and that it would not repurchase more than ten mln shares
+this year.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="179" NEWID="11951">
+<DATE> 1-APR-1987 10:22:19.08</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>tanzania</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;C G T M
+&#22;&#22;&#1;f1063&#31;reute
+d f BC-TANZANIA-OUTLINES-NEW   04-01 0098</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TANZANIA OUTLINES NEW FIVE-YEAR PLAN</TITLE>
+<DATELINE>    DAR ES SALAAM, April 1 - </DATELINE><BODY>Tanzania will need about 1.2
+billion dlrs of hard currency investment to support its
+1987-1992 five-year plan which begins in July, Minister of
+State for Finance Damas Mbogoro said.
+    He told an economic planning seminar in the northern town
+of Arusha yesterday that the new plan would concentrate on
+rehabilitating Tanzania's existing infrastructure, with a
+minimum of investment in new development projects.
+    The aim is to boost agricultural production by five pct a
+year and industrial output by 6.4 pct, he said.
+ Reuter
+&#3;</BODY></TEXT>

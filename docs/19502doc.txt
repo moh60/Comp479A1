@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7830" NEWID="19502">
+<DATE>29-JUN-1987 03:45:44.04</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D><D>japan</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F M C 
+&#22;&#22;&#1;f0189&#31;reute
+u f BC-KOBE-STEEL,-U.S.-FIRM   06-29 0088</UNKNOWN>
+<TEXT>&#2;
+<TITLE>KOBE STEEL, U.S. FIRM IN COPPER TUBE TIE-UP</TITLE>
+<DATELINE>    TOKYO, June 29 - </DATELINE><BODY>&lt;Kobe Steel Ltd> said it has agreed to
+supply technology to manufacture thin-walled copper tubing used
+in air conditioners and refrigeration units to &lt;Halstead
+Industries Inc> in Zelienople, Pennsylvania.
+    Total demand for copper tubing in the U.S. Is 25,000 tonnes
+a month, of which 5,000 is for the thin-walled type, Kobe said
+in a statement.
+    The two companies are studying joint partial production of
+Kobe's thin-walled copper tubing in the U.S.
+ REUTER
+&#3;</BODY></TEXT>

@@ -1,0 +1,20 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="NOT-USED" CGISPLIT="PUBLISHED-TESTSET" OLDID="21678" NEWID="17028">
+<DATE>21-APR-1987 13:00:06.84</DATE>
+<TOPICS><D>crude</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;Y
+&#22;&#22;&#1;f1842&#31;reute
+u f BC-API-SAID-STATISTICS-T   04-21 0036</UNKNOWN>
+<TEXT>&#2;
+<TITLE>API SAID STATISTICS TO BE RELEASED TONIGHT</TITLE>
+<DATELINE>    NEW YORK, April 21 - </DATELINE><BODY>The American Petroleum Institute said
+it plans to release its weekly report on U.S. oil inventories
+tonight, even though last Friday was a holiday.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="8047" NEWID="19719">
+<DATE>29-JUN-1987 12:19:18.67</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1655&#31;reute
+d f BC-&lt;UNICOA>-TO-MERGE-INT   06-29 0083</UNKNOWN>
+<TEXT>&#2;
+<TITLE>&lt;UNICOA> TO MERGE INTO ITS UNITED INSURANCE UNIT</TITLE>
+<DATELINE>    CHICAGO, June 29 - </DATELINE><BODY>Unicoa Corp said it agreed to a merger
+with its wholly-owned subsidiary, United Insurance Co of
+America.
+    Under the agreement, each outstanding share of Unicoa
+common stock will be converted into one share of United common
+stock.
+    The agreement is subject to shareholder and regulatory
+approval. Teledyne Inc &lt;TDY> owns about 98.4 pct of Unicoa's
+outstanding shares. A shareholder meeting is expected to be
+held in August.
+ Reuter
+&#3;</BODY></TEXT>

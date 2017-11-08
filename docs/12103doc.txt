@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="331" NEWID="12103">
+<DATE> 1-APR-1987 12:47:44.02</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1721&#31;reute
+r f BC-HOMESTEAD-&lt;HFL>-BEGIN   04-01 0051</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HOMESTEAD &lt;HFL> BEGINS PUBLIC SHARE OFFERING</TITLE>
+<DATELINE>    BURLINGAME, Calif., April 1 - </DATELINE><BODY>Homestead Financial Corp said
+it began a public offering of 3,500,000 shares of its class A
+common at 10.875 dlrs per share, through an underwriting group
+managed by Drexel Burnham Lambert Inc and Merrill Lynch Capital
+Markets.
+ Reuter
+&#3;</BODY></TEXT>

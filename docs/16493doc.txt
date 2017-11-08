@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1028" NEWID="16493">
+<DATE>13-APR-1987 12:59:55.29</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F
+&#22;&#22;&#1;f1876&#31;reute
+d f BC-NOR-QUEST-&lt;NQRLF>-MAK   04-13 0077</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NOR-QUEST &lt;NQRLF> MAKES BID FOR NORTHAIR &lt;NRM.TO></TITLE>
+<DATELINE>    NANAIMO, British Columbia, April 13 - </DATELINE><BODY>Nor-Quest Resources
+Inc said it will make a takeover offer to acquire all shares of
+Northair Mines Ltd on the basis of one Nor-Quest share plus one
+dlr for two shares of Northair.
+    Nor-Quest said it plans to bring Northair's Willa Mine in
+the Nelson area of British Columbia into production using
+Nor-Quest's recently acquired 1200-ton per day mill located in
+the area.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12903" NEWID="720">
+<DATE> 2-MAR-1987 15:25:05.77</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0877&#31;reute
+h f BC-&lt;DAIWA-SECURITIES-CO>   03-02 0096</UNKNOWN>
+<TEXT>&#2;
+<TITLE>&lt;DAIWA SECURITIES CO> TO SUPPLY MARKET UPDATE</TITLE>
+<DATELINE>    NEW YORK, March 2 - </DATELINE><BODY>Daiwa Securities Co Ltd said it will
+provide Financial News Network &lt;FNNI> with an exclusive daily
+market update from Tokyo.
+    The report can be seen on FNN's World Business Update, the
+company said.
+    Daiwa Securities said the new program describes major
+business developments around the world, using videotaped news
+and feature stories as well as market and commodities
+information.
+    Viewers will be able to get closing prices in Tokyo prior
+to opening trading in New York due to the time difference.
+ Reuter
+&#3;</BODY></TEXT>

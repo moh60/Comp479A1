@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18829" NEWID="2412">
+<DATE> 5-MAR-1987 15:47:31.25</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A RM
+&#22;&#22;&#1;f0665&#31;reute
+r f BC-ALLTEL-&lt;AT>-DEBENTURE   03-05 0086</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ALLTEL &lt;AT> DEBENTURES YIELD 8.90 PCT</TITLE>
+<DATELINE>    NEW YORK, March 5 - </DATELINE><BODY>Alltel Corp is raising 50 mln dlrs
+through an offering of debentures due 2022 yielding 8.90 pct,
+said lead manager Merrill Lynch Capital Markets.
+    The debentures have an 8-7/8 pct coupon and were priced at
+99.726 to yield 135 basis points over the off-the-run 9-1/4 pct
+Treasury bonds of 2016.
+    Non-callable for five years, the issue is rated A-3 by
+Moody's Investors Service Inc and A by Standard and Poor's
+Corp. Stephens Inc co-managed the deal.
+ Reuter
+&#3;</BODY></TEXT>

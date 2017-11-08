@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14479" NEWID="8958">
+<DATE>24-MAR-1987 14:40:35.12</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A RM
+&#22;&#22;&#1;f2154&#31;reute
+u f BC-FNMA-DELAYS-DEBENTURE   03-24 0059</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FNMA DELAYS DEBENTURE OFFERING ANNOUNCEMENT</TITLE>
+<DATELINE>    WASHINGTON, March 24 - </DATELINE><BODY>The Federal National Mortgage
+Association said it will announce its coming debenture offering
+next Monday instead of this Friday as originally scheduled.
+    It said the debentures, which are for settlement April 10,
+will be priced next Tuesday and the offering will take place
+April 1.
+ Reuter
+&#3;</BODY></TEXT>

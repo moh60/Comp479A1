@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11469" NEWID="6556">
+<DATE>18-MAR-1987 11:31:52.00</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f8322&#31;reute
+u f BC-CHEMCLEAR-INC-&lt;CMCL>   03-18 0075</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CHEMCLEAR INC &lt;CMCL> TERMINATES MERGER TALKS</TITLE>
+<DATELINE>    WAYNE, Pa., March 18 - </DATELINE><BODY>ChemClear Inc said it terminated
+merger talks with Environmental Systems Co &lt;ESC>.
+    ChemClear said it was unable to reach agreement with
+Environmental, which was considering buying ChemClear.
+    ChemClear said it is considering other options, including
+other business combinations and financing through commercial
+lending and other financial institutions for internal
+expansion.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10150" NEWID="5237">
+<DATE>16-MAR-1987 05:29:40.59</DATE>
+<TOPICS><D>interest</D></TOPICS>
+<PLACES><D>uae</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f1400&#31;reute
+r f BC-UAE-GOVERNMENT-PAPER   03-16 0044</UNKNOWN>
+<TEXT>&#2;
+<TITLE>UAE GOVERNMENT PAPER YIELDS UNCHANGED</TITLE>
+<DATELINE>    ABU DHABI, March 16 - </DATELINE><BODY>Yields on certificates of deposit
+issued by the United Arab Emirates Central Bank were unchanged
+at 6-1/8 pct, the bank said.
+    The yield applies to maturities of one, two, three and six
+months.
+ REUTER
+&#3;</BODY></TEXT>

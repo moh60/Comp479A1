@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17881" NEWID="1463">
+<DATE> 4-MAR-1987 10:15:07.09</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F Y
+&#22;&#22;&#1;f0319&#31;reute
+b f BC-OCCIDENTAL-&lt;OXY>-SELL   03-04 0082</UNKNOWN>
+<TEXT>&#2;
+<TITLE>OCCIDENTAL &lt;OXY> SELLS 33 MLN COMMON SHARES</TITLE>
+<DATELINE>    NEW YORK, March 4 - </DATELINE><BODY>Occidental Petroleum Corp said the size
+of its underwritten offering of common stock was increased to
+33 mln shares from the proposed 30 mln.
+    The company said the offering is being made at 30.50 dlrs a
+share. It was underwritten by Drexel Burnham Lambert Inc,
+Kidder Peabody and Co, and Salomon Inc.
+    Occidental will use the proceeds to reduce its debt. The
+company had 165 mln shares outstanding prior to the offering.
+ Reuter
+&#3;</BODY></TEXT>

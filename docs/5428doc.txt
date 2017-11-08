@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10341" NEWID="5428">
+<DATE>16-MAR-1987 11:37:02.01</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2531&#31;reute
+r f BC-GM-&lt;GM>,-PPG-&lt;PPG>-SI   03-16 0106</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GM &lt;GM>, PPG &lt;PPG> SIGN AUTO PAINT PACT</TITLE>
+<DATELINE>    LANSING, Mich., March 16 - </DATELINE><BODY>General Motors Corp and PPG
+Industries Inc announced jointly that they had signed an
+agreement that will give PPG responsibility for operating the
+paint shop in GM's Buick Reatta Craft Center here.
+    The Reatta is a two-seat luxury car that will be introduced
+in the spring of 1988, said GM.
+    The companies described the agreement as an arrangement
+aimed at integrating GM's auto production expertise with PPG's
+coatings expertise.
+    Under the agreement, PPG's and GM's paint operating staff
+at the center will be consolidated under the PPG area manager.
+   
+ Reuter
+&#3;</BODY></TEXT>

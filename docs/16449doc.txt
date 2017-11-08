@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="984" NEWID="16449">
+<DATE>13-APR-1987 12:36:32.12</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1762&#31;reute
+r f BC-DATAPRODUCTS-&lt;DPC>-TO   04-13 0110</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DATAPRODUCTS &lt;DPC> TO BUY IMAGING SOLUTIONS</TITLE>
+<DATELINE>    WOODLAND HILLS, Calif., April 13 - </DATELINE><BODY>Dataproducts Corp said
+it signed a letter of intent to acquire the Imaging Solutions
+Inc unit of Reliance Electric Co under undisclosed terms.
+    This acquisition will give it all rights to proprietary
+solid and liquid ink technologies which had been developed by a
+joint venture operated by it and Exxon Corp &lt;XON>, Dataproducts
+said.
+    It said Imaging Solutions, formerly named Exxon Printing
+Systems Inc, had been a Reliance Electric Co subsidiary.
+    But Reliance recently became an independent company as the
+result of a leveraged buyout from its former owner, Exxon.
+ Reuter
+&#3;</BODY></TEXT>

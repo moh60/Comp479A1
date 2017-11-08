@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10464" NEWID="5551">
+<DATE>16-MAR-1987 13:26:33.91</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f3076&#31;reute
+r f BC-WORTHEN-BANKING-&lt;WOR>   03-16 0073</UNKNOWN>
+<TEXT>&#2;
+<TITLE>WORTHEN BANKING &lt;WOR> UNIT HEAD QUITS</TITLE>
+<DATELINE>    HOT SPRINGS, Ark., March 16 - </DATELINE><BODY>Worthen Banking Corp said G.
+Michael Sigman has resigned as president and chief executive
+officer of its First National Bank of Hot Springs subsidiary to
+pursue other business interests.
+    It said James C. Patridge, executive vice president of its
+Worthen Bank and Trust Co subsidiary, will act as Sigman's
+replacement on an interim basis until a successor is found.
+ Reuter
+&#3;</BODY></TEXT>

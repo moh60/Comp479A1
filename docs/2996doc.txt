@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19414" NEWID="2996">
+<DATE> 9-MAR-1987 04:29:46.79</DATE>
+<TOPICS><D>money-fx</D><D>interest</D></TOPICS>
+<PLACES><D>netherlands</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0374&#31;reute
+u f BC-NEW-DUTCH-ADVANCES-TO   03-09 0079</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NEW DUTCH ADVANCES TOTAL 6.5 BILLION GUILDERS</TITLE>
+<DATELINE>    AMSTERDAM, March 9 - </DATELINE><BODY>The Dutch central bank said it has
+accepted bids totalling 6.5 billion guilders at tender for new
+eleven-day special advances at 5.3 pct covering the period
+March 9 to 20 aimed at relieving money market tightness.
+    Subscriptions to 500 mln guilders were met in full, amounts
+above 500 mln at 35 pct.
+    The new facility replaces old seven-day advances worth 4.8
+billion guilders at the same rate.
+ REUTER
+&#3;</BODY></TEXT>

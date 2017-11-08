@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="21316" NEWID="20721">
+<DATE>20-OCT-1987 16:24:08.02</DATE>
+<TOPICS><D>crude</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;Y 
+&#22;&#22;&#1;f3172&#31;reute
+r f BC-TEXACO-&lt;TX>-UNIT-RAIS   10-20 0085</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TEXACO &lt;TX> UNIT RAISES CRUDE OIL PRICES</TITLE>
+<DATELINE>    New York, Oct 20 - </DATELINE><BODY>Texaco Inc said it raised the contract
+price it will pay for most grades of crude oil by 50 cts a
+barrel, effective October 16.
+    The company said the increase brings its posting for the
+U.S. benchmark grade, West Texas Intermediate, to 19.00 dlrs a
+barrel. The West Texas Sour and Light Louisiana Sweet grades
+were also raised 50 cts to 18.10 and 19.35 dlrs a barrel,
+respectively.
+    Texaco last changed its crude oil postings on September 15.
+ Reuter
+&#3;</BODY></TEXT>

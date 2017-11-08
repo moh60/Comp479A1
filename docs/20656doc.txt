@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="21251" NEWID="20656">
+<DATE>20-OCT-1987 15:40:14.34</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE><D>reagan</D><D>james-baker</D><D>greenspan</D></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;V RM 
+&#22;&#22;&#1;f3011&#31;reute
+u f AM-REAGAN-POLITICS   10-20 0106</UNKNOWN>
+<TEXT>&#2;
+<TITLE>REAGAN SCRUBS RECEPTION TO KEEP EYE ON MARKET</TITLE>
+<DATELINE>    WASHINGTON, Oct 20, Reuter - </DATELINE><BODY>President Reagan cancelled a
+reception for Republican presidential candidates on Tuesday in
+an apparent effort to make room in his schedule for a meeting
+on stock market developments.
+    "The postponement is being made to accomodate the
+president's schedule today. The president continues to follow
+developments in the stock market," the White House said.
+    There was speculation that Reagan would meet with Treasury
+Secretary James Baker and Federal Reserve Board chairman Alan
+Greenspan at 4 PM EDT, which was when the reception was to have
+taken place.
+ Reuter
+&#3;</BODY></TEXT>

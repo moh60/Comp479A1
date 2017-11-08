@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20744" NEWID="20149">
+<DATE>20-OCT-1987 09:07:01.99</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM V 
+&#22;&#22;&#1;f0920&#31;reute
+u f BC-/WHITE-HOUSE-TAKES-WA   10-20 0103</UNKNOWN>
+<TEXT>&#2;
+<TITLE>WHITE HOUSE TAKES WAIT-AND-SEE STANCE ON STOCKS</TITLE>
+<DATELINE>    WASHINGTON, Oct 20 - </DATELINE><BODY>The White House took a wait-and-see
+attitude toward the stock market crisis, barring "precipitous
+action" to deal with it.
+    Referring to news reports, White House spokesman Marlin
+Fitzwater said, "It seems most of the world economists are
+uncertain as to the specific causes, so we'll just have to wait
+and see if there's a rebound today."
+    "We certainly don't want to take precipitous action," the
+spokesman added.
+    "No meetings are scheduled at this time. We'll monitor the
+situation and see how the markets respond today," he said.
+   
+ Reuter
+&#3;</BODY></TEXT>

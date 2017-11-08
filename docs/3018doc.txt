@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19436" NEWID="3018">
+<DATE> 9-MAR-1987 08:38:11.68</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0875&#31;reute
+u f BC-NEC-&lt;NIPNY>-UNIT-INTR   03-09 0098</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NEC &lt;NIPNY> UNIT INTRODUCES NEW COMPUTERS</TITLE>
+<DATELINE>    BOXBOROUGH, Mass., March 9 - </DATELINE><BODY>NEC Corp's NEC Informational
+Systems Inc said it introduced three advanced personal
+computers that are fully compatible with the International
+Business Machines Corp &lt;IBM> PC AT.
+    The computers, the PowerMate 1, PowerMate 2 and
+BusinessMate, are based on a chip made by Intel Corp &lt;INTC>.
+    The PowerMate 1 and 2 are available immediately and sell
+for 1,995 dlrs and 2,595 dlrs, respectively, the company said.
+    The BusinessMate, scheduled for April availability, will
+sell for less than 6,000 dlrs, it said.
+ Reuter
+&#3;</BODY></TEXT>

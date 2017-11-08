@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5108" NEWID="16069">
+<DATE> 9-APR-1987 20:38:20.45</DATE>
+<TOPICS><D>money-fx</D><D>dlr</D></TOPICS>
+<PLACES><D>japan</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f2897&#31;reute
+b f BC-DOLLAR-FALLS-BELOW-14   04-09 0058</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DOLLAR FALLS BELOW 143 YEN IN TOKYO</TITLE>
+<DATELINE>    TOKYO, April 10 - </DATELINE><BODY>The dollar fell below 143 yen in hectic
+early Tokyo trading despite aggressive Bank of Japan
+intervention, dealers said.
+    After opening at a Tokyo low of 143.75 yen, the dollar fell
+as low as 142.90 yen on heavy selling led by securities firms
+and institutional investors, they said.
+ REUTER
+&#3;</BODY></TEXT>

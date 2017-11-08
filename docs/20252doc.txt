@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20847" NEWID="20252">
+<DATE>20-OCT-1987 10:37:20.80</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1330&#31;reute
+d f BC-ROCKEFELLER-CENTER-PR   10-20 0042</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ROCKEFELLER CENTER PROPERTIES INC &lt;RCP> 3RD QTR</TITLE>
+<DATELINE>    NEW YORK, Oct 20 -
+    </DATELINE><BODY>Shr 30 cts vs 31 cts
+    Net 11.3 mln vs 11.7 mln
+    Revs 26.5 mln vs 26.3 mln
+    Nine mths
+    Shr 92 cts vs 95 cts
+    Net 34.3 mln vs 35.5 mln
+    Revs 78.8 mln vs 78.2 mln
+ Reuter
+&#3;</BODY></TEXT>

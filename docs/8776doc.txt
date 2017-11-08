@@ -1,0 +1,20 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14297" NEWID="8776">
+<DATE>24-MAR-1987 10:48:13.98</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1198&#31;reute
+r f BC-XOMA-CORP-&lt;XOMA>-FILE   03-24 0034</UNKNOWN>
+<TEXT>&#2;
+<TITLE>XOMA CORP &lt;XOMA> FILES FOR OFFERING</TITLE>
+<DATELINE>    BERKELEY, Calif., March 24 - </DATELINE><BODY>XOMA Corp said it intends to
+file for an offering of 1,300,000 common shares.
+    The company now has about 8,721,000 shares outstanding.
+ Reuter
+&#3;</BODY></TEXT>

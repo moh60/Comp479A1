@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1105" NEWID="16570">
+<DATE>13-APR-1987 14:26:44.91</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D><D>sweden</D><D>spain</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2172&#31;reute
+r f BC-ERICSSON-&lt;ERICY.O>-TO   04-13 0098</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ERICSSON &lt;ERICY.O> TO BUY REST OF SPANISH UNIT</TITLE>
+<DATELINE>    NEW YORK, April 13 - </DATELINE><BODY>L.M. Ericsson of Sweden said it agreed
+in principle to buy the 49 pct of Intelsa, its Spanish unit,
+that it does not already own from &lt;Telefonica>, Spain's
+telecommunications administration.
+    Terms of the agreement were not disclosed.
+    Ericsson said Intelsa, which controls about 40 pct of the
+Spanish telephone switch market, has 2,400 employees and annual
+sales of 800 mln crowns, or 117 mln dlrs.
+    "The purchase will not affect the close working
+relationship between Telefonica and Intelsa," Ericsson said.
+ Reuter
+&#3;</BODY></TEXT>

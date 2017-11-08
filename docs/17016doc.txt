@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="NOT-USED" CGISPLIT="PUBLISHED-TESTSET" OLDID="21666" NEWID="17016">
+<DATE>21-APR-1987 12:17:02.35</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1633&#31;reute
+r f BC-IMARK-INDS-&lt;IMAR.O>-V   04-21 0041</UNKNOWN>
+<TEXT>&#2;
+<TITLE>IMARK INDS &lt;IMAR.O> VOTES ANNUAL 25 CT DIVIDEND</TITLE>
+<DATELINE>    GENESEO, ILL., April 21 - </DATELINE><BODY>Imark Industries Inc said its
+directors approved payment of an annual dividend of 25 cts on
+May 21, record May seven.
+    The company paid the same dividend last year.
+ Reuter
+&#3;</BODY></TEXT>

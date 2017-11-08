@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="8927" NEWID="4014">
+<DATE>11-MAR-1987 18:38:02.32</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0905&#31;reute
+r f BC-RESTAURANT-ASSOCIATES   03-11 0069</UNKNOWN>
+<TEXT>&#2;
+<TITLE>RESTAURANT ASSOCIATES INC &lt;RA> 4TH QTR JAN 3</TITLE>
+<DATELINE>    NEW YORK, March 11 -
+    </DATELINE><BODY>Shr 25 cts vs 36 cts
+    Net 1.4 mln vs 1.4 mln
+    Revs 56.9 mln vs 35.1 mln
+    Year
+    Shr 86 cts vs 75 cts
+    Net 4.7 mln vs 3.0 mln
+    REvs 201.4 mln vs 140.0 mln
+    NOTE:1985 4th qtr includes 99,000 loss from carryforward.
+Shares restated to give effect to 1.4 to one stock split in the
+form a 40 pct class A dividend in August 1985.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10806" NEWID="5893">
+<DATE>17-MAR-1987 09:03:50.66</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f4828&#31;reute
+d f BC-ADMAR-GROUP-&lt;ADMR>-OP   03-17 0058</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ADMAR GROUP &lt;ADMR> OPENING NEW OFFICE</TITLE>
+<DATELINE>    BOSTON, March 17 - </DATELINE><BODY>Admar Group Inc said it will open a new
+Eastern Operations Center for its HealthWatch Medical Review
+System in Dedham, Mass., by April One.
+    The company said it will also make its Med Network
+multistate preferred provide organisation available in the
+Boston area during the second quarter.
+ Reuter
+&#3;</BODY></TEXT>

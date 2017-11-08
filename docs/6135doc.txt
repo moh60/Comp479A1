@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11048" NEWID="6135">
+<DATE>17-MAR-1987 13:32:00.56</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f5978&#31;reute
+d f BC-FORTUNE-SAVINGS-TO-BU   03-17 0073</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FORTUNE SAVINGS TO BUY FINANCIAL &lt;FSSL> BRANCH</TITLE>
+<DATELINE>    SUNRISE, Fla., March 17 - </DATELINE><BODY>&lt;Fortune Savings Bank> said it
+agreed to buy the deposits and assume the leasehold of a
+Financial Security Savings and Loan Association &lt;FSSL> branch
+here.
+    Terms of the agreement were not disclosed.
+    Fortune said the agreement is subject to regulatory
+approval. It also said that if the transaction is approved,
+Financial would generate a profit on the sale.
+ Reuter
+&#3;</BODY></TEXT>

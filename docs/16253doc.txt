@@ -1,0 +1,31 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="788" NEWID="16253">
+<DATE>13-APR-1987 09:36:10.14</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>taiwan</D><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G L M T
+&#22;&#22;&#1;f0905&#31;reute
+d f BC-TAIWAN-ANNOUNCES-NEW   04-13 0136</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TAIWAN ANNOUNCES NEW ROUND OF IMPORT TARIFF CUTS</TITLE>
+<DATELINE>    TAIPEI, April 13 - </DATELINE><BODY>Taiwan announced plans for another round
+of import tariff cuts on 862 foreign goods shortly before trade
+talks with Washington which officials described as a move to
+help balance trade with the United States.
+    Wang Der-Hwa, Deputy Director of the Finance Ministry's
+Customs Administration Department, on Saturday told reporters
+the list of products included 60 items asked by Washington.
+    He said the ministry sent a proposal to the cabinet that
+the tariffs on such products as cosmetics, bicycles, apples,
+radios, garments, soybeans and television sets be cut by
+between five and 50 pct.
+    The cabinet was expected to give its approval next Thursday
+and the new tariff cuts would be implemented possibly starting
+on April 20, he added.
+ Reuter
+&#3;</BODY></TEXT>

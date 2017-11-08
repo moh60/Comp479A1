@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18416" NEWID="1998">
+<DATE> 5-MAR-1987 08:59:27.34</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F
+&#22;&#22;&#1;f0967&#31;reute
+r f BC-sterivet-to-develop   03-05 0085</UNKNOWN>
+<TEXT>&#2;
+<TITLE>STERIVET &lt;STVTF> TO DEVELOP NEW HORSE DRUG</TITLE>
+<DATELINE>    TORONTO, March 5 - </DATELINE><BODY>Sterivet Laboratories Ltd said it is
+proceeding with development of a new drug to treat navicular
+disease in horses.
+    The company said it received an unspecified financial
+contribution from the National Research Council of Canada to
+help develop the drug for treating navicular disease, which
+affects horses' feet.
+    Sterivet said the drug has produced promising results in
+limited clinical trials conducted over the past 18 months in
+Ontario.
+ Reuter
+&#3;</BODY></TEXT>

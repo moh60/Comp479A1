@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18073" NEWID="1655">
+<DATE> 4-MAR-1987 13:29:51.56</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0229&#31;reute
+d f BC-FROST-AND-SULLIVAN-IN   03-04 0050</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FROST AND SULLIVAN INC &lt;FRSL> 2ND QTR JAN 31</TITLE>
+<DATELINE>    NEW YORK, March 4 -
+    </DATELINE><BODY>Shr profit 12 cts vs loss two cts
+    Net profit 182,173 vs loss 28,977
+    Revs 4,483,047 vs 3,994,808
+    1st half
+    Shr profit 14 cts vs loss eight cts
+    Net profit 221,376 vs loss 120,435
+    Revs 8,270,947 vs 7,150,265
+ Reuter
+&#3;</BODY></TEXT>

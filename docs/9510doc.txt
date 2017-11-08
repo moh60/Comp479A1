@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15031" NEWID="9510">
+<DATE>25-MAR-1987 14:25:48.89</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2041&#31;reute
+d f BC-OWENS-CORNING-FIBERGL   03-25 0053</UNKNOWN>
+<TEXT>&#2;
+<TITLE>OWENS-CORNING FIBERGLAS &lt;OCF> SELLS FOAM UNIT</TITLE>
+<DATELINE>    TOLEDO, Ohio, March 25 - </DATELINE><BODY>Owens-Corning Fiberglas Corp said
+it sold its controlling interest in its French foam insulation
+producing subsidiary to a Lafarege Corp &lt;LAF> subsidiary.
+    Owens-Corning said it sold its interest in Sentuc Porxpan
+SA for an undisclosed price.
+ Reuter
+&#3;</BODY></TEXT>

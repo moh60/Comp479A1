@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17647" NEWID="11586">
+<DATE>31-MAR-1987 14:45:47.31</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2249&#31;reute
+d f BC-&lt;SPECTRUM-2000-INC>-S   03-31 0083</UNKNOWN>
+<TEXT>&#2;
+<TITLE>&lt;SPECTRUM 2000 INC> SAYS MILITARY TESTS SYSTEM</TITLE>
+<DATELINE>    BOULDER, Colo., March 31 - </DATELINE><BODY>Spectrum 2000 Inc said the U.S.
+Army/Air Force Exchange Serivce will begin test marketing its
+Telvonic stero sound syntehsizer and has placed an initial
+order for the product for marketing atg the McChord Air Force
+Base in Washington state.
+    It said the test markjet is expected to be expanded to
+eight to 10 more base PX's and following the market test is
+expects an order to supply the product to 5,700 PX's worldwide.
+ Reuter
+&#3;</BODY></TEXT>

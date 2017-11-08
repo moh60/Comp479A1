@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12182" NEWID="7270">
+<DATE>19-MAR-1987 13:06:41.47</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1777&#31;reute
+r f BC-&lt;GERMANTOWN-SAVINGS-B   03-19 0096</UNKNOWN>
+<TEXT>&#2;
+<TITLE>&lt;GERMANTOWN SAVINGS BANK> IN SUBSCRIPTION OFFER</TITLE>
+<DATELINE>    BALA CYNWYD, Pa., March 19 - </DATELINE><BODY>Germantown Savings Bank said
+it has started a subscription offering of 3,500,000 shares at a
+maximum price of 11.50 dlrs each to customers and community
+residents.
+    It said the offer will expire April 15.
+    The company said any shares not sold will be offered to the
+public through underwriter Alex. Brown and Sons Inc &lt;ABSB>, and
+the stock is expected to trade on the NASDAQ system.  It said
+the actual price to be charged for the shares will be
+determined after the subscription offering.
+ Reuter
+&#3;</BODY></TEXT>

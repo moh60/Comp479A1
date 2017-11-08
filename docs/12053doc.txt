@@ -1,0 +1,31 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="281" NEWID="12053">
+<DATE> 1-APR-1987 11:54:45.49</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1511&#31;reute
+d f BC-DEAK-INTERNATIONAL-BU   04-01 0114</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DEAK INTERNATIONAL BUYS JOHNSON MATTHEY</TITLE>
+<DATELINE>    NEW YORK, APRIL 1 - </DATELINE><BODY>Deak International, a foreign currency
+and precious metals firm, announced the acquisition of Johnson
+Matthey Commodities of New York from Minories Finance Limited,
+a unit of the Bank of England.
+    The purchase valued at 14.8 mln dlrs follows the recent
+acquisition of London's Johnson Matthey Commodities Limited,
+Deak said.
+    The New York firm will be known as Deak International
+Trading Ltd, the company said.
+    Arkadi Kuhlmann, president and chief executive officer of
+Deak International said the purchase will expand Deak's
+operations into the precious metals and wholesale non-ferrous
+metals trading arenas.
+ Reuter
+&#3;</BODY></TEXT>

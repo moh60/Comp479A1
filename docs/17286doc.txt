@@ -1,0 +1,31 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="NOT-USED" CGISPLIT="PUBLISHED-TESTSET" OLDID="21908" NEWID="17286">
+<DATE>27-APR-1987 07:31:47.80</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0625&#31;reute
+d f AM-CATERPILLAR   04-27 0134</UNKNOWN>
+<TEXT>&#2;
+<TITLE>WORKERS VOTE TO LEAVE CATERPILLAR &lt;CAT> PLANT</TITLE>
+<DATELINE>    LONDON, April 27 - </DATELINE><BODY>Strikers at the Caterpillar Inc tractor
+plant near Glasgow, due to be closed by the U.S.-owned firm,
+voted to end their occupation of the factory after more than
+three months.
+    A meeting attended by 700 of the plant's 1,200 workers
+approved an agreement reached with management on Thursday after
+four days of talks. Production will resume today.
+    The agreement calls for the establishment of a working
+group of representatives from both sides, which has been given
+until October 16 to find a new buyer for the factory.
+    The company has promised that there will be no job losses
+before that date. Workers began their occupation on January 14
+after Caterpillar said it planned to close the plant and lay
+off the entire work force.
+ Reuter
+&#3;</BODY></TEXT>

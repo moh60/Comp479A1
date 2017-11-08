@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12143" NEWID="7231">
+<DATE>19-MAR-1987 12:23:03.12</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1584&#31;reute
+d f BC-TRACOR-&lt;TRR>-GETS-NAV   03-19 0038</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TRACOR &lt;TRR> GETS NAVY CONTRACT</TITLE>
+<DATELINE>    AUSTIN, Texas, March 19 - </DATELINE><BODY>Tracor Inc's Applied Sciences Inc
+unit said it received an 8.4 mln dlrs contract from the U.S.
+Navy
+    The contract is for one year and includes four one-year
+options.
+ Reuter
+&#3;</BODY></TEXT>

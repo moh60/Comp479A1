@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4981" NEWID="15943">
+<DATE> 9-APR-1987 16:10:24.14</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2480&#31;reute
+r f BC-RAYTHEON-&lt;RTN>-GETS-2   04-09 0040</UNKNOWN>
+<TEXT>&#2;
+<TITLE>RAYTHEON &lt;RTN> GETS 215.3 MLN DLR CONTRACT</TITLE>
+<DATELINE>    WASHINGTON, April 9 - </DATELINE><BODY>Raytheon Co has been awarded a 215.3
+mln dlr contract for production of 1,927 guidance and control
+sections and spare components for Sparrow air-to-air missiles,
+the Navy said.
+ REUTER
+&#3;</BODY></TEXT>

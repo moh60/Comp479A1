@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7638" NEWID="18193">
+<DATE> 2-JUN-1987 14:11:08.67</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2153&#31;reute
+r f BC-CONSOLIDATED-OIL-&lt;CGS   06-02 0096</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CONSOLIDATED OIL &lt;CGS> WARRANTS PRICE UNCHANGED</TITLE>
+<DATELINE>    DENVER, June 2 - </DATELINE><BODY>Consolidated Oil and Gas Inc said the
+exercise price of its Oil Indexed Common Stock Purchase
+Warrants Series 1900 &lt;CGS.WS.P> will remain three dlrs a share
+for the six month period July one to December 31.
+    The warrant exercise price is based on the average price of
+West Texas Intermediate Crude Oil reported for the trading
+month of May. For the month, the average price was less than 20
+dlrs per barrel, the first index point above which there would
+be a change in the exercise price of the warrants.
+ Reuter
+&#3;</BODY></TEXT>

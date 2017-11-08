@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17254" NEWID="11193">
+<DATE>31-MAR-1987 03:54:26.31</DATE>
+<TOPICS><D>money-fx</D></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0246&#31;reute
+b f BC-U.K.-MONEY-MARKET-OFF   03-31 0043</UNKNOWN>
+<TEXT>&#2;
+<TITLE>U.K. MONEY MARKET OFFERED EARLY ASSISTANCE</TITLE>
+<DATELINE>    LONDON, March 31 - </DATELINE><BODY>The Bank of England said it had invited
+an early round of bill offers from the discount houses after
+forecasting a very large shortage of around 1.75 billion stg in
+the money market today.
+ MORE
+&#3;</BODY></TEXT>

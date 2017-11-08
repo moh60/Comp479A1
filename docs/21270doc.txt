@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20166" NEWID="21270">
+<DATE>19-OCT-1987 12:05:46.91</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1799&#31;reute
+d f BC-USX-&lt;X>,-INLAND-&lt;IAD>   10-19 0104</UNKNOWN>
+<TEXT>&#2;
+<TITLE>USX &lt;X>, INLAND &lt;IAD> IN STEEL COIL VENTURE</TITLE>
+<DATELINE>    PITTSBURGH, Oct 19 - </DATELINE><BODY>USX Corp said its USS division and
+Inland Steel Corp are continuing to pursue plans to construct a
+plant devoted to the continuous pre-painting of steel coils.
+    The company said the proposed facility will primarily serve
+the appliance market and will have a capacity of 250,000 to
+300,000 tons yearly.
+    The company said a location for the new plant has not been
+determined.
+    Seperately, USX said it and Inland have been unable to
+reach agreement with &lt;Worldmark Corp> regarding terms of a
+previously announced arrangement for prepainting steel coils.
+ Reuter
+&#3;</BODY></TEXT>

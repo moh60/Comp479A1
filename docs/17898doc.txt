@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7343" NEWID="17898">
+<DATE> 2-JUN-1987 04:01:21.86</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0210&#31;reute
+f f BC-******   06-02 0013</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE> Bundesbank sets 28-day securities repurchase tender at minimum 3.50 pct
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

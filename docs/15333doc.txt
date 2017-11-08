@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4316" NEWID="15333">
+<DATE> 8-APR-1987 17:02:59.66</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2602&#31;reute
+d f BC-ENGINEERED-SYSTEMS-&lt;E   04-08 0102</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ENGINEERED SYSTEMS &lt;ESD> UNIT GETS LOAN NOTICE</TITLE>
+<DATELINE>    SAN JOSE, Calif, April 8 - </DATELINE><BODY>Engineered Systems and
+Development Corp said Wells Fargo and Co's &lt;WFC> Wells Fargo
+Bank has demanded immediate payment of a 1,750,000 dlr loan
+made to Engineered's Seaborn Development Inc unit under a
+revolving credit arrangment that expired on April 30, 1986.
+    The company said Wells Fargo has also said it will sue to
+collect if it does not receive payment immediately.
+    The parties involved also began negotiations to restructure
+the repayment over an 18 month period and the talks are
+ongoing, Engineered Systems also said.
+ Reuter
+&#3;</BODY></TEXT>

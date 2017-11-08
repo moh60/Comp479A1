@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13780" NEWID="8259">
+<DATE>23-MAR-1987 09:57:43.54</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0959&#31;reute
+r f BC-ANACOMP-&lt;AAC>-GETS-FU   03-23 0106</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ANACOMP &lt;AAC> GETS FUNDS TO BUY DATAGRAPHIX</TITLE>
+<DATELINE>    INDIANAPOLIS, IND., March 23 - </DATELINE><BODY>Anacomp Inc said it
+finalized the financing of its 128 mln dlrs purchase of
+DatagraphiX Inc from General Dynamics Corp &lt;GD>.
+    The financing, arranged by Drexel Burnham Lambert, consists
+of 90 mln dlrs of bank financing, the private placement of 71
+mln dlrs of senior subordinated notes and 25 mln dlrs of
+convertible preferred stock, it said.
+    DatagraphiX, a manufacturer of microgrpahics equipment has
+been merged into Anacomp and will be operated as a separate
+division, Anacomp said.  The division is expected to improve
+results for Anacomp this year.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11860" NEWID="6947">
+<DATE>18-MAR-1987 22:15:04.17</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f9878&#31;reute
+u f BC-ANOTHER-U.S.-SAVINGS   03-18 0062</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ANOTHER U.S. SAVINGS BANK IS CLOSED</TITLE>
+<DATELINE>    WASHINGTON, March 18 - </DATELINE><BODY>The Federal Home Loan Bank Board
+said it put the Perpetual Savings Bank in Santa Ana, Calif.,
+Into receivership because it was insolvent and replaced it with
+a new federally chartered Perpetual Savings Association.
+    This is the 15th federal action assisting troubled U.S.
+Savings institutions this year.
+ REUTER
+&#3;</BODY></TEXT>

@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14438" NEWID="8917">
+<DATE>24-MAR-1987 13:48:19.49</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1989&#31;reute
+r f BC-CONTROL-RESOURCES-&lt;CR   03-24 0084</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CONTROL RESOURCES &lt;CRIX> NAMES PRESIDENT</TITLE>
+<DATELINE>    MICHIGAN CITY, Ind., March 24 - </DATELINE><BODY>Control Resources
+Industries Inc said R. Joseph Clancy was named to the
+newly-created position of president.
+    It also said Cody Geddes was named vice president and chief
+financial officer. Geddes replaces former chief financial
+officer John Wojcik, who retains his vice president's post and
+assumes the new position of corporate counsel.
+    Clancy had been vice president of the company since June
+1986, Control Resources said.
+ Reuter
+&#3;</BODY></TEXT>

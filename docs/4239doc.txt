@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9152" NEWID="4239">
+<DATE>12-MAR-1987 10:21:36.78</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0150&#31;reute
+r f BC-CORRECTED-INSITUFORM   03-12 0076</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CORRECTED-INSITUFORM OF NORTH AMERICA INC&lt;INSUA></TITLE>
+<DATELINE>    MEMPHIS, Tenn., March 12 - </DATELINE><BODY>4th qtr
+    Shr nine cts vs four cts
+    Net 658,159 vs 299,930
+    Revs 3,770,341 vs 2,614,224
+    Avg shrs 7,382,802 vs 6,747,442
+    Year
+    Oper shr 33 cts vs 18 cts
+    Oper net 2,287,179 vs 1,045,799
+    Revs 13.1 mln vs 8,577,853
+    Avg shrs 6,874,505 vs 5,951,612
+    NOTE: 1985 year net excludes 13,000 dlr tax credit.
+    Corrects March 11 item to exclude tax credit
+ Reuter
+&#3;</BODY></TEXT>

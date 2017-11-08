@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5937" NEWID="17599">
+<DATE> 1-JUN-1987 11:37:19.78</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1454&#31;reute
+r f BC-ALGER-TO-EXPAND-DISTR   06-01 0076</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ALGER TO EXPAND DISTRIBUTION OF OPEN-ENDED FUND</TITLE>
+<DATELINE>    NEW YORK, June 1 - </DATELINE><BODY>&lt;Alger Inc> said it will sell the Alger
+Fund through broker-dealers as a result of its agreement with
+Dealer Network Services, a division of the newly-established
+&lt;Rutland Securities L.P.>.
+    The fund formerly was sold only directly to investors,
+Alger said.
+    Dealer Network Services is organizing a countrywide group
+of established broker-dealers to sell the Alger Fund, Alger
+said.
+ Reuter
+&#3;</BODY></TEXT>

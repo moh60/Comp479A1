@@ -1,0 +1,33 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13664" NEWID="8143">
+<DATE>23-MAR-1987 03:51:10.36</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>japan</D><D>china</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;L
+&#22;&#22;&#1;f0209&#31;reute
+u f BC-MARUBENI-WINS-30-MLN   03-23 0084</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MARUBENI WINS 30 MLN DLR CHINESE CHICKEN CONTRACT</TITLE>
+<DATELINE>    TOKYO, March 23 - </DATELINE><BODY>Marubeni Corp &lt;MART.T> said it won a 30
+mln dlr contract from China to set up a broiler raising and
+slaughtering plant in Tianjin under a countertrade accord in
+which payment will be made partly by output from the plant.
+    The plant, which will be completed by end-1988, will have a
+capacity of five mln broilers a year, most of which will go to
+China's domestic market, a company spokesman said without
+giving further details.
+    The spokesman said Marubeni plans to increase its
+countertrade with China by helping China set up farm product
+processing plants and improving its food distribution system.
+    Marubeni will also help China develop export markets for
+farm products, he said.
+    The company wants to increase its food trade with China to
+around 200 mln dlrs a year within a few years from 70 mln now,
+he added.
+ REUTER
+&#3;</BODY></TEXT>

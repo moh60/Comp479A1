@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10200" NEWID="5287">
+<DATE>16-MAR-1987 08:10:07.91</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F A
+&#22;&#22;&#1;f1743&#31;reute
+r f BC-S&amp;L-ACQUISITION-RAISE   03-16 0077</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FAILING WASHINGTON STATE S/L IS ACQUIRED</TITLE>
+<DATELINE>    WASHINGTON, March 16 - </DATELINE><BODY>The Federal Home Loan Bank Board
+(FHLBB) announced the acquisition of Home Savings and Loan
+Association in Seattle, Washington, by InterWest Savings Bank
+of Oak Harbour, Washington.
+    The FHLBB said Home Savings was the 12th troubled savings
+institution requiring federal action this year.
+    It said Home Savings had assets of 150.6 mln dlrs in assets
+and InterWest had assets of 342.9 mln dlrs.
+ Reuter
+&#3;</BODY></TEXT>

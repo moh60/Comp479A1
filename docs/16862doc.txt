@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1397" NEWID="16862">
+<DATE>17-APR-1987 11:56:24.37</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0299&#31;reute
+r f BC-SOUTHWEST-BANCORP-&lt;SW   04-17 0067</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SOUTHWEST BANCORP &lt;SWB> HAS HALF OF PREFERRED</TITLE>
+<DATELINE>    VISTA, Calif., April 17 - </DATELINE><BODY>Southwest Bancorp said through
+yesterday, it had receioved 53,571 shares of its 2.50 dlr
+cumulative convertible preferred stock in response to its offer
+to exchange 11 common shares for each of the 108,710 shares of
+the preferred.
+    The company said the offer, which was to have expired
+today, has been extended until May One.
+ Reuter
+&#3;</BODY></TEXT>

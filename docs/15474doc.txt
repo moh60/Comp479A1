@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4652" NEWID="15474">
+<DATE> 9-APR-1987 08:40:40.31</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0699&#31;reute
+r f BC-INDEPENDENT-AIR-&lt;IAIR   04-09 0041</UNKNOWN>
+<TEXT>&#2;
+<TITLE>INDEPENDENT AIR &lt;IAIR> EXTENDS WARRANTS</TITLE>
+<DATELINE>    SMYRNA, Tenn., April 9 - </DATELINE><BODY>Independent Air Inc said its board
+has extended the expiration of its Class A warrants to June 30
+from April 11 and left the exercise price unchanged at 18 cts
+per common share.
+ Reuter
+&#3;</BODY></TEXT>

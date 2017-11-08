@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11725" NEWID="6812">
+<DATE>18-MAR-1987 16:15:38.30</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f9408&#31;reute
+h f BC-TOTAL-HEALTH-&lt;TLHT>-I   03-18 0043</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TOTAL HEALTH &lt;TLHT> IN PUBLIC OFFERING</TITLE>
+<DATELINE>    GREAT NECK, N.Y., March 18 - </DATELINE><BODY>Total Health Systems Inc said
+it began a sale of up to 700,000 common shares by the company
+and up to 410,000 shares by certain stockholders.
+    Proceeds will be used for general purposes.
+ Reuter
+&#3;</BODY></TEXT>

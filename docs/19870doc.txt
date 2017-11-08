@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="8198" NEWID="19870">
+<DATE>29-JUN-1987 15:44:11.58</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2357&#31;reute
+d f BC-CYCARE-SYSTEMS-INC-&lt;C   06-29 0078</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CYCARE SYSTEMS INC &lt;CYCR> BUYS MEDTEC</TITLE>
+<DATELINE>    PHOENIX, Ariz, June 29 - </DATELINE><BODY>CyCare Systems Inc said it bought
+Control Data Corp's &lt;CDA> MedTec unit for an undisclosed sum.
+    The company said MedTec's new client base could have a
+significant impact on long-term revenues, although it expects a
+minimal positive impact on earnings in the next six months.
+    It said the assets purchased include processing agreements,
+software maintenance contracts and the supporting software.
+ Reuter
+&#3;</BODY></TEXT>

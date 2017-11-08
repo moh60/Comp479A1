@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5192" NEWID="15837">
+<DATE> 9-APR-1987 14:51:18.69</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2136&#31;reute
+h f BC-WESTLAND-TO-CUT-A-THI   04-09 0108</UNKNOWN>
+<TEXT>&#2;
+<TITLE>WESTLAND TO CUT A THIRD OF HELICOPTER WORKFORCE</TITLE>
+<DATELINE>    LONDON, April 9 - </DATELINE><BODY>U.K. Helicopter maker &lt;Westland Plc> will
+reduce the 6,000 workforce of its helicopter division by around
+a third over the next few weeks, a company spokesman said.
+    He said the decision was in part the result of a 400 mln
+stg government order for military helicopters announced
+earlier.
+    The spokesman said the order had reduced the number of
+redundancies necessary but was not large enough to avoid job
+losses. The total group workforce is 11,000. The company was
+rescued last year by a consortium of United Technologies Corp's
+&lt;UTX.N> Sikorsky unit and Fiat SpA &lt;FIAT.MI>.
+ Reuter
+&#3;</BODY></TEXT>

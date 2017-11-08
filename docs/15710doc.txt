@@ -1,0 +1,32 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4887" NEWID="15710">
+<DATE> 9-APR-1987 12:19:02.04</DATE>
+<TOPICS><D>grain</D><D>ship</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;GQ
+&#22;&#22;&#1;f1611&#31;reute
+r f BC-n'orleans-grain-ships   04-09 0065</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GRAIN SHIPS WAITING AT NEW ORLEANS</TITLE>
+<DATELINE>    New Orleans, April 9 - </DATELINE><BODY>Ten grain ships were loading and 14
+were waiting to load at New Orleans elevators, trade sources
+said.
+ ELEVATOR                     LOADING  WAITING
+ Continental Grain, Westwego     1      6
+ Mississippi River, Myrtle Grove 1      0
+ ADM Growmark                    1      4
+ Bunge Grain, Destrehan          1      0
+    ELEVATOR                LOADING  WAITING
+ ST CHARLES DESTREHAN         1      1
+ RESERVE ELEVATOR CORP        1      0
+ PEAVEY CO, ST ELMO           1      0
+ CARGILL GRAIN, TERRE HAUTE   2      1
+ CARGILL GRAIN, PORT ALLEN    0      0
+ ZEN-NOH                      1      2
+ reuter
+&#3;</BODY></TEXT>

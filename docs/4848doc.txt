@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9761" NEWID="4848">
+<DATE>13-MAR-1987 10:39:05.49</DATE>
+<TOPICS><D>crude</D></TOPICS>
+<PLACES><D>uk</D><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F Y
+&#22;&#22;&#1;f0138&#31;reute
+d f BC-ORS-SEEKS-CANADIAN-FU   03-13 0098</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ORS SEEKS CANADIAN FUNDS FOR HEAVY OIL TEST</TITLE>
+<DATELINE>    TULSA, Okla., March 13 - </DATELINE><BODY>&lt;ORS Corp> said &lt;Dominion
+Securities (Alberta) Inc> has been appointed to offer common
+shares in a new Canadaina company being organized to exploit
+heavy oil production opportunities in Canada and Western
+Europe.
+    ORS said the offer for private sale of the stock being made
+on a best efforts basis is designed to raise five mln Canadian
+dlrs which the new company will invest in properties and
+projects using the Electromagnetic Well Stimulation Process
+developed by IIT Research Institute under sponsorship of ORS.
+ Reuter
+&#3;</BODY></TEXT>

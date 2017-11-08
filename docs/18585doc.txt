@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6337" NEWID="18585">
+<DATE>18-JUN-1987 08:21:12.59</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2798&#31;reute
+r f BC-SERVICE-RESOURCES-&lt;SR   06-18 0065</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SERVICE RESOURCES &lt;SRC> ENDS SORG &lt;SRG> BID</TITLE>
+<DATELINE>    NEW YORK, June 18 - </DATELINE><BODY>Service Resources Corp said it has
+withdrawn and terminated its 23 dlr per share takeover offer to
+Sorg Inc because Sorg failed to respond to the bid.
+    It said, as Sorg's largest single shareholder, it will
+evaluate all its options, including making a further offer to
+Sorg or disposing of some or all of its Sorg shares.
+ Reuter
+&#3;</BODY></TEXT>

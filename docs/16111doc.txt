@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="646" NEWID="16111">
+<DATE>13-APR-1987 01:28:17.44</DATE>
+<TOPICS><D>dlr</D><D>money-fx</D></TOPICS>
+<PLACES><D>japan</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0042&#31;reute
+b f BC-JAPAN-CENTRAL-BANK-AC   04-13 0099</UNKNOWN>
+<TEXT>&#2;
+<TITLE>JAPAN CENTRAL BANK ACTIVELY BUYS DOLLARS IN TOKYO</TITLE>
+<DATELINE>    TOKYO, April 13 - </DATELINE><BODY>The Bank of Japan actively bought dollars
+here in early afternoon trade at around 142.20 yen, dealers
+said.
+    The central bank had placed buy orders at that level and
+prevented the dollar from falling when it came under heavy
+selling pressure from investment trusts and trading houses,
+they said.
+    However, the intervention failed to boost the U.S. Currency
+significantly from the 142.20 yen level, they added.
+    The dollar was trading around its midday rate of 142.30
+yen. It had opened here at 141.85 yen.
+ REUTER
+&#3;</BODY></TEXT>

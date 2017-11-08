@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="BYPASS" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="2622" NEWID="13639">
+<DATE> 7-APR-1987 08:31:53.94</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C T
+&#22;&#22;&#1;f0615&#31;reute
+b f BC-LONDON-COFFEE-FUTURES   04-07 0114</UNKNOWN>
+<TEXT>&#2;
+<TITLE>LONDON COFFEE FUTURES QUIETLY FIRMER AT MIDDAY</TITLE>
+<DATELINE>    LONDON, April 7 - </DATELINE><BODY>Robusta futures firmed at midday in
+extremely quiet trading, ranging three to 12 stg per tonne
+higher at the end of the morning call. Second position July
+rose seven stg to 1,258 stg.
+    As the recent increase in roaster demand seems to have
+quieted today, dealers attributed the market's steadiness to a
+technical consolidation of the decline in the past few weeks.
+London futures appeared to be following New York coffee, which
+has stabilized just above 1.00 dlr, some dealers said.
+    Physicals were quiet, with significant origin offers and
+roaster enquiry absent. Volume was 1,110 lots with 520 crosses.
+ REUTER
+&#3;</BODY></TEXT>

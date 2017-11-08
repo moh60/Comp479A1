@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10921" NEWID="6008">
+<DATE>17-MAR-1987 11:09:38.54</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f5309&#31;reute
+r f BC-INTERNATIONAL-LEASE-&lt;   03-17 0083</UNKNOWN>
+<TEXT>&#2;
+<TITLE>INTERNATIONAL LEASE &lt;ILFC> SELLS TWO JETS</TITLE>
+<DATELINE>    BEVERLY HILLS, Calif., March 17 - </DATELINE><BODY>International Lease
+Finance Corp said it sold two Boeing 737-200 aircraft and
+leased one 737-200 in two transactions valued at 28 mln dlrs.
+    It said the sales will result in a pre-tax gain for its
+second fiscal quarter ending May 31.
+    The two jets were sold for 18 mln dlrs to an investor group
+and the third was leased for five years to Pacific Western
+Airlines Ltd of Calgary, Alberta, International Lease said.
+ Reuter
+&#3;</BODY></TEXT>

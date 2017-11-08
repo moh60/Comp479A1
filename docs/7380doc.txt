@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12293" NEWID="7380">
+<DATE>19-MAR-1987 15:30:02.92</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2256&#31;reute
+u f BC-3M-&lt;MMM>-CANNOT-ACCOU   03-19 0055</UNKNOWN>
+<TEXT>&#2;
+<TITLE>3M &lt;MMM> CANNOT ACCOUNT FOR STOCK RISE</TITLE>
+<DATELINE>    MINNEAPOLIS, March 19 - </DATELINE><BODY>Minnesota Mining and Manufacturing
+Co knows of no reason for the rise in its stock, trading at
+129, up 3-1/4 on the New York Stock Exchange, a company
+spokeswoman told Reuters.
+    She said the company had issued no news today that might
+account for the increase.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="8042" NEWID="19714">
+<DATE>29-JUN-1987 12:15:35.16</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1636&#31;reute
+d f BC-HENLEY-GROUP-&lt;HENG>-U   06-29 0058</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HENLEY GROUP &lt;HENG> UNIT WINS NEWS PLANT ORDER</TITLE>
+<DATELINE>    HAMPTON, N.H., June 29 - </DATELINE><BODY>Henley Group Inc unit,
+Wheelabrator Technologies Inc, said it won a 243 mln dlrs
+contract from &lt;Mississippi Chemical Corp> unit Newsprint South
+Inc.
+    The company said the contract is for the construction of a
+224,000 ton-per-year newsprint production facility in Grenada.
+ Reuter
+&#3;</BODY></TEXT>

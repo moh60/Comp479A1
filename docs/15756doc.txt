@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4933" NEWID="15756">
+<DATE> 9-APR-1987 13:05:48.09</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1820&#31;reute
+d f BC-A.T.-BROD-NAMES-NEW-P   04-09 0044</UNKNOWN>
+<TEXT>&#2;
+<TITLE>A.T. BROD NAMES NEW PRESIDENT</TITLE>
+<DATELINE>    NEW YORK, April 9 - </DATELINE><BODY>A.T. Brod and Co Inc, an investment
+banking firm, said Michael L. Brod has been named president and
+chief operating officer, succeeding his father Albert T. Brod,
+who remains chairman and chief executive officer.
+ Reuter
+&#3;</BODY></TEXT>

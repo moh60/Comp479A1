@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15999" NEWID="10479">
+<DATE>27-MAR-1987 11:22:41.34&#5;&#5;&#5;F</DATE>
+<UNKNOWN>&#22;&#22;&#1;f1255&#31;reute</UNKNOWN>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+r f BC-JACKPOT-ENTERPRISES-&lt;   03-27 0048</UNKNOWN>
+<TEXT>&#2;
+<TITLE>JACKPOT ENTERPRISES &lt;JACK> TO BUYBACK SHARES</TITLE>
+<DATELINE>    LAS VEGAS, March 27 - </DATELINE><BODY>Jackpot Enterprises Inc said it will
+buy up to 50,000 of its own common shares from time to time in
+market transactions.
+    The amusement and recreation services company recently
+completed buying 107,000 of its shares.
+ Reuter
+&#3;</BODY></TEXT>

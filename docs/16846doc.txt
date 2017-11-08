@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1381" NEWID="16846">
+<DATE>17-APR-1987 11:06:36.27</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0263&#31;reute
+r f BC-FIRST-FEDERAL-BROOKSV   04-17 0051</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FIRST FEDERAL BROOKSVILLE&lt;FFBV> ADJOURNS MEETING</TITLE>
+<DATELINE>    BRROKSVILLE, Fla., April 17 - </DATELINE><BODY>First Federal Savings and
+Loan Association of Brooksville said it has adjourned its
+annual meeting until May 11 due to the unexpected death of
+director J.R. Underwood, creating the need for a substitute
+nominee for the board.
+ Reuter
+&#3;</BODY></TEXT>

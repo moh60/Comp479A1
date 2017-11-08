@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6979" NEWID="19143">
+<DATE>19-JUN-1987 09:37:38.92</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f0843&#31;reute
+d f BC-C.O.M.B.-&lt;CMCO.O>-UNI   06-19 0055</UNKNOWN>
+<TEXT>&#2;
+<TITLE>C.O.M.B. &lt;CMCO.O> UNIT IN NEW SEVEN-YEAR PACT</TITLE>
+<DATELINE>    MINNEAPOLIS, June 19 - </DATELINE><BODY>C.O.M.B. Co said its Cable Value
+Network (CVN) unit has reached an agreement in principle with
+Tele-Communications Inc &lt;TCOM.O> to extend its current
+affiliation agreement to a new seven-year term.
+    C.O.M.B. is a direct mail and video marketing company.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4242" NEWID="15259">
+<DATE> 8-APR-1987 15:28:49.15</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2319&#31;reute
+r f BC-AIRSENSORS-INC-&lt;ARSN>   04-08 0049</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AIRSENSORS INC &lt;ARSN> 3RD QTR JAN 31 LOSS</TITLE>
+<DATELINE>    TUKWILA, Wash., April 8 -
+    </DATELINE><BODY>Shr loss five cts vs loss six cts
+    Net loss 696,777 vs loss 598,095
+    Sales 472,812 vs 41,454
+    Nine mths
+    Shr loss 15 cts vs loss 17 cts
+    Net loss 2,194,482 vs loss 1,751,884
+    Sales 800,336 vs 151,884
+ Reuter
+&#3;</BODY></TEXT>

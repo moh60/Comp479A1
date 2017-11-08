@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="8568" NEWID="3655">
+<DATE>11-MAR-1987 10:43:24.82</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0343&#31;reute
+w f BC-GM-&lt;GM>-DEALERS-ORDER   03-11 0073</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GM &lt;GM> DEALERS ORDER 125,000 NEW CHEVROLETS</TITLE>
+<DATELINE>    WARREN, MICH., March 11 - </DATELINE><BODY>General Motors Corp said almost
+125,000 of Chevrolet's two newest cars - the four-door Corsica
+sedan and two-door Beretta Sport Coupe - have been ordered by
+dealers in advance of their official introduction Thursday.
+    It said on hand in dealer inventory and for immediate
+delivery were 35,000 of the two models. Another 8,000 were in
+transit from assembly plants.
+ Reuter
+&#3;</BODY></TEXT>

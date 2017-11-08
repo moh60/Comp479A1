@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13388" NEWID="7867">
+<DATE>20-MAR-1987 13:37:34.63</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1916&#31;reute
+u f BC-CHEMLAWN-&lt;CHEM>-HAS-N   03-20 0083</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CHEMLAWN &lt;CHEM> HAS NO COMMENT ON NEW OFFER</TITLE>
+<DATELINE>    NEW YORK, March 20 - </DATELINE><BODY>ChemLawn Corp said it had no comment
+on a sweetened offer from Waste Management Inc &lt;WMX>.
+    Waste Management amended its 27 dlr per share tender offer,
+raising it to 35 dlrs per share.
+    ChemLawn had rejected Waste Management's earlier 27 dlr per
+share offer, saying it was an undervalued bid. ChemLawn earlier
+told its shareholders not to tender to Waste Management.
+    ChemLawn rose 1-7/8 to 36 in over-the-counter trading.
+ Reuter
+&#3;</BODY></TEXT>

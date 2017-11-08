@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15190" NEWID="9669">
+<DATE>25-MAR-1987 18:46:18.57</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2708&#31;reute
+d f BC-USACAFES-&lt;USF>-UNIT-P   03-25 0096</UNKNOWN>
+<TEXT>&#2;
+<TITLE>USACAFES &lt;USF> UNIT POSTS RECORD WEEKLY SALES</TITLE>
+<DATELINE>    DALLAS, March 25 - </DATELINE><BODY>USACafes LP said sales at its Bonanza
+Restaurant unit rose 16.6 pct to a record 10.4 mln dlrs for the
+week ended March 22.
+    That compares with sales of 8,909,000 dlrs for the
+comparable week last year, the partnership said.
+    USACafes, which said year-to-date sales from the Bonanza
+chain were up 13 pct, attributed the increase to the budget
+steakhouse chain's decision to add chicken, seafood and salad
+entrees to its menu.
+    It said the new entrees now account for two-thirds of the
+chain's sales.
+ Reuter
+&#3;</BODY></TEXT>

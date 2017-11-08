@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16092" NEWID="10571">
+<DATE>27-MAR-1987 13:10:39.83&#5;&#5;&#5;F</DATE>
+<UNKNOWN>&#22;&#22;&#1;f1799&#31;reute</UNKNOWN>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>amex</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+r f BC-CORRECTED---C.O.M.B-&lt;   03-27 0084</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CORRECTED - C.O.M.B &lt;CMCO> TO HAVE OPTIONS ON AMEX</TITLE>
+<DATELINE>    NEW YORK, March 27 - </DATELINE><BODY>C.O.M.B Inc commenced trading put and
+call options on the American Stock Exchange, according to the
+Exchange.
+    The company's options will trade with a ticker symbol of
+&lt;COQ> with initial expiration months of April, May, July and
+October, with position and exercise limits at 5,500 contracts
+on the same side of the market, according to the Exchange.
+(corrects ticker symbol in headline, which is symbol of
+company's options)
+   
+ Reuter
+&#3;</BODY></TEXT>

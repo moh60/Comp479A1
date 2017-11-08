@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19560" NEWID="3138">
+<DATE> 9-MAR-1987 11:03:18.66</DATE>
+<TOPICS><D>grain</D><D>wheat</D><D>corn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G
+&#22;&#22;&#1;f0458&#31;reute
+u f BC-GRAIN-CERTIFICATE-RED   03-09 0088</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GRAIN CERTIFICATE REDEMPTIONS PUT AT 240 MLN BU</TITLE>
+<DATELINE>    KANSAS CITY, March 9 - </DATELINE><BODY>Over 240 mln bushels of government
+grain have been allocated in redemptions for commodity
+certificates since the program began April 30, according to the
+Commodity Credit Corporation.
+    Redemptions included 11.4 mln bushels of corn valued at
+17.0 mln dlrs, or an average per-bushel price of 1.492 dlrs,
+since the current grain catalogs were issued December 1 by CCC.
+    Wheat redemptions totaled 9.6 mln bushels, valued at 23.7
+mln dlrs, since December 1.
+ More
+&#3;</BODY></TEXT>

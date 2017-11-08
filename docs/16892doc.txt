@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1427" NEWID="16892">
+<DATE>17-APR-1987 14:02:24.66</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;A RM F
+&#22;&#22;&#1;f0378&#31;reute
+u f BC-SECURITY-PACIFIC-&lt;SPC   04-17 0100</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SECURITY PACIFIC &lt;SPC> DOWNGRADED BY MOODY'S</TITLE>
+<DATELINE>    NEW YORK, April 17 - </DATELINE><BODY>Moody's Investors Service Inc said it
+downgraded 3.7 billion dlrs of debt of Security Pacific Corp,
+lead bank Security Pacific National Bank and other units.
+    Moody's said it is concerned over the outlook for
+improvement in the lead bank's earnings and asset quality,
+which have been burdened by high levels of nonperforming assets
+and charge-offs.
+    Cut were the parent's senior and guaranteed debt to Aa-3
+from Aa-2 and subordinated debt to A-1 from Aa-3 and the lead
+bank's senior debt and long-term deposits to Aa-2 from Aaa.
+ Reuter
+&#3;</BODY></TEXT>

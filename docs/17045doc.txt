@@ -1,0 +1,20 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1686" NEWID="17045">
+<DATE>23-APR-1987 21:19:18.12</DATE>
+<TOPICS><D>dlr</D></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f3111&#31;reute
+f f BC-Many-major-nations-ye   04-23 0012</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE>Many major nations yesterday intervened heavily to aid dlr - Miyazawa
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

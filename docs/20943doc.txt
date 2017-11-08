@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20494" NEWID="20943">
+<DATE>19-OCT-1987 16:33:42.57</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f3079&#31;reute
+d f BC-WESTPORT-BANCORP-&lt;WEB   10-19 0044</UNKNOWN>
+<TEXT>&#2;
+<TITLE>WESTPORT BANCORP &lt;WEBAT.O> 3RD QTR NET</TITLE>
+<DATELINE>    WESTPORT, Conn., Oct 19 -
+    </DATELINE><BODY>Shr 19 cts vs 38 cts
+    Net 397,000 vs 788,000
+    Nine mths
+    Shr 80 cts vs 1.19 dlrs
+    Net 1,674,000 vs 2,455,000
+    NOTE: Company would not provide assets, deposits, and loans
+figures.
+ Reuter
+&#3;</BODY></TEXT>

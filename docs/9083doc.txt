@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14604" NEWID="9083">
+<DATE>24-MAR-1987 17:54:44.54</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>nasdaq</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2732&#31;reute
+b f BC-******NASDAQ-SHORT-IN   03-24 0052</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NASDAQ SHORT INTEREST IN MARCH FALLS</TITLE>
+<DATELINE>    WASHINGTON, March 24 - </DATELINE><BODY>NASDAQ said short interest as of
+mid-march totaled 184.9 mln shares compared to 215.7 mln shares
+for the month of February.
+    NASDAQ said the mid-March figures are based on 3,983
+securities and the February figures are based on 3,842
+securities.
+    
+ Reuter
+&#3;</BODY></TEXT>

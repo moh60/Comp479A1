@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17220" NEWID="11159">
+<DATE>30-MAR-1987 19:28:26.04</DATE>
+<TOPICS><D>jobs</D></TOPICS>
+<PLACES><D>japan</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f2833&#31;reute
+f f BC-Japan-February-unempl   03-30 0013</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE>Japan February unemployment falls to 2.9 pct (3.0 pct in January) - official
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

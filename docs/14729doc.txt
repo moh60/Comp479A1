@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="3712" NEWID="14729">
+<DATE> 7-APR-1987 17:47:26.41</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E
+&#22;&#22;&#1;f2598&#31;reute
+r f BC-TRILON-DECLARES-STOCK   04-07 0036</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TRILON DECLARES STOCK DIVIDEND</TITLE>
+<DATELINE>    TORONTO, April 7 - </DATELINE><BODY>&lt;Trilon Financial Corp> said it declared
+a stock dividend of one class A share for each two class A
+shares held, payable May 15 to shareholders of record on April
+30.
+ Reuter
+&#3;</BODY></TEXT>

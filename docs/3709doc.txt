@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="8622" NEWID="3709">
+<DATE>11-MAR-1987 11:25:38.29</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0558&#31;reute
+r f BC-ACTON-AUTO-RENTAL-INI   03-11 0067</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ACTON AUTO RENTAL INITIAL OFFERING STARTS</TITLE>
+<DATELINE>    NEW YORK, March 11 - </DATELINE><BODY>Lead underwriter McDonald and Co
+Investments Inc &lt;MDD> said an offering of 900,000 shares of
+Action Auto Rental Inc is underway, priced at 12 dlrs per
+share.
+    Undewriters have been granted an option to purchase up to
+another 135,000 shares to cover overallotments.
+    The company is selling 697,500 shares and shareholders the
+rest.
+ Reuter
+&#3;</BODY></TEXT>

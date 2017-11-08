@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="19882" NEWID="21554">
+<DATE>19-OCT-1987 04:05:14.77</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>lse</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f0212&#31;reute
+f f BC-FTSE-100-share-index   10-19 0013</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE>FTSE 100 share index opens 136.9 points down at 2,165 - London Stock Exchange
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

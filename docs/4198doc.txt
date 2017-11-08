@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9111" NEWID="4198">
+<DATE>12-MAR-1987 09:34:49.16</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0973&#31;reute
+r f BC-&lt;TECHNIMED-CORP>-HAS   03-12 0103</UNKNOWN>
+<TEXT>&#2;
+<TITLE>&lt;TECHNIMED CORP> HAS CHOLESTEROL TEST PRODUCT</TITLE>
+<DATELINE>    NEW YORK, March 12 - </DATELINE><BODY>Technimed Corp said it has completed
+development of a home cholesterol testing product and will
+start clinical testing of its whole blood cholesterol test
+strip shortly.
+    The company said the strip is inexpensive and is simpler
+than lab tests now being used.  A drop of blood is applied to
+the strip and within about 30 seconds a simple color change
+allows the user to determine his own cholesterol level.
+    It said it expects to be the first to market a home
+cholesterol test and the test should contribute substantially
+to future earnings.
+
+ Reuter
+&#3;</BODY></TEXT>

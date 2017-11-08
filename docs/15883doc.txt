@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5238" NEWID="15883">
+<DATE> 9-APR-1987 15:26:19.87</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F A
+&#22;&#22;&#1;f2283&#31;reute
+r f BC-VLSI-&lt;VLSI>-PLANS-DEB   04-09 0078</UNKNOWN>
+<TEXT>&#2;
+<TITLE>VLSI &lt;VLSI> PLANS DEBT OFFERING</TITLE>
+<DATELINE>    SAN JOSE, Calif., April 9 - </DATELINE><BODY>VLSI Technology Inc said it
+plans to file a registration statement with the Securities and
+Exchange Commission in mid-April covering a proposed
+underwritten public offering of 50 mln dlrs principal amount of
+convertible subordinated debentures.
+    The company said it plans to use proceeds from the offering
+to fund growth and for capital expenditures associated with
+increasing manufacturing capacity.
+ Reuter
+&#3;</BODY></TEXT>

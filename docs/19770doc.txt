@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="8098" NEWID="19770">
+<DATE>29-JUN-1987 13:22:50.81</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1902&#31;reute
+d f BC-PEPSI-&lt;PEP>-NAMES-NEW   06-29 0070</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PEPSI &lt;PEP> NAMES NEW AD AGENCY FOR BLACK MARKET</TITLE>
+<DATELINE>    NEW YORK, June 29 - </DATELINE><BODY>PepsiCo Inc's Pepsi-Cola USA said it
+named privately owned Lockhart and Pettus Inc of New York to
+handle its advertising and promotion to Black consumers.
+    Pepsi-Cola USA said it is the second major new account for
+Lochart and Pettus in as many weeks. Earlier this month,
+Chrysler Motors Corp named the agency to handle its minority
+marketing.
+ Reuter
+&#3;</BODY></TEXT>

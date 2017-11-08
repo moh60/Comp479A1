@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10159" NEWID="5246">
+<DATE>16-MAR-1987 05:53:06.03</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>france</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1436&#31;reute
+u f BC-ALSTHOM-PLANS-ELECTRI   03-16 0088</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ALSTHOM PLANS ELECTRICAL EQUIPMENT JOB CUTS</TITLE>
+<DATELINE>    PARIS, March 16 - </DATELINE><BODY>Engineering group Alsthom &lt;ALSF.PA> said
+it planned to slash 420 jobs this year from the 5,000 strong
+workforce in its electrical equipment division.
+    Details of the proposed staff reductions will be put to
+labour representatives at a meeting on March 19.
+    Company officials said the cuts were needed to adjust to a
+drop in orders from French state utility Electricite de France
+and the cancellation or postponement of unspecified export
+contracts.
+    REUTER
+&#3;</BODY></TEXT>

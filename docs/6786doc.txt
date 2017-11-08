@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11699" NEWID="6786">
+<DATE>18-MAR-1987 15:50:31.63</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f9335&#31;reute
+r f BC-PAN-AM-&lt;PN>-AGREES-TO   03-18 0054</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PAN AM &lt;PN> AGREES TO EXTEND UNION PACT</TITLE>
+<DATELINE>    WASHINGTON, March 18 - </DATELINE><BODY>The Air Line Pilots Association said
+Pan Am Corp agreed that pilots of its non-union subsidiary, Pan
+Am Express, will be placed on the pilot seniority list of its
+unionized subsidiary, Pan American World Airways, and will be
+covered by the current ALPA contract.
+ Reuter
+&#3;</BODY></TEXT>

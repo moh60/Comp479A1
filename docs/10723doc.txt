@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16784" NEWID="10723">
+<DATE>30-MAR-1987 04:51:15.69</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>yugoslavia</D><D>ussr</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS><D>comecon</D></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0343&#31;reute
+r f BC-YUGOSLAVIA-TO-HELP-PR   03-30 0114</UNKNOWN>
+<TEXT>&#2;
+<TITLE>YUGOSLAVIA TO HELP PRODUCE NEW SOVIET AIRLINER</TITLE>
+<DATELINE>    BELGRADE, March 30 - </DATELINE><BODY>Yugoslavia said it has been asked to
+participate in the production of a new Soviet airliner -- the
+Ilyushin 114.
+    The official Tanjug news agency said this was decided at a
+meeting in Havana of officials of the Soviet-led trade group
+Comecon. Yugoslavia is a communist nonaligned state, belonging
+neither to the Warsaw Pact or the Western alliance, Nato, but
+it enjoys preferential trading status in Comecon.  Under the
+deal, Yugoslavia will produce several major parts, including
+the landing gear, for the new medium-range 80-passenger
+Ilyushin airliner, Tanjug said. No financial details were
+disclosed.
+ REUTER
+&#3;</BODY></TEXT>

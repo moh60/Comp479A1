@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20297" NEWID="21140">
+<DATE>19-OCT-1987 13:55:41.10</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2414&#31;reute
+d f BC-BANCTEXAS-&lt;BTX>-TO-SE   10-19 0075</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BANCTEXAS &lt;BTX> TO SELL AFFILIATE</TITLE>
+<DATELINE>    DALLAS, Oct 19 - </DATELINE><BODY>BancTEXAS Group Inc said it has signed a
+definitive agreement to sell its BancTEXAS Sulphur Springs
+affiliate to a group of local investors led by Gene Watson for
+a cash amount equal to book value at the time of the sale,
+subject to regulatory approvals.
+    The unit had assets of 18.2 mln dlrs as of September 30.
+    BancTEXAS said it plans to concentrate on its primary
+market, the Dallas area.
+ Reuter
+&#3;</BODY></TEXT>

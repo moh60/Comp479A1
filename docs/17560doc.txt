@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5898" NEWID="17560">
+<DATE> 1-JUN-1987 10:47:12.33</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1217&#31;reute
+r f BC-AMERICAN-HEALTHCARE-A   06-01 0107</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AMERICAN HEALTHCARE AND 3M &lt;MMM> SIGN ACCORD</TITLE>
+<DATELINE>    ST. PAUL, MINN., June 1 - </DATELINE><BODY>Minnesota Mining and
+Manufacturing Co said it signed a five year agreement to become
+a preferred supplier to San Diego, California-based (American
+Healthcare System).
+    The agreement permits American Healthcare hospitals to buy
+at competitive prices from 3M's 14 business divisions, products
+in radiology, laboratory, food service, maintenence supplies
+and audio visuals, advertising services, office supplies,
+computer hardware and software, it said.
+    American Healthcare is a health care network representing
+more than 1,100 not-for-profit hospitals in 47 states.
+ Reuter
+&#3;</BODY></TEXT>

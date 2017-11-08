@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11824" NEWID="6911">
+<DATE>18-MAR-1987 18:02:40.15</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f9709&#31;reute
+u f BC-******HOME-SHOPPING-S   03-18 0101</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HOME SHOPPING SAYS IT NOT INVESTIGATION TARGET</TITLE>
+<DATELINE>    CLEARWATER, Fla., March 18 - </DATELINE><BODY>Home Shopping Network Inc
+&lt;HSN> said, in response to published reports, that it is not
+the target of a formal Securities and Exchange commission
+investigation.
+    It said, instead, that the SEC initiated an informal
+inquiry of all parties involved in the Home Shopping/C.O.M.B.
+Co &lt;CMCO> merger negotiations to determine the source of rumors
+that caused the stocks to rise prior to a public announcement
+in January.
+    Home Shopping said it cooperated fully and had no
+indication that the informal inquiry is being pursued.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1002" NEWID="16467">
+<DATE>13-APR-1987 12:40:20.85</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1791&#31;reute
+a f BC-MICHAEL-FOODS-NAMES-P   04-13 0076</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MICHAEL FOODS NAMES PRESIDENT</TITLE>
+<DATELINE>    MINNEAPOLIS, April 13 - </DATELINE><BODY>Michael Foods Inc, a newly formed
+multi-regional food processing and distribution company, said
+it named Richard Olson as president and chief executive
+officer.
+    Olson, a former vice president of food service for
+Pillsbury Co &lt;PSY>, most recently was president of Fil-Mor
+Express Inc, a transportation company.
+    Michael Foods' three subsidiaries in 1986 had combined
+sales of 153.3 mln dlrs.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20848" NEWID="20253">
+<DATE>20-OCT-1987 10:38:19.99</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1337&#31;reute
+d f BC-MANOR-CARE-&lt;MNR>-RAIS   10-20 0060</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MANOR CARE &lt;MNR> RAISES SHARE REPURCHASE</TITLE>
+<DATELINE>    SILVER SPRING, Md., Oct 20 - </DATELINE><BODY>Manor Care Inc said it has
+raised its share repurchase program to include four mln
+additional shares, raising the total number under the program
+to five mln.
+    It said it h already repurchased the first one mln shares
+outhorized.  Manor Care now has about 40 mln shares outstanding.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17536" NEWID="11474">
+<DATE>31-MAR-1987 12:38:07.05</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1833&#31;reute
+r f BC-HERCULES-&lt;HPC>,-COLLA   03-31 0106</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HERCULES &lt;HPC>, COLLAGEN &lt;CGEN> FORM VENTURE</TITLE>
+<DATELINE>    PALO ALTO, Calif., March 31 - </DATELINE><BODY>Hercules Inc and Collagen
+Corp said they formed an equally-owned joint venture to
+develop, make and market products for the treatment of dermal
+wounds caused by surgery, trauma or disease.
+    The joint venture will focus on development of products to
+heal dermal wounds that are resistant to currently available
+treatment, the companies said.
+    They said clinical studies will focus initially on treating
+wounds such as decubitus ulcers or bedsores caused by prolonged
+pressure and underlying diseases such as diabetes, which
+compromises the blood supply.
+ Reuter
+&#3;</BODY></TEXT>

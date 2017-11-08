@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15182" NEWID="9661">
+<DATE>25-MAR-1987 18:35:52.42</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2689&#31;reute
+r f BC-CLABIR-&lt;CLG>,-AMBRIT   03-25 0085</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CLABIR &lt;CLG>, AMBRIT &lt;ABI> CALL OFF MERGER</TITLE>
+<DATELINE>    GREENWICH, Conn., March 25 - </DATELINE><BODY>Clabir Corp and AmBrit Corp
+said they called off their plans for Clabir to buy the 16 pct
+voting interest in AmBrit that it does not already own.
+    The companies said they agreed not to pursue the merger
+because several actions recently taken by AmBrit would mean
+substantial delays in completing the deal.
+    They said they might revive merger plans at a later date or
+seek other ways for Clabir to increase its holdings in AmBrit.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20216" NEWID="21220">
+<DATE>19-OCT-1987 12:54:26.99</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2075&#31;reute
+r f BC-GRANGES-&lt;GXL>-FILES-F   10-19 0070</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GRANGES &lt;GXL> FILES FOR STOCK OFFERING</TITLE>
+<DATELINE>    VANCOUVER, British Columbia, Oct 19 - </DATELINE><BODY>Granges Exploration
+LTD, a mining company, said it filed with the Securities and
+Exchange Commission for a proposed publioffering of 2,500,000
+shares of its common.
+    PaineWebber Inc and Drexel Burnham Lambert Inc will be
+co-managers of the underwriting group.
+    Granges said it intends to use proceeds for general
+corporate purposes.
+ Reuter
+&#3;</BODY></TEXT>

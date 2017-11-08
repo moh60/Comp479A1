@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18556" NEWID="2138">
+<DATE> 5-MAR-1987 11:10:59.01</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0530&#31;reute
+d f BC-TOKHEIM-&lt;TOK>-UNIT-IN   03-05 0078</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TOKHEIM &lt;TOK> UNIT IN MARKETING AGREEMENT</TITLE>
+<DATELINE>    FORT WAYNE, IND., March 5 - </DATELINE><BODY>Tokheim Corp said its Advanced
+Products and Electronics Division reached a four-year
+manufacturing and marketing agreement with TechVend, a New
+Jersey-based company which has developed a credit card
+activated video cassette rental machine.
+    It said the agreement could contribute "significantly" to
+the growth of Tokheim
+    It said deliveries of the devices are expected to begin in
+the fall.
+ Reuter
+&#3;</BODY></TEXT>

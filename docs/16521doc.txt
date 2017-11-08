@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1056" NEWID="16521">
+<DATE>13-APR-1987 13:27:28.81</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>nasdaq</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2005&#31;reute
+h f BC-&lt;GEN-TERM-CORP>-ACQUI   04-13 0079</UNKNOWN>
+<TEXT>&#2;
+<TITLE>&lt;GEN TERM CORP> ACQUIRES PRIVATE FIRM</TITLE>
+<DATELINE>    SAN FRANCISCO, April 13 - </DATELINE><BODY>Gen Term Corp said it entered
+into escrow for the 5.2 mln dlr purchase of Lewis-Westco and
+Co, a privately-held bottler and distributor of wines and
+distilled spirits.
+    Lewis-Westco had sales of more than 45 mln dlrs for its
+fiscal year ended June 30, Gen Term also said.
+    Separately, Gen Term, which trades over-the-counter, said
+it plans to apply for NASDAQ listing after it completes the
+acquisition.
+ Reuter
+&#3;</BODY></TEXT>

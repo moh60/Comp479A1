@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20989" NEWID="20394">
+<DATE>20-OCT-1987 11:53:10.11</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>uk</D><D>norway</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM 
+&#22;&#22;&#1;f1787&#31;reute
+u f BC-NORWAY'S-SPAREBANKEN   10-20 0071</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NORWAY'S SPAREBANKEN ROGALAND GETS EURO-CD PROGRAM</TITLE>
+<DATELINE>    LONDON, Oct 20 - </DATELINE><BODY>Sparebanken Rogaland, a large Norwegian
+savings bank, has in place a 200 mln dlr euro-certificate of
+deposit program, First Interstate Bank of California said as
+arranger.
+    Dealers for the program are First Interstate, First Chicago
+Ltd, Merrill Lynch Capital Markets and Manufacturers Hanover
+Ltd. First Chicago will be issuing and paying agent.
+ REUTER
+&#3;</BODY></TEXT>

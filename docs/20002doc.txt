@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20597" NEWID="20002">
+<DATE>19-OCT-1987 23:58:39.11</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>japan</D><D>france</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f0012&#31;reute
+u f BC-NEC-TO-SUPPLY-CHIP-TE   10-19 0085</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NEC TO SUPPLY CHIP TECHNOLOGY TO FRANCE</TITLE>
+<DATELINE>    TOKYO, Oct 20 - </DATELINE><BODY>NEC Corp &lt;NIPN.T> will supply &lt;Matra-Harris
+Semiconducteurs SA(A)> (MHS) of France with manufacturing
+technology for 16-bit microchips used in microcomputers, an NEC
+spokesman said.
+    MHS, a joint venture between France's MATRA &lt;MATR.PA> and
+Harris Corp &lt;HRS> of the U.S., Will manufacture and market
+globally a microcomputer based on NEC's Micron PD 78312 and
+Micron PD78310 chips.
+    MHS will pay NEC an undisclosed sum for the technology.
+ REUTER
+&#3;</BODY></TEXT>

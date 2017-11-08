@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19798" NEWID="3376">
+<DATE> 9-MAR-1987 16:54:18.36</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F
+&#22;&#22;&#1;f0837&#31;reute
+r f BC-NORANDA-TO-SPIN-OFF-F   03-09 0110</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NORANDA TO SPIN OFF FOREST SUBSIDIARIES</TITLE>
+<DATELINE>    TORONTO, March 9 - </DATELINE><BODY>&lt;Noranda Inc> said the company planned a
+public share offer within three months of its Noranda Forest
+Inc unit, which holds Noranda's forest products interests.
+    Size of the offer is still undetermined, Noranda said.
+    Noranda said Noranda Forest would operate as a freestanding
+subsidiary of Noranda. Noranda Forest holds 100 pct of Fraser
+Inc, James Maclaren Industries and Noranda Forest Sales and 50
+pct stakes in MacMillan Bloedel Ltd &lt;MMBLF> and Northwood Pulp
+and Timber.
+     Noranda Forest's consolidated 1986 revenues were more than
+three billion dlrs, with earnings of 158 mln dlrs.
+&#3;</BODY></TEXT>

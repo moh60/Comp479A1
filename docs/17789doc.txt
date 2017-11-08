@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6127" NEWID="17789">
+<DATE> 1-JUN-1987 16:21:11.65</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2393&#31;reute
+r f BC-PEPSICO-&lt;PEP>-CHICKEN   06-01 0057</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PEPSICO &lt;PEP> CHICKEN UNIT COMMITS 40 MLN DLRS</TITLE>
+<DATELINE>    NEW YORK, June 1 - </DATELINE><BODY>Pepsico Inc's Kentucky Fried Chicken
+said it has committed 40 mln dlrs over the next 90 days to
+introduce a major new product category.
+    The company said it is introducing Chicken Littles, a
+chicken patty sandwich served on a soft dinner roll, which will
+sell for 39 cts.
+ Reuter
+&#3;</BODY></TEXT>

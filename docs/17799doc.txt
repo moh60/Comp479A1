@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6137" NEWID="17799">
+<DATE> 1-JUN-1987 16:24:49.19</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2405&#31;reute
+d f BC-LTV-&lt;QLTV>-GETS-CONTR   06-01 0055</UNKNOWN>
+<TEXT>&#2;
+<TITLE>LTV &lt;QLTV> GETS CONTRACT</TITLE>
+<DATELINE>    DALLAS, June 1 - </DATELINE><BODY>LTV Corp's LTV Aircraft Products Group
+said it was awarded a contract valued at more than 10 mln dlrs
+to continue production of engine covers and thrust reversers
+for the Challenger 601-3A executive business jet.
+    the aircraft is manufactured by Canadair Ltd. of Montreal,
+it said.
+
+ Reuter
+&#3;</BODY></TEXT>

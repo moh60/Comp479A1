@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11825" NEWID="6912">
+<DATE>18-MAR-1987 18:05:22.64</DATE>
+<TOPICS><D>coffee</D></TOPICS>
+<PLACES><D>brazil</D><D>nicaragua</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C T
+&#22;&#22;&#1;f9713&#31;reute
+u f BC-IBC-PRESIDENT-TO-ATTE   03-18 0076</UNKNOWN>
+<TEXT>&#2;
+<TITLE>IBC PRESIDENT TO ATTEND MANAGUA COFFEE MEETING</TITLE>
+<DATELINE>    RIO DE JANEIRO, MARCH 18 - </DATELINE><BODY>Brazilian Coffee Institute (IBC)
+president Jorio Dauster said he will attend a meeting in
+Managua this weekend.
+    He told Reuters by telephone from Brasilia that the
+meeting, involving Brazil, Colombia and Central American coffee
+producers, will be strictly to review the coffee market
+situation.
+    "The meeting is set for Saturday but could also continue on
+Sunday," he said.
+ Reuter
+&#3;</BODY></TEXT>

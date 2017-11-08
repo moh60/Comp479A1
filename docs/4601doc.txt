@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9514" NEWID="4601">
+<DATE>12-MAR-1987 18:28:52.36</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0816&#31;reute
+r f BC-ROCHESTER-GAS-AND-ELE   03-12 0048</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ROCHESTER GAS AND ELECTRIC &lt;RGS> BEGINS OFFER</TITLE>
+<DATELINE>    ROCHESTER, N.Y., March 12 - </DATELINE><BODY>Rochester Gas and Electric Corp
+said it began a public offering of 300,000 shares of 8.25 pct
+preferred stock, Series R at 100 dlrs per share.
+    Proceeds will be used to redeem its 10.84 pct preferred
+shares.
+ Reuter
+&#3;</BODY></TEXT>

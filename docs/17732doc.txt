@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6070" NEWID="17732">
+<DATE> 1-JUN-1987 14:47:54.39</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2145&#31;reute
+r f BC-LEISURE-CONCEPTS-&lt;LCI   06-01 0079</UNKNOWN>
+<TEXT>&#2;
+<TITLE>LEISURE CONCEPTS &lt;LCIC.O>, LORIMAR &lt;LT> IN DEAL</TITLE>
+<DATELINE>    NEW YORK, June 1 - </DATELINE><BODY>Leisure Concepts Inc said it has signed
+a definitive agreement to be licensing agent for all
+Lorimar-Telepictures Corp television and film properties,
+formalizing a preliminary agreement reached in January.
+    It said undser the terms, Lorimar has received a five-year
+warrant to buy up to 250,000 Leisure Concepts shares at 6.25
+dlrs each.  Leisure Concepts now has about 3,100,000 shares
+outstanding.
+ Reuter
+&#3;</BODY></TEXT>

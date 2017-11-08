@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14527" NEWID="9006">
+<DATE>24-MAR-1987 16:03:55.80</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2426&#31;reute
+u f BC-COMMODORE-&lt;CBU>,-ATAR   03-24 0056</UNKNOWN>
+<TEXT>&#2;
+<TITLE>COMMODORE &lt;CBU>, ATARI IN SETTLEMENT</TITLE>
+<DATELINE>    NEW YORK, March 24 - </DATELINE><BODY>Commodore International Ltd said it
+settled and discontinued all pending litigation with Atari
+Corp.
+    The company issued a statement which said the case had been
+settled on terms satisfactory to both sides.
+    Company officials were not immediately available for
+comment.
+ Reuter
+&#3;</BODY></TEXT>

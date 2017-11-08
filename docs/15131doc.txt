@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4114" NEWID="15131">
+<DATE> 8-APR-1987 12:17:38.95</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1680&#31;reute
+w f BC-ENTOURAGE-&lt;ENTG>-TO-S   04-08 0053</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ENTOURAGE &lt;ENTG> TO SELL SOLID PERFUME</TITLE>
+<DATELINE>    HOUSTON, April 8 - </DATELINE><BODY>Entourage International Inc said it
+plans to package solid perfume in a lipstick tube and retail
+the product, called "Amadeus," for 15 dlrs.
+    The company said the product was first test marketed in
+Feburary after six months of research and development.
+ Reuter
+&#3;</BODY></TEXT>

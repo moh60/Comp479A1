@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1129" NEWID="16594">
+<DATE>13-APR-1987 14:59:59.14</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A RM
+&#22;&#22;&#1;f2280&#31;reute
+u f BC-MOODY'S-MAY-UPGRADE-B   04-13 0104</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MOODY'S MAY UPGRADE BELL ATLANTIC &lt;BEL> UNIT</TITLE>
+<DATELINE>    NEW YORK, April 13 - </DATELINE><BODY>Moody's Investors Service Inc said it
+may upgrade 1.28 billion dlrs of debt of New Jersey Bell
+Telephone Co, a unit of Bell Atlantic Corp.
+    The agency will evaluate New Jersey Bell's ability to
+sustain its improved financial performance, including interest
+coverage, capital structure and profitability. Moody's will
+also assess the likelihood of continued constructive regulatory
+treatment.
+    New Jersey Bell currently carries Aa-1 debentures. Its
+Prime-1 commercial paper rating is not under review. Moody's
+also cited a strong New Jersey economy.
+ Reuter
+&#3;</BODY></TEXT>

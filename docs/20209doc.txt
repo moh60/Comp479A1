@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20804" NEWID="20209">
+<DATE>20-OCT-1987 10:08:54.91</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1148&#31;reute
+b f BC-PACIOFIC-TELESIS-&lt;PAC   10-20 0042</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PACIOFIC TELESIS &lt;PAC> TO REPURCHASE STOCK</TITLE>
+<DATELINE>    SAN FRANCISCO, Oct 20 - </DATELINE><BODY>Pacific Telesis Group said it plans
+to repurchase up to 10 mln of its 432.1 mln common shares in
+the open market or privately, with repurchases to be financed
+by general corporate funds.
+ Reuter
+&#3;</BODY></TEXT>

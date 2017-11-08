@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13329" NEWID="7808">
+<DATE>20-MAR-1987 12:33:12.08</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1637&#31;reute
+u f BC-MORRISON-KNUDSEN-&lt;MRN   03-20 0089</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MORRISON KNUDSEN &lt;MRN>GETS 200 MLN DLR CONTRACT</TITLE>
+<DATELINE>    BOISE, Idaho, March 20 - </DATELINE><BODY>Morrison Knudsen Corp said a unit
+was awarded an 11-1/2-year contract totaling about 200 mln dlrs
+for the operation of a steam coal mine near Montgomery, W.Va.
+    The company said the contract carries an option for an
+additional 10 years.
+    Of the 200 mln dlrs, the company said that only the first
+five years, or about 90 mln dlrs, were included in its first
+quarter backlog.
+    The contract was awarded by &lt;Cannelton Industries Inc>, the
+company said.
+ Reuter
+&#3;</BODY></TEXT>

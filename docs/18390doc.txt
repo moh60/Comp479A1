@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="NOT-USED" CGISPLIT="PUBLISHED-TESTSET" OLDID="22088" NEWID="18390">
+<DATE>15-JUN-1987 12:34:22.09</DATE>
+<TOPICS><D>strategic-metal</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1709&#31;reute
+d f BC-AMAX-INC-&lt;AMX>-USES-P   06-15 0065</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AMAX INC &lt;AMX> USES POND SYSTEM FOR MAGNESIUM</TITLE>
+<DATELINE>    SALT LAKE CITY, Utah, June 15 - </DATELINE><BODY>AMAX Inc unit, AMAX
+Magnesium Corp, said it will build a Knolls Solar Evaporation
+Pond System for recovery of magnesium.
+    The company said the system will replace a previous
+recovery system which was flooded in 1986.
+    The company said construction should be complete by 1988
+and in full production by 1989.
+ Reuter
+&#3;</BODY></TEXT>

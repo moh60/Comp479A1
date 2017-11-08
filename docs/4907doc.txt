@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9819" NEWID="4907">
+<DATE>13-MAR-1987 13:06:16.23</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0815&#31;reute
+r f BC-UNION,-PHOENIX-STEEL   03-13 0091</UNKNOWN>
+<TEXT>&#2;
+<TITLE>UNION, PHOENIX STEEL UNABLE TO REACH AGREEMENT</TITLE>
+<DATELINE>    CLAYMONT, Del., March 13 - </DATELINE><BODY>&lt;Phoenix Steel Corp> said it and
+the union representing workers at its seamless tubing mill in
+Phoenixville, Penn., were unable to reach agreement to extend
+the union contract that expires March 31.
+    Phoenix said the union rejected its offer to extend a labor
+agreement through May 30 and a medical insurance agreement for
+active employees through June 30.
+    The company said no further bargaining sessions are planned
+between it and United Steelworkers Local 2322.
+ Reuter
+&#3;</BODY></TEXT>

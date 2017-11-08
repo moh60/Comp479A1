@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7936" NEWID="19608">
+<DATE>29-JUN-1987 09:46:36.35</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f0968&#31;reute
+d f BC-AMEV-HOLDINGS-TO-SELL   06-29 0088</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AMEV HOLDINGS TO SELL UNIT TO USA FINANCIAL</TITLE>
+<DATELINE>    NEW YORK, June 29 - </DATELINE><BODY>AMEV Holdings Inc, the New York-based
+operating arm of NV AMEV &lt;AMEV.AS> in The Netherlands and
+parent company of Security Mutual Finance Corp, said it reached
+a definitive agreement to sell Security Mutual to USA Financial
+Services Inc.
+    Security Mutual, based in Decatur, Ala., operates 33 loan
+offices in fourh Southeastern states and has 90 mln dlrs in
+receivables outstanding.
+    USA Financial is a subsidiary of Chicago-based United
+Savings of America.
+ Reuter
+&#3;</BODY></TEXT>

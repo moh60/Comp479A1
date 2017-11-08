@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20035" NEWID="21401">
+<DATE>19-OCT-1987 10:24:10.61</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1238&#31;reute
+r f BC-CARSON-PIRIE-&lt;CRN>-TO   10-19 0109</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CARSON PIRIE &lt;CRN> TO START PROXY MAILING</TITLE>
+<DATELINE>    CHICAGO, Oct 19 - </DATELINE><BODY>Carson Pirie Scott and Co said it plans
+to start mailing proxy materials to stockholders in connection
+to a November 16 special meeting at which holders will be asked
+to consider a previously announced agreement with Greyhound
+Corp &lt;G>.
+    Under the agreement, Greyhound will acquire, in a merger,
+three of the company's foodservice operations - Dobbs
+International Services, Dobbs Houses and Carson international.
+    If the transaction is approved, Carsons said its
+stockholders will receive 30 dlrs cash and one share of common
+in the new Carson Pirie Scott and Co for each share held.
+ Reuter
+&#3;</BODY></TEXT>

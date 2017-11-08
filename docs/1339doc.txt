@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16659" NEWID="1339">
+<DATE> 3-MAR-1987 16:41:44.21</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0950&#31;reute
+d f BC-TELXON-&lt;TXLN>-SEES-SL   03-03 0094</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TELXON &lt;TXLN> SEES SLIGHTLY HIGHER 4TH QTR NET</TITLE>
+<DATELINE>    AKRON, OHIO, March 3 - </DATELINE><BODY>Telxon Corp said it expects
+per-share earnings for its fourth quarter ending March 31 to be
+about 23 cts to 26 cts on revenues of 26 mln dlrs to 28 mln
+dlrs.
+    For the year-ago quarter, the company earned 22 cts a
+share, adjusted for a three-for-two stock split, on revenues of
+24.2 mln dlrs.
+    The company said it made the earnings estimate in response
+to analysts' forecasts, which it said called for per-share
+earnings of 24 cts to 30 cts and revenues of 29 mln dlrs to 32
+mln dlrs.
+ Reuter
+&#3;</BODY></TEXT>

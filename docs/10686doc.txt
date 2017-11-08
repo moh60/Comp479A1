@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16747" NEWID="10686">
+<DATE>30-MAR-1987 01:19:30.43</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>japan</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0040&#31;reute
+b f BC-STOCKS-PLUNGE-IN-LATE   03-30 0094</UNKNOWN>
+<TEXT>&#2;
+<TITLE>STOCKS PLUNGE IN LATE TOKYO TRADE</TITLE>
+<DATELINE>    TOKYO, March 30 - </DATELINE><BODY>Stocks plunged sharply just before the
+close of trade as the yen's continued rise against the dollar
+and Friday's order by President Reagan to impose weighty duties
+on key Japanese export sectors prompted investors to evacuate
+their stock holdings, brokers said.
+    At 1456 local time the index had slumped 502.98 to
+21,675.04, the day's low. On Saturday the index rose 151.36 to
+a record high of 22,178.02.
+    Brokers said today's decline was led by selling of
+multinational export companies' shares.
+ REUTER
+&#3;</BODY></TEXT>

@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="21415" NEWID="20820">
+<DATE>20-OCT-1987 18:39:26.14</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f3551&#31;reute
+r f BC-CIRCLE-K-&lt;CKP>-TO-BUY   10-20 0047</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CIRCLE K &lt;CKP> TO BUY UP TO THREE MLN SHARES</TITLE>
+<DATELINE>    SAN DIEGO, Oct 20 - </DATELINE><BODY>Circle K Corp said it may purchase up
+to three mln shares of its common stock.
+    A company spokesman said Circle K has 52.6 mln shares
+outstanding.
+    Circle K said the purchases would be made on the open
+market
+ Reuter
+&#3;</BODY></TEXT>

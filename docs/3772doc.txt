@@ -1,0 +1,20 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="8675" NEWID="3772">
+<DATE>11-MAR-1987 12:37:58.69</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0892&#31;reute
+r f BC-ASBESTEC-INDUSTRIES-&lt;   03-11 0031</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ASBESTEC INDUSTRIES &lt;ASBS> SETS STOCK SPLIT</TITLE>
+<DATELINE>    PENNSAUKEN, N.J., March 11 - </DATELINE><BODY>Asbestec Industries Inc said
+its board declared a three-for-two stock split, payable April
+17, record April Three.
+ Reuter
+&#3;</BODY></TEXT>

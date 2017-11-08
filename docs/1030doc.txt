@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16350" NEWID="1030">
+<DATE> 3-MAR-1987 09:57:02.21</DATE>
+<TOPICS><D>coffee</D></TOPICS>
+<PLACES><D>zimbabwe</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C T
+&#22;&#22;&#1;f0399&#31;reute
+r f BC-ZIMBABWE-COFFEE-OUTPU   03-03 0099</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ZIMBABWE COFFEE OUTPUT SET TO RISE</TITLE>
+<DATELINE>    HARARE, March 3 - </DATELINE><BODY>Zimbabwean coffee output will reach
+13,000 tonnes this year, up on just over 11,000 tonnes produced
+in 1986, the Commercial Coffee Growers Association said.
+    Administrative Executive Robin Taylor told the domestic
+news agency ZIANA that Zimbabwe earned the equivalent of 33 mln
+U.S. Dlrs from coffee exports last year. He would not say how
+much the country would earn in 1987.
+    Taylor said the 173 commercial coffee growers under his
+association had increased production from 5,632 tonnes in 1980
+to more than 11,000 tonnes in l986.
+ Reuter
+&#3;</BODY></TEXT>

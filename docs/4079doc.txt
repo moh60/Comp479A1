@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="8992" NEWID="4079">
+<DATE>12-MAR-1987 04:34:21.52</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0311&#31;reute
+b f BC-SALOMON-RAISES-SIZE-O   03-12 0051</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SALOMON RAISES SIZE OF CMO TO 350 MLN DLRS</TITLE>
+<DATELINE>    London, March 12 - </DATELINE><BODY>Salomon Brothers international inc said
+it has raised the size of its Collateralised Mortgage
+Obligation TRUST 23 to 350 mln dlrs from the 228 mln dlrs
+announced yesterday.
+    All other terms of the issue remain the same, Salomon said.
+  REUTER
+&#3;</BODY></TEXT>

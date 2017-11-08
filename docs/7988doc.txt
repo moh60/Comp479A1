@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13509" NEWID="7988">
+<DATE>20-MAR-1987 16:34:31.80</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2423&#31;reute
+r f BC-SUPER-VALU-&lt;SVU>-SETS   03-20 0100</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SUPER VALU &lt;SVU> SETS LOWER CAPITAL SPENDING</TITLE>
+<DATELINE>    MINNEAPOLIS, March 20 - </DATELINE><BODY>Super Valu Stores Inc said its
+capital budget for the fiscal year beginning March One is 330
+mln dlrs.
+    It said it spent 363.7 mln dlrs last year, primarily
+because the previous year's budget included funding for such
+major projects as completely new distribution centers.
+    It said the current budget provides for significant
+additions to a number of its new distribution centers, for
+upgrades in computer equipment, for 10 new ShopKo stores and 70
+mln dlrs in financing for the company's independent retailer
+customers.
+ Reuter
+&#3;</BODY></TEXT>

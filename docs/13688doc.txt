@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="2671" NEWID="13688">
+<DATE> 7-APR-1987 09:08:50.25</DATE>
+<TOPICS><D>ship</D></TOPICS>
+<PLACES><D>brazil</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G L M T
+&#22;&#22;&#1;f0708&#31;reute
+u f BC-BRAZIL-SEAMEN'S-STRIK   04-07 0087</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BRAZIL SEAMEN'S STRIKE ENDS</TITLE>
+<DATELINE>    SAO PAULO, April 7 - </DATELINE><BODY>A Brazilian seamen's strike, which
+began on February 27 and has been tapering off for weeks, has
+now ended, a seamen's spokesman said.
+    The spokesman said the seamen had signed an agreement with
+the state-owned Lloyd Brasileiro company on Saturday for a 120
+pct salary rise.
+    The national strike had been tailing off since mid-March as
+seamen struck individual accords with companies. At the height
+of the stoppage, seamen said about 200 ships were strike-bound.
+ Reuter
+&#3;</BODY></TEXT>

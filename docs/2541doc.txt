@@ -1,0 +1,30 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18959" NEWID="2541">
+<DATE> 5-MAR-1987 18:35:30.91</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D><D>brazil</D></PLACES>
+<PEOPLE><D>conable</D></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G L M T
+&#22;&#22;&#1;f0122&#31;reute
+r f AM-conable   03-05 0115</UNKNOWN>
+<TEXT>&#2;
+<TITLE>WORLD BANK PRESIDENT EXPECTS BRAZILIAN DEBT PLAN</TITLE>
+<DATELINE>    WASHINGTON, March 5 - </DATELINE><BODY>World Bank President Barber Conable
+said he was confident Brazil would come up with a debt plan and
+that the current suspension on commercial bank debt payments
+would be temporary.
+    He said Brazil's decision to stop payments on its debt had
+captured the attention of the international community but the
+country should now produce a plan to reform its overheated
+economy.
+    "They have everyone's attention but it must be followed by a
+constructive plan," he said.
+    Conable made his remarks before a group of commercial
+bankers at a meeting sponsored by the Export-Import Bank and
+later informally to reporters.
+ Reuter
+&#3;</BODY></TEXT>

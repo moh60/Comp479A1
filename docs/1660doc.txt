@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18078" NEWID="1660">
+<DATE> 4-MAR-1987 13:42:03.10</DATE>
+<TOPICS><D>gas</D><D>fuel</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F Y
+&#22;&#22;&#1;f0270&#31;reute
+r f BC-TEXAS-EASTERN-&lt;TET>-B   03-04 0068</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TEXAS EASTERN &lt;TET> BUYS PETROLEUM TERMINAL</TITLE>
+<DATELINE>    HOUSTON, March 4 - </DATELINE><BODY>Texas Eastern Corp said it has completed
+the purchase of an idle petroleum products terminal near Norris
+City, Ill., from &lt;Growmark Inc> for undisclosed terms and will
+reopen it in September after remodeling.
+    The company said the terminal will handle leaded and
+unleaded regular gasolines, number two fuel oil, ethanol and
+natural gasoline.
+ Reuter
+&#3;</BODY></TEXT>

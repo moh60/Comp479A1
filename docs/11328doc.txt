@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17390" NEWID="11328">
+<DATE>31-MAR-1987 10:03:51.43</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1110&#31;reute
+r f BC-RADIATION-DISPOSAL-&lt;R   03-31 0079</UNKNOWN>
+<TEXT>&#2;
+<TITLE>RADIATION DISPOSAL &lt;RDIS> TOUTS NEW METHOD</TITLE>
+<DATELINE>    CHARLOTTE, N.C., March 31 - </DATELINE><BODY>Radiation Disposal System Inc
+said tests have been successful in using radioactive materials
+to reduce the volume of low-level organic radioactive waste.
+    The company said the tests were completed at North Carolina
+State University in Raleigh. The tests showed the process
+reduced the volume of radioactive waste without any
+environmental release of radioactive solids or gases, the
+company said.
+ Reuter
+&#3;</BODY></TEXT>

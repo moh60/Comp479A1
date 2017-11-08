@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6940" NEWID="19104">
+<DATE>19-JUN-1987 08:33:14.92</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f0657&#31;reute
+d f BC-MAJOR-VIDEO-&lt;MAJV.O>   06-19 0077</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MAJOR VIDEO &lt;MAJV.O> FILES 1.4 MLN SHR OFFER</TITLE>
+<DATELINE>    LAS VEGAS, June 19 - </DATELINE><BODY>Major Video Corp said it filed a
+registration statement covering a proposed public offering of
+1.4 mln shares of common stock to be sold by the company.
+    It said Rauscher Pierce Refsnes Inc will be managing
+underwriter of the offering, expected in July, with proceeds to
+be used to finance development and possible acquisition of
+additional Major Video Superstores and for working capital.
+ Reuter
+&#3;</BODY></TEXT>

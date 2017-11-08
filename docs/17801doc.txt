@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6139" NEWID="17801">
+<DATE> 1-JUN-1987 16:26:03.13</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2408&#31;reute
+d f BC-PUEBLO-&lt;PII>-TO-REPUR   06-01 0040</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PUEBLO &lt;PII> TO REPURCHASE SHARES</TITLE>
+<DATELINE>    NEW YORK, June 1 - </DATELINE><BODY>Pueblo International Inc, a supermarket
+operator, said it bought 75,000 shares last week in two
+separate transactions from unrelated shareholders as part of
+its share buy back program.
+ Reuter
+&#3;</BODY></TEXT>

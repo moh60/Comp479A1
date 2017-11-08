@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1054" NEWID="16519">
+<DATE>13-APR-1987 13:26:47.50</DATE>
+<TOPICS><D>acq</D><D>livestock</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2002&#31;reute
+d f BC-SWIFT-&lt;SFTPF>-TO-SELL   04-13 0072</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SWIFT &lt;SFTPF> TO SELL SOUTH DAKOTA PORK PLANT</TITLE>
+<DATELINE>    DALLAS, April 13 - </DATELINE><BODY>Swift Independent Packing Co said it
+agreed in principle to sell its Huron, South Dakota pork plant
+to Huron Dressed Beef, for undisclosed terms.
+    Completion of the proposed transaction is subject to
+Huron's ability to hire an experienced work force at
+competitive rates, and receive government approval of the
+purchase and operation of the plant, Swift said.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="19860" NEWID="21576">
+<DATE>19-OCT-1987 00:05:11.26</DATE>
+<TOPICS><D>gold</D></TOPICS>
+<PLACES><D>south-africa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F M 
+&#22;&#22;&#1;f0009&#31;reute
+u f BC-SIX-KILLED-IN-SOUTH-A   10-19 0087</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SIX KILLED IN SOUTH AFRICAN GOLD MINE ACCIDENT</TITLE>
+<DATELINE>    JOHANNESBURG, Oct 19 - </DATELINE><BODY>Six black miners have been killed
+and two injured in a rock fall three km underground at a South
+African gold mine, the owners said on Sunday.
+    &lt;Rand Mines Properties Ltd>, one of South Africa's big six
+mining companies, said in a statement that the accident
+occurred on Saturday morning at the &lt;East Rand Proprietary
+Mines Ltd> mine at Boksburg, 25 km east of Johannesburg.
+    A company spokesman could not elaborate on the short
+statement.
+ REUTER
+&#3;</BODY></TEXT>

@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13953" NEWID="8432">
+<DATE>23-MAR-1987 14:09:36.82</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1996&#31;reute
+r f BC-PACIFICARE-&lt;PHSY>-IN   03-23 0061</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PACIFICARE &lt;PHSY> IN TALKS TO ACQUIRE HMO</TITLE>
+<DATELINE>    CYPRESS, Calif., March 23 - </DATELINE><BODY>PacifiCare Health Systems Inc
+said it is in negotiations to acquire Capital Health Care, a
+40,000 member health maintenance organization servicing Salem
+and Corvallis, Ore.
+    The company said it will not disclose terms or other
+details of the acquisition until negotiations are completed.
+
+ Reuter
+&#3;</BODY></TEXT>

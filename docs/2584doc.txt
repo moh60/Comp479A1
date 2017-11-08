@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19002" NEWID="2584">
+<DATE> 6-MAR-1987 10:01:08.20</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E
+&#22;&#22;&#1;f0176&#31;reute
+d f BC-m-corp   03-06 0022</UNKNOWN>
+<TEXT>&#2;
+<TITLE>&lt;M-CORP INC> RAISES DIVIDEND</TITLE>
+<DATELINE>    MONTREAL, March 6 -
+    </DATELINE><BODY>Semi-annual div 7-1/2 cts vs five cts
+    Pay April nine
+    Record March 26
+ Reuter
+&#3;</BODY></TEXT>

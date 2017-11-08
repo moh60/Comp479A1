@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="21444" NEWID="20849">
+<DATE>20-OCT-1987 20:35:57.04</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>tse</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM AI 
+&#22;&#22;&#1;f3664&#31;reute
+f f BC-Tokyo-stock-index-ris   10-20 0012</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+***<TITLE>Tokyo stock index rises 353.09 points to 22,263.17 after 30 minutes
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

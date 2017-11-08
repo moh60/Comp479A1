@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16031" NEWID="10510">
+<DATE>27-MAR-1987 11:53:58.27&#5;&#5;&#5;F</DATE>
+<UNKNOWN>&#22;&#22;&#1;f1443&#31;reute</UNKNOWN>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+r f BC-KNIGHT-RIDDER-&lt;KRI>-F   03-27 0052</UNKNOWN>
+<TEXT>&#2;
+<TITLE>KNIGHT-RIDDER &lt;KRI> FEBRUARY SALES UP 12 PCT</TITLE>
+<DATELINE>    MIAMI, March 27 - </DATELINE><BODY>Knight-Ridder Inc said total revenues for
+February rose 12 pct, to 108.8 mln dlrs, from 97.1 mln dlrs for
+the same month last year.
+    Year to date, Knight-Ridder said total revenues increased
+10.6 pct, to 213.9 mln dlrs, from 193.5 mln last year.
+ Reuter
+&#3;</BODY></TEXT>

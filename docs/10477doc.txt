@@ -1,0 +1,20 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15997" NEWID="10477">
+<DATE>27-MAR-1987 11:19:49.36&#5;&#5;&#5;F</DATE>
+<UNKNOWN>&#22;&#22;&#1;f1238&#31;reute</UNKNOWN>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D><D>japan</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>tse</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+r f BC-THE-LIMITED-&lt;LTD>-APP   03-27 0045</UNKNOWN>
+<TEXT>&#2;
+<TITLE>THE LIMITED &lt;LTD> APPLIES FOR TOKYO EXCHANGE</TITLE>
+<DATELINE>     COLUMBUS, Ohio, March 27 - </DATELINE><BODY>The Limited Inc said it applied
+to list its common stock on the Tokyo Stock Exchange.
+    The company said the review process will take four months
+and the company expects trading to begin in July.
+ Reuter
+&#3;</BODY></TEXT>

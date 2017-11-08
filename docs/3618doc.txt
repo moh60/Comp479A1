@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="8531" NEWID="3618">
+<DATE>11-MAR-1987 10:12:46.78</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>nasdaq</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0195&#31;reute
+r f BC-AMERICAN-COMMUNICATIO   03-11 0078</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AMERICAN COMMUNICATIONS &lt;ASTVE> GETS EXCEPTION</TITLE>
+<DATELINE>    GAINESVILLE, Fla., March 11 - </DATELINE><BODY>American Communications and
+Television Inc said its common stock will continue to be
+included in the National Association of Securities Dealers'
+NASDAQ system due to an exception from filing requirements,
+which it failed to meet as of February 14.
+    The company said it believes it can meet conditions imposed
+by the NASD for the exception, but there can be no assurance
+that it will do so.
+ Reuter
+&#3;</BODY></TEXT>

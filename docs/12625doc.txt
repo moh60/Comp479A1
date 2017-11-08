@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="NOT-USED" CGISPLIT="PUBLISHED-TESTSET" OLDID="21482" NEWID="12625">
+<DATE> 2-APR-1987 11:48:37.88</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1569&#31;reute
+h f BC-GENERAL-AUTOMATION-&lt;G   04-02 0066</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GENERAL AUTOMATION &lt;GENA> COMPLETES PURCHASE</TITLE>
+<DATELINE>    AHAHEIM, Calif., April 2 - </DATELINE><BODY>General Automation Inc said it
+completed its previously announced acquisition of Parallel
+Computers Inc, of Santa Clara, Calif.
+    The company said the purchase price consisted of 615,000
+General Automation restricted shares together with 5-year
+warrants to buy an aggregate 445,000 additional shares at 5.25
+dlrs each.
+ Reuter
+&#3;</BODY></TEXT>

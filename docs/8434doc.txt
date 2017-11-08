@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13955" NEWID="8434">
+<DATE>23-MAR-1987 14:12:15.73</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1999&#31;reute
+r f BC-DUKE-POWER-&lt;DUK>-BEGI   03-23 0109</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DUKE POWER &lt;DUK> BEGINS LICENSING FOR NEW PLANT</TITLE>
+<DATELINE>    CHARLOTTE, N.C., March 23 - </DATELINE><BODY>Duke Power Co said it began its
+licensing process for a new hydroelectric power plant on Coley
+Creek, near the towns of Cashiers, N.C., and Salem, S.C.
+    Duke said it will decide whether to pursue the project once
+the licensing process is completed.
+    In order to be producing electricity by the turn of the
+century, the company said, it needed to start the four to six
+year licensing process now.
+    If the site is developed to its full potential of 2,100
+megawatts, its cost will be slightly greater than three billion
+dlrs, including projected effects of inflation.
+ Reuter
+&#3;</BODY></TEXT>

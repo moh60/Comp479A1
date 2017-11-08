@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14028" NEWID="8507">
+<DATE>23-MAR-1987 16:17:44.27</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2359&#31;reute
+r f BC-ADVANCED-VIRAL-RESEAR   03-23 0069</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ADVANCED VIRAL RESEARCH PLANT SET FOR APPROVAL</TITLE>
+<DATELINE>    MIAMI BEACH, Fla., March 23 - </DATELINE><BODY>&lt;Advanced Viral Research 
+Corp> said its facility to manufacture reticulose, an anti-
+viral agent, is ready for FDA inspection.
+    The company said it will make a formal request for the
+review by the end of March.
+    The company said if the facility is approved, initial tests
+and trials on AIDS patients will start soon afterward.
+ Reuter
+&#3;</BODY></TEXT>

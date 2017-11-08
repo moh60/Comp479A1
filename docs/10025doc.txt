@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15545" NEWID="10025">
+<DATE>26-MAR-1987 12:40:43.84</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F A
+&#22;&#22;&#1;f1858&#31;reute
+r f BC-FIRST-WISCONSIN-&lt;FWB>   03-26 0055</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FIRST WISCONSIN &lt;FWB> TO BUY MINNESOTA BANK</TITLE>
+<DATELINE>    MILWAUKEE, Wis., March 26 - </DATELINE><BODY>First Wisconsin Corp said it
+plans to acquire Shelard Bancshares Inc for about 25 mln dlrs
+in cash, its first acquisition of a Minnesota-based bank.
+    First Wisconsin said Shelard is the holding company for two
+banks with total assets of 168 mln dlrs.
+    First Wisconsin, which had assets at yearend of 7.1 billion
+dlrs, said the Shelard purchase price is about 12 times the
+1986 earnings of the bank.
+    It said the two Shelard banks have a total of five offices
+in the Minneapolis-St. Paul area.
+ Reuter
+&#3;</BODY></TEXT>

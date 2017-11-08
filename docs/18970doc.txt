@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6719" NEWID="18970">
+<DATE>18-JUN-1987 15:46:29.72</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>nyse</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f4480&#31;reute
+b f BC-NYSE-TO-DISCLOSE-IMBA   06-18 0059</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NYSE TO DISCLOSE IMBALANCES TWICE TOMORROW</TITLE>
+<DATELINE>    NEW YORK, June 18 - </DATELINE><BODY>The New York Stock Exchange said in
+connection with the triple expirations of stock index futures,
+options and individual options it will disclose imbalances in
+50 major stocks tomorrow at 0900 EDT and again at 1530 EDT.
+    The information will be disclosed via financial news
+services.
+ Reuter
+&#3;</BODY></TEXT>

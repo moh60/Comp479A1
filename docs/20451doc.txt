@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="21046" NEWID="20451">
+<DATE>20-OCT-1987 13:25:50.98</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2362&#31;reute
+d f BC-EXOVIR-TO-BUYBACK-UP   10-20 0054</UNKNOWN>
+<TEXT>&#2;
+<TITLE>EXOVIR TO BUYBACK UP TO ONE MLN DLRS OF STOCK</TITLE>
+<DATELINE>    GREAT NECK, N.Y., Oct 20 - </DATELINE><BODY>Exovir Inc &lt;XOVR.O> said its
+board authorized the purchase of up to one mln dlrs of the
+comapny's common stock in open market transactions.
+    The company said based on currrent market conditions, it
+believes the stock is substantially undervalued.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14978" NEWID="9459">
+<DATE>25-MAR-1987 13:29:26.70</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1856&#31;reute
+d f BC-MOHAWK-DATA-&lt;MDS>-AFF   03-25 0048</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MOHAWK DATA &lt;MDS> AFFILIATE IN SERVICE DEAL</TITLE>
+<DATELINE>    HERKIMER, N.Y., March 25 - </DATELINE><BODY>Mohawk Data Sciences Corp's
+Momentum Technologies Inc affiliate said it has signed an
+agreement to provide support and service for all Fivestar
+Electronics Inc branded products nationwide.
+    Value was not disclosed.
+ Reuter
+&#3;</BODY></TEXT>

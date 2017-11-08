@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10473" NEWID="5560">
+<DATE>16-MAR-1987 13:41:32.37</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F
+&#22;&#22;&#1;f3131&#31;reute
+r f BC-loblaw-cos-to-sell   03-16 0076</UNKNOWN>
+<TEXT>&#2;
+<TITLE>LOBLAW COS TO SELL 75 MLN DLRS OF DEBENTURES</TITLE>
+<DATELINE>    TORONTO, March 16 - </DATELINE><BODY>&lt;Loblaw Cos Ltd> said it agreed to sell
+75 mln dlrs of 10 pct debentures, series 8, due April 15, 2007,
+to investment dealers Burns Fry Ltd and McLeod Young Weir Ltd.
+    Loblaw said it plans to file a preliminary prospectus
+relating to the issue in all provinces of Canada.
+    Proceeds will be added to general funds and used to finance
+capital expenditures in 1987, the company said.
+ Reuter
+&#3;</BODY></TEXT>

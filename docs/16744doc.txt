@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1279" NEWID="16744">
+<DATE>13-APR-1987 20:35:53.91</DATE>
+<TOPICS><D>dlr</D><D>money-fx</D></TOPICS>
+<PLACES><D>japan</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f2847&#31;reute
+b f BC-BANK-OF-JAPAN-INTERVE   04-13 0062</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BANK OF JAPAN INTERVENES IN TOKYO AFTER OPENING</TITLE>
+<DATELINE>    TOKYO, April 14 - </DATELINE><BODY>The Bank of Japan intervened in Tokyo to
+buy dollars just after the market opened, dealers said.
+    The dollar opened at 142.05 yen against 142.15/25 in New
+York and 142.50 at the close here yesterday.
+    The bank stepped into the market amid selling pressure from
+interbank dealers, dealers said.
+ REUTER
+&#3;</BODY></TEXT>

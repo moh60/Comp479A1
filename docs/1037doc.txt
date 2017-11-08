@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16357" NEWID="1037">
+<DATE> 3-MAR-1987 10:02:22.46</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0416&#31;reute
+r f BC-DIMIS-&lt;DMS>-EXTENDS-L   03-03 0070</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DIMIS &lt;DMS> EXTENDS LIFE OF WARRANTS BRIEFLY</TITLE>
+<DATELINE>    EATONTOWN, N.J., March 3 - </DATELINE><BODY>Dimis Inc said it has extended
+by five business days the expiration of its common stock
+purchase warrants until March Nine.
+    It said over one mln have already been exercised.  The
+warrants became effective February 17.
+    Holders exercising will receive a new warrant expiring
+March 31 allowing the purchase of half a common share at one
+dlr.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6984" NEWID="19148">
+<DATE>19-JUN-1987 09:50:27.81</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f0875&#31;reute
+r f BC-&lt;DIGITAL-OPTRONICS-CO   06-19 0078</UNKNOWN>
+<TEXT>&#2;
+<TITLE>&lt;DIGITAL OPTRONICS CORP> SETS INITIAL OFFERING</TITLE>
+<DATELINE>    WASHINGTON, June 19 - </DATELINE><BODY>Digital Optronics Corp said it has
+filed for an initial public offering of 850,000 common shares
+at an expected price of six to 6.50 dlrs a share through
+underwriters led by Yorke McCarter Owen and Bartels Inc and
+Norris and Hirshberg Inc.
+    The company said Acme-Cleveland Corp &lt;AMT> and Digital
+Signal Corp are investors in Digital Optronics. which makes
+artifical vision sensors and laser radar.
+ Reuter
+&#3;</BODY></TEXT>

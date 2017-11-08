@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="66" NEWID="11838">
+<DATE> 1-APR-1987 06:41:20.83</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>bahrain</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0467&#31;reute
+r f BC-BAHRAIN-COMMERCIAL-BA   04-01 0112</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BAHRAIN COMMERCIAL BANKS INTRODUCE FIVE-DAY WEEK</TITLE>
+<DATELINE>    BAHRAIN, April 1 - </DATELINE><BODY>Bahrain is the first Gulf Arab country
+to introduce an obligatory five-day working week for its
+commercial banks ending a traditional six-day week.
+    The Bahrain Monetary Agency (BMA) said the regulation
+applied only to the domestic sector comprising about 20
+commercial banks and was not obligatory for the island's
+approximately 70  offshore banks.
+    BMA Banking Services Director, Sulman Bin Khalifa Al
+Khalifa, said commercial banks will now open from Sunday to
+Thursday and added that twenty-one offshore banking units had
+also requested and been given permission for a five-day week.
+ REUTER
+&#3;</BODY></TEXT>

@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9048" NEWID="4135">
+<DATE>12-MAR-1987 08:06:42.75</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0673&#31;reute
+r f BC-TAFT-&lt;TFB>-REJECTS-14   03-12 0100</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TAFT &lt;TFB> REJECTS 145 DLR/SHR OFFER</TITLE>
+<DATELINE>    CINCINNATI, Ohio, March 12 - </DATELINE><BODY>Taft Broadacasting Co said its
+board of directors unanimously decided not to accept the
+pending buyout proposal of &lt;Theta Corp>, an investor group led
+by Dudley Taft.
+    The decision was based on, among other things, the advice
+of its financial advisors, Goldman Sachs and Co, that the offer
+of 145 dlrs per share was inadequate.
+    Taft said the board concluded that the offer failed to
+recognize fully the future propsects of the company and
+directed management to explore alternatives including possible
+financial restructuring.
+ Reuter
+&#3;</BODY></TEXT>

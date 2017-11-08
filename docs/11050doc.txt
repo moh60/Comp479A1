@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17111" NEWID="11050">
+<DATE>30-MAR-1987 15:56:28.52</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2455&#31;reute
+r f BC-APPLE-&lt;AAPL>-EXPANDS   03-30 0088</UNKNOWN>
+<TEXT>&#2;
+<TITLE>APPLE &lt;AAPL> EXPANDS NETWORK CAPABILITIES</TITLE>
+<DATELINE>    CUPERTINO, Calif., March 30 - </DATELINE><BODY>Apple Computer Inc said it
+has extended the ability of the Apple MacIntosh personal
+computer family to commmunicate over &lt;Northern Telecom Ltd's>
+Meridian SL-1 integrated services network.
+    The new capabilities include linking separate AppleTalk
+networks, dial-up remote use of LaserWriter printers, one step
+file transfer and conversion and Memorybank 485, a new 485
+megabyte storage subsystem for use with MacIntosh personal
+computers, Apple said.
+ Reuter
+&#3;</BODY></TEXT>

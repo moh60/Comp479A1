@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12848" NEWID="664">
+<DATE> 2-MAR-1987 14:03:57.76</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0637&#31;reute
+d f BC-STATUS-GAME-&lt;STGM>-TO   03-02 0041</UNKNOWN>
+<TEXT>&#2;
+<TITLE>STATUS GAME &lt;STGM> TO INTRODUCE VIDEO BINGO</TITLE>
+<DATELINE>    LAS VEGAS, March 2 - </DATELINE><BODY>Status Game Corp said it is
+introducing a new Video Bingo game that enables the player to
+buy up to four bingo cards and at the same time play against
+computer simulated bingo games.
+ Reuter
+&#3;</BODY></TEXT>

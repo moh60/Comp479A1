@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6804" NEWID="18966">
+<DATE>18-JUN-1987 15:45:31.26</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f4471&#31;reute
+d f BC-PHILLIPS-PETROLEUM-CO   06-18 0094</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PHILLIPS PETROLEUM CO &lt;P> UNIT BUILDS NEW PLANT</TITLE>
+<DATELINE>    BATTLESVILLE, Okla., June 18 - </DATELINE><BODY>Phillips Petroleum Co said
+its Provesta Corp unit will build a semi-commercial
+fermentation products plant with capacity of more than 3 mln
+lbs a year of Provesteen yeast.
+    The company said construction of the plant is set to begin
+in August with completion due April-May 1988.
+    It said the plant will be built by Jacobs Engineering Group
+Inc &lt;JEC>.
+    The company said the purpose of the plant is to demonstrate
+a scale-up of Phillips and Provesta's fermentation technology.
+ Reuter
+&#3;</BODY></TEXT>

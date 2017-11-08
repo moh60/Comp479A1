@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4313" NEWID="15330">
+<DATE> 8-APR-1987 16:57:17.55</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2589&#31;reute
+r f BC-PAN-AM-&lt;PN>-UNIT-SETS   04-08 0076</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PAN AM &lt;PN> UNIT SETS INTRO FARE TO ATLANTA</TITLE>
+<DATELINE>    NEW YORK, April 8 - </DATELINE><BODY>Pan American Corp's Pan Am World
+Airways said it will begin daily service tomorrow from Atlanta
+to New York, Washington and Miami.
+    The company said it will offer the flights for 49 dlrs
+between April 9 and May 9. The 49 dlr fare is unrestricted, but
+is capacity controlled, Pan Am said.
+    Pan Am said the flights are timed to connect with European-
+and South American-bound flights.
+ Reuter
+&#3;</BODY></TEXT>

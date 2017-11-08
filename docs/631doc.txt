@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12814" NEWID="631">
+<DATE> 2-MAR-1987 13:35:41.73</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F A RM
+&#22;&#22;&#1;f0544&#31;reute
+r f BC-PACCAR-&lt;PCAR>-AND-UNI   03-02 0106</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PACCAR &lt;PCAR> AND UNIT DEBT DOWNGRADED BY S/P</TITLE>
+<DATELINE>    NEW YORK, March 2 - </DATELINE><BODY>Standard and Poor's Corp said it
+downgraded to A-plus from AA-minus about 350 mln dlrs of senior
+debt of PACCAR Inc and its unit PACCAR Financial Corp.
+    S and P said PACCAR has experienced earnings weakness. But
+the company remains profitable and should achieve significant
+cost reductions from its recent shut down of two assembly
+plants, S and P noted.
+    The rating agency pointed out that price discounting has
+eroded some of PACCAR's pricing advantage in the premium,
+custom-built segment of the trucking industry, which is
+PACCAR's traditional market niche.
+ Reuter
+&#3;</BODY></TEXT>

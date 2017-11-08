@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6048" NEWID="17710">
+<DATE> 1-JUN-1987 14:28:10.91</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2067&#31;reute
+r f BC-RAPID-AMERICAN-COMPLE   06-01 0058</UNKNOWN>
+<TEXT>&#2;
+<TITLE>RAPID-AMERICAN COMPLETES K MART &lt;KM> STORE BUY</TITLE>
+<DATELINE>    NEW YORK, June 1 - </DATELINE><BODY>Privately-held Rapid-American Corp said
+it has completed the previously-announced acquisition of 66
+Kresge and Jupiter stores from K Mart Corp.
+    The company said it plans to operate 57 of the stores as
+McCrory Five and 10 variety stores and close the others by the
+end of July.
+ Reuter
+&#3;</BODY></TEXT>

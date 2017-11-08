@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="208" NEWID="11980">
+<DATE> 1-APR-1987 10:45:15.72</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1185&#31;reute
+h f BC-STAODYNAMICS-INC-&lt;SDY   04-01 0053</UNKNOWN>
+<TEXT>&#2;
+<TITLE>STAODYNAMICS INC &lt;SDYN> 4TH QTR NET</TITLE>
+<DATELINE>    LONGMONT, Colo., April 1 -
+    </DATELINE><BODY>Shr three cts vs six cts
+    Net 54,965 vs 106,147
+    Revs 2,124,983 vs 1,915,928
+    Avg shrs 2,206,017 vs 1,878,438
+    Year
+    Shr 14 cts vs eight cts
+    Net 302,388 vs 157,690
+    Revs 7,952,360 vs 7,495,936
+    Avg shrs 2,139,991 vs 2,051,178
+ Reuter
+&#3;</BODY></TEXT>

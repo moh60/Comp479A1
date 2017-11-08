@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="128" NEWID="11900">
+<DATE> 1-APR-1987 09:25:34.30</DATE>
+<TOPICS><D>interest</D></TOPICS>
+<PLACES><D>west-germany</D></PLACES>
+<PEOPLE><D>poehl</D></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0824&#31;reute
+b f BC-BUNDESBANK-WILL-NOT-H   04-01 0067</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BUNDESBANK WILL NOT HOLD PRESS CONFERENCE TOMORROW</TITLE>
+<DATELINE>    FRANKFURT, April 1 - </DATELINE><BODY>The Bundesbank will not hold a press
+conference after its regular fortnightly council meeting
+tomorrow, a spokesman said in answer to enquiries.
+    Bundesbank vice-president Helmut Schlesinger will chair the
+meeting, as president Karl Otto Poehl has a private engagement.
+    The next meeting is scheduled for April 16.
+ REUTER
+&#3;</BODY></TEXT>

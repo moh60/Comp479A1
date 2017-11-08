@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18583" NEWID="2165">
+<DATE> 5-MAR-1987 11:27:25.98</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0629&#31;reute
+d f BC-OGDEN-&lt;OG>-DEVICE-APP   03-05 0110</UNKNOWN>
+<TEXT>&#2;
+<TITLE>OGDEN &lt;OG> DEVICE APPROVED BY U.S. FOR TESTING</TITLE>
+<DATELINE>    NEW YORK, March 5 - </DATELINE><BODY>Ogden Corp said a unit won approval
+from the U.S. Environmental Protection Agency to test a bed
+combuster, a device that burns some hazardous wastes under
+highly controlled conditions.
+    The company said the approval will allow its Ogden
+Environmental Services unit to operate a pilot scale model of
+the device, test the results, and fine tune the instrument to
+burn a number of wastes. Testing begins at the end of March.
+    The wastes include contaminated soils, chlorinated solvents
+such as carbon tetrachloride, non-chlorinated solvents like
+toluene, and distillation residues, it said.
+ Reuter
+&#3;</BODY></TEXT>

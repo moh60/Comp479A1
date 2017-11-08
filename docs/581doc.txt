@@ -1,0 +1,30 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12764" NEWID="581">
+<DATE> 2-MAR-1987 12:53:55.25</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0382&#31;reute
+d f BC-AOI-COAL-CO-&lt;AOI>-4TH   03-02 0082</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AOI COAL CO &lt;AOI> 4TH QTR NET</TITLE>
+<DATELINE>    MIDLAND, Texas, March 2 -
+    </DATELINE><BODY>Oper shr one ct vs one ct
+    Oper net 147,000 vs 40,000
+    Revs 13.5 mln vs 14.1 mln
+    Year
+    Oper shr five cts vs 20 cts
+    Oper net 621,000 vs 2,274,000
+    Revs 54.3 mln vs 56.0 mln
+    NOTE: 1986 net excludes tax credits of 60,000 dlrs in
+quarter and 218,000 dlrs in year.
+    Results reflect acceleration of depreciation on certain
+classes of mining equipment that resulted in the assets being
+fully depreciated in 1986.
+ Reuter
+&#3;</BODY></TEXT>

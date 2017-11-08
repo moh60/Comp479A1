@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14811" NEWID="9290">
+<DATE>25-MAR-1987 09:43:33.15</DATE>
+<TOPICS><D>livestock</D></TOPICS>
+<PLACES><D>usa</D><D>egypt</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G L
+&#22;&#22;&#1;f0932&#31;reute
+u f BC-CCC-ACCEPTS-BONUS-BID   03-25 0104</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CCC ACCEPTS BONUS BID ON CATTLE FOR EGYPT - USDA</TITLE>
+<DATELINE>    WASHINGTON, March 25 - </DATELINE><BODY>The Commodity Credit Corporation has
+accepted a bid for an export bonus to cover the sale of 760
+head of dairy cattle to Egypt, the U.S. Agriculture Department
+said.
+    The delivery period for the cattle is April, 1987-June,
+1988, it said.
+    The bonus of 1,870.00 dlrs per head was made to Esmah
+Nevada Inc and will be paid in the form of commodities from the
+CCC inventory.
+    An additional 7,199 head of dairy cattle are still
+available to Egypt under the Export Enhancement Program
+initiative announced September 12, 1986, the department said.
+ Reuter
+&#3;</BODY></TEXT>

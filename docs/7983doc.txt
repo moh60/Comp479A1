@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13504" NEWID="7983">
+<DATE>20-MAR-1987 16:26:04.90</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2404&#31;reute
+b f BC-JEFFERIES-MAKES-MARKE   03-20 0049</UNKNOWN>
+<TEXT>&#2;
+<TITLE>JEFFERIES MAKES MARKET IN CYCLOPS &lt;CYL></TITLE>
+<DATELINE>    NEW YORK, MARCH 20 - </DATELINE><BODY>Jefferies and Co said it is making a
+market in the stock of Cyclops Corp at 92-1/2 to 95.
+    Cyclops received a sweetened offer of 92.50 dlrs per share
+from Cyacq Acquisition Corp, led by Audio/Video Affiliates Inc
+&lt;AVA>.
+      
+ Reuter
+&#3;</BODY></TEXT>

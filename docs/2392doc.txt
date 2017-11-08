@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18809" NEWID="2392">
+<DATE> 5-MAR-1987 15:27:30.72</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0588&#31;reute
+r f BC-CALNY-&lt;CLNY>-DIRECTOR   03-05 0080</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CALNY &lt;CLNY> DIRECTOR RESIGNS OVER LAWSUIT</TITLE>
+<DATELINE>    SAN FRANCISCO, March 5 - </DATELINE><BODY>Calny Inc director and former
+president and chief executive officer said he is resigning from
+Calny's board because of the company's recently announced
+lawsuit against Pepsico Inc &lt;PEP> and its La Petite
+Boulangerie.
+    In a statement, Larvive said the suit is a "lose-lose"
+situation for Calny, which is the only franchisee for La Petite
+Boulangerie and is the largest francisee of PepsiCo's Taco Bell
+Corp.
+ Reuter
+&#3;</BODY></TEXT>

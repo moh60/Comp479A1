@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12621" NEWID="438">
+<DATE> 2-MAR-1987 10:13:07.54</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>south-korea</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0641&#31;reute
+d f BC-&lt;SAMSUNG-CO>-CALENDAR   03-02 0038</UNKNOWN>
+<TEXT>&#2;
+<TITLE>&lt;SAMSUNG CO> CALENDAR 1986</TITLE>
+<DATELINE>    SEOUL, March 2 -
+    </DATELINE><BODY>Div 50 won vs 50 won
+    Net profit 6.91 billion won vs 6.10 billion
+    Sales 4,275.4 billion vs 3,801,7 billion
+    Note - Company has set 1987 sales target of 4,800 billion
+won.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="2275" NEWID="13274">
+<DATE> 5-APR-1987 23:59:20.45</DATE>
+<TOPICS><D>gnp</D></TOPICS>
+<PLACES><D>south-korea</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0003&#31;reute
+u f BC-SOUTH-KOREA'S-1987-GN   04-05 0116</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SOUTH KOREA'S 1987 GNP SEEN GROWING NINE PCT</TITLE>
+<DATELINE>    SEOUL, April 6 - </DATELINE><BODY>South Korea's gross national product (gnp)
+is forecast to grow by nine pct in 1987, surpassing the
+government's original forecast of eight pct and against a 12.5
+pct rise in 1986, an Economic Planning Board report said.
+    The report reviewing the country's economy in the first
+three months of this year said year-on-year gnp was
+provisionally estimated to have grown by about 12 pct in the
+period, against a 10.5 pct growth in the same 1986 period.
+    Board officials said the gnp rise in the January-March
+period is due largely to increased exports, which totalled 9.34
+billion dlrs against 6.9 billion a year earlier.
+ REUTER
+&#3;</BODY></TEXT>

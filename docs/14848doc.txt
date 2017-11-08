@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="3831" NEWID="14848">
+<DATE> 8-APR-1987 03:57:09.77</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0194&#31;reute
+f f BC-******   04-08 0013</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE> Bundesbank allocates 6.1 billion marks in 28-day repurchase pact at 3.80 pct
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

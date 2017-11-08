@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4645" NEWID="15467">
+<DATE> 9-APR-1987 08:28:52.32</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0638&#31;reute
+r f BC-COAST-SAVINGS-&lt;CSA>-I   04-09 0088</UNKNOWN>
+<TEXT>&#2;
+<TITLE>COAST SAVINGS &lt;CSA> IN TALKS ON BUYING BANK</TITLE>
+<DATELINE>    LOS ANGELES, April 8 - </DATELINE><BODY>Coast Savings and Loan Association
+said it is in talks with the Federal Savings and Loan Insurance
+Corp on the acquisition of Central Savings and Loan Association
+of San Diego.
+    Central, which operates 46 branches, has been under
+management guidance of the FSLIC since May 1985.
+    Coast said the acquisition would give it an entry into the
+San Joaquin Valley market besides strengthening its presence in
+the San Diego, Los Angeles and Orange Counties areas.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="NOT-USED" CGISPLIT="PUBLISHED-TESTSET" OLDID="21574" NEWID="12717">
+<DATE> 2-APR-1987 16:55:43.94</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2598&#31;reute
+r f BC-BELL-PETROLEUM-&lt;BPSIQ   04-02 0097</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BELL PETROLEUM &lt;BPSIQ> DISCUSSES REORGANIZATION</TITLE>
+<DATELINE>    HOUSTON, April 2 - </DATELINE><BODY>Bell Petroleum Services Inc said it will
+continue to talk with Regal International Inc &lt;RGL> about being
+acquired, but maintained it will pursue alternatives as part of
+its reorganization plan.
+    Any plan of reorganization Bell arrives at would be subject
+to approval by the U.S. Bankruptcy Court in Midland, Texas,
+Bell said.
+    The agreement also terminates all current litigation
+between Regal and Bell involving previous reorganization plans,
+in which Regal attempted to acquire Bell, the company said.
+ Reuter
+&#3;</BODY></TEXT>

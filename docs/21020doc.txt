@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20417" NEWID="21020">
+<DATE>19-OCT-1987 15:14:42.04</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>uganda</D><D>egypt</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM 
+&#22;&#22;&#1;f2787&#31;reute
+r f AM-UGANDA-EGYPT   10-19 0108</UNKNOWN>
+<TEXT>&#2;
+<TITLE>EGYPT TO BUILD HOUSING ESTATES AND ROADS FOR UGANDA</TITLE>
+<DATELINE>    KAMPALA, Oct 19 - </DATELINE><BODY>Egypt has agreed to build two housing
+estates and two new roads in Uganda worth a total of 295
+million dollars, Egyptian commercial attache Muhammud el Tahan
+said.
+    He said Egyptian companies will build 8,000 housing units
+in Kampala and reconstruct the roads between Fort Portal and
+Bundibugyo near the Zaire border in western Uganda and between
+Kapchorwa and Swam near Mount Elgon in the east of the country.
+Uganda would repay 70 per cent of the Egyptian Government
+credit to finance the projects in the form of barter goods and
+30 per cent in hard currency, Tahan said.
+ Reuter
+&#3;</BODY></TEXT>

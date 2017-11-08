@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1157" NEWID="16622">
+<DATE>13-APR-1987 15:28:37.18</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2381&#31;reute
+d f BC-DEL-WEBB-&lt;WBB>-UNIT-S   04-13 0065</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DEL WEBB &lt;WBB> UNIT SELLS JOINT VENTURE STAKE</TITLE>
+<DATELINE>    PHOENIX, Ariz., April 13 - </DATELINE><BODY>Del E. Webb Corp said its Del E.
+Webb Properties Corp unit sold one-half of its interest in the
+224-acre Towne Meadows mixed-use development near Mesa and
+Gilbert, Ariz., to Klukwan Inc, an Alaskan native cooperative.
+    Terms of the sale were not disclosed.
+    Webb said it had a one-half interest in the venture.
+ Reuter
+&#3;</BODY></TEXT>

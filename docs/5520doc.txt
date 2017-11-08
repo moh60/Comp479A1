@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10433" NEWID="5520">
+<DATE>16-MAR-1987 12:58:14.23</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2961&#31;reute
+r f BC-RAINIER-&lt;RBAN>-COMPLE   03-16 0086</UNKNOWN>
+<TEXT>&#2;
+<TITLE>RAINIER &lt;RBAN> COMPLETES ACQUISITION</TITLE>
+<DATELINE>    SEATTLE, March 16 - </DATELINE><BODY>Rainier Bancorp said it completed the
+acquisition of Tacoma, Wash.-based United Bank, for 59 mln dlrs
+worth of Rainier stock.
+    United, a savings bank with 607 mln dlrs in assets and 23
+offices, will operate as a wholly-owned subsidiary, Rainier
+said.
+    Rainier, which last month agreed to merge with Security
+Pacific Corp &lt;SPC>, said the United acquisition will increase
+its assets to 9.8 billion dlrs from the 9.2 billion reported at
+the end of 1986.
+ Reuter
+&#3;</BODY></TEXT>

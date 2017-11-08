@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16206" NEWID="886">
+<DATE> 3-MAR-1987 01:01:50.67</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0507&#31;reute
+f f BC-comalco-ltd-1986-net   03-03 0010</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE>comalco ltd 1986 net profit 57.1 mln dlrs vs loss 69.1 mln
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

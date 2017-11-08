@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19208" NEWID="2790">
+<DATE> 6-MAR-1987 14:17:15.88</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>brazil</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G T M
+&#22;&#22;&#1;f0194&#31;reute
+u f AM-BRAZIL-DEBT   03-06 0120</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FUNARO SAYS CREDITORS WILLING TO HELP BRAZIL</TITLE>
+<DATELINE>    BRASILIA, March 6 - </DATELINE><BODY>Finance Minister Dilson Funaro,
+currently on a global tour to seek governmental support for his
+efforts to solve Brazil's 108 billion dlrs foreign debt crisis,
+said creditors have expressed willingness to help.
+    In an interview with the Globo television network,
+transmitted from Rome, Funaro said he had proposed a "four-year
+plan" to the creditors, which would include a rescaling of the
+commitments derived from its debt.
+    After visiting the U.S., England, France, West Germany,
+Italy and Switzerland, Funaro is now on his way to Tokyo, where
+he is to arrive on Sunday for talks with Japanese government
+officials as well as private bankers.
+ Reuter
+&#3;</BODY></TEXT>

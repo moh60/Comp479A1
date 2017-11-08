@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="228" NEWID="12000">
+<DATE> 1-APR-1987 11:03:23.78</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;A RM
+&#22;&#22;&#1;f1286&#31;reute
+r f BC-BORDEN-&lt;BN>-CALLS-4-3   04-01 0067</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BORDEN &lt;BN> CALLS 4-3/8 PCT DEBENTURES</TITLE>
+<DATELINE>    NEW YORK, April 1 - </DATELINE><BODY>Borden Inc said it called for
+redemption on May one its outstanding 605,000 dlrs of 4-3/8 pct
+sinking fund debentures due 1991.
+    It will buy back the debentures at par plus accrued
+interest of 18.23 dlrs for each 1,000 dlr debenture.
+    The trustee is Chase Manhattan Bank N.A. and the paying
+agency is Chemical Bank, the company said.
+ Reuter
+&#3;</BODY></TEXT>

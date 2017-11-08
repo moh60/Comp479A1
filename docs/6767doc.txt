@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11680" NEWID="6767">
+<DATE>18-MAR-1987 15:37:17.62</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f9276&#31;reute
+r f BC-UNION-&lt;UCO>-TO-SELL-U   03-18 0070</UNKNOWN>
+<TEXT>&#2;
+<TITLE>UNION &lt;UCO> TO SELL UNION FLONETICS UNIT</TITLE>
+<DATELINE>    SOUTH NORWALK, Conn., March 18 - </DATELINE><BODY>Union Corp said it agreed
+in principle to sell its Union Flonetics Corp subsidiary to
+Irvin Kaplan, a Houston investor.
+    The unit makes valves and marine specialty equipment for 
+the military. Kaplan is also controlling shareholder of &lt;Hunt
+Valve Co Inc>.
+    The amount of the cash transaction, expected to close in
+April, was not disclosed.
+
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7652" NEWID="18207">
+<DATE> 2-JUN-1987 14:25:18.14</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2219&#31;reute
+d f BC-SCOTT-PAPER-&lt;SPP>-SET   06-02 0067</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SCOTT PAPER &lt;SPP> SETS MODERNIZATION PROGRAM</TITLE>
+<DATELINE>    PHILADELPHIA, June 2 - </DATELINE><BODY>Scott Paper Co said its S.D. Warren
+Co subsidiary will undertake a 60 mln dlr modernization to
+increase capacity at its Muskegon, Mich., paper plant.
+    The company said the plant is the nation's largest producer
+of premium quality coated printing paper.
+    It said the modernization is expected to be completed by
+the fall of 1988.
+ Reuter
+&#3;</BODY></TEXT>

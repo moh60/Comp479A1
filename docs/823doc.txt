@@ -1,0 +1,30 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13006" NEWID="823">
+<DATE> 2-MAR-1987 17:29:23.35</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0217&#31;reute
+d f BC-SOFTWARE-COS-SUPPORT   03-02 0124</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SOFTWARE COS SUPPORT NEW APPLE &lt;AAPL> PRODUCTS</TITLE>
+<DATELINE>    LOS ANGELES, March 2 - </DATELINE><BODY>Over 30 software companies announced
+programs to support Apple Computer Inc's new Macintosh II and
+Macintosh SE computers.
+    At a seminar where the products were introduced, software
+makers such as Ashton-Tate &lt;TATE>, Microsoft Corp &lt;MSFT> and
+Lotus Development Corp &lt;LOTS> announced new or existing
+products now accessible to the Macintosh computers.
+    Lotus announced Lotus Galaxy, software that will deliver
+six programmable business modules, which it said will be
+formally introduced this summer.
+    In addition, National Semiconductor &lt;NSM> said it will
+provide a series of products for the Macintosh computers,
+including a 16-megabyte memory expansion module.
+ Reuter
+&#3;</BODY></TEXT>

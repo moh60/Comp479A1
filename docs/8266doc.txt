@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13787" NEWID="8266">
+<DATE>23-MAR-1987 10:06:21.34</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F
+&#22;&#22;&#1;f0999&#31;reute
+d f BC-CORE-MARK-CHAIRMAN-RE   03-23 0036</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CORE-MARK CHAIRMAN RESIGNS</TITLE>
+<DATELINE>    VANCOUVER, British Columbia, March 23 - </DATELINE><BODY>&lt;Core-Mark
+International Inc> said chairman David E. Gillespie resigned,
+effective March 20, due to health problems.
+    No successor was named.
+
+ Reuter
+&#3;</BODY></TEXT>

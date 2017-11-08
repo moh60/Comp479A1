@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="8207" NEWID="19879">
+<DATE>29-JUN-1987 15:52:18.52</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D><D>japan</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2388&#31;reute
+r f BC-KYOWA-LICENSES-AIDS-T   06-29 0077</UNKNOWN>
+<TEXT>&#2;
+<TITLE>KYOWA LICENSES AIDS TEST FROM MUREX</TITLE>
+<DATELINE>    NORCROSS, Ga., June 29 - </DATELINE><BODY>A subsidiary of (Kyowa Hakko Kogyo
+Co Ltd) and privately-held (Murex Corp) jointly announced they
+signed an agreement giving Kyowa exclusive rights in Japan to
+market certain Murex products to detect AIDS.
+    The companies estimated that Japanese clinicians will
+perform a minimum of 28 mln AIDS tests a year. The Murex
+products must be approved by Japanese authorities before they
+are sold in Japan.
+ Reuter
+&#3;</BODY></TEXT>

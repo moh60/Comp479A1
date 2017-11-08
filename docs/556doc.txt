@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12739" NEWID="556">
+<DATE> 2-MAR-1987 12:29:45.60</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0282&#31;reute
+w f BC-AW-COMPUTER-&lt;AWCSA>-I   03-02 0099</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AW COMPUTER &lt;AWCSA> IN SUPPLY AGREEMENT</TITLE>
+<DATELINE>    MOUNT LAUREL, N.J., March 2 - </DATELINE><BODY>AW Computer Systems Inc said
+it signed an 850,000 dlr agreement with TEC America Inc &lt;TCK>
+to develop and supply intelligent cash register controllers.
+    Under terms of the agreement, AW Computer said it will
+design and manufacture intelligent controllers for resale by
+TEC worldwide.
+    The company said the controller will allow TEC's new FT-70
+point-of-sale terminal system to communicate with IBM PC/AT
+personal computers and compatibles.
+    The controller will be ready for shipment by October, the
+company said.
+ Reuter
+&#3;</BODY></TEXT>

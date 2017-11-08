@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="21247" NEWID="20652">
+<DATE>20-OCT-1987 15:39:25.45</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f3006&#31;reute
+a f BC-CENTRAL-BANKING-SYSTE   10-20 0054</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CENTRAL BANKING SYSTEM INC &lt;CSYS.O> 3RD QTR NET</TITLE>
+<DATELINE>    WALNUT CREEK, Calif, Oct 20 -
+    </DATELINE><BODY>Shr 39 cts vs 27 cts
+    Net 1,713,000 vs 1,207,000
+    Nine Mths
+    Shr 1.13 dlrs vs 70 cts
+    Net 4,935,000 vs 4,352,000
+    Loans 843.2 mln vs 937.2 mln
+    Deposits 954.1 mln vs 1.043 billion
+    Assets 1.09 billion vs 1.19 billion
+ Reuter
+&#3;</BODY></TEXT>

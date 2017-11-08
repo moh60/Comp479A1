@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12766" NEWID="583">
+<DATE> 2-MAR-1987 12:54:17.76</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0385&#31;reute
+h f BC-WESTERN-DIGITAL-&lt;WDC>   03-02 0101</UNKNOWN>
+<TEXT>&#2;
+<TITLE>WESTERN DIGITAL &lt;WDC> ADDS E-MAIL PACKAGE</TITLE>
+<DATELINE>    IRVINE, Calif., March 2 - </DATELINE><BODY>Western Digital Corp said it
+signed a licensing agreement under which it will sell an
+electronic mail software package from &lt;Consumers Software>,
+Gilroy, Calif.
+    Western Digital said the software package, named Network
+Courier, allows computer users operating on a local area
+network to exchange messages and files without having to exit
+their current applications.
+    Western Digital said the agreement marks its intention to
+widen the market for local area network products by selling
+specific applications rather than components.
+ Reuter
+&#3;</BODY></TEXT>

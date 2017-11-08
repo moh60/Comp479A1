@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13271" NEWID="7750">
+<DATE>20-MAR-1987 11:32:45.19</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1336&#31;reute
+r f BC-FEDDERS-&lt;FJQ>-OFFERS   03-20 0076</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FEDDERS &lt;FJQ> OFFERS PREFERRED STOCK</TITLE>
+<DATELINE>    PEAPACK, N.J., March 20 - </DATELINE><BODY>Fedders Corp said an offering of
+1,500,000 shares of 1.75 dlr convertible exchangeable preferred
+stock is under way at 25 dlrs per share through underwriters
+led by Bear Stearns Cos Inc &lt;BSC>.
+    The preferred is convertible at any time into common stock
+at 9.50 dlrs a share and is exchangeable after two years at
+Fedders' option for seven pct convertible subordinated
+debentures due 2012.
+ Reuter
+&#3;</BODY></TEXT>

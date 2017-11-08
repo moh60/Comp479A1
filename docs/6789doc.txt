@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11702" NEWID="6789">
+<DATE>18-MAR-1987 15:56:42.73</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f9339&#31;reute
+r f BC-SIEBE-COMPLETES-ACQUI   03-18 0095</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SIEBE COMPLETES ACQUISTION OF RANCO &lt;RNI></TITLE>
+<DATELINE>    NEW YORK, March 18 - </DATELINE><BODY>&lt;Siebe Plc> of the U.K. said it
+completed the acquisition of Ranco Inc, following approval by
+Ranco shareholders.
+    According to the terms of the deal, Ranco holders will
+receive 40 dlrs a share in cash. Ranco will be transferred to
+one of Siebe's U.S. subsidiaries, Robertshaw Controls Co.
+    Ranco produces automatic control devices and power controls
+that regulate temperature, pressure, time sequencing, current,
+fluid flow and humidity. Its Teccor unit makes a specialized
+line of semiconductors.
+ Reuter
+&#3;</BODY></TEXT>

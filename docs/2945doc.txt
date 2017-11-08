@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19363" NEWID="2945">
+<DATE> 6-MAR-1987 18:50:29.96</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0829&#31;reute
+d f BC-CONTINENTAL-FEDERAL-&lt;   03-06 0099</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CONTINENTAL FEDERAL &lt;CONF> HOLDER TO SELL STAKE</TITLE>
+<DATELINE>    OKLAHOMA CITY, March 6 - </DATELINE><BODY>Continental Federal Savings and
+Loan Association said it was told that an estate holding 38 pct
+of its stock plans to sell its stake at a premium over the
+current stock price.
+   Continental said the estate of Harold Vernon and certain
+parties have signed a letter of intent to sell the stock for
+12.25 dlrs a share, for a total of about 6,538,000 dlrs.
+Continental's stock closed at seven in over-the-counter
+trading.
+    The thrift said the buyer is &lt;BAC Inc>, a corporation
+acting for certain unindentified parties.
+ Reuter
+&#3;</BODY></TEXT>

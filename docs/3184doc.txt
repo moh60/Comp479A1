@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19606" NEWID="3184">
+<DATE> 9-MAR-1987 12:03:09.75</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0731&#31;reute
+u f BC-BANKAMERICA-&lt;BAC>-COM   03-09 0066</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BANKAMERICA &lt;BAC> COMPLETES MORTGAGE UNIT SALE</TITLE>
+<DATELINE>    SAN FRANCISCO, March 9 - </DATELINE><BODY>BankAmerica Corp's Bank of America
+unit said it completed the previously announced sale of
+BankAmerica Finance Ltd to &lt;Bank of Ireland> for an expected
+pre-tax gain of 23 mln dlrs.
+    BankAmerica Finance provides residential mortgages in south
+east England.
+    Its total assets at the end of 1986 were about 1.2 mln
+dlrs.
+ Reuter
+&#3;</BODY></TEXT>

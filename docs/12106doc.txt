@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="334" NEWID="12106">
+<DATE> 1-APR-1987 12:50:44.36</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;E F
+&#22;&#22;&#1;f1729&#31;reute
+r f BC-UNICORP-VOTING-STAKE   04-01 0068</UNKNOWN>
+<TEXT>&#2;
+<TITLE>UNICORP VOTING STAKE HIKED IN UNION ENTERPRISES</TITLE>
+<DATELINE>    TORONTO, April 1 - </DATELINE><BODY>&lt;Union Enterprises Ltd> said holders of
+7.2 mln or 80 pct of its class A series one preferred shares
+requested to retract their shares under terms of the issue,
+thus raising &lt;Unicorp Canada Corp>'s voting stake in Union to
+58 pct from 50.
+    Union said it paid about 90 mln dlrs on April 1 for the
+retraction, using existing credit lines.
+ Reuter
+&#3;</BODY></TEXT>

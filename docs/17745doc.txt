@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6083" NEWID="17745">
+<DATE> 1-JUN-1987 15:02:18.90</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2189&#31;reute
+r f BC-INTERNATIONAL-RESEARC   06-01 0103</UNKNOWN>
+<TEXT>&#2;
+<TITLE>INTERNATIONAL RESEARCH &lt;IRDV.O> SEES HIGHER NET</TITLE>
+<DATELINE>    MATTAWAN, Mich., June 1 - </DATELINE><BODY>International Research and
+Development Corp's earnings per share in its second quarter
+should be higher than the three cts a share earned in the 1986
+period, president Francis X. Wazeter told shareholders.
+    He said share earnings in this year's second period will be
+about the same as the six cts a share earned in the 1987 first
+period.
+    Wazeter said earnings per share this year should be higher
+than the 15 cts a share made last year, and revenues from
+studies in progress will be higher than last year's revenues of
+16.1 mln dlrs.
+ Reuter
+&#3;</BODY></TEXT>

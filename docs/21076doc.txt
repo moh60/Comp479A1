@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20361" NEWID="21076">
+<DATE>19-OCT-1987 14:38:08.85</DATE>
+<TOPICS><D>crude</D></TOPICS>
+<PLACES><D>venezuela</D><D>usa</D><D>iran</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM Y V 
+&#22;&#22;&#1;f2605&#31;reute
+b f BC-VENEZWELA~-SEES-MARKE   10-19 0065</UNKNOWN>
+<TEXT>&#2;
+<TITLE>VENEZUELA SEES OIL STABILITY DESPITE GULF ATTACK</TITLE>
+<DATELINE>     CARACAS, Oct 19 - </DATELINE><BODY>Venezuelan Energy Minister Arturo
+Hernandez Grisanti said he foresaw market stability in the
+price of crude, despite growing tension in the Gulf augmented
+by the U.S. military attack on an Iranian oil platform.
+    He told a news conference the market continues to be stable
+despite all the military action in the Gulf.
+ Reuter
+&#3;</BODY></TEXT>

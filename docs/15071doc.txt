@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4054" NEWID="15071">
+<DATE> 8-APR-1987 11:26:59.29</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1424&#31;reute
+r f BC-FREEPORT-&lt;FTX>-TO-ACC   04-08 0083</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FREEPORT &lt;FTX> TO ACCRUE INTANGIBLE COSTS</TITLE>
+<DATELINE>    NEW ORLEANS, La., April 8 - </DATELINE><BODY>Freeport-McMoRan Inc said it
+has decided to begin accruing a portion of its estimate of the
+intanmgible drilling and development cost recapture amount as a
+cost in determining payments to be made to Freeport-McMoRan Oil
+and Gas Royalty Trust &lt;PMR> unitholders.
+    Freeport said this is expected to reduce monthly payments
+by about two cts per unit starting with the distribution
+payable July 10 to holders of record May 29.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13357" NEWID="7836">
+<DATE>20-MAR-1987 13:00:38.34</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1757&#31;reute
+r f BC-NEW-ENGLAND-ELECTRIC   03-20 0062</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NEW ENGLAND ELECTRIC SYSTEM &lt;NES> TWO MONTHS NET</TITLE>
+<DATELINE>    WESTBOROUGH, Mass., March 20 - </DATELINE><BODY>ended February
+    Shr 69 cts vs 66 cts
+    Net 37.7 mln vs 34.9 mln
+    Revs 255.8 mln vs 288.8 mln
+    Avg shrs 54.7 mln vs 53.2 mln
+    12 mths ended Feb
+    Shr 3.23 dlrs vs 3.17 dlrs
+    Net 174.8 mln vs 166.3 mln
+    Revs 1.4 billion vs 1.5 billion
+    Avg shrs 54.1 mln vs 52.4 mln
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14440" NEWID="8919">
+<DATE>24-MAR-1987 13:50:09.46</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1993&#31;reute
+d f BC-GORDON-JEWELRY-&lt;GOR>   03-24 0048</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GORDON JEWELRY &lt;GOR> COMPLETES SALE OF UNIT</TITLE>
+<DATELINE>    HOUSTON, March 24 - </DATELINE><BODY>Gordon Jewelry Corp said it has
+completed the previously-announced sale of the assets of its
+catalog showroom stores to privately-held Carlisle Capital Corp
+for an undisclosed amount of cash and notes in excess of book
+value.
+ Reuter
+&#3;</BODY></TEXT>

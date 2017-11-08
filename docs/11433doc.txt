@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17495" NEWID="11433">
+<DATE>31-MAR-1987 11:50:18.88</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1629&#31;reute
+r f BC-CPL-REAL-ESTATE-&lt;CNTR   03-31 0037</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CPL REAL ESTATE &lt;CNTRS> CUTS REGULAR PAYOUT</TITLE>
+<DATELINE>    DAVENPORT, Iowa, March 31 -
+    </DATELINE><BODY>Qtrly div 26 cts vs 27 cts prior
+    Payable April 27
+    Record April 10
+    NOTE: full name of company is cpl real estate trust
+investment.
+ 
+ Reuter
+&#3;</BODY></TEXT>

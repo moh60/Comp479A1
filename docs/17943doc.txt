@@ -1,0 +1,30 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7388" NEWID="17943">
+<DATE> 2-JUN-1987 06:59:30.51</DATE>
+<TOPICS><D>interest</D></TOPICS>
+<PLACES><D>japan</D></PLACES>
+<PEOPLE><D>nakasone</D><D>sumita</D></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM V
+&#22;&#22;&#1;f0535&#31;reute
+b f BC-NAKASONE,-SUMITA-AGRE   06-02 0077</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NAKASONE, SUMITA AGREE RATE CUT NOT APPROPRIATE</TITLE>
+<DATELINE>    TOKYO, June 2 - </DATELINE><BODY>Prime Minister Yasuhiro Nakasone today
+agreed with Bank of Japan governor Satoshi Sumita that a
+further cut in the discount rate was not appropriate at
+present, central bank sources said.
+    They told Reuters the two discussed the subject at a
+routine meeting.
+    Sumita told Nakasone he did not feel a rate cut was
+appropriate and Nakasone expressed his understanding, the
+sources said.
+    Currency dealers have speculated that Japan and West
+Germany might come under pressure at next week's Venice summit
+to cut interest rates to boost their economies.
+    Nakasone, but not Sumita, is due to attend the summit.
+ REUTER
+&#3;</BODY></TEXT>

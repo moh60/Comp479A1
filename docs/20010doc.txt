@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20605" NEWID="20010">
+<DATE>20-OCT-1987 02:18:33.93</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>tse</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM AI 
+&#22;&#22;&#1;f0105&#31;reute
+f f BC-Tokyo-stock-index-slu   10-20 0010</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE>Tokyo stock index slumps 14.9 pct to close at 21,910.08
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

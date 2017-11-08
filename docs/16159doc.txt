@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="694" NEWID="16159">
+<DATE>13-APR-1987 06:10:03.00</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>uk</D><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0378&#31;reute
+u f BC-BLUE-ARROW-TO-BUY-U.S   04-13 0116</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BLUE ARROW TO BUY U.S. RICHARDS COMPANIES</TITLE>
+<DATELINE>    LONDON, April 13 - </DATELINE><BODY>&lt;Blue Arrow Plc> said it had agreed
+terms to acquire a group of U.S. Companies collectively known
+as the &lt;Richards Companies>, which specialise in executive
+recruitment and management consultancy on personnel matters.
+    The total consideration will be 29 mln U.S. Dlrs of which
+50 pct will be payable in cash and 50 pct by the issue of 1.36
+mln new ordinary shares in Blue Arrow.
+    The Richard Companies made a pre-tax profit of 3.6 mln dlrs
+in the year to end-1986, on turnover of 7.1 mln dlrs with net
+tangible assets at the end of 1986 of 3.4 mln dlrs.
+    Blue Arrow shares were trading 9p lower at 670 this
+morning.
+ REUTER
+&#3;</BODY></TEXT>

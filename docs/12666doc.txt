@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="NOT-USED" CGISPLIT="PUBLISHED-TESTSET" OLDID="21523" NEWID="12666">
+<DATE> 2-APR-1987 13:41:01.24</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1982&#31;reute
+r f BC-MCDOWELL-&lt;ME>-TO-GET   04-02 0107</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MCDOWELL &lt;ME> TO GET QUALIFIED AUDIT</TITLE>
+<DATELINE>    NASHVILLE, Tenn., April 2 - </DATELINE><BODY>McDowell Enterprises Inc said
+its auditors have decided to qualify their opinion on 1986
+financial statements due to questions about the company's
+ability to continue as a going concern.
+    McDowell said it will file its annual report for 1986 by
+April 15, after applying for an extension, and will report a
+loss for the year of about six mln dlrs after a substantial
+writedown of assets and an increase in costs associated with
+its withdrawal from the construction business.
+    In 1985, McDowell lost 2,152,000 dlrs before a 1,240,000
+dlr loss from discontinued operations.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15677" NEWID="10156">
+<DATE>26-MAR-1987 16:17:12.67</DATE>
+<TOPICS><D>interest</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM V
+&#22;&#22;&#1;f2535&#31;reute
+b f BC-N.Y.-BANK-DISCOUNT-BO   03-26 0058</UNKNOWN>
+<TEXT>&#2;
+<TITLE>N.Y. BANK DISCOUNT BORROWINGS NIL IN WEEK</TITLE>
+<DATELINE>    NEW YORK, March 26 - </DATELINE><BODY>The eight major New York City banks
+did not borrow from the Federal Reserve in the week ended
+Wednesday March 25, a Fed spokesman said.
+    It was the second half of a two-week bank statement period
+that ended on Wednesday. The banks did not borrow in the first
+week of the period.
+ Reuter
+&#3;</BODY></TEXT>

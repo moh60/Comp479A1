@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4601" NEWID="15423">
+<DATE> 9-APR-1987 07:08:40.41</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>uk</D><D>japan</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0420&#31;reute
+b f BC-JAPAN-DEVELOPMENT-BAN   04-09 0084</UNKNOWN>
+<TEXT>&#2;
+<TITLE>JAPAN DEVELOPMENT BANK ISSUES 150 MLN DLR EUROBOND</TITLE>
+<DATELINE>    LONDON, April 9 - </DATELINE><BODY>The Japan Development Bank is issuing a
+150 mln dlr eurobond due May 20, 1994 paying eight pct and
+priced at 101-1/8 pct, lead manager Bank of Tokyo International
+Ltd said.
+    The non-callable bond is guaranteed by Japan and is
+available in denominations of 5,000 dlrs.
+    The selling concession is 1-1/4 pct while management and
+underwriting combined pays 5/8 pct.
+    The payment date is May 20. Listing will be in London.
+ REUTER
+&#3;</BODY></TEXT>

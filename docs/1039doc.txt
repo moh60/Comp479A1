@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16359" NEWID="1039">
+<DATE> 3-MAR-1987 10:07:42.19</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0445&#31;reute
+d f BC-COMMUNITY-BANK-&lt;CBSI>   03-03 0060</UNKNOWN>
+<TEXT>&#2;
+<TITLE>COMMUNITY BANK &lt;CBSI> TO MAKE ACQUISITION</TITLE>
+<DATELINE>    SYRACUSE, N.Y., March 3 - </DATELINE><BODY>Community Bank System Inc said it
+has entered into a definitive agreement to acquire Nichols
+Community Bank for 2,800,000 dlrs in common stock.
+    It said subject to approval by Nichols shareholders and
+regulatory authorities, the transaction is expected to be
+completed later this year.
+ Reuter
+&#3;</BODY></TEXT>

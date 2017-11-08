@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20051" NEWID="21385">
+<DATE>19-OCT-1987 10:38:48.10</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1312&#31;reute
+r f BC-GEORGIA-GULF-CORP-&lt;GG   10-19 0043</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GEORGIA GULF CORP &lt;GGLF.O> 3RD QTR NET</TITLE>
+<DATELINE>    ATLANTA, Oct 19 -
+    </DATELINE><BODY>Shr 1.92 dlrs vs 58 cts
+    Net 27.9 mln vs 9,480,000
+    Sales 176.4 mln vs 137.9 mln
+    Nine mths
+    Shr 3.87 dlrs vs 1.69 dlrs
+    Net 56.7 mln vs 27.6 mln
+    Sales 505.6 mln vs 438.5 mln
+ Reuter
+&#3;</BODY></TEXT>

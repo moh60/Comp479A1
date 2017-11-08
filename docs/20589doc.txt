@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="21184" NEWID="20589">
+<DATE>20-OCT-1987 14:52:48.11</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2801&#31;reute
+r f BC-VIACOM-&lt;VIA>-EXECUTIV   10-20 0055</UNKNOWN>
+<TEXT>&#2;
+<TITLE>VIACOM &lt;VIA> EXECUTIVE RESIGNS</TITLE>
+<DATELINE>    NEW YORK, Oct 20 - </DATELINE><BODY>Viacom Inc said Gordon E. Belt has
+resigned as vice president, chief financial officer of Viacom
+Interntional Inc, effective Nov 13, 1987.
+    The company said a successor will be announced shortly.
+    Viacom said Belt has not announced immediate plans after
+his resignation.
+   
+ Reuter
+&#3;</BODY></TEXT>

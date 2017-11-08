@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="873" NEWID="16338">
+<DATE>13-APR-1987 11:09:32.23</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1318&#31;reute
+u f BC-PRIME-COMPUTER-&lt;PRM>   04-13 0050</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PRIME COMPUTER &lt;PRM> TO INTRODUCE NEW MACHINES</TITLE>
+<DATELINE>    NATICK, Mass., April 13 - </DATELINE><BODY>Prime Computer Inc said tomorrow
+it will introduce two new high-end superminicomputers.
+    The company said the machines will significantly expand the
+performance of its 50 Series product line.  It gave no further
+details.
+ Reuter
+&#3;</BODY></TEXT>

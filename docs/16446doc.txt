@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="981" NEWID="16446">
+<DATE>13-APR-1987 12:36:04.86</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>east-germany</D><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1759&#31;reute
+r f BC-DHL-WORLDWIDE-EXPRESS   04-13 0060</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DHL WORLDWIDE EXPRESS BROADENS NETWORK</TITLE>
+<DATELINE>    REDWOOD CITY, Calif., April 13 - </DATELINE><BODY>&lt;DHL Worldwide Express>
+added 35 overseas and 10 domestic service centers to its
+delivery network.
+    The private air express company said one of the additions
+includes the German Democratic Republic (East Germany),
+bringing to eight the number of Eastern Bloc countries it
+serves.
+   
+ Reuter
+&#3;</BODY></TEXT>

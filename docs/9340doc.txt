@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14861" NEWID="9340">
+<DATE>25-MAR-1987 10:41:53.91</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>nyse</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1162&#31;reute
+r f BC-BEN-EQUITY-HOLDINGS-&lt;   03-25 0105</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BEN EQUITY HOLDINGS &lt;BH> SUSPENDED ON NYSE</TITLE>
+<DATELINE>    NEW YORK, March 25 - </DATELINE><BODY>The New York Stock Exchange said
+trading in the units of BenEquity Holdings, a California
+Limited Partnership, was suspended before the opening and an
+application will be made to the Securities and Exchange
+Commission to delist the issue.
+    The Exchange said it normally considers suspending and
+removing from its list the securities of a company when fewer
+than 600,000 units are held by the public.
+    As a result of a tender offer by &lt;Renouf Corp
+International>, which expired March 24, 1987, fewer than
+600,000 units of BenEquity remained publicly held.
+   
+ Reuter
+&#3;</BODY></TEXT>

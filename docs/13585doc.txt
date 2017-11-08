@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="BYPASS" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="2568" NEWID="13585">
+<DATE> 7-APR-1987 08:01:50.31</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C L
+&#22;&#22;&#1;f0514&#31;reute
+u f BC-OMAHA-HOGS-SEEN-OFF-0   04-07 0047</UNKNOWN>
+<TEXT>&#2;
+<TITLE>OMAHA HOGS SEEN OFF 0.50 DLR - PRIVATE SOURCES</TITLE>
+<DATELINE>    Omaha, April 7 - Clear/45 degrees - </DATELINE><BODY>Hog prices was expected
+0.50 dlr lower on estimated receipts of 2,700 head, private
+sources said. Top seen at 50.00 dlrs per cwt.
+    There were reports that the west had an overrun of hogs
+yesterday.
+ Reuter
+&#3;</BODY></TEXT>

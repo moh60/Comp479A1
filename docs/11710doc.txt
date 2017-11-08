@@ -1,0 +1,38 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17772" NEWID="11710">
+<DATE>31-MAR-1987 16:56:52.15</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2708&#31;reute
+r f BC-CONSUMERS-POWER-&lt;CMS>   03-31 0091</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CONSUMERS POWER &lt;CMS> TO PAY UNION CARBIDE &lt;UK></TITLE>
+<DATELINE>    JACKSON, Mich., March 31 - </DATELINE><BODY>Consumers Power Co said it will
+pay Union Carbide Corp 39.2 mln dlrs in settlement of a suit
+that began in July 1982.
+    Consumers Power said the settlement will cause it to take a
+one-time loss of six mln dlrs, or seven cts a share, in its
+first quarter.
+    The impact will be less than the payment to Union Carbide
+because Consumers Power set up a reserve to account for the
+settlement, the tax effect of the settlement, and "some
+book-keeping," a spokesman said.
+    Union Carbide had sought 162.5 mln dlrs in damages from
+Consumers Power.
+    Half of the settlement will be paid immediately in cash.
+The remainder will be paid in real estate.
+    The dispute involved a long-term contract which Consumers
+Power entered into in 1980 to buy residual fuel from Union
+Carbide. In 1982 Consumers Power stopped taking oil under the
+contract, claiming it was excused from buying more oil under
+certain provisions of the accord.
+    Union Carbide said it plans to resell the real estate,
+located in northern Michigan, according to Consumers Power.
+ Reuter
+&#3;</BODY></TEXT>

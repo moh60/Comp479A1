@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20091" NEWID="21345">
+<DATE>19-OCT-1987 11:06:52.09</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1459&#31;reute
+d f BC-INLAND-&lt;IAD>-PLANS-TO   10-19 0063</UNKNOWN>
+<TEXT>&#2;
+<TITLE>INLAND &lt;IAD> PLANS TO PROCEED WITH PLANT</TITLE>
+<DATELINE>    CHICAGO, Oct 19 - </DATELINE><BODY>Inland Steel Co said it and the USS
+Division of USX Corp &lt;X> are continuing to pursue plans for
+construction of a state-of-the-art line for continuous
+prepainting of steel coils.
+    It said the proposed line will primarily serve the
+appliance market.
+    It said a location for the new plant has yet to be
+selected.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1690" NEWID="17049">
+<DATE>23-APR-1987 21:38:26.85</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f3120&#31;reute
+u f BC-QANTAS-TO-BUY-EXTENDE   04-23 0104</UNKNOWN>
+<TEXT>&#2;
+<TITLE>QANTAS TO BUY EXTENDED RANGE BOEING 767 AIRCRAFT</TITLE>
+<DATELINE>    SYDNEY, April 24 - </DATELINE><BODY>State-owned &lt;Qantas Airways Ltd> said it
+has placed a firm order for a single Boeing Co &lt;BA.N> 767-300ER
+(extended range) aircraft for delivery in August 1988 at a cost
+of 150 mln Australian dlrs, including spares.
+    A statement said it also has options to buy six more and
+will decide in mid-1987 whether to use engines made by United
+Technologies Corp &lt;UTX> unit Pratt and Whitney or General
+Electric Co &lt;GE>.
+    The 767-300ER can carry more cargo and passengers and is
+more fuel-efficient than the 767-200, six of which Qantas has
+in service.
+ REUTER
+&#3;</BODY></TEXT>

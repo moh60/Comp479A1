@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7183" NEWID="19347">
+<DATE>19-JUN-1987 14:23:54.21</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1964&#31;reute
+r f BC-MARS-GRAPHIC-&lt;WMD>-SE   06-19 0050</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MARS GRAPHIC &lt;WMD> SEES HIGHER 2ND QTR SALES</TITLE>
+<DATELINE>    WESTVILLE, N.J., June 19 - </DATELINE><BODY>Mars Graphic Services Inc said
+it expects sales for the second quarter ending August 31 to
+exceed year ago sales of 3.7 mln dlrs for the same period.
+    In the year-ago quarter the company earned 191,000 dlrs or
+18 cts a share.
+ Reuter
+&#3;</BODY></TEXT>

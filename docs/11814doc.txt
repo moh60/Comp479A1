@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="42" NEWID="11814">
+<DATE> 1-APR-1987 05:10:12.21</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>west-germany</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0324&#31;reute
+r f BC-NIXDORF-EXPANDS-BOARD   04-01 0109</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NIXDORF EXPANDS BOARD TO INCLUDE FINANCE DIRECTOR</TITLE>
+<DATELINE>    PADERBORN, West Germany, April 1 - </DATELINE><BODY>Nixdorf Computer AG
+&lt;NIXG.F> said its supervisory board has appointed Sven Kado to
+the new position of deputy member of the managing board,
+increasing the number of board members to seven.
+    Kado, 42, will be responsible for finance and purchasing.
+Until now finance has been the responsibility of Klaus Luft,
+who was named chairman of the board following the death of
+company founder Heinz Nixdorf in March 1986.
+    Kado, whose appointment takes effect from today, joined
+Nixdorf in 1984 and was previously the company's head of
+controlling and purchasing.
+ REUTER
+&#3;</BODY></TEXT>

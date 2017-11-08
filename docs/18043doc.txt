@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7488" NEWID="18043">
+<DATE> 2-JUN-1987 10:57:14.48</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>south-africa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C M
+&#22;&#22;&#1;f1281&#31;reute
+u f BC-SOUTH-AFRICA-NAMES-1,   06-02 0100</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SOUTH AFRICA SAYS 1,500 STILL DETAINEES</TITLE>
+<DATELINE>    CAPE TOWN, June 2 - </DATELINE><BODY>South Africa said the number of people
+it was detaining without trial has dropped to 1,500, far fewer
+than previous official figures during the past year of
+emergency rule.
+    A government spokesman said the latest set of names,
+presented to parliament, included all current detainees who had
+been held for over a month. Previous lists have named up to
+8,500 people.
+    The official figure was supported by civil rights groups
+who said many detainees had been freed in recent weeks,
+possibly to empty cells for a new government crackdown.
+ Reuter
+&#3;</BODY></TEXT>

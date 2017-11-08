@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10430" NEWID="5517">
+<DATE>16-MAR-1987 12:53:25.26</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2940&#31;reute
+u f BC-AMERICAN-SECURITY-&lt;AS   03-16 0041</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AMERICAN SECURITY &lt;ASEC> BUYOUT COMPLETED</TITLE>
+<DATELINE>    BALTIMORE, March 16 - </DATELINE><BODY>Maryland National Corp &lt;MDNT> said it
+has completed the acquisition of American Security Corp in an
+exchange of 0.81 Maryland share for each of American's 12 mln
+shares outstanding.
+    The company said the mandatory 30-day review by the U.S.
+Justice Department was completed today.
+    Maryland National said American Security shareholders will
+be entitled to receive the 32-1/2 ct per share Maryland
+National regular quarterly dividend that is payable March 31 to
+holders of record today.
+ Reuter
+&#3;</BODY></TEXT>

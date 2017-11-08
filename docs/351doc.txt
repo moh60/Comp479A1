@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12534" NEWID="351">
+<DATE> 2-MAR-1987 07:39:41.35</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>japan</D></PLACES>
+<PEOPLE><D>sumita</D><D>nakasone</D></PEOPLE>
+<ORGS><D>oecd</D></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0152&#31;reute
+r f BC-OECD-SAYS-JAPAN-RESOL   03-02 0098</UNKNOWN>
+<TEXT>&#2;
+<TITLE>OECD SAYS JAPAN RESOLVED TO STIMULATE DEMAND</TITLE>
+<DATELINE>    TOKYO, March 2 - </DATELINE><BODY>Japan appears resolved to encourage
+domestic demand for its goods instead of relying on exports to
+support its economy, Jean-Claude Paye, Director General of the
+Organization for Economic Cooperation and Development (OECD),
+told a news conference.
+    Paye has been in Japan exchanging views on problems
+confronting the world economy and the role of the OECD.
+    He met with Prime Minister Yasuhiro Nakasone, Foreign
+Minister Tadashi Kuranari, Bank of Japan Governor Satoshi
+Sumita and other high-ranking Japanese officials.
+ Reuter
+&#3;</BODY></TEXT>

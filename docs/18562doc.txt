@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6314" NEWID="18562">
+<DATE>18-JUN-1987 07:27:14.56</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>hong-kong</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2655&#31;reute
+r f BC-DAIRY-FARM-SUSPENDS-S   06-18 0071</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DAIRY FARM SUSPENDS SHARE TRADING IN HONG KONG</TITLE>
+<DATELINE>    HONG KONG, June 18 - </DATELINE><BODY>Trading in shares of &lt;Dairy Farm
+International Holdings Ltd> was suspended after the morning
+session, the stock exchange said.
+    It gave no explanation of the move but the company
+announced it will hold a press conference on a major corporate
+development this afternoon.
+    The stock last traded at 5.40 H.K. Dlrs, down 10 cents from
+yesterday's close.
+ REUTER
+&#3;</BODY></TEXT>

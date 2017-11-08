@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14908" NEWID="9387">
+<DATE>25-MAR-1987 11:50:17.79</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>italy</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1438&#31;reute
+h f BC-ITALY'S-STET-FORMS-TE   03-25 0091</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ITALY'S STET FORMS TELECOMMUNICATIONS FIRM</TITLE>
+<DATELINE>    ROME, March 25 - </DATELINE><BODY>State holding company &lt;Societa Finanziaria
+Telefonica Spa> (STET) said it was forming a new
+telecommunications company, &lt;Teleo Spa> that intends to offer
+electronic mail systems among its services.
+    Teleo plans initial investments of 18 billion lire and
+estimates annual sales could reach 90 billion lire within five
+years, STET officials said at a news conference.
+   STET will have a 10 pct stake in the new firm, with the
+remaining share capital held by two STET subsidiaries.
+ Reuter
+&#3;</BODY></TEXT>

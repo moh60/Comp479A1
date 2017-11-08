@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10658" NEWID="5745">
+<DATE>16-MAR-1987 18:15:53.26</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f3848&#31;reute
+d f BC-TECHNICLONE-INTERNATI   03-16 0086</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TECHNICLONE INTERNATIONAL SETS JOINT VENTURE</TITLE>
+<DATELINE>    SANTA ANA, Calif., March 16 - </DATELINE><BODY>&lt;Techniclone International>
+said it has entered a joint venture with Seeds of Tomorrow to
+apply its electrogene process to developing new or improved
+plant varieties.
+    The process, which has a patent pending, was developed
+originally for use in human cancer.
+    The joint venture will address genetic transformation of
+cotton and tomatoes.
+    The company said it is also negotiating such ventures with
+several other plant companies.
+ Reuter
+&#3;</BODY></TEXT>

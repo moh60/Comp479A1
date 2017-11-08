@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16481" NEWID="1161">
+<DATE> 3-MAR-1987 12:17:44.97</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0032&#31;reute
+d f BC-MODULAR-TECHNOLOGY-&lt;M   03-03 0055</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MODULAR TECHNOLOGY &lt;MTIK> NAMES PRESIDENT</TITLE>
+<DATELINE>    CHICAGO, March 3 - </DATELINE><BODY>Modular Technology Inc said its board of
+directors elected Frederick H. Goldberger, a business
+consultant, to be president of the company.
+    Modular Technology's former president, Harvey T. Lyon, was
+named senior managing director and will continue on the board.
+ Reuter
+&#3;</BODY></TEXT>

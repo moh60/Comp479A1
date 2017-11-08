@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="5611" NEWID="68">
+<DATE>26-FEB-1987 16:08:33.15</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0949&#31;reute
+r f BC-&lt;COFAB-INC>-BUYS-GULF   02-26 0066</UNKNOWN>
+<TEXT>&#2;
+<TITLE>&lt;COFAB INC> BUYS GULFEX FOR UNDISCLOSED AMOUNT</TITLE>
+<DATELINE>    HOUSTON, Feb 26 - </DATELINE><BODY>CoFAB Inc said it acquired &lt;Gulfex Inc>,
+a Houston-based fabricator of custom high-pressure process
+vessels for the energy and petrochemical industries.
+    CoFAB said its group of companies manufacture specialized
+cooling and lubricating systems for the oil and gas,
+petrochemical, utility, pulp and paper and marine industries.
+ Reuter
+&#3;</BODY></TEXT>

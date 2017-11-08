@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7596" NEWID="18151">
+<DATE> 2-JUN-1987 13:24:42.48</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1995&#31;reute
+d f BC-SALOMON-&lt;SB>-ANNOUNCE   06-02 0105</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SALOMON &lt;SB> ANNOUNCES GLOBAL STOCK INDEXES</TITLE>
+<DATELINE>    NEW YORK, June 2 - </DATELINE><BODY>Salomon Brothers Inc announced formation
+of global stock indexes designed to make it easy for portfolio
+money managers to invest all over the world.
+    "This is a way to put money into the Pacific or Europe
+quickly," Laszlo Birinyi, Salomon vice president Laszlo Birinyi
+told a news conference.
+    The stock index products were developed in cooperation with
+the Frank Russell Co, a pension fund consulting firm.
+    Birinyi said he would not be surprised if exchanges create
+futures and options on the indexes. "Somebody will - If they
+don't, we will," he said.
+ Reuter
+&#3;</BODY></TEXT>

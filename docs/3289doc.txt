@@ -1,0 +1,39 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19711" NEWID="3289">
+<DATE> 9-MAR-1987 14:10:49.86</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G L
+&#22;&#22;&#1;f0281&#31;reute
+d f BC-SEN.-ZORINSKY'S-DEATH   03-09 0142</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SEN. ZORINSKY'S DEATH RAISES POLICY QUESTIONS</TITLE>
+<DATELINE>    WASHINGTON, March 9 - </DATELINE><BODY>With the death of Sen. Edward
+Zorinsky (D-Neb.), Midwestern grain farmers have lost an ally
+who from his senior post on the Senate Agriculture Committee
+had fought hard against cutbacks in farm benefits.
+    Zorinsky's passing could trim the Democrats' majority in
+the Senate and change the makeup of the Senate farm panel.
+    Zorinsky, who died of a heart attack last Friday, was the
+second-ranking Democrat on the Senate Agriculture Committee and
+chairman of the crucial subcommittee on agricultural production
+and stabilization of prices.
+    Once a Republican, Zorinsky was fiscal conservative. But he
+was an outspoken critic of Reagan administration proposals to
+trim target prices, and at the time of his death was girding
+himself for another push for mandatory supply controls.
+    If Melcher decides, however, to continue as chairman of the
+subcommittee on agricultural research, conservation, forestry
+and general legislation, other Democrats would have a crack at
+the vacated chairmanship.
+    By order of seniority, those senators would be David Pryor
+(Ark.), David Boren (Okla.), Howell Heflin (Ala.) and Tom
+Harkin (D-Iowa), a forceful advocate of mandatory supply
+controls.
+ Reuter
+&#3;</BODY></TEXT>

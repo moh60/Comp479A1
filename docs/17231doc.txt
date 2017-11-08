@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="NOT-USED" CGISPLIT="PUBLISHED-TESTSET" OLDID="21853" NEWID="17231">
+<DATE>27-APR-1987 02:37:14.92</DATE>
+<TOPICS><D>money-fx</D><D>dlr</D></TOPICS>
+<PLACES><D>hong-kong</D><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0079&#31;reute
+b f BC-BALDRIGE-SAYS-FURTHER   04-27 0057</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BALDRIGE SAYS FURTHER DOLLAR FALL NOT PRODUCTIVE</TITLE>
+<DATELINE>    HONG KONG, April 27 - </DATELINE><BODY>The U.S. Secretary of Commerce
+Malcolm Baldrige said a further decline of the dollar would not
+be productive.
+    He told reporters here that Treasury Secretary James Baker
+"feels, and I feel the same way, that a further dollar fall
+would be counterproductive."
+    Baldrige also said governments cannot determine long-term
+currency exchange rates and that currencies would eventually
+reflect underlying economic fundamentals.
+    The U.S. Commerce Secretary is in Hong Kong after stops in
+Peking and Seoul on an Asian trade tour.
+ REUTER
+&#3;</BODY></TEXT>

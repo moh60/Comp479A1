@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4593" NEWID="15415">
+<DATE> 9-APR-1987 06:42:58.51</DATE>
+<TOPICS><D>sugar</D></TOPICS>
+<PLACES><D>uk</D><D>india</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;C T
+&#22;&#22;&#1;f0378&#31;reute
+u f BC-CARGILL-CONFIRMS-WHIT   04-09 0075</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CARGILL CONFIRMS WHITE SUGAR SALE TO INDIA</TITLE>
+<DATELINE>    LONDON, April 9 - </DATELINE><BODY>London-based trader Cargill (U.K.) Ltd
+confirmed it sold one cargo of white sugar to India for
+shipment April 15/May 15 at yesterday's tender.
+    Price details were not immediately available but some
+traders suggested business had been done around 220 dlrs a
+tonne cif.
+    India tendered for one or two cargoes of white sugar. There
+was no specific requirement on shipping period.
+ REUTER
+&#3;</BODY></TEXT>

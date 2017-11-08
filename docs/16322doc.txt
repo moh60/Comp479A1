@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="857" NEWID="16322">
+<DATE>13-APR-1987 10:52:07.05</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>switzerland</D><D>italy</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f1235&#31;reute
+b f BC-INTERFINCO-SETS-50-ML   04-13 0075</UNKNOWN>
+<TEXT>&#2;
+<TITLE>INTERFINCO SETS 50 MLN SFR FIVE-YEAR CONVERTIBLE</TITLE>
+<DATELINE>    ZURICH, April 13 - </DATELINE><BODY>Interfinco S.A. Of Luxembourg is
+launching a 50 mln Swiss franc five-year convertible bond with
+an indicated coupon of 2-1/2 pct, lead manager S.G. Warburg
+Soditic SA said.
+    The issue, guaranteed by Cofide-Compagnia Finanziaria de
+Benedetti SpA of Turin, Italy, is convertible into shares of
+&lt;CIR SpA - Compagnie Industriali Riunite> at an indicated
+premium of five pct.
+ REUTER
+&#3;</BODY></TEXT>

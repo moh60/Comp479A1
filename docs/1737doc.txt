@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18155" NEWID="1737">
+<DATE> 4-MAR-1987 15:13:16.73</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0539&#31;reute
+d f BC-TEXAS-INSTRUMENTS-&lt;TX   03-04 0065</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TEXAS INSTRUMENTS &lt;TXN> EXECUTIVE TO RETIRE</TITLE>
+<DATELINE>    DALLAS, March 4 - </DATELINE><BODY>Texas Instruments Incorp said its
+executive vice president Grant Dove will take an early
+retirement effective July.
+    The company said Dove will become chairman and chief
+executive officer of &lt;Microelectronics and Computer Technology
+Corp> of Austin. He will have worked 28 years with Texas
+Instruments, the company said.
+ Reuter
+&#3;</BODY></TEXT>

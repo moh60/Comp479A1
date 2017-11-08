@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="8757" NEWID="3844">
+<DATE>11-MAR-1987 13:53:23.59</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0176&#31;reute
+r f BC-KEYSTONE-CAMERA-&lt;KYC>   03-11 0051</UNKNOWN>
+<TEXT>&#2;
+<TITLE>KEYSTONE CAMERA &lt;KYC> TO DISTRIBUTE WATCHES</TITLE>
+<DATELINE>    CLIFTON, N.J., March 11 - </DATELINE><BODY>Keystone Camera Products Corp
+said it has agreed to be the United States distribution manager
+for Le Clip clip-on fashion watches.
+    Keystone said its agreement with &lt;Le Clip S.A.> of
+Switzerland is effective through March 31, 1990.
+ Reuter
+&#3;</BODY></TEXT>

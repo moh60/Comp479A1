@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13258" NEWID="7737">
+<DATE>20-MAR-1987 11:17:12.05</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F
+&#22;&#22;&#1;f1263&#31;reute
+r f BC-cogeco   03-20 0074</UNKNOWN>
+<TEXT>&#2;
+<TITLE>COGECO BUYS FM STATION, PLANS SHARE ISSUE</TITLE>
+<DATELINE>    MONTREAL, March 20 - </DATELINE><BODY>&lt;Cogeco Inc> said it agreed to acquire
+100 pct of Quebec City radio station CJMF-FM and will issue
+subordinated voting shares of the company to cover a portion of
+the purchase price.
+    It said the purchase price and other terms of the
+transaction have not been disclosed. The transaction is subject
+to approval of the Canadian Radio-Television and
+Telecommunications Commission.
+ Reuter
+&#3;</BODY></TEXT>

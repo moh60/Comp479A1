@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15266" NEWID="9745">
+<DATE>26-MAR-1987 05:07:36.83</DATE>
+<TOPICS><D>money-fx</D></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0304&#31;reute
+b f BC-U.K.-MONEY-MARKET-LIQ   03-26 0069</UNKNOWN>
+<TEXT>&#2;
+<TITLE>U.K. MONEY MARKET LIQUIDITY POSITION EXPECTED FLAT</TITLE>
+<DATELINE>    LONDON, March 26 - </DATELINE><BODY>The Bank of England said it has forecast
+a flat position in the money market today.
+    Among the main factors, maturing assistance and take-up of
+treasury bills will drain 545 mln stg and a rise in note
+circulation 35 mln stg but the outflow will be offset by 490
+mln stg exchequer transactions and bankers balances above
+target 70 mln.
+ REUTER
+&#3;</BODY></TEXT>

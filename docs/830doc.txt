@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13013" NEWID="830">
+<DATE> 2-MAR-1987 17:35:06.14</DATE>
+<TOPICS><D>money-supply</D></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0236&#31;reute
+f f BC-sydney---austn-annual   03-02 0011</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE>australian annual broad money supply growth 10.3 pct in January
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

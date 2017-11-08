@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19369" NEWID="2951">
+<DATE> 6-MAR-1987 19:28:08.12</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0845&#31;reute
+u f BC-JUSTICE-ASKS-U.S.-DIS   03-06 0090</UNKNOWN>
+<TEXT>&#2;
+<TITLE>JUSTICE ASKS U.S. DISMISSAL OF TWA (TWA) FILING</TITLE>
+<DATELINE>    WASHINGTON, March 6 - </DATELINE><BODY>The Justice Department told the
+Transportation Department it supported a request by USAir 
+Group that the DOT dismiss an application by Trans World
+Airlines Inc for approval to take control of USAir.
+    "Our rationale is that we reviewed the application for
+control filed by TWA with the DOT and ascertained that it did
+not contain sufficient information upon which to base a
+competitive review," James Weiss, an official in Justice's
+Antitrust Division, told Reuters.
+ Reuter
+&#3;</BODY></TEXT>

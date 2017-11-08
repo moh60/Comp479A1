@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7894" NEWID="19566">
+<DATE>29-JUN-1987 07:27:32.06</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>south-korea</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;V 
+&#22;&#22;&#1;f0573&#31;reute
+u f BC-SOUTH-KOREA-RULING-PA   06-29 0084</UNKNOWN>
+<TEXT>&#2;
+<TITLE>S KOREA RULING PARTY SEEKS DIRECT ELECTION</TITLE>
+<DATELINE>    SEOUL, June 29 - </DATELINE><BODY>South Korea's ruling party will seek a
+direct presidential election to solve an acute political crisis
+in the country, a party spokesman said.
+    The Democratic Justice Party will ask President Chun Doo
+Hwan to accept opposition demands for a direct poll to end the
+current social turmoil, he said.
+    The party will also urge Chun to allow an amnesty for top
+dissident Kim Dae-jung and an immediate release of most
+political prisoners. -
+ REUTER
+&#3;</BODY></TEXT>

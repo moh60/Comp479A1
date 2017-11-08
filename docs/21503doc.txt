@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="19933" NEWID="21503">
+<DATE>19-OCT-1987 07:47:05.18</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f0654&#31;reute
+u f BC-TRAFALGAR-HOUSE-BUYS   10-19 0110</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TRAFALGAR HOUSE BUYS U.S. BUILDER FOR 20 MLN DLRS</TITLE>
+<DATELINE>    LONDON, Oct 19 - </DATELINE><BODY>Trafalgar House Plc &lt;TRAF.L> said it has
+acquired the entire share capital of &lt;Capital Homes Inc> of the
+U.S. For 20 mln dlrs in cash.
+    Capital Homes builds single family homes in the Washington
+D.C. Area and is also active as a land developer both for its
+own use and for sale to other builders.
+    In the financial year to end February, 1987, Capital
+recorded pre-tax profits of 3.7 mln dlrs on a turnover of 58
+mln dlrs from the sale of 421 homes. Capital has a land bank of
+some 2,600 units and in the current year the company expects to
+sell 500 homes, Trafalgar House said.
+ REUTER
+&#3;</BODY></TEXT>

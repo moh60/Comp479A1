@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="315" NEWID="12087">
+<DATE> 1-APR-1987 12:36:20.70</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1684&#31;reute
+r f BC-PERIPHERAL-SYSTEMS-&lt;P   04-01 0076</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PERIPHERAL SYSTEMS &lt;PSIX> AGRESS TO BUY COMPANY</TITLE>
+<DATELINE>    PORTLAND, Ore., April 1 - </DATELINE><BODY>Peripheral Systems Inc said it
+agreed in principle to acquire the outstanding shares of
+&lt;Nucell Inc>.
+    The agreement calls for an exchange of one share of
+Peripheral for each share of Nucell, subject to approval by
+both companies' boards, it said.
+    Peripheral said its increased involvement in the
+development of Nucell's nuclear battery technology made the
+merger practical.
+ Reuter
+&#3;</BODY></TEXT>

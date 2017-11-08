@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11189" NEWID="6276">
+<DATE>17-MAR-1987 16:28:11.26</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f6534&#31;reute
+d f BC-HEALTHVEST-&lt;HVT>-BUYS   03-17 0053</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HEALTHVEST &lt;HVT> BUYS TENNESSEE MEDICAL COMPLEX</TITLE>
+<DATELINE>    AUSTIN, Texas, March 17 - </DATELINE><BODY>Healthvest said it acquired the
+Eastwood Hospital medical complex in Memphis from Healthcare
+International Inc for 50 mln dlrs cash.
+    Healthcare International will continue to operate the
+hospital under a lease agreement, the company said.
+ Reuter
+&#3;</BODY></TEXT>

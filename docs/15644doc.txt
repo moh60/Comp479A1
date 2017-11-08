@@ -1,0 +1,33 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4821" NEWID="15644">
+<DATE> 9-APR-1987 11:30:06.08</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1352&#31;reute
+r f BC-US-SPRINT-COMPLETES-S   04-09 0092</UNKNOWN>
+<TEXT>&#2;
+<TITLE>US SPRINT COMPLETES SECOND FIBER OPTIC ROUTE</TITLE>
+<DATELINE>    KANSAS CITY, Mo., April 9 - </DATELINE><BODY>US Sprint, a joint venture of
+GTE Corp &lt;GTE> and United Telecommunications Inc &lt;UT>, said its
+second transcontinental fiber-optic route now is fully
+operational.
+    "The cable placement was completed in mid-March abd
+commercial traffic began moving on the route April 1," Charles
+Skibo, US Sprint president, said.
+    The new Southern route network runs from Los Angeles to
+Fairfax, S.C., US Sprint said, adding it plans a third route in
+the North from New York to Seattle.
+    US Sprint completed its first route, known as the Central
+route, in October 1986.
+    The company also said its customer base now exceeds five
+mln customers. When it was formed in June 1986 it had 2.7 mln
+customers, US Sprint said.
+ Reuter
+&#3;</BODY></TEXT>

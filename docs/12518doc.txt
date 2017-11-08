@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="1594" NEWID="12518">
+<DATE> 2-APR-1987 09:15:38.54</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0901&#31;reute
+h f BC-BRITISH-TELECOM-TO-SE   04-02 0113</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BRITISH TELECOM TO SELL EQUIPMENT IN NORTH AMERICA</TITLE>
+<DATELINE>    LONDON, April 2 - </DATELINE><BODY>British Telecommunications Plc &lt;BTY.L>
+will market electronic data transmission equipment of its own
+design in North America, a spokesman said.
+    The spokesman told Reuters the equipment, known as
+fourth-generation modems, will be sold by &lt;Mitel Datacom Inc>,
+a wholly-owned subsidiary of Canada's Mitel Corp &lt;MLT.TO>, in
+which British Telecom has a controlling stake.
+    He declined to comment on the volume of projected sales. He
+said the modems, already available in Europe where they hold a
+majority share of the market, were the first of their kind to
+comply with the latest international standards.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19423" NEWID="3005">
+<DATE> 9-MAR-1987 05:19:27.56</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>switzerland</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0442&#31;reute
+u f BC-KEIAISHA-ISSUING-12-M   03-09 0060</UNKNOWN>
+<TEXT>&#2;
+<TITLE>KEIAISHA ISSUING 12 MLN SWISS FRANC NOTES</TITLE>
+<DATELINE>    ZURICH, March 9 - </DATELINE><BODY>Keiaisha Co Ltd of Tokyo is issuing 12
+mln Swiss francs of straight notes due March 26, 1992 with a
+4-5/8 pct coupon, lead manager Gotthard Bank said.
+    The notes can be called from September 26, 1989 at 101-1/4,
+declining semi-annually.
+    The issue is guaranteed by the Kyowa Bank Ltd.
+ REUTER
+&#3;</BODY></TEXT>

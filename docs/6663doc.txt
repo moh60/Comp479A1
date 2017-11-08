@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11576" NEWID="6663">
+<DATE>18-MAR-1987 13:35:21.21</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A RM
+&#22;&#22;&#1;f8903&#31;reute
+r f BC-NOBLE-BROADCAST-GROUP   03-18 0053</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NOBLE BROADCAST GROUP TO SELL DEBENTURES</TITLE>
+<DATELINE>    NEW YORK, March 18 - </DATELINE><BODY>Noble Broadcast Group Inc said it
+filed with the Securities and Exchange Commission a
+registration statement covering a 50 mln dlr issue of senior
+subordinated debentures due 1999.
+    The company named PaineWebber Inc as sole underwriter of
+the offering.
+ Reuter
+&#3;</BODY></TEXT>

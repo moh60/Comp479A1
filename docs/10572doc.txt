@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16093" NEWID="10572">
+<DATE>27-MAR-1987 13:13:43.85&#5;&#5;&#5;F</DATE>
+<UNKNOWN>&#22;&#22;&#1;f1809&#31;reute</UNKNOWN>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+r f BC-ALLEGHENY-LUDLUM-FILE   03-27 0110</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ALLEGHENY LUDLUM FILES INITIAL PUBLIC OFFERING</TITLE>
+<DATELINE>    PITTSBURGH, March 27 - </DATELINE><BODY>&lt;Allegheny Ludlum Corp> said it
+filed with the Securities and Exchange Commission for an
+initial public offering of 6,265,000 common shares.
+    The company said it is offering 4.4 mln primary shares and
+765,000 secondary shares in the U.S., and 1.1 mln primary
+shares overseas. Goldman Sachs and Co will manage the U.S.
+offering and Goldman Sachs International Corp will manage the
+international side of the offering.
+    Proceeds from the sale will be used to reduce debt. The
+company makes specialty steel and metels and said it is one of
+the largest U.S. makers of stainless steel.
+
+ Reuter
+&#3;</BODY></TEXT>

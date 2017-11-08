@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14240" NEWID="8719">
+<DATE>24-MAR-1987 09:14:37.67</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F
+&#22;&#22;&#1;f0850&#31;reute
+r f BC-bce-development-plans   03-24 0114</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BCE DEVELOPMENT PLANS PREFERRED SHARE OFFERING</TITLE>
+<DATELINE>    VANCOUVER, British Columbia, March 24 - </DATELINE><BODY>&lt;BCE Development
+Corp>, 69 pct owned by Bell Canada Enterprises Inc &lt;BCE>, said
+it filed a preliminary prospectus for an issue of cumulative
+redeemable retractable class A preference shares, series I, and
+the offering is expected to be made in early April.
+    It did not elaborate on the amount or price of the issue.
+    The company said the shares will carry a special dual
+currency feature that will provide a hedge against a decline in
+value of the Canadian dollar against the U.S. dollar.
+    Holders will be able to elect receiving dividend payments,
+paid at a set rate, in either currency.
+ Reuter
+&#3;</BODY></TEXT>

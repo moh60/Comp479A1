@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17733" NEWID="11671">
+<DATE>31-MAR-1987 16:17:40.16</DATE>
+<TOPICS><D>veg-oil</D><D>grain</D><D>wheat</D><D>cotton</D></TOPICS>
+<PLACES><D>usa</D><D>ecuador</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G
+&#22;&#22;&#1;f2596&#31;reute
+u f BC-U.S.-CREDITS-FOR-ECUA   03-31 0109</UNKNOWN>
+<TEXT>&#2;
+<TITLE>U.S. CREDITS FOR ECUADOR SWITCHED TO VEG OIL</TITLE>
+<DATELINE>    WASHINGTON, March 31 - </DATELINE><BODY>The Commodity Credit Corporation
+(CCC) switched five mln dlrs in credit guarantees to Ecuador to
+provide for more sales of U.S. vegetable oil, the U.S.
+Agriculture Department said.
+    The credit guarantees were previously earmarked for sales
+of U.S. cotton, feedgrains and wheat.
+    The action reduces the guarantee lines previously
+authorized for sales of cotton from 1.5 mln dlrs to 500,000
+dlrs, for feedgrains from four mln to two mln and for wheat
+from 45 mln dlrs to 43 mln dlrs and increases coverage for
+vegetable oil sales from two mln to seven mln dlrs, the
+department said.
+ Reuter
+&#3;</BODY></TEXT>

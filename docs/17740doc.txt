@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6078" NEWID="17740">
+<DATE> 1-JUN-1987 14:59:50.00</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2174&#31;reute
+d f BC-NATIONAL-HEALTHCARE-&lt;   06-01 0050</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NATIONAL HEALTHCARE &lt;NHC> OPENS CENTER</TITLE>
+<DATELINE>    MURFREESBORO, Tenn., June 1 - </DATELINE><BODY>National HealthCorp LP said
+it has opened a 120-bed nursing care and phsical therapy center
+in Pensacola, Fla., called Palm Gardens of Pensacola.
+    It said it manages the center for owner Florida
+Convalescent Centers Inc.       
+ Reuter
+&#3;</BODY></TEXT>

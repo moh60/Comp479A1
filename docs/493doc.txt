@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12676" NEWID="493">
+<DATE> 2-MAR-1987 11:21:31.19</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0943&#31;reute
+r f BC-MCI-&lt;MCIC>-GETS-PENNE   03-02 0104</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MCI &lt;MCIC> GETS PENNEY &lt;JCP> CONTRACT</TITLE>
+<DATELINE>    RYE BROOK, N.Y., MArch 2 - </DATELINE><BODY>MCI Communications Corp said it
+has received a contract to provide telecommunications services
+to J.C. Penney Co Inc to accomodate much of Penney's nationwide
+vboice and information transfer requirements, via a privatge
+satellite network.
+    It said video teleconferencing will be provided at five
+locations, data will be transmitted among seven locations and
+voice service will be provided to 350 locations.  The company
+said Penney's use of the services is expected top exceed four
+mln call minutes per month of voice traffic.
+    Value was not disclosed.
+ Reuter
+&#3;</BODY></TEXT>

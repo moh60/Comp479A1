@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20575" NEWID="20862">
+<DATE>19-OCT-1987 20:12:08.60</DATE>
+<TOPICS><D>money-fx</D><D>dlr</D><D>yen</D></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM AI 
+&#22;&#22;&#1;f3497&#31;reute
+f f BC-Dollar-opens-sharply   10-19 0013</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE>Dollar opens sharply higher in Tokyo at 143.55 yen (Monday close 141.35)
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

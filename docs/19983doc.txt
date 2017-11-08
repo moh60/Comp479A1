@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="8311" NEWID="19983">
+<DATE>29-JUN-1987 19:47:58.65</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2856&#31;reute
+b f BC-/GENERAL-ELECTRIC-&lt;GE   06-29 0101</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GENERAL ELECTRIC &lt;GE> TO BUY KRAFT &lt;KRA> UNIT</TITLE>
+<DATELINE>    STAMFORD, Conn., June 29 - </DATELINE><BODY>General Electric Co's GE Credit
+Corp said it agreed to buy all of the capital stock of Kraft
+Inc's wholly owned subsidiary D and K Financial Corp.
+    Terms of the acquisition were not disclosed.
+    D and K, with assets of more than one billion dlrs, is one
+of the leading U.S. companies involved in the leasing of fleets
+of cars, according to GE Credit.
+    Jim Ahtes, a spokesman for GE Credit's outside public
+relations firm, Manning, Selvage and Lee Inc, emphasized that
+the terms of the acquisition had not yet been approved.
+
+ Reuter
+&#3;</BODY></TEXT>

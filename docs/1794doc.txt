@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18212" NEWID="1794">
+<DATE> 4-MAR-1987 16:11:26.92</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0724&#31;reute
+r f BC-BROWING-FERRIS-&lt;BFI>   03-04 0033</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BROWING-FERRIS &lt;BFI> DECLARES 2-FOR-1 SPLIT</TITLE>
+<DATELINE>    HOUSTON, March 4 - </DATELINE><BODY>Browning-Ferris Industires Inc said its
+board declared a two-for-one stock split payable April 24 to
+holders of record March 31.
+     
+ Reuter
+&#3;</BODY></TEXT>

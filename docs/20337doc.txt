@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20932" NEWID="20337">
+<DATE>20-OCT-1987 11:28:21.03</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1621&#31;reute
+r f BC-WARNER-COMMUNICATIONS   10-20 0044</UNKNOWN>
+<TEXT>&#2;
+<TITLE>WARNER COMMUNICATIONS INC &lt;WCI> 3RD QTR NET</TITLE>
+<DATELINE>    NEW YORK, Oct 20 -
+    </DATELINE><BODY>Shr 41 cts vs 28 cts
+    Net 66.2 mln vs 41.8 mln
+    Revs 824.1 mln vs 693.3 mln
+    Nine mths
+    Shr 1.50 dlrs vs 87 cts
+    Net 236.1 mln vs 123.8 mln
+    Revs 2.38 billion vs 2.02 billion
+ Reuter
+&#3;</BODY></TEXT>

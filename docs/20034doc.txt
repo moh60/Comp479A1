@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20629" NEWID="20034">
+<DATE>20-OCT-1987 04:53:02.87</DATE>
+<TOPICS><D>ship</D></TOPICS>
+<PLACES><D>bahrain</D><D>iran</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;Y 
+&#22;&#22;&#1;f0289&#31;reute
+u f BC-IRANIAN-TANKER-REPORT   10-20 0079</UNKNOWN>
+<TEXT>&#2;
+<TITLE>IRANIAN TANKER REPORTS SIGHTING MINE IN GULF</TITLE>
+<DATELINE>    BAHRAIN, Oct 20 - </DATELINE><BODY>An Iranian shuttle tanker reported
+spotting a floating mine in the central Gulf on Tuesday about
+50 miles west of Lavan Island, regional shipping sources said.
+    The Khark III, owned by the National Iranian Tanker Co,
+gave the position of the mine as 27 degrees 14 minutes north,
+52.06 east.
+    There was no indication of measures being taken against the
+mine, which is in Iranian territorial waters.
+ REUTER
+&#3;</BODY></TEXT>

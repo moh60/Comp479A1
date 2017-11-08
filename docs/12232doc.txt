@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="460" NEWID="12232">
+<DATE> 1-APR-1987 14:51:37.47</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2163&#31;reute
+h f BC-ELXSI-&lt;ELXSF>-WINS-MC   04-01 0061</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ELXSI &lt;ELXSF> WINS MCDONNELL DOUGLAS &lt;MD> ORDER</TITLE>
+<DATELINE>    SAN JOSE, Calif., April 1 - </DATELINE><BODY>Elxsi Ltd said it sold three
+computer systems worth four mln dlrs to Douglas Aircraft Co, a
+unit of McDonnell Douglas Corp.
+    The company said the systems will be used in the C-17
+military transport program. One was shipped last month and two
+others will be shipped in June, it said.
+ Reuter
+&#3;</BODY></TEXT>

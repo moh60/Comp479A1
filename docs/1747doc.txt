@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18165" NEWID="1747">
+<DATE> 4-MAR-1987 15:24:20.16</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0579&#31;reute
+u f BC-TRANS-LUX-&lt;TLX>-SETS   03-04 0079</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TRANS-LUX &lt;TLX> SETS FIVE PCT STOCK DIVIDEND</TITLE>
+<DATELINE>    NORWALK, Conn., March 4 - </DATELINE><BODY>Trans-Lux Corp said its board
+declared a five pct stock dividend payable April nine to
+holders of record March 20.
+    The company said directors also declared regular quarterly
+dividends on presently outstanding shares of both classes of
+common, payable April nine to holders of record March 16.
+    It said an unchanged dividend of two cts will be paid on
+the common and 1.8 cts on the Class B stock.
+ Reuter
+&#3;</BODY></TEXT>

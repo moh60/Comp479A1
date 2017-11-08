@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="626" NEWID="16091">
+<DATE>11-APR-1987 03:36:49.06</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>malaysia</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0030&#31;reute
+r f BC-KUWAIT-INCREASES-STAK   04-11 0104</UNKNOWN>
+<TEXT>&#2;
+<TITLE>KUWAIT INCREASES STAKE IN SIME DARBY</TITLE>
+<DATELINE>    KUALA LUMPUR, April 11 - </DATELINE><BODY>The Kuwait Investment Office (KIO)
+has increased its stake in &lt;Sime Darby Bhd> to 63.72 mln
+shares, representing 6.88 pct of Sime Darby's paid-up capital,
+from 60.7 mln shares, Malayan Banking Bhd &lt;MBKM.SI> said.
+    Since last November, KIO has been aggressively in the open
+market buying shares in Sime Darby, a major corporation with
+interests in insurance, property development, plantations and
+manufacturing.
+    The shares will be registered in the name of Malayan
+Banking subsidiary Mayban (Nominees) Sdn Bhd, with KIO as the
+beneficial owner.
+ REUTER
+&#3;</BODY></TEXT>

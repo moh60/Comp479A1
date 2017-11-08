@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="BYPASS" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="3370" NEWID="14387">
+<DATE> 7-APR-1987 12:48:52.02</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;MQ
+&#22;&#22;&#1;f1664&#31;reute
+r f BC-cbt-gold-vol-oi   04-07 0057</UNKNOWN>
+<TEXT TYPE="UNPROC">&#2;
+CBT KILO GOLD VOLUME/OPEN INTEREST
+ FOR APRIL 6, (volume/open interest/change)
+ KILO GOLD
+ Apr    4    54  dn    6
+ Jun  375  1544  dn   40
+ Aug    2    54  up    1
+ Oct    1    27  up    1
+ Dec   13   149  up    2
+ Feb    0    22     unch
+ Apr    0    11     unch
+ Ttl  395  1861  dn   42
+ Reuter
+&#3;
+
+</TEXT>

@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10868" NEWID="5955">
+<DATE>17-MAR-1987 10:17:40.35</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f5075&#31;reute
+r f BC-QINTEX-AGAIN-EXTENDS   03-17 0106</UNKNOWN>
+<TEXT>&#2;
+<TITLE>QINTEX AGAIN EXTENDS PRINCEVILLE &lt;PVDC> OFFER</TITLE>
+<DATELINE>    NEW YORK, March 17 - </DATELINE><BODY>&lt;Qintex America Ltd> said its offer
+for 3.3 mln Princeville Development Corp shares has been
+extended to March 19 from March 18.
+    As of yesterday, Qintex said, 7,060,197 Princeville shares
+had been tendered in response to the offer and not withdrawn,
+down from over 7.2 mln on March 10.
+    Qintex said it is extending the offer to allow Princeville
+shareholders to assess the sale announced last week of
+Princeville Airways Inc to Aloha Inc &lt;ALO>, adding a supplement
+to the Quintex offer further detailing the agreement with Aloha
+will be distributed later today.
+ Reuter
+&#3;</BODY></TEXT>

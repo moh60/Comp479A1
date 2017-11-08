@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20303" NEWID="21134">
+<DATE>19-OCT-1987 13:56:34.72</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D><D>ecuador</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2423&#31;reute
+h f BC-BALTEK-&lt;BTEK.O>-BUYS   10-19 0049</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BALTEK &lt;BTEK.O> BUYS ECUADORIAN PLANT</TITLE>
+<DATELINE>    NORTHVALE, N.J., Oct 19 - </DATELINE><BODY>Baltek Corp said it has acquired
+a shrimp packing plant in Ecuador for undisclosed terms.
+    The company said the acquisition will result in a tripling
+of its Ecuadorian shrimp sales to about three mln pounds
+annually by 1988.
+ Reuter
+&#3;</BODY></TEXT>

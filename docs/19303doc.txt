@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7139" NEWID="19303">
+<DATE>19-JUN-1987 13:35:55.03</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1840&#31;reute
+d f BC-AMITY-BANCORP-INC-&lt;AM   06-19 0052</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AMITY BANCORP INC &lt;AMTY.O> SEMI-ANNUAL DIV</TITLE>
+<DATELINE>    NEW HAVEN, Conn - </DATELINE><BODY>June 19
+    Semi-annual div eight cts vs 15 cts prior
+    Pay Aug 1
+    Record July 1
+    NOTE: Before the establishment of the Amity Bancorp Inc
+holding company, Amity Bank declared a full year dividend of 15
+cts for the year ended December 31, 1986.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6599" NEWID="18847">
+<DATE>18-JUN-1987 13:22:46.44</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f4033&#31;reute
+r f BC-AMVESTORS-&lt;AVFC.O>OVE   06-18 0067</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AMVESTORS &lt;AVFC.O>OVERALLOTMENT OPTION EXERCISED</TITLE>
+<DATELINE>    TOPEKA, Kan, June 18 - </DATELINE><BODY>AmVestors Financial Corp said
+underwriters Smith Barney, Harris Upham and Co Inc and Morgan
+Keegan Inc &lt;MOR> have exercised their overallotment option for
+an additional 10,000 common shares at 9.50 dlrs each in
+connection with a recent offering of 100,000 AmVestors shares.
+    It said it realized net proceeds of 886,000 dlrs.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7958" NEWID="19630">
+<DATE>29-JUN-1987 10:26:14.11</DATE>
+<TOPICS><D>acq</D><D>oilseed</D><D>sunseed</D><D>soybean</D></TOPICS>
+<PLACES><D>usa</D><D>spain</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1128&#31;reute
+u f BC-STALEY-&lt;STA>-SELLS-IN   06-29 0082</UNKNOWN>
+<TEXT>&#2;
+<TITLE>STALEY &lt;STA> SELLS INTEREST IN SPANISH VENTURE</TITLE>
+<DATELINE>    ROLLING MEADOWS, ILL., June 29 - </DATELINE><BODY>Staley Continental Inc
+said it sold its 50 interest in Sociedad Iberica de
+Molturacion, S.A. (Simsa), a soybean and sunflower seed
+processing company based in Madrid, Spain.
+    Staley's investment in Simsa no longer fit its overall
+coporate strategy and an agreement to sell the interest was
+completed in May, it said.
+    Staley said the Simsa transaction will not have a material
+effect on its balance sheet.
+ Reuter
+&#3;</BODY></TEXT>

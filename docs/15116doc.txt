@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4099" NEWID="15116">
+<DATE> 8-APR-1987 12:03:46.73</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A
+&#22;&#22;&#1;f1592&#31;reute
+d f BC-WESTERN-DIGITAL-CORP   04-08 0054</UNKNOWN>
+<TEXT>&#2;
+<TITLE>WESTERN DIGITAL CORP &lt;WDC> REDEEMS DEBT</TITLE>
+<DATELINE>    IRVINE, Calif., April 8 - </DATELINE><BODY>Western Digtial Corp said it has
+completed the redemption of its 47 mln dlr, 6-3/4 pct
+convertible subordinated debentures due 2011.
+    The redemption resulted in the issuance of 2,685,142 shares
+of the company's common stock, Western Digital said.    
+ Reuter
+&#3;</BODY></TEXT>

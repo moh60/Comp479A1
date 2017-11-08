@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="NOT-USED" CGISPLIT="PUBLISHED-TESTSET" OLDID="21912" NEWID="17290">
+<DATE>27-APR-1987 07:33:56.13</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>switzerland</D><D>usa</D><D>ussr</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A
+&#22;&#22;&#1;f0636&#31;reute
+r f PM-ARMS-TALKS ***  04-27 0102</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SOVIETS TO PRESENT TREATY ON MISSILES - SOURCES</TITLE>
+<DATELINE>    GENEVA, April 27 - </DATELINE><BODY>The Soviet Union will present a draft
+treaty today calling for elimination of all U.S.-Soviet
+medium-range missiles in Europe, an official source in the
+Soviet arms negotiating team told Reuters.
+    The draft treaty will be handed over to the American team
+negotiating on medium-range missiles during talks at the U.S.
+Diplomatic mission in Geneva this afternoon, the source said.
+    The United States presented its draft treaty, which would
+also scrap the so-called "Euromissiles," during a previous round
+of negotiations in early March.
+ REUTER
+&#3;</BODY></TEXT>

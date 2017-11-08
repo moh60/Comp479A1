@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12060" NEWID="7147">
+<DATE>19-MAR-1987 10:55:23.06</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1168&#31;reute
+r f BC-KNOWLEDGE-DATA-SYSTEM   03-19 0058</UNKNOWN>
+<TEXT>&#2;
+<TITLE>KNOWLEDGE DATA SYSTEMS &lt;KDSI> NAMES CHAIRMAN</TITLE>
+<DATELINE>    SALT LAKE CITY, March 19 - </DATELINE><BODY>Knowledge Data Systems Inc said
+it named John Kerr chairman of the company, and named its
+former chairman, Jon Jacoby, vice chairman.
+    The company said Kerr was formerly president and co-founder
+of &lt;Mediflex Systems Corp>, and Jacoby is also its chief
+financial officer.
+ Reuter
+&#3;</BODY></TEXT>

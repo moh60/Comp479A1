@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6634" NEWID="18882">
+<DATE>18-JUN-1987 13:57:29.18</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f4149&#31;reute
+r f BC-PENNWALT-&lt;PSM>-TO-MAK   06-18 0083</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PENNWALT &lt;PSM> TO MAKE ACQUISITION</TITLE>
+<DATELINE>    PHILADELPHIA, June 18 - </DATELINE><BODY>Pennwalt corp said it has agreed in
+principle to acquire a line of fungicides, insecticides and
+herbicidesand related manufacturing facilities from Le
+Raffineries de Soufre Reunies of Marseilles for undisclosed
+terms, subject to approval by bothe boards and government
+authorities.
+    The company said the acquired products are sold mostly in
+FRance for use on grapevines, wheat and sugar beets and sales
+are about 40 mln dlrs annually.
+ Reuter
+&#3;</BODY></TEXT>

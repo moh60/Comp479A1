@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11958" NEWID="7045">
+<DATE>19-MAR-1987 08:22:21.02</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0649&#31;reute
+d f BC-&lt;FI-TEK-CORP>-TO-MAKE   03-19 0094</UNKNOWN>
+<TEXT>&#2;
+<TITLE>&lt;FI-TEK CORP> TO MAKE ACQUISITION</TITLE>
+<DATELINE>    DENVER, March 19 - </DATELINE><BODY>Fi-Tek Corp said it has signed a letter
+of intent to acquire &lt;Voice Systems and Services Inc> for an
+undisclosed amount of stock.
+    It said on completion of the acquisition it would change
+its name to Voice Systems and Services Inc.  It said VBoice
+Systems has received a 3,600,000 dlr contract to provide FLP
+Communications of Dallas with voicemail systems through service
+bureaus located throughout the U.S. and has also contracted to
+provide voicemail systems and administration to M and S
+Communications.
+ Reuter
+&#3;</BODY></TEXT>

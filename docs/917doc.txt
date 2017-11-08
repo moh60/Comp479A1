@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16237" NEWID="917">
+<DATE> 3-MAR-1987 05:12:06.17</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>france</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0767&#31;reute
+u f BC-FRENCH-TREASURY-DETAI   03-03 0084</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FRENCH TREASURY DETAILS PLANNED TAP ISSUE</TITLE>
+<DATELINE>    PARIS, March 3 - </DATELINE><BODY>The French Treasury will issue between
+eight and 12 billion francs worth of tap stock depending on
+market conditions at its monthly tender on Thursday, the Bank
+of France said.
+    The planned issue will be of two fixed-rate tranches, of
+the 8.50 pct June 1997 and the 8.50 pct December 2012 stock,
+and one tranche of the variable-rate January 1999 stock.
+    The minimum amount of each tranche to be sold will be one
+billion francs.
+ REUTER
+&#3;</BODY></TEXT>

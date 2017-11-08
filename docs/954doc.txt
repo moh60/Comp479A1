@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16274" NEWID="954">
+<DATE> 3-MAR-1987 07:28:47.51</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0995&#31;reute
+b f BC-COUPON-ON-MITSUBISHI   03-03 0089</UNKNOWN>
+<TEXT>&#2;
+<TITLE>COUPON ON MITSUBISHI WARRANT BOND CUT</TITLE>
+<DATELINE>    LONDON, March 3 - </DATELINE><BODY>The coupon on the 300 mln dlr equity
+warrant bond deal for Mitsubishi Estate Co Ltd has been cut to
+three pct from the 3-1/4 pct initially indicated, Nikko
+Securities Co (Europe) Ltd said as lead manager of the deal.
+    Exercise price for the warrants has been fixed at yen 2,817
+representing a 2.53 pct premium over the latest Tokyo close
+adjusted for a free share issue this month.
+    Foreign exchange fix is yen 154.65/dlr and payment date on
+the deal is March 20.
+ REUTER
+&#3;</BODY></TEXT>

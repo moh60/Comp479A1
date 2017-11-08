@@ -1,0 +1,20 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10649" NEWID="5736">
+<DATE>16-MAR-1987 17:47:00.92</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>nasdaq</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f3808&#31;reute
+h f BC-EXPLOSIVE-FABRICATORS   03-16 0036</UNKNOWN>
+<TEXT>&#2;
+<TITLE>EXPLOSIVE FABRICATORS &lt;BOOM> MAKES NASDAQ LIST</TITLE>
+<DATELINE>    LOUISVILLE, Colo. - March 16 - </DATELINE><BODY>Explosive Fabricators Inc
+said its common stock began trading on NASDAQ over-the-counter
+market March 16 with the quotation symbol BOOM.
+ Reuter
+&#3;</BODY></TEXT>

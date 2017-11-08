@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7686" NEWID="18241">
+<DATE> 2-JUN-1987 15:27:37.98</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2446&#31;reute
+u f BC-NUCLEAR-DATA-&lt;NDI>-FI   06-02 0095</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NUCLEAR DATA &lt;NDI> FINANCIAL DATA QUALIFIED</TITLE>
+<DATELINE>    SCHAUMBURG, ILL., June 2 - </DATELINE><BODY>Nuclear Data Inc said its
+auditors, Ernst and Whinney, quaified their opinion on its
+financial statements for the fiscal year ended February 28.
+    As previously reported, Nuclear Data's bank debt matures on
+June 30, 1987, and its lenders have required it to obtain
+replacement financing by then.
+    It said the auditors qualified their opinion because the
+company does not yet have a commitment for replacement
+financing. Nuclear Data said it expects to have such financing
+in place shortly.
+ Reuter
+&#3;</BODY></TEXT>

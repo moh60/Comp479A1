@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14820" NEWID="9299">
+<DATE>25-MAR-1987 09:55:29.61</DATE>
+<TOPICS><D>money-fx</D></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0967&#31;reute
+b f BC-BANK-OF-ENGLAND-DRAIN   03-25 0053</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BANK OF ENGLAND DRAINS MONEY MARKET LIQUIDITY</TITLE>
+<DATELINE>    LONDON, March 25 - </DATELINE><BODY>The Bank of England said it drained
+liquidity from the money market when it sold 167 mln stg of
+treasury bills due March 27 at rates between 9-9/16 and 10 pct.
+    Earlier, the bank estimated a surplus of around 250 mln stg
+in the system today.
+ REUTER
+&#3;</BODY></TEXT>

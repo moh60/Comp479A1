@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14991" NEWID="9472">
+<DATE>25-MAR-1987 13:43:27.20</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1912&#31;reute
+u f BC-INVESTORS-INCREASE-ST   03-25 0086</UNKNOWN>
+<TEXT>&#2;
+<TITLE>INVESTORS INCREASE STAKE IN FROST, SULLIVAN</TITLE>
+<DATELINE>    WASHINGTON, March 25 - </DATELINE><BODY>One of a pair of private investors
+in Frost and Sullivan Inc told the Securities and Exchange
+Commission he increased his stake in the firm by about two pct,
+to 15.4 pct.
+    He is Theodore Cross, Princeton, N.J., editor of Business
+and Society Review.
+    The other investor is Mason Slaine, Cos Cob, Mass,
+president of Dealers' Digest Inc.  He holds a 3.3 pct stake.
+    Cross told the SEC he bought the new shares at between 7.75
+and 8.0 dlrs.
+ Reuter
+&#3;</BODY></TEXT>

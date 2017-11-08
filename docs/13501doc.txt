@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="BYPASS" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="2484" NEWID="13501">
+<DATE> 7-APR-1987 07:00:52.38</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G
+&#22;&#22;&#1;f0391&#31;reute
+u f BC-MALAYSIAN-CRUDE-PALM   04-07 0107</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MALAYSIAN CRUDE PALM OIL FUTURES CLOSE OFF HIGHS</TITLE>
+<DATELINE>    KUALA LUMPUR, April 7 - </DATELINE><BODY>Malaysian crude palm oil futures
+closed off the day's highs on late speculative selling
+following talk that Pakistan passed on its tender for another
+6,000 tonnes of RBD palm oil for second half April shipment
+after buying the same amount yesterday, dealers said.
+    A higher overnight Chicago soyoil futures close had
+supported prices earlier, they said.
+    June and July closed seven ringgit firmer at 746 and 742
+ringgit per tonne respectively, while April and May were six
+and five ringgit higher at 747.
+    Turnover rose to 448 lots from 135 yesterday.
+ REUTER
+&#3;</BODY></TEXT>

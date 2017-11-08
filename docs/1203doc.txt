@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16523" NEWID="1203">
+<DATE> 3-MAR-1987 13:08:10.59</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0241&#31;reute
+u f BC-IMTEC-&lt;IMTC>-GETS-MER   03-03 0104</UNKNOWN>
+<TEXT>&#2;
+<TITLE>IMTEC &lt;IMTC> GETS MERGER OFFER</TITLE>
+<DATELINE>    BELLOWS FALLS, Vt., March 3 - </DATELINE><BODY>Imtec Inc said some
+shareholders of Computer Identics Inc &lt;CIDN> have proposed a
+merger of the two companies.
+    The company said the shareholders had previously expressed
+dissatisfaction with Computer Identics' management and had
+informed Computer Identics that the present board no longer had
+the support of a majority of shares held.
+    It said the shareholders had called for the resignation of
+all but one of Computer Identics' directors and suggested that
+a new board pursue merger talks with Imtec.  But Imtec said no
+merger talks havew yet taken place.
+ Reuter
+&#3;</BODY></TEXT>

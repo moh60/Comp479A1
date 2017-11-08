@@ -1,0 +1,30 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5879" NEWID="17541">
+<DATE> 1-JUN-1987 10:22:38.78</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D><D>canada</D><D>chile</D><D>australia</D><D>spain</D><D>uruguay</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1104&#31;reute
+r f BC-FLUOR-&lt;FLR>-TO-ASSESS   06-01 0109</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FLUOR &lt;FLR> TO ASSESS VALUE OF GOLD OPERATIONS</TITLE>
+<DATELINE>    IRVINE, Calif., June 1 - </DATELINE><BODY>Fluor Corp said it retained two
+investment bankers to assess the value of its gold operations
+in light of improved world gold market conditions.
+    The engineering, construction and natural resources company
+said it retained Shearson Lehman Brothers Inc and S.G. Warburg
+and Co Inc to assist in the assessment.
+    Fluor owns 90 pct of St. Joe Gold Corp &lt;SJG>, a unit of
+Fluor's St. Joe Minerals subsidiary.
+    St. Joe Gold explores, develops, mines and produces
+precious metals in the U.S., Canada and Chile. It produced
+281,000 ounces of gold in its most recent fiscal year.
+    Fluor also has gold operations in Australia, Spain and
+Uruguay.
+ Reuter
+&#3;</BODY></TEXT>

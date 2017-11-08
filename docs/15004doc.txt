@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="3987" NEWID="15004">
+<DATE> 8-APR-1987 10:08:26.93</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F Y
+&#22;&#22;&#1;f1044&#31;reute
+d f BC-canadian-bashaw,-ersk   04-08 0061</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CANADIAN BASHAW, ERSKINE RESOURCES TO MERGE</TITLE>
+<DATELINE>    Edmonton, Alberta, April 8 - </DATELINE><BODY>Canadian Bashaw Leduc Oil and
+Gas Ltd said it agreed to merge with Erskine Resources Ltd.
+Terms were not disclosed.
+    Ownership of the combined company with 18.8 pct for the
+current shareholders of Canadian Bashaw and 81.2 pct to the
+current shareholders of Erskine, the companies said.
+ Reuter
+&#3;</BODY></TEXT>

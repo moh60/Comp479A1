@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="NOT-USED" CGISPLIT="PUBLISHED-TESTSET" OLDID="21898" NEWID="17276">
+<DATE>27-APR-1987 07:25:11.26</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>france</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0591&#31;reute
+u f BC-FRENCH-HOUSEHOLD-CONS   04-27 0086</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FRENCH HOUSEHOLD CONSUMPTION DOWN 3.6 PCT IN MARCH</TITLE>
+<DATELINE>    PARIS, April 27 - </DATELINE><BODY>French household consumption of
+manufactured goods fell 3.6 pct in March, the National
+Statistics Institute (INSEE) said.
+    It said the figure fell to 46.35 billion francs seasonally
+adjusted and in real terms from February's 48.07 billion, where
+it had held steady for three months.
+    It said sales of most durable goods had fallen 3.5 pct
+while household electricals, clothing and textiles were down by
+about eight pct from February.
+ REUTER
+&#3;</BODY></TEXT>

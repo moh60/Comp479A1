@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17396" NEWID="11334">
+<DATE>31-MAR-1987 10:09:09.81</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1136&#31;reute
+r f BC-NORD-RESOURCES-&lt;NRD>   03-31 0065</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NORD RESOURCES &lt;NRD> SELLS SHARES PRIVATELY</TITLE>
+<DATELINE>    DAYTON, Ohio, March 31 - </DATELINE><BODY>Nord Resources Corp said it has
+agreed to make a private placement of 600,000 common shares to
+institutional investors in Britain and elsewhere outside the
+U.S. priced at 17.50 dlrs per share.
+    It said funds will be used for general corporate purposes.
+    Closing of the placement is scheduled for April 10, Nord
+said.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="428" NEWID="12200">
+<DATE> 1-APR-1987 14:24:14.87</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2059&#31;reute
+r f BC-TELECOM-PLUS-&lt;TELE>-T   04-01 0032</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TELECOM PLUS &lt;TELE> TO CHANGE NAME</TITLE>
+<DATELINE>    BOCA RATON, Fla., April 1 - </DATELINE><BODY>Telecom Plus International Inc
+said it has received all regulatory approvals needed to change
+its name to TPI Enterprises Inc.
+ Reuter
+&#3;</BODY></TEXT>

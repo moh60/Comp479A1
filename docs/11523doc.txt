@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17584" NEWID="11523">
+<DATE>31-MAR-1987 13:43:30.42</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2050&#31;reute
+r f BC-BRISTOL-MYERS-TRUST-&lt;   03-31 0087</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BRISTOL-MYERS TRUST &lt;BYU> EXTENDS EXPIRATION</TITLE>
+<DATELINE>    NEW YORK, March 31 - </DATELINE><BODY>&lt;Americus Shareowner Service Corp>
+said the Americus Trust for Bristol-Myers will continue to
+accept tendered Bristol-Meyers Co &lt;BMY> shares until December
+one, extending the original expiration date of April one for
+eight months.
+    If the common stock price exceeds the trust's termination
+price of 110 dlrs, Americus Shareowner Service said, the trust
+will be temporarily closed until the price of the underlying
+stock falls below the termination price.
+ Reuter
+&#3;</BODY></TEXT>

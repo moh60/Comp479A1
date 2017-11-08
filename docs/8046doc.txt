@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13567" NEWID="8046">
+<DATE>20-MAR-1987 18:25:06.34</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2670&#31;reute
+d f BC-WIEBOLDT'S-TO-CLOSE-E   03-20 0110</UNKNOWN>
+<TEXT>&#2;
+<TITLE>WIEBOLDT'S TO CLOSE EIGHT STORES</TITLE>
+<DATELINE>    CHICAGO, March 20 - </DATELINE><BODY>Wieboldt's Department Stores, in
+Chapter 11 bankruptcy since September 1986, said as part of an
+agreement with creditors it will operate its four largest and
+most productive stores but close the remaining eight stores.
+    It said 341 employees of its remaining 885 employees will
+be laid off or terminated as a result.
+    The company also said it established a fund of about 12 mln
+dlrs to be available for payment of creditors' claims.
+    The retailer said it would continue to operate its four
+largest and most productive Chicago area outlets - State
+Street, Randhurst, Harlem-Irving and Ford City.
+ Reuter
+&#3;</BODY></TEXT>

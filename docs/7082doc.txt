@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11995" NEWID="7082">
+<DATE>19-MAR-1987 09:27:50.22</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0832&#31;reute
+u f BC-JEFFERIES-MAKES-MARKE   03-19 0055</UNKNOWN>
+<TEXT>&#2;
+<TITLE>JEFFERIES MAKES MARKET GENCORP, AMERICAN EXPRESS</TITLE>
+<DATELINE>    LOS ANGELES, MARCH 19 - </DATELINE><BODY>Jefferies and Co said this morning
+that it is making a market in Gencorp &lt;GY>. The bid is 106 and
+the ask is 111.
+    Jefferies also said it is making a market in American
+Express &lt;AXP>. Jeffries opened the stock and the bid is 79-1/2
+and the ask is 81.
+ Reuter
+&#3;</BODY></TEXT>

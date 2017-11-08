@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6173" NEWID="17835">
+<DATE> 1-JUN-1987 17:10:54.09</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2568&#31;reute
+d f BC-FINANCIAL-SECURITY-&lt;F   06-01 0049</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FINANCIAL SECURITY &lt;FSSLA.O> TO BE ACQUIRED</TITLE>
+<DATELINE>    DELRAY BEACH, Fla, June 1 - </DATELINE><BODY>Financial Security Savings and
+Loan Association said it signed a letter of intent for a
+controlling interest to be acquired by an investor group led by
+South Florida developer William Landa.
+    Terms were not disclosed.
+ Reuter
+&#3;</BODY></TEXT>

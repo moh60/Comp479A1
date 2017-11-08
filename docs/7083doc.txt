@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11996" NEWID="7083">
+<DATE>19-MAR-1987 09:28:00.25</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F
+&#22;&#22;&#1;f0833&#31;reute
+r f BC-pagurian   03-19 0055</UNKNOWN>
+<TEXT>&#2;
+<TITLE>&lt;PAGURIAN CORP LTD> YEAR NET</TITLE>
+<DATELINE>    TORONTO, March 19 -
+    </DATELINE><BODY>Shr 1.64 dlrs vs 90 cts
+    Net 64.9 mln vs 28.8 mln
+    Revs 73 mln vs 35 mln
+    NOTE: Shares outstanding 39.5 mln vs 32.1 mln. Avg shrs not
+given.
+    Company recently raised equity and voting interests in
+&lt;Hees International Corp> to 13.4 pct and 16.1 pct,
+respectively.
+ Reuter
+&#3;</BODY></TEXT>

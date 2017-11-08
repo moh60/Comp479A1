@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16516" NEWID="1196">
+<DATE> 3-MAR-1987 12:57:45.78</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0197&#31;reute
+d f BC-STEELHEAD-RESOURCES-&lt;   03-03 0048</UNKNOWN>
+<TEXT>&#2;
+<TITLE>STEELHEAD RESOURCES &lt;SHZ> LEASES FELDSPAR MINE</TITLE>
+<DATELINE>    PHOENIX, Ariz., March 3 - </DATELINE><BODY>Steelhead Resources Ltd said it
+has leased some feldspar deposits and will begin feldspar
+mining operations near Wickenburg, Arizona.
+    The company said the deposits contain in excess of 500,000
+tons of feldspar.
+ Reuter
+&#3;</BODY></TEXT>

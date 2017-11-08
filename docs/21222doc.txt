@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20214" NEWID="21222">
+<DATE>19-OCT-1987 12:53:49.00</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2072&#31;reute
+r f BC-NBI-INC-&lt;NBI>-1ST-QTR   10-19 0057</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NBI INC &lt;NBI> 1ST QTR LOSS</TITLE>
+<DATELINE>    BOULDER, Colo., Oct 19 - </DATELINE><BODY>Sept 30 end
+    Shr loss 38 cts vs loss three cts
+    Net loss 3,300,000 vs loss 205,000
+    Revs 63.4 mln vs 72.1 mln
+    Avg shrs 8,966,000 vs 9,741,000
+    NOTE: 1986 first quarter results include 398,000 gain from
+repurchase of debentures that had been discounted below market
+value.
+ Reuter
+&#3;</BODY></TEXT>

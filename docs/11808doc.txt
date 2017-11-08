@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="36" NEWID="11808">
+<DATE> 1-APR-1987 04:56:23.19</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>japan</D><D>usa</D><D>hong-kong</D><D>philippines</D><D>singapore</D><D>malaysia</D><D>taiwan</D><D>thailand</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0301&#31;reute
+u f BC-AJINOMOTO-TO-BUY-OUT   04-01 0091</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AJINOMOTO TO BUY OUT JOINT FOOD VENTURE PARTNER</TITLE>
+<DATELINE>    TOKYO, April 1 - </DATELINE><BODY>Ajinomoto Co Inc &lt;AJIN.T> said it will
+sign around end-April to buy the 50 pct of &lt;Knorr Foods Co
+Ltd>, capitalised at four billion yen, that it does not already
+own from its U.S. Partner &lt;CPC International Inc>.
+    Ajinomoto will also acquire 50 pct each of CPC's two sales
+subsidiaries and six production units in Hong Kong, the
+Philippines, Singapore, Malaysia, Taiwan and Thailand, he said.
+    The total cost of the acquisition is 340 mln dlrs, the
+spokesman said.
+ REUTER
+&#3;</BODY></TEXT>

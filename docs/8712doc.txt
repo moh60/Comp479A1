@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14233" NEWID="8712">
+<DATE>24-MAR-1987 08:59:07.53</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0810&#31;reute
+u f BC-JEFFERIES-&lt;JEFG>-SETS   03-24 0064</UNKNOWN>
+<TEXT>&#2;
+<TITLE>JEFFERIES &lt;JEFG> SETS MARKETS IN THREE STOCKS</TITLE>
+<DATELINE>    LOS ANGELES, March 24 - </DATELINE><BODY>Jefferies Group Inc said it is
+making markets in the common stock of Conrac Corp &lt;CAX>,
+American Express Co &lt;AXP> and Cyclops Corp &lt;CYL>.
+    The company said the present quote on Conrac is 28 dlrs
+bid, 29 dlrs offered, on American Express 79 dlrs bid, 80 dlrs
+offered and on Cyclops 91 dlrs bid, 92 dlrs offered.
+ Reuter
+&#3;</BODY></TEXT>

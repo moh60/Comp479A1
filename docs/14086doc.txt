@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="3069" NEWID="14086">
+<DATE> 7-APR-1987 11:24:52.01</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1252&#31;reute
+r f BC-GENERAL-ELECTRIC&lt;GE>-   04-07 0096</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GENERAL ELECTRIC&lt;GE>-POWERED HELICOPTER UNVEILED</TITLE>
+<DATELINE>    LYNN, Mass., April 7 - </DATELINE><BODY>General Electric Co said that EH
+Industries, a joint effort between &lt;Westland Helicopter> of
+England and the &lt;Augusta Group> of Italy, rolled out the first
+prototype EH 101 helicopter in Yeovil, England.
+    GE said the helicopter is powered by three GE
+ T700 engines.
+    The company added that the multi-mission EH 101 has naval,
+utility and civil models. The latter two will be powered by
+2,000 shaft horsepower CT7-6 engines being co-developed by GE,
+&lt;Fiat Aviazione> and &lt;Alfa Romeo Avio>, GE said.
+ Reuter
+&#3;</BODY></TEXT>

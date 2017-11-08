@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20580" NEWID="20857">
+<DATE>19-OCT-1987 20:56:45.83</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE><D>miyazawa</D></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM AI 
+&#22;&#22;&#1;f3537&#31;reute
+f f BC-Miyazawa-says-oversea   10-19 0014</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE>Miyazawa says overseas stock plunges not likely to cause Tokyo market freefall
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

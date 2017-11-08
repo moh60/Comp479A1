@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1404" NEWID="16869">
+<DATE>17-APR-1987 12:28:25.89</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0315&#31;reute
+r f BC-JAMES-RIVER-&lt;JR>-TO-R   04-17 0064</UNKNOWN>
+<TEXT>&#2;
+<TITLE>JAMES RIVER &lt;JR> TO REBUILD PAPER MACHINE</TITLE>
+<DATELINE>    SAN FRANCISCO, April 17 - </DATELINE><BODY>James River Corp said it will
+rebuild its Number Three paper machine at the Wauna pulp and
+paper mill near Clatskanie, Ore., at a cost of about 31.8 mln
+dlrs to significantly improve newsprint quality and expand its
+uncoated groundwood specialties paper product line.
+    It said completion is expected in late 1988.
+ Reuter
+&#3;</BODY></TEXT>

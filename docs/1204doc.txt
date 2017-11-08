@@ -1,0 +1,31 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16524" NEWID="1204">
+<DATE> 3-MAR-1987 13:08:45.51</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0246&#31;reute
+r f BC-CORRECTED---GM-SEES   03-03 0110</UNKNOWN>
+<TEXT TYPE="UNPROC">&#2;
+CORRECTED - GM SEES
+    Fry said at an average price of 13,000 dollars, his
+projected sales figure for North American-made GM cars in
+Europe would mean turnover of between 91 million and 104
+million dollars.
+    GM sales in Europe of North American-made cars in the 1985
+model year totalled 500 vehicles, due largely to uncompetitive
+prices because of the then strong dollar, Fry said.
+    The North American-made GM vehicles sold in Europe are
+manufactured in the United States and Canada, he said, with
+most sales in Switzerland followed by Sweden and West Germany.
+    -- inserting dropped words to make clear story refers only
+to North American-made GM cars.
+ Reuter
+&#3;
+
+</TEXT>

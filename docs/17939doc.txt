@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7384" NEWID="17939">
+<DATE> 2-JUN-1987 06:44:02.49</DATE>
+<TOPICS><D>interest</D></TOPICS>
+<PLACES></PLACES>
+<PEOPLE><D>nakasone</D><D>sumita</D></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0502&#31;reute
+f f BC-Nakasone,-Sumita-agre   06-02 0014</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE>Nakasone, Sumita agree discount rate cut not appropriate now - central bank sources
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

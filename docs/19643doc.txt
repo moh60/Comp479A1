@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7971" NEWID="19643">
+<DATE>29-JUN-1987 10:51:36.38</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1235&#31;reute
+d f BC-D-AND-N-&lt;DNSB.O>-APPL   06-29 0079</UNKNOWN>
+<TEXT>&#2;
+<TITLE>D AND N &lt;DNSB.O> APPLIES FOR MART BRANCHES</TITLE>
+<DATELINE>    HANCOCK, MICH., June 29 - </DATELINE><BODY>D and N Savings Bank said it
+aapplied to the Federal Home Loan Bank Board for approval to
+open three new branches inside K mart Corp &lt;KM> stores in
+Michigan.
+    It said one of the branches being applied for is in Grand
+Rapids, Mich., which would bring to five the number of K mart
+locations in that city with D and N Bank Marts.
+    It said the other applications are for branches in Flint K
+mart stores.
+ Reuter
+&#3;</BODY></TEXT>

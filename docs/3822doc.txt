@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="8735" NEWID="3822">
+<DATE>11-MAR-1987 13:26:59.10</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0107&#31;reute
+u f BC-TRANSCO-ENERGY-&lt;E>-CA   03-11 0045</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TRANSCO ENERGY &lt;E> CALLS 3.875 DLR PREFERRED</TITLE>
+<DATELINE>    HOUSTON, March 11 - </DATELINE><BODY>Transco Energy Co said on April 10 it
+will redeem all 707,905 outstanding shares of its 3,875 dlr
+series cumulative convertible preferred stock at 51.17 dlrs per
+share plus accrued dividends of 74 cts.
+    Transco said each share of the preferred is convertible
+into 1,263 common shares.
+ Reuter
+&#3;</BODY></TEXT>

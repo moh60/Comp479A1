@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14779" NEWID="9258">
+<DATE>25-MAR-1987 09:07:44.32</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F Y
+&#22;&#22;&#1;f0811&#31;reute
+u f BC-MCFARLAND-&lt;MCFE>-TO-B   03-25 0087</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MCFARLAND &lt;MCFE> TO BUY PETROMINERALS &lt;PTRO></TITLE>
+<DATELINE>    SANTA FE SPRINGS, Calif., March 25 - </DATELINE><BODY>McFarland Energy Inc
+said its board and that of Petrominerals Corp have approved a
+definitive agreement for McFarland to acquire Petrominerals in
+an exchange of stock.
+    McFarland said it would exchange one common share for each
+5.4 Petrominerals shares.  McFarland said former holders of
+Petrominerals will have a 25 pct interest in the combined
+company.
+    The merger is still subject to approval by shareholders of
+both companies.
+ Reuter
+&#3;</BODY></TEXT>

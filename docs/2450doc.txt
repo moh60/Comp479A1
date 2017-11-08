@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18868" NEWID="2450">
+<DATE> 5-MAR-1987 16:21:38.13</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE><D>icahn</D></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0779&#31;reute
+r f BC-TWA-&lt;TWA>-PILOTS-WELC   03-05 0064</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TWA &lt;TWA> PILOTS WELCOME BID FOR USAIR &lt;U></TITLE>
+<DATELINE>    NEW YORK, March 5 - </DATELINE><BODY>The Airline Pilots Association said
+members working at Trans World Airlines Inc welcomed their
+airline's announced proposal to acquire USAir Group Inc,.
+    Union leaders for the TWA pilot group said the offer of 52
+dlrs a share was a positive indication that Carl Icahn intends
+to build TWA into a viable air carrier.
+ Reuter
+&#3;</BODY></TEXT>

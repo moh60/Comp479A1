@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18895" NEWID="2477">
+<DATE> 5-MAR-1987 16:43:43.34</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A RM
+&#22;&#22;&#1;f0854&#31;reute
+r f BC-BAY-STATE-GAS-&lt;BGC>-P   03-05 0082</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BAY STATE GAS &lt;BGC> PREFERRED UPGRADED BY S/P</TITLE>
+<DATELINE>    NEW YORK, March 5 - </DATELINE><BODY>Standard and Poor's Corp said it raised
+to A from A-minus Bay State Gas Co's preferred stock.
+    S and P affirmed the company's A-rated senior debt and A-1
+commercial paper. Bay State has 75 mln dlrs of long-term debt
+and preferred outstanding.
+    The rating agency said its action mainly reflected debt
+redemptions. S and P also said the outlook for firm sales
+growth is positive because of a vibrant regional economy.
+ Reuter
+&#3;</BODY></TEXT>

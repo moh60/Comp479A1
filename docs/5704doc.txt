@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10617" NEWID="5704">
+<DATE>16-MAR-1987 16:44:20.36</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f3643&#31;reute
+r f BC-ROYALE-AIRLINES-&lt;RYAL   03-16 0076</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ROYALE AIRLINES &lt;RYAL> REPORTS LOAD FACTOR UP</TITLE>
+<DATELINE>    SHREVEPORT, La., March 16 - </DATELINE><BODY>Royale Airlines Inc said its
+load factor for February was 42.9 pct, up from 42.6 pct the
+same period last year.
+    Royale said it recorded 4,180,000 revenue passenger miles
+compared to 5,681,000 the same period the year before.
+    Royale said it cut its available capacity 26 pct in
+response to regional weaknesses, which resulted in a slightly
+higher load factor this past month.
+ Reuter
+&#3;</BODY></TEXT>

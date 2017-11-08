@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5783" NEWID="17445">
+<DATE> 1-JUN-1987 01:17:35.61</DATE>
+<TOPICS><D>interest</D></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM AI
+&#22;&#22;&#1;f0062&#31;reute
+f f BC-Bundesbank's-Schlesin   06-01 0014</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE>Bundesbank's Schlesinger says no plan to cut discount rate-Nihon Keizai newspaper
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

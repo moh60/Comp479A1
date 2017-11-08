@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10533" NEWID="5620">
+<DATE>16-MAR-1987 14:52:45.65</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f3348&#31;reute
+r f BC-SEVEN-OAKS-&lt;QPON>-IN   03-16 0099</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SEVEN OAKS &lt;QPON> IN TELEMARKETING VENTURE</TITLE>
+<DATELINE>    MEMPHIS, Tenn., March 16 - </DATELINE><BODY>Seven Oaks International Inc
+said it has formed a new 80 pct owned subsidiary called Seven
+Oaks Direct Inc to offer a full line of telemarketing services.
+    It said Seven Oaks direct management will own the remaining
+20 pct.
+    The company said initial costs connected with the startupo
+of a new Memphis, Tenn., marketing center for Seven Oaks direct
+may hurt earnings slightly in the first half of the year ending
+in April 1988, but Seven Oaks Direct should operate at no worse
+than breakeven for fiscal 1988 as a whole.
+ Reuter
+&#3;</BODY></TEXT>

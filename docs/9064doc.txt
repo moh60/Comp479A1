@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14585" NEWID="9064">
+<DATE>24-MAR-1987 17:15:35.82</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2630&#31;reute
+d f BC-MARYLAND-NATIONAL-&lt;MD   03-24 0107</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MARYLAND NATIONAL &lt;MDNT> SEES NEW NAME</TITLE>
+<DATELINE>    BALTIMORE, March 24 - </DATELINE><BODY>Maryland National Corp, the parent of
+Maryland National Bank which earlier this month merged with
+American Security Bank, said its shareholders will vote on a
+new name for the regional bank holding company at its April 29
+annual meeting.
+    It said MNC Financial Inc is the proposed new name for the
+parent company. The banks merged on March 16, and have combined
+assets of about 14 billion dlrs.
+    Maryland said the new name only will be used for the parent
+and it does not plan to change the names of Maryland National
+Bank, American Security Bank or non-bank affiliates.
+ Reuter
+&#3;</BODY></TEXT>

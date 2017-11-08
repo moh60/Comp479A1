@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7606" NEWID="18161">
+<DATE> 2-JUN-1987 13:39:56.53</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE><D>greenspan</D></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A
+&#22;&#22;&#1;f2051&#31;reute
+r f BC-KEMP-PRAISES-GREENSPA   06-02 0102</UNKNOWN>
+<TEXT>&#2;
+<TITLE>KEMP PRAISES GREENSPAN VIEWS ON MONETARY REFORM</TITLE>
+<DATELINE>    WASHINGTON, June 2 - </DATELINE><BODY>Rep. Jack Kemp, a conservative
+Republican from New York, praised Federal Reserve Board
+chairman-designate Alan Greenspan's calls for international
+monetary reform.
+    "Alan Greenspan has called for a fundamental reform of the
+international monetary system, which is long overdue. The
+challenge facing Mr Greenspan is to combine a commitment to
+monetary reform with a policy for economic growth," Kemp said in
+a statement.
+    However, Kemp said he was disappointed Fed vice-chairman
+Manuel Johnson was not to succeed Fed chief Paul Volcker.
+ Reuter
+&#3;</BODY></TEXT>

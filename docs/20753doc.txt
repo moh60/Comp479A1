@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="21348" NEWID="20753">
+<DATE>20-OCT-1987 16:54:53.27</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f3271&#31;reute
+u f BC-FIRST-REPUBLICBANK-&lt;F   10-20 0071</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FIRST REPUBLICBANK &lt;FRB.N> CORP 3RD QTR LOSS</TITLE>
+<DATELINE>    DALLAS, Oct 20 -
+    </DATELINE><BODY>shr diluted loss 46 cts
+    net loss 6,300,000
+    nine mths
+    shr diluted loss 10.89 dlrs
+    net loss 309,100,000
+    NOTE: No comparisons because company was formed in June
+1987 through merger of RepublicBank Corp and Interfirst Corp.
+    Nine mths includes previously reported provision of 325 mln
+dlrs in second quarter for possible losses on ldc loans.
+ Reuter
+&#3;</BODY></TEXT>

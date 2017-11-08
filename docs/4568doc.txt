@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9481" NEWID="4568">
+<DATE>12-MAR-1987 17:09:35.81</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0638&#31;reute
+h f BC-GENERAL-ELECTRIC-&lt;GE>   03-12 0106</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GENERAL ELECTRIC &lt;GE> NEW JET ENGINE TESTED</TITLE>
+<DATELINE>    EVENDALE, Ohio, March 12 - </DATELINE><BODY>General Electric said its
+unducted fan jet engine lived up to expectations in recently
+completed tests on a Boeing Co &lt;BA> 727 airplane.
+    The engine, which contains two sets of counter-rotating fan
+blades, marks an advance over conventional engines built with
+ultra high bypass ducted fans. The testing was a joint effort
+of GE and Boeing, using technical and financial support from
+the National Aeronautics and Space Administration, NASA, the
+company said.
+    The company said the engine has fuel savings of 40 to 70
+pct over those used in aircraft used today.
+ Reuter
+&#3;</BODY></TEXT>

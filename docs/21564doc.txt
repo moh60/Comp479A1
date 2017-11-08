@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="19872" NEWID="21564">
+<DATE>19-OCT-1987 02:13:27.13</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>tse</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM 
+&#22;&#22;&#1;f0103&#31;reute
+f f BC-Tokyo---Stock-index-c   10-19 0010</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE>Tokyo - Stock index closes 620.18 points lower at 25,746.56
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

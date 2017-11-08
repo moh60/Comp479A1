@@ -1,0 +1,30 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17908" NEWID="1490">
+<DATE> 4-MAR-1987 10:40:06.91</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0425&#31;reute
+d f BC-NATRIONAL-HEALTHCORP   03-04 0118</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NATRIONAL HEALTHCORP &lt;NHC> EXPANDING CENTERS</TITLE>
+<DATELINE>    MURFREESBORO, Tenn., March 4 - </DATELINE><BODY>National HealthCorp LP said
+it has started adding 46 beds for its Greenwood Health Care
+Center in Greenwood, S.C., and plans to add 10 beds to its
+Springfield Health Care Center in Springfield, Tenn.
+    The company said it has opened Colonial Hill Retirement
+Apartments adjacent to its Colonial Hill Health Care Center in
+Johnson City, Tenn., and has completely remodeled National
+Health Care Center in Lawrenceburg, Tenn.
+    It said it is acquiring the title to that center, which had
+been owned by Lawrence County Lions Club and called Lions
+Nursing Home.
+    National said the projects will cost a total of about
+3,500,000 dlrs.
+ Reuter
+&#3;</BODY></TEXT>

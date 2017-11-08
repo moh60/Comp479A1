@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20831" NEWID="20236">
+<DATE>20-OCT-1987 10:26:58.34</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1259&#31;reute
+d f BC-SOUTHWEST-AIRLINES-&lt;L   10-20 0059</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SOUTHWEST AIRLINES &lt;LUV> TO REPURCHASE SHARES</TITLE>
+<DATELINE>    DALLAS, Oct 20 - </DATELINE><BODY>Southwest Airlines Co said it intends to
+repurchase up to 500,000 common shares in the open market from
+time to time.
+    The company also said it is expanding its air freight
+service to Dallas, Amarillo, Houston, Austin, Lubbock, San
+Antonio and Midland/Odessa, Texas and San Francisco.
+ Reuter
+&#3;</BODY></TEXT>

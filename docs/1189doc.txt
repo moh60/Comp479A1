@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16509" NEWID="1189">
+<DATE> 3-MAR-1987 12:55:04.17</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0175&#31;reute
+r f BC-GENERAL-AUTOMATION-&lt;G   03-03 0061</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GENERAL AUTOMATION &lt;GENA> SETS LEASING PACT</TITLE>
+<DATELINE>    ANAHEIM, Calif., March 3 - </DATELINE><BODY>General Automation Inc said it
+has arranged a ten-mln-dlr leasing facility with Wells Fargo
+and Co's &lt;WFC> Wells Fargo Leasing Corp.
+    The program is a one-year facility that will allow
+financing for ZEBRA computers, other General Automation systems
+and applications sofware, the company said.
+ Reuter
+&#3;</BODY></TEXT>

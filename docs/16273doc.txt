@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="808" NEWID="16273">
+<DATE>13-APR-1987 09:58:41.79</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>canada</D><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F Y
+&#22;&#22;&#1;f0973&#31;reute
+r f BC-TEXACO-CANADA-&lt;TXC>-U   04-13 0105</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TEXACO CANADA &lt;TXC> UNAFFECTED BY LEGAL MOVE</TITLE>
+<DATELINE>    TORONTO, April 13 - </DATELINE><BODY>Texaco Canada Inc said its business
+operations, its plans and financial integrity are unaffected by
+yesterday's move by 78 pct-owner Texaco Inc &lt;TX> to file for
+protection under U.S. bankruptcy law.
+    Texaco Canada chief executive Peter Bijur said in a
+statement that "it is business as usual for us on Monday
+morning."
+    Texaco Inc added in a statement that it "has never operated
+outside the U.S., and relations with all foreign governments
+and activities of interest to them and their citizens are not
+affected" by its legal dispute with Pennzoil Co &lt;PZL>.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="8644" NEWID="3731">
+<DATE>11-MAR-1987 11:43:16.92</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0654&#31;reute
+d f BC-BELLSOUTH-&lt;BSC>-UNIT   03-11 0097</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BELLSOUTH &lt;BSC> UNIT OFFERS NEW TELEPHONE SYSTEM</TITLE>
+<DATELINE>    BIRMINGHAM, Ala., March 11 - </DATELINE><BODY>BellSouth Advanced Systems, a
+unit of BellSouth Corp, said it has introduced a private
+telephone system, called BellSouth System 30, offering smaller
+companies a wide range of advanced telecommunications services.
+    BellSouth said the services, aimed at companies requiring
+up to 20 telephones, include speed dialing for 500 frequently
+called numbers, last number redial, conference calling and
+speakerphones, among others.
+    The company said the System 30 has the capacity for 10
+outside lines.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5918" NEWID="17580">
+<DATE> 1-JUN-1987 11:12:31.69</DATE>
+<TOPICS><D>pet-chem</D><D>acq</D></TOPICS>
+<PLACES><D>belgium</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1350&#31;reute
+r f BC-MONSANTO-TO-BUY-RHONE   06-01 0097</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MONSANTO TO BUY RHONE-POULENC POLYPHENYL BUSINESS</TITLE>
+<DATELINE>    BRUSSELS, June 1 - </DATELINE><BODY>Monsanto Chemical Company, a unit of
+Monsanto Co &lt;MTC.N>, is to acquire the polyphenyls business of
+Rhone-Poulenc Chimie, a unit of Rhone-Poulenc &lt;RHON.PA>,
+Monsanto said in a statement issued from its European
+headquarters.
+    The statement did not disclose financial details.
+    Gustaaf Francx, general manager of Monsanto Chemical Co
+Europe-Africa, said the acquisition would help Monsanto to
+expand its customer base for polyphenyls, which are used as
+components for high temperature heat transfer fluids.
+ Reuter
+&#3;</BODY></TEXT>

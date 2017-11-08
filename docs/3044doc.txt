@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19462" NEWID="3044">
+<DATE> 9-MAR-1987 09:30:35.65</DATE>
+<TOPICS><D>money-fx</D><D>interest</D></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0039&#31;reute
+b f BC-U.K.-MONEY-MARKET-GIV   03-09 0096</UNKNOWN>
+<TEXT>&#2;
+<TITLE>U.K. MONEY MARKET GIVEN FURTHER HELP AT NEW RATES</TITLE>
+<DATELINE>    LONDON, March 9 - </DATELINE><BODY>The Bank of England said it provided the
+market with further assistance during the afternoon, buying
+bills worth 166 mln stg at the lower rates introduced this
+morning.
+    It bought 45 mln stg of local authority bills plus 27 mln
+stg of bank bills in band one at 10-3/8 pct together with 94
+mln stg of band two bank bills at 10-5/16 pct.
+    The bank also revised its estimate of the market shortage
+up to 300 mln stg from 250 mln this morning. It has given total
+assistance of 213 mln stg today.
+ REUTER
+&#3;</BODY></TEXT>

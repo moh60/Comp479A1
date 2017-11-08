@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="485" NEWID="12257">
+<DATE> 1-APR-1987 15:34:16.89</DATE>
+<TOPICS><D>carcass</D><D>livestock</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;LQ
+&#22;&#22;&#1;f2283&#31;reute
+r f BC-poultry-sltr   04-01 0068</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ESTIMATED U.S. POULTRY SLAUGHTER</TITLE>
+<DATELINE>    KANSAS CITY, April 1  - </DATELINE><BODY>The United States department of
+agriculture estimated live poultry slaughter for the week
+ending April 1  as follows, in thousands -
+            Current      Previous
+ Class      week         week
+ Bro/Fry      92,552      95,563 
+ Lt Fowl       2,840       3,354 
+ Hvy Fowl        651         789 
+ Check Total  96,043      99,706 
+ Reuter
+&#3;</BODY></TEXT>

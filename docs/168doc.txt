@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="5711" NEWID="168">
+<DATE>26-FEB-1987 17:45:00.59</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E
+&#22;&#22;&#1;f0242&#31;reute
+r f BC-MARSHALL-STEEL-DETAIL   02-26 0049</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MARSHALL STEEL DETAILS GAIN FROM UNIT SALE</TITLE>
+<DATELINE>    MONTREAL, Feb 26 - </DATELINE><BODY>(Marshall Steel Ltd), formerly Marshall
+Drummond McCall Inc, said it will report a 17 mln dlr net gain
+before taxes this year from the sale of its Drummond McCall
+division, which was sold effective January one.                
+   
+ Reuter
+&#3;</BODY></TEXT>

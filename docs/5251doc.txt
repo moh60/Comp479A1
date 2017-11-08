@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10164" NEWID="5251">
+<DATE>16-MAR-1987 06:17:44.66</DATE>
+<TOPICS><D>money-supply</D></TOPICS>
+<PLACES><D>west-germany</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f1465&#31;reute
+f f BC-German-February-centr   03-16 0017</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE> German February central bank money grows annual 7.5 pct (January, same) - prov. Bundesbank data
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

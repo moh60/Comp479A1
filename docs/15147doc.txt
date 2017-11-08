@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4130" NEWID="15147">
+<DATE> 8-APR-1987 13:04:34.11</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1843&#31;reute
+w f BC-NEW-JERSEY-HOSPITAL-A   04-08 0046</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NEW JERSEY HOSPITAL ASSOCIATION SYMPOSIUM</TITLE>
+<DATELINE>    PRINCETON, April 8 - </DATELINE><BODY>The New Jersey Hospital Association
+said it will hold a symposium on the quality of hospital care
+on Friday, April 10.
+    Thirty-eight health-care executives from 18 nations will be
+on hand at the symposium.
+
+ Reuter
+&#3;</BODY></TEXT>

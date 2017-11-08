@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7422" NEWID="17977">
+<DATE> 2-JUN-1987 09:08:47.97</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0854&#31;reute
+u f BC-GM-UNIT-&lt;GMH>-NEGOTIA   06-02 0095</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GM UNIT &lt;GMH> NEGOTIATING FOR BRITISH CONTRACT</TITLE>
+<DATELINE>    EL SEGUNDO, Calif., June 2 - </DATELINE><BODY>General Motors Corp's Hughes
+Aircraft Co subsidiary said it has been chosen by British
+Satellite Broadcasting to negotiate for a contract worth about
+300 mln dlrs to deliver two satellites for direct broadcast
+television.
+    The company said the first of the satellites is scheduled
+to start up three channels of direct broadcast satellite
+television by late 1989.
+    The company said the contract should be signed by June 30. 
+Each satellite would be equipped with three 110-watt channels.
+ Reuter
+&#3;</BODY></TEXT>

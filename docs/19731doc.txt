@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="8059" NEWID="19731">
+<DATE>29-JUN-1987 12:38:01.44</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1738&#31;reute
+u f BC-BSN-&lt;BSN>-BUYS-STAKE   06-29 0044</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BSN &lt;BSN> BUYS STAKE IN MACGREGOR &lt;MGS></TITLE>
+<DATELINE>    DALLAS, June 29 - </DATELINE><BODY>BSN Corp said it holds less than five pct
+of MacGregor Sporting Goods.
+    The company said the stock was acquired through recent open
+market purchases and the stake does not require specific
+disclosure.
+ Reuter
+&#3;</BODY></TEXT>

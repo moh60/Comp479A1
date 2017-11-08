@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13539" NEWID="8018">
+<DATE>20-MAR-1987 17:21:38.85</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2547&#31;reute
+u f BC-GRUMMAN-&lt;GQ>-GETS-109   03-20 0051</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GRUMMAN &lt;GQ> GETS 109.1 MLN DLR NAVY CONTRACT</TITLE>
+<DATELINE>    WASHINGTON, March 20 - </DATELINE><BODY>Grumman Aerospace Corp is being
+awarded a 109.1 mln dlr increment of funds to a Navy contract
+for 12 EA-6B Prowler Electronic Warfare aircraft, the Defense
+Department said.
+    It said the work is expected to be completed in July 1989.
+ Reuter
+&#3;</BODY></TEXT>

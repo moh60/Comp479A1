@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10237" NEWID="5324">
+<DATE>16-MAR-1987 09:29:54.45</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1983&#31;reute
+r f BC-MAXCOM-APPOINTS-CHAIR   03-16 0050</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MAXCOM APPOINTS CHAIRMAN, PRESIDENT</TITLE>
+<DATELINE>    WALtHAM, Mass., March 16 - </DATELINE><BODY>&lt;MAXCOM Corp> said it elected
+Ugo de Fusco to the newly-created positions of chairman and
+president.
+    MAXCOM said de Fusco's last post was a vice president of a
+European division of International Business Machines Corp
+&lt;IBM>.
+    
+ Reuter
+&#3;</BODY></TEXT>

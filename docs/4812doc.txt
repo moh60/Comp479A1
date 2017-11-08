@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9725" NEWID="4812">
+<DATE>13-MAR-1987 10:04:11.49</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0973&#31;reute
+d f BC-PACKAGING-SYSTEMS-&lt;PA   03-13 0053</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PACKAGING SYSTEMS &lt;PAKS> TO BUY LABEL FIRM</TITLE>
+<DATELINE>    PEARL RIVER, N.Y., March 13 - </DATELINE><BODY>Packaging Systems Corp said
+it agreed to acquire &lt;Walter-Richter Labels Inc>, a privately
+held maker of woven labels based in Paterson, N.J.
+    Terms of the acquisition, which is expected to be completed
+within 60 days, were not disclosed.
+ Reuter
+&#3;</BODY></TEXT>

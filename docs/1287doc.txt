@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16607" NEWID="1287">
+<DATE> 3-MAR-1987 15:42:17.82</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0770&#31;reute
+h f BC-CONTINENTAL-GENERAL-&lt;   03-03 0065</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CONTINENTAL GENERAL &lt;CGIC> SETS STOCK DIVIDEND</TITLE>
+<DATELINE>    OMAHA, Neb., March 3 - </DATELINE><BODY>Continental General Insurance Co
+said its board of directors declared a 10 pct stock dividend on
+common shares, payable April one to shareholders of record
+March 16.
+    The company yesterday paid a quarterly cash dividend of
+2-1/2 cts a share, unchanged from the previous quarter, to
+shareholders of record February 20.
+ Reuter
+&#3;</BODY></TEXT>

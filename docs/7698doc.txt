@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13219" NEWID="7698">
+<DATE>20-MAR-1987 10:27:23.94</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F
+&#22;&#22;&#1;f1043&#31;reute
+u f BC-cooper-canada-said-it   03-20 0049</UNKNOWN>
+<TEXT>&#2;
+<TITLE>COOPER CANADA SAID IT RECEIVED TAKEOVER OFFERS</TITLE>
+<DATELINE>    Toronto, March 20 - </DATELINE><BODY>&lt;Cooper Canada Ltd> said it has
+received takeover offers from "a number of companies."
+    The company also said that "discussions are continuing, but
+no definitive arrangements have been made."
+    It gave no further details.
+ Reuter
+&#3;</BODY></TEXT>

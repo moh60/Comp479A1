@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20430" NEWID="21007">
+<DATE>19-OCT-1987 15:30:22.56</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D><D>france</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2842&#31;reute
+r f BC-BROWN-DISC-TO-BUY-RHO   10-19 0076</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BROWN DISC TO BUY RHONE-POULENC &lt;RHON.PA> UNIT</TITLE>
+<DATELINE>    COLORADO SPRINGS, Colo., Oct 19 - </DATELINE><BODY>Brown Disc Products Co
+Inc, a unit fo Genevar Enterprises Inc, said it has purchased
+the ongoing business, trademarks and certain assets of
+Rhone-Poulenc's Brown Disc Manufacturing unit, for undisclosed
+terms.
+    Rhone-Poulenc is a French-based chemical company.
+    Under the agreement, Rhone-Poulenc will supply magnetic
+tape and media products to Brown Disc Products.
+ Reuter
+&#3;</BODY></TEXT>

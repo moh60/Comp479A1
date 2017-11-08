@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20331" NEWID="21106">
+<DATE>19-OCT-1987 14:16:21.69</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2510&#31;reute
+d f BC-WASHINGTON-WATER-POWE   10-19 0052</UNKNOWN>
+<TEXT>&#2;
+<TITLE>WASHINGTON WATER POWER &lt;WWP> 3RD QTR LOSS</TITLE>
+<DATELINE>    SPOKANE, Wash., Oct 19 -
+    </DATELINE><BODY>Shr loss 12 cts vs profit two cts
+    Net loss 2,669,000 vs profit 528,000
+    Revs 79.8 mln vs 74.9 mln
+    Nine mths
+    Shr profit 64 cts vs profit 1.63 dlrs
+    Net profit 14.3 mln vs profit 35.7 mln
+    Revs 280.0 mln vs 288.8 mln
+
+ Reuter
+&#3;</BODY></TEXT>

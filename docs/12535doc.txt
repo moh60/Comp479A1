@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="1611" NEWID="12535">
+<DATE> 2-APR-1987 09:39:45.38</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F
+&#22;&#22;&#1;f0972&#31;reute
+r f BC-bellcanada   04-02 0109</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BELL CANADA &lt;BCE> UNIT SETS OFFERING TERMS</TITLE>
+<DATELINE>    VANCOUVER, April 2 - </DATELINE><BODY>&lt;BCE Development Corp>, about 69 pct
+owned by Bell Canada Enterprises Inc, said its previously
+announced offering of preferred shares will total 90 mln dlrs,
+with shares priced at 25 dlrs each.
+    It also said it will redeem its 75-cent class A shares at
+six dlrs a share plus accrued dividends on closing of the
+preferred share issue, expected April 22.
+    BCE Development said the cumulative redeemable retractable
+class A preferred shares will pay dividends at an annual rate
+equal to the higher of 2.25 Canadian dlrs a share or the
+Canadian dollar equivalent of 1.7186 U.S. dlrs.
+&#3;</BODY></TEXT>

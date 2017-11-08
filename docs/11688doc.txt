@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17750" NEWID="11688">
+<DATE>31-MAR-1987 16:31:17.71</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F
+&#22;&#22;&#1;f2641&#31;reute
+h f BC-onex-packaging-closes   03-31 0086</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ONEX PACKAGING CLOSES NEW BRUNSWICK PLANT</TITLE>
+<DATELINE>    ST ANDREW'S, New Brunswick, March 31 - </DATELINE><BODY>&lt;Onex Packaging Inc>
+said it closed a small metal can manufacturing plant at St.
+Andrew's employing eight people that has been inactive since
+late 1985.
+    Onex said the plant, producing six-ounce, two-piece metal
+cans for the fish industry, shut down when its major customer
+suddenly ceased canning operations.
+    Onex has not been able to find sufficient demand to support
+this type of can manufacturing in the region, it said.
+ Reuter
+&#3;</BODY></TEXT>

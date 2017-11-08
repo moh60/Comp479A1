@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10559" NEWID="5646">
+<DATE>16-MAR-1987 15:39:35.21</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE><D>james-miller</D></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;V RM
+&#22;&#22;&#1;f3474&#31;reute
+u f BC-OMB-CHIEF-SAYS-CONGRE   03-16 0112</UNKNOWN>
+<TEXT>&#2;
+<TITLE>OMB CHIEF SAYS CONGRESS CLOSE ON DEFICIT CUTS</TITLE>
+<DATELINE>    WASHINGTON, March 16 - </DATELINE><BODY>Office of Management and Budget
+Director James Miller said he believed Congress was moving
+closer to a compromise with the administration over federal
+budget deficit cuts for the coming fiscal year.
+    "I think Congress is moving in the direction of the
+president," he told Reuters as he was about to address a meeting
+of the Federal Managers Association.
+    He did not elaborate on this but said a reported agreement
+by House and Senate budget writers calling for about 36 billion
+dlrs in deficit cuts was "six billion too short." The
+administration proposed 42 billion dlrs in deficit reductions.
+ Reuter
+&#3;</BODY></TEXT>

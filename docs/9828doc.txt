@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15349" NEWID="9828">
+<DATE>26-MAR-1987 08:50:47.14</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>france</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0843&#31;reute
+u f BC-NIPPON-SIGNAL-ISSUES   03-26 0055</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NIPPON SIGNAL ISSUES 50 MLN SWISS FRANC NOTES</TITLE>
+<DATELINE>    ZURICH, March 26 - </DATELINE><BODY>Nippon Signal Co Ltd is issuing 50 mln
+Swiss franc of five year notes with warrants, paying an
+indicated 1-3/8 pct, lead manager Morgan Stanley said.
+    Terms will be fixed on April 2 with payment due April 22.
+The notes are guaranteed by Fuji Bank Ltd.
+ REUTER
+&#3;</BODY></TEXT>

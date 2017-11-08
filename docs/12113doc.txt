@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="341" NEWID="12113">
+<DATE> 1-APR-1987 12:53:57.90</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1742&#31;reute
+r f BC-CENTRAL-AND-SOUTH-&lt;CS   04-01 0076</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CENTRAL AND SOUTH &lt;CSR> UNIT TO REDEEM STOCK</TITLE>
+<DATELINE>    DALLAS, April 1 - </DATELINE><BODY>Central and South West Corp said it
+Southwestern Electric Power Co subsidiary will redeem all
+300,000 shares outstanding of its 8.16 pct preferred stock, par
+value 100 dlrs per share, on May one.
+    It said the redemption price is 103.72 dlrs a share plus
+accrued and unpaid dividends from April one to May one of 68
+cts per share for a total of 194.40 dlrs a share paid to
+shareholders.
+ Reuter
+&#3;</BODY></TEXT>

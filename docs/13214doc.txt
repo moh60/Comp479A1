@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="2183" NEWID="13214">
+<DATE> 3-APR-1987 18:05:00.37</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F
+&#22;&#22;&#1;f2507&#31;reute
+d f BC-&lt;COMTERM-INC>-YEAR-JA   04-03 0060</UNKNOWN>
+<TEXT>&#2;
+<TITLE>&lt;COMTERM INC> YEAR JAN 31 LOSS</TITLE>
+<DATELINE>    MONTREAL, April 3 -
+    </DATELINE><BODY>Oper shr loss 30 cts vs profit eight cts
+    Oper net loss 5,887,996 vs profit 1,620,312
+    Revs 32.4 mln vs 48.5 mln
+    Note: 1987 net excludes extraordinary gain of 2.7 mln dlrs
+or 14 cts shr from settlement of provision for discontinued
+operations vs yr-ago tax gain of 562,248 dlrs or three cts shr.
+ Reuter
+&#3;</BODY></TEXT>

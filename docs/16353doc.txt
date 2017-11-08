@@ -1,0 +1,33 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="888" NEWID="16353">
+<DATE>13-APR-1987 11:16:14.91</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f1354&#31;reute
+b f BC-JOHN-MOWLEM-ARRANGES   04-13 0110</UNKNOWN>
+<TEXT>&#2;
+<TITLE>JOHN MOWLEM ARRANGES 50 MLN STERLING CP PROGRAM</TITLE>
+<DATELINE>    LONDON, April 13 - </DATELINE><BODY>John Mowlem Plc, the U.K. Building and
+construction company, has arranged a 50 mln stg commercial
+paper program, with an option to issue notes in U.S. Dollars,
+Mowlem treasurer Philip Ridal said.
+    He said the company hopes to make the first drawings in May
+to take advantage of lower borrowing costs and the greater
+flexibility afforded by this program. It also should increase
+the company's arbitrage opportunities, he added.
+    The program was arranged by Kleinwort Benson Ltd, which
+will act as a dealer along with Morgan Grenfell and Co Ltd and
+Swiss Bank Corp International Ltd.
+    The sterling notes will be sold in denominations of one mln
+and 500,000 stg and will have maturities of seven to 364 days.
+    Ridal said the new program will complement a note issuance
+facility the company arranged last year and also increase the
+investor base.
+ REUTER
+&#3;</BODY></TEXT>

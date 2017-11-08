@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11181" NEWID="6268">
+<DATE>17-MAR-1987 16:20:06.14</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM A
+&#22;&#22;&#1;f6510&#31;reute
+f f BC-BRASILIA---Brazilian   03-17 0013</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE>Brazilian Planning Minister Joao Sayad resigns - Globo television reports
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

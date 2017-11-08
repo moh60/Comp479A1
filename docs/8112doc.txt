@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13633" NEWID="8112">
+<DATE>22-MAR-1987 23:45:01.69</DATE>
+<TOPICS><D>oilseed</D><D>coconut</D></TOPICS>
+<PLACES><D>philippines</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;G C
+&#22;&#22;&#1;f0221&#31;reute
+u f BC-PHILIPPINE-COCONUT-PR   03-22 0059</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PHILIPPINE COCONUT PRODUCT EXPORTS FALL IN JANUARY</TITLE>
+<DATELINE>    MANILA, March 23 - </DATELINE><BODY>Coconut product exports fell to 163,924
+copra tonnes in January from 196,610 tonnes in December and
+167,747 tonnes in January last year, government figures show.
+    Coconut product sales earned 44.54 mln dlrs compared with
+45.30 mln in December and 49.09 mln a year earlier.
+ REUTER
+&#3;</BODY></TEXT>

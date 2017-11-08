@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7472" NEWID="18027">
+<DATE> 2-JUN-1987 10:38:33.20</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1194&#31;reute
+r f BC-PERPETUAL-SAVINGS-&lt;PA   06-02 0067</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PERPETUAL SAVINGS &lt;PASB.O> SETS HOLDING COMPANY</TITLE>
+<DATELINE>    ALEXANDRIA, Va., June 2 - </DATELINE><BODY>Perpetual Savings Bank said its
+board has approved formation of a holding company to be
+incorporated in Virginia, subject to Federal Home Loan Bank
+Board and shareholder approval.
+    It said its common and prefered shares would be exchanged
+on a one-for-one basis for shares of the holding company,
+Perpetual Financial corp.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11733" NEWID="6820">
+<DATE>18-MAR-1987 16:22:26.18</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f9429&#31;reute
+h f BC-SSMC-&lt;SSM>-FORMS-ELEC   03-18 0060</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SSMC &lt;SSM> FORMS ELECTRICAL PRODUCTS DIVISION</TITLE>
+<DATELINE>    STAMFORD, Conn., March 18 - </DATELINE><BODY>SSMC Inc said it formed a
+separate division to consolidate the manufacture and marketing
+of its motors for the appliance, computer and automotive
+industries.
+    SSMC was spun-off from Singer Co &lt;SMF> in July and operates
+the former sewing machines and furniture businesses of Singer.
+ Reuter
+&#3;</BODY></TEXT>

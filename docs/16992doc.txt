@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="NOT-USED" CGISPLIT="PUBLISHED-TESTSET" OLDID="21642" NEWID="16992">
+<DATE>21-APR-1987 10:54:21.42</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1214&#31;reute
+d f BC-ADMAR-&lt;ADMR.O>-TO-BUY   04-21 0063</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ADMAR &lt;ADMR.O> TO BUY SELECTCARE</TITLE>
+<DATELINE>    ORANGE, Calif., April 21 - </DATELINE><BODY>Admar Group Inc said it agreed
+in principle to acquire SelectCare Management Co Inc for a
+combination of cash and stock totaling 3.6 mln dlrs.
+    SelectCare, based in Torrance, Calif., manages alternative
+health care delivery systems, Admar said.
+    It said the company has annual revenues of about 1.5 mln
+dlrs.
+ Reuter
+&#3;</BODY></TEXT>

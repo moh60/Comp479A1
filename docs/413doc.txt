@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12596" NEWID="413">
+<DATE> 2-MAR-1987 09:36:46.03</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>bangladesh</D><D>netherlands</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G T M
+&#22;&#22;&#1;f0515&#31;reute
+d f BC-NETHERLANDS-GRANTS-47   03-02 0064</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NETHERLANDS GRANTS 47 MLN DLRS TO BANGLADESH</TITLE>
+<DATELINE>    DHAKA, March 2 - </DATELINE><BODY>Bangladesh will receive a grant equivalent
+to 47 mln U.S. Dlrs from the Netherlands during 1987 under an
+agreement signed here Saturday, officials said.
+    This raised the amount of Dutch grants to Bangladesh to 759
+mln dlrs since 1972, used mainly for commodity imports and
+implementing development projects, they said.
+ Reuter
+&#3;</BODY></TEXT>

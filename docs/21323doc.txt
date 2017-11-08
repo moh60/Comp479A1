@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20113" NEWID="21323">
+<DATE>19-OCT-1987 11:24:57.62</DATE>
+<TOPICS><D>money-fx</D></TOPICS>
+<PLACES></PLACES>
+<PEOPLE><D>stoltenberg</D></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM 
+&#22;&#22;&#1;f1567&#31;reute
+f f BC-Stoltenberg-says-he-a   10-19 0011</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE> Stoltenberg says he assumes monetary cooperation will continue
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19611" NEWID="3189">
+<DATE> 9-MAR-1987 12:07:44.70</DATE>
+<TOPICS><D>crude</D></TOPICS>
+<PLACES><D>usa</D><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;Y E
+&#22;&#22;&#1;f0759&#31;reute
+u f BC-SHELL-CANADA-&lt;SHC>-RA   03-09 0069</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SHELL CANADA &lt;SHC> RAISED CRUDE OIL POSTINGS</TITLE>
+<DATELINE>    NEW YORK, MARCH 9 - </DATELINE><BODY>Shell Canada, a wholly owned subsidiary
+of the Royal Dutch/Shell Group &lt;RD> said that it raised crude
+oil prices by about 47 Canadian cts a barrel today.
+    The increase riased its posted price for Light sweet crude
+oil to 21.95 dlrs a barrel from its march one level.
+    Light sour crudes were raised to 19.95 dlrs a barrel, the
+company said.
+ Reuter
+&#3;</BODY></TEXT>

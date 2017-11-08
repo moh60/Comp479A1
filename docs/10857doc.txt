@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16918" NEWID="10857">
+<DATE>30-MAR-1987 11:40:35.66</DATE>
+<TOPICS><D>hog</D><D>livestock</D></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;CQ LQ
+&#22;&#22;&#1;f1592&#31;reute
+u f BC-iowa-s-minn-hog-rcpts   03-30 0017</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+**<TITLE>Ia-So Minn direct hogs estimated rcpts 95,000 vs actual week ago 93,000 and actual year ago 93,000.
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

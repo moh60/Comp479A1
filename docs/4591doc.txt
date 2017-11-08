@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9504" NEWID="4591">
+<DATE>12-MAR-1987 17:52:43.85</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0755&#31;reute
+u f BC-INTERCONNECT-OFFERS-T   03-12 0115</UNKNOWN>
+<TEXT>&#2;
+<TITLE>INTERCONNECT OFFERS TO BUY GATES LEARJET &lt;GLJ></TITLE>
+<DATELINE>    STAMFORD, Conn., March 12 - </DATELINE><BODY>&lt;Interconnect Capital Corp>
+said it sent a letter to the board of Gates Learjet Corp,
+offering to buy the company for 7.07 dlrs a share.
+    Gates Corp, which owns 64.8 pct of Gates Learjet, agreed
+earlier this week to sell its shares to a partnership formed by
+privately-held &lt;Cobey Corp> and a unit of Bear Stearns Cos Inc
+&lt;BSC> for 6.50 dlrs a share or 51 mln dlrs. The proposal is
+subject to approval by Gates Learjet's board.
+    A spokesman for privately-held Interconnect said it made
+the new proposal to Gates Learjet's board, but would not say if
+it had held talks with the parent company's board.
+   
+ Reuter
+&#3;</BODY></TEXT>

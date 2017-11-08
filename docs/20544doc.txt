@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="21139" NEWID="20544">
+<DATE>20-OCT-1987 14:24:01.21</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2682&#31;reute
+u f BC-US-WEST-&lt;USW>-REPURCH   10-20 0037</UNKNOWN>
+<TEXT>&#2;
+<TITLE>US WEST &lt;USW> REPURCHASING SHARES</TITLE>
+<DATELINE>    DENVER, COLO., Oct 20 - </DATELINE><BODY>US West Inc said it is aggressively
+repurchasing its shares.
+    In 1984, directors authorized the repurchase of up to 10
+mln shares over any three year period.
+ Reuter
+&#3;</BODY></TEXT>

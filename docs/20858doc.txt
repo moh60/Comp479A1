@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20579" NEWID="20858">
+<DATE>19-OCT-1987 20:52:18.14</DATE>
+<TOPICS><D>money-fx</D></TOPICS>
+<PLACES></PLACES>
+<PEOPLE><D>miyazawa</D></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM AI 
+&#22;&#22;&#1;f3533&#31;reute
+f f BC-Miyazawa-says-G-7-sti   10-19 0010</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE>Miyazawa says G-7 still strongly supports Louvre Accord
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

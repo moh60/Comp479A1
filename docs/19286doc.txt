@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7122" NEWID="19286">
+<DATE>19-JUN-1987 13:16:09.45</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1746&#31;reute
+u f BC-N.Y.-TIMES-&lt;NYT>-TO-B   06-19 0102</UNKNOWN>
+<TEXT>&#2;
+<TITLE>N.Y. TIMES &lt;NYT> TO BUY GWINNETT DAILY NEWS</TITLE>
+<DATELINE>    NEW YORK, June 19 - </DATELINE><BODY>The New York Times Co said it had an
+agreement to buy the Gwinnett Daily News, an evening newspaper
+published in Lawrenceville, Ga., Terms were not disclosed.
+    The company said Gwinnett has a weekday circulation of
+about 27,500 and a Sunday circulation of about 30,900. The New
+York Times also said Gwinnett County, a northeast suburb of
+Atlanta, is the fastest-growing county in the country.
+    The purchase agreement includes the Forsyth County News,
+published on Wednesday and Sunday and the Winder News, a
+weekly, among other publications.
+ Reuter
+&#3;</BODY></TEXT>

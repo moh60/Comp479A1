@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13675" NEWID="8154">
+<DATE>23-MAR-1987 05:12:02.83</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>japan</D><D>hong-kong</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0289&#31;reute
+u f BC-TOSHIBA-SETS-UP-HONG   03-23 0073</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TOSHIBA SETS UP HONG KONG CIRCUIT DESIGN CENTRE</TITLE>
+<DATELINE>    TOKYO, March 23 - </DATELINE><BODY>Toshiba Corp &lt;TSBA.T> said it has set up
+a design centre for large integrated circuits (LSI) in Hong
+Kong.
+    The centre, located at its wholly-owned Hong Kong
+subsidiary &lt;Toshiba Electronics Asia Ltd>, will start
+operations to help create new demand for semi-customized LSI
+from April 1.
+    Toshiba has nine LSI design centres in the U.S., Europe and
+Japan.
+ REUETER
+&#3;</BODY></TEXT>

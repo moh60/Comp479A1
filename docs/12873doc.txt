@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="1842" NEWID="12873">
+<DATE> 3-APR-1987 09:55:17.66</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0961&#31;reute
+r f BC-NEWMONT-GOLD-&lt;NGC>-OF   04-03 0103</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NEWMONT GOLD &lt;NGC> OFFERS SHARES</TITLE>
+<DATELINE>    NEW YORK, April 3 - </DATELINE><BODY>Newmont Gold Co is offering five mln
+common shares at 31 dlrs apiece, co-managing underwriters
+Kidder, Peabody and Co, Lazard Freres and Co and Salomon
+Brothers Inc said.
+    All shares are being issued and offered by the company. The
+underwriters have been granted an option to buy up to 500,000
+more shares to cover over-allotments.
+    Proceeds will be used to repay long-term debt owed to
+Newmont Mining Corp &lt;NEM>, which will own over 90 pct of
+Newmont Gold after the offer. Proceeds will also be used for
+general purposes, the gold production company said.
+ Reuter
+&#3;</BODY></TEXT>

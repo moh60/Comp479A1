@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="BYPASS" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="2498" NEWID="13515">
+<DATE> 7-APR-1987 07:07:21.40</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0408&#31;reute
+r f BC-egyptian-bullion/coin   04-07 0040</UNKNOWN>
+<TEXT TYPE="UNPROC">&#2;
+Egyptian bullion/coins - april 7 gold, fine, per gram          
+2890 silver, pure, per gram          50.0 republic (egypt gold
+pound)    22000 sovereign (kings head)         21500 sovereign
+(queens head)        21500 in egyptian piastres ==
+&#3;
+
+</TEXT>

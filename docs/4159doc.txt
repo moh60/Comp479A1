@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9072" NEWID="4159">
+<DATE>12-MAR-1987 08:54:32.55</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0822&#31;reute
+d f BC-FIRST-UNION-&lt;FUNC>-AC   03-12 0063</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FIRST UNION &lt;FUNC> ACQUISITION ADVANCES</TITLE>
+<DATELINE>    JACKSONVILLE, Fla., March 12 - </DATELINE><BODY>First Union Corp said
+shareholders of First North Port Bancorp of Northport, Fla.,
+have approved a merger into First Union for 40 dlrs per share,
+or about 5,100,000 dlrs.
+    The company said the acquisition is still subject to
+regulatory approvals and is expected to be completed during the
+second quarter.
+ Reuter
+&#3;</BODY></TEXT>

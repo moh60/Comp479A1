@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20098" NEWID="21338">
+<DATE>19-OCT-1987 11:12:09.72</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;M 
+&#22;&#22;&#1;f1488&#31;reute
+d f BC-GM-Canada   10-19 0109</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GM CANADA TO MAKE CONTRACT OFFER TO UNION</TITLE>
+<DATELINE>    TORONTO, Oct 19 - </DATELINE><BODY>The Canadian division of General Motors
+Corp will make its first economic offer later Monday in 
+contract negotiations with 40,000 members of the Canadian Auto
+Workers, the union said.
+    The union is seeking the same contract pattern it has
+reached at the Canadian units of Ford Motor Co and Chrysler
+Corp including partial pension indexation and wage increases in
+each year of a three-year pact.
+    The union hareatened to strike at 10 a.m. EDT on
+Thursday unless General Motors of Canada Ltd meets the pattern
+and settles a host of local issues at 11 plants in Quebec and
+Ontario.
+ Reuter
+&#3;</BODY></TEXT>

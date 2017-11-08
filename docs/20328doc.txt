@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20923" NEWID="20328">
+<DATE>20-OCT-1987 11:21:52.54</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1586&#31;reute
+w f BC-A/W-BRANDS-&lt;SODA.O>-C   10-20 0039</UNKNOWN>
+<TEXT>&#2;
+<TITLE>A/W BRANDS &lt;SODA.O> COMPLETES ACQUISITION</TITLE>
+<DATELINE>    WHITE PLAINS, N.Y., Oct 20 - </DATELINE><BODY>A and W Brands Inc said it
+completed the acquisition of Vernors Inc from United Brands Co
+&lt;UB> in a cash and stock transaction worth valued at about 10
+mln dlrs
+ Reuter
+&#3;</BODY></TEXT>

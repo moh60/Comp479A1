@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4685" NEWID="15507">
+<DATE> 9-APR-1987 09:25:38.11</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0809&#31;reute
+u f BC-BEST-PRODUCTS-&lt;BES>-M   04-09 0052</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BEST PRODUCTS &lt;BES> MARCH SALES OFF 0.5 PCT</TITLE>
+<DATELINE>    RICHMOND, Va., April 9 - </DATELINE><BODY>Best Products Co Inc said sales
+for the five weeks ended April four were off 0.5 pct to 151.2
+mln dlrs from 152.0 mln dlrs a year earlier.
+    It said year-to-date sales were off 5.9 pct to 263.2 mln
+dlrs from 279.6 mln dlrs a year before.
+ Reuter
+&#3;</BODY></TEXT>

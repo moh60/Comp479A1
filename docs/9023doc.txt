@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14544" NEWID="9023">
+<DATE>24-MAR-1987 16:17:58.20</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM V
+&#22;&#22;&#1;f2475&#31;reute
+u f BC-/U.S.-TO-SELL-12.8-BI   03-24 0066</UNKNOWN>
+<TEXT>&#2;
+<TITLE>U.S. TO SELL 12.8 BILLION DLRS IN BILLS</TITLE>
+<DATELINE>    WASHINGTON, March 24 - </DATELINE><BODY>The U.S. Treasury said it will sell
+12.8 billion dlrs of three and six-month bills at its regular
+auction next week.
+    The March 30 sale, to be evenly divided between the three
+and six month issues, will result in a paydown of 1.2 billion
+dlrs as maturing bills total 13.99 billion dlrs.
+    The bills will be issued April 2.
+ Reuter
+&#3;</BODY></TEXT>

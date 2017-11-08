@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19625" NEWID="3203">
+<DATE> 9-MAR-1987 12:19:59.58</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0842&#31;reute
+w f BC-SPECTRUM-DIGITAL-&lt;SPD   03-09 0050</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SPECTRUM DIGITAL &lt;SPDG> INSTALLS FIRST SYSTEM</TITLE>
+<DATELINE>    HERNDON, Va., March 9 - </DATELINE><BODY>Spectrum Digital Corp said it
+installed its first multi-node ISDX T-1 multiplexer.
+    The company said the T-1 system was installed at the
+University of North Carolina's Education Computing Service at
+Research Triangle Park, N.C.
+ Reuter
+&#3;</BODY></TEXT>

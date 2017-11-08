@@ -1,0 +1,31 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="187" NEWID="11959">
+<DATE> 1-APR-1987 10:34:52.07</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D><D>japan</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1119&#31;reute
+u f BC-U.S.-SENATOR-HITS-JAP   04-01 0115</UNKNOWN>
+<TEXT>&#2;
+<TITLE>U.S. SENATOR ASSAILS JAPANESE TRADE PRACTICES</TITLE>
+<DATELINE>     WASHINGTON, April 1 - </DATELINE><BODY>Senate Agriculture Committee
+Chairman Patrick Leahy (D-Vt.) charged Japan with lying and
+cheating in its trade practices.
+     "The Japanese, not to put too fine a point on it, have
+lied, cheated and otherwise misused tariff legislation, theirs
+and ours. And that's to give them the benefit of the doubt,"
+Leahy said.
+     The senator's remarks to the National Cattlemen's
+Association provoked laughter, followed by applause.
+     Leahy said the Reagan administration's plan to raise
+tariffs on a variety of Japanese imports in retaliation against
+Tokyo's violation of a bilateral semiconducter pact was "long
+overdue."
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17171" NEWID="11110">
+<DATE>30-MAR-1987 17:19:01.86</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2669&#31;reute
+r f BC-SECURITY-TAG-SYSTEMS   03-30 0056</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SECURITY TAG SYSTEMS &lt;STAG> GETS RECORD ORDER</TITLE>
+<DATELINE>    ST PETERSBURG, Fla., March 30 - </DATELINE><BODY>Security Tag Systems Inc
+said its British-based affiliate received a three mln dlr order
+of electronic article surveillance equipment, the largest in
+the company's history.
+    It said it received the order from a British chain of
+speciality clothing stores.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15136" NEWID="9615">
+<DATE>25-MAR-1987 17:10:22.52</DATE>
+<TOPICS><D>housing</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A
+&#22;&#22;&#1;f2493&#31;reute
+u f BC-U.S.-HOME-RESALES-UP   03-25 0089</UNKNOWN>
+<TEXT>&#2;
+<TITLE>U.S. HOME RESALES UP IN FEBRUARY, REALTORS SAY</TITLE>
+<DATELINE>    WASHINGTON, March 25 - </DATELINE><BODY>The National Association of Realtors
+said sales of previously owned homes rose six pct during
+February from January levels to a seasonally adjusted annual
+rate of 3.69 mln units.
+    The realtors' group said the sales rise was apparent across
+the country and reflected lower mortgage interest rates as well
+as more housing demand.
+    Actual resales of homes during February totaled 241,000, up
+11.6 pct from the January total of 216,000, the association
+said.
+ Reuter
+&#3;</BODY></TEXT>

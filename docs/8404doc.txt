@@ -1,0 +1,33 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13925" NEWID="8404">
+<DATE>23-MAR-1987 13:28:10.67</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F
+&#22;&#22;&#1;f1858&#31;reute
+r f BC-DE-HAVILLAND,-SHORT-M   03-23 0112</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DE HAVILLAND, SHORT MAY MOVE ON PLANE THIS YEAR</TITLE>
+<DATELINE>    TORONTO, March 23 - </DATELINE><BODY>Boeing Co (BA)'s wholly owned De
+Havilland Aircraft Co of Canada Ltd and &lt;Short Brothers PLC>,
+of Northern Ireland said they might decide later this year
+whether to launch a joint commuter/regional aircraft program.
+    It said a program launch would lead to service entry for
+the new aircraft in 1991.
+    "Provided the ongoing market and detailing design
+configuration studies confirm demand and project viability, a
+decision to launch a joint program could be taken later this
+year," said the companies, which agreed last autumn to a
+12-month assessment of a new generation transport aircraft.
+    De Havilland and Short Brothers said they agreed to the
+basic parameters of the new aircraft, which they said would be
+aimed at the low end of the passenger range.
+    They declined to speculate on engine selection for the
+plane, but said several competitive powerplants were available.
+ Reuter
+&#3;</BODY></TEXT>

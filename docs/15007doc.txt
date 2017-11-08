@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="3990" NEWID="15007">
+<DATE> 8-APR-1987 10:11:53.50</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1060&#31;reute
+d f BC-DIGITAL-COMMUNICATION   04-08 0058</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DIGITAL COMMUNICATIONS&lt;DCAI> NAMES NEW PRESIDENT</TITLE>
+<DATELINE>    ALPHARETTA, Ga., April 8 - </DATELINE><BODY>Digital Communications
+Associates Inc said its board has named James Ottinger
+president and chief operating officer.
+    The company said Ottinger replaces Bertil Nordin as
+president. Nordin will become chairman and chief executive
+officer, Digital Communications added.
+ Reuter
+&#3;</BODY></TEXT>

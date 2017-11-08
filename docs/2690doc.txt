@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19108" NEWID="2690">
+<DATE> 6-MAR-1987 11:53:19.71</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0642&#31;reute
+r f BC-PROPOSED-OFFERINGS-RE   03-06 0080</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PROPOSED OFFERINGS RECENTLY FILED WITH THE SEC</TITLE>
+<DATELINE>    WASHINGTON, March 6 - </DATELINE><BODY>The following proposed securities
+offerings were filed recently with the Securities and Exchange
+Commission:
+    Evans and Sutherland Computer Corp (ESCC) - Offering of 50
+mln dlrs of 25-year convertible subordinated debentures through
+Hambrecht and Quist Inc.
+    Gould Inc (GLD) - Offering of two mln shares of convertible
+exchangeable preferred stock through First Boston Corp and
+Kidder, Peabody and Co Inc.
+ Reuter
+&#3;</BODY></TEXT>

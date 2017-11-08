@@ -1,0 +1,31 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="286" NEWID="12058">
+<DATE> 1-APR-1987 11:58:19.48</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1525&#31;reute
+r f BC-QUANTECH-&lt;QANT>-SAYS   04-01 0103</UNKNOWN>
+<TEXT TYPE="UNPROC">&#2;
+QUANTECH &lt;QANT> SAYS THREE DIRECTORS RESIGN
+    LEVITTOWN, N.Y., April 1, Quantech Electronics Corp said
+Leonard N. Hecht, Jack Goldfarb and Harold V. Wallace resigned
+as directors.
+    On March 26, the company announced the resignations of 
+Bernard Weinblatt as president and a director, and Hecht as
+chief executive officer. It said Hecht will serve as a
+consultant for an interim period.
+    Quantech said its remaining directors are Henry Ginsberg
+and David Siegel. Ginsberg, who is chairman, has been named
+president and chief executive officer, and Siegel has been
+named chief operating officer, the company said.
+ Reuter
+&#3;
+
+</TEXT>

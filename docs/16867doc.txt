@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1402" NEWID="16867">
+<DATE>17-APR-1987 12:13:20.16</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F Y
+&#22;&#22;&#1;f0307&#31;reute
+r f BC-DIAMOND-SHAMROCK-&lt;DIA   04-17 0059</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DIAMOND SHAMROCK &lt;DIA> SETS DATES FOR SPINOFF</TITLE>
+<DATELINE>    DALLAS, April 17 - </DATELINE><BODY>Diamond Shamrock Corp said it has set
+April 30 as the record date for the spinoff of its refining and
+marketing operations, Diamond R and M Inc, and shares will be
+mailed around May 10.
+    Shareholders will receive one Diamond R and M share for
+each four Diamond Shamrock shares held.
+ Reuter
+&#3;</BODY></TEXT>

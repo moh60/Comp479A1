@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7126" NEWID="19290">
+<DATE>19-JUN-1987 13:22:59.41</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1777&#31;reute
+u f BC-REED-SAYS-IT-HAS-NO-C   06-19 0089</UNKNOWN>
+<TEXT>&#2;
+<TITLE>REED SAYS IT HAS NO COMMENT ON HARCOURT RUMOURS</TITLE>
+<DATELINE>    LONDON, June 19 - </DATELINE><BODY>Reed International Plc &lt;REED.L> said it
+had no comment to make on U.K. stock market rumors that
+Harcourt Brace Jovanovich Inc &lt;HBJ> may make a bid for the
+company in order to escape unwelcome offers from Robert
+Maxwell's British Printing and Communication Corp &lt;BPCL.L>.
+    A spokeswoman for Reed said earlier analysts forecasts that
+a bid for Reed will have to be about 700 mln stg were totally
+unrealistic, adding that its current market is about 2.7
+billion stg.
+ Reuter
+&#3;</BODY></TEXT>

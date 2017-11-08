@@ -1,0 +1,31 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14465" NEWID="8945">
+<DATE>24-MAR-1987 14:26:07.90</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2100&#31;reute
+r f BC-LASER-PHOTONICS-&lt;LAZR   03-24 0109</UNKNOWN>
+<TEXT>&#2;
+<TITLE>LASER PHOTONICS &lt;LAZR> SELLS COMMON SHARES</TITLE>
+<DATELINE>    ORLANDO, Fla., March 24 - </DATELINE><BODY>Laser Photonics Inc said it sold
+615,385 shares of its common stock to investors for one mln
+dlrs under a previously-announced agreement.
+    In connection with the investment, the company said it will
+restructure its board. There will be eight members, three of
+whom were designated by the new investors, the company said.
+The group of investors include affiliates of &lt;Radix
+Organization Inc>, the company said.
+    Richard Gluch Jr resigned from the board. Joining the board
+were Leonard Lichter, Pierre Schoenheimer and Roger Kirk, the
+investors' designates, the company added.
+    Other members of the board are chairman Don Friedkin,
+president and chief executive officer Mark Fukuhara, and Jay
+Watnick, Ira Goldstein, Thurman Sasser and Michael Clinger.
+ Reuter
+&#3;</BODY></TEXT>

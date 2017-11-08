@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="8627" NEWID="3714">
+<DATE>11-MAR-1987 11:26:43.75</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0566&#31;reute
+h f BC-WISCONSIN-PUBLIC-SERV   03-11 0095</UNKNOWN>
+<TEXT>&#2;
+<TITLE>WISCONSIN PUBLIC SERVICE &lt;WPS> RAISES BUDGET</TITLE>
+<DATELINE>    GREEN BAY, WIS., March 11 - </DATELINE><BODY>Wisconsin Public Service Corp
+said in its annual report the company's five-year construction
+program, 1987 through 1991, is projected at 330 mln dlrs.
+    It said the amount, which includes about 4.0 mln dlrs for
+sulfur dioxide controls at company power plants, is 42 mln dlrs
+more than the previous five-year period.
+    Wisconsin Public Service also said natural gas sales
+dropped 22 pct, mainly because of the growing trend of large
+industrial customers to purchase gas directly from producers.
+ Reuter
+&#3;</BODY></TEXT>

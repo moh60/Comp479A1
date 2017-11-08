@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11553" NEWID="6640">
+<DATE>18-MAR-1987 13:02:32.26</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A RM
+&#22;&#22;&#1;f8753&#31;reute
+r f BC-HECHINGER-&lt;HECHA>-BON   03-18 0090</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HECHINGER &lt;HECHA> BONDS UPGRADED BY S/P</TITLE>
+<DATELINE>    NEW YORK, March 18 - </DATELINE><BODY>Standard and Poor's Corp said it
+raised to A-minus from BBB-plus Hechinger Co's 19.9 mln dlrs of
+industrial revenue bonds.
+    Yesterday, S and P upgraded to BBB-plus from BBB the
+company's 86 mln dlrs of convertible subordinated debentures of
+2009 and assigned a BBB-plus rating to Hechinger's planned 100
+mln dlr issue of convertible debt due 2012.
+    In its release yesterday, S and P cited what it termed an
+outstanding record of sales and earnings growth by Hechinger.
+ Reuter
+&#3;</BODY></TEXT>

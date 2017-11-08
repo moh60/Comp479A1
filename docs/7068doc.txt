@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11981" NEWID="7068">
+<DATE>19-MAR-1987 09:08:28.40</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0765&#31;reute
+u f BC-WASTE-MANAGEMENT&lt;WMX>   03-19 0079</UNKNOWN>
+<TEXT>&#2;
+<TITLE>WASTE MANAGEMENT&lt;WMX> TO RAISE CHEMLAWN&lt;CHEM>BID</TITLE>
+<DATELINE>    OAK BROOK, ILL., March 19 - </DATELINE><BODY>Waste Management Inc said it
+sent a letter to the ChemLawn Corp board, saying it is prepared
+to increase its bid for ChemLawn to 33 dlrs a share,
+from 27 dlrs, if ChemLawn promptly negotiates and executes a
+simple two-step merger agreement containing only essential
+covenants and conditions.
+    Upon such an agreement, Waste Management said, it would
+amend its 27 dlrs a share cash tender offer.
+ Reuter
+&#3;</BODY></TEXT>

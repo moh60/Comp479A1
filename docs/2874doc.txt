@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19292" NEWID="2874">
+<DATE> 6-MAR-1987 16:30:02.35</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0562&#31;reute
+r f BC-HYPONEX-&lt;HYPX>-FILES   03-06 0060</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HYPONEX &lt;HYPX> FILES FOR DEBT OFFER</TITLE>
+<DATELINE>    FORT WAYNE, Ind., March 6 - </DATELINE><BODY>Hyponex Corp said it filed with
+the Securities and Exchange Commission for a public offering of
+100 mln dlrs of senior subordinated debentures due 1999, with
+an over-allotment option of 15 mln dlrs.
+    Drexel Burnham Lambert Inc is sole manager of the offering,
+the lawn products company said.
+ Reuter
+&#3;</BODY></TEXT>

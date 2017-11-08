@@ -1,0 +1,35 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="NOT-USED" CGISPLIT="PUBLISHED-TESTSET" OLDID="21969" NEWID="17347">
+<DATE>27-APR-1987 11:10:08.59</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1433&#31;reute
+b f BC-FEDERATED-&lt;FDS>-TO-BU   04-27 0102</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FEDERATED &lt;FDS> TO BUY &lt;ALLIED STORES CORP> UNIT</TITLE>
+<DATELINE>    CINCINNATI, Ohio, April 27 - </DATELINE><BODY>Federated Department Stores
+Inc and Allied Stores, currently wholly owned by Robert
+Campeau, said they have entered into a definitive stock
+purchase agreement for the sale of Allied's Blocks Inc unit to
+Federated for 55 mln dlrs cash.
+    The price is subject to certain cloising adjustments, the
+companies said.
+    Allied said it is selling Blocks, which operates 10
+department stores under that name in Indiana and Ohio, and two
+Michigan stores under the Herpolsheimer's name, under its
+previously announced restructuring program.
+    The transaction is expected to close in June of this year
+when the twelve Blocks stores will be operated as an entity of
+Federated's Cincinnati-based Lazarus Department store division,
+the companies said.
+    The companies added that the deal is subject to customary
+closing conditions, including expiration of the waiting period
+under the Hart-Scott-Rodino Antitrust Improvement Act.
+ Reuter
+&#3;</BODY></TEXT>

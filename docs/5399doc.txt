@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10312" NEWID="5399">
+<DATE>16-MAR-1987 10:56:55.63</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>amex</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2356&#31;reute
+r f BC-AMEX-ADDS-WYSE-TECHNO   03-16 0054</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AMEX ADDS WYSE TECHNOLOGY &lt;WYSE> OPTIONS</TITLE>
+<DATELINE>    NEW YORK, March 16 - </DATELINE><BODY>The &lt;American Stock Exchange> said it
+has started put and call option trading in the common stock of
+Wyse Technology, with initial expiration months of April, July
+and October and position and exercise limits of 5,500 contracts
+on the same side of the market.
+ Reuter
+&#3;</BODY></TEXT>

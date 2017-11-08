@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9094" NEWID="4181">
+<DATE>12-MAR-1987 09:26:01.54</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0925&#31;reute
+r f BC-BRITISH-CALEDONIAN-SE   03-12 0076</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BRITISH CALEDONIAN SEEKS LONGER AMERICAN FLIGHTS</TITLE>
+<DATELINE>    LOS ANGELES, March 12 - </DATELINE><BODY>&lt;British Caledonian Airways> said
+it filed an application with Britain's Civil Aviation Authority
+for authority to operate the only direct flights between the
+United Kingdom and Mexico City.
+    The airline said it will submit an application March 17 to
+provide direct service between the United Kingdom and Phoenix.
+Earlier this week it applied for the license to serve San Diego.
+ Reuter
+&#3;</BODY></TEXT>

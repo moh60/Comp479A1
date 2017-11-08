@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="5716" NEWID="173">
+<DATE>26-FEB-1987 17:51:17.75</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0249&#31;reute
+d f BC-OLIN-&lt;OLN>-NAMES-SUCC   02-26 0051</UNKNOWN>
+<TEXT>&#2;
+<TITLE>OLIN &lt;OLN> NAMES SUCCESSOR FOR CHIEF EXECUTIVE</TITLE>
+<DATELINE>    STAMFORD, Conn., Feb 26 - </DATELINE><BODY>Olin Corp said John W. Johnstone
+Jr, 54, president and chief operating officer, will succeed
+John M. Henske as chief executive officer on April 30.
+    Henske, 63, will continue as chairman until he retires in
+June 1988, Olin said.
+ Reuter
+&#3;</BODY></TEXT>

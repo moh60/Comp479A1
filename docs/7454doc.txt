@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12367" NEWID="7454">
+<DATE>19-MAR-1987 17:20:23.98</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2573&#31;reute
+d f BC-DEP-&lt;DEPC>-SELLS-PROD   03-19 0092</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DEP &lt;DEPC> SELLS PRODUCT DISTRIBUTION RIGHTS</TITLE>
+<DATELINE>    LOS ANGELES, March 19 - </DATELINE><BODY>DEP Corp said it agreed to sell the
+distribution rights to Doan's Backache Pills to &lt;Ciba-Geigy
+Corp> for 34.4. mln dlrs in cash.
+    DEP said it acquire the product line when it purchased
+Jeffrey Martin Inc earlier this year.
+    The company also said it intends to sell the remaining
+over-the-counter drug business obtained through the Jeffrey
+Martin acquisition, which includes the Bantron Smoking
+Deterrent Tablet, Ayds Appetite Supressant and Compoz Sleep Aid
+product lines.
+ Reuter
+&#3;</BODY></TEXT>

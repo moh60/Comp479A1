@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="8312" NEWID="19984">
+<DATE>29-JUN-1987 21:22:48.92</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>new-zealand</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2908&#31;reute
+u f BC-IEP-LIFTS-ULTRAMAR-AN   06-29 0089</UNKNOWN>
+<TEXT>&#2;
+<TITLE>IEP LIFTS ULTRAMAR AND OGELBAY NORTON STAKES</TITLE>
+<DATELINE>    WELLINGTON, June 30 - </DATELINE><BODY>&lt;Industrial Equity (Pacific) Ltd>,
+(IEP) the Hong Kong-listed unit of Brierley Investments Ltd
+&lt;BRYA.WE>, said it has lifted its stakes in British oil company
+Ultramar Plc &lt;UMAR.L> and U.S. Firm &lt;Ogelbay Norton Co>.
+    IEP told the Stock Exchange it now holds 36.03 mln Ultramar
+shares representing 13.07 pct of the issued capital. It holds
+388,600 shares in Ogelbay representing 11.68 pct of the
+Delaware-based company.
+    No other details were available.
+ REUTER
+&#3;</BODY></TEXT>

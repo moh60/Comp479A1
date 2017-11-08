@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12342" NEWID="7429">
+<DATE>19-MAR-1987 16:32:41.50</DATE>
+<TOPICS><D>money-fx</D><D>stg</D></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE><D>lawson</D></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G L M T
+&#22;&#22;&#1;f2449&#31;reute
+u f BC-LAWSON-REPEATS-HE-IS   03-19 0115</UNKNOWN>
+<TEXT>&#2;
+<TITLE>LAWSON REPEATS HE IS CONTENT WITH STERLING LEVEL</TITLE>
+<DATELINE>    LONDON, March 19 - </DATELINE><BODY>U.K. Chancellor of the Exchequer Nigel
+today repeated that he was satisfied with the current level of
+sterling, both against the dollar and the West German mark.
+    Lawson said in a television interview that he did not
+regard the pound's present exchange rate was uncomfortably
+high.
+    "I think it is round about right," he said.
+    "I think there was a time that they (British manufacturers)
+thought the (exchange) rate was uncomfortably high. But I think
+they are very satisfied with the present level."
+    "But I have made it absolutely clear that I don't want to
+see the pound go through the roof," he added.
+ Reuter
+&#3;</BODY></TEXT>

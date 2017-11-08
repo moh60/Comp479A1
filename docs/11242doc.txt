@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17304" NEWID="11242">
+<DATE>31-MAR-1987 07:24:50.91</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>hong-kong</D><D>china</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0637&#31;reute
+d f BC-CHINA'S-CITIC-BUYS-H.   03-31 0108</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CHINA'S CITIC BUYS H.K. HOTEL FROM CHEUNG KONG</TITLE>
+<DATELINE>    HONG KONG, March 31 - </DATELINE><BODY>The Peking-owned China International
+Trust and Investment Corp (Citic) bought the unfinished City
+Garden Hotel in Hong Kong from a subsidiary of Cheung Kong
+(Holdings) Ltd &lt;CKGH.HKG> for 235 mln H.K. Dlrs, Cheung Kong
+director Albert Chow said.
+    Cheung Kong's subsidiary &lt;International City Holdings Ltd>
+will complete work on the hotel by the end of 1988, when it
+will be handed over to Citic. The deal does not include the
+decoration or fitting out of the interior of the hotel.
+    The 600-room hotel stands on a 26,700 sq ft site on the
+eastern side of Hong Kong island.
+ REUTER
+&#3;</BODY></TEXT>

@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13207" NEWID="7686">
+<DATE> 20-MAR-1987 10:18:37.65</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>west-germany</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1005&#31;reute
+d f BC-METALLGESELLSCHAFT-AG   03-20 0046</UNKNOWN>
+<TEXT>&#2;
+<TITLE>METALLGESELLSCHAFT AG &lt;METG.F></TITLE>
+<DATELINE>    FRANKFURT, March 20 - </DATELINE><BODY>Year to September 30, 1986
+    Domestic group net profit 69.9 mln marks vs 61.4 mln.
+    Parent net profit 53.6 mln vs 43.8 mln.
+    Dividend six marks vs same.
+    Parent payment to disclosed reserves 20 mln vs 15 mln.
+ REUTER
+&#3;</BODY></TEXT>

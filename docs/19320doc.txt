@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7156" NEWID="19320">
+<DATE>19-JUN-1987 13:54:28.22</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1885&#31;reute
+r f BC-HILLS-DEPARTMENT-STOR   06-19 0100</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HILLS DEPARTMENT STORES PLANS OFFERING CHANGES</TITLE>
+<DATELINE>    CANTON, Mass, June 19 - </DATELINE><BODY>Hills Department Stores Inc said it
+has decided to amend the registration on file with the
+Securities and Exchange Commission covering its planned initial
+offering.
+    The company said it expects to offer three mln common
+shares at a filing range of 11 to 12 dlrs a share along with a
+40 mln dlr offering of convertible junior subordinated
+debentures instead of the 6.9 mln common shares proposed in the
+pending registration.
+    Hills said it expects to file a registration statement on
+the proposed changes within two weeks.
+ Reuter
+&#3;</BODY></TEXT>

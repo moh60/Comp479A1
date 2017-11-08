@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="720" NEWID="16185">
+<DATE>13-APR-1987 07:30:51.35</DATE>
+<TOPICS><D>sugar</D></TOPICS>
+<PLACES><D>uk</D><D>yemen-arab-republic</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;T C
+&#22;&#22;&#1;f0539&#31;reute
+u f BC-NORTH-YEMEN-BOUGHT-WH   04-13 0061</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NORTH YEMEN BOUGHT WHITE SUGAR AT TENDER - TRADE</TITLE>
+<DATELINE>    LONDON, April 13 - </DATELINE><BODY>North Yemen at its weekend tender bought
+white sugar from a French operator acting on behalf of a Swiss
+house at 214.70 dlrs a tonne c and f, traders said.
+    The amount bought was not immediately available, although
+the country had sought 30,000 tonnes of June arrival whites,
+they said.
+ REUTER
+&#3;</BODY></TEXT>

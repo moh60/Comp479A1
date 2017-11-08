@@ -1,0 +1,20 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="21107" NEWID="20512">
+<DATE>20-OCT-1987 14:04:39.42</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2586&#31;reute
+u f BC-INTELOGIC-TRACE-&lt;IT>   10-20 0034</UNKNOWN>
+<TEXT>&#2;
+<TITLE>INTELOGIC TRACE &lt;IT> TO REPURCHASE SHARES</TITLE>
+<DATELINE>    SAN ANTONIO, Texas, Oct 20 - </DATELINE><BODY>Intelogic Trace Inc said its
+board has authorized the repurchase of up to one mln of its
+14.9 mln common shares in the open market.
+ Reuter
+&#3;</BODY></TEXT>

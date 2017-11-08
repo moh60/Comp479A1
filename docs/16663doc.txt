@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1198" NEWID="16663">
+<DATE>13-APR-1987 16:19:22.06</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2525&#31;reute
+d f BC-KRAFT-&lt;KRA>-COMPLETES   04-13 0043</UNKNOWN>
+<TEXT>&#2;
+<TITLE>KRAFT &lt;KRA> COMPLETES ACQUISITION</TITLE>
+<DATELINE>    GLENVIEW, ILL., April 13 - </DATELINE><BODY>Kraft Inc said it completed the
+acquisition of Holleb and Co, a foodservice distributor based
+in Bensenville, Ill.
+    Terms were withheld.
+    It said Holleb's 1986 sales were about 85 mln dlrs.
+ Reuter
+&#3;</BODY></TEXT>

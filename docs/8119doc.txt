@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13640" NEWID="8119">
+<DATE>23-MAR-1987 00:29:41.66</DATE>
+<TOPICS><D>cpi</D></TOPICS>
+<PLACES><D>singapore</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0019&#31;reute
+u f BC-MINISTER-PREDICTS-ONE   03-23 0089</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MINISTER PREDICTS ONE PCT INFLATION FOR SINGAPORE</TITLE>
+<DATELINE>    SINGAPORE, March 23 - </DATELINE><BODY>Singapore will have an inflation rate
+of one pct in 1987, up from a negative 1.4 pct in 1986, Trade
+and Industry Minister Lee Hsien Loong told Parliament.
+    He said the 1986 drop in the inflation rate, the first fall
+in a decade, was due largely to lower world prices for oil and
+oil-related items.
+    But Lee said the negative inflation rate is unlikely to be
+repeated this year because of projected higher prices for
+primary commodities and oil.
+ REUTER
+&#3;</BODY></TEXT>

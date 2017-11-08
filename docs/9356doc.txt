@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14877" NEWID="9356">
+<DATE>25-MAR-1987 11:07:17.85</DATE>
+<TOPICS><D>ship</D></TOPICS>
+<PLACES><D>argentina</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G L M T
+&#22;&#22;&#1;f1276&#31;reute
+u f BC-ARGENTINE-PORT-WORKER   03-25 0070</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ARGENTINE PORT WORKERS TAKE INDUSTRIAL ACTION</TITLE>
+<DATELINE>    BUENOS AIRES, March 25 - </DATELINE><BODY>Argentine port workers began an
+indefinite protest against safety conditions at the port of
+Buenos Aires, stopping work for one hour per shift, a press
+spokesman said.
+    He said three port workers had died over the last month in
+accidents. He said the decision to take action was made after a
+port worker died yesterday after being electrocuted.
+ Reuter
+&#3;</BODY></TEXT>

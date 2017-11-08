@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20997" NEWID="20402">
+<DATE>20-OCT-1987 12:54:51.50</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>amex</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2160&#31;reute
+b f BC-AMEX-ISSUES-WARNING-O   10-20 0049</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AMEX ISSUES WARNING ON VENDOR PRICE QUOTES</TITLE>
+<DATELINE>    NEW YORK, Oct 20 - </DATELINE><BODY>The American Stock Exchange said market
+volatility may result in inaccurate price quotations on certain
+vendor price machines.
+    The Exchange said this volatility has resulted in digits
+being deleted from certain vendor machines.
+ Reuter
+&#3;</BODY></TEXT>

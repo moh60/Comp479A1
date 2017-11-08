@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13076" NEWID="7555">
+<DATE>20-MAR-1987 04:01:44.83</DATE>
+<TOPICS><D>money-supply</D></TOPICS>
+<PLACES><D>west-germany</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0169&#31;reute
+b f BC-GERMAN-M3-RISES-2.6-B   03-20 0053</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GERMAN M3 RISES 2.6 BILLION MARKS IN FEBRUARY</TITLE>
+<DATELINE>    FRANKFURT, March 20 - </DATELINE><BODY>West German M3 money supply rose a
+seasonally adjusted 2.6 billion marks in February to 1,035.1
+billion, the Bundesbank said.
+    The rise compares with a revised 14.8 billion mark increase
+in January and a 2.2 billion rise in February 1986.
+ REUTER
+&#3;</BODY></TEXT>

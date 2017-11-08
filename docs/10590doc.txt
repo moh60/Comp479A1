@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16111" NEWID="10590">
+<DATE>27-MAR-1987 13:46:59.98&#5;&#5;&#5;C T</DATE>
+<UNKNOWN>&#22;&#22;&#1;f1905&#31;reute</UNKNOWN>
+<TOPICS><D>oilseed</D></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+d f BC-CARGILL-U.K.-STRIKE-T   03-27 0051</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CARGILL U.K. STRIKE TALKS ADJOURN TO TUESDAY</TITLE>
+<DATELINE>    LONDON, March 27 - </DATELINE><BODY>Talks between management and unions at
+Cargill U.K. Ltd's oilseed processing plant at Seaforth
+adjourned today without a solution to the three month old
+strike, a company spokesman said.
+    Negotiations will resume next Tuesday, he said.
+ Reuter
+&#3;</BODY></TEXT>

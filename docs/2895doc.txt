@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19313" NEWID="2895">
+<DATE> 6-MAR-1987 16:54:16.85</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A
+&#22;&#22;&#1;f0619&#31;reute
+u f BC-GINNIE-MAE-DROPS-FEE   03-06 0103</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GINNIE MAE DROPS FEE INCREASE ON SECURITIES</TITLE>
+<DATELINE>    WASHINGTON, March 6 - </DATELINE><BODY>The Government National Mortgage
+Association has decided not to raise its guarantee fee on
+mortgage securities, Louis Gasper, Ginnie Mae executive vice
+president said.
+    Ginnie Mae, which guarantees securities backed by Federal
+Housing Administration and Veterans Administration mortgages,
+had planned to raise the fee March one from six basis points to
+10 basis points. Mortgage bankers strongly opposed the proposed
+fee increase.
+    Gasper said it became apparent Congress was ready to pass
+legislation that would have rescinded the fee increase.
+ Reuter
+&#3;</BODY></TEXT>

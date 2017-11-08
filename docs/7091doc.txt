@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12004" NEWID="7091">
+<DATE>19-MAR-1987 09:38:18.49</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0877&#31;reute
+r f BC-HITACHI-&lt;HIT>-UNIT-LA   03-19 0089</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HITACHI &lt;HIT> UNIT LAUNCHES NEW FLOPPY DISK</TITLE>
+<DATELINE>    MOONACHIE, N.J., March 19 - </DATELINE><BODY>Hitachi Ltd's Maxell Corp of
+America introduced a floppy disk with expanded storage
+capacity.
+    The company said the 5-1/4-inch disk has a storage capacity
+of 3.2 megabytes unformatted, and is in response to user demand
+for higher capacity media for newly introduced machines and
+drives.
+    Maxell said the disk will operate with the newly developed
+YD-801 drive, to be produced by Y-E Data Inc, Tokyo, and
+planned for introduction later this year in the U.S.
+ Reuter
+&#3;</BODY></TEXT>

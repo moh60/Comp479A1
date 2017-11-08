@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1067" NEWID="16532">
+<DATE>13-APR-1987 13:39:13.85</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2046&#31;reute
+d f BC-PAULEY-PETROLEUM-&lt;PP>   04-13 0057</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PAULEY PETROLEUM &lt;PP> NAMES NEWGARD PRESIDENT</TITLE>
+<DATELINE>    LOS ANGELES, April 13 - </DATELINE><BODY>Pauley Petroleum Inc said it
+appointed Mark Newgard president and chief operating officer.
+    Newgard, 42, had been president of privately-held Edgington
+Oil Co.
+    He succeeds William Pagen, Pauley's chairman, who had also
+been serving as president, the company said.
+ Reuter
+&#3;</BODY></TEXT>

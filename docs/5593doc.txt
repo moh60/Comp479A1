@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10506" NEWID="5593">
+<DATE>16-MAR-1987 14:18:39.70</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f3245&#31;reute
+d f BC-COMMONWEALTH-MORTGAGE   03-16 0050</UNKNOWN>
+<TEXT>&#2;
+<TITLE>COMMONWEALTH MORTGAGE &lt;CMA> SETS PAYOUT</TITLE>
+<DATELINE>    HOUSTON, March 16 -
+    </DATELINE><BODY>Qtrly div 26 cts Class A vs 12 cts
+    Qtrly div one cent Class B vs nil
+    Pay May 15
+    Record March 31
+    NOTE: prior qtr pro rated on 45 day basis for abbreviated
+qtr.
+    Full name of company commonwealth mortgage of america.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18978" NEWID="2560">
+<DATE> 6-MAR-1987 09:15:03.22</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0057&#31;reute
+r f BC-MCGRATH-RENTCORP-&lt;MGR   03-06 0079</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MCGRATH RENTCORP &lt;MGRC> SEES NET RISING</TITLE>
+<DATELINE>    SAN LEANDRO, Calif., March 6 - </DATELINE><BODY>McGrath RentCorp said as a
+result of its December acquisition of Space Co, it expects
+earnings per share in 1987 of 1.15 to 1.30 dlrs per share, up
+from 70 cts in 1986.
+    The company said pretax net should rise to nine to 10 mln
+dlrs from six mln dlrs in 1986 and rental operation revenues to
+19 to 22 mln dlrs from 12.5 mln dlrs.
+    It said cash flow per share this year should be 2.50 to
+three dlrs.
+ Reuter
+&#3;</BODY></TEXT>

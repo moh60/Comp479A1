@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17944" NEWID="1526">
+<DATE> 4-MAR-1987 11:08:56.38</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F
+&#22;&#22;&#1;f0569&#31;reute
+r f BC-TORONTO-SUN-PLANS-TWO   03-04 0040</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TORONTO SUN PLANS TWO-FOR-ONE STOCK SPLIT</TITLE>
+<DATELINE>    TORONTO, March 4 - </DATELINE><BODY>&lt;Toronto Sun Publishing Corp> said it
+planned a two-for-one split of its common shares, subject to
+regulatory approval and approval by shareholders at the April
+21 annual meeting.
+ Reuter
+&#3;</BODY></TEXT>

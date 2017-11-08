@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14548" NEWID="9027">
+<DATE>24-MAR-1987 16:23:23.82</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F E
+&#22;&#22;&#1;f2486&#31;reute
+r f BC-FIRM-REDUCES-SCEPTRE   03-24 0078</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FIRM REDUCES SCEPTRE RESOURCES &lt;SRL> HOLDINGS</TITLE>
+<DATELINE>    WASHINGTON, March 24 - </DATELINE><BODY>Montreal-based Noverco Inc told the
+Securities and Exchange Commission it reduced its stake in
+Sceptre Resources Ltd to 1,232,200 shares or 4.8 pct of the
+total outstanding.
+    Noverco said it sold off 400,500 shares "to reduce the
+investment of Noverco in Sceptre."
+    "Additional common shares of Sceptre may be sold or
+purchased by Noverco, depending upon market conditions," Noverco
+said.
+ Reuter
+&#3;</BODY></TEXT>

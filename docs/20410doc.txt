@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="21005" NEWID="20410">
+<DATE>20-OCT-1987 12:57:24.58</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2180&#31;reute
+b f BC-/USX-&lt;USX>-TO-BUY-BAC   10-20 0090</UNKNOWN>
+<TEXT>&#2;
+<TITLE>USX &lt;USX> TO BUY BACK UP TO 20 MLN SHARES</TITLE>
+<DATELINE>    PITTSBURGH, Pa., Oct 20 - </DATELINE><BODY>USX Corp said it has authorized
+the repurchase of up to 20 mln shares of common stock.
+    "This action has been under study and consideration since
+we announced our financial restructuring earlier this year,"
+said chairman David Roderick.
+    "It reflects the very strong financial position of the
+corporation, and enables us to take advantage of current market
+conditions," he said.
+    The company said timing of the repurchase will be dictated
+by market conditions.
+ Reuter
+&#3;</BODY></TEXT>

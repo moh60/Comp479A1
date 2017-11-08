@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="3817" NEWID="14834">
+<DATE> 8-APR-1987 02:05:21.59</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D><D>japan</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0078&#31;reute
+u f BC-JAPANESE-CONSORTIUM-W   04-08 0091</UNKNOWN>
+<TEXT>&#2;
+<TITLE>JAPANESE CONSORTIUM WINS NEW YORK SUBWAY CAR ORDER</TITLE>
+<DATELINE>    TOKYO, April 8 - </DATELINE><BODY>&lt;Nissho Iwai Corp> and Kawasaki Heavy
+Industries Ltd &lt;KAWH.T> have jointly won an order to build 200
+subway cars worth about 200 mln dlrs for the Metropolitan
+Transportation Authority of New York, a Nissho spokesman said.
+    The cars, to be produced with 51 pct U.S. Content, will be
+delivered between early 1988 and August 1989, he said.
+    Ten will be built in Japan, but the others will be made at
+a Yonkers, New York, plant equally owned by Nissho and
+Kawasaki.
+ REUTER
+&#3;</BODY></TEXT>

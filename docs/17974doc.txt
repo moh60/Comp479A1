@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7419" NEWID="17974">
+<DATE> 2-JUN-1987 09:03:01.28</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0844&#31;reute
+d f BC-AAR-&lt;AIR>-ELEASING-UN   06-02 0067</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AAR &lt;AIR> ELEASING UNIT SELLS FIVE AIRCRAFT</TITLE>
+<DATELINE>    ELK GROVE VILLAGE, ILL., June 2 - </DATELINE><BODY>AAR Corp said its AAR
+Financial Services Corp nonconsolidated leasing subsidiary sold
+its beneficial interest in five used Boeing 737-200 aircraft.
+    In March, 1985 the aircraft were acquired from and leased
+back to Piedmont Aviation Inc &lt;PIE>.
+    AAR said the beneficial interest was sold to CIS Corp of
+San Francisco.
+ Reuter
+&#3;</BODY></TEXT>

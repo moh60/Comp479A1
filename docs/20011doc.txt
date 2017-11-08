@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20606" NEWID="20011">
+<DATE>20-OCT-1987 02:20:31.11</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE><D>sumita</D></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM AI 
+&#22;&#22;&#1;f0106&#31;reute
+f f BC-Sumita-says-world-sto   10-20 0013</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE>Sumita says world stockmarkets excessively concerned about economic future
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

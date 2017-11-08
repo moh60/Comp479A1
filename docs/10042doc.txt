@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15563" NEWID="10042">
+<DATE>26-MAR-1987 13:00:46.83</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1929&#31;reute
+h f BC-&lt;MERIDIAN-ENERGY>,-CA   03-26 0045</UNKNOWN>
+<TEXT>&#2;
+<TITLE>&lt;MERIDIAN ENERGY>, CASTONE END LETTER OF INTENT</TITLE>
+<DATELINE>    CHICAGO, March 26 - </DATELINE><BODY>&lt;Meridian Energy Inc> and Castone
+Development Corp, a privately-held company, jointly announced
+that they have decided to terminate the letter of intent under
+which Meridian would have acquired Castone.
+ Reuter
+&#3;</BODY></TEXT>

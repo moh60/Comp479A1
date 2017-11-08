@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19676" NEWID="3254">
+<DATE> 9-MAR-1987 13:11:40.54</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0103&#31;reute
+u f BC-MEDICAL-PROPERTIES-&lt;M   03-09 0053</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MEDICAL PROPERTIES &lt;MPP> SETS MONTHLY DIVIDEND</TITLE>
+<DATELINE>    ENCINO, Calif., March 9 - </DATELINE><BODY>The board of Medical Properties
+Inc said it has declared an initial monthly cash dividend of
+11-1/2 cts a share and has adopted a monthly dividend policy.
+    The initial dividend will be payable April 10 to
+shareholders of record March 31.
+ Reuter
+&#3;</BODY></TEXT>

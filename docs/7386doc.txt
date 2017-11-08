@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12299" NEWID="7386">
+<DATE>19-MAR-1987 15:33:14.75</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2274&#31;reute
+r f BC-UNITED-JERSEY-BANKS-&lt;   03-19 0093</UNKNOWN>
+<TEXT>&#2;
+<TITLE>UNITED JERSEY BANKS &lt;UJB> TO MERGE TWO BANKS</TITLE>
+<DATELINE>    PRINCETON, N.J., March 19 - </DATELINE><BODY>United Jersey Banks said it
+plans to merge two of its southern New Jersey member banks into
+one 704 mln dlr organization.
+    It said United Jersey Bank/Fidelity Bank, based in
+Pennsauken, will be merged into United Jersey Bank/South in
+order to improve customer service and maximize efficiency
+throughout the southern New Jersey markets.
+    Raymond Silverstein, currently chairman of the board of
+United Jersey Bank/Fidelity, will be chairman of the merged
+bank, the company said.
+ Reuter
+&#3;</BODY></TEXT>

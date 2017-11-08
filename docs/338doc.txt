@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12521" NEWID="338">
+<DATE> 2-MAR-1987 07:19:13.49</DATE>
+<TOPICS><D>trade</D></TOPICS>
+<PLACES><D>sweden</D><D>south-africa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0078&#31;reute
+u f BC-SWEDEN-TO-GO-AHEAD-WI   03-02 0094</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SWEDEN TO GO AHEAD WITH S. AFRICAN TRADE SANCTIONS</TITLE>
+<DATELINE>    STOCKHOLM, March 2 - </DATELINE><BODY>Sweden's ruling Social Democratic
+Party gave full power to the government to decree unilateral
+trade sanctions against South Africa, Prime Minister Ingvar
+Calrsson said.
+    Carlsson told a news conference the party decided the fight
+against apartheid took priority over Sweden's traditional
+policy of only adopting sanctions with the backing of the U.N.
+Security Council.
+    The government will decide later what form the trade
+boycott will take and when it will come into force.
+ REUTER
+&#3;</BODY></TEXT>

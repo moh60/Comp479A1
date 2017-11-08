@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="19908" NEWID="21528">
+<DATE>19-OCT-1987 06:26:55.50</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>lse</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM V 
+&#22;&#22;&#1;f0448&#31;reute
+f f BC-London's-FTSE-100-sha   10-19 0012</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE>London's FTSE 100 share index below 2,100 for first time since May
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

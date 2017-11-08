@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6663" NEWID="18912">
+<DATE>18-JUN-1987 14:27:37.78</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f4231&#31;reute
+d f BC-HADRON-&lt;HDRN.O>-GETS   06-18 0046</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HADRON &lt;HDRN.O> GETS MARTIN MARIETTA &lt;ML> PACT</TITLE>
+<DATELINE>    FAIRFAX, Va., June 18 - </DATELINE><BODY>Hadron Inc said it has received a
+two mln dlr two-year contract from Martin Marietta Corp for
+information and logistical support services to be provided for
+the U.S. Navy's electronic warfare programs.
+ Reuter
+&#3;</BODY></TEXT>

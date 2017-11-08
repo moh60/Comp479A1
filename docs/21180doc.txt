@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20256" NEWID="21180">
+<DATE>19-OCT-1987 13:23:55.18</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2258&#31;reute
+h f BC-CHRYSLER-&lt;C>SETS-RECO   10-19 0054</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CHRYSLER &lt;C>SETS RECORD 1987 IMPORT TRUCK SALES</TITLE>
+<DATELINE>    DETROIT, Oct 19 - </DATELINE><BODY>Chrysler Corp said its import operations
+closed out its 1987 model year with record sales of Dodge
+Ram-50 models of 76,913 trucks compared with the previous
+record 72,629 trucks sold in 1986. The Ram-50 is imported for
+Dodge from Mitsubishi Motors Corp.
+ Reuter
+&#3;</BODY></TEXT>

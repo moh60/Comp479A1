@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13427" NEWID="7906">
+<DATE>20-MAR-1987 14:31:27.42</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D><D>netherlands</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C
+&#22;&#22;&#1;f2051&#31;reute
+d f AM-AMBASSADORS   03-20 0110</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SEC HEAD NOMINATED U.S. AMBASSADOR TO NETHERLANDS</TITLE>
+<DATELINE>    WASHINGTON, March 20 - </DATELINE><BODY>President Reagan is to nominate John
+Shad, chairman of the Securities and Exchange Commission, SEC,
+as ambassador to the Netherlands, the White House said today.
+    Shad, 63, a former executive with the Wall Street firm of
+E.F. Hutton and Co., would succeed L. Paul Bremer, now the
+State Department's chief counter-terrorism expert.
+    The White House also said that Reagan will nominate career
+diplomat Sol Polansky, 60, as ambassador to Bulgaria. Polansky
+previously served in Moscow, Poland, East Germany, Austria and
+other posts.
+    The nominations are subject to Senate approval.
+ Reuter
+&#3;</BODY></TEXT>

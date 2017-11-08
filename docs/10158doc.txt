@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15679" NEWID="10158">
+<DATE>26-MAR-1987 16:18:18.04</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2543&#31;reute
+r f BC-AMERICANTURE-&lt;AAIX>-B   03-26 0078</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AMERICANTURE &lt;AAIX> BUYS AMERICAN ADVENTURE</TITLE>
+<DATELINE>    LOS ANGELES, March 26 - </DATELINE><BODY>Americanture Inc said it has
+purchased American Adventure Inc &lt;GOAQC> for cash, the
+assumption of liabilities and the issuance of American
+Adventure Inc common and preferred stock to creditors,
+shareholders and members.
+    The acquisition was pursuant of a Chapter 11 reorganization
+plan of American Adventure.
+    The company said the transaction involved assets valued at
+more than 83 mln dlrs.
+ Reuter
+&#3;</BODY></TEXT>

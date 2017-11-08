@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="8130" NEWID="19802">
+<DATE>29-JUN-1987 14:00:43.21</DATE>
+<TOPICS><D>gold</D></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F 
+&#22;&#22;&#1;f2043&#31;reute
+r f BC-GUNNAR-GOLD-(GGG.TO)   06-29 0089</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GUNNAR GOLD (GGG.TO) IN VENTURE AGREEMENT</TITLE>
+<DATELINE>    CALGARY, June 29 - </DATELINE><BODY>Gunnar Gold Inc said it and Mill City
+Gold Inc signed an option and joint venture agreement with
+Tyranex Gold Inc on the Tyranite gold property in Ontario.
+    Gunnar said it and Mill City can earn a 50 pct interest in
+Tyranex's option to buy the Tyranite gold mine by spending up
+to five mln dlrs on exploration, development, and feasibility
+studies by 1990.
+    It said the companies may form a joint venture partnership
+to bring the mine to full commercial production.
+ Reuter
+&#3;</BODY></TEXT>

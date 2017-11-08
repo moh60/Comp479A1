@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17243" NEWID="11182">
+<DATE>31-MAR-1987 03:10:43.82</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>japan</D><D>west-germany</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0157&#31;reute
+u f BC-FUJI-FILM-&lt;FUJI.T>-TO   03-31 0112</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FUJI FILM &lt;FUJI.T> TO SET UP WEST GERMAN UNIT</TITLE>
+<DATELINE>    TOKYO, March 31 - </DATELINE><BODY>Fuji Photo Film Co Ltd will set up a
+wholly-owned subsidiary in Kleve, West Germany, to produce
+video cassette tapes, a spokesman said.
+    The company, &lt;Fuji Magnetics GmbH>, will be capitalised at
+25 mln marks and produce two mln tapes a month for the European
+market from early 1988, he said.
+    Total investment will be about 100 mln marks and the plant
+will create 200 jobs, including about 190 for local workers.
+    Fuji Photo plans to make the Kleve plant its European
+production centre for magnetic products, and may make audio
+cassette tapes and floppy discs later, the spokesman said.
+ REUTER
+&#3;</BODY></TEXT>

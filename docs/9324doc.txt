@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14845" NEWID="9324">
+<DATE>25-MAR-1987 10:24:15.81</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1081&#31;reute
+r f BC-THERMO-PROCESS-&lt;TPSI>   03-25 0048</UNKNOWN>
+<TEXT>&#2;
+<TITLE>THERMO PROCESS &lt;TPSI> ACQUISITION TERMINATED</TITLE>
+<DATELINE>    WALTHAM, Mass., March 25 - </DATELINE><BODY>Thermo Process Systems Inc said
+its proposed acquisition of the Surface Combustion Division of
+privately-held &lt;Midland-Ross Corp> has been terminated because
+mutually satisfactory terms could not be established.
+ Reuter
+&#3;</BODY></TEXT>

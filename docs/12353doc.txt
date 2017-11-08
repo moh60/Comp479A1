@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="581" NEWID="12353">
+<DATE> 1-APR-1987 17:22:42.51</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;E F
+&#22;&#22;&#1;f2595&#31;reute
+r f BC-scottish-and-york   04-01 0039</UNKNOWN>
+<TEXT>&#2;
+<TITLE>&lt;SCOTTISH AND YORK HOLDINGS LTD> YEAR LOSS</TITLE>
+<DATELINE>    TORONTO, April 1 -
+    </DATELINE><BODY>Shr loss 27 cts vs loss 2.27 dlrs
+    Net profit 2,150,000 vs loss 14,700,000
+    Revs 121.3 mln vs 69.8 mln
+    Note: shr after payment of preferred stock dividends
+ Reuter
+&#3;</BODY></TEXT>

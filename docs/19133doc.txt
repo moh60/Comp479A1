@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6969" NEWID="19133">
+<DATE>19-JUN-1987 09:26:55.23</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f0798&#31;reute
+d f BC-METROPOLITAN-LIFE-TO   06-19 0049</UNKNOWN>
+<TEXT>&#2;
+<TITLE>METROPOLITAN LIFE TO OPERATE RHODE ISLAND HMO</TITLE>
+<DATELINE>    PROVIDENCE, R.I., June 19 - </DATELINE><BODY>&lt;Metropolitan Life Insurance
+Co> said it has received a license to operate a health
+maintenance organization in Rhode Island called MetLife
+HealthCare Network of Rhode Island.
+                                       
+ Reuter
+&#3;</BODY></TEXT>

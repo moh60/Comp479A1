@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12821" NEWID="673">
+<DATE> 2-MAR-1987 14:11:39.24</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0667&#31;reute
+u f BC-CONTINENTAL   03-02 0048</UNKNOWN>
+<TEXT TYPE="UNPROC">&#2;
+CORRECTION - CONTINENTAL ILL &lt;CIL>
+    In WASHINGTON story, "CONTINENTAL ILL. &lt;CIL> TO
+RECHARACTERIZE LOSS," please read in second paragraph ... to
+report the 425 mln dlrs together with other required loan loss
+provisions instead of singling it out as a separate item. ....
+Reverses previous.
+ Reuter
+&#3;
+
+</TEXT>

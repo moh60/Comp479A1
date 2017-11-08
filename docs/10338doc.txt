@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15859" NEWID="10338">
+<DATE>27-MAR-1987 06:14:02.96&#5;&#5;&#5;F</DATE>
+<UNKNOWN>&#22;&#22;&#1;f0387&#31;reute</UNKNOWN>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>france</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+u f BC-ESSILOR-INTERNATIONAL   03-27 0051</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ESSILOR INTERNATIONAL &lt;ESSI.PA> YEAR ENDED DEC 31</TITLE>
+<DATELINE>    PARIS, March 27 -
+    </DATELINE><BODY>Provisional consolidated net attributable profit 242.1 mln
+francs vs 240.1 mln.
+    Investments 318 mln vs 317 mln.
+    Dividend on ordinary shares 45 francs vs 42 francs.
+    Dividend on priority shares 51 francs vs 48 francs.
+ REUTER
+&#3;</BODY></TEXT>

@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10326" NEWID="5413">
+<DATE>16-MAR-1987 11:24:43.57</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F A RM
+&#22;&#22;&#1;f2473&#31;reute
+r f BC-RYAN-HOMES-&lt;RYN>-CALL   03-16 0069</UNKNOWN>
+<TEXT>&#2;
+<TITLE>RYAN HOMES &lt;RYN> CALLS DEBENTURES</TITLE>
+<DATELINE>    PITTSBURGH, March 16 - </DATELINE><BODY>Ryan Homes Inc, controled by NV
+Homes LP &lt;NVH>, said it has called for redemption on April 30
+all 873,000 dlrs of its six pct convertible subordinated
+debentures due 1991 at 1,000 dlrs pluys 19.83 dlrs in accrued
+interest per 1,000 dlrs principal amount.
+    The debentures are convertible through April 28 into Ryan
+common stock at 30.50 dlrs per share.
+ Reuter
+&#3;</BODY></TEXT>

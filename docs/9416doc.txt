@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14937" NEWID="9416">
+<DATE>25-MAR-1987 12:31:53.99</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1642&#31;reute
+r f BC-K-MART-&lt;KM>-UNIT-BUYS   03-25 0062</UNKNOWN>
+<TEXT>&#2;
+<TITLE>K MART &lt;KM> UNIT BUYS TEXAS LAND</TITLE>
+<DATELINE>    DALLAS, March 25 - </DATELINE><BODY>K Mart Apparel Corp, a unit of K Mart
+Corp, said it purchased 35 acres 15 miles east of downtown
+Dallas from Baker Associates No. 2 Joint Venture.
+    Financial details were not disclosed.
+    K Mart said it will construct a 456,000-square-foot
+distribution center and 15,000 square feet of office space on
+the site.
+ Reuter
+&#3;</BODY></TEXT>

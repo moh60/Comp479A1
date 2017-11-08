@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10041" NEWID="5128">
+<DATE>13-MAR-1987 18:34:45.95</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F
+&#22;&#22;&#1;f0714&#31;reute
+r f BC-&lt;AGRA-INDUSTRIES-LTD>   03-13 0086</UNKNOWN>
+<TEXT>&#2;
+<TITLE>&lt;AGRA INDUSTRIES LTD> SIX MTHS JAN 31 NET</TITLE>
+<DATELINE>    SASKATOON, Saskatchewan, March 13 -
+    </DATELINE><BODY>Oper shr 35 cts vs 34 cts
+    Oper net 2,313,000 vs 1,646,000
+    Revs 100.1 mln vs 77.3 mln
+    Note: 1986 net excludes extraordinary loss of 294,000 dlrs
+or four cts vs shr vs yr-ago loss of 579,000 dlrs or 12 cts
+shr. 1986 net includes non-cash loss of 1,436,000 dlrs or 22
+cts shr vs yr-ago loss of 1,922,000 dlrs or 39 cts shr from
+depreciation and amortization allowances on U.S. cable TV
+operation.
+    Fewer shrs outstanding.
+ Reuter
+&#3;</BODY></TEXT>

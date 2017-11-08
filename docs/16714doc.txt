@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1249" NEWID="16714">
+<DATE>13-APR-1987 17:36:36.52</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2723&#31;reute
+r f BC-INTERCO-&lt;ISS>-SHAREHO   04-13 0056</UNKNOWN>
+<TEXT>&#2;
+<TITLE>INTERCO &lt;ISS> SHAREHOLDERS APPROVE MERGER</TITLE>
+<DATELINE>    ST. LOUIS, Mo., April 13 - </DATELINE><BODY>INTERCO Inc said its
+shareholders and shareholders of the Lane Co &lt;LANE.O> approved
+the merger of the two companies.
+    In the merger, Lane's stockholders will receive 1.5 shares
+of INTERCO common stock for each outstanding share of Lane
+common stock, INTERCO said.
+ Reuter
+&#3;</BODY></TEXT>

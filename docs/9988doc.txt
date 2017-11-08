@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15509" NEWID="9988">
+<DATE>26-MAR-1987 11:53:35.08</DATE>
+<TOPICS><D>interest</D></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;V RM
+&#22;&#22;&#1;f1610&#31;reute
+b f BC-/-FED-SETS-TWO-BILLIO   03-26 0057</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FED SETS TWO BILLION DLR CUSTOMER REPURCHASE</TITLE>
+<DATELINE>    NEW YORK, March 26 - </DATELINE><BODY>The Federal Reserve entered the U.S.
+government securities market to arrange two billion dlrs of
+customer repurchase agreements, a spokeswoman for the New York
+Fed said.
+    Federal funds were trading at 6-3/16 pct at the time of the
+indirect injection of temporary reserves.
+ Reuter
+&#3;</BODY></TEXT>

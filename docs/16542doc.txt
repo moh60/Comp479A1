@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1077" NEWID="16542">
+<DATE>13-APR-1987 13:52:36.63</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>bahrain</D><D>iran</D><D>iraq</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;V
+&#22;&#22;&#1;f2071&#31;reute
+u f BC-IRAN-SAYS-IT-ACHIEVED   04-13 0104</UNKNOWN>
+<TEXT>&#2;
+<TITLE>IRAN SAYS IT ACHIEVED OBJECTIVE IN BASRA OFFENSIVE</TITLE>
+<DATELINE>    BAHRAIN, April 13 - </DATELINE><BODY>Iran said it had achieved its
+objectives in heavy fighting against Iraq since launching an
+offensive near the southern Iraqi city of Basra last Tuesday.
+    Baghdad said on Saturday its forces had routed the Iranians
+from the few footholds they initially gained. But an Iranian
+field commander said on Sunday the Iranians are now entrenched
+west of the Jasim River and the Fish canal, about 10 km east of
+Basra.
+    The unnamed commander, quoted by the Iranian news agency
+IRNA, said foreign reporters could now visit Iranian
+strongholds in the region.
+ REUTER
+&#3;</BODY></TEXT>

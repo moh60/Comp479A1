@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16560" NEWID="1240">
+<DATE> 3-MAR-1987 14:54:19.29</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0605&#31;reute
+r f BC-AMERICAN-NETWORK-&lt;ANW   03-03 0048</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AMERICAN NETWORK &lt;ANWI> REDUCES CUSTOMER RATES</TITLE>
+<DATELINE>    PORTLAND, Ore., March 3 - </DATELINE><BODY>American Network Inc said it has
+reduced its long distance telephone service rates by two to 15
+pct.
+    The reductions apply to the company's subsidiaries, STARNET
+International Inc and American Telephone Exchange.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16338" NEWID="1018">
+<DATE> 3-MAR-1987 09:41:45.44</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0346&#31;reute
+r f BC-CARIBBEAN-SELECT-&lt;CSE   03-03 0091</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CARIBBEAN SELECT &lt;CSEL> TO REDEEM WARRANTS</TITLE>
+<DATELINE>    TAMPA, Fla., March 3 - </DATELINE><BODY>Caribbean Select Inc said it has
+elected to redeem on April 10 all its Class A warrants and all
+Class B warrants at 0.01 ct each.
+    At the same time, it said its board has decided to reduce
+the exercise price of the Class B warrants to 3.50 dlrs per
+common share from four dlrs to encourage the exercise of the
+warrants.  Each Class B warrant allows the purchase of one
+common share.
+    It said each Class A warrant is still exercisable into one
+common share at two dlrs each.
+ Reuter
+&#3;</BODY></TEXT>

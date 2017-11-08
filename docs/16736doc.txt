@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1271" NEWID="16736">
+<DATE>13-APR-1987 19:02:01.77</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2819&#31;reute
+r f BC-DENSE-PAC-MICROSYSTMS   04-13 0053</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DENSE-PAC MICROSYSTMS &lt;DPAC.O> NAMES CEO</TITLE>
+<DATELINE>    GARDEN GROVE, Calif., April 13 - </DATELINE><BODY>Dense-Pac Microsystems Inc
+said it named James Turner is chief executive officer.
+    He replaces Anthony Macedo, who was acting on an interim
+basis and remains a director.
+    Turner had been president of Titan Severe Environment
+Systems Co.
+ Reuter
+&#3;</BODY></TEXT>

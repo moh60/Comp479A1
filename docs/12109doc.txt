@@ -1,0 +1,30 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="337" NEWID="12109">
+<DATE> 1-APR-1987 12:51:47.36</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1733&#31;reute
+u f BC-AMERICAN-MOTORS&lt;AMO>   04-01 0100</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AMERICAN MOTORS&lt;AMO> EXTENDS INCENTIVE PROGRAM</TITLE>
+<DATELINE>    SOUTHFIELD, MICH., April 1 - </DATELINE><BODY>American Motors Corp said it
+is extending and enhancing its buyer-incentive programs on
+Renault Alliance, Encore and GTA models and Jeep Comanche,
+Cherokee and Wagoneer to April 10. The incentives were to have
+expired March 31.
+    New to the April program is the combination of a
+low-interest annual percentage financing program and 1986 and
+1987 Renault vehicles and a 500 dlr rebate.
+    It said buyers of 1986 and 1987 Jeep Cherokee, Wagoneer and
+Comanche vehicles have a choice of the financing program or a
+rebate.
+
+ Reuter
+&#3;</BODY></TEXT>

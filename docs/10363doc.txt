@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15884" NEWID="10363">
+<DATE>27-MAR-1987 07:39:50.82&#5;&#5;&#5;F</DATE>
+<UNKNOWN>&#22;&#22;&#1;f0562&#31;reute</UNKNOWN>
+<TOPICS></TOPICS>
+<PLACES><D>norway</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+u f BC-NORWAY'S-HELIKOPTER-S   03-27 0114</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NORWAY'S HELIKOPTER SERVICE TO BUILD BELL HELICOPTERS</TITLE>
+<DATELINE>    STAVANGER, March 27 - </DATELINE><BODY>&lt;Helikopter Service A/S>, Norway's
+biggest helicopter operator, will assemble 18 Bell 412 SP
+helicopters for Norwegian Defence under license from &lt;Bell
+Helicopters Textron> of the U.S., The company said.
+    The 18 medium-range helicopters, worth 540 mln crowns, will
+be assembled at the company's facilities at Sola airport in
+Stavanger. Helikopter Service technical director Trygve Eidem
+said the 25-mln crown assembly contract will help the company
+diversify its operations. Helikopter Service's main income is
+from chartered flights between Norway's North Sea oil fields
+and mainland heliports.
+ REUTER
+&#3;</BODY></TEXT>

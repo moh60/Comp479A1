@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10532" NEWID="5619">
+<DATE>16-MAR-1987 14:51:17.46</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f3344&#31;reute
+r f BC-SYSTEMHOUSE-INC-&lt;SHKI   03-16 0055</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SYSTEMHOUSE INC &lt;SHKIF> WINS CONTRACT</TITLE>
+<DATELINE>    LOS ANGELES, March 16 - </DATELINE><BODY>Systemhouse Inc said it has been
+awarded a 12 mln dlr contract by the County of Los Angeles to
+design and develop its integrated County Justice Information
+System.
+    Systemhouse also said it has opened a branch in Los
+Angeles, as a direct result of the contract.
+ Reuter
+&#3;</BODY></TEXT>

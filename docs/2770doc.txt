@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19188" NEWID="2770">
+<DATE> 6-MAR-1987 13:43:04.53</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0103&#31;reute
+d f BC-UNC-&lt;UNC>-TO-CHANGE-S   03-06 0048</UNKNOWN>
+<TEXT>&#2;
+<TITLE>UNC &lt;UNC> TO CHANGE STATE OF INCORPORATION</TITLE>
+<DATELINE>    ANNAPOLIS, March 6 - </DATELINE><BODY>UNC Inc said its board has approved a
+change in state of incorporation to Delaware from Virginia,
+subject to approval by shareholders at the April 24 annual
+meeting.
+    It said it expects to make the change around April 30.
+ Reuter
+&#3;</BODY></TEXT>

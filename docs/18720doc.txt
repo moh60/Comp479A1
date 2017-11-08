@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6472" NEWID="18720">
+<DATE>18-JUN-1987 11:07:10.86</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f3439&#31;reute
+d f BC-COMMONWEALTH-&lt;COMW.O>   06-18 0054</UNKNOWN>
+<TEXT>&#2;
+<TITLE>COMMONWEALTH &lt;COMW.O> PRESIDENT RESIGNS</TITLE>
+<DATELINE>    FORT LAUDERDALE, Fla., June 18 - </DATELINE><BODY>Commonwealth Savings and
+Loan Association said Michael McCarthy, its president and chief
+operating officer, resigned.
+    The company said Barry Chapnick, chairman and chief
+executive offcer, will resume the responsibilities of the
+president's post.
+ Reuter
+&#3;</BODY></TEXT>

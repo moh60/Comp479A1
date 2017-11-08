@@ -1,0 +1,31 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1303" NEWID="16768">
+<DATE>17-APR-1987 05:08:50.21</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>japan</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0081&#31;reute
+u f BC-DAI-NIPPON-TO-ISSUE-T   04-17 0117</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DAI NIPPON TO ISSUE THREE DOMESTIC CONVERTIBLES</TITLE>
+<DATELINE>    TOKYO, April 17 - </DATELINE><BODY>Dai Nippon Printing Co Ltd &lt;DPRI.T> said
+it will issue three convertible yen bonds on domestic markets.
+     It will issue a 25 billion yen 15-year bond through public
+placement with Yamaichi Securities Co Ltd as lead manager. It
+will also issue a 15 billion yen 10-year bond and a 10 billion
+yen six-year bond through public placement, both with Nomura
+Securities Co Ltd as lead manager.
+    Coupon and conversion price for the par-priced bonds will
+be set at Dai Nippon's next board meeting. Payment will be due
+on June 1. The 15-year bond will mature on May 31 2002, the
+10-year on May 30 1997, and the six-year on May 31 1993.
+    Dai Nippon's share price rose 20 to 1,800 yen on the Tokyo
+Stock Exchange today.
+ REUTER
+&#3;</BODY></TEXT>

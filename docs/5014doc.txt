@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9927" NEWID="5014">
+<DATE>13-MAR-1987 15:25:16.54</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A RM
+&#22;&#22;&#1;f0271&#31;reute
+r f BC-INT'L-GAME-TECHNOLOGY   03-13 0065</UNKNOWN>
+<TEXT>&#2;
+<TITLE>INT'L GAME TECHNOLOGY &lt;IGAM> TO SELL DEBT</TITLE>
+<DATELINE>    NEW YORK, March 13 - </DATELINE><BODY>International Game Technology said it
+filed with the Securities and Exchange Commission a
+registration statement covering a 35 mln dlr issue of senior
+notes due 1995 and a 25 mln dlr issue of convertible senior
+subordinated debentures due 2002.
+    The company named Drexel Burnham Lambert Inc as sole
+manager of the offerings.
+ Reuter
+&#3;</BODY></TEXT>

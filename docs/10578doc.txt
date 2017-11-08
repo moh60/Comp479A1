@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16099" NEWID="10578">
+<DATE>27-MAR-1987 13:18:58.31&#5;&#5;&#5;F</DATE>
+<UNKNOWN>&#22;&#22;&#1;f1824&#31;reute</UNKNOWN>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+r f BC-MILLIPORE-&lt;MILI>-TO-P   03-27 0106</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MILLIPORE &lt;MILI> TO PAY CIVIL PENALTY</TITLE>
+<DATELINE>    BOSTON, March 27 - </DATELINE><BODY>Millipore Corp said it agreed to pay a
+192,500 dlrs penalty to the U.S. Environmental Protection
+Agency and the State of New Hampshire for discharging
+pollutants from 1972 and 1985 from its Jaffrey, N.H. plant to
+navigable waters without a permit.
+    As part of the settlement, Millipore will undertake a study
+to see if groundwater contamination exists in the waters. It
+also is prohibited from discharging pollutants except in
+accordance with wastewater discharge permits which were issued
+after the lawsuit was filed.
+    Millipore officials were not available for comment.
+ Reuter
+&#3;</BODY></TEXT>

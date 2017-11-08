@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20458" NEWID="20979">
+<DATE>19-OCT-1987 16:00:11.17</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2963&#31;reute
+u f BC-STRATUS-COMPUTER-INC   10-19 0039</UNKNOWN>
+<TEXT TYPE="UNPROC">&#2;
+STRATUS COMPUTER INC &lt;STRA.O> 3RD QTR NET
+    shr 26 cts vs 18 cts
+    net 5,281,000 vs 3,496,000
+    rev 48.8 mln vs 32.1 mln
+    nine mos
+    shr 64 cts vs 51 cts
+    net 12,852,000 vs 9,822,000
+    rev 129.0 mln vs 89.2 mln            
+ Reuter
+&#3;
+
+</TEXT>

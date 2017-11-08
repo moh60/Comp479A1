@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15438" NEWID="9917">
+<DATE>26-MAR-1987 10:49:31.37</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1315&#31;reute
+r f BC-NOVA-&lt;NOVX>-TO-GET-BR   03-26 0104</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NOVA &lt;NOVX> TO GET BRADYKININ ANTAGONIST PATENT</TITLE>
+<DATELINE>    BALTIMORE, March 26 - </DATELINE><BODY>Nova Pharmaceutical Corp said the
+U.S. Patent Office has allowed its patent for bradykinin
+antagonist drugs. Nova said patents have also been filed in
+other countries worldwide.
+    It said it has the exclusive worldwide rights to these
+patents for the first bradykinin blocking drugs being developed
+as topical pain relievers and in nasal spry form for treating
+common cold symptoms.
+    Nova said Bradykinin is the most powerful paing-producing
+substance in the body and is considered, based on scientific
+evidence, to be the initial stimulus of pain.
+ Reuter
+&#3;</BODY></TEXT>

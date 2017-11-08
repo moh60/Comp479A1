@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9303" NEWID="4390">
+<DATE>12-MAR-1987 13:43:39.50</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0989&#31;reute
+b f BC-CORRECTION---BUDAPEST   03-12 0072</UNKNOWN>
+<TEXT TYPE="UNPROC">&#2;
+CORRECTION - BUDAPEST BANK ISSUES BONDS
+    In Budapest item "BUDAPEST BANK ISSUES BONDS TO EXPAND
+RESOURCES" please read in first paragraph...."..The first of the
+Hungarian-owned commercial banks operating since January..."
+    (Inserting dropped words "Hungarian-owned" to make clear
+Hungarian commercial banks began operating in January. Joint
+venture commercial banks with western participation operated
+before January.)
+ REUTER
+&#3;
+
+</TEXT>

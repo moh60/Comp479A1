@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4344" NEWID="15361">
+<DATE> 8-APR-1987 17:46:26.17</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2725&#31;reute
+r f BC-INVESTOR-CHARGES-WITH   04-08 0109</UNKNOWN>
+<TEXT>&#2;
+<TITLE>INVESTOR CHARGES WITH STOCK MANUPULATION</TITLE>
+<DATELINE>    NEW YORK, April 8 - </DATELINE><BODY>William Rodman, a 43-year-old New York
+investor was indicted for allegedly plotting to manipulate the
+price of three over-the-counter stocks to drive up their prices
+and create interest in the companies.
+    Rodman was also charged with securities and wire fraud
+stemming from the alleged manipulation of the stocks of Memory
+Metals Inc &lt;MRMT>, Memory Protection Devices Inc &lt;MPDI> and
+&lt;Intravision Inc>, beginning in January 1984.
+    The indictment charged that Rodman and other unnamed
+co-conspirators bought and sold the stocks through 100 accounts
+in at least 35 broker-dealer firms.
+   
+ Reuter
+&#3;</BODY></TEXT>

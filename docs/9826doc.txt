@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15347" NEWID="9826">
+<DATE>26-MAR-1987 08:50:15.66</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D><D>mexico</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0839&#31;reute
+r f BC-BRANIFF-&lt;BAIR>-MAY-GE   03-26 0104</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BRANIFF &lt;BAIR> MAY GET MEXICAN SERVICE AUTHORITY</TITLE>
+<DATELINE>    DALLAS, March 26 - </DATELINE><BODY>Braniff Inc said a U.S. Department of
+Transportation administrative law judge has recommended that a
+certificate be granted authorizing Braniff to operate air
+service for five years on a temporary and experimental basis
+between Dallas/Fort Worth and San Antonio, Texas, and Mexico
+City and Acapulco, Mexico.
+    The company said the recommendation must still be approved
+by Transportation Secretary Elizabeth Dole and President
+Reagan. Braniff has been operating the routes under exemption
+authority granted by the Transportation Department in October.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10055" NEWID="5142">
+<DATE>14-MAR-1987 09:41:10.77</DATE>
+<TOPICS><D>veg-oil</D><D>soy-oil</D></TOPICS>
+<PLACES><D>bangladesh</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;G C L
+&#22;&#22;&#1;f0809&#31;reute
+r f BC-BANGLADESH-TO-BUY-10,   03-14 0050</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BANGLADESH TO BUY 10,000 TONNES SOYABEAN OIL</TITLE>
+<DATELINE>    DHAKA, March 14 - </DATELINE><BODY>Bangladesh floated an international
+tender for the purchase of 10,000 tonnes of refined soyabean
+oil for delivery at Chittagong/Chalna port by April 24, Food
+Ministry officials said.
+    The tender closes March 28 at 0500 GMT.
+ REUTER
+&#3;</BODY></TEXT>

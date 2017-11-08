@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11398" NEWID="6487">
+<DATE>18-MAR-1987 10:08:11.51</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f7972&#31;reute
+h f BC-AA-GAGE-GETS-SINGER-&lt;   03-18 0106</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AA GAGE GETS SINGER &lt;SMF> DIVISION SUBCONTRACT</TITLE>
+<DATELINE>    FERNDALE, MICH., March 18 - </DATELINE><BODY>AA Gage, a manufacturer of
+rotary indexers and test systems for the aerospace and machine
+tool industries, said it was awarded an initial subcontract of
+2.2 mln dlrs by Singer Co's Kearfott Guidance and Navigation
+Division.
+    It said the subcontract is to produce computerized two-axis
+test stand systems and other support services for the U.S. Air
+Force Adints (Automatic Depot Inertial Navigation Test Systems)
+program.
+    Depending on Air Force requirements, the subcontract will
+result in AA Gage shipments between 5.0 and 10 mln dlrs over
+five years.
+ Reuter
+&#3;</BODY></TEXT>

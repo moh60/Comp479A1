@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5948" NEWID="17610">
+<DATE> 1-JUN-1987 11:42:37.31</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1477&#31;reute
+d f BC-EMERY-&lt;EAF>-NAMES-KIL   06-01 0080</UNKNOWN>
+<TEXT>&#2;
+<TITLE>EMERY &lt;EAF> NAMES KILCULLEN HEAD OF PUROLATOR</TITLE>
+<DATELINE>    WILTON, Conn., June 1 - </DATELINE><BODY>Emery Air Freight Corp, which
+acquired controlling interest in Purolator Courier Corp &lt;PCC>,
+said it has named John Kilcullen executive vice president and
+chief operating officer of Purolator.
+    Previously, Emery said Kilcullen was Purolator's executive
+vice president of operations.
+    Emery said Kilcullen now heads the Purolator executive
+management team and reports to Emery President Denis McCarthy.
+ Reuter
+&#3;</BODY></TEXT>

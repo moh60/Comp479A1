@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="488" NEWID="12260">
+<DATE> 1-APR-1987 15:39:06.36</DATE>
+<TOPICS><D>interest</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;A
+&#22;&#22;&#1;f2297&#31;reute
+r f BC-HARRIS-BANK-INCREASES   04-01 0029</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HARRIS BANK INCREASES ITS PRIME RATE</TITLE>
+<DATELINE>    CHICAGO, April 1 - </DATELINE><BODY>&lt;The Harris Trust and Savings Bank> said
+it has increased its prime rate to 7-3/4 from 7-1/2 effective
+immediately.
+ Reuter
+&#3;</BODY></TEXT>

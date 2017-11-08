@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20400" NEWID="21037">
+<DATE>19-OCT-1987 14:56:58.45</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2696&#31;reute
+h f BC-QUANTUM-CORP-&lt;QNTM.O>   10-19 0043</UNKNOWN>
+<TEXT>&#2;
+<TITLE>QUANTUM CORP &lt;QNTM.O> 2ND QTR SEPT 27 NET</TITLE>
+<DATELINE>    MILPITAS, Calif., Oct 19 -
+    </DATELINE><BODY>Shr 44 cts vs 30 cts
+    Net 4,057,000 vs 2,716,000
+    Sales 49.5 mln vs 29.6 mln
+    Six Mths
+    Shr six cts vs 55 cts
+    Net 518,000 vs 5,167,000
+    Sales 89.7 mln vs 54.9 mln
+ Reuter
+&#3;</BODY></TEXT>

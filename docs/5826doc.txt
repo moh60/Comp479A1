@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10740" NEWID="5826">
+<DATE>17-MAR-1987 05:22:54.89</DATE>
+<TOPICS><D>grain</D></TOPICS>
+<PLACES><D>china</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;G C
+&#22;&#22;&#1;f4372&#31;reute
+u f BC-SOUTHEAST-CHINA-CROPS   03-17 0072</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SOUTHEAST CHINA CROPS SAVED BY HEAVY RAIN</TITLE>
+<DATELINE>    PEKING, March 17 - </DATELINE><BODY>The heaviest rains for seven months are
+believed to have saved more than one mln hectares of
+drought-threatened crops in southeast China, the official New
+China News Agency said.
+    This week's rains have alleviated drought conditions in
+Guangdong Province, the agency said.
+    China has warned that this year's harvest will be affected
+by drought in many areas.
+ REUTER
+&#3;</BODY></TEXT>

@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20947" NEWID="20352">
+<DATE>20-OCT-1987 11:38:35.80</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F Y 
+&#22;&#22;&#1;f1677&#31;reute
+d f BC-LASMO-CANADA-TO-MERGE   10-20 0096</UNKNOWN>
+<TEXT>&#2;
+<TITLE>LASMO CANADA TO MERGE WITH ONYX PETROLEUM</TITLE>
+<DATELINE>    LONDON, Oct 20 - </DATELINE><BODY>LASMO Exploration (Canada) Ltd, a
+subsidiary of London &amp; Scottish Marine Oil Plc &lt;LSML.L>, is
+merging with &lt;Onyx Petroleum Exploration Co Ltd>, LASMO said.
+    The merger is to be made by Onyx buying LASMO Exploration,
+in a share swap. A new company, LASMO Canada Inc, will be
+formed. LASMO will control 70 pct of the equity, worth some 76
+mln Canadian dlrs based on the current Onyx share price.
+    The new company will have proven reserves of 9.5 mln
+barrels of oil and 20.9 billion cubic feet of gas, LASMO said.
+ Reuter
+&#3;</BODY></TEXT>

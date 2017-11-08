@@ -1,0 +1,30 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13580" NEWID="8059">
+<DATE>20-MAR-1987 19:31:41.47</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2721&#31;reute
+b f BC-SEC'S-SHAD-SEES-WIDEN   03-20 0110</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SEC'S SHAD SEES WIDENING TRADING PROBES</TITLE>
+<DATELINE>    NEW YORK, March 20 - </DATELINE><BODY>Securities and Exchange Commission
+chairman John Shad said the SEC's investigations of
+insider-trading on Wall Street will broaden to include other
+types of securities law violations.
+    Shad, appearing on Cable News Network's Moneyline program,
+said the SEC staff will "go down every avenue" in which it
+finds violations of securities laws.
+    He said the SEC staff will investigate "many more ancillary
+areas." These, he said, include stock "parking" to avoid
+required SEC filings on stock holdings of more than five pct
+and failures by brokerage firms to meet net capital
+requirements.
+   
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4514" NEWID="15297">
+<DATE> 8-APR-1987 16:13:30.34</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F A
+&#22;&#22;&#1;f2461&#31;reute
+r f BC-N.Y.-THRIFTS-HAD-RECO   04-08 0114</UNKNOWN>
+<TEXT>&#2;
+<TITLE>N.Y. THRIFTS HAD RECORD MORTGAGE LOANS IN 1986</TITLE>
+<DATELINE>    NEW YORK, April 8 - </DATELINE><BODY>The Federal Home Loan Bank Board of New
+York said mortgage loans acquired by member institutions in
+1986 rose 54 pct from the prior record made in 1985.
+    Fouth-quarter mortgage lending by the 98 New York thrifts
+required to report was nearly 75 pct above the lending volume
+of the same 1985 period. Mortgage loans acquired - comprising
+total mortgage loans closed and mortage loans and
+participations purchased - were 5.3 billion dlrs in the fourth
+quarter and 15 billion for the year.
+    Total mortgages outstanding for New York members were 58.8
+billion dlrs on December 31 versus 50.7 billion at end-1985.
+ Reuter
+&#3;</BODY></TEXT>

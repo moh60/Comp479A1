@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="BYPASS" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="3477" NEWID="14494">
+<DATE> 7-APR-1987 15:35:48.01</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;TQ
+&#22;&#22;&#1;f2241&#31;reute
+u f BC-ny-rubber-dlrs-c&amp;f   04-07 0041</UNKNOWN>
+<TEXT TYPE="UNPROC">&#2;
+ N.Y. RUBBER DEALERS C AND F 1615-Apr 7
+                                 (cents per lb)
+ No 1 rss Apr  44-7/8n May 45-1/8
+ No 2 rss Apr  44-3/4n
+ No 3 rss Apr  44-1/2n
+ No 4 rss Apr  43-7/8n
+ Std. indonesian rubber (sir) Apr 38-3/8n
+             
+&#3;
+
+</TEXT>

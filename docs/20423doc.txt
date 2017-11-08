@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="21018" NEWID="20423">
+<DATE>20-OCT-1987 13:09:01.26</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2256&#31;reute
+u f BC-U.S.-HEALTHCARE-&lt;USHC   10-20 0042</UNKNOWN>
+<TEXT>&#2;
+<TITLE>U.S. HEALTHCARE &lt;USHC.O> TO BUY BACK SHARES</TITLE>
+<DATELINE>    BLUE BELL, Pa., Oct 20 - </DATELINE><BODY>U.S. Healthcare Inc said it has
+authorized the repurchase of up to 10 mln shares of stock.
+    The company repurchased five mln shares under a program
+that ended earlier this year.
+ Reuter
+&#3;</BODY></TEXT>

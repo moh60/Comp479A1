@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7084" NEWID="19248">
+<DATE>19-JUN-1987 12:15:17.70</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1471&#31;reute
+u f BC-VIACOM-&lt;VIA>-SETS-EX-   06-19 0049</UNKNOWN>
+<TEXT>&#2;
+<TITLE>VIACOM &lt;VIA> SETS EX-DIVIDEND DATE FOR PREFERRED</TITLE>
+<DATELINE>    NEW YORK - </DATELINE><BODY>Viacom Inc said the ex-dividend date for its
+preferred stock is Friday, June 19.
+    The company, which halted activity on the stock this
+morning, said trading will resume shortly. The last price for
+Viacom Inc preferred was 24-1/2.
+ Reuter
+&#3;</BODY></TEXT>

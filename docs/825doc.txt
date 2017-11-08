@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13008" NEWID="825">
+<DATE> 2-MAR-1987 17:31:07.87</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F A RM
+&#22;&#22;&#1;f0222&#31;reute
+r f BC-AVX-CORP-&lt;AVX>-DEBT-A   03-02 0078</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AVX CORP &lt;AVX> DEBT AFFIRMED BY S/P</TITLE>
+<DATELINE>    NEW YORK, March 2 - </DATELINE><BODY>Standard and Poor's Corp said it
+affirmed the B-plus rating on AVX Corp's 28 mln dlrs of
+subordinated debt.
+    The company's implied senior debt rating is BB.
+    S and P said AVX's purchase offer for CTS Corp &lt;CTS> has
+expired and the acquisition does not appear likely to occur.
+AVX was listed on S and P's creditwatch with negative
+implications on December 17, 1986, because of the proposed
+acquisition.
+ Reuter
+&#3;</BODY></TEXT>

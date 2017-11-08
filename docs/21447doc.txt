@@ -1,0 +1,31 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="19989" NEWID="21447">
+<DATE>19-OCT-1987 09:30:51.30</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1000&#31;reute
+r f BC-SOUTHWEST-BANCORP-&lt;SW   10-19 0081</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SOUTHWEST BANCORP &lt;SWB> 3RD QTR LOSS</TITLE>
+<DATELINE>    VISTA, Calif., Oct 19 -
+    </DATELINE><BODY>Oper shr loss 82 cts vs profit 12 cts
+    Oper net loss 4,134,000 vs profit 544,000
+    Avg shrs 5,030,000 vs 3,927,000
+    Nine mths
+    Oper shr loss 80 cts vs profit 32 cts
+    Oper net loss 3,615,000 vs profit 1,457,000
+    Avg shrs 4,557,000 vs 3,927,000
+    NOTE: 1986 net excludes tax loss carryforwards of 105,000
+dlrs in quarter and 195,000 dlrs in nine mths.
+    1986 quarter net includes 212,000 dlr tax credit.
+    1987 net both periods includes 3,700,000 dlr addition to
+loan loss reserves due mostly to one out-of-state real estate
+transaction.
+ Reuter
+&#3;</BODY></TEXT>

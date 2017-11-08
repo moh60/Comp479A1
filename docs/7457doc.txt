@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12370" NEWID="7457">
+<DATE>19-MAR-1987 17:22:48.46</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2580&#31;reute
+r f BC-U.S.-AGENCY-PROPOSES   03-19 0109</UNKNOWN>
+<TEXT>&#2;
+<TITLE>U.S. AGENCY PROPOSES DAYTIME LIGHTS FOR CARS</TITLE>
+<DATELINE>    WASHINGTON, March 19 - </DATELINE><BODY>Transportation Secretary Elizabeth
+Dole proposed to allow the use of daytime running lights as a
+measure to improve safety on the highways.
+    Dole said in an announcement that in Sweden and Finland, 
+where daytime lights have been in use, the number of crashes
+and lives lost has been reduced.
+    The transporation department said there might be confusion
+in some states whether the lighting device was legal.
+    Therefore it proposed an amendment to federal motor vehicle
+safety rules to make clear that front-mounted lights could be
+installed at the option of the manufacturer.
+ Reuter
+&#3;</BODY></TEXT>

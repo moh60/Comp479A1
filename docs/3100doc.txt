@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19515" NEWID="3100">
+<DATE> 9-MAR-1987 10:35:23.44</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D><D>france</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0306&#31;reute
+u f BC-CHRYSLER-&lt;C>-IN-DEAL   03-09 0107</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CHRYSLER &lt;C> IN DEAL TO BUY AMC &lt;AMO></TITLE>
+<DATELINE>    DETROIT, March 9 - </DATELINE><BODY>Chrysler Corp said it agreed in
+principle with French state-owned Renault to acquire American
+Motors Corp., in which Renault is controlling shareholder,
+under a deal in which AMC stockholders other than Renault would
+receive Chrysler common stock with a market value of four dlrs
+for each AMC common share they hold.
+    Chrysler said the letter of intent for the deal, which
+needs government and AMC shareholder and board approval,
+provides that AMC holders will receive not more than .0840 or
+less than .0687 of a share of Chrysler common for each share of
+AMC common they hold.
+ more
+&#3;</BODY></TEXT>

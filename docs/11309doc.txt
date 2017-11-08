@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17371" NEWID="11309">
+<DATE>31-MAR-1987 09:30:57.75</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F Y
+&#22;&#22;&#1;f0977&#31;reute
+r f BC-NORD-RESOURCES-&lt;NRD>   03-31 0089</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NORD RESOURCES &lt;NRD> SETS PRIVATE SALE OF STOCK</TITLE>
+<DATELINE>    DAYTON, Ohio, March 31 - </DATELINE><BODY>Nord Resources Corp said Kleinwort
+Grieveson and Co, a U.K. investment banking firm, has agreed to
+privately place 600,000 Nord common shares with institutional
+investors outside of the U.S., primarily in the U.K.
+    Nord said the placement was priced at 17.50 dlrs a share,
+90 pct of the stock's closing price yesterday, and is scheduled
+to close April 10.
+    The company said it will raise about 10 mln dlrs which will
+be used for general corporate purposes.
+ Reuter
+&#3;</BODY></TEXT>

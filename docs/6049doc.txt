@@ -1,0 +1,32 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10962" NEWID="6049">
+<DATE>17-MAR-1987 11:47:10.74</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F Y
+&#22;&#22;&#1;f5496&#31;reute
+r f BC-phoenix-canada-oil-to   03-17 0103</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PHOENIX CANADA OIL TO APPEAL RULING</TITLE>
+<DATELINE>    Toronto, March 17 - </DATELINE><BODY>&lt;Phoenix Canada Oil Co Ltd> said it
+intends to appeal a ruling in U.S. Federal District Court of
+Delaware on its suit against Texaco Inc &lt;TX>, Chevron Corp
+&lt;CHV>, Chevron's Gulf Oil unit and their Ecuador subsidiaries.
+    The court ruled against Phoenix's claim that a royalty it
+held should have entitled it to a share of the 160 mln U.S.
+dlrs paid to the defendants when they sold 62.5 pct of their
+working interest in Ecuador oil operations, Phoenix said.
+    However, the court did award Phoenix 1,250,000 Canadian
+dlrs in underpayments, the company said.
+    Phoenix Canada Oil said the fiduciary relationship that
+existed between Phoenix, as the royalty owner, and the
+defendants, as the working interest operators, was fundamental
+in the oil industry and was not reflected in the court's
+ruling.
+ Reuter
+&#3;</BODY></TEXT>

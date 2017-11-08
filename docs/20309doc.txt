@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20904" NEWID="20309">
+<DATE>20-OCT-1987 11:12:04.82</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1534&#31;reute
+u f BC-BRISTOL-MYERS-CO-&lt;BMY   10-20 0054</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BRISTOL-MYERS CO &lt;BMY> 3RD QTR NET</TITLE>
+<DATELINE>    NEW YORK, Oct 20 -
+    </DATELINE><BODY>Shr 70 cts vs 61 cts
+    Net 200.2 mln vs 173.9 mln
+    Sales 1.38 billion vs 1.26 billion
+    Nine mths
+    Shr 1.87 dlrs vs 1.54 dlrs
+    Net 535.6 mln vs 437.8 mln
+    Sales 4.04 billion vs 3.63 billion
+    NOTE: Share adjusted for two-for-one stock split.
+ REUTER
+&#3;</BODY></TEXT>

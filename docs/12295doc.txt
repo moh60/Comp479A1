@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="523" NEWID="12295">
+<DATE> 1-APR-1987 16:13:57.39</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2404&#31;reute
+d f BC-MCDONNELL-DOUGLAS&lt;MD>   04-01 0033</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MCDONNELL DOUGLAS&lt;MD> GETS 60.0 MLN DLR CONTRACT</TITLE>
+<DATELINE>    WASHINGTON, April 1 - </DATELINE><BODY>McDonnell Douglas Corp has received a
+60.0 mln dlr contract for long lead advance work on F-15E
+aircraft, the Air Force said.
+ reuter
+&#3;</BODY></TEXT>

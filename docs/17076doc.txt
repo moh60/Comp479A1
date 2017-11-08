@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="NOT-USED" CGISPLIT="PUBLISHED-TESTSET" OLDID="21699" NEWID="17076">
+<DATE>24-APR-1987 08:39:45.06</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0670&#31;reute
+r f BC-FRIEDMAN-INDUSTRIES-&lt;   04-24 0107</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FRIEDMAN INDUSTRIES &lt;FRD> MERGER NOT APPROVED</TITLE>
+<DATELINE>    HOUSTON, April 23 - </DATELINE><BODY>Friedman Industries Inc said
+shareholders at a special meeting held for a vote on its
+proposed merger into companies controlled by Venezuelan
+businessman John Castellvi failed to provide a high enough
+affirmative vote for approval.
+    It said about 75 pct of the shares entitled to vote at the
+meeting were voted in favor, but an 80 pct vote was needed.
+    The company said a significant number of shares held in
+street name were not voted.  As a result, it said it adjourned
+the meeting until April 28 and, if the merger is approved,
+closing is expected late next week.
+ Reuter
+&#3;</BODY></TEXT>

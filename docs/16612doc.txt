@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1147" NEWID="16612">
+<DATE>13-APR-1987 15:19:45.28</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E A RM
+&#22;&#22;&#1;f2356&#31;reute
+b f BC-embargoed-for-1500-ed   04-13 0088</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CANADA PLANS ONE BILLION DLR BOND ISSUE</TITLE>
+<DATELINE>    OTTAWA, April 13 - </DATELINE><BODY>Canada plans a three part, one billion
+dlr issue Tuesday, which will be dated and delivered May 1, the
+finance department said. The bonds will be issued as follows.
+    - 8-1/2 pct bonds due March 1, 1992,
+    - 8-3/4 pct bonds due June 1, 1996,
+    - 9 pct bonds due March 1, 2011.
+    The nine pct bonds will be issued to a maximum of 325 mln
+dlrs. The Bank of Canada will buy a minimum of 100 mln dlrs of
+the new issue, including five mln dlrs of the 2011 maturity.
+ Reuter
+&#3;</BODY></TEXT>

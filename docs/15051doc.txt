@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4034" NEWID="15051">
+<DATE> 8-APR-1987 11:15:28.57</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1353&#31;reute
+r f BC-AUTOSPA-&lt;LUBE>-TO-RED   04-08 0041</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AUTOSPA &lt;LUBE> TO REDEEM WARRANTS</TITLE>
+<DATELINE>    NEW YORK, April 8 - </DATELINE><BODY>AutoSpa corp said it will redeem all
+its common stock purchase warrants on May Five at 7.5 cts each.
+    Through May Four, each warrant may be exercised into one
+common share at 1.75 dlrs.
+ Reuter
+&#3;</BODY></TEXT>

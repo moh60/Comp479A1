@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="8326" NEWID="241">
+<DATE> 1-MAR-1987 04:39:39.95</DATE>
+<TOPICS><D>grain</D><D>wheat</D></TOPICS>
+<PLACES><D>china</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;G C
+&#22;&#22;&#1;f0398&#31;reute
+u f BC-CHINESE-WHEAT-CROP-TH   03-01 0095</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CHINESE WHEAT CROP THREATENED BY PESTS, DISEASE</TITLE>
+<DATELINE>    PEKING, March 1 - </DATELINE><BODY>China's wheat crop this year is seriously
+threatened by plant pests and diseases, the New China News
+Agency said.
+    More than 5 mln hectares of wheat-producing land in North
+China could be affected because relatively warm and dry weather
+had allowed bacteria and insect eggs to survive the winter, the
+agency added.
+    China"s Ministry of Agriculture, Animal Husbandry and
+Fisheries has called for measures including the timely supply
+of pesticides to farmers to combat the threat, it said.
+ REUTER
+&#3;</BODY></TEXT>

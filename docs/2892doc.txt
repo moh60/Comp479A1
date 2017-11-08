@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19310" NEWID="2892">
+<DATE> 6-MAR-1987 16:51:03.85</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D><D>netherlands</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0613&#31;reute
+h f BC-HOGAN-SYSTEMS-&lt;HOGN>   03-06 0040</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HOGAN SYSTEMS &lt;HOGN> GETS AMSTERDAM CONTRACT</TITLE>
+<DATELINE>    DALLAS, March 6 - </DATELINE><BODY>Hogan Systems Inc said it signed a
+software contract with Amsterdam Rotterdam Bank N.V.
+    The contract is valued at about two mln dlrs over the new
+two years, Hogan said.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6476" NEWID="18724">
+<DATE>18-JUN-1987 11:12:26.78</DATE>
+<TOPICS><D>money-fx</D><D>interest</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;V RM 
+&#22;&#22;&#1;f3460&#31;reute
+b f BC-/-FED-EXPECTED-TO-ADD   06-18 0092</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FED EXPECTED TO ADD RESERVES</TITLE>
+<DATELINE>    NEW YORK, June 18 - </DATELINE><BODY>The Federal Reserve will enter the
+government securities market to supply reserves via either a
+large round of customer repurchase agreements or by overnight
+or possibly four-day system repurchases, economists said.
+    They said the Fed has a fairly large add need and is likely
+to face the most reserve dislocations early in the new
+statement period started today as corporate tax payments swell
+Treasury balances at the Fed.
+    Fed funds hovered at 6-3/4 pct after averaging 6.80 pct
+yesterday.
+ Reuter
+&#3;</BODY></TEXT>

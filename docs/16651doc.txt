@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1186" NEWID="16651">
+<DATE>13-APR-1987 16:04:26.94</DATE>
+<TOPICS><D>crude</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F Y
+&#22;&#22;&#1;f2488&#31;reute
+r f BC-DOE-RESOLVES-ISSUES-W   04-13 0103</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DOE RESOLVES ISSUES WITH ROYAL DUTCH &lt;RD> UNIT</TITLE>
+<DATELINE>    WASHINGTON, April 13 - </DATELINE><BODY>The Energy Department said it had
+approved in final form an agreement that resolves all remaining
+issues with Shell Oil Co over oil pricing and allocation
+controls that ended in 1981.
+    Under the agreement, The Royal Dutch/Shell Group unit 
+agreed to pay 20 mln dlrs to settle refiner pricing issues and
+160 mln dlrs to settle crude oil pricing issues, DOE said.
+    DOE said that before making the pact final, it modified it
+to reflect Shell's compliance with the Tertiary Incentive
+Program, a provision not in the version published last Dec 31.
+ reuter
+&#3;</BODY></TEXT>

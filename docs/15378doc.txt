@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5271" NEWID="15378">
+<DATE> 9-APR-1987 03:28:44.13</DATE>
+<TOPICS><D>money-fx</D><D>interest</D></TOPICS>
+<PLACES><D>france</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0119&#31;reute
+b f BC-BANK-OF-FRANCE-TO-HOL   04-09 0078</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BANK OF FRANCE TO HOLD MONEY MARKET TENDER TODAY</TITLE>
+<DATELINE>    PARIS, April 9 - </DATELINE><BODY>The Bank of France said it has invited
+offers of first category paper today for a money market
+intervention tender.
+    Money market operators were divided over whether the Bank
+of France will use to occasion to cut its intervention rate,
+which has stood at 7-3/4 pct since March 9.
+    Some thought a price cut unlikely while others said there
+was room for a further 1/4 point cut by the bank.
+ REUTER
+&#3;</BODY></TEXT>

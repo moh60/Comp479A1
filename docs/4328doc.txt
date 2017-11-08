@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9241" NEWID="4328">
+<DATE>12-MAR-1987 12:27:03.79</DATE>
+<TOPICS><D>ship</D></TOPICS>
+<PLACES><D>uk</D><D>turkey</D><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;M
+&#22;&#22;&#1;f0697&#31;reute
+d f BC-TURKISH-SHIP-HEADED-F   03-12 0079</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TURKISH SHIP HEADED FOR FLORIDA AFTER EXPLOSION</TITLE>
+<DATELINE>    LONDON, March 12 - </DATELINE><BODY>The Turkish ore/bulk/oil vessel Obo
+Engin, 78,078 tonnes dwt, had an explosion in its boiler
+yesterday, Lloyds shipping Intelligence Service reported.
+    The vessel has retained some power and yesterday evening
+was in position Lat. 25 57 N., Long. 75 06 W. It is diverting
+to Jacksonville, Florida, with its cargo of 58,000 tons of
+coal.
+   The vessel was bound for Iskenderun, Turkey from Lake
+Charles.
+ Reuter
+&#3;</BODY></TEXT>

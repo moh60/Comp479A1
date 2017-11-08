@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13002" NEWID="819">
+<DATE> 2-MAR-1987 17:25:58.93</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0210&#31;reute
+r f BC-&lt;SIEMENS-AG>-U.S-UNIT   03-02 0104</UNKNOWN>
+<TEXT>&#2;
+<TITLE>&lt;SIEMENS AG> U.S UNIT TO BEGIN MAKING SYSTEMS</TITLE>
+<DATELINE>    BOCA RATON, Fla., March 2 - </DATELINE><BODY>&lt;Siemens AG's> U.S. subsidiary,
+Siemens Public Switching Systems Inc said two existing plants
+have been selected to allow immediate start up of manufacturing
+on an interim basis of EWSD digital central office switching
+systems in the U.S.
+    The company said the two facilities, one in Cherry Hill,
+N.J., the other in Hauppauge, N.Y., will be used while a
+rigorous review process for selecting a facility devoted only
+to EWSD manufacturing continues.
+    Siemens Public is part of Siemens Communication Systems
+Inc, also headquartered in Boca Raton.
+ Reuter
+&#3;</BODY></TEXT>

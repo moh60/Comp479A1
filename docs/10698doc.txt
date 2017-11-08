@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16759" NEWID="10698">
+<DATE>30-MAR-1987 03:09:15.04</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>north-korea</D><D>south-korea</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0168&#31;reute
+b f BC-NORTH-KOREA-AGREES-TO   03-30 0089</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NORTH KOREA AGREES TO TOP LEVEL TALKS WITH SOUTH</TITLE>
+<DATELINE>    TOKYO, March 30 - </DATELINE><BODY>North Korea said it agreed to a South
+Korean proposal for talks between the prime ministers of the
+two countries, and proposed a preparatory meeting on April 23.
+    The state-run North Korean Central News Agency, monitored
+here, said Pyongyang signalled its agreement in a letter sent
+by North Korean prime minister Li Gun-Mo to his southern
+counterpart Lho Shin-Yong.
+    Lho proposed that the two prime ministers meet for talks in
+a letter on March 17.
+ REUTER
+&#3;</BODY></TEXT>

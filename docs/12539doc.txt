@@ -1,0 +1,20 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="1615" NEWID="12539">
+<DATE> 2-APR-1987 09:40:44.43</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0979&#31;reute
+d f BC-MERCHANTSBANK-&lt;MCBK>   04-02 0032</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MERCHANTSBANK &lt;MCBK> FORMS NEW UNIT</TITLE>
+<DATELINE>    BOSTON, April 2 - </DATELINE><BODY>MerchantsBank said it has formed a new
+subsidiary, Merchants Title Corp, to provide settlement
+services for MerchantsBank subsidiaires.
+ Reuter
+&#3;</BODY></TEXT>

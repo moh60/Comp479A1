@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20942" NEWID="20347">
+<DATE>20-OCT-1987 11:35:12.44</DATE>
+<TOPICS><D>money-fx</D></TOPICS>
+<PLACES></PLACES>
+<PEOPLE><D>poehl</D></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM 
+&#22;&#22;&#1;f1657&#31;reute
+f f BC-Poehl-says-chances-fo   10-20 0010</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE> Poehl says chances for exchange rate stability are good
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

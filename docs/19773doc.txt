@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="8101" NEWID="19773">
+<DATE>29-JUN-1987 13:25:33.13</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1907&#31;reute
+d f BC-SSMC-&lt;SSM>-TO-BUY-CUT   06-29 0091</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SSMC &lt;SSM> TO BUY CUTTERS EXCHANGE DIVISION</TITLE>
+<DATELINE>    STAMFORD, Conn, June 29 - </DATELINE><BODY>SSMC Inc said it has executed a
+letter of understanding to acquire the Parts Catalog Division
+of &lt;Cutters Exchange Inc> for an undisclosed amount.
+    SSMC, spun off from the Singer Co &lt;SMF> a year ago, said
+that the Parts Catalog Division wholesales parts and needles to
+the industrial sewing trade in the U.S.
+    Under the agreement, key managers and employees of the
+Parts Catalog Division in Nashville, Tenn, will relocate to the
+SSMC facility in Murfreesboro, SSMC said.
+ Reuter
+&#3;</BODY></TEXT>

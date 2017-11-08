@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9456" NEWID="4543">
+<DATE>12-MAR-1987 16:37:45.75</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>nyse</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0542&#31;reute
+h f BC-PACO-PHARMACEUTICAL-&lt;   03-12 0076</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PACO PHARMACEUTICAL &lt;PPS> OPENS ON NYSE</TITLE>
+<DATELINE>    NEW YORK, March 12 - </DATELINE><BODY>Paco Pharmaceutical Services Inc said
+its common stock began trading today on the New York Stock
+Exchange.
+    The company's stock opened at 26-3/4 and closed at 26-1/8
+on 21,900 shares traded.
+      Paco said NASDAQ will continue to carry its common stock
+warrants due to expire Decmber 31 under the symbol &lt;PPSIW> and
+its convertible debentures issued February six under the symbol
+&lt;PPSIG>.
+ Reuter
+&#3;</BODY></TEXT>

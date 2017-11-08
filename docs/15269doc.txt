@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4252" NEWID="15269">
+<DATE> 8-APR-1987 15:39:01.93</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2368&#31;reute
+d f BC-MINNETONKA-&lt;MINL>-NOT   04-08 0106</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MINNETONKA &lt;MINL> NOT PART OF UPJOHN &lt;UPJ> SUIT</TITLE>
+<DATELINE>    MINNETONKA, MINN., April 8 - </DATELINE><BODY>Minnetonka Inc said that
+neither its Foltene hair treatment nor its European supplier,
+Crinos Industria Farmacobiologica SpA, are named or involved in
+action filed by Upjohn Co.
+    Earlier today, Upjohn said it filed a complaint with the
+International Trade Commission requesting an investigation of
+infringement of its patent for the drug, Minoxidil, used in its
+treatment for baldness.
+    Minnetonka said it decided to make a statement to "dispell
+any association it may be involved" with the suit. Foltene does
+not use compositions of Minoxidil, it said.
+ Reuter
+&#3;</BODY></TEXT>

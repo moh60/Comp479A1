@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11850" NEWID="6937">
+<DATE>18-MAR-1987 19:04:04.17</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>brazil</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS><D>ec</D></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G L M T
+&#22;&#22;&#1;f9796&#31;reute
+u f BC-SAYAD-ACCEPTS-INVITAT   03-18 0065</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SAYAD TO BE BRAZIL'S AMBASSADOR AT EC</TITLE>
+<DATELINE>    BRASILIA, March 18 - </DATELINE><BODY>Joao Sayad, who resigned yesterday
+from his post as Planning Minister, accepted President Jose
+Sarney's invitation to fill the vacant post as Brazil's
+ambassador at the European Community (EC), a Presidential
+spokesman said.
+    The spokesman said Sayad refused Sarney's request to remain
+as Planning Minister for another 30 days.
+ Reuter
+&#3;</BODY></TEXT>

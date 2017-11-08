@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6569" NEWID="18817">
+<DATE>18-JUN-1987 12:51:46.45</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f3912&#31;reute
+r f BC-DOSKOCIL-&lt;DOSKD.O>-BU   06-18 0059</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DOSKOCIL &lt;DOSKD.O> BUYS BACK FIVE PCT OF STOCK</TITLE>
+<DATELINE>    HUTCHINSON, KAN., June 18 - </DATELINE><BODY>Doskocil Companies Inc said it
+bought back 310,000 shares or about five pct of its common
+stock and its board authorized the repurchase of an additional
+200,000 common shares.
+    If completed, the total purchases would represent 8.5 pct
+of Doskocil's outstanding common stock.
+ Reuter
+&#3;</BODY></TEXT>

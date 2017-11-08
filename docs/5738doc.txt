@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10651" NEWID="5738">
+<DATE>16-MAR-1987 17:53:51.18</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f3816&#31;reute
+r f BC-ZZZZ-BEST-CO-INC-&lt;ZBS   03-16 0052</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ZZZZ BEST CO INC &lt;ZBST> 3RD QTR NET</TITLE>
+<DATELINE>    LOS ANGELES, March 16 -
+    </DATELINE><BODY>Shr 14 cts vs four cts
+    Net 1,474,000 vs 286,000
+    Revs 15.5 mln vs 1.4 mln
+    Avg shrs 10.6 mln vs 7.5 mln
+    Nine mths
+    Shr 38 cts vs eight cts
+    Net 3,387,000 vs 588,000
+    Revs 33.4 mln vs 2.9 mln
+    Avg shrs 8.8 mln vs 7.5 mln
+ Reuter
+&#3;</BODY></TEXT>

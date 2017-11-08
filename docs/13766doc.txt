@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="BYPASS" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="2749" NEWID="13766">
+<DATE> 7-APR-1987 09:44:36.52</DATE>
+<UNKNOWN> 
+^! 16#838#</UNKNOWN>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN>&#5;&#5;&#5;&#5;L
+&#22;&#22;&#1;f0814&#31;reute
+u f BC-ST-JOSEPH-HOGS-SEEN-U   04-07 0036</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ST JOSEPH HOGS SEEN UP 1.00 DLR - PRIVATE</TITLE>
+<DATELINE>    St Joseph, April 7 - Sunny/38 degrees - </DATELINE><BODY>Hog prices are
+expected 1.00 dlr higher on estimated receipts of 1,500 head,
+private sources said. Top seen at 51.50 dlrs per cwt.
+ Reuter
+&#3;</BODY></TEXT>

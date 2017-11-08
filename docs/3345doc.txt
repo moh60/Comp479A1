@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19767" NEWID="3345">
+<DATE> 9-MAR-1987 16:00:05.45</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0614&#31;reute
+d f BC-SENSORMATIC-&lt;SNSR>-UP   03-09 0050</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SENSORMATIC &lt;SNSR> UPS CHECKROBOT &lt;CKRB> STAKE</TITLE>
+<DATELINE>    DEERFIELD BEACH, Fla., March 9 - </DATELINE><BODY>Sensormatic Electronics
+Corp said it upped its investment in CheckRobot Inc in the form
+of 2.5 mln dlrs of convertible preferred stock, raising its
+stake in CheckRobot to 42 pct from 37 pct on a fully diluted
+basis.
+ Reuter
+&#3;</BODY></TEXT>

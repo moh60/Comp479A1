@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9607" NEWID="4694">
+<DATE>13-MAR-1987 06:27:11.86</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>france</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0390&#31;reute
+u f BC-FRANCE-EXPECTS-TO-SIG   03-13 0106</UNKNOWN>
+<TEXT>&#2;
+<TITLE> FRANCE EXPECTS TO SIGN DISNEYLAND CONTRACT BY NEXT MONTH</TITLE>
+<DATELINE>    PARIS, March 13 - </DATELINE><BODY>The French government and Walt Disney Co
+ &lt;DIS.N> expect to sign a contract for Europe's first
+Disneyland amusement park before the end of next month, a
+senior French official said today.
+    The complex, to be built 20 miles east of Paris, will
+include a so-called "Magic Kingdom" theme park, outdoor
+recreation, shops and hotels.
+    Initial investment by Walt Disney and a group of French and
+other investors has been put at around eight billion francs for
+the project's central theme park.
+    A preliminary agreement was reached in December 1985.
+ REUTER
+&#3;</BODY></TEXT>

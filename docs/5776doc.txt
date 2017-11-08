@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10689" NEWID="5776">
+<DATE>16-MAR-1987 23:09:37.11</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>hong-kong</D><D>india</D><D>italy</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f3996&#31;reute
+u f BC-INDIAN-OIL/GAS-COMMIS   03-16 0114</UNKNOWN>
+<TEXT>&#2;
+<TITLE>INDIAN OIL/GAS COMMISSION GETS 26.5 MLN DLR CREDIT</TITLE>
+<DATELINE>    HONG KONG, March 17 - </DATELINE><BODY>The &lt;Oil and Natural Gas Commission>
+of India has signed for a 26.5 mln U.S. Dlr Italian buyers'
+credit, co-lead manager Bankers Trust Co said.
+    It said the 12-year facility, guaranteed by the Indian
+government, carries interest at a fixed rate of 7.40 pct.
+Repayment starts in 1989 and is in 20 semi-annual instalments.
+    Italy's export credit agency Mediocredito Centrale provides
+an undisclosed interest subsidy to the lenders.
+    The other lead managers are State Bank of India and
+Grindlays Bank Plc. Managers are Irving Trust Co, Toyo Trust
+and Banking Co Ltd and Standard Chartered Bank.
+ REUTER
+&#3;</BODY></TEXT>

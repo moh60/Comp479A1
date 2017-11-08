@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="NOT-USED" CGISPLIT="PUBLISHED-TESTSET" OLDID="21616" NEWID="16966">
+<DATE>21-APR-1987 08:21:27.01</DATE>
+<TOPICS><D>nat-gas</D></TOPICS>
+<PLACES><D>australia</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0666&#31;reute
+h f BC-CSR-MAKES-SIGNIFICANT   04-21 0114</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CSR MAKES SIGNIFICANT QUEENSLAND NATURAL GAS FIND</TITLE>
+<DATELINE>    BRISBANE, April 21 - </DATELINE><BODY>CSR Ltd &lt;CSRA.S> and its partners have
+made a significant natural gas discovery in the Roma region of
+central western Queensland, CSR said in a statement.
+    The Wingnut Number One exploration well flowed up to 6.5
+mln cubic feet a day from three zones during drill stem testing
+over the intervals 1,180-1,207 meters and 1,112-1,159.
+    CSR said the well, 400 meters from an existing gas
+gathering system, is the second of a four well program in the
+Roma petroleum leases being funded by &lt;Barcoo Petroleum NL>.
+    Interest holders on completion will be CSR 42.58 pct,
+Barcoo 49.9, and &lt;IOL Petroleum Ltd> 7.51.
+ REUTER
+&#3;</BODY></TEXT>

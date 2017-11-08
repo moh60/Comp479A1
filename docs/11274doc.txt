@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17336" NEWID="11274">
+<DATE>31-MAR-1987 08:54:23.91</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0856&#31;reute
+r f BC-ALPHA-INDUSTRIES-&lt;AHA   03-31 0073</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ALPHA INDUSTRIES &lt;AHA> SELLS DIVISION</TITLE>
+<DATELINE>    WOBURN, Mass., March 31 - </DATELINE><BODY>Alpha Industries Inc said it has
+sold its Microelectronics Division to Triax Corp for
+undisclosed terms, retroactive to February One.
+    It said the division has yearly revenues of about 12 mln
+dlrs and makes RF microwave components for the defense
+electronics industry.
+    Alpha said it plans to concentrate on the high frequency
+portion of the electromagnetic spectrum.
+ Reuter
+&#3;</BODY></TEXT>

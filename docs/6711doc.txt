@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11624" NEWID="6711">
+<DATE>18-MAR-1987 14:11:32.26</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f9029&#31;reute
+d f BC-NOVAR-ELECTRONICS-COR   03-18 0064</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NOVAR ELECTRONICS CORP &lt;NOVR> 4TH QTR JAN THREE</TITLE>
+<DATELINE>    BARBERTON, Ohio, March 18 -
+    </DATELINE><BODY>Shr loss eight cts vs loss eight cts
+    Net loss 220,724 vs loss 210,120
+    Revs 4,194,466 vs 4,224,633
+    Year
+    Shr profit eight cts vs profit four cts
+    Net profit 207,514 vs profit 98,050
+    Revs 17.8 mln vs 16.1 mln
+    NOTE: Quarter net includes tax credits of 162,600 dlrs vs
+236,100 dlrs.
+ Reuter
+&#3;</BODY></TEXT>

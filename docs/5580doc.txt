@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10493" NEWID="5580">
+<DATE>16-MAR-1987 14:03:37.76</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f3198&#31;reute
+d f BC-COOPER-LASER-&lt;ZAPS>-R   03-16 0048</UNKNOWN>
+<TEXT>&#2;
+<TITLE>COOPER LASER &lt;ZAPS> RESCHEDULES ANNUAL MEETING</TITLE>
+<DATELINE>    PALO ALTO, Calif., March 16 - </DATELINE><BODY>Cooper LaserSonics Inc said
+it rescheduled its annual meeting to Monday, May 11, at the
+company's office in Santa Clara, Calif.
+    The meeting had previously been set for May 14 in Palo
+Alto, the company said.
+ Reuter
+&#3;</BODY></TEXT>

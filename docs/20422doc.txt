@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="21017" NEWID="20422">
+<DATE>20-OCT-1987 13:08:08.41</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>switzerland</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2253&#31;reute
+w f BC-PIRELLI-SEES-RISE-IN   10-20 0111</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PIRELLI SEES RISE IN 1987 GROUP PROFITS, SALES</TITLE>
+<DATELINE>    BASLE, Switzerland, Oct 20 - </DATELINE><BODY>Net profit and sales for the
+Pirelli group's worldwide activities should both grow well in
+1987, said Jacopo Vittorelli, chief executive of Societe
+Internationale Pirelli SA &lt;PIRI.Z>.
+    Sales rose 17.5 pct to 2.75 billion dlrs in the first half
+of 1987, and Vittorelli told reporters they were likely to show
+the same percentage growth for the year as a whole.
+    However, he declined to predict the likely growth in net
+profit for the year. It rose by 31.7 pct to 80.6 mln dlrs in
+the first six months. In 1986 group net profit was 141.0 mln
+dlrs, up from 101.5 mln the year before.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="232" NEWID="12004">
+<DATE> 1-APR-1987 11:09:07.45</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1325&#31;reute
+r f BC-LUXTEC-&lt;LUXT>-CUTS-WA   04-01 0037</UNKNOWN>
+<TEXT>&#2;
+<TITLE>LUXTEC &lt;LUXT> CUTS WARRANT EXERCISE PRICE</TITLE>
+<DATELINE>    STURBRIDGE, Mass., April 1 - </DATELINE><BODY>Luxtec Corp said it has
+reduced the exercise price of its Class B common stock purchase
+warrants to one dlr from two dlrs from today through June 30.
+ Reuter
+&#3;</BODY></TEXT>

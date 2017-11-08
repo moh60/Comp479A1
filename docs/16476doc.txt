@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1011" NEWID="16476">
+<DATE>13-APR-1987 12:44:55.97</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1813&#31;reute
+u f BC-UNITED-TELECOMMUNICAT   04-13 0047</UNKNOWN>
+<TEXT>&#2;
+<TITLE>UNITED TELECOMMUNICATIONS INC &lt;UT> 1ST QTR NET</TITLE>
+<DATELINE>    KANSAS CITY, MO., April 13 -
+    </DATELINE><BODY>Shr 13 cts vs 47 cts
+    Net 13,492,000 vs 46,417,000
+    Revs 720.2 mln vs 793.6 mln
+    Avg shrs 99,085,000 vs 96,804,000
+    NOTE: Per-share results reflect payment of preferred
+dividend requirements
+ Reuter
+&#3;</BODY></TEXT>

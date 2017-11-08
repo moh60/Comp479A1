@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1088" NEWID="16553">
+<DATE>13-APR-1987 14:02:54.05</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2110&#31;reute
+a f BC-GUY-F.-ATKINSON-CO-&lt;A   04-13 0057</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GUY F. ATKINSON CO &lt;ATKN.O> UNIT WINS CONTRACT</TITLE>
+<DATELINE>    SAN FRANCISCO, April 13 - </DATELINE><BODY>Guy F. Atkinson Co said its Guy
+F. Atkinson Construction Co won a multi-million-dlr contract to
+construct a station for the Metro Rail Project in Los Angeles.
+    Construction on the proposed station wil begin this month,
+with completion scheduled for February, 1990.
+ Reuter
+&#3;</BODY></TEXT>

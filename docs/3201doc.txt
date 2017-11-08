@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19623" NEWID="3201">
+<DATE> 9-MAR-1987 12:19:41.79</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0840&#31;reute
+h f BC-VTX-&lt;VTX>-TO-DISTRIBU   03-09 0071</UNKNOWN>
+<TEXT>&#2;
+<TITLE>VTX &lt;VTX> TO DISTRIBUTE ATT &lt;T> PRODUCTS</TITLE>
+<DATELINE>    FARMINGDALE, N.Y., March 9 - </DATELINE><BODY>VTX Electronics Corp said it
+signed a distribution agreement with American Telephone and
+Telegraph Co under which it will act as an agent for ATT's
+electronic cable and wire, fiber-optic cable and related
+products to original equipment manufacturers in the Northeast.
+    Terms of the contract, reached with ATT's Network Systems
+Group, were not disclosed.
+ Reuter
+&#3;</BODY></TEXT>

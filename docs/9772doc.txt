@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15293" NEWID="9772">
+<DATE>26-MAR-1987 07:01:14.42</DATE>
+<TOPICS><D>grain</D></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS><D>iwc-wheat</D></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G
+&#22;&#22;&#1;f0497&#31;reute
+f f BC-IWC-ups-Soviet-grain   03-26 0014</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE>IWC ups Soviet grain 1986/87 import estimate three mln tonnes to 29 mln - official
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

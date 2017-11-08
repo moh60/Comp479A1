@@ -1,0 +1,20 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="21114" NEWID="20519">
+<DATE>20-OCT-1987 14:10:10.44</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2625&#31;reute
+a f BC-TO-FITNESS-&lt;TFIT.O>-S   10-20 0037</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TO-FITNESS &lt;TFIT.O> SHARES TRADED SEPARATELY</TITLE>
+<DATELINE>    BAY HARBOUR ISLAND, Fla., Oct 20 - </DATELINE><BODY>To-Fitness Inc said its
+common and prefered stock comprising the units of the company
+will be traded separately commencing on Oct 21, 1987.
+ Reuter
+&#3;</BODY></TEXT>

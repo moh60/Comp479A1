@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1331" NEWID="16796">
+<DATE>17-APR-1987 08:52:12.96</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0187&#31;reute
+r f BC-UNION-PLANTERS-&lt;UPCM.   04-17 0067</UNKNOWN>
+<TEXT>&#2;
+<TITLE>UNION PLANTERS &lt;UPCM.O> ACQUISITIONS APPROVED</TITLE>
+<DATELINE>    MEMPHIS, Tenn., April 17 - </DATELINE><BODY>Union Planters Corp said it has
+received regulatory approvals for its previously-announced
+acquisitions of Borc Financial Corp and First Citizens Bank of
+Hohenwald, and approval of its acquisition of Merchants State
+Holding Co is expected within 10 days.
+    All are to be completed during the second quarter of 1987,
+it said.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="21160" NEWID="20565">
+<DATE>20-OCT-1987 14:33:46.91</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2729&#31;reute
+r f BC-BANCTEXAS-&lt;BTX>-ELECT   10-20 0096</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BANCTEXAS &lt;BTX> ELECTS NEW CHAIRMAN</TITLE>
+<DATELINE>     DALLAS, Oct 20 - </DATELINE><BODY>BancTEXAS Group Inc said its board
+elected Nathan C. Collins chairman of the board, president and
+chief executive officer to replace director and acting chairman
+Tom Stanzel
+     Collins was formerly executive vice president and manager
+of the asset/liability management group and senior credit
+officer at Valley National Bank of Arizona, Phoenix.
+     Stanzel replaced Chairman Vance Miller and President and
+CEO Richard Ripley July 17, 1987, when the company completed a
+200 mln dlr recapitalizaltion plan.         
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,30 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5867" NEWID="17529">
+<DATE> 1-JUN-1987 10:03:56.29</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D><D>japan</D><D>hong-kong</D><D>malaysia</D><D>philippines</D><D>singapore</D><D>taiwan</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1030&#31;reute
+r f BC-CPC-INTERNATIONAL-&lt;CP   06-01 0107</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CPC INTERNATIONAL &lt;CPC> COMPLETES ASIAN SALE</TITLE>
+<DATELINE>    ENGLEWOOD CLIFFS, N.J., June 1 - </DATELINE><BODY>CPC International Inc said
+it has completed previously-announced transactions involving
+its grocery products businesses in four Asian countries with
+Ajinomoto Co Inc &lt;AJIN.T>, raising about 300 mln dlrs.
+    It said it will receive about 40 mln dlrs more later,
+mostly this month, when closings are expected in three more
+countries.  Proceeds will be used mostly for debt reduction.
+    CPC said Ajinomoto has purchased its equity in Knorr Foods
+Co Ltd, a joint venture in Japan between the two companies,
+with CPC to get fees for trademark and technology use.
+    CPC said Ajinomoto is also purchasing 50 pct interests in
+CPC's wholly-owned subsidiaries in Hong Kong, Malaysia, the
+Philippines, Singapore, Taiwan and Thailand.
+ Reuter
+&#3;</BODY></TEXT>

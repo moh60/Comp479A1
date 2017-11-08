@@ -1,0 +1,31 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17152" NEWID="11091">
+<DATE>30-MAR-1987 16:53:24.37</DATE>
+<TOPICS><D>grain</D><D>wheat</D><D>corn</D><D>sorghum</D><D>cotton</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;G C
+&#22;&#22;&#1;f2594&#31;reute
+u f BC-TEXAS-WEEKLY-CROP-REP   03-30 0127</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TEXAS WEEKLY CROP REPORT</TITLE>
+<DATELINE>    AUSTIN, March 30 - </DATELINE><BODY>The Texas weekly USDA state crop report
+said stormy winter weather limited fieldwork before conditions
+improved later in the week.
+    A snowstorm caused some cattle deaths in the Panhandle, and
+cold, wet weather covered many areas. Windy weather followed to
+dry fields and limit planting delays.
+    Small grains made good progress despite cool temperatures
+which slowed growth. Additional moisture was needed in some
+areas. Many fields were booting and some were beginning to
+head. Wheat was rated 16 pct fair, 56 pct good and 28 pct
+excellent.
+    Corn and sorghum planting progressed, and land preparation
+was ahead of schedule in the Plains despite snowy weather.
+Cotton planting progressed in the Lower Valley.
+ Reuter
+&#3;</BODY></TEXT>

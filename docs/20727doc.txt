@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="21322" NEWID="20727">
+<DATE>20-OCT-1987 16:32:37.55</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE><D>verity</D></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;V RM 
+&#22;&#22;&#1;f3194&#31;reute
+u f BC-VERITY-CALLS-FOR-NEW   10-20 0116</UNKNOWN>
+<TEXT>&#2;
+<TITLE>VERITY CALLS FOR NEW ADHERENCE TO VENICE PACT</TITLE>
+<DATELINE>    WASHINGTON, Oct 20 - </DATELINE><BODY>Commerce Secretary C. William Verity
+called for stepped up coordination of the major industrialized
+nations along the lines of the Venice pact last June which
+committed the nations to coordinate economic policies.
+    Verity, speaking to a trade conference of the Overseas
+Private Investment Corp., said "We must improve coodination with
+our major industrialized allies and trading partners along the
+lines agreed to at the Venice meeting last June.
+    He added "we need better cooperation among advanced
+developing countries in assuring responsibility to coordinate
+local economies commensurate with their economic resources.
+ reuter
+&#3;</BODY></TEXT>

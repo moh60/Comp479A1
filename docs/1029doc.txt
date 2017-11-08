@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16349" NEWID="1029">
+<DATE> 3-MAR-1987 09:53:44.44</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F
+&#22;&#22;&#1;f0389&#31;reute
+r f BC-scott's-hospitality   03-03 0071</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SCOTT'S HOSPITALITY ACQUIRES CAPITAL FOOD</TITLE>
+<DATELINE>    TORONTO, March 3 - </DATELINE><BODY>&lt;Scott's Hospitality Inc> said it
+acquired all issued shares of Capital Food Services Ltd, of
+Ottawa. Terms were not disclosed.
+    Scott's said Capital Food had 1986 sales of more than 20
+mln dlrs and will continue to operate under its present name
+with existing management.
+    Capital Food provides food services to several Ottawa
+institutions, the company said.
+ Reuter
+&#3;</BODY></TEXT>

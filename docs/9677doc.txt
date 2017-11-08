@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15198" NEWID="9677">
+<DATE>25-MAR-1987 18:57:32.45</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2731&#31;reute
+d f BC-GENOVA-&lt;GNVA>-SIGNS-D   03-25 0076</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GENOVA &lt;GNVA> SIGNS DEFINITIVE MERGER AGREEMENT</TITLE>
+<DATELINE>    DAVISON, Mich., March 25 - </DATELINE><BODY>Genova Inc said it signed a
+definitive agreement for the previously announced merger with
+&lt;Genova Products Inc>.
+    Under the agreement, Genova Products will pay 5-3/8 dlrs a
+share for the 29 pct of Genova's outstanding common shares it
+does not already own.
+    The company said it plans to complete the transaction,
+which requires shareholder approval, by the end of March.
+ Reuter
+&#3;</BODY></TEXT>

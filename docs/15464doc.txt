@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5362" NEWID="15464">
+<DATE> 9-APR-1987 08:27:43.07</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0632&#31;reute
+r f BC-STEP-SAVER-&lt;CODA>-SAY   04-09 0056</UNKNOWN>
+<TEXT>&#2;
+<TITLE>STEP-SAVER &lt;CODA> SAYS WARRANT EXERCISED</TITLE>
+<DATELINE>    BALA CYNWYD, Pa., April 9 - </DATELINE><BODY>Step-Saver Data Systems Inc
+said Bergen-Richards Corp has exercised a warrant to buy
+450,000 Step-Saver shares at two dlrs each.
+    It said warrants issued to the underwriter in its initial
+public offering were exercised in March for an aggregate of
+169,200 dlrs.
+ Reuter
+&#3;</BODY></TEXT>

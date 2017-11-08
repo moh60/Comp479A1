@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="BYPASS" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="2668" NEWID="13685">
+<DATE> 7-APR-1987 09:07:17.86</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;L
+&#22;&#22;&#1;f0704&#31;reute
+u f BC-SIOUX-FALLS-CATTLE-SE   04-07 0040</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SIOUX FALLS CATTLE SEEN UP 0.50 DLR - PRIVATE</TITLE>
+<DATELINE>    Sioux Falls, April 7 - Clear/calm/43 degrees - </DATELINE><BODY>Cattle
+prices are expected 0.50 dlr higher on estimated receipts of
+1,200 head, private sources said. Steer top 67.50 and Heifers
+at 66.00 dlrs.
+ Reuter
+&#3;</BODY></TEXT>

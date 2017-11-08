@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11771" NEWID="6858">
+<DATE>18-MAR-1987 16:55:49.96</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f9534&#31;reute
+r f BC-TIGER-INTERNATIONAL-&lt;   03-18 0097</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TIGER INTERNATIONAL &lt;TGR> PAYS INTEREST IN STOCK</TITLE>
+<DATELINE>    LOS ANGELES, March 18 - </DATELINE><BODY>Tiger International Inc said it
+will pay the interest due April 1 on its 11-1/2 pct Sinking
+Fund debentures by distributing common stock.
+    Each debenture holder will receive the number of whole
+shares of Tiger common stock obtained by dividing the interest
+payable by 90 pct of the average closing price of the stock
+from February  18 through March 17. Fractions will be paid in
+cash.
+    The company said about 165,000 shares of Tiger common stock
+will be issued in connection with the interest payment.
+ Reuter
+&#3;</BODY></TEXT>

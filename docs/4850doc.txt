@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9763" NEWID="4850">
+<DATE>13-MAR-1987 10:47:32.55</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F RM
+&#22;&#22;&#1;f0164&#31;reute
+r f BC-CHRYSLER-&lt;C>-UNIT-BUY   03-13 0073</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CHRYSLER &lt;C> UNIT BUYS BENEFICIAL &lt;BNL> UNIT</TITLE>
+<DATELINE>    ALLENTOWN, PA., March 13 - </DATELINE><BODY>Chrysler Corp said its Chrysler
+First Inc acquired a major portion of the commercial lending
+portfolio of Beneficial Business Credit Corp, a subsidiary of
+Beneficial Corp.
+    It said the acquisition involves about 84 mln dlrs of net
+receivables.
+    Chrysler First, a subsidiary of Chrysler Financial Corp,
+had receivables of 4.3 billion dlrs at the end of 1986.
+ Reuter
+&#3;</BODY></TEXT>

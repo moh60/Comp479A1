@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11865" NEWID="6952">
+<DATE>19-MAR-1987 02:19:13.69</DATE>
+<TOPICS><D>trade</D></TOPICS>
+<PLACES><D>japan</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0023&#31;reute
+b f BC-JAPAN-MARCH-INTERIM-T   03-19 0098</UNKNOWN>
+<TEXT>&#2;
+<TITLE>JAPAN MARCH INTERIM TRADE SURPLUS FALLS</TITLE>
+<DATELINE>    TOKYO, March 19 - </DATELINE><BODY>Japan's customs-cleared trade surplus
+fell to 1.89 billion dlrs in the first 10 days of March from a
+1.91 billion surplus a year earlier, the Ministry of Finance
+said.
+     The March interim surplus compared with a 1.70 billion dlr
+surplus in the same February period.
+     FOB exports in the first 10 days of March rose 5.8 pct
+from a year earlier to 5.50 billion dlrs and CIF imports rose
+9.7 pct to 3.61 billion.
+     The average yen/dollar rate used for the statistics was
+153.67 yen against 181.23 a year earlier.
+ REUTER
+&#3;</BODY></TEXT>

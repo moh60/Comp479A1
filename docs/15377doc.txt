@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4550" NEWID="15377">
+<DATE> 9-APR-1987 03:16:30.18</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0102&#31;reute
+u f BC-BRITISH-AIRWAYS-ISSUE   04-09 0077</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BRITISH AIRWAYS ISSUES 100 MLN STG EUROBOND</TITLE>
+<DATELINE>    LONDON, April 9 - </DATELINE><BODY>British Airways Plc &lt;BAB.L> is issuing a
+100 mln stg eurobond due May 6, 1997, paying 9-1/2 pct and
+priced at 101-1/2, lead manager Union Bank of Switzerland said.
+    The non-callable bond is available in denominations of
+1,000 and 10,000 stg and will be listed in London. The selling
+concession is 1-1/4 pct while management and underwriting
+combined pays 3/4 pct.
+    Payment date is May 6.
+ REUTER
+&#3;</BODY></TEXT>

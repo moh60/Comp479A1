@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5966" NEWID="17627">
+<DATE> 1-JUN-1987 12:12:59.09</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>canada</D><D>france</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F
+&#22;&#22;&#1;f1608&#31;reute
+r f BC-TELEGLOBE-HAS-CANADA/   06-01 0096</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TELEGLOBE HAS CANADA/FRANCE SATELLITE LINK</TITLE>
+<DATELINE>    MONTREAL, June 1 - </DATELINE><BODY>Teleglobe Canada Inc, owned by Memotec
+Data Inc (MDI.M), said it received an order from Credit
+Lyonnais Canada for a direct satellite link between Canada and
+France that will be the first private satellite network between
+the two countries.
+    Value of the contract was undisclosed.
+    Teleglobe said the connection will provide the bank with a
+permanent link to the digital phone switch at its parent
+company's Paris headquarters and connect it with Credit
+Lyonnais' network in France and the rest of the world.
+ Reuter
+&#3;</BODY></TEXT>

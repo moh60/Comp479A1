@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1457" NEWID="16922">
+<DATE>17-APR-1987 16:45:23.24</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0446&#31;reute
+r f BC-FIRST-BANK-SYSTEM-&lt;FB   04-17 0050</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FIRST BANK SYSTEM &lt;FBS> SELLS LEWISTON BANK</TITLE>
+<DATELINE>    MINNEAPOLIS, April 17 - </DATELINE><BODY>First Bank System said it has
+agreeed to sell its First Bank Lewiston subsidiary, of
+Lewiston, Mont., to two local bankers for undisclosed terms.
+    First Bank Lewiston has assets of 101.4 mln dlrs at the end
+of the first quarter.
+ Reuter
+&#3;</BODY></TEXT>

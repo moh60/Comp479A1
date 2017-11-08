@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6131" NEWID="17793">
+<DATE> 1-JUN-1987 16:22:42.79</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2397&#31;reute
+h f BC-SEABROOK-NUCLEAR-STAT   06-01 0112</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SEABROOK NUCLEAR STATION OWNERS SET ADVERTISING</TITLE>
+<DATELINE>    SEABROOK, N.H., June 1 - </DATELINE><BODY>Public Service Co of New Hampshire
+&lt;PNH> said the owners of the Seabrook nuclear power plant
+approved a 1.2 mln dlr advertising campaign to inform the
+public about the plant's safe construction.
+    The campaign make a point that nuclear power provides
+one-third of New England's electricity and Seabrook is the
+ninth nuclear plant in the six-state region.
+    Operation of the plant has been delayed by the reluctance
+of officials in neighboring Massachusets to participate in
+evacuation drills. New Hampshire Public Service is operator of
+the plant and has a 35.6 pct interest in the facility.
+ Reuter
+&#3;</BODY></TEXT>

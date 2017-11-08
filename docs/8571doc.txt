@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14092" NEWID="8571">
+<DATE>23-MAR-1987 18:19:55.10</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2643&#31;reute
+r f BC-AVALON-&lt;AVL>-STAKE-SO   03-23 0098</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AVALON &lt;AVL> STAKE SOLD BY DELTEC</TITLE>
+<DATELINE>    NEW YORK, March 23 - </DATELINE><BODY>Avalon Corp said that &lt;Deltec
+Panamerica SA> has arranged to sell its 23 pct stake in Avalon
+and that Deltec's three representatives on Avalon's board had
+resigned.
+    An Avalon spokeswoman declined to indentify the buyer of
+Deltec's stake or give terms of the sale.
+    In addition, Avalon said three other directors resigned. It
+said Benjamin W. Macdonald, a director of &lt;TMOC Resources Ltd>,
+the principal holder of Avalon stock, and Hardwick Simmons, a
+vice chairman of Shearson Lehman Bros Inc, were then named to
+the board.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19800" NEWID="3378">
+<DATE> 9-MAR-1987 16:56:53.03</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0845&#31;reute
+d f BC-RICHMOND-HILL&lt;RICH>,   03-09 0048</UNKNOWN>
+<TEXT>&#2;
+<TITLE>RICHMOND HILL&lt;RICH>, RIVERHEAD END MERGER TALKS</TITLE>
+<DATELINE>    FLORAL PARK, N.Y., March 9 - </DATELINE><BODY>Richmond Hill Savings Bank and
+&lt;Riverhead Savings Bank FSB> said they terminated their
+previously announced merger negotiations.
+    The banks gave no reason for ending the talks, which began
+on January 14.
+ Reuter
+&#3;</BODY></TEXT>

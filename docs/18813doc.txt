@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6565" NEWID="18813">
+<DATE>18-JUN-1987 12:50:20.35</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f3903&#31;reute
+r f BC-&lt;EVEREX-SYSTEMS-INC>   06-18 0108</UNKNOWN>
+<TEXT>&#2;
+<TITLE>&lt;EVEREX SYSTEMS INC> FILES FOR INITIAL OFFERING</TITLE>
+<DATELINE>    FREMONT, Calif., June 18 - </DATELINE><BODY>Everex Systems Inc said it has
+filed for an initial public offering of 5,950,000 common
+shares, including 4,950,000 to be sold in the U.S. and one mln
+overseas.  Lead underwriters are Goldman, Sachs and Co and
+Shearson Lehman Brothers Holdings Inc &lt;SHE>.
+    The company said it will sell four mln of the shares and
+shareholders the rest and the initial offering price is
+expected to be 10 to 12 dlrs per share.  Company proceeds will
+be used for financing accounts receivable and inventory and
+repaying bank debt.
+    Everex makes personal computer peripheral equipment.
+ Reuter
+&#3;</BODY></TEXT>

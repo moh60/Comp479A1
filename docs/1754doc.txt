@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18172" NEWID="1754">
+<DATE> 4-MAR-1987 15:32:40.18</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A RM
+&#22;&#22;&#1;f0616&#31;reute
+u f BC-FNMA-CLARIFIES-CURREN   03-04 0071</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FNMA CLARIFIES CURRENT DEBT OFFERING STATUS</TITLE>
+<DATELINE>    WASHINGTON, March 4 - </DATELINE><BODY>The Federal National Mortgage
+Association said it wanted to clarify the status of yesterday's
+offering of one billion dlrs of debentures, due March 10, 1992.
+    It said the offering was a new issue and not a reopening as
+stated yesterday. FNMA had said the offering was a reopening of
+a 1972 20-year issue.
+    The debtentures will settle on March 10, 1987.
+ Reuter
+&#3;</BODY></TEXT>

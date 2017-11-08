@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4152" NEWID="15169">
+<DATE> 8-APR-1987 13:18:34.11</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1921&#31;reute
+d f BC-LE-PEEP-RESTAURANTS-S   04-08 0086</UNKNOWN>
+<TEXT>&#2;
+<TITLE>LE PEEP RESTAURANTS SUES OHIO COMPANY</TITLE>
+<DATELINE>    DENVER, April 8 - </DATELINE><BODY>&lt;Le Peep Restaurants Inc> said it is
+suing an Ohio company, charging it copied its restaurant from
+its menu to its design.
+    The action is being taken against &lt;Shelly's Inc>, operator
+of three restaurants in Columbus, Ohio, the company said. The
+suit alleges copyright infringement and unfair competition, it
+said.
+    The suit was filed in U.S. District Court of the Southern
+District in Ohio, and seeks damages in excess of 2,250,000, the
+company said.
+ Reuter
+&#3;</BODY></TEXT>

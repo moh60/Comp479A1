@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5143" NEWID="15788">
+<DATE> 9-APR-1987 13:43:32.14</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1954&#31;reute
+r f BC-MICHIGAN-GENERAL-&lt;MGL   04-09 0088</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MICHIGAN GENERAL &lt;MGL> EXTENDS EXCHANGE OFFER</TITLE>
+<DATELINE>    SADDLE BROOK, N.J., April 9 - </DATELINE><BODY>Michigan General Corp said it
+has extended its exchange offer for its 10-3/4 pct senior
+subordinated debentures due December 1, 1988 until April 23.
+    It said the offer is being extended to allow it to conclude
+talks with its lender and with representatives of the holders
+of 75 pct of the debentures on the terms of the offer.
+    The holders have indicated their intention to tender and to
+reach an agreement with the company, Michigan General said.
+ Reuter
+&#3;</BODY></TEXT>

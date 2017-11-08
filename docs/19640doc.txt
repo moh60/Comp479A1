@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7968" NEWID="19640">
+<DATE>29-JUN-1987 10:45:05.75</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F 
+&#22;&#22;&#1;f1210&#31;reute
+r f BC-sterivet-has-fda   06-29 0092</UNKNOWN>
+<TEXT>&#2;
+<TITLE>STERIVET &lt;STVTF.O> HAS FDA REVIEW STATUS</TITLE>
+<DATELINE>    TORONTO, June 29 - </DATELINE><BODY>Sterivet Laboratories Ltd said the U.S.
+Food and Drug Administration granted expedited review status
+for its proprietary drug Navicon.
+    The company said future marketability of Navicon in the
+U.S. will be greatly facilitated by receiving expedited review
+status and the company should achieve wide penetration once FDA
+approval for the drug is received.
+    Navicon is a drug designed to treat navicular disease which
+affects the feet of one-third of all horses aged between five
+and 15.
+ Reuter
+&#3;</BODY></TEXT>

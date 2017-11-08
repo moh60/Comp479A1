@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4055" NEWID="15072">
+<DATE> 8-APR-1987 11:27:37.43</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1426&#31;reute
+r f BC-ATT-&lt;T>-DEVELOPS-SUPE   04-08 0102</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ATT &lt;T> DEVELOPS SUPERCONDUCTING WIRE</TITLE>
+<DATELINE>    DENVER, April 8 - </DATELINE><BODY>American Telephone and Telegraph Co said
+it has developed superconducting wires that can easily be
+formed into coils.
+    It said when cooled to 91 degrees Kelvin, or 296 degrees
+below zero Fahrenheit, the wires conduct electricity without
+resistance.
+    ATT said the wires are made of a barium-yttrium-copper
+oxide compound.  It said while many engineering details remain
+to be worked out, "The ability to draw the material into fine
+wire and to wind the wire into coils and other forms is key for
+many superconductor applications now being considered."
+ Reuter
+&#3;</BODY></TEXT>

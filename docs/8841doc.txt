@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14362" NEWID="8841">
+<DATE>24-MAR-1987 12:01:36.00</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>italy</D><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f1522&#31;reute
+u f BC-BANCA-CATTOLICA-IN-10   03-24 0070</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BANCA CATTOLICA IN 100 MLN DLR CD ISSUE</TITLE>
+<DATELINE>    VICENZA, Italy, March 24 - </DATELINE><BODY>Banca Cattolica del Veneto SpA
+said it had signed an accord with Manufacturers Hanover Trust
+Co of New York covering a 100 mln dlr certificates of deposit
+issue in London.
+    Maturities on the certificates will be between seven and
+365 days.
+    The bank said the issue would be placed with international
+institutional and private investors.
+ REUTER
+&#3;</BODY></TEXT>

@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18937" NEWID="2519">
+<DATE> 5-MAR-1987 17:59:14.22</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0047&#31;reute
+h f BC-BIOMEDICAL-DYNAMICS-C   03-05 0047</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BIOMEDICAL DYNAMICS CORP &lt;BMDC> 4TH QTR NET</TITLE>
+<DATELINE>    MINNEAPOLIS, March 5 -
+    </DATELINE><BODY>Shr profit one ct vs loss two cts
+    Net profit 52,405 vs loss 67,967
+    Sales 289,572 vs 188,713
+    Year
+    Shr loss one cts vs loss five cts
+    Net loss 51,019 vs loss 201,680
+    Sales 1.1 mln vs 490,935
+ Reuter
+&#3;</BODY></TEXT>

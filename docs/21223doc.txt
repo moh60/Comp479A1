@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20213" NEWID="21223">
+<DATE>19-OCT-1987 12:53:29.73</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2071&#31;reute
+r f BC-KENNAMETAL-&lt;KMT>-SEES   10-19 0104</UNKNOWN>
+<TEXT>&#2;
+<TITLE>KENNAMETAL &lt;KMT> SEES IMPROVED 2ND QTR PROFITS</TITLE>
+<DATELINE>    LATROBE, Pa., Oct 16 - </DATELINE><BODY>Kennametal Inc said second quarter,
+ending December 31, earnings should show significant
+improvement over the 3.5 mln dlrs, or 35 cts a share, earned in
+the year earlier quarter.
+    The company said this outlook is based on its optimism the
+positive trand in domestic metalworking sales will continue
+through its fiscal 1988.
+    It reported an increase in first quarter profits to 4.9 mln
+dlrs from 3.6 mln a year ago and said sale increases were
+experienced in most markets with sales of domestic metalworking
+products achieving the greatest gains.
+ Reuter
+&#3;</BODY></TEXT>

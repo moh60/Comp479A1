@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14573" NEWID="9052">
+<DATE>24-MAR-1987 17:02:09.20</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2603&#31;reute
+d f BC-METALBANC-IN-OFFERING   03-24 0053</UNKNOWN>
+<TEXT>&#2;
+<TITLE>METALBANC IN OFFERING</TITLE>
+<DATELINE>    MIAMI, March 24 - </DATELINE><BODY>Metalbanc Corp said signed a letter of
+intent for a proposed public offering of one mln units,
+consisting of four shares of common stock and stock purchase
+warrants for two additional shares.
+    The units are expected to be sold at between five dlrs and
+6.50 dlrs per unit.
+ Reuter
+&#3;</BODY></TEXT>

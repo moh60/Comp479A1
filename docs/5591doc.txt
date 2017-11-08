@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10504" NEWID="5591">
+<DATE>16-MAR-1987 14:18:08.49</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f3242&#31;reute
+d f BC-&lt;KENT-TOYS-INC>-IN-PA   03-16 0061</UNKNOWN>
+<TEXT>&#2;
+<TITLE>&lt;KENT TOYS INC> IN PACT WITH LORIMAR &lt;LT></TITLE>
+<DATELINE>    KENT, Ohio, March 16 - </DATELINE><BODY>Kent Toys Inc said it signed an
+agreement with Lorimar-Telepictures Corp to produce a
+television game show called Lottery.
+    Under terms of the agreement, Kent said it will receive a
+share of the above the line production, a percentage of net
+profits and a percentage of first-run syndication fees.
+ Reuter
+&#3;</BODY></TEXT>

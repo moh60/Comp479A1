@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="21177" NEWID="20582">
+<DATE>20-OCT-1987 14:48:17.72</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G L M T 
+&#22;&#22;&#1;f2788&#31;reute
+b f BC-/E.F.-HUTTON-PRESIDEN   10-20 0043</UNKNOWN>
+<TEXT>&#2;
+<TITLE>E.F. HUTTON PRESIDENT SAYS FIRM SOUND</TITLE>
+<DATELINE>    NEW YORK, Oct 20 - </DATELINE><BODY>E.F. Hutton Group Inc President and
+chief executive officer Robert Rittereiser said in a statement
+the firm is having no operating or financial difficulty despite
+the volatility of financial markets.
+ Reuter
+&#3;</BODY></TEXT>

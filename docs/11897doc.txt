@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="125" NEWID="11897">
+<DATE> 1-APR-1987 09:20:13.71</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;A RM
+&#22;&#22;&#1;f0812&#31;reute
+r f BC-UNION-CARBIDE-&lt;UK>-UN   04-01 0053</UNKNOWN>
+<TEXT>&#2;
+<TITLE>UNION CARBIDE &lt;UK> UNIT TO BUY BACK NOTES</TITLE>
+<DATELINE>    NEW YORK, April 1 - </DATELINE><BODY>Union Carbide Overseas Finance Corp
+N.V., a unit of Union Carbide Corp, said it plans to redeem on
+May one all outstanding 14-3/4 pct notes due May 1, 1989.
+    The notes will be bought back at par. Interest will cease
+to accrue on May one, the unit said.
+ Reuter
+&#3;</BODY></TEXT>

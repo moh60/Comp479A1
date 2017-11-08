@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="21414" NEWID="20819">
+<DATE>20-OCT-1987 18:39:14.25</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f3550&#31;reute
+d f BC-FIRST-FEDERAL-WOOSTER   10-20 0060</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FIRST FEDERAL WOOSTER SETS FIRST PAYOUT</TITLE>
+<DATELINE>    WOOSTER, N.H., Oct 20 - </DATELINE><BODY>&lt;First Federal Savings and Loan
+Association of Wooster> said it declared its first quarterly
+dividend of seven cts per share.
+    The dividend is payable November 20 to stockholders of
+record November 2, the company said.
+    The company converted to a stock savings and loan on April
+7, 1987.
+ Reuter
+&#3;</BODY></TEXT>

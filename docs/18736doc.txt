@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6488" NEWID="18736">
+<DATE>18-JUN-1987 11:26:22.08</DATE>
+<TOPICS><D>crude</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;Y 
+&#22;&#22;&#1;f3525&#31;reute
+b f BC-/MURPHY-OIL-&lt;MUR>-RAI   06-18 0070</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MURPHY OIL &lt;MUR> RAISES CRUDE POSTINGS</TITLE>
+<DATELINE>    NEW YORK, June 18 - </DATELINE><BODY>Murphy Oil said it increased its crude
+oil posted prices by 50 cts a barrel, effective June 17.
+The company said its new posting for West Texas Intermediate
+and West Texas Sour is 19 dlrs a barrel.
+    Light Louisiana Sweet crude is now 19.35 dollars a barrel,
+the company said. Increases follow a general trend in the
+industry started yesterday by Sun Co.
+ Reuter
+&#3;</BODY></TEXT>

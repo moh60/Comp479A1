@@ -1,0 +1,33 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19719" NEWID="3297">
+<DATE> 9-MAR-1987 14:26:05.56</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0319&#31;reute
+d f BC-ELI-LILLY-AND-CO-&lt;LLY   03-09 0089</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ELI LILLY AND CO &lt;LLY> GETS DRUG APPROVAL</TITLE>
+<DATELINE>    INDIANAPOLIS, March 9 - </DATELINE><BODY>Eli Lilly and Co said it obtained
+approval from the U.S. Food and Drug Adminstration to market
+the natural sequence human growth hormone, humatrope, made by
+recombinant DNA technolgoy.
+    The company said humatrope is identical in chemistry and
+structure to the growth hormone produced by the human body. It
+is the only commercially available biosysnthetic human growth
+hormone that is identical to naturally-occurring growth
+hormone, according to the company.
+    It said humatrope is indicated only for the long term
+treatment of children who have growth failure due to an
+inadequate secretion of the body's own normal growth hormone.
+    Humatrope joins humulin, human insulin in Eli Lilly and
+Co's line of human health care products of recombinant DNA
+origin.
+
+ Reuter
+&#3;</BODY></TEXT>

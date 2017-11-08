@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="2144" NEWID="13175">
+<DATE> 3-APR-1987 16:58:38.07</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2392&#31;reute
+d f BC-SCI-&lt;SCIS>-BUYS-FORTU   04-03 0051</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SCI &lt;SCIS> BUYS FORTUNE &lt;FSYS> COMPUTER ASSETS</TITLE>
+<DATELINE>    BELMONT, Calif., April 3 - </DATELINE><BODY>Fortune Systems Corp and SCI
+Systems Inc said they signed a letter of intent covering the
+purchase of Fortune's microcomputer business assets for an
+unspecified amount of cash.
+    Fortune Systems makes a desktop computer systems.
+ Reuter
+&#3;</BODY></TEXT>

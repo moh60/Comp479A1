@@ -1,0 +1,36 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6062" NEWID="17724">
+<DATE> 1-JUN-1987 14:37:33.36</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2118&#31;reute
+r f BC-WATCHDOG-GROUP-SEEKS   06-01 0115</UNKNOWN>
+<TEXT>&#2;
+<TITLE>WATCHDOG GROUP SEEKS U.S. RECALL OF SCHOOLBUSES</TITLE>
+<DATELINE>    WASHINGTON, June 1 - </DATELINE><BODY>The Center for Auto Safety, a private
+auto industry watchdog group, sought a government recall of
+50,000 schoolbuses, charging that a defect in their manufacture
+causes the buses to split open in a crash.
+    The center said it asked the National Highway Traffic
+Safety Administration (NHTSA) to recall all school buses built
+since 1977 by Thomas Built Buses of High Point, N.C..
+    "In the past seven years, 45 children were injured and six
+killed in crashes of Thomas schoolbuses where the panels of the
+buses split open at the joints," Executive Director Clarence
+Ditlow wrote Transportation Secretary Elizabeth Dole.
+    NHTSA is a part of the U.S. Department of Transportation.
+    Ditlow said Thomas had failed eight body and three floor
+joint tests since 1977. "No Thomas schoolbus tested for joint
+strength since (a federal standard) was adopted in 1978 has
+ever passed," he said.
+    Officials of Thomas were unavailable for comment.
+    NHTSA officials had no immediate comment on the recall
+petition.
+ Reuter
+&#3;</BODY></TEXT>

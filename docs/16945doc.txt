@@ -1,0 +1,20 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="NOT-USED" CGISPLIT="PUBLISHED-TESTSET" OLDID="21595" NEWID="16945">
+<DATE>21-APR-1987 05:00:01.79</DATE>
+<TOPICS><D>veg-oil</D><D>palm-oil</D></TOPICS>
+<PLACES><D>uk</D><D>pakistan</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G
+&#22;&#22;&#1;f0261&#31;reute
+u f BC-PAKISTAN-RETENDERS-TO   04-21 0035</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PAKISTAN RETENDERS TODAY FOR RBD PALM OIL - TRADE</TITLE>
+<DATELINE> LONDON, April 21 - </DATELINE><BODY>Pakistan will retender today for 6,000 to 12,000
+tonnes of refined bleached deodorised palm oil for first half May
+shipment, traders said.
+ REUTER
+&#3;</BODY></TEXT>

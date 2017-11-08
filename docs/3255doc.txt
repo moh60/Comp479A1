@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19677" NEWID="3255">
+<DATE> 9-MAR-1987 13:12:47.82</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0109&#31;reute
+h f BC-&lt;BARTER-RESOURCES>-FO   03-09 0060</UNKNOWN>
+<TEXT>&#2;
+<TITLE>&lt;BARTER RESOURCES> FORMS HOME SHOPPING UNIT</TITLE>
+<DATELINE>    NEW YORK, March 9 - </DATELINE><BODY>Barter Resources said it formed a
+television home shopping unit, Television Catalogue Inc.
+    The company said an investor group paid 500,000 dlrs in
+funding for a 51 pct interest in the unit.
+    Barter said 100,000 dlrs of the funding has been paid, with
+the balance due within sixty days.
+ Reuter
+&#3;</BODY></TEXT>

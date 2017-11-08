@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7248" NEWID="19412">
+<DATE>19-JUN-1987 16:11:21.23</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2285&#31;reute
+u f BC-BARNETT-BANKS-&lt;BBF>-F   06-19 0091</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BARNETT BANKS &lt;BBF> FILES AGAINST FEDERAL BOARD</TITLE>
+<DATELINE>    JACKSONVILLE, Fla., June 19 - </DATELINE><BODY>Barnett Banks Inc and Home
+Federal Bank of Florida said they filed a suit against the
+Federal Home Loan Bank Board and the Federal Savings and Loan
+Insurance Corp.
+    The companies said the suit asks a Jacksonville, Fla.,
+federal district court to enjoin the enforcement of an
+interpretive rule adopted by the FHLBB last year which seeks to
+give it jurisdiction over Barnett's proposed acquisition of
+Home.
+    The suit says this rule is arbitrary and capricious.
+ Reuter
+&#3;</BODY></TEXT>

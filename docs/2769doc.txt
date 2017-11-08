@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19187" NEWID="2769">
+<DATE> 6-MAR-1987 13:43:00.05</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0102&#31;reute
+d f BC-DAUPHIN-DEPOSIT-&lt;DAPN   03-06 0084</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DAUPHIN DEPOSIT &lt;DAPN> TO MAKE ACQUISITION</TITLE>
+<DATELINE>    HARRISBURG, Pa., March 6 - </DATELINE><BODY>Dauphin Deposit Corp said it has
+signed a letter of intent to acquire Colonial Bancorp Inc of
+New Holland, Pa., in an exchange of 3.6 to 4.4 Dauphin shares
+for each colonial share, depending on the market value of
+Dauphin shares just before the merger takes place.
+    The company said the acquisition is subject to approval by
+Colonial shareholders and regulatory authorities.  Colonial had
+assets at year-end of about 150 mln dlrs.
+ Reuter
+&#3;</BODY></TEXT>

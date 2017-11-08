@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15462" NEWID="9941">
+<DATE>26-MAR-1987 11:21:52.57</DATE>
+<TOPICS><D>sugar</D></TOPICS>
+<PLACES><D>uk</D><D>libya</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C T
+&#22;&#22;&#1;f1447&#31;reute
+b f BC-LIBYA-REPORTEDLY-BOUG   03-26 0043</UNKNOWN>
+<TEXT>&#2;
+<TITLE>LIBYA REPORTEDLY BOUGHT WHITE SUGAR</TITLE>
+<DATELINE>    ****LONDON, March 26 - </DATELINE><BODY>Libya is reported to have recently
+bought two cargoes of white sugar from operators at around
+229/230 dlrs a tonne cost and freight, traders said.
+    The shipment period required was not specified.
+ Reuter
+&#3;</BODY></TEXT>

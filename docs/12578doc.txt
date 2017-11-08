@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="1654" NEWID="12578">
+<DATE> 2-APR-1987 10:27:24.21</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A RM
+&#22;&#22;&#1;f1188&#31;reute
+r f BC-MDU-&lt;MDU>-PREFERRED-S   04-02 0100</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MDU &lt;MDU> PREFERRED STOCK UPGRADED TO A BY S/P</TITLE>
+<DATELINE>    NEW YORK, April 2 - </DATELINE><BODY>Standard and Poor's Corp said it raised
+to A from BBB-plus the preferred stock of MDU Resources Group
+Inc.
+    S and P affirmed the company's A-rated first mortgage bonds
+and A-minus unsecured industrial revenue bonds. About 300 mln
+dlrs of debt and preferred were outstanding at December 31,
+1986.
+    The rating agency cited recent redemptions that reduced the
+layer of preferred in the company's capital structure. S and P
+expects fundamentals to remain strong for electric utility and
+natural gas pipeline and distribution units.
+ Reuter
+&#3;</BODY></TEXT>

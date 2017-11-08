@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="8586" NEWID="3673">
+<DATE>11-MAR-1987 10:51:09.44</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0389&#31;reute
+d f BC-SAHLEN-AND-ASSOCIATES   03-11 0088</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SAHLEN AND ASSOCIATES &lt;SALNU> COMPLETES PURCHASE</TITLE>
+<DATELINE>    DEERFIELD BEACH, Fla., March 11 - </DATELINE><BODY>Sahlen and Associates Inc
+said it has completed the purchase of Gleason Securities
+Service Inc of New York and Gleason Plant Security Inc of
+Connecticut.
+    Sahlen said the deal's terms were not disclosed, but added
+that the acquired companies had combined annual revenues of
+over 18 mln dlrs.
+    Sahlen, a private invetigation company, said the Gleason
+companies provide security guard services to corporations in
+the tri-state area.
+   
+ Reuter
+&#3;</BODY></TEXT>

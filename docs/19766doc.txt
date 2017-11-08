@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="8094" NEWID="19766">
+<DATE>29-JUN-1987 13:16:25.92</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1879&#31;reute
+r f BC-BECOR-&lt;BCW>-TO-ADJOUR   06-29 0071</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BECOR &lt;BCW> TO ADJOURN DELAYED HOLDERS MEETING</TITLE>
+<DATELINE>    SOUTH MILWAUKEE, Wisc, June 29 - </DATELINE><BODY>Becor Western Inc said no
+business will be transacted at the shareholders meeting
+scheduled for 1000 CDT tomorrow and the meeting will be
+permanently adjourned.
+    If a definitive agreement or transaction results from any
+of the offers now pending for the company's stock, Becor said,
+a date for a new shareholders meeting will be established.
+ Reuter
+&#3;</BODY></TEXT>

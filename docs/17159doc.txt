@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="NOT-USED" CGISPLIT="PUBLISHED-TESTSET" OLDID="21782" NEWID="17159">
+<DATE>24-APR-1987 14:24:06.66</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F
+&#22;&#22;&#1;f2075&#31;reute
+u f BC-cominco   04-24 0113</UNKNOWN>
+<TEXT>&#2;
+<TITLE>COMINCO &lt;CLT> TO CLOSE B.C. FERTILIZER PLANT</TITLE>
+<DATELINE>    VANCOUVER, British Columbia, April 24 - </DATELINE><BODY>Cominco Ltd said it
+will permanently close its fertilizer plant at Kimberley,
+British Columbia, in the latter half of May and 140 employees
+will lose their jobs.
+    It said the operation has been losing money for several
+years, and lost seven mln dlrs in 1986.
+    Cominco said the decision to close the plant was based on
+high production costs, anticipated continued losses and excess
+capacity for phosphate-based fertilizers. The plant produced
+98,500 metric tonnes of ammonium phosphate fertilizer and
+190,000 tonnes of sulphuric acid in 1986.
+                                          
+ Reuter
+&#3;</BODY></TEXT>

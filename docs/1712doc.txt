@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18130" NEWID="1712">
+<DATE> 4-MAR-1987 14:32:11.19</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;M
+&#22;&#22;&#1;f0406&#31;reute
+d f BC-GM-CANADA-FEBRUARY-CA   03-04 0061</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GM CANADA FEBRUARY CAR SALES OFF 17.8 PCT</TITLE>
+<DATELINE>    OSHAWA, Ontario, March 4 - </DATELINE><BODY>General Motors of Canada Ltd,
+wholly owned by General Motors Corp, said February car sales
+fell 17.8 pct to 25,779 units from 31,361 units the previous
+year.
+    Year-to-date car sales fell 23.8 pct from last year, the
+company said. It did not immediately disclose actual
+year-to-date figures.
+ Reuter
+&#3;</BODY></TEXT>

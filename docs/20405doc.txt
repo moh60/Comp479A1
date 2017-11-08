@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="21000" NEWID="20405">
+<DATE>20-OCT-1987 12:55:33.11</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2166&#31;reute
+r f BC-AUDIO/VIDEO-AFFILIATE   10-20 0087</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AUDIO/VIDEO AFFILIATES &lt;AVA> TO PURCHASE SHARES</TITLE>
+<DATELINE>    DAYTON, Ohio, Oct 20 - </DATELINE><BODY>Audio/Video Affiliates Inc said it
+has authorized the purchase of up to 2.5 mln shares of its
+common stock, in market transactions, from time to time.
+    The company said the purchases were authorized because it
+believes the market price of the stock is less than its
+underlying value. Audio/Video said general funds of the company
+will be used to purchase the shares, and all shares will be
+held in the company's treasury, for possible future use.
+ Reuter
+&#3;</BODY></TEXT>

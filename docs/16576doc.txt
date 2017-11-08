@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1111" NEWID="16576">
+<DATE>13-APR-1987 14:30:05.18</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2183&#31;reute
+d f BC-&lt;HITECH-ENGINEERING-C   04-13 0102</UNKNOWN>
+<TEXT>&#2;
+<TITLE>&lt;HITECH ENGINEERING CO> WINS JUDGMENT</TITLE>
+<DATELINE>    MCLEAN, Va., April 13 - </DATELINE><BODY>Hitech Engineering Co said it won
+litigation brought against it by Coldwell Banker Commercial
+Services Group, a unit of Sears, Roebuck and Co &lt;S>.
+    In the lawsuit, tried in U.S. District Court for the
+Eastern District of Virginia, Coldwell had claimed that Hitech
+improperly canceled a lease for additional office space and
+sought damages of 350,000 dlrs.
+    The company said the plaintiff has the right to appeal but
+that no appeal has been filed to date. Hitech's legal counsel
+is confident that the verdict will not be overturned, it added.
+ Reuter
+&#3;</BODY></TEXT>

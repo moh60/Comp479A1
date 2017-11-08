@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14040" NEWID="8519">
+<DATE>23-MAR-1987 16:39:11.52</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E A RM
+&#22;&#22;&#1;f2409&#31;reute
+b f BC-CANADA-PLANS-TWO-BOND   03-23 0092</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CANADA PLANS TWO BOND AUCTIONS</TITLE>
+<DATELINE>    OTTAWA, March 23 - </DATELINE><BODY>Canada plans an auction of three-year
+bonds March 31 and an auction of seven-year bonds April 1, the
+finance department said.
+    Further details would be announced March 25 on the bonds
+that will be dated and delivered April 16, 1987.
+    The department said the issues are contingent upon final
+Parliamentary authority being given to Bill C-40, a previously
+announced act to give the government supplementary borrowing
+authority for fiscal 1987 (March 31) and borrowing authority
+for fiscal 1988.
+ Reuter
+&#3;</BODY></TEXT>

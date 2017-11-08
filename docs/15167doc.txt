@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4150" NEWID="15167">
+<DATE> 8-APR-1987 13:17:33.89</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1917&#31;reute
+r f BC-WESTERN-DIGITAL-&lt;WDC>   04-08 0040</UNKNOWN>
+<TEXT>&#2;
+<TITLE>WESTERN DIGITAL &lt;WDC> DEBENTURES CONVERTED</TITLE>
+<DATELINE>    IRVINE, Calif., April 8 - </DATELINE><BODY>Western Digital Corp said its 47
+mln dlrs of 6-3/4 pct convertible debentures due 2011, which
+had been called for redemption, were converted into 2,685,142
+common shares.
+ Reuter
+&#3;</BODY></TEXT>

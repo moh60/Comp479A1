@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7238" NEWID="19402">
+<DATE>19-JUN-1987 15:57:58.16</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2245&#31;reute
+r f BC-UNISYS-&lt;UIS>-IN-MARKE   06-19 0051</UNKNOWN>
+<TEXT>&#2;
+<TITLE>UNISYS &lt;UIS> IN MARKETING AGREEMENT WITH VMARK</TITLE>
+<DATELINE>    BLUE BELL, Pa., June 19 - </DATELINE><BODY>Unisys Corp said its Value Added
+Marketing organization signed an agreement with privately held
+VMark Computer Inc for remarketing of the Unisys 5000 and 7000
+series of minicomputers with VMark software.
+    Terms were not disclosed.
+ Reuter
+&#3;</BODY></TEXT>

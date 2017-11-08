@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="BYPASS" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="2288" NEWID="13305">
+<DATE> 7-APR-1987 00:43:32.54</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C T
+&#22;&#22;&#1;f0018&#31;reute
+b f BC-malaysian-rubber-noon   04-07 0016</UNKNOWN>
+<TEXT TYPE="UNPROC">&#2;
+Malaysian rubber noon - april 7
+ slightly higher ones may  227.50  229.50
+     Jne  227.50  229.50
+Malaysian rubber exchange noon uk/c - april 7 int 2 rss may 
+209.50  210.50  nom threes may     205.50  206.50  nom fours
+may      202.50  203.50  nom fives may      197.50  198.50  nom
+twos   may  210.50 
+211.50  nom threes may  206.50  207.50  nom fours  may  203.50 
+204.50  nom fives  may  198.50  199.50  nom
+&#3;
+
+</TEXT>

@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17360" NEWID="11298">
+<DATE>31-MAR-1987 09:26:53.88</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0955&#31;reute
+u f BC-USAIR-&lt;U>-IN-CREDIT-P   03-31 0053</UNKNOWN>
+<TEXT>&#2;
+<TITLE>USAIR &lt;U> IN CREDIT PACT WITH COMMERCIAL BANKS</TITLE>
+<DATELINE>    WASHINGTON, March 31 - </DATELINE><BODY>USAir Group Inc said it entered into
+a credit agreement with a group of commercial banks to provide,
+on a secured basis, up to two billion dlrs to finance its
+pending acquisitions of Piedmont Aviation Inc &lt;PIE> and
+&lt;Pacific Southwest Airlines> .
+ Reuter
+&#3;</BODY></TEXT>

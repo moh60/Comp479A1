@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="BYPASS" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="3045" NEWID="14062">
+<DATE> 7-APR-1987 11:18:44.72</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G
+&#22;&#22;&#1;f1220&#31;reute
+u f BC-cbt-s'bean-opg-report   04-07 0102</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CBT SOYBEAN FUTURES OPEN SLIGHTLY FIRMER</TITLE>
+<DATELINE>    CHICAGO, April 7 - </DATELINE><BODY>CBT soybean futures opened steady, with
+new crop slightly firmer, then rallied further to hold gains of
+one cent to three cents per bushel higher in light early
+dealings.
+    A firmer Gulf soybean basis this morning, strength in corn
+futures and delays in the Brazilian soybean harvest supported
+soybean futures, despite a disappointing drop in the weekly
+soybean export figure yesterday afternoon, traders said.
+    A local professional house and a local house were the
+featured buyers of July, with sellers scattered and small-lot,
+pit brokers said.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18323" NEWID="1905">
+<DATE> 4-MAR-1987 23:05:47.66</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>argentina</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0216&#31;reute
+u f BC-ARGENTINA-SEEKS-NEW-D   03-04 0110</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ARGENTINA SEEKS NEW DEBT DEADLINES, OFFICIAL SAYS</TITLE>
+<DATELINE>    BUENOS AIRES, March 4 - </DATELINE><BODY>Argentina will tell its creditors
+it needs an extension of deadlines for payment of capital and
+interest on its 50 billion dlr foreign debt, Industry and
+Foreign Trade Secretary Roberto Lavagna told reporters.
+    "We, the developing countries, are going to insist on the
+application of contingency clauses, to extend deadlines for the
+payment of capital as well as interest," he said.
+    He said this could bring about what he called a possible
+automatic capitalisation of those parts of debt interest that
+could not be paid and even the elimination of a portion of the
+debt.
+ REUTER
+&#3;</BODY></TEXT>

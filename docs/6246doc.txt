@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11159" NEWID="6246">
+<DATE>17-MAR-1987 15:50:47.22</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f6440&#31;reute
+d f BC-NORSTAR-&lt;NOR>-TO-BUY   03-17 0100</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NORSTAR &lt;NOR> TO BUY CALLICOON BANK</TITLE>
+<DATELINE>    ALBANY, N.Y., March 17 - </DATELINE><BODY>Norstar Bancorp said it reached an
+agreement in principle to buy United National Bank of Callicoon
+through a stock exchange valued at 20 mln dlrs.
+    Under terms of the agreement, Norstar would buy all 201,660
+shares of United's common stock at a rate of three Norstar
+shares for each United share.
+    With year-end assets of 90 mln dlrs, United has branches
+six upstate New York cities, all of which will become part of
+Norstar Bank of the Hudson Valley, N.A.
+    Norstar is an 11.1 billion dlr multibank financial services
+company.
+ Reuter
+&#3;</BODY></TEXT>

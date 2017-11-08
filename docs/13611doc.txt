@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="2594" NEWID="13611">
+<DATE> 7-APR-1987 08:13:17.40</DATE>
+<TOPICS><D>crude</D></TOPICS>
+<PLACES><D>usa</D><D>peru</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F Y
+&#22;&#22;&#1;f0558&#31;reute
+r f BC-OCCIDENTAL-&lt;OXY>-IN-B   04-07 0067</UNKNOWN>
+<TEXT>&#2;
+<TITLE>OCCIDENTAL &lt;OXY> IN BIG PERU HEAVY OIL FIND</TITLE>
+<DATELINE>    LOS ANGELES, April 7 - </DATELINE><BODY>Occidental Petroleum Corp said the
+Shiviyacu-23 development well on Block 1-AB in the Peruvian
+Amazon jungle is producing 6,593 barrels of 22 degree gravity
+oil per day from depths of 9,543 to 9,547 and 9,556 to 9,599
+feet.
+    The company said it is drilling a new exploration well on
+the block, Southeast Shiviyacu-1, 2.5 miles away.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19004" NEWID="2586">
+<DATE> 6-MAR-1987 10:03:52.59</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>nasdaq</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0198&#31;reute
+r f BC-POSTMASTERS-&lt;POST>-LI   03-06 0025</UNKNOWN>
+<TEXT>&#2;
+<TITLE>POSTMASTERS &lt;POST> LISTED ON NASDAQ</TITLE>
+<DATELINE>    TAMPA, Fla., March 6 - </DATELINE><BODY>Postmasters Inc said its common
+stock has been listed on the NASDAQ system, effective today.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14880" NEWID="9359">
+<DATE>25-MAR-1987 11:08:25.68</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f1283&#31;reute
+u f BC-NEC-CORP-HAS-150-MLN   03-25 0083</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NEC CORP HAS 150 MLN DLR EURO-CP PROGRAM</TITLE>
+<DATELINE>    LONDON, March 25 - </DATELINE><BODY>NEC Corp is establishing a 150 mln dlr
+euro-commercial paper program with a sterling option, Morgan
+Guaranty Ltd said as arranger.
+    Paper will be issued by NEC Industries Netherlands BV under
+the guarantee of NEC Corp.
+    Dealers will be Morgan Guaranty, Chase Investment Bank Ltd,
+Shearson Lehman Brothers International and Swiss Bank Corp
+International Ltd.  Issuing and paying agent will be Chase
+Manhattan Bank NA, London.
+ REUTER
+&#3;</BODY></TEXT>

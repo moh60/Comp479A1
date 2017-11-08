@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15452" NEWID="9931">
+<DATE>26-MAR-1987 11:09:29.15</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A RM
+&#22;&#22;&#1;f1395&#31;reute
+r f BC-TIME-&lt;TL>-SINKING-FUN   03-26 0118</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TIME &lt;TL> SINKING FUND DEBENTURES YIELD 8.84 PCT</TITLE>
+<DATELINE>    NEW YORK, March 26 - </DATELINE><BODY>Time Inc is raising 250 mln dlrs via
+an offering of sinking fund debentures due 2017 yielding 8.84
+pct, said lead manager Salomon Brothers Inc.
+    The debentures have an 8-3/4 pct coupon and were priced at
+99.055 to yield 115 basis points over the off-the-run 9-1/4 pct
+Treasury bonds of 2016. First Boston co-managed the deal.
+    The issue is non-refundable for 10 years. A sinking fund
+starting in 1998 to retire annually five pct of the debentures
+can be upped by 200 pct at the company's option, giving them an
+estimated minimum life of 13.85 years and maximum of 20.5
+years. The debt is rated Aa-3 by Moody's and A-plus by S/P.
+ Reuter
+&#3;</BODY></TEXT>

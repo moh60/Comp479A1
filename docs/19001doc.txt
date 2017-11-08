@@ -1,0 +1,25 @@
+
+<!DOCTYPE lewis SYSTEM "lewis.dtd">
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6837" NEWID="19001">
+<DATE>18-JUN-1987 18:46:13.14</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f4966&#31;reute
+u f BC-BEVERLY-HILLS-COP-II   06-18 0074</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BEVERLY HILLS COP II TOPS 100 MLN AT BOX OFFICE</TITLE>
+<DATELINE>    NEW YORK, June 18 - </DATELINE><BODY>Gulf and Western Inc's &lt;GW> Paramount
+Pictures Corp division said its movie "Beverly Hills Cop II"
+has topped the 100 mln dlr mark at the box office on the 29th
+day of its North American release.
+    Paramount said the the movie has become the fastest movie
+to hit the 100 mln dlr mark with an "R" rating, which means
+that anyone under 17 must be accompanied by their parents.
+ Reuter
+&#3;</BODY></TEXT>

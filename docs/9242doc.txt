@@ -1,0 +1,30 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14763" NEWID="9242">
+<DATE>25-MAR-1987 08:30:38.10</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0698&#31;reute
+u f BC-ROWLEY-SCHER-&lt;RSCH>-T   03-25 0049</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ROWLEY-SCHER &lt;RSCH> TO HAVE LOSS FOR YEAR</TITLE>
+<DATELINE>    BELTSVILLE, Md., March 25 - </DATELINE><BODY>Rowley-Scher Reprographics Inc
+said it expects to report an operating loss and a loss from the
+sale of its Mid South Repro subsidiary for the year ending
+MArch 31.
+    Last year, the company reported earnings of 977,000 dlrs.
+    Rowley-Scher did not disclose details of the sale of Mid
+South Repro.
+    It said the sale has eliminated an unprofitable operation.
+    The company also said it will open two new reprographic
+centers in the Washington/Baltimore area within the next three
+weeks, brining the total there to 11, and a new downtown Boston
+location in the same time period, brining the number in the
+Boston area to four.
+ Reuter
+&#3;</BODY></TEXT>

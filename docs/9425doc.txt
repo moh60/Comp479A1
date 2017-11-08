@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14946" NEWID="9425">
+<DATE>25-MAR-1987 12:43:33.90</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1707&#31;reute
+d f BC-TEAM-INC-&lt;TMI>-3RD-QT   03-25 0048</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TEAM INC &lt;TMI> 3RD QTR FEB 28 NET</TITLE>
+<DATELINE>    HOUSTON, March 25 -
+    </DATELINE><BODY>Shr profit five cts vs loss 18 cts
+    Net profit 91,000 vs loss 355,000
+    Revs 11.5 mln vs 11.7 mln
+    Nine mths
+    Shr profit six cts vs loss 1.45 dlrs
+    Net profit 127,000 vs loss 2,846,000
+    Revs 31.8 mln vs 34.9 mln
+ Reuter
+&#3;</BODY></TEXT>

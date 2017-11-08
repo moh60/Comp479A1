@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9211" NEWID="4298">
+<DATE>12-MAR-1987 11:45:22.18</DATE>
+<TOPICS><D>money-fx</D><D>interest</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;V RM
+&#22;&#22;&#1;f0501&#31;reute
+b f BC-/-FED-ADDS-RESERVES-V   03-12 0060</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FED ADDS RESERVES VIA CUSTOMER REPURCHASES</TITLE>
+<DATELINE>    NEW YORK, March 12 - </DATELINE><BODY>The Federal Reserve entered the U.S.
+Government securities market to arrange two billion dlrs of
+customer repurchase agreements, a spokeswoman said.
+    Dealers said Federal funds were trading at 6-1/8 pct when
+the Fed began its temporary and indirect supply of reserves to
+the banking system.
+ Reuter
+&#3;</BODY></TEXT>

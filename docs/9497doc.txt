@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15018" NEWID="9497">
+<DATE>25-MAR-1987 14:04:50.47</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2001&#31;reute
+h f BC-GATEWAY-SPORTING-BUYS   03-25 0048</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GATEWAY SPORTING BUYS INNOVATIVE DENTAL</TITLE>
+<DATELINE>    NEW YORK, March 25 - </DATELINE><BODY>Gateway Sporting Goods Co said it
+acquired all of the shares of stock of Innovative Dental
+Services Inc for an undisclosed amount of cash.
+    Gateway said the acquired company has contracts with 102
+dentists in 144 locations.
+ Reuter
+&#3;</BODY></TEXT>

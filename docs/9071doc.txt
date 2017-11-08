@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14592" NEWID="9071">
+<DATE>24-MAR-1987 17:30:14.91</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2665&#31;reute
+r f BC-SONY-&lt;SNE>-TO-SHIP-SA   03-24 0109</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SONY &lt;SNE> TO SHIP SAMPLE OPTICAL DISKS</TITLE>
+<DATELINE>    PARK RIDGE, N.J., March 24 - </DATELINE><BODY>Sony Corp said it plans to
+begin shipping samples in the fall of a 130 millimeter erasable
+magneto-optical disk system used for data storage. It said it
+estimates the cost of the sample drives will be one mln yen
+with sample media costing 30,000 yen.
+    Sony said it will ship samples to potential customers in
+Japan or overseas depending on demand.
+    Sony said the product's development stems from continued
+progress in key technologies such as newly structured recording
+layers using a polycarbonate base and high power lasers with
+high-speed data transfers, among other things.
+ Reuter
+&#3;</BODY></TEXT>

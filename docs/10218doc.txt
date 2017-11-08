@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15739" NEWID="10218">
+<DATE>26-MAR-1987 17:33:26.02</DATE>
+<TOPICS><D>acq</D><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2762&#31;reute
+r f BC-HONEYWELL-&lt;HON>-DEBT   03-26 0096</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HONEYWELL &lt;HON> DEBT RISES ON SPERRY BUYOUT</TITLE>
+<DATELINE>    MINNEAPOLIS, March 26 - </DATELINE><BODY>Honeywell Inc said its total debt
+rose by more than 85 pct in 1986, mainly due to its 1.02
+billion dlr acquisition of the Sperry Aerospace Group.
+    At yearend, according to the company's 1986 annual report,
+Honeywell's total debt stood at 1.44 billion dlrs, compared
+with 776.6 mln dlrs in 1985.
+    Honeywell said that if it had acquired the Sperry unit at
+the beginning of 1986, its loss for the full year would have
+been 9.88 dlrs a share.
+    Honeywell's actual loss in 1986 was 8.33 dlrs a share.
+ Reuter
+&#3;</BODY></TEXT>

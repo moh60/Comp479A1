@@ -1,0 +1,30 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7972" NEWID="19644">
+<DATE>29-JUN-1987 10:52:16.44</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1238&#31;reute
+d f BC-INTER-TEL-INC&lt;INTLA.O   06-29 0090</UNKNOWN>
+<TEXT>&#2;
+<TITLE>INTER-TEL INC&lt;INTLA.O> 2ND QTR MAY 31 OPER NET</TITLE>
+<DATELINE>    CHANDLER, ARIZ., June 29 -
+    </DATELINE><BODY>Oper shr three cts vs one ct
+    Oper net 210,000 vs 67,000
+    Revs 10,252,000 vs 8,929,000
+    Avg shrs 7,933,000 vs 8,553,000
+    Six mths
+    Oper shr five cts vs two cts
+    Oper net 420,000 vs 133,000
+    Revs 20.3 mln vs 17.1 mln
+    Avg shrs 7,952,000 vs 8,551,000
+    NOTE: 1987 earnings exclude gain from utilization of tax
+loss carryforwards of 125,000 dlrs, or one ct a share in the
+quarter and 150,000 dlrs, or two cts a share for the six months
+ Reuter
+&#3;</BODY></TEXT>

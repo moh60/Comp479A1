@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12657" NEWID="474">
+<DATE> 2-MAR-1987 10:59:28.36</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D><D>sweden</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0833&#31;reute
+r f BC-ESSELTE-BUSINESS-&lt;ESB   03-02 0097</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ESSELTE BUSINESS &lt;ESB> UNIT BUYS ANTONSON UNIT</TITLE>
+<DATELINE>    GARDEN CITY, N.Y., March 2 - </DATELINE><BODY>Esselte Business Systems Inc's
+Esselte Meto division said it has acquired the Antonson America
+Co, a subsidiary of &lt;Antonson Machines AB>, of Sweden.
+    Esselte said the Antonson unit, based in LaPorte, Indiana,
+manufactures scales and label printers. The company said the
+purchase is part of a plan to increase the range of retail
+electronic scales being offered by Esselte in the U.S.
+    It said the acquisition will enble Esselte to increase its
+distribution base in its effort to grow in the U.S.
+ Reuter
+&#3;</BODY></TEXT>

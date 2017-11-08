@@ -1,0 +1,30 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6960" NEWID="19124">
+<DATE>19-JUN-1987 09:06:53.88</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A 
+&#22;&#22;&#1;f0743&#31;reute
+d f AM-THRIFT   06-19 0121</UNKNOWN>
+<TEXT>&#2;
+<TITLE>OKLAHOMA THRIFT IN RECEIVERSHIP</TITLE>
+<DATELINE>    WASHINGTON, June 19 - </DATELINE><BODY>The Federal Home Loan Bank Board
+(FHLBB) placed Investors Federal Bank of El Reno, Okla., in
+receivership and transferred its 97.8 mln dlrs n assets to the
+Investors Savings and Loan Association.
+    An FHLBB statement said the failed thrift was insolvent and
+"had substantially dissipated its assets," largely through
+participating in large commercial real estate developments.
+    It said the thrift violated federal laws and regulations on
+loan documentation, loans to directors, and apparent conflicts
+of interest.
+    The sucessor organization is a federal savings and loan
+association which will be managed under contract by Sunwood
+Management Corp. of Parker, Colo.
+ REUTER
+&#3;</BODY></TEXT>

@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16654" NEWID="1334">
+<DATE> 3-MAR-1987 16:35:01.08</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0933&#31;reute
+r f BC-COCA-COLA-BOTTLING-&lt;C   03-03 0058</UNKNOWN>
+<TEXT>&#2;
+<TITLE>COCA-COLA BOTTLING &lt;COKE> NAMES NEW PRESIDENT</TITLE>
+<DATELINE>    CHARLOTTE, N.C., March 3 - </DATELINE><BODY>Coca-Cola Bottling Co
+Consolidated said James Moore Jr. will assume the position of
+president and chief executive office, replacing Marvin W.
+Griffin Jr., who resigned effective today.
+    The company said Moore previously served as president of
+&lt;Atlantic Soft Drink Co>.
+ Reuter
+&#3;</BODY></TEXT>

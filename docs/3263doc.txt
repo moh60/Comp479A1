@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19685" NEWID="3263">
+<DATE> 9-MAR-1987 13:22:50.88</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0143&#31;reute
+u f BC-ALLEGHENY-&lt;AG>-OFFICE   03-09 0104</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ALLEGHENY &lt;AG> OFFICERS TO RUN COMPANY</TITLE>
+<DATELINE>    New York, March 9 - </DATELINE><BODY>Allegheny International Inc said its
+chairman and chief operating officer will remain in their
+positions following the merger of the company with an affiliate
+of First Boston Corp.
+   "It is expected that Oliver S. Travers will continue as
+chairman, president and Chief executive officer, and Thomas J.
+Albani will continue as chief operating officer," said an
+Allegheny spokesman.
+    Allegheny today said it agreed to a buyout from First
+Boston at 24.60 dlrs per share. The transaction was valued at
+500 mln dlrs. Its stock rose 8-5/8 to 24 in active trading.
+ Reuter
+&#3;</BODY></TEXT>

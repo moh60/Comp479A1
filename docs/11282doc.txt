@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17344" NEWID="11282">
+<DATE>31-MAR-1987 09:10:15.28</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0897&#31;reute
+u f BC-/PENNEY-&lt;JCP>-SETS-ST   03-31 0047</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PENNEY &lt;JCP> SETS STOCK SPLIT, RAISES QUARTERLY</TITLE>
+<DATELINE>    NEW YORK, March 31 - </DATELINE><BODY>J.C. Penney Co Inc said its board
+declared a two-for-one stock split and raised the quarterly
+dividend 12 cts per share on a presplit basis to 74 cts.
+    Both are payable May One to holders of record April 10.
+ Reuter
+&#3;</BODY></TEXT>

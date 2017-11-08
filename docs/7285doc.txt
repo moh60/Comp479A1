@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12197" NEWID="7285">
+<DATE>19-MAR-1987 13:23:51.18</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1832&#31;reute
+w f BC-RETAIL-CHAIN-TO-SELL   03-19 0071</UNKNOWN>
+<TEXT>&#2;
+<TITLE>RETAIL CHAIN TO SELL ROCKY MOUNTAIN &lt;RMED> ITEM</TITLE>
+<DATELINE>    DENVER, March 19 - </DATELINE><BODY>Rocky Mountain Medical Corp said the
+Baby News Store chain of children's stores will carry its
+tenderCare line of non-chemical disposable diapers.
+    Rocky claimed its patented dryness technology provides a
+diaper that is demonstrably drier than conventional disposable
+diapers and cloth diapers.
+    Baby News' 60 stores are located in the western U.S.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13559" NEWID="8037">
+<DATE>20-MAR-1987 18:01:38.04</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2630&#31;reute
+r f BC-GUEST-SUPPLY-&lt;GEST>-G   03-20 0059</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GUEST SUPPLY &lt;GEST> GETS SHAREHOLDER SUIT</TITLE>
+<DATELINE>    NORTH BRUNSWICK, N.J., March 20 - </DATELINE><BODY>Guest Supply INc said a
+shareholder sued it and certain officers and directors,
+alleging misrepresentations and omissions in the prospectus for
+the company's September 1986 public offering.
+    Guest said the complaint is without merit and will defend
+the action vigorously.
+ Reuter
+&#3;</BODY></TEXT>

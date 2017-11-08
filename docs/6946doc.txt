@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11859" NEWID="6946">
+<DATE>18-MAR-1987 21:58:55.21</DATE>
+<TOPICS><D>grain</D><D>wheat</D></TOPICS>
+<PLACES><D>taiwan</D><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;G C
+&#22;&#22;&#1;f9871&#31;reute
+u f BC-TAIWAN-SETS-1987-CANA   03-18 0104</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TAIWAN SETS 1987 CANADIAN WHEAT IMPORT TARGET</TITLE>
+<DATELINE>    TAIPEI, March 19 - </DATELINE><BODY>The Taiwan Flour Mills Association will
+import 81,000 tonnes of wheat from Canada in calendar 1987,
+unchanged from the 1986 level, an association spokesman told
+Reuters.
+    He said the total will be delivered in three shipments. The
+first will be shipped to Taiwan between March 20 and April 20
+and the other two will be made later this year, he said.
+    The total wheat import target this year has been set at
+700,000 tonnes, down from actual imports of 758,770 last year.
+    Most of Taiwan's wheat imports come from the U.S., The
+spokesman said.
+ REUTER
+&#3;</BODY></TEXT>

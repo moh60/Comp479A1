@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="8882" NEWID="3969">
+<DATE>11-MAR-1987 17:05:44.62</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E
+&#22;&#22;&#1;f0697&#31;reute
+r f BC-POWER-CORP-DETAILS-PR   03-11 0039</UNKNOWN>
+<TEXT>&#2;
+<TITLE>POWER CORP DETAILS PREFERRED SHARE SUBSCRIPTION</TITLE>
+<DATELINE>    MONTREAL, March 11 - </DATELINE><BODY>(Power Corp of Canada) said it
+received subscriptions for 252,223 shares of its recent issue
+of participating preferred shares for total proceeds of 4.3 mln
+dlrs.
+ Reuter
+&#3;</BODY></TEXT>

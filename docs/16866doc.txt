@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1401" NEWID="16866">
+<DATE>17-APR-1987 12:13:14.00</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0306&#31;reute
+r f BC-H.B.-FULLER-&lt;FULL.O>   04-17 0079</UNKNOWN>
+<TEXT>&#2;
+<TITLE>H.B. FULLER &lt;FULL.O> HOLDERS APPROVE SHARE RISE</TITLE>
+<DATELINE>    ST. PAUL, Minn., April 17 - </DATELINE><BODY>H.B. Fuller Co said
+shareholders at the annual meeting approved an increase in
+authorized common shares to 40 mln from 15 mln and a
+requirement that certain accumulations of its voting securities
+by subject to prior shareholder approval.
+    In addition, it said shareholders approved the elimination
+of the personal liability of directors in legal proceedings
+alleging a breach of fiduciary duty.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1231" NEWID="16696">
+<DATE>13-APR-1987 16:58:02.14</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A RM
+&#22;&#22;&#1;f2647&#31;reute
+r f BC-AANCOR-UNIT-SELLS-PRI   04-13 0101</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AANCOR UNIT SELLS PRIORITY SUBORDINATED NOTES</TITLE>
+<DATELINE>    NEW YORK, April 13 - </DATELINE><BODY>National Gypsum Co, a unit of Aancor
+Holdings Inc, said it is offering 300 mln dlrs of priority
+senior subordinated notes due 1997 with an 11-3/8 pct coupon
+and par pricing.
+    Non-redeemable for five years, the issue is rated B-2 by
+Moody's Investors Service Inc and B by Standard and Poor's
+Corp.
+    A sinking fund starts in 1994 to retire 75 pct of the notes
+by maturity. Proceeds will be used to terminate the company's
+current revolving credit facility. Goldman, Sachs and Co and
+Merrill Lynch Capital Markets underwrote the deal.
+ Reuter
+&#3;</BODY></TEXT>

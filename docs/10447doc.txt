@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15968" NEWID="10447">
+<DATE>27-MAR-1987 10:38:39.77&#5;&#5;&#5;E F</DATE>
+<UNKNOWN>&#22;&#22;&#1;f1054&#31;reute</UNKNOWN>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+r f BC-galactic-resources   03-27 0052</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GALACTIC RESOURCES LTD &lt;GALCF> YEAR LOSS</TITLE>
+<DATELINE>    VANCOUVER, British Columbia, March 27 -
+    </DATELINE><BODY>Shr loss 1.30 dlrs
+    Net loss 25.6 mln
+    Revs 20.5 mln
+    Note: Prior results not given.
+    Shr and net include change in accounting policy, resulting
+in loss of 22.8 mln dlrs or 1.16 dlrs share.
+    Results in U.S. funds
+ Reuter
+&#3;</BODY></TEXT>

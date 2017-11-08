@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="182" NEWID="11954">
+<DATE> 1-APR-1987 10:25:28.82</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1076&#31;reute
+r f BC-BEECHAM-GROUP-&lt;BHAMY>   04-01 0097</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BEECHAM GROUP &lt;BHAMY> TO SELL UNIT</TITLE>
+<DATELINE>    GREENWICH, Conn., April 1 - </DATELINE><BODY>Privately-held investment firm
+&lt;Dubin Clark and Co> said it has signed a definitive agreement
+for an investment group it heads to acquire Roberts
+Consolidated Industries from &lt;Beecham Group PLC> for 45 mln
+dlrs.
+    Roberts makes and distributes accessories, adhesives and
+tools used in carpet installation.
+    Dubin Clark said its group includes Roberts management and
+London investment company &lt;J. Rothschild Holdings PLC>.  It
+said Ronald J. Dubin will become vice chairman of Roberts and
+J. Thomas Clark chairman.
+REUTER^M
+&#3;</BODY></TEXT>

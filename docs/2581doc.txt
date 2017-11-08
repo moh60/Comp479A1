@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18999" NEWID="2581">
+<DATE> 6-MAR-1987 09:55:20.34</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0164&#31;reute
+w f BC-ENGINEERED-SUPPORT-&lt;E   03-06 0054</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ENGINEERED SUPPORT &lt;EASI> CHAIRMAN TO RETIRE</TITLE>
+<DATELINE>    ST. LOUIS, MO., March 6 - </DATELINE><BODY>Engineered Support Systems Inc
+said Jerome Labarbera will retire as chairman but remain a
+director, effective May one, 1987.
+    President Michael Shanahan will assume the additional post
+of chairman pending approval of the company's directors, it
+said.
+ Reuter
+&#3;</BODY></TEXT>

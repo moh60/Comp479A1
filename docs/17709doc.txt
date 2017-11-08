@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6047" NEWID="17709">
+<DATE> 1-JUN-1987 14:26:07.09</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2060&#31;reute
+d f BC-AMERICAN-TRAVELLERS-&lt;   06-01 0048</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AMERICAN TRAVELLERS &lt;ATVC.O> REPORTS PRODUCTION</TITLE>
+<DATELINE>    WARRINGTON, Pa, June 1 - </DATELINE><BODY>American Travellers Corp's
+American Travellers Life Insurance Co unit said it wrote more
+than 1.1 mln dlrs of new business in May
+    Last year, the unit wrote 553,350 dlrs of new business for
+the month of May.
+ Reuter
+&#3;</BODY></TEXT>

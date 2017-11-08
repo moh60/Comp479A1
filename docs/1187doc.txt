@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16507" NEWID="1187">
+<DATE> 3-MAR-1987 12:54:48.79</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F A
+&#22;&#22;&#1;f0173&#31;reute
+r f BC-GUARANTEE-&lt;GFCC>-UNIT   03-03 0102</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GUARANTEE &lt;GFCC> UNIT'S DEBT ON S/P WATCH</TITLE>
+<DATELINE>    NEW YORK, March 3 - </DATELINE><BODY>Standard and Poor's Corp said it placed
+the subordinated debt of Guarantee Savings and Loan
+Association, the principle unit of Guarantee Financial Corp, on
+creditwatch with positive implications.
+    About 57 mln dlrs of debt is affected.
+    S/P said the move follows Gurantee's definitive agreement
+to be acquired by Glendale Federal Savings and Loan, the fifth
+largest S and L in the U.S.
+    The combination with Glendale should enhance the
+creditworthiness of Guarantee's debt, S/P said.
+    Gurantee's subordinated debt is currently rated B.
+ Reuter
+&#3;</BODY></TEXT>

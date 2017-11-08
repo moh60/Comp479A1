@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5377" NEWID="15479">
+<DATE> 9-APR-1987 08:43:30.98</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0706&#31;reute
+d f BC-C.O.M.B.-&lt;CMCO>-MAKES   04-09 0080</UNKNOWN>
+<TEXT>&#2;
+<TITLE>C.O.M.B. &lt;CMCO> MAKES ACQUISITION</TITLE>
+<DATELINE>    PLYMOUTH, Minn., April 9 - </DATELINE><BODY>C.O.M.B. Co said it has acquired
+the principal assets of National Tech Industries Inc and Telkom
+Corp, which are engaged in the sale and telemarketing of
+consumer electronic merchandise and do business as House of
+Imports and N.L. Industries respectively.
+    The company said it paid a total of 8,700,000 dlrs,
+including the assumption of liabilities.
+    National Tech had sales of about 23 mln dlrs for 1986, it
+said.
+ Reuter
+&#3;</BODY></TEXT>

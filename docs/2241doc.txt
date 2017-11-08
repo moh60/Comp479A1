@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18659" NEWID="2241">
+<DATE> 5-MAR-1987 12:24:56.00</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0933&#31;reute
+d f BC-ELI-LILLY-&lt;LLY>-SUES   03-05 0075</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ELI LILLY &lt;LLY> SUES INT'L PHARMACEUTICAL &lt;IPPI></TITLE>
+<DATELINE>    WALNUT, Calif., March 5 - </DATELINE><BODY>International Pharmaceutical
+Products Inc said Eli Lilly and Co has filed a patent
+infringement suit against it for marketing Vincristine Sulfate
+for injection.
+    International Pharmaceutical said it believes that becaue
+of differences in formulation, it is not infringing on Eli
+Lilly's patent.
+    Vincristine Sulfate is a chemotherapeutic product used to
+treat cancer.
+ Reuter
+&#3;</BODY></TEXT>

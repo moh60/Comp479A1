@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13041" NEWID="858">
+<DATE> 2-MAR-1987 18:34:32.90</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0323&#31;reute
+r f BC-REUTERS-&lt;RTRSY>-IN-RE   03-02 0106</UNKNOWN>
+<TEXT>&#2;
+<TITLE>REUTERS &lt;RTRSY> IN REAL ESTATE MARKET VENTURE</TITLE>
+<DATELINE>    NEW YORK, March 2 - </DATELINE><BODY>Reuters Holdings PLC said its Reuters
+Information Services Inc unit will join &lt;Real Estate Financing
+Partnership>, Philadelphia, to offer an electronic market
+access system for commercial property financing.
+    Reuters said the system, named Real Estate Select View
+Program, or RSVP, will use its private communications network
+to provide a confidential method for the purchasing, selling
+and financing of commercial property.
+    The system, set for testing in August in selected U.S.
+cities, is expected to be operational 90 days after initial
+testing, Reuters said.
+ Reuter
+&#3;</BODY></TEXT>

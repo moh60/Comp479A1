@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="8313" NEWID="19985">
+<DATE>29-JUN-1987 21:41:00.28</DATE>
+<TOPICS><D>jobs</D></TOPICS>
+<PLACES><D>japan</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM AI 
+&#22;&#22;&#1;f2917&#31;reute
+f f BC-Japan-May-unemploymen   06-29 0012</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE>Japan May unemployment record 3.2 pct (3.0 pct in April)
+- official
+</TITLE>&#3;
+
+</TEXT>

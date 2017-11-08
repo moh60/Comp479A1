@@ -1,0 +1,30 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="777" NEWID="16242">
+<DATE>13-APR-1987 09:23:06.03</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;M
+&#22;&#22;&#1;f0854&#31;reute
+d f PM-UAW   04-13 0133</UNKNOWN>
+<TEXT>&#2;
+<TITLE>UAW CHEERS CALL FOR "WAR" ON GM AND FORD</TITLE>
+<DATELINE>    CHICAGO, April 13 - </DATELINE><BODY>Leaders of the nation's unionized
+automobile workers have signalled their intent for a major work
+stoppage later this year if General Motors (GM) and Ford Motor
+Co., fail to satisfy demands for job security, pay raises and
+protection against shifting U.S. production to foreign sources.
+    United Automobile Workers (UAW) president Owen Bieber was
+loudly cheered by some 3,000 local delegates at a special
+bargaining strategy convention yesterday when he declared the
+1.1-mln-member union is ready to go to "war" against the major
+auto makers in support of its goals.
+    "It takes two to make peace, but only one to make war ...
+and if it's war, the UAW will be ready for it. War against the
+insecurity of layoff," the UAW chief said.
+ Reuter
+&#3;</BODY></TEXT>

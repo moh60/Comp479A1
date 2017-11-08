@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6032" NEWID="17694">
+<DATE> 1-JUN-1987 14:01:31.21</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1972&#31;reute
+u f BC-HICKS/HAAS-GROUP-HAS   06-01 0091</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HICKS/HAAS GROUP HAS SPECTRADYNE &lt;SPDY.O> FUNDS</TITLE>
+<DATELINE>    DALLAS, June 1 - </DATELINE><BODY>SPI Holding Inc, a group consisting of
+Hicks and Haas and Acadia Partners LP, said it has received
+commitments for the senior bank financing needed to complete
+its proposed acquisition of Spectradyne Inc for 46 dlrs a share
+in cash or securities, or a total of about 452 mln dlrs.
+    The transaction was conditioned on the arrangement fo
+financing by today.
+    It said it has also executed multi-year employment and
+non-competition agreements with five Spectrayne senior managers.
+ Reuter
+&#3;</BODY></TEXT>

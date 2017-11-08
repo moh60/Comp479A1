@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4677" NEWID="15499">
+<DATE> 9-APR-1987 09:14:25.73</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;E F
+&#22;&#22;&#1;f0783&#31;reute
+d f BC-DURAKON-&lt;DRKN>-PRODUC   04-09 0048</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DURAKON &lt;DRKN> PRODUCT SOLD BY CANADIAN TIRE</TITLE>
+<DATELINE>    LAPEER, Mich., April 9 - </DATELINE><BODY>Durakon Industries Inc said
+Canadian Tire Corp, the large Canadian auto retailer, has
+selected Durakon's All Star Liner as its exclusive pickup truck
+bed liner, to be sold in the 400 Associate Stores across Canada.
+ Reuter
+&#3;</BODY></TEXT>

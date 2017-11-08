@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10866" NEWID="5953">
+<DATE>17-MAR-1987 10:16:54.27</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D><D>saudi-arabia</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F
+&#22;&#22;&#1;f5070&#31;reute
+r f BC-varity-subsidiary-has   03-17 0102</UNKNOWN>
+<TEXT>&#2;
+<TITLE>VARITY (VAT) SUBSIDIARY HAS SAUDI COMBINE SALE</TITLE>
+<DATELINE>    BRANTFORD, Ontario, March 17 - </DATELINE><BODY>Massey Combines Corp, 45 pct
+owned by Varity Corp, said it shipped 48 large conventional
+combines valued at nearly five mln Canadian dlrs to its Saudi
+Arabian distributor, located in Riyadh.
+    Massey Combines said the combines shipment is the company's
+first major sale in Saudi Arabia since the sharp drop in world
+oil prices forced many oil-producing countries to curb
+machinery imports.
+    Massey Combines, formerly Varity's combines division,
+became an independent business during a company restructuring
+completed last year.
+ Reuter
+&#3;</BODY></TEXT>

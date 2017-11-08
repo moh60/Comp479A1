@@ -1,0 +1,20 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1087" NEWID="16552">
+<DATE>13-APR-1987 14:02:42.95</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>amex</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2109&#31;reute
+d f BC-AMEX-STARTS-TRADING-L   04-13 0033</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AMEX STARTS TRADING LAWRENCE INSURANCE &lt;LWR></TITLE>
+<DATELINE>    NEW YORK, April 13 - </DATELINE><BODY>The &lt;American Stock Exchange> said it
+has started trading the common stock of Lawrence Insurance
+Group Inc, which went public today.
+ Reuter
+&#3;</BODY></TEXT>

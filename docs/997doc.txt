@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16317" NEWID="997">
+<DATE> 3-MAR-1987 09:15:33.28</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM A
+&#22;&#22;&#1;f0275&#31;reute
+r f BC-KEYCORP-&lt;KEY>-REGISTE   03-03 0085</UNKNOWN>
+<TEXT>&#2;
+<TITLE>KEYCORP &lt;KEY> REGISTERS SUBORDINATED NOTES</TITLE>
+<DATELINE>    ALBANY, N.Y., Marc 3 - </DATELINE><BODY>KeyCorp said it has filed with the
+Securities and Exchange Commission for the offering of 75 mln
+dlrs of subordinated capital notes due March 1, 1999.
+    The company said it is anticipated the notes will be
+offered this week through underwriters led by First Boston
+Corp.
+    Proceeds will be used for general corporate purposes,
+including the acquisition of &lt;Seattle Trust and Savings Bank>,
+which is scheduled for July one, KeyCorp said.
+ Reuter
+&#3;</BODY></TEXT>

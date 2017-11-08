@@ -1,0 +1,20 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="2089" NEWID="13120">
+<DATE> 3-APR-1987 15:51:32.56</DATE>
+<TOPICS><D>grain</D><D>ship</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;GQ
+&#22;&#22;&#1;f2205&#31;reute
+r f BC-portland-grain-ships   04-03 0031</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GRAIN SHIPS LOADING AT PORTLAND</TITLE>
+<DATELINE>    PORTLAND, April 3 - </DATELINE><BODY>There were five grain ships loading and
+three ships were waiting to load at Portland, according to the
+Portland Merchants Exchange.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20893" NEWID="20298">
+<DATE>20-OCT-1987 11:07:14.29</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1504&#31;reute
+r f BC-CAPITAL-SOUTHWEST   10-20 0085</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SERVICE CORP &lt;SRV> DUMPS CAPITAL SOUTHWEST STAKE</TITLE>
+<DATELINE>    WASHINGTON, Oct 20 - </DATELINE><BODY>Service Corp International said its
+Investment Capital Corp unit sold its entire 14.8 pct stake in
+Capital Southwest Corp &lt;CSWC.O> common stock, and no longer
+holds any Capital Southwest shares.
+    In a filing with the Securities and Exchange Commission,
+Investment Capital said it sold 280,000 shares of Capital
+Southwest common stock since September 21 at 19.56 dlrs to
+21.50 dlrs a share.
+    No reason was given for the recent sales.
+ Reuter
+&#3;</BODY></TEXT>

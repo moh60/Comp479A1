@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4849" NEWID="15672">
+<DATE> 9-APR-1987 11:49:39.25</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1446&#31;reute
+d f BC-NEW-JERSEY-INVESTOR-B   04-09 0062</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NEW JERSEY INVESTOR BUYS 5.2 PCT OF KINARK &lt;KIN></TITLE>
+<DATELINE>    WASHINGTON, April 9 - </DATELINE><BODY>A New Jersey investor, Joseph
+Falkenstein, told the Securities and Exchange Commission he
+holds 5.2 pct of the shares of Kinark Corp.
+    He said he has no plans to change the company and that he
+bought the shares because he believed the stock was undervalued
+and would rise in the next six months.
+ reuter
+&#3;</BODY></TEXT>

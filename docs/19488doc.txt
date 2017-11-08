@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7816" NEWID="19488">
+<DATE>29-JUN-1987 00:08:35.14</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>qatar</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f0016&#31;reute
+u f BC-QATAR-TAKES-OVER-CABL   06-29 0109</UNKNOWN>
+<TEXT>&#2;
+<TITLE>QATAR TAKES OVER CABLE AND WIRELESS FRANCHISE</TITLE>
+<DATELINE>    DOHA, June 29 - </DATELINE><BODY>Qatar will today take over the franchise of
+Cable and Wireless Plc (CAWL.L) in the emirate through the
+newly-created Qatar General Telecommunications Corporation
+(QTELC).
+    Cable and Wireless, which has operated in Qatar since 1951,
+will second expert staff and provide technical and computer
+services under agreements signed with QTELC.
+    Cable and Wireless manager Colin Davies told Reuters
+"Basically we have been here in a franchise situation for the
+last 36 years and the government has now decided they want to
+have a bigger role and that is, of course, a sovereign right."
+ REUTER
+&#3;</BODY></TEXT>

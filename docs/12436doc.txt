@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="1512" NEWID="12436">
+<DATE> 2-APR-1987 05:34:11.77</DATE>
+<TOPICS><D>grain</D><D>corn</D></TOPICS>
+<PLACES><D>zambia</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G
+&#22;&#22;&#1;f0432&#31;reute
+u f BC-ZAMBIA-EXPECTS-SHARPL   04-02 0111</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ZAMBIA EXPECTS SHARPLY REDUCED MAIZE CROP</TITLE>
+<DATELINE>    LUSAKA, April 2 - </DATELINE><BODY>Zambia's marketed maize production will
+probably fall to less than 630,000 tonnes in 1986/87 (May-Apr),
+from 918,000 last year, because of poor rainfall in major
+producing areas, Agriculture Minister Kingsley Chinkuli said.
+    He told Parliament that in the southern provinces the
+harvest would be over 50 pct down on the level in the previous
+marketing year.
+    "The nation would be lucky to produce over seven mln bags
+(630,000 tonnes) of maize this year," he stated.
+    Chinkuli added that Zambia was setting up an irrigation
+fund with Canadian aid to lessen the effects of poor rainfall.
+ REUTER
+&#3;</BODY></TEXT>

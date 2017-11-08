@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="8936" NEWID="4023">
+<DATE>11-MAR-1987 19:02:33.14</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F
+&#22;&#22;&#1;f0940&#31;reute
+r f BC-KIENA-PLANS-TWO-FOR-O   03-11 0056</UNKNOWN>
+<TEXT>&#2;
+<TITLE>KIENA PLANS TWO-FOR-ONE STOCK SPLIT</TITLE>
+<DATELINE>    TORONTO, March 11 - </DATELINE><BODY>&lt;Kiena Gold Mines Ltd> said it planned
+a two-for-one common stock split, pending shareholder approval
+on April 7.
+    It said approval would require 66-2/3 pct of votes cast.
+Kiena said 57 pct-owner Campbell Red Lake Mines Ltd &lt;CRK> was
+expected to vote in favor of the split.
+ Reuter
+&#3;</BODY></TEXT>

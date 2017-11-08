@@ -1,0 +1,18 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15964" NEWID="10443">
+<DATE>27-MAR-1987 10:32:49.29&#5;&#5;&#5;RM</DATE>
+<UNKNOWN>&#22;&#22;&#1;f1037&#31;reute</UNKNOWN>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+f f BC-Bank-of-England-says   03-27 0015</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE> Bank of England says issuing 250 mln stg in tranches of existing index-linked stocks
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

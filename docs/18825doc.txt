@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6577" NEWID="18825">
+<DATE>18-JUN-1987 12:54:46.45</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f3925&#31;reute
+r f BC-GENERAL-AUTOMATION-&lt;G   06-18 0112</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GENERAL AUTOMATION &lt;GENA.O> SETS PACT WITH IRS</TITLE>
+<DATELINE>    ANAHEIM, Calif., June 18 - </DATELINE><BODY>General Automation Inc said it
+has signed a definitive agreement to pay 4.5 mln dlrs to the
+Internal Revenue Service in taxes, interest and penalties for
+the years 1972 through 1981.
+    It will make an initial payment on June 30 of 500,000 dlrs,
+with ongoing quarterly payments over about two years.
+    General Automation said in conjunction with the IRS
+agreement, it has placed about one mln dlrs in five-year, eight
+pct unsecured notes with a group of private investors.
+    The notes are accompanied by five-year warrants to buy
+about 110,000 shares of common stock at 6.38 dlrs per share.
+ Reuter
+&#3;</BODY></TEXT>

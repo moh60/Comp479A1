@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4121" NEWID="15138">
+<DATE> 8-APR-1987 12:32:54.34</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1738&#31;reute
+r f BC-YANKEE-&lt;YNK>-UNIT-NOT   04-08 0034</UNKNOWN>
+<TEXT>&#2;
+<TITLE>YANKEE &lt;YNK> UNIT NOT TO SELL SUBSIDIARY</TITLE>
+<DATELINE>    COHASSET, Mass., April 8 - </DATELINE><BODY>Yankee Cos Inc said its Eskey
+Inc &lt;ESK> subsidiary has decided not to sell its Yale E. Key
+unit.
+    Further details were not disclosed.
+ Reuter
+&#3;</BODY></TEXT>

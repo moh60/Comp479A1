@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="8165" NEWID="19837">
+<DATE>29-JUN-1987 14:53:03.29</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2209&#31;reute
+u f BC-LOMAS-&lt;LNK>-SHAREHOLD   06-29 0038</UNKNOWN>
+<TEXT>&#2;
+<TITLE>LOMAS &lt;LNK> SHAREHOLDERS APPROVE ACQUISITION</TITLE>
+<DATELINE>    DALLAS, June 29 - </DATELINE><BODY>Lomas and Nettleton Financial Corp said
+its shareholders approved at a special meeting the company's
+acquisition of Equitable Life Leasing Corp for 263.3 mln dlrs.
+    Equitable Life Leasing Corp is a subsidiary of Equitable
+Investment Corp, which is owned by the Equitable Life Assurance
+Co of U.S.
+    Lomas said the acquistion price will consist of one mln in
+cash, 1.5 mln shares of the company's common stock, 71,000
+shares of a new series C preferred stock, and 8.944 mln dlrs
+principal amount of nine pct senior notes due 1994.
+    The company added that the acquisition will close June 30.
+ Reuter
+&#3;</BODY></TEXT>

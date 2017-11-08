@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19261" NEWID="2843">
+<DATE> 6-MAR-1987 15:47:26.32</DATE>
+<TOPICS><D>gnp</D></TOPICS>
+<PLACES><D>chile</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0467&#31;reute
+r f BC-chilean-gdp-up-5.7-pc   03-06 0083</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CHILEAN GDP UP 5.7 PCT IN 1986, CENTRAL BANK SAYS</TITLE>
+<DATELINE>    Santiago, march 6 - </DATELINE><BODY>chile's gross domestic product rose 5.7
+pct last year to 18.8 billion dollars, compared to a 2.4 pct
+rise in the previous year, the central bank said.
+    It said initial projections were for a 4.6 pct increase in
+gdp this year.
+    The sectors which registered the greatest growth in 1986
+were fisheries with 10 pct, agriculture at 8.7 pct, transport
+and communications with 8.1 pct and industry at 8.0 pct, the
+bank added.
+ Reuter
+&#3;</BODY></TEXT>

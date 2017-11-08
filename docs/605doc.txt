@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12788" NEWID="605">
+<DATE> 2-MAR-1987 13:15:29.32</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0470&#31;reute
+d f BC-COGNITIVE-SYSTEMS-INC   03-02 0052</UNKNOWN>
+<TEXT>&#2;
+<TITLE>COGNITIVE SYSTEMS INC &lt;CSAI> 4TH QTR NOV 30 LOSS</TITLE>
+<DATELINE>    NEW HAVEN, Conn., March 2 -
+    </DATELINE><BODY>Shr loss eight cts vs loss three cts
+    Net loss 213,000 vs loss 49,000
+    Revs 636,000 vs 445,0000
+    Year
+    Shr loss 11 cts vs loss 38 cts
+    Net loss 235,000 vs loss 611,0000
+    Revs 2,389,000 vs 1,287,000
+              
+ Reuter
+&#3;</BODY></TEXT>

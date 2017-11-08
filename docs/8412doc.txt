@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13933" NEWID="8412">
+<DATE>23-MAR-1987 13:35:34.78</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>italy</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f1896&#31;reute
+r f BC-CALABRIAN-BANK-PRESID   03-23 0113</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CALABRIAN BANK PRESIDENT ARRESTED FOR EMBEZZLEMENT</TITLE>
+<DATELINE>    COSENZA, Italy, March 23 - </DATELINE><BODY>The president and five senior
+managers of a publicly-owned Italian savings bank and the vice
+president of another major Italian bank have been arrested on
+embezzlement charges, police said.
+    Nicola Calipari, head of Cosenza police investigation
+section, told Reuters &lt;Cassa di Risparmio di Calabria e Luciana
+- Carical> president Francesco Sapio and five managers were
+arrested last night. Three others believed involved had also
+been arrested, including Francesco Del Monte, vice president of
+(Banca Nazionale del Lavoro), he said. Carical holds deposits
+totalling some 6,000 billion lire.
+ REUTER
+&#3;</BODY></TEXT>

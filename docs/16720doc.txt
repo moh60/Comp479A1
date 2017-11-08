@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1255" NEWID="16720">
+<DATE>13-APR-1987 17:49:08.58</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2753&#31;reute
+r f BC-ADVANCED-INSTITUTIONA   04-13 0041</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ADVANCED INSTITUTIONAL &lt;AIMS.O> IN NEW FACILITY</TITLE>
+<DATELINE>    SYOSSET, N.Y., April 13 - </DATELINE><BODY>Advanced Institutional Management
+Software Inc said it renegotiated its bank credit facility from
+a demand note to a 10-year term note with a 25-year payment
+schedule.
+ Reuter
+&#3;</BODY></TEXT>

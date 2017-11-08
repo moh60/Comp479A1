@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9751" NEWID="4838">
+<DATE>13-MAR-1987 10:32:34.19</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0103&#31;reute
+u f BC-NORSK-HYDRO-EURODOLLA   03-13 0056</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NORSK HYDRO EURODOLLAR BOND INCREASED TO 125 MLN</TITLE>
+<DATELINE>    LONDON, March 13 - </DATELINE><BODY>The 10-year eurodollar bond issue
+launched yesterday for Norsk Hydro at 8-1/4 pct and 101-5/8 pct
+has been increased to a total of 125 mln dlrs from the original
+100 mln amount, Swiss Bank Corp International said as lead.
+    The issue is due on April 9, 1997.
+ REUTER
+&#3;</BODY></TEXT>

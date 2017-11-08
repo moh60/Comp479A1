@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15294" NEWID="9773">
+<DATE>26-MAR-1987 07:02:37.03</DATE>
+<TOPICS><D>grain</D><D>wheat</D></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS><D>iwc-wheat</D></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G
+&#22;&#22;&#1;f0501&#31;reute
+f f BC-IWC-lifts-1986/87-wor   03-26 0015</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE>IWC lifts 1986/87 world wheat, coarse grain estimate one mln tonnes to record 1,377 mln
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

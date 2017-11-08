@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17991" NEWID="1573">
+<DATE> 4-MAR-1987 12:02:14.35</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0824&#31;reute
+d f BC-GEICO-CORP-&lt;GEC>-NAME   03-04 0045</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GEICO CORP &lt;GEC> NAMES NEW BOARD MEMBERS</TITLE>
+<DATELINE>    CHEVY CHASE, Md., - March 4 - </DATELINE><BODY>Geico Corp said it named two
+board members, W. Reid Thompson, chairman and the chief
+executive officer of Potomac Electric Power Company, and Norma
+Brown, major general US Air Force retired.
+   
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="BYPASS" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="2915" NEWID="13932">
+<DATE> 7-APR-1987 10:35:05.54</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;FQ
+&#22;&#22;&#1;f1040&#31;reute
+u f BC-ny-spot-trends   04-07 0054</UNKNOWN>
+<TEXT TYPE="UNPROC">&#2;
+COMMODITIES OPENING SPOT TRENDS - APRIL 7
+ Silver        up 15.0  cts per oz
+ Copper        up 0.15  cts per lb
+ Gold (Comex) up 2.00   dlrs per oz
+ Platinum     up  7.10  dlrs per oz
+ Sugar 11     off 0.09  cts per lb
+ Coffee c     up  0.26  cts per lb
+ Cocoa        off   13  dlrs per tonne
+ Cotton       up  0.10  cts per lb
+&#3;
+
+</TEXT>

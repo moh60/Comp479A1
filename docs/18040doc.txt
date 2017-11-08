@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7485" NEWID="18040">
+<DATE> 2-JUN-1987 10:54:40.06</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1270&#31;reute
+d f BC-ORION-BROADCAST-&lt;OBGI   06-02 0079</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ORION BROADCAST &lt;OBGI.O> BUYS FORD &lt;F> UNIT</TITLE>
+<DATELINE>    DENVER, June 2 - </DATELINE><BODY>Orion Broadcast Group Inc said its
+majority-owned Orion Financial Services Corp subsidiary has
+agreed to purchase FN Realty Services Inc from Ford Motor Co
+for 1,200,000 to 1,500,000 dlrs in cash and notes.
+    It said closing is expected within 45 days after receipt of
+regulatory approvals.
+    FN provides loan collection, accounting, data processing
+and administrative services to the real estate industry.
+ Reuter
+&#3;</BODY></TEXT>

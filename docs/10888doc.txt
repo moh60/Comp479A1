@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16949" NEWID="10888">
+<DATE>30-MAR-1987 12:01:25.97</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1681&#31;reute
+r f BC-EL-DE-ELECTRO-&lt;ELOPF>   03-30 0042</UNKNOWN>
+<TEXT>&#2;
+<TITLE>EL-DE ELECTRO &lt;ELOPF> OFFERING SELLS OUT</TITLE>
+<DATELINE>    NEW YORK, March 30 - </DATELINE><BODY>El-De Electro-Optic Developments Ltd
+said all one mln common shares it offered in its initial public
+offering at three dlrs each have been sold.
+    Underwriters was Brown, Knapp and Co Inc.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="2103" NEWID="13134">
+<DATE> 3-APR-1987 16:12:10.57</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2250&#31;reute
+r f BC-MITSUBISHI-REPORTS-HI   04-03 0072</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MITSUBISHI REPORTS HIGHER U.S. MARCH SALES</TITLE>
+<DATELINE>    FOUNTAIN VALLEY, Calif., April 3 - </DATELINE><BODY>The Mitsubishi Motor
+Sales America Inc unit of Mitsubishi Motor Corp said domestic
+car sales during March rose to 6,403 from 4,089 a year earlier
+and year-to date car sales were up to 14,071 from 12,937 last
+year.
+    Truck sales rose to 3,800 during the month from 2,526 last
+year and year-to-date sales increased to 11,126 from 6,520,
+Mitsubishi said.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13977" NEWID="8456">
+<DATE>23-MAR-1987 14:47:45.73</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2105&#31;reute
+d f BC-MCA-&lt;MCA>-SEEKS-TO-LI   03-23 0051</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MCA &lt;MCA> SEEKS TO LIMIT DIRECTORS' LIABILITY</TITLE>
+<DATELINE>    UNIVERSAL CITY, Calif., March 23 - </DATELINE><BODY>MCA Inc said
+shareholders at the annual meeting on May Five will be asked to
+approve a change to its certificate of incorporation
+eliminating certain liabilities of directors to MCA or its
+shareholders under Delaware law.
+ Reuter
+&#3;</BODY></TEXT>

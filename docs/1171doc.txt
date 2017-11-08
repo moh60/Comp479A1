@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16491" NEWID="1171">
+<DATE> 3-MAR-1987 12:33:33.34</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0088&#31;reute
+r f BC-DATACORPY-&lt;DCPY>-IN-P   03-03 0073</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DATACORPY &lt;DCPY> IN PACT WITH XEROX &lt;XRX></TITLE>
+<DATELINE>    MOUNTAIN VIEW, Calif., March 3 - </DATELINE><BODY>Datacopy Corp said it has
+signed a joint marketing agreement for its Model 730 office
+image scanner with Xerox Corp.
+    Under the pact, Xerox sales force will reference-sell the
+scanner as its choice for desktop publishing applications.
+   Datacopy will supply Xerox with technical support and
+respond to customer orders within 30 days of the purchase
+order.
+   
+ Reuter
+&#3;</BODY></TEXT>

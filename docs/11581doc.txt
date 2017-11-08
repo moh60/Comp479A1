@@ -1,0 +1,32 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17642" NEWID="11581">
+<DATE>31-MAR-1987 14:41:29.32</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2237&#31;reute
+r f BC-FORMER-&lt;GE>-MANAGERS   03-31 0089</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FORMER &lt;GE> MANAGERS START ELECTRONICS COMPANY</TITLE>
+<DATELINE>    LANCASTER, Pa., March 31 - </DATELINE><BODY>&lt;Cardinal Technologies Inc> said
+it spun off its former parent company, General Electric Co,
+when the company put the division up for sale.
+    Cardinal Technologies said it was started by seven former
+managers of RCA Corp's new products division after General
+Electric took over RCA. The new company said it purchased the
+assets of RCA's new product development group, and most of the
+product and manufacturing assets of the RCA display systems
+division.
+    Harold Krall, president and chief executive officer of
+Cardinal Technologies, said this is the first RCA electronics
+operations to be sold to former management since General
+Electric bought RCA last year.
+    The company said is expects first year sales to exceed six 
+mln dlrs.
+ Reuter
+&#3;</BODY></TEXT>

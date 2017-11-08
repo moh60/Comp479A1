@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="8592" NEWID="3679">
+<DATE>11-MAR-1987 10:56:40.53</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0415&#31;reute
+w f BC-COMPUTER-TECHNOLOGY-&lt;   03-11 0048</UNKNOWN>
+<TEXT>&#2;
+<TITLE>COMPUTER TECHNOLOGY &lt;CMNT> NETWORKING DEVICE</TITLE>
+<DATELINE>    MINNEAPOLIS, March 11 - </DATELINE><BODY>Computer Network Technology Corp
+said it introduced the CHANNELink Model 5100/R, a high speed
+networking product line.
+    It said the product line is designed for remote IBM
+mainframe-to-mainframe data communications.
+ Reuter
+&#3;</BODY></TEXT>

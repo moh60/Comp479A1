@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="2971" NEWID="13988">
+<DATE> 7-APR-1987 10:59:11.06</DATE>
+<TOPICS><D>money-fx</D><D>dlr</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE><D>volcker</D></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;V RM
+&#22;&#22;&#1;f1120&#31;reute
+b f BC-VOLCKER-SEES-DOLLAR-A   04-07 0104</UNKNOWN>
+<TEXT>&#2;
+<TITLE>VOLCKER SEES DOLLAR AS FACTOR IN MONETARY POLICY</TITLE>
+<DATELINE>    WASHINGTON, April 7 - </DATELINE><BODY>Federal Reserve Board Chairman Paul
+Volcker said the performance of the dollar in exchange markets
+could be a factor in the U.S. central bank's decisions on
+monetary policy.
+    "The performance of the dollar in the exchange market might
+become a factor bearing on our provision of reserves," Volcker
+said in testimony to the Senate Banking Committee.
+    He said that fiscal policy changes in the United States,
+Germany and Japan would be more important that intervention to
+instill confidence in current exchange rate levels.
+                      
+ Reuter
+&#3;</BODY></TEXT>

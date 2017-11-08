@@ -1,0 +1,39 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17136" NEWID="11075">
+<DATE>30-MAR-1987 16:23:57.15</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;Y
+&#22;&#22;&#1;f2522&#31;reute
+u f BC-HUGHES'-U.S.-RIG-COUN   03-30 0110</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HUGHES TOOL &lt;HT> U.S. RIG COUNT FALLS TO 748</TITLE>
+<DATELINE>    HOUSTON, March 30 - </DATELINE><BODY>Sharp cutbacks in drilling in Oklahoma
+and Kansas pushed the U.S. drilling rig count down by 36 to a
+total of 748, against 1,034 working rigs one year ago, Hughes
+Tool Co said.
+    The latest weekly count of rig activity reversed last
+week's gain of 23 rigs for a total of 784, which had been the
+first improvement in the drilling rig count this year.
+    "I have no explanation for the decline," said Hughes
+economist Ike Kerridge. "I think we're near the bottom of this
+year's rig count but the wet ground in northern and
+midcontinent states could affect the count in the next few
+weeks."
+    Among individual states, Oklahoma and Kansas reported
+declines of 16 and 11 working rigs last week. Texas lost seven
+and Michigan and Wyoming were each down by three rigs. Gains
+were reported in Louisiana and California, which increased by
+seven and six, respectively.
+    In Canada, the rig count dropped by 52 to a total of 131
+working rigs, against 222 one year ago. Kerridge attributed the
+steep drop to the government's annual springtime ban against
+rigs and other heavy equipment being transported over
+rain-softened highways.
+ Reuter
+&#3;</BODY></TEXT>

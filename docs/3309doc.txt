@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19731" NEWID="3309">
+<DATE> 9-MAR-1987 14:56:10.98</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0408&#31;reute
+r f BC-BCI-HOLDINGS-TO-SELL   03-09 0073</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BCI HOLDINGS TO SELL BOTTLED WATER DIVISION</TITLE>
+<DATELINE>    CHICAGO, March 9 - </DATELINE><BODY>&lt;BCI Holdings Corp>  said its &lt;Beatrice
+U.S. Food Corp> retained Shearson Lehman Brothers Inc to assist
+in the sale of its national bottled water business.
+    It said products of the subsidiary, based in Monterey Park,
+Calif., are sold under the Arrowhead brand name in California
+and Arizona, the Ozarka name in Texas and the Great Bear name
+in 11 northeastern states.
+ Reuter
+&#3;</BODY></TEXT>

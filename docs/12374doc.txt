@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="602" NEWID="12374">
+<DATE> 1-APR-1987 18:14:08.39</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;E F
+&#22;&#22;&#1;f2673&#31;reute
+r f BC-novamin-board-to-reco   04-01 0086</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NOVAMIN BOARD TO RECOMMEND BREAKWATER &lt;BWRLF> BID</TITLE>
+<DATELINE>    Vancouver, British Columbia, April 1 - </DATELINE><BODY>&lt;Novamin Inc> said
+its board will recommend to shareholders the takeover offer
+made by Breakwater Resources Ltd.
+    Breakwater is offering to exchange one Breakwater share for
+each two shares of Novamin, the company said.
+    Breakwater will issue about 3.7 mln shares for all Novamin
+shares presently issued and outstanding. Additional shraes of
+Breakwater will be issued if warrants and options of Novamin
+are exercised.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="21297" NEWID="20702">
+<DATE>20-OCT-1987 16:11:56.81</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f3137&#31;reute
+u f BC-TEXTRON,-BOEING-GET-1   10-20 0044</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TEXTRON, BOEING GET 102.0 MLN DLR CONTRACT</TITLE>
+<DATELINE>    WASHINGTON, Oct 20 - </DATELINE><BODY>The Bell division of Textron Inc &lt;TXT>
+and the Boeing Co &lt;BA> have received a 102.0 mln dlr joint
+contract to continue full scale development of the V-22 Osprey
+vertical-lift aircraft, the Navy said.
+ reuter
+&#3;</BODY></TEXT>

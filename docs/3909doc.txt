@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="8822" NEWID="3909">
+<DATE>11-MAR-1987 15:33:44.76</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0450&#31;reute
+r f BC-ENSECO-INC-&lt;NCCO>-4TH   03-11 0037</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ENSECO INC &lt;NCCO> 4TH QTR LOSS</TITLE>
+<DATELINE>    CAMBRIDGE, Mass., March 11 -
+    </DATELINE><BODY>Oper shr loss six cts vs profit seven cts
+    Oper net loss 481,517 vs profit 487,432
+    Revs 7,492,686 vs 5,575,043
+    Avg shrs 8.5 mln vs 7.2 mln
+    Year
+    Oper shr loss six cts vs profit 34 cts
+    Oper net loss 465,043 vs profit 2,283,811
+    Revs 29.5 mln vs 19.8 mln
+    Avg shrs 7.8 mln vs 6.7 mln
+    NOTE: Excludes extraordinary credit of four cts a share in
+fourth quarter 1986, and 15 cts in year.
+ Reuter
+&#3;</BODY></TEXT>

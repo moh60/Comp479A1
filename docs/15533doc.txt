@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4711" NEWID="15533">
+<DATE> 9-APR-1987 09:41:33.99</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0895&#31;reute
+r f BC-SENETEK-&lt;SNTKY>-UNIT   04-09 0110</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SENETEK &lt;SNTKY> UNIT TO MARKET AIDS TEST</TITLE>
+<DATELINE>    MOUNTAIN VIEW, Calif., April 9 - </DATELINE><BODY>Senetek PLC said its
+Senetek A/S Danish subsidiary has signed a letter of intent to
+market &lt;Diagnostic Biotechnology Co Pt Ltd> of Singapore's AIDS
+antibody tests to the health care industries in Britain and the
+Scandinavian countries.
+    The company said its 49 pct owned Tessek Ltd joint venture
+affiliate in Prague has also signed a letter of intent to
+market Diagnostics AIDS tests in Czechoslovakia and other
+Comecon countries.   It said Tessek has agreed to exchange
+research information with Diagnostic in the development of a
+new AIDS diagnostic kit using Tessek technology.
+ Reuter
+&#3;</BODY></TEXT>

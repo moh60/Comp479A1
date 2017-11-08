@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6536" NEWID="18784">
+<DATE>18-JUN-1987 12:08:38.89</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F Y 
+&#22;&#22;&#1;f3724&#31;reute
+r f BC-VALERO-NATURAL-GAS-&lt;V   06-18 0075</UNKNOWN>
+<TEXT>&#2;
+<TITLE>VALERO NATURAL GAS &lt;VLP> SETS INITIAL PAYOUT</TITLE>
+<DATELINE>    SAN ANTONIO, Texas, June 18 - </DATELINE><BODY>Valero Natural Gas Partners
+LP said its board has declared an initial quarterly dividend of
+67.3611 cents per unit, payable August 14, record July 1.
+    The partnership said the distribution covers its first full
+quarter of operations ending June 30 plus the period from the
+inception of its operations on March 25.
+    Future dividends will be 62.5 cts quarterly, it said.
+ Reuter
+&#3;</BODY></TEXT>

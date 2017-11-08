@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11448" NEWID="6535">
+<DATE>18-MAR-1987 10:57:40.04</DATE>
+<TOPICS><D>trade</D><D>cotton</D><D>iron-steel</D><D>naphtha</D><D>veg-oil</D><D>palm-oil</D></TOPICS>
+<PLACES><D>pakistan</D><D>sweden</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G T M
+&#22;&#22;&#1;f8184&#31;reute
+d f BC-PAKISTAN-SWEDISH-GOOD   03-18 0098</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PAKISTAN-SWEDISH GOODS EXCHANGE AGREED</TITLE>
+<DATELINE>    ISLAMABAD, March 18 - </DATELINE><BODY>Pakistan and Sweden have signed a
+commodity exchange agreement for 88 mln dlrs each way, the
+Pakistan government announced.
+    Pakistan's exports under the agreement will include raw
+cotton, cotton products, cotton textiles, steel products,
+molasses, naphtha and fresh and dried fruits.
+    Swedish exports to Pakistan will include medical and
+laboratory equipment, electrical telecommunication equipment,
+diesel engine spares, mining and security equipment,
+road-building and construction machinery, fertilisers and palm
+oil.
+ Reuter
+&#3;</BODY></TEXT>

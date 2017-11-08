@@ -1,0 +1,39 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20041" NEWID="21395">
+<DATE>19-OCT-1987 10:26:57.21</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1251&#31;reute
+r f BC-AMERICAN-VISION-&lt;AMVC   10-19 0097</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AMERICAN VISION &lt;AMVC.O> ELECTS NEW PRESIDENT</TITLE>
+<DATELINE>    NEW YORK, Oct 19 - </DATELINE><BODY>American Vision Centers Inc said Michael
+C. Barlerin has been elected president and chief operating
+officer of the company, replacing Robert S. Cohen, who will
+remain a member of the company's board.
+    Barlerin was previously senior vice president and director
+of marketing for Zale Corp.
+    American Vision also said two Kay Corp &lt;KAY> officers,
+Anthonie C. van Ekris and Thomas E. Hitselberger, and John C.
+Belknap, chief financial officer of Seligman and Latz Inc, were
+elected to American Vision's board.
+   
+    Kay last week completed the acqusition of 52 pct of
+American Vision's outstding shares.
+    The new members will succeed Alan R. Cohen, Edward M. Cohen
+and Robert Gertler.
+    Separately, American Vision said its board has approved a
+proposal to borrow up to 2.5 mln dlrs from Kay Acquisition
+Corp, a unit of Kay Corp, for additional working capital.
+    The loan, which is subject to a number of conditions, would
+include a market rate of interest and would be in the form of a
+senior convertible debt instrument.
+    American Vision owns and franchises retail eyecare stores.
+ Reuter
+&#3;</BODY></TEXT>

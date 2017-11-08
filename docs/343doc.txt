@@ -1,0 +1,20 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12526" NEWID="343">
+<DATE> 2-MAR-1987 07:30:12.41</DATE>
+<TOPICS><D>sugar</D></TOPICS>
+<PLACES><D>uk</D><D>india</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C T
+&#22;&#22;&#1;f0118&#31;reute
+u f BC-INDIA-TO-HOLD-WHITE-S   03-02 0034</UNKNOWN>
+<TEXT>&#2;
+<TITLE>INDIA TO HOLD WHITE SUGAR BUYING TENDER</TITLE>
+<DATELINE>    LONDON, March 2 - </DATELINE><BODY>India will hold a buying tender on
+Wednesday, March 4, for two to three cargoes of white sugar for
+March/April shipment, traders said.
+ REUTER
+&#3;</BODY></TEXT>

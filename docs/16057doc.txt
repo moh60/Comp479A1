@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5096" NEWID="16057">
+<DATE> 9-APR-1987 18:52:32.99</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2856&#31;reute
+h f BC-DATA-ARCHITECTS-&lt;DRCH   04-09 0052</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DATA ARCHITECTS &lt;DRCH> TO MAKE OFFERING</TITLE>
+<DATELINE>    WALTHAM, Mass, April 9 - </DATELINE><BODY>Data Architects inc said it
+intends to make a public offering of 850,000 shares of its
+common stock, of which 672,000 shares will be sold by the
+company and 178,000 by certain shareholders.
+    Proceeds will be used for general corporate purposes.
+ Reuter
+&#3;</BODY></TEXT>

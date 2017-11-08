@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14559" NEWID="9038">
+<DATE>24-MAR-1987 16:40:00.41</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2541&#31;reute
+r f BC-MONOLITHIC-&lt;MMIC>-TO   03-24 0096</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MONOLITHIC &lt;MMIC> TO DROP GATE ARRAY LINE</TITLE>
+<DATELINE>    SANTA CLARA, Calif., March 24 - </DATELINE><BODY>Monolithic Memories Inc
+said it plans to discontinue marketing its gate array
+integrated circuit product line and focus efforts on the market
+for field-programmable products.
+    It said the current market dynamics will hinder
+profitability in the gate array market for some time.
+    Monolithic also said it does not expect the move to have a
+negative impact on earnings, adding, the company has estimated
+that the gate array products would have contributed only one
+pct of revenues in fiscal 1987.
+ Reuter
+&#3;</BODY></TEXT>

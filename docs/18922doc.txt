@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6673" NEWID="18922">
+<DATE>18-JUN-1987 14:37:00.41</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f4271&#31;reute
+d f BC-TIE/COMMUNICATIONS-&lt;T   06-18 0063</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TIE/COMMUNICATIONS &lt;TIE> RENEWS AGREEMENTS</TITLE>
+<DATELINE>    SHELTON, Conn., June 18 - </DATELINE><BODY>TIE/Communications Inc said it
+has renewed agreements to sell its GTE Corp &lt;GTE>, Bell
+Atlantic Corp &lt;BEL>, NYNEX Corp &lt;NYN> and US West Inc &lt;USW> for
+two years.
+    The company is providing small to mid-siezed key telephone
+systems to GTE and key systems, hybrids and DATA STAR PABX
+systems to the others.
+ Reuter
+&#3;</BODY></TEXT>

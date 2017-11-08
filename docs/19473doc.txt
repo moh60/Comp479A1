@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7309" NEWID="19473">
+<DATE>19-JUN-1987 18:04:05.27</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2563&#31;reute
+r f BC-MAXICARE-&lt;MAXI.O>-END   06-19 0096</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MAXICARE &lt;MAXI.O> ENDS PLANS TO SELL UNIT</TITLE>
+<DATELINE>    BIRMINGHAM, Ala., June 19 - </DATELINE><BODY>Maxicare Health Plans Inc  said
+it ended negotiations to sell Maxicare Alabama L.P. to
+(Complete Health Inc).
+    The companies said last week they had reached agreement in
+principle for Complete Health to purchase the health
+maintenance organization, the largest in Alabama.
+    Maxicare said the terms would not be in the best interests
+of the heatlh care providers who have built the Alabama HMO.   
+ It said it now intends to work with its health care providers
+in Alabama to further develop the HMO.
+ Reuter
+&#3;</BODY></TEXT>

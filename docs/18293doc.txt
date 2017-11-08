@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7738" NEWID="18293">
+<DATE> 2-JUN-1987 16:28:20.82</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2616&#31;reute
+r f BC-DANIEL-&lt;DAN>-UNIT-GET   06-02 0050</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DANIEL &lt;DAN> UNIT GETS PIPELINE CONTRACT</TITLE>
+<DATELINE>    HOUSTON, June 2 - </DATELINE><BODY>Daniel Industries Inc said its
+Measurement and Control Division has been awarded a contract
+valued at about 7.5 mln dlrs by &lt;SPIE Capag S.A.> for metering
+and control systerms for 11 stations on the USSR - Turkey
+Pipeline System Project.
+ Reuter
+&#3;</BODY></TEXT>

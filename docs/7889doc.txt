@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13410" NEWID="7889">
+<DATE>20-MAR-1987 13:58:44.63</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f1965&#31;reute
+r f BC-BANCO-DI-ROMA-UNIT-AR   03-20 0118</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BANCO DI ROMA UNIT ARRANGES EURO-PAPER PROGRAM</TITLE>
+<DATELINE>    LONDON, March 20 - </DATELINE><BODY>Banco di Roma (London branch) has
+arranged a 200 mln dlr nominal Euro-commercial paper program,
+Swiss Bank Corporation International Ltd said as sold dealer.
+    The borrower will be able to issue paper with maturities of
+seven to 365 days in other avialable currencies, such as
+European Currency Units. However, it could not issue sterling
+commercial paper because Bank of England rules prohibit an
+issuer of certificates of deposit to issue paper denominated in
+stg. Banco di Roma (London branch) has a certificate of deposit
+program in the market under which the securities are traded.
+The program will be aimed at end investor placement.
+ Reuter
+&#3;</BODY></TEXT>

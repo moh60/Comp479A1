@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18044" NEWID="1626">
+<DATE> 4-MAR-1987 13:00:23.87</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0107&#31;reute
+r f BC-BORMAN'S-&lt;BRF>-TO-BUY   03-04 0111</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BORMAN'S &lt;BRF> TO BUY SAFEWAY'S UTAH DIVISION</TITLE>
+<DATELINE>    OAKLAND, Calif., March 4 - </DATELINE><BODY>Safeway Stores Inc said it
+agreed to sell the assets and operations of its Salt Lake City
+Division to Borman's Inc under undisclosed terms.
+    The division includes 60 operating supermarkets in five
+states, most of which are in Utah, Idaho and Wyoming, together
+with distribution and manufacturing facilities, Safeway said.
+    It said sales for the division for the year ended January
+three were about 350 mln dlrs.
+    Safeway also said the transaction is subject to Borman's
+ability to obtain financing and to successfully negotiate new
+labor agreements with the various unions involved.
+ Reuter
+&#3;</BODY></TEXT>

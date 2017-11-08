@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="19907" NEWID="21529">
+<DATE>19-OCT-1987 06:22:26.98</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>luxembourg</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM 
+&#22;&#22;&#1;f0437&#31;reute
+u f BC-SWEDISH-EXPORT-CREDIT   10-19 0066</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SWEDISH EXPORT CREDIT TO RAISE 300 MLN LUX FRANCS</TITLE>
+<DATELINE>    LUXEMBOURG, Oct 19 - </DATELINE><BODY>Swedish Export Credit Corp (SEK) is
+raising 300 mln Luxembourg francs through a three year private
+placement, lead manager Banque Generale du Luxembourg SA said.
+    The bullet, non-callable issue carries a coupon of 7-1/2
+pct and is priced at 100-1/4.
+    Payment date is October 28 and coupon date is October 29.
+ REUTER
+&#3;</BODY></TEXT>

@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17195" NEWID="11134">
+<DATE>30-MAR-1987 18:13:23.49</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2747&#31;reute
+w f BC-HARPER-INTERNATIONAL   03-30 0061</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HARPER INTERNATIONAL &lt;HNT> IN ACQUISITION</TITLE>
+<DATELINE>    SAN ANTONIO, Texas, March 30 - </DATELINE><BODY>Harper International Inc
+said it intends to buy the major asset, patents and trade name
+of Demarkus Corp, a designer and installer of process gas
+systems for the soft drink and brewing industries.
+    The purchase price is about 125,000 dlrs.
+    Demarkus' sales were 470,000 dlrs in 1986.
+ Reuter
+&#3;</BODY></TEXT>

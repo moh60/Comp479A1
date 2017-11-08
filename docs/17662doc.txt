@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6000" NEWID="17662">
+<DATE> 1-JUN-1987 13:25:49.21</DATE>
+<TOPICS><D>grain</D><D>wheat</D></TOPICS>
+<PLACES><D>france</D><D>pakistan</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS><D>ec</D></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G
+&#22;&#22;&#1;f1851&#31;reute
+u f BC-ONIC-TENDERS-WEDNESDA   06-01 0077</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ONIC TENDERS WEDNESDAY FOR WHEAT FOR PAKISTAN</TITLE>
+<DATELINE>    PARIS, June 1 - </DATELINE><BODY>The French Cereals Intervention Board
+(ONIC) will tender Wednesday for 20,000 tonnes soft wheat for
+Pakistan under the French food aid programme, an ONIC official
+said.
+    The grain will be shipped between June 15 and July 15.
+    ONIC also will hold a tender June 9 for 65,000 tonnes soft
+wheat under the European Community food aid programme, for
+shipment in bulk during August, the official said.
+ Reuter
+&#3;</BODY></TEXT>

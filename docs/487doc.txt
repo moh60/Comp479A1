@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12670" NEWID="487">
+<DATE> 2-MAR-1987 11:19:06.23</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0929&#31;reute
+u f BC-LOTUS-&lt;LOTS>-INTRODUC   03-02 0051</UNKNOWN>
+<TEXT>&#2;
+<TITLE>LOTUS &lt;LOTS> INTRODUCES NEW SOFTWARE</TITLE>
+<DATELINE>    CAMBRIDGE, Mass., March 2 - </DATELINE><BODY>Lotus Development Corp said it
+has unveiled a new software product, named Galaxy, to
+complement the newly introduced Apple Computer Inc &lt;AAPL>
+Macintosh II and Macintosh SE.
+    Lotus said Galaxy will be formally introduced over the
+summer.
+    Lotus said Galaxy will include Command language and
+dynamically linked modules, unlike any other software product
+currently available for the Macintosh product family, which
+enables the user to execute a series of commands with a single
+learned keystroke.
+                
+ Reuter
+&#3;</BODY></TEXT>

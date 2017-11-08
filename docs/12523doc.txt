@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="1599" NEWID="12523">
+<DATE> 2-APR-1987 09:21:33.27</DATE>
+<TOPICS><D>money-fx</D></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0918&#31;reute
+b f BC-U.K.-MONEY-MARKET-GIV   04-02 0048</UNKNOWN>
+<TEXT>&#2;
+<TITLE>U.K. MONEY MARKET GIVEN 40 MLN STG LATE HELP</TITLE>
+<DATELINE>    LONDON, April 2 - </DATELINE><BODY>The Bank of England said it had provided
+the money market with around 40 mln stg late assistance. This
+takes the Bank's total help today to some 537 mln stg and
+compares with its estimate of a 700 mln stg shortage.
+ REUTER
+&#3;</BODY></TEXT>

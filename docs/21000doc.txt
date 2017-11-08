@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20437" NEWID="21000">
+<DATE>19-OCT-1987 15:38:19.16</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2885&#31;reute
+u f BC-CCR-VIDEO&lt;CCCR.O>-GET   10-19 0073</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CCR VIDEO&lt;CCCR.O> GETS OFFER ON TAKEOVER TALKS</TITLE>
+<DATELINE>    LOS ANGELES, Oct 19 - </DATELINE><BODY>CCR Video Corp said it received an
+offer to enter into negotiations for &lt;Intercep Investment Corp>
+of Vancouver, B.C., to acquire a controlling interest in the
+company through a tender offer.
+    CCR said the negotiations would determine the terms under
+which the CCR board could support an Intercep tender offer.
+    Additional details were not immediately available.
+ Reuter
+&#3;</BODY></TEXT>

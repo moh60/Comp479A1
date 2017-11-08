@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16649" NEWID="1329">
+<DATE> 3-MAR-1987 16:29:42.22</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0919&#31;reute
+r f BC-RIEDEL-ENVIRONMENT-&lt;R   03-03 0096</UNKNOWN>
+<TEXT>&#2;
+<TITLE>RIEDEL ENVIRONMENT &lt;RETI> UNIT GETS EPA CONTRACT</TITLE>
+<DATELINE>    PORTLAND, Ore., March 3 - </DATELINE><BODY>Riedel Environment Technologies
+Inc's subsidiary Riedel Environmental Services Inc &lt;RES>
+received a contract to clean up and remove hazardous substances
+from contaminated sites in 23 states west of the Mississippi
+River.
+    The contract, which could total more than 100 mln dlrs over
+the next four years, is with the Federal Environmental
+Protection Agency, the company said.
+    Among the states covered in the contract are Alaska and
+Hawaii, as well as the Pacific Trust Territories, Riedel said.
+ Reuter
+&#3;</BODY></TEXT>

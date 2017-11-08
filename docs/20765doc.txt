@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="21360" NEWID="20765">
+<DATE>20-OCT-1987 17:12:43.17</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f3338&#31;reute
+w f BC-BERKEY-&lt;BKY>-TO-DISTR   10-20 0051</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BERKEY &lt;BKY> TO DISTRIBUTE DISNEY HOME VIDEOS</TITLE>
+<DATELINE>    GREENWICH, Conn., Oct 20 - </DATELINE><BODY>Berkey Inc said it signed a
+long-term agreement to distribute Walt Disney Co's &lt;DIS> home
+video cassettes.
+    Terms of the agreement were not disclosed.
+    The Walt Disney library currently consists of 18 movies,
+the company said.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="19951" NEWID="21485">
+<DATE>19-OCT-1987 08:35:03.90</DATE>
+<TOPICS><D>crude</D><D>ship</D></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;Y 
+&#22;&#22;&#1;f0812&#31;reute
+f f BC-Unidentified-jets-rai   10-19 0014</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE>Unidentified jets raid Iranian oil platforms in southern Gulf - shipping sources
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

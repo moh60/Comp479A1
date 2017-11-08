@@ -1,0 +1,38 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4602" NEWID="15424">
+<DATE> 9-APR-1987 07:10:53.05</DATE>
+<TOPICS><D>rubber</D></TOPICS>
+<PLACES><D>singapore</D><D>indonesia</D><D>malaysia</D><D>thailand</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;C T
+&#22;&#22;&#1;f0423&#31;reute
+u f BC-MAJOR-RUBBER-PRODUCER   04-09 0118</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MAJOR RUBBER PRODUCERS TO MEET IN SINGAPORE</TITLE>
+<DATELINE>    SINGAPORE, April 9 - </DATELINE><BODY>Officials from Indonesia, Malaysia,
+Singapore and, perhaps, Thailand will meet here tomorrow to
+discuss increased regional cooperation on rubber marketing and
+ways to raise rubber prices, industry sources said.
+    The officials will discuss linking rubber markets in the
+four countries to improve price transparency, the sources said.
+    This is the first time Indonesia is attending such a
+meeting, they said, but representatives from Thailand may not
+be able to attend because of their tight schedule. Malaysia,
+Indonesia and Thailand account for 90 pct of world rubber
+exports and Singapore is a major regional rubber trading
+centre.
+    The Malaysian Rubber Futures market, freighting and
+contracts for rubber are among other issues expected to be
+discussed.
+    Last month, rubber importing and exporting countries
+adopted a new International Natural Rubber Agreement in Geneva.
+The new pact is more responsive to market trends than its
+predecessor, the sources said, and earlier provisions allowing
+the buffer stock to borrow from banks have been eliminated.
+ REUTER
+&#3;</BODY></TEXT>

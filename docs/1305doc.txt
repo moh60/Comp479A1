@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16625" NEWID="1305">
+<DATE> 3-MAR-1987 15:56:51.18</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0830&#31;reute
+r f BC-PHONE-A-GRAM-&lt;PHOG>-N   03-03 0053</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PHONE-A-GRAM &lt;PHOG> NAMES NEW CHAIRMAN</TITLE>
+<DATELINE>    RENO, Nev., March 3 - </DATELINE><BODY>Phone-A-Gram System Inc said it named
+Eugene Mora its Chairman and chief executive officer.
+    Mora succeed Fred Peterson, who resigned.
+    Mora had been president of Victor Temporary Services. He
+has been a member of Phone-A-Gram's board since 1986.
+ Reuter
+&#3;</BODY></TEXT>

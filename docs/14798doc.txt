@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="BYPASS" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="3781" NEWID="14798">
+<DATE> 7-APR-1987 22:18:37.78</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C T
+&#22;&#22;&#1;f2744&#31;reute
+u f BC-kuala-lumpur-rubber-r   04-07 0009</UNKNOWN>
+<TEXT TYPE="UNPROC">&#2;
+Kuala lumpur rubber rss ones open position of april 7
+ nil
+&#3;
+
+</TEXT>

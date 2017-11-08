@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12655" NEWID="472">
+<DATE> 2-MAR-1987 10:54:36.46</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0819&#31;reute
+h f BC-&lt;GENZYME>,-PFIZER-&lt;PF   03-02 0087</UNKNOWN>
+<TEXT>&#2;
+<TITLE>&lt;GENZYME>, PFIZER &lt;PFE> UNIT IN JOINT VENTURE</TITLE>
+<DATELINE>    BOSTON, March 2 - </DATELINE><BODY>Genzyme Corp said it and Howmedica, a
+Rutherford, N.J.-based company owned by Pfizer Inc, have agreed
+to an initial joint research and development program.
+    The company said the venture will focus on using Genzyme's
+proprietary technologies to procued hyaluronic acid-based
+products for use in orthopedic surgery.
+    Hyaluronic acid is a natural water retaining and
+lubricating component in the body's soft tissue, and a key part
+of certain body fluids.
+ Reuter
+&#3;</BODY></TEXT>

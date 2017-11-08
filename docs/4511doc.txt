@@ -1,0 +1,20 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9424" NEWID="4511">
+<DATE>12-MAR-1987 16:12:13.03</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0447&#31;reute
+r f BC-GEN-DYNAMICS-&lt;GD>-GET   03-12 0035</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GEN DYNAMICS &lt;GD> GETS 44.7 MLN DLR CONTRACT</TITLE>
+<DATELINE>    WASHINGTON, March 12 - </DATELINE><BODY>Genral Dynamics Corp has received a
+44.7 mln dlr contract for steam and electric plant development
+for SSN-21 submarines, the Navy said .
+ REUTER
+&#3;</BODY></TEXT>

@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11957" NEWID="7044">
+<DATE>19-MAR-1987 08:22:06.66</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A
+&#22;&#22;&#1;f0648&#31;reute
+r f BC-EX-REAGAN-AIDE-DEAVER   03-19 0113</UNKNOWN>
+<TEXT>&#2;
+<TITLE>EX-REAGAN AIDE DEAVER INDICTED ON PERJURY CHARGES</TITLE>
+<DATELINE>    WASHINGTON, March 19 - </DATELINE><BODY>Former White House aide Michael
+Deaver, a long-time confidant of President Reagan, has been
+indicted on charges of lying about his contacts as a Washington
+lobbyist with top U.S. Government officials.
+    The five-count perjury indictment charged that Deaver lied
+in sworn testimony to Congress and before the grand jury
+investigating his business affairs.
+    Deaver, who resigned as deputy White House chief of staff
+in 1985 to open a lobbying firm, faces a maximum penalty of 25
+years in prison if convicted. Immediately after the indictment
+was announced Reagan issued a statement wishing Deaver well.
+ Reuter
+&#3;</BODY></TEXT>

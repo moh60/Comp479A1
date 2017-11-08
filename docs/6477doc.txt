@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11389" NEWID="6477">
+<DATE>18-MAR-1987 09:59:14.28</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F
+&#22;&#22;&#1;f7933&#31;reute
+r f BC-canamax-to-acquire   03-18 0085</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CANAMAX TO ACQUIRE KREZMAR GOLD PROPERTY STAKE</TITLE>
+<DATELINE>    TORONTO, March 18 - </DATELINE><BODY>&lt;Canamax Resources Inc> said it agreed
+to acquire the 50 pct interest it does not already own in the
+Krezmar gold property, near Wawa, Ontario, by paying nine mln
+dlrs to &lt;Algoma Steel Corp Ltd> and granting Algoma a four pct
+net smelter return royalty, which is payable after payback.
+    The property's drill indicated reserves to a depth of 1,200
+feet are estimated at over one mln tons averaging 0.25 ounces
+of gold a ton, Canamax said.
+ Reuter
+&#3;</BODY></TEXT>

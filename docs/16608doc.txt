@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1143" NEWID="16608">
+<DATE>13-APR-1987 15:14:59.56</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2336&#31;reute
+r f BC-WILLAMETTE-INDUSTRIES   04-13 0045</UNKNOWN>
+<TEXT>&#2;
+<TITLE>WILLAMETTE INDUSTRIES &lt;WMTT> 4TH QTR NET</TITLE>
+<DATELINE>    PORTLAND, Ore., April 13 -
+    </DATELINE><BODY>Shr 90 cts vs 30 cts
+    Net 22.9 mln vs 7,567,000
+    Sales 323.0 mln vs 272.1 mln
+    Note: per share figures reflect April 25, 1986
+five-to-three stock split. Full year figures not available.
+ Reuter
+&#3;</BODY></TEXT>

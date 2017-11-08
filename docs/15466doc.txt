@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5364" NEWID="15466">
+<DATE> 9-APR-1987 08:27:59.63</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0634&#31;reute
+r f BC-TRANSCAPITAL-&lt;TFC>-UN   04-09 0113</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TRANSCAPITAL &lt;TFC> UNIT CLOSING 12 OFFICES</TITLE>
+<DATELINE>    CLEVELAND, April 9 - </DATELINE><BODY>TransCapital Financial Corp's
+TRANSOHIO Savings Bank subsidiary said it plans to close 11
+offices in the Cleveland area and one in Columbus, Ohio,
+reducing its total number of offices to 81 statewide.
+    The company said accounts will be moved into other
+TRANSOHIO offices.  Four closings are set for May 23 and four
+for June 20 and the rest are tentatively set for September 19.
+    It said it is closing branches were overlaps exist
+following its August 1986 acquisitions of Citizens Federal
+Savings and Loan Association of Cleveland and Dollar Savings
+Bank of Columbus or where efficiencies could be improved.
+ Reuter
+&#3;</BODY></TEXT>

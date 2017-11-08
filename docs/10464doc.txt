@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15984" NEWID="10464">
+<DATE>27-MAR-1987 11:04:50.52&#5;&#5;&#5;V RM</DATE>
+<UNKNOWN>&#22;&#22;&#1;f1140&#31;reute</UNKNOWN>
+<TOPICS><D>interest</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+b f BC-/-FED-EXPECTED-TO-ADD   03-27 0073</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FED EXPECTED TO ADD RESERVES, ECONOMISTS SAY</TITLE>
+<DATELINE>    NEW YORK, March 27 - </DATELINE><BODY>The Federal Reserve is expected to
+enter the U.S. government securities market to add reserves
+today, economists said.
+    They said the Fed would probably supply temporary reserves
+indirectly by arranging one to two billion dlrs of customer
+repurchase agreements.
+    After averaging 6.21 pct yesterday, federal funds were
+opened at 6-1/8 pct and remained at that level.
+ Reuter
+&#3;</BODY></TEXT>

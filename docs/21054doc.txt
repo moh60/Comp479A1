@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20383" NEWID="21054">
+<DATE>19-OCT-1987 14:51:26.65</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2670&#31;reute
+r f BC-KING-WORLD-&lt;KWP>-SAYS   10-19 0049</UNKNOWN>
+<TEXT>&#2;
+<TITLE>KING WORLD &lt;KWP> SAYS SHOW EXTENDED</TITLE>
+<DATELINE>    NEW YORK, Oct 19 - </DATELINE><BODY>King World Productions Inc said its
+syndicated television series "The Oprah Winfrey Show" has been
+extended through the 1989-90 broadcast season.
+    It said six of the top 10 markets have renewed the series
+through the end of the decade.
+ Reuter
+&#3;</BODY></TEXT>

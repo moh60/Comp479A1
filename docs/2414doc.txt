@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18831" NEWID="2414">
+<DATE> 5-MAR-1987 15:48:25.53</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0672&#31;reute
+r f BC-MANOR-CARE-INC-&lt;MNR>   03-05 0064</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MANOR CARE INC &lt;MNR> CHAIRMAN RESIGNS</TITLE>
+<DATELINE>    SILVER SPRING, Md., March 5 - </DATELINE><BODY>Manor Care Inc said its
+chairman and chief executive officer, Stewart Bainum Sr., has
+resigned his post.
+    The company said he is being replaced by his son, Stewart
+Bainum Jr., who has served as vice chairman the past five
+years.
+    Bainum Sr. was the founder of Manor Care, a nursing home
+and hotel operator.
+ Reuter
+&#3;</BODY></TEXT>

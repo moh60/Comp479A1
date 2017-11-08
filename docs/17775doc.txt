@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6113" NEWID="17775">
+<DATE> 1-JUN-1987 15:48:06.12</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2324&#31;reute
+b f BC-FORSTMANN-LITTLE-AND   06-01 0108</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FORSTMANN LITTLE AND CO TO SELL UNIT</TITLE>
+<DATELINE>    NEW YORK, June 1 - </DATELINE><BODY>&lt;Forstman Little and Co> said it plans
+to sell its Sybron Corp unit, a leading maker and marketer of
+dental and laboratory products, for an undisclosed sum.
+    Forstmann Little said it acquired Sybron in February 1986
+and since that time Sybron has been substantially restructured,
+with new management, lower corporate overhead and a new
+location in Saddle Brook, N.J.
+    Fortsmann Little said &lt;Goldman Sachs and Co> will act as
+its financial advisor for the move. It added that Sybron
+expects revenues for the current fiscal year of 242 mln dlrs
+with operating income of about 51 mln dlrs.
+ Reuter
+&#3;</BODY></TEXT>

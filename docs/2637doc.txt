@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19055" NEWID="2637">
+<DATE> 6-MAR-1987 11:04:43.18</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>amex</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0430&#31;reute
+b f BC-HAWKER-SIDDELEY-OFFER   03-06 0062</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HAWKER SIDDELEY OFFER FOR CLAROSTAT &lt;CLR> ENDS</TITLE>
+<DATELINE>    NEW YORK, March 6 - </DATELINE><BODY>&lt;Hawker Siddeley Group PLC>'s offer of
+74 dlrs a share for all of Clarostat Mfg Co Inc's stock was
+scheduled to expire at 2400 EST yesterday.
+    Company officials were unavailable for comment as to why
+the American Stock Exchange had stopped trading in Clarostat's
+stock for a pending news announcement.
+ Reuter
+&#3;</BODY></TEXT>

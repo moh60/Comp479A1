@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19543" NEWID="3121">
+<DATE> 9-MAR-1987 10:54:10.70</DATE>
+<TOPICS><D>money-fx</D><D>interest</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;V RM
+&#22;&#22;&#1;f0410&#31;reute
+b f BC-/-FED-EXPECTED-TO-ADD   03-09 0097</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FED EXPECTED TO ADD TEMPORARY RESERVES</TITLE>
+<DATELINE>    NEW YORK, March 9 - </DATELINE><BODY>The Federal Reserve is expected to
+intervene in the government securities market to add temporary
+reserves via customer repurchase agreements, economists said.
+    Most economists said the Fed will add 1.5 to two billion
+dlrs of temporary reserves via customer repurchase agreements,
+but some said there is a slim chance the Fed will inject
+permanent reserves via three-day system repurchase agreements.
+    Federal funds opened at 6-1/16 pct and firmed to 6-1/8 pct
+in early trading. Funds averaged six pct on Friday.
+ Reuter
+&#3;</BODY></TEXT>

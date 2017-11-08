@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18522" NEWID="2104">
+<DATE> 5-MAR-1987 10:48:33.34</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0405&#31;reute
+b f BC-MAY-&lt;MA>-FEBRUARY-RET   03-05 0043</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MAY &lt;MA> FEBRUARY RETAIL SALES INCREASE</TITLE>
+<DATELINE>    ST. LOUIS, March 5 - </DATELINE><BODY>May Department Stores Co said its
+sales for the four weeks ended February 28 rose 15 pct to 631.8
+mln dlrs from 549.5 mln dlrs a year ago.
+    On a comparable-store basis, it was a 9.4 pct gain.
+ Reuter
+&#3;</BODY></TEXT>

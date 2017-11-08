@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14782" NEWID="9261">
+<DATE>25-MAR-1987 09:11:08.30</DATE>
+<TOPICS><D>money-fx</D><D>interest</D></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0823&#31;reute
+b f BC-U.K.-MONEY-MARKET-SUR   03-25 0047</UNKNOWN>
+<TEXT>&#2;
+<TITLE>U.K. MONEY MARKET SURPLUS REVISED TO 250 MLN STG</TITLE>
+<DATELINE>    LONDON, March 25 - </DATELINE><BODY>The Bank of England said it revised up
+its forecast of today's surplus in the money markets to 250 mln
+stg from its earlier estimate of a 150 mln.
+    The central bank has not operated in the market today.
+ REUTER
+&#3;</BODY></TEXT>

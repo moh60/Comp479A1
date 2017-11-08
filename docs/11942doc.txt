@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="170" NEWID="11942">
+<DATE> 1-APR-1987 10:13:47.51</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;A RM
+&#22;&#22;&#1;f1020&#31;reute
+r f BC-SOUTHEAST-BANKING-&lt;ST   04-01 0085</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SOUTHEAST BANKING &lt;STB> FILES FOR NOTE OFFERING</TITLE>
+<DATELINE>    NEW YORK, April 1 - </DATELINE><BODY>Southeast Banking Corp said it filed
+with the Securities and Exchange Commission a registration
+statement covering a 50 mln dlr issue of convertible
+subordinated capital notes due 1999.
+    The notes are designed to qualify as primary capital for
+Federal Reserve Board regulatory purposes, the bank said.  It
+will apply to list the notes on the New York Stock Exchange.
+    The company named Lazard Freres and Co as lead manager of
+the deal.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18582" NEWID="2164">
+<DATE> 5-MAR-1987 11:27:15.14</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0628&#31;reute
+d f BC-ENVIROPACT-&lt;VIRO>-ADD   03-05 0051</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ENVIROPACT &lt;VIRO> ADDS TWO FACILITIES</TITLE>
+<DATELINE>    MIAMI, March 5 - </DATELINE><BODY>Enviropact Inc said it purchased two
+facilities in Miami and Tampa, Fla.
+    In Miami, its said it bought a 1.9 acre lot with a 12,500
+square foot facility for 545,000 dlrs. In Tampa, it said it
+bought a 13,000 square foot facility for 440,000 dlrs.
+ Reuter
+&#3;</BODY></TEXT>

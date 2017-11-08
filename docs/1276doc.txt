@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16596" NEWID="1276">
+<DATE> 3-MAR-1987 15:37:38.08</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0742&#31;reute
+h f BC-AMERICAN-AIRCRAFT-BUY   03-03 0099</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AMERICAN AIRCRAFT BUYS INTO HELICOPTER BUILDER</TITLE>
+<DATELINE>    SAN FRANCISCO, March 3 - </DATELINE><BODY>&lt;American Aircraft Corp> said it
+has acquired a 51 pct interest in privately-owned &lt;Hunter
+Helicopter of Nevada Inc> for an undisclosed amount of stock.
+    An American Aircraft official said the company has an
+option to acquire the remaining 49 pct.
+    Hunter Helicopter is in the business of building a two
+passenger helicopter retailing for about 50,000 dlrs each which
+is certified by the Federal Aviation Administration. The
+helicopters will be manufactured in American Aircraft's Uvalde,
+Texas, plant, it added.
+ Reuter
+&#3;</BODY></TEXT>

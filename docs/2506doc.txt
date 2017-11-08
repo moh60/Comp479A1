@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18924" NEWID="2506">
+<DATE> 5-MAR-1987 17:33:36.93</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0996&#31;reute
+r f BC-GOULD-&lt;GLD>-REGISTERS   03-05 0097</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GOULD &lt;GLD> REGISTERS TO OFFER PREFERRED</TITLE>
+<DATELINE>    ROLLING MEADOWS, Ill., March 5 - </DATELINE><BODY>Gould Inc said it
+registered to offer two mln shares of convertible exchangeable
+preferred stock.
+    Gould said the proposed new issue will be underwritten by
+First Boston Corp and Kidder, Peabody and Co Inc.
+    In a registration statement filed with the Securities and
+Exchange Commission, Gould said the shares will be convertible
+at any time into Gould common.
+    The shares also will be exchangeable into Gould convertible
+subordinated debentures at a rate of 50 dlrs principal amount
+per debenture.
+ Reuter
+&#3;</BODY></TEXT>

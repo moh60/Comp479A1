@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19117" NEWID="2699">
+<DATE> 6-MAR-1987 12:01:19.43</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0675&#31;reute
+d f BC-FIRST-WOMEN'S-BANK-IN   03-06 0064</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FIRST WOMEN'S BANK INVESTOR GROUP OFFER EXPIRES</TITLE>
+<DATELINE>    NEW YORK, March 6 - </DATELINE><BODY>The investor group owning about 42 pct
+of the outstanding capital stock of &lt;The First Women's Bank>
+said a cash tender offer for the bank's remaining outstanding
+shares at 11 dlrs per share expired on March three.
+    The investors said about 132,000 shares, or about 20 pct of
+the outstanding, had been tendered.
+ Reuter
+&#3;</BODY></TEXT>

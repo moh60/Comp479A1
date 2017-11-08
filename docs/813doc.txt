@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12996" NEWID="813">
+<DATE> 2-MAR-1987 17:11:30.91</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0179&#31;reute
+d f BC-ATT-&lt;ATT>-GETS-57.3-M   03-02 0037</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ATT &lt;ATT> GETS 57.3 MLN DLR CONTRACT</TITLE>
+<DATELINE>    WASHINGTON, March 2 - </DATELINE><BODY>American Telephone and Telegraph Co
+has received a 57.3 mln dlr contract to develop laboratory
+equipment for an Enhanced Modular Signal Processor, the Navy
+said.
+ reuter
+&#3;</BODY></TEXT>

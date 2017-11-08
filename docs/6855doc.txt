@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11768" NEWID="6855">
+<DATE>18-MAR-1987 16:53:57.20</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f9526&#31;reute
+r f BC-WICKES-COMPANIES-&lt;WIX   03-18 0056</UNKNOWN>
+<TEXT>&#2;
+<TITLE>WICKES COMPANIES &lt;WIX> COMPLETES SALE OF UNIT</TITLE>
+<DATELINE>    SANTA MONICA, Calif., March 18 - </DATELINE><BODY>Wickes Companies Inc said
+it completed the sale of its Sequoia Supply division to a new
+company created by the management of that division.
+    Paul Hylbert, president of Sequoia, has been named
+president and chief executive officer of the new company.
+ Reuter
+&#3;</BODY></TEXT>

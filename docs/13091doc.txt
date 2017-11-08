@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="2060" NEWID="13091">
+<DATE> 3-APR-1987 15:18:38.17</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2108&#31;reute
+u f BC-IBM-SECRETARY-J   04-03 0096</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CORRECTED - IBM &lt;IBM> NEWLY NAMED SECRETARY DIES</TITLE>
+<DATELINE>    ARMONK, N.Y., April 3 - </DATELINE><BODY>International Business Machines
+Corp said recently elected secretary, John Manningham, and his
+wife, Patricia, died early this morning in a fire at their
+Ridgefield, Conn home.
+    Manningham, 53, began his IBM career in 1959 as a marketing
+representative. His election would have been effective July 1.
+    Tom Irwin is the current secretary.
+    IBM Chairman John Akers said "this is a great loss to IBM
+and to the Manningham's family, friends and community.
+(corrects spelling of town in line five)
+ Reuter
+&#3;</BODY></TEXT>

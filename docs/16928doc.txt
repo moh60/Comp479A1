@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1463" NEWID="16928">
+<DATE>17-APR-1987 17:48:22.76</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>argentina</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;RM A V
+&#22;&#22;&#1;f0462&#31;reute
+u f AM-trials 4thld  04-17 0085</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ARGENTINE TROOPS END UPRISING</TITLE>
+<DATELINE>    BUENOS AIRES, April 17 - </DATELINE><BODY>Rebellious troops in the central
+city of Cordoba called off an uprising against President Raul
+Alfonsin's government, the army command said.
+    Congressional leaders said that it would probably not be
+necessary therefore to declare a state of siege.
+     Military officers earlier said army units in Buenos Aires
+and Misiones provinces had supported the Cordoba regiment, the
+focal point of the uprising. The troops were objecting to human
+rights trials.
+ Reuter
+&#3;</BODY></TEXT>

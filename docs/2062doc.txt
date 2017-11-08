@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18479" NEWID="2062">
+<DATE> 5-MAR-1987 10:21:29.06</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0258&#31;reute
+u f BC-J.C.-PENNEY-&lt;JCP>-FEB   03-05 0069</UNKNOWN>
+<TEXT>&#2;
+<TITLE>J.C. PENNEY &lt;JCP> FEBRUARY SALES 5.3 PCT</TITLE>
+<DATELINE>    NEW YORK, March 5 - </DATELINE><BODY>J.C. Penney co Inc said sales for the
+four weeks ended February 28 for its JCPenney stores and
+catalogs were up 5.3 pct to 780 mln dlrs from 741 mln dlrs a
+year earlier, with comparable store sales up 5.5 pct.
+    The company said total company sales for the period were up
+6.0 pct to 888 mln dlrs from 838 mln dlrs, with same-store
+sales up 6.3 pct.
+ Reuter
+&#3;</BODY></TEXT>

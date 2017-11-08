@@ -1,0 +1,32 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13192" NEWID="7671">
+<DATE>20-MAR-1987 10:04:05.89</DATE>
+<TOPICS><D>gas</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0946&#31;reute
+r f BC-SONEX-RESEARCH-&lt;SONX>   03-20 0098</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SONEX RESEARCH &lt;SONX> CUSTOM AUTO USES MORE GAS</TITLE>
+<DATELINE>    ANNAPOLIS, Md., March 20 - </DATELINE><BODY>Sonex Research Inc said its
+modified 1986 British Ford Escort passed the European emissions
+test, but reported the engine consumed 35 pct more fuel than
+the stock engine.
+    Sonex said its engine is not equipped with a catalytic
+converter and does not use exhaust gas recirculation or an
+emission air pump. It said the company expected to realize a
+reduced fuel economy, but is working on improving fuel
+consumption.
+    The company said after it installs the new fuel system, it
+will retest the automobile.
+    In a separate announcement, the company said it received
+confirmation from the European Patent Office that Sonex
+successfully defended its BETA European Patent from a
+competitor.
+ Reuter
+&#3;</BODY></TEXT>

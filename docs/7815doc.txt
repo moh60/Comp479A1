@@ -1,0 +1,35 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13336" NEWID="7815">
+<DATE>20-MAR-1987 12:39:00.85</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>cbt</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1670&#31;reute
+r f BC-CBT-HITS-CFTC'S-FOREI   03-20 0091</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CBT HITS CFTC'S FOREIGN FUTURES PROPOSALS</TITLE>
+<DATELINE>    BOCA RATON, Fla, March 20 - </DATELINE><BODY>Proposed federal regulations
+governing the sale of foreign futures and options contracts to
+U.S. citizens would strap U.S. exchanges, an official of the
+Chicago Board of Trade, CBT, said.
+    Frederick Grede, CBT vice president of administration and
+planning, told the Futures Industry Association that rules
+proposed by the Commodity Futures Trading Commission, CFTC,
+would "handicap the ability of U.S. exchanges and futures
+commission merchants to compete internationally."
+    The CFTC rules generally would require additional
+registration and disclosure.
+    Grede said that speculative positions, hedging and
+aggregation do not exist on most overseas exchanges, and that
+the regulations would impose onerous requirements relating to
+the segregation of customer funds.
+    CFTC Chairman Susan Phillips, acknowledging that the
+proposal was "controversial," said the commission would
+consider revising the proposals.             
+ Reuter
+&#3;</BODY></TEXT>

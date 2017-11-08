@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16563" NEWID="1243">
+<DATE> 3-MAR-1987 14:58:33.67</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0619&#31;reute
+d f BC-INTERNATIONAL-TECHNOL   03-03 0070</UNKNOWN>
+<TEXT>&#2;
+<TITLE>INTERNATIONAL TECHNOLOGY &lt;ITX> MAKES ACQUISITION</TITLE>
+<DATELINE>    TORRANCE, Calif., March 3 - </DATELINE><BODY>International Technology Corp
+said it has purchased &lt;Western Emergency Services Inc> in a
+pooling-of-interests transaction.
+    International Technology, a hazardous materials management
+company, said it purchased Western Emergency, an environmental
+services firm, to offer a broader range of environmental
+services to the Gulf Coast area.
+ Reuter
+&#3;</BODY></TEXT>

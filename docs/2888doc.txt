@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19306" NEWID="2888">
+<DATE> 6-MAR-1987 16:41:43.66</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0597&#31;reute
+r f BC-KNIGHT-RIDDER-&lt;KRI>-J   03-06 0077</UNKNOWN>
+<TEXT>&#2;
+<TITLE>KNIGHT-RIDDER &lt;KRI> JANUARY REVENUES RISE</TITLE>
+<DATELINE>    MIAMI, March 6 - </DATELINE><BODY>Knight-Ridder Inc said its newspaper
+advertising revenues for the month of January rose 9.1 pct to
+105.1 mln dlrs from 96.3 mln dlrs a year earlier.
+    It said January broadcasting revenues rose 48.8 pct to 6.8
+mln dlrs from a year ago, but include the results of three
+stations absent in the prior year period. Business Information
+Services revenues rose 5.9 pct to 7.2 mln dlrs, the company
+said.
+ Reuter
+&#3;</BODY></TEXT>

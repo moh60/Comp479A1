@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12919" NEWID="736">
+<DATE> 2-MAR-1987 15:43:03.73</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0929&#31;reute
+u f BC-JWT-&lt;JWT>-NOT-APPROAC   03-02 0102</UNKNOWN>
+<TEXT>&#2;
+<TITLE>JWT &lt;JWT> NOT APPROACHED BY GROUP SEEKING SHARES</TITLE>
+<DATELINE>    NEW YORK, March 2 - </DATELINE><BODY>JWT Group Inc has not been approached
+by former Ted Bates Worldwide Chairman Robert Jacoby about the
+possibility of a syndicate buying a 35 pct stake in JWT Group
+on a friendly basis, a company spokesman said.
+    He said JWT would have no comment on an Advertising Age
+report that Jacoby is considering heading up a venture capital
+syndicate to purchase a 35 pct stake in JWT group.
+    Jacoby was not immediately available for comment on the
+report. Ted Bates is now owned by &lt;Saatchi and Saatchi>, the
+world's largest advertising agency.
+ Reuter
+&#3;</BODY></TEXT>

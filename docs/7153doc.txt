@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12066" NEWID="7153">
+<DATE>19-MAR-1987 10:59:26.80</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1179&#31;reute
+r f BC-N.C.-FEDERAL-SAVINGS   03-19 0066</UNKNOWN>
+<TEXT>&#2;
+<TITLE>N.C. FEDERAL SAVINGS &lt;NCFS> ELECTS OFFICERS</TITLE>
+<DATELINE>    CHARLOTTE, N.C., March 19 - </DATELINE><BODY>North Carolina Savings and Loan
+Association elected J. Graham Harwood its chairman, and R.
+Martin Hall its president and chief operating officer.
+    The company said the chairman's post has been vacant two
+and a half years.
+    It also said Harwood, who was president, would retain his
+chief executive officer's position.
+ Reuter
+&#3;</BODY></TEXT>

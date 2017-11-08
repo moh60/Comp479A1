@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5833" NEWID="17495">
+<DATE> 1-JUN-1987 08:55:45.31</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0811&#31;reute
+r f BC-GENETECH-&lt;GENE.O>-SEE   06-01 0096</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GENETECH &lt;GENE.O> SEES FDA APPROVAL OF DRUG</TITLE>
+<DATELINE>    SOUTH SAN FRANCISCO, June 1 - </DATELINE><BODY>Genetech Inc said it still
+remains confident that it will be able to work with the U.S.
+Food and Drug Adminstration to obtain approval of its tissue
+plasminogen activator Activase for use in treating heart attack
+victims.
+    On Friday an advisory committee of the FDA recommended that
+the blood clot dissolving drug not be approved until additional
+mortality data be developed.
+    Genetech said it will provide the additional data and
+believes that much if not all of it is already being developed.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4757" NEWID="15579">
+<DATE> 9-APR-1987 10:40:26.19</DATE>
+<TOPICS><D>interest</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;RM A
+&#22;&#22;&#1;f1122&#31;reute
+r f BC-FREDDIE-MAC-ADJUSTS-S   04-09 0043</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FREDDIE MAC ADJUSTS SHORT-TERM DISCOUNT RATES</TITLE>
+<DATELINE>    WASHINGTON, April 9 - </DATELINE><BODY>The Federal Home Loan Mortgage Corp
+adjusted the rates on its short-term discount notes as follows:
+   MATURITY   RATE       OLD RATE  MATURITY
+    33 days   6.00 pct   6.00 pct  33 days
+  
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17481" NEWID="11419">
+<DATE>31-MAR-1987 11:39:42.52</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1592&#31;reute
+r f BC-W.R.-GRACE-&lt;GRA>-UNIT   03-31 0079</UNKNOWN>
+<TEXT>&#2;
+<TITLE>W.R. GRACE &lt;GRA> UNIT BEGINS PLANT EXPANSION</TITLE>
+<DATELINE>    NEW YORK, March 31 - </DATELINE><BODY>W.R. Grace and Co said its European
+Darex division has started constuction to double capacity at
+its fluid cracking catalyst plant in Worms, West Germany.
+    The expansion is expected to cost approximately 20 mln
+dlrs, it said.
+    The expansion is in response to demand for these catalysts
+in Europe and the Middle East. Completion of the project is
+scheduled for the middle of 1988, the company said.
+&#3;</BODY></TEXT>

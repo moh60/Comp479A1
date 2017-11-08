@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14648" NEWID="9128">
+<DATE>25-MAR-1987 00:25:01.95</DATE>
+<TOPICS><D>money-fx</D><D>dlr</D></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0004&#31;reute
+f f BC-Bank-of-Japan-keeps-i   03-25 0012</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE>Bank of Japan keeps intervening to hold dollar above 149 yen, brokers
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

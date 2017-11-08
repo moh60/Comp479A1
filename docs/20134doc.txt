@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20729" NEWID="20134">
+<DATE>20-OCT-1987 08:58:09.25</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f0883&#31;reute
+d f BC-PIONEER-COMMUNICATION   10-20 0097</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PIONEER COMMUNICATIONS &lt;SOAP.O> DROPS NEW TITLES</TITLE>
+<DATELINE>    ROCKY HILL, Conn., Oct 20 - </DATELINE><BODY>Pioneer Communications Network
+Inc said it has temporarily suspended printing new titles for
+its Soaps and Serials line of paperback books and will now
+print only those titles that have demonstrated a profitable
+sales history.
+    It said it will no longer sell the entire Soaps and Serials
+line as a unit but will take orders for individual titles.
+    The company said it currently has enough licensor-approved
+manuscripts to provide, after publication, for at least six
+months of retail operations.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9720" NEWID="4807">
+<DATE>13-MAR-1987 09:59:16.72</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>netherlands</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0952&#31;reute
+d f BC-KLM-SEEKS-STAKE-IN-BR   03-13 0111</UNKNOWN>
+<TEXT>&#2;
+<TITLE>KLM SEEKS STAKE IN BRITISH COURIER SERVICE</TITLE>
+<DATELINE>    AMSTERDAM, March 13 - </DATELINE><BODY>KLM Royal Dutch Airlines &lt;KLM.AS>
+said it is negotiating for a minority stake in a British and
+Commonwealth Shipping Plc &lt;BCOM.L> courier service in a
+transaction which might include a convertible loan issue.
+    KLM, already active in the fast growing door-to-door
+delivery market through a 50-pct stake in a Dutch courier
+service, is seeking to buy one-third of &lt;IML Air Services Group
+Ltd> from British and Commonwealth.
+    The two companies agreed earlier this month for KLM to take
+a 15-pct stake in British and Commonwealth commuter airline Air
+U.K. Ltd in a deal worth around two mln stg.
+ Reuter
+&#3;</BODY></TEXT>

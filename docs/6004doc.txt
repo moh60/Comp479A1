@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10917" NEWID="6004">
+<DATE>17-MAR-1987 11:03:32.29</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f5283&#31;reute
+r f BC-DITTLER-BROTHERS-SEEK   03-17 0098</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DITTLER BROTHERS SEEK LOTTERY INVESTIGATIONS</TITLE>
+<DATELINE>    ATLANTA, March 17 - </DATELINE><BODY>Dittler Brothers called for
+investigations by the attorneys general of 24 states in
+connection with possible violation of state lottery laws by
+Bally Manufacturing Corp &lt;BLY> and its subsidiary, Scientific
+Games.
+    Dittler Brothers said it requested the states' law
+enforcement chiefs to investigate the companies following last
+week's determination by a court-appointed auditor that
+Scientific furnished erroneous information to those 24 state
+lottery officials.
+    The states named are spread throughout the country.
+ Reuter
+&#3;</BODY></TEXT>

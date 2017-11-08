@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10302" NEWID="5389">
+<DATE>16-MAR-1987 10:48:22.20</DATE>
+<TOPICS><D>cpi</D></TOPICS>
+<PLACES><D>france</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f2306&#31;reute
+b f BC-FRENCH-INFLATION-SLOW   03-16 0114</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FRENCH INFLATION SLOWS IN FEBRUARY</TITLE>
+<DATELINE>    PARIS, March 16 - </DATELINE><BODY>French inflation slowed in February to
+between 0.1 and 0.2 pct against 0.9 pct in January, the
+National Statistics Institute (INSEE) said.
+    The retail price index showed a year-on-year rise of 3.4
+pct against three pct in January. An INSEE official said the
+final figure for February would be released later this month.
+    After January's rise the government was forced to revise
+its inflation target for 1987 to 2.5 pct year on year from an
+initial target of two pct, after 2.1 pct in 1986.
+    Finance Minister Edouard Balladur said half the January
+rise was due to higher oil prices and forecast a February
+slowing.
+ REUTER
+&#3;</BODY></TEXT>

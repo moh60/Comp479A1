@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="1497" NEWID="12421">
+<DATE> 2-APR-1987 04:38:02.81</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0330&#31;reute
+f f BC-Bayer-world-group-198   04-02 0014</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE>Bayer world group 1986 pre-tax profit 3.30 billion marks (3.15 billion) - official
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7709" NEWID="18264">
+<DATE> 2-JUN-1987 15:45:29.49</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2504&#31;reute
+h f BC-ROCKWELL-&lt;ROK>,-U-S-W   06-02 0084</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ROCKWELL &lt;ROK>, U S WEST &lt;USW> UNIT IN PACT</TITLE>
+<DATELINE>    CHICAGO, June 2 - </DATELINE><BODY>Rockwell International Corp said it and U
+S West Knowledge Engineering Inc, a U S West Inc subsidiary,
+agreed to jointly develop an operator workstation that combines
+voice and data capabilities for directory assistance, call
+intercept and other operator functions in a single terminal.
+    It said the systems will be offered as integrated elements
+of Rockwell's telephone- company-oriented ISS-3000 Automatic
+Call Distribution switches.
+
+ Reuter
+&#3;</BODY></TEXT>

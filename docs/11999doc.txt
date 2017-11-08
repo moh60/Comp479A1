@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="227" NEWID="11999">
+<DATE> 1-APR-1987 11:03:17.39</DATE>
+<TOPICS><D>acq</D><D>strategic-metal</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1285&#31;reute
+r f BC-MOUNTAIN-STATES-&lt;MTSR   04-01 0091</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MOUNTAIN STATES &lt;MTSR> ADDES TWO PROPERTIES</TITLE>
+<DATELINE>    SALT LAKE CITY, April 1 - </DATELINE><BODY>Mountain States Resources Corp
+said it acquired two properties to its strategic minerals
+holdings.
+    The acquisitions bring to its land position a total of
+5,100 acres of titanium, zirconium and rare earth resources,
+the company said.
+    Both properties, located in southern Utah, consist of
+approximately 1,430 acres of unpatented mining claims and one
+state lease, it said.
+    The company also announced the formation of Rare Tech
+Minerals Inc, a wholly-owned subsidiary.
+ Reuter
+&#3;</BODY></TEXT>

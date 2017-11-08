@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17157" NEWID="11096">
+<DATE>30-MAR-1987 16:54:56.48</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2604&#31;reute
+h f BC-HYBRITECH-&lt;HYBR>-ASKS   03-30 0080</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HYBRITECH &lt;HYBR> ASKS FOR REVIEW OF ITS PATENT</TITLE>
+<DATELINE>    SAN DIEGO, CALIF., March 30 - </DATELINE><BODY>Hybritech Inc said the U.S.
+Supreme Court denied a petition by Monoclonal Antibodies Inc
+asking the court to review the validity of a Hybritech patent.
+    The patent covers a method of using monoclonal antibodies
+in certain immunoassay tests to detect and monitor conditions
+such as pregnancy, cancer and infectious disease.
+    Hybritech sued Monoclonal in March 1984 for infringement of
+its patent.
+ Reuter
+&#3;</BODY></TEXT>

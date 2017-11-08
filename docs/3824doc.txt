@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="8737" NEWID="3824">
+<DATE>11-MAR-1987 13:27:45.64</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0112&#31;reute
+d f BC-I.I.S.-INTELLIGENT-&lt;I   03-11 0062</UNKNOWN>
+<TEXT>&#2;
+<TITLE>I.I.S. INTELLIGENT &lt;IISLF> IN TEXTRON &lt;TXT> DEAL</TITLE>
+<DATELINE>    NEW YORK, March 11 - </DATELINE><BODY>I.I.S. Intelligent Information Systems
+Ltd said it has received received and completed delivery on an
+order worth over 700,000 dlrs to supply Textron Inc's Bell
+Helicopter Textron Inc unit with leased International Business
+Machines Corp &lt;IBM> 3270 and 3191 plug-compatible work stations
+and printers.
+ Reuter
+&#3;</BODY></TEXT>

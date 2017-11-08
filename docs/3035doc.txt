@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19453" NEWID="3035">
+<DATE> 9-MAR-1987 09:17:04.78</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0001&#31;reute
+f f BC-Chrysler-to-take-over   03-09 0012</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE> Chrysler to take over Renault stake in American Motors, says Renault
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

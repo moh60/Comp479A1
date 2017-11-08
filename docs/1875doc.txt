@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18293" NEWID="1875">
+<DATE> 4-MAR-1987 18:32:28.86</DATE>
+<TOPICS><D>crude</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;Y
+&#22;&#22;&#1;f0056&#31;reute
+r f BC-SOUTHLAND-&lt;SLC>-UNIT   03-04 0088</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SOUTHLAND &lt;SLC> UNIT RAISES CRUDE PRICES</TITLE>
+<DATELINE>    NEW YORK, March 4 - </DATELINE><BODY>Southland Corp's Citgo Petrleum Corp
+said it raised the contract price it will pay for all grades of
+crude oil by one dlr a barrel, effective today.
+    The increase brings Citgo's posted price for West Texas
+Intermediate to 17.00 dlrs a bbl. West Texas Sour is also now
+priced at 17.00 dlrs/bbl, and Light Louisiana South is posted
+at 17.35 dlrs/bbl.
+    On February 25 Citgo lowered its crude postings 50 cts to
+1.50 dlrs per bbl, and cut WTI one dlr to 16.00.
+    
+ Reuter
+&#3;</BODY></TEXT>

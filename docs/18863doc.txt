@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6615" NEWID="18863">
+<DATE>18-JUN-1987 13:33:28.58</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f4094&#31;reute
+u f BC-/GENCORP-&lt;GY>-SAYS-RK   06-18 0054</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GENCORP &lt;GY> SAYS RKO UNIT SALE TERMINATED</TITLE>
+<DATELINE>    AKRON, Ohio, June 18 - </DATELINE><BODY>GenCorp said its agreement to sell
+its RKO Pictures subsidiary to a management group has been
+terminated because the group could not raise the necessary
+financing.
+    The company said it will again seek buyers for the unit and
+its library of over 750 films.
+ Reuter
+&#3;</BODY></TEXT>

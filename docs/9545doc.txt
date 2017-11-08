@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15066" NEWID="9545">
+<DATE>25-MAR-1987 15:20:44.56</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A RM
+&#22;&#22;&#1;f2213&#31;reute
+r f BC-BALTIMORE-GAS-AND-ELE   03-25 0083</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BALTIMORE GAS AND ELECTRIC &lt;BGE> FILES DEBT</TITLE>
+<DATELINE>    NEW YORK, March 25 - </DATELINE><BODY>Baltimore Gas and Electric Co said it
+filed a registration with the Securities and Exchange
+Commission to sell 100 mln dlrs of unsecured debt.
+    The debt filing was registered under the SEC's shelf
+procedure which gives the utility up to two years to sell its
+debt.
+    Once the registration becomes effective Baltimore Gas and
+Electric will be able to issue debt on short notice as market
+or corporate conditions warrant.
+   
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20246" NEWID="21190">
+<DATE>19-OCT-1987 13:18:30.52</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2219&#31;reute
+d f BC-CITY-SAVINGS-BANK-OF   10-19 0041</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CITY SAVINGS BANK OF MERIDEN &lt;CSBM.O> 3RD QTR</TITLE>
+<DATELINE>    MERIDEN, Conn., Oct 19 -
+    </DATELINE><BODY>Shr 34 cts vs not given
+    Net 510,192 vs 328,428
+    Nine mths
+    Shr one dlr vs not given
+    Net 1,489,831 vs 741,136
+    NOTE: Company went public in September 1986.
+ Reuter
+&#3;</BODY></TEXT>

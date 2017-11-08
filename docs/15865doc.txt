@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5220" NEWID="15865">
+<DATE> 9-APR-1987 15:15:26.08</DATE>
+<TOPICS><D>oilseed</D><D>soybean</D></TOPICS>
+<PLACES><D>usa</D><D>brazil</D><D>argentina</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G
+&#22;&#22;&#1;f2222&#31;reute
+u f BC-brazil-crop-estimate   04-09 0105</UNKNOWN>
+<TEXT>&#2;
+<TITLE>USDA FORECASTS BRAZIL/ARGENTINE SOYBEAN CROPS</TITLE>
+<DATELINE>    WASHINGTON, April 9 - </DATELINE><BODY>The U.S. Agriculture Department
+forecast Brazil's 1986/87 soybean crop at 17.00 mln tonnes, vs
+17.00 estimated last month. It put the 1985/86 crop at 13.90
+mln tonnes, vs 13.70 mln last month.
+    The department forecast Argentina's 1986/87 soybean crop at
+7.70 mln tonnes, vs 7.70 mln last month. It projected the
+1985/86 crop at 7.30 mln tonnes, vs 7.30 mln last month.
+    Brazil's 1986/87 soybean exports were forecast at 2.50 mln
+tonnes, vs 2.50 mln tonnes estimated last month. USDA projected
+1985/86 exports at 1.20 mln tonnes, vs 1.20 mln last month.
+ Reuter
+&#3;</BODY></TEXT>

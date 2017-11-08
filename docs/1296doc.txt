@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16616" NEWID="1296">
+<DATE> 3-MAR-1987 15:49:03.82</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0799&#31;reute
+d f BC-EQUITABLE-LIFE-LEASIN   03-03 0062</UNKNOWN>
+<TEXT>&#2;
+<TITLE>EQUITABLE LIFE LEASING NAMES PRESIDENT</TITLE>
+<DATELINE>    SAN DIEGO, March 3 - </DATELINE><BODY>Equitable Life Leasing Corp said it
+named Lawrence Johnes president and chief operating officer,
+effective April one.
+    Johnes joined the company in November 1984 as executive
+vice president and chief financial officer.
+    Edward Horman will continue as chairman and chief executive
+officer, the company said.
+ Reuter
+&#3;</BODY></TEXT>

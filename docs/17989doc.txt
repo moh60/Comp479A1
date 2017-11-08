@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7434" NEWID="17989">
+<DATE> 2-JUN-1987 09:42:57.55</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0953&#31;reute
+r f BC-COMP-U-CARD-&lt;CUCD.O>   06-02 0042</UNKNOWN>
+<TEXT>&#2;
+<TITLE>COMP-U-CARD &lt;CUCD.O> PLANS NAME CHANGE</TITLE>
+<DATELINE>    STAMFORD, Conn., June 2 - </DATELINE><BODY>Comp-U-Card International Inc
+said it intends to change its name to CUC International Inc.
+    It said shareholders will be asked to approve the new name
+at the annual meeting on June 16
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7857" NEWID="19529">
+<DATE>29-JUN-1987 05:37:57.69</DATE>
+<TOPICS><D>interest</D></TOPICS>
+<PLACES><D>uae</D><D>bahrain</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM 
+&#22;&#22;&#1;f0358&#31;reute
+u f BC-UAE-CENTRAL-BANK-CD-Y   06-29 0066</UNKNOWN>
+<TEXT>&#2;
+<TITLE>UAE CENTRAL BANK CD YIELDS UNCHANGED</TITLE>
+<DATELINE>    BAHRAIN, June 29 - </DATELINE><BODY>Yields on certificates of deposit (CDs)
+issued today by the United Arab Emirates central bank were
+unchanged from those on last Monday's offer, the bank said.
+    The one month yield was set at last week's 6-3/4 pct, while
+two and three month CDs also remained unchanged at 6-13/16 pct.
+The six month yield was set at seven pct.
+ REUTER
+&#3;</BODY></TEXT>

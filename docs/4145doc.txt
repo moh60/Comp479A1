@@ -1,0 +1,31 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9058" NEWID="4145">
+<DATE>12-MAR-1987 08:24:35.74</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0727&#31;reute
+r f BC-POPE-EVANS-&lt;PER>-REPU   03-12 0109</UNKNOWN>
+<TEXT>&#2;
+<TITLE>POPE EVANS &lt;PER> REPURCHASES SHARES</TITLE>
+<DATELINE>    NEW YORK, March 12 - </DATELINE><BODY>Pope, Evans and Robbins Inc said it
+has repurchased 780,000 common shares from Putnam Mills Corp
+principals Sidney and Peter Kaplan for 2.25 dlrs per share.
+    It said the purchase price will be applied against the
+1,700,000 dlrs Putnam Mills currently owes Pope Evans for
+merchandise.  Pope Evans has about 7.6 mln shares outstanding.
+    The company also said it has agreed in principle to acquire
+privately-held Pat Fashions Industries Inc for 18 mln dlrs in
+cash and notes, with financing to come partly from bank
+borrowings, subject to approval by the Pope Evans board and Pat
+shareholders.
+    Pat Fashions imports apparel from the Far East and makes
+apparel domestically as well.  In the year ended November 30,
+Pat earned 5,400,000 dlrs pretax on sales of 83.0 mln dlrs.
+ Reuter
+&#3;</BODY></TEXT>

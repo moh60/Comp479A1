@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15268" NEWID="9747">
+<DATE>26-MAR-1987 05:18:16.50</DATE>
+<TOPICS><D>bop</D></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0319&#31;reute
+f f BC-******   03-26 0016</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE> German Feb current account surplus 6.6 billion marks (Jan surplus 4.8 billion) - official
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7101" NEWID="19265">
+<DATE>19-JUN-1987 12:38:20.35</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A RM 
+&#22;&#22;&#1;f1587&#31;reute
+r f BC-TRIBUNE-CO-&lt;TRB>-TO-S   06-19 0073</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TRIBUNE CO &lt;TRB> TO SELL MEDIUM-TERM NOTES</TITLE>
+<DATELINE>    NEW YORK, June 19 - </DATELINE><BODY>Tribune Co said it is offering up to
+100 mln dlrs of medium-term notes.
+    The notes will have maturities from nine months to 15
+years, the company said. The terms of each deal will be set at
+the time of sale.
+    They will be offered on a continuing basis through Salomon
+Brothers and Merrill Lynch, the firm added.
+    Proceeds will be used for general corporate purposes.
+ Reuter
+&#3;</BODY></TEXT>

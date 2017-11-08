@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16068" NEWID="10547">
+<DATE>27-MAR-1987 12:34:44.54&#5;&#5;&#5;F</DATE>
+<UNKNOWN>&#22;&#22;&#1;f1642&#31;reute</UNKNOWN>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+b f BC-/SOUTHWESTERN-BELL&lt;SB   03-27 0072</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SOUTHWESTERN BELL&lt;SBC> VOTES SPLIT, UPS PAYOUT</TITLE>
+<DATELINE>    ST. LOUIS, March 27 - </DATELINE><BODY>Southwestern Bell Corp said its board
+voted a three-for-one stock split and increased the dividend
+8.8 pct to 1.60 dlrs a share.
+    On a post-split basis, the increased dividend will be 58
+cts a share, payable May One to holders of record April 10.
+    Southwestern Bell said the stock split is
+its first. It said shares will be mailed May 22, record May
+Four.
+ Reuter
+&#3;</BODY></TEXT>

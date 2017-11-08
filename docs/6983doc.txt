@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11896" NEWID="6983">
+<DATE>19-MAR-1987 05:15:06.25</DATE>
+<TOPICS><D>reserves</D></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0275&#31;reute
+f f BC-******   03-19 0014</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE> German net currency reserves fall 5.4 billion marks to 81.7 billion - Bundesbank
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

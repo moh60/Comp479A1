@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12282" NEWID="7369">
+<DATE>19-MAR-1987 15:15:29.22</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2209&#31;reute
+r f BC-ATT-AMERICAUS-TRUST-2   03-19 0074</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ATT AMERICAUS TRUST 2 &lt;ATU> CLOSES EARLY</TITLE>
+<DATELINE>    NEW YORK, March 19 - </DATELINE><BODY>Americus Trust for American Telephone
+and Telegraph Co Shares, Series 2, said it has reached its
+limit of 10 mln ATT &lt;T> shares and has closed.
+    The trust was scheduled to close April One.
+    Common stock tendered into an Americus trust is converted
+into trust units on a one share for one unit basis. Each unit
+may be divided into separately-traded PRIME and SCORE
+components.
+ Reuter
+&#3;</BODY></TEXT>

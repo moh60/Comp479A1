@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="829" NEWID="16294">
+<DATE>13-APR-1987 10:28:07.22</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1091&#31;reute
+u f BC-IRVING-BANK-CORP-&lt;V>   04-13 0038</UNKNOWN>
+<TEXT>&#2;
+<TITLE>IRVING BANK CORP &lt;V> 1ST QTR NET</TITLE>
+<DATELINE>    NEW YORK, April 13 -
+    </DATELINE><BODY>Shr 1.51 dlr vs 1.62 dlr
+    Net 28.6 mln vs 30.4 mln
+    Assets 23.8 billion vs 20.9 billion
+    Deposits 15.5 billion vs 14 billion
+    Loans 13.8 billion vs 12 billion
+ Reuter
+&#3;</BODY></TEXT>

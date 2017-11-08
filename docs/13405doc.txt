@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="BYPASS" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="2388" NEWID="13405">
+<DATE> 7-APR-1987 04:14:07.42</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM AI
+&#22;&#22;&#1;f0157&#31;reute
+u f BC-LONDON-EURODOLLAR-DEP   04-07 0053</UNKNOWN>
+<TEXT TYPE="UNPROC">&#2;
+LONDON EURODOLLAR DEPOSITS RATES OPENING - APRIL 7
+ overnight     6-1/8 SIX
+ tom/next      6-1/4 1/8
+ spot/next     6-1/4 1/8
+ week fixed    6-5/16 3/16
+ one month     6-7/16 5/16
+ two    6-1/2 3/8       three 6-9/16 7/16
+ four   6-9/16 7/16     five  6-5/8 1/2
+ six    6-5/8 1/2       nine  6-3/4 5/8
+ twelve 6-13/16 11/16
+&#3;
+
+</TEXT>

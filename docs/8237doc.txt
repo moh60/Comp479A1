@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13758" NEWID="8237">
+<DATE>23-MAR-1987 09:29:25.01</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0852&#31;reute
+w f BC-TANDEM-COMPUTERS-&lt;TND   03-23 0057</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TANDEM COMPUTERS &lt;TNDM> GETS INSTALLATION</TITLE>
+<DATELINE>    CUPERTINO, Calif., March 23 - </DATELINE><BODY>Tandem Computers Inc said
+Pacific Gas and Electric Co &lt;PCG> installed a Tandem computer
+system for on-line information management at the Diablo Canyon
+nuclear power plant near San Luis Obispo, Calif.
+    No value for installation of the Nonstop VLX system was
+given.
+ Reuter
+&#3;</BODY></TEXT>

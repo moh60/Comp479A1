@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14260" NEWID="8739">
+<DATE>24-MAR-1987 09:50:04.47</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0965&#31;reute
+d f BC-CHARMING-SHOPPES-&lt;CHR   03-24 0064</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CHARMING SHOPPES &lt;CHRS> PLANS NEW STORES</TITLE>
+<DATELINE>    BENSALEM, Pa., March 24 - </DATELINE><BODY>Charming Shoppes Inc said it
+expects to open over 155 new stores -- including its first
+stores in Kansas, Louisiana and Oklahoma -- and remodel or
+expand another 80 during 1987.
+    The company said it expects to open about 75 new stores by
+the end of June, which would bring its total store count at
+that time to 753.
+ Reuter
+&#3;</BODY></TEXT>

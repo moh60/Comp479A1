@@ -1,0 +1,20 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1685" NEWID="17044">
+<DATE>23-APR-1987 20:35:24.14</DATE>
+<TOPICS><D>money-fx</D><D>dlr</D></TOPICS>
+<PLACES><D>usa</D><D>japan</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f3095&#31;reute
+f f BC-Dollar-trades-at-post   04-23 0011</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE>Dollar trades at post-war low of 139.50 yen in Tokyo - brokers
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

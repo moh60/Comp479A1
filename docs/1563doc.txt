@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17980" NEWID="1563">
+<DATE> 4-MAR-1987 11:56:15.11</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0789&#31;reute
+r f BC-FIRST-UNION-&lt;FUR>-LEA   03-04 0090</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FIRST UNION &lt;FUR> LEAVES DIVIDEND UNCHANGED</TITLE>
+<DATELINE>    CLEVELAND, March 4 - </DATELINE><BODY>First Union Real Estate Investments
+said its board left the quarterly dividend unchanged at 37-1/2
+cts per share, payable April 30, record March 31.
+    The trust, which has raised its quarterly dividend
+frequently in the past two years and in the first quarter in
+both years, said the Tax Reform Act of 1986 has limited its
+flexibility on dividends, and trustees will now consider the
+appropriateness of any dividend increases only during the later
+quarters of the year.
+
+ Reuter
+&#3;</BODY></TEXT>

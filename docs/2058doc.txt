@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18475" NEWID="2058">
+<DATE> 5-MAR-1987 10:18:32.34</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0246&#31;reute
+r f BC-&lt;HARD-ROCK-CAFE-PLC>   03-05 0087</UNKNOWN>
+<TEXT>&#2;
+<TITLE>&lt;HARD ROCK CAFE PLC> SETS INITIAL U.S. OFFERING</TITLE>
+<DATELINE>    NEW YORK, March 5 - </DATELINE><BODY>Hard Rock Cafe PLC said it has filed
+for an initial U.S. offering of 2,240,000 American Depositary
+Shares representing 11.2 mln Class A ordinary shares.
+    It said 240,000 of the ADS's will be sold by a current
+shareholder.
+    Lead underwriter is &lt;Drexel Burnham Lambert Inc>.
+    The company said proceeds will be used for the financing of
+additional restaurants, the expansion of existing restaurants
+and retail operations and the repayment of debt.
+ Reuter
+&#3;</BODY></TEXT>

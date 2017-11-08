@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7168" NEWID="19332">
+<DATE>19-JUN-1987 14:07:01.35</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1921&#31;reute
+r f BC-BLOOMFIELD-SAVINGS-&lt;B   06-19 0106</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BLOOMFIELD SAVINGS &lt;BFCO.O> SEES IMPROVED NET</TITLE>
+<DATELINE>    BLOOMFIELD TOWNSHIP, Mich., June 19 - </DATELINE><BODY>Bloomfield Savings
+and Loan Association F.A. said its receipt of 8.5 mln dlrs as
+partial settlement from a lawsuit will have a "substantial
+positive impact" on its earnings for 1987.
+    The thrift had net loss of 4,095,000 dlrs or 1.85 dlrs a
+share in 1986. The 8.5 mln dlrs will be reported during the
+second quarter, it said
+    Bloomfield Savings said it is continuing to seek to recover
+the remaining 5.5 mln dlrs of the total 14 mln dlr judgment
+against United Federal Savings and Loan Association of Durant,
+Okla., over a 1985 real estate loan.
+ Reuter
+&#3;</BODY></TEXT>

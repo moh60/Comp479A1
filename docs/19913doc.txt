@@ -1,0 +1,20 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="8241" NEWID="19913">
+<DATE>29-JUN-1987 16:38:59.61</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2520&#31;reute
+u f BC-GOODYEAR-&lt;GT>-TO-SELL   06-29 0032</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GOODYEAR &lt;GT> TO SELL STAKE IN TOYOBO PETCORD</TITLE>
+<DATELINE>    AKRON, Ohio, June 29 - </DATELINE><BODY>Goodyear said it is selling its 50
+pct interest in Toyobo Petcord Ltd of Japan to its partner in
+the venture, Toyobo Co.
+ Reuter
+&#3;</BODY></TEXT>

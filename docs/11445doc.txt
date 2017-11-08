@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17507" NEWID="11445">
+<DATE>31-MAR-1987 12:00:52.70</DATE>
+<TOPICS><D>grain</D><D>wheat</D></TOPICS>
+<PLACES><D>france</D><D>syria</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G
+&#22;&#22;&#1;f1657&#31;reute
+u f BC-FRENCH-MARKET-TALK-OF   03-31 0095</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FRENCH MARKET TALK OF SYRIAN WHEAT PURCHASES</TITLE>
+<DATELINE>    PARIS, March 31 - </DATELINE><BODY>Syria may have bought 80,000 tonnes of
+French soft wheat, some traders here said.
+    But others said it may instead have given payment
+guarantees to allow for the shipping of an old contract to go
+ahead.
+    Syria has bought around 320,000 tonnes of soft French wheat
+since the beginning of the 1986/87 campaign, of which only
+121,000 tonnes had been exported by the end of last month.
+    The country also bought around 30,000 tonnes of EC soft
+wheat 12 days ago at 80 to 81 dlrs a tonne, fob, they said.
+ Reuter
+&#3;</BODY></TEXT>

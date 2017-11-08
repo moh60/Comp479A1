@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17046" NEWID="10985">
+<DATE>30-MAR-1987 14:07:58.31</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2156&#31;reute
+d f BC-YORK-INTERNATIONAL-&lt;Y   03-30 0083</UNKNOWN>
+<TEXT>&#2;
+<TITLE>YORK INTERNATIONAL &lt;YRK> TO MAKE ACQUISITIONS</TITLE>
+<DATELINE>    YORK, Pa., March 30 - </DATELINE><BODY>York International Corp said it has
+agreed to acquire Frick Co and Frigid Coil/Frick Inc for
+undisclosed terms.
+    The company said Frick makes refrigeration equipment and
+compressors and Frigid Coil also makes refrigeration equipment.
+ Together the two had revenues of about 50 mln dlrs in 1986.
+    The company said it hopes to complete the acquisition in
+May, subject to its review of Frick and Frigid and regulatory
+approvals.
+ Reuter
+&#3;</BODY></TEXT>

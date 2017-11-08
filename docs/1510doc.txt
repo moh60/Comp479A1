@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17928" NEWID="1510">
+<DATE> 4-MAR-1987 10:53:50.23</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0499&#31;reute
+r f BC-DATA-ARCHITECTS-&lt;DRCH   03-04 0046</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DATA ARCHITECTS &lt;DRCH> GETS TOKYO BANK CONTRACT </TITLE>
+<DATELINE>    WALTHAM, Mass., March 4 - </DATELINE><BODY>Data Architects Inc said it
+received a contract from the &lt;Bank of Tokyo> to expand the
+installation of its bank electronic support systems at the
+bank.
+    It said the contract exceeds one mln dlrs.
+ Reuter
+&#3;</BODY></TEXT>

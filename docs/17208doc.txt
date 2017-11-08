@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="NOT-USED" CGISPLIT="PUBLISHED-TESTSET" OLDID="21830" NEWID="17208">
+<DATE>26-APR-1987 20:39:56.64</DATE>
+<TOPICS><D>money-fx</D><D>dlr</D></TOPICS>
+<PLACES><D>japan</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0108&#31;reute
+b f BC-BANK-OF-JAPAN-INTERVE   04-26 0090</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BANK OF JAPAN INTERVENES IN TOKYO BUYING DOLLARS</TITLE>
+<DATELINE>    TOKYO, April 27 - </DATELINE><BODY>The Bank of Japan intervened buying
+dollars shortly after the opening of 137.70 yen, dealers said.
+    Strong selling from life insurance companies and investment
+trusts pressured the dollar downward, but the U.S. Unit
+steadied on profit-taking buying by petroleum companies and
+intervention by the central bank.
+    The dollar's upward potential looks limited as forward
+dollar selling by exporters for commercial purposes is expected
+above 137.80, dealers said.
+ REUTER
+&#3;</BODY></TEXT>

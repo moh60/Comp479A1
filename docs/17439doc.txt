@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5777" NEWID="17439">
+<DATE> 1-JUN-1987 00:30:09.25</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0027&#31;reute
+f f BC-Toshiba-group-net-34.   06-01 0012</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE>Toshiba group net 34.18 billion yen (59.44 billion) year to March 31
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

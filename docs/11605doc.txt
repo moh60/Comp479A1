@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17666" NEWID="11605">
+<DATE>31-MAR-1987 14:59:48.29</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>brazil</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f2296&#31;reute
+u f BC-BRAZIL-BANK-STRIKE-CO   03-31 0049</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BRAZIL BANK STRIKE CONTINUES</TITLE>
+<DATELINE>    SAO PAULO, March 31 - </DATELINE><BODY>A national bank strike which began a
+week ago continued today with most of Brazil's 700,000
+bankworkers on strike, union officials said.
+    The stock markets of Sao Paulo and Rio de Janeiro were
+closed for the fifth consecutive working day.
+ Reuter
+&#3;</BODY></TEXT>

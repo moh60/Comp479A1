@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13500" NEWID="7979">
+<DATE>20-MAR-1987 16:23:34.00</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2400&#31;reute
+u f BC-EMERALD-HOMES-&lt;EHP>-S   03-20 0046</UNKNOWN>
+<TEXT>&#2;
+<TITLE>EMERALD HOMES &lt;EHP> SETS INITIAL DISTRIBUTION</TITLE>
+<DATELINE>    PHOENIX, Ariz., March 20 - </DATELINE><BODY>Emerald Homes L.P. said its
+general partners declared an initial 30-ct per unit
+distribution payable May 15 to unitholders of record March 31.
+    Emerald made its initial public offering February 6.
+ Reuter
+&#3;</BODY></TEXT>

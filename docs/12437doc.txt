@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="1513" NEWID="12437">
+<DATE> 2-APR-1987 05:34:30.63</DATE>
+<TOPICS><D>money-fx</D><D>dlr</D></TOPICS>
+<PLACES><D>japan</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0434&#31;reute
+u f BC-JAPAN-ASKS-BANKS-TO-M   04-02 0105</UNKNOWN>
+<TEXT>&#2;
+<TITLE>JAPAN ASKS BANKS TO MODERATE DOLLAR SALES - JIJI</TITLE>
+<DATELINE>    TOKYO, April 2 - </DATELINE><BODY>The Finance Ministry has asked commercial
+banks to moderate their dollar sales, JiJi News Agency
+reported, quoting financial sources.
+    Finance Ministry officials were unavailable for comment.
+The report also could not be confirmed by several bank dealers.
+    Earlier, Japanese trust banking sources said the Ministry
+had asked them to moderate their dollar sales.
+    A Ministry official said earlier this week the ministry had
+recently surveyed currency transactions by investors, but
+declined to say whether this aimed at reducing their dollar
+sales.
+ REUTER
+&#3;</BODY></TEXT>

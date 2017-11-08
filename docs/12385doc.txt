@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="613" NEWID="12385">
+<DATE> 1-APR-1987 18:26:04.96</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2700&#31;reute
+d f BC-HUGHES-&lt;GMH>-ELECTS-C   04-01 0055</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HUGHES &lt;GMH> ELECTS CHAIRMAN</TITLE>
+<DATELINE>    LOS ANGELES, APril 1 - </DATELINE><BODY>General Motors Corp's Hughes
+Aircraft Co said it named Albert Wheelon as chairman and chief
+executive officer, succeeding Allen Puckett who retired after
+more than 38 years with the company.
+    Wheelon has served in key management positions at Hughes
+since joining in 1966.
+ Reuter
+&#3;</BODY></TEXT>

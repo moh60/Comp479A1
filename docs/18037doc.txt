@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7482" NEWID="18037">
+<DATE> 2-JUN-1987 10:51:48.40</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1258&#31;reute
+d f BC-HEALTHSOUTH-&lt;HSRC.O>   06-02 0064</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HEALTHSOUTH &lt;HSRC.O> MAKES ACQUISITION</TITLE>
+<DATELINE>    BIRMINGHAM, Ala., June 2 - </DATELINE><BODY>HEALTHSOUTH Rehabilitation Corp
+said it has acquired Pine Island Sports Medicine Center in Fort
+Lauderdale, Fla., and will incorporate the facility into its
+HEALTHSOUTH Rehabilitation Center of Fort Lauderdale, which is
+now under construction and should be in operation by
+mid-summer.
+    Terms were not disclosed.
+ Reuter
+&#3;</BODY></TEXT>

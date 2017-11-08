@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11675" NEWID="6762">
+<DATE>18-MAR-1987 15:34:16.03</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f9262&#31;reute
+r f BC-MURRAY-OHIO-&lt;MYO>-SEE   03-18 0076</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MURRAY OHIO &lt;MYO> SEES HIGHER 1ST QTR EARNINGS</TITLE>
+<DATELINE>    BRENTWOOD, Tenn., March 18 - </DATELINE><BODY>The Murray Ohio Manufacturing
+Co said it expects first quarter earnings to be higher than the
+4,800,840 dlrs, or 1.25 dlrs per share, it recorded for the
+first quarter of last year.
+    The company, which produces lawn mowers and bicycles, said
+earnings are ahead of last year due to increased lawn and
+garden shipments in January and February and a record-setting
+pace in March.
+ Reuter
+&#3;</BODY></TEXT>

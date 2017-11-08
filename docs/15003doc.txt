@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="3986" NEWID="15003">
+<DATE> 8-APR-1987 10:08:21.25</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1043&#31;reute
+d f BC-KEY-TRONIC-&lt;KTCC>-GET   04-08 0068</UNKNOWN>
+<TEXT>&#2;
+<TITLE>KEY TRONIC &lt;KTCC> GETS NEW BUSINESS</TITLE>
+<DATELINE>    SPOKANE, Wash., April 8 - </DATELINE><BODY>Key Tronic corp said it has
+received contracts to provide seven  original equipment
+manufacturers with which it has not done business recently with
+over 300,000 computer keyboards for delivery within the next 12
+months.
+    The company said "The new contracts represent an annual
+increase of approximately 25 pct in unit volume over last
+year."
+ Reuter
+&#3;</BODY></TEXT>

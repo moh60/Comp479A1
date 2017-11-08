@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18740" NEWID="2322">
+<DATE> 5-MAR-1987 13:52:48.83</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0287&#31;reute
+d f BC-UNICORP-AMERICAN-&lt;UAC   03-05 0046</UNKNOWN>
+<TEXT>&#2;
+<TITLE>UNICORP AMERICAN &lt;UAC> ACQUISITION ADVANCES</TITLE>
+<DATELINE>    NEW YORK, March 5 - </DATELINE><BODY>Unicorp American Corp said it has
+signed a definitive agreement for the previously-announced
+acquisition of Lincoln Savings Bank.
+    The company said the transaction is still subject to
+regulatory approvals.
+ Reuter
+&#3;</BODY></TEXT>

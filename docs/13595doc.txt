@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="BYPASS" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="2578" NEWID="13595">
+<DATE> 7-APR-1987 08:04:06.48</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0530&#31;reute
+r f BC-U.S.-SHAREHOLDER-MEET   04-07 0035</UNKNOWN>
+<TEXT TYPE="UNPROC">&#2;
+U.S. SHAREHOLDER MEETINGS - APRIL 7
+ American Agronomics Corp
+ Central Hudson Gas/Electric Corp
+ Cummins Engine Co., Inc
+ Fries Entertainment Inc
+ Lennar Corp
+ Ohio Mattress Corp
+ Stride Markets Inc
+ Zemex Corp
+ Reuter
+&#3;
+
+</TEXT>

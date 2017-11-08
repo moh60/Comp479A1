@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15165" NEWID="9644">
+<DATE>25-MAR-1987 17:54:50.60</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2612&#31;reute
+d f BC-METROBANC-&lt;MTBC>-SHAR   03-25 0050</UNKNOWN>
+<TEXT>&#2;
+<TITLE>METROBANC &lt;MTBC> SHAREHOLDERS APPROVE MERGER</TITLE>
+<DATELINE>    GRAND RAPIDS, Mich., March 25 - </DATELINE><BODY>Metrobanc, a federal
+savings bank, said its shareholders approved the previously
+announced merger with Comerica Inc &lt;CMCA>, a bank holding
+company.
+    Metrobanc said the merger is still subject to regulatory
+approval.
+ Reuter
+&#3;</BODY></TEXT>

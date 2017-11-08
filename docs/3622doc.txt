@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="8535" NEWID="3622">
+<DATE>11-MAR-1987 10:16:01.66</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0207&#31;reute
+d f BC-CONTINENTAL-HEALTH-&lt;C   03-11 0088</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CONTINENTAL HEALTH &lt;CTHL> PURCHASES MARKETECH</TITLE>
+<DATELINE>    ENGLEWOOD CLIFFS, N.J., March 11 - </DATELINE><BODY>Continental Health
+Affiliates Inc said that it has acquired &lt;Marketech Inc>, an 80
+pct partner in &lt;Diatronics Nutrition Services>.
+    Continental said Diantronics Nutrition Services is a joint
+venture with physicians providing patient-ready home infusion
+therapy products and services to outpatients of five northern
+New Jersery hospitals representing over 1,900 inpatient beds.
+    Continental said the terms of the deal were not disclosed.
+ Reuter
+&#3;</BODY></TEXT>

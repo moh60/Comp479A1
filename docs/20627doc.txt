@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="21222" NEWID="20627">
+<DATE>20-OCT-1987 15:25:24.56</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2933&#31;ute
+d f BC-FGIC-&lt;FGC>-TO-BUY-UP   10-20 0083</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FGIC &lt;FGC> TO BUY UP TO 30 MLN DLRS OF STOCK</TITLE>
+<DATELINE>    NEW YORK, OCt 20 - </DATELINE><BODY>FGIC Corp said its board authorized the
+purchase at prevailing market prices of up to 30 mln dlrs of
+its common over the next 12 months.
+    The company said Goldman Sachs and Co will be acting as the
+company's agent for the shares buy back.
+    FGIC said it has about 23.7 mln shares of common currently
+listed and outstanding on the New YOrk STock Exchange.
+    FGIC is a wholly owned subsidiary of Financial Guaranty
+Insurance Co.
+ Reuter
+&#3;</BODY></TEXT>

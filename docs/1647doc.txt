@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18065" NEWID="1647">
+<DATE> 4-MAR-1987 13:20:50.28</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0197&#31;reute
+d f BC-HHC-INDUSTRIES-&lt;HCCI>   03-04 0063</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HHC INDUSTRIES &lt;HCCI> TO REPURCHASE STOCK</TITLE>
+<DATELINE>    ENCINO, Calif., March 4 - </DATELINE><BODY>HCC Industries said its board has
+authorized the purchase from time to time of up to 150,000
+shares of the company's common stock.
+    Currently, HCC has about 1,775,000 shares outstanding.
+    The company said although the purchases will reduce working
+capital, it believes its liquidity will not be impaired.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20581" NEWID="20856">
+<DATE>19-OCT-1987 20:57:33.31</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>tse</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM AI 
+&#22;&#22;&#1;f3538&#31;reute
+f f BC-Tokyo's-stock-index-p   10-19 0013</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE>Tokyo's stock index plummets 615.31 points to 25,131.25 after 51 minutes
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

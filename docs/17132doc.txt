@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="NOT-USED" CGISPLIT="PUBLISHED-TESTSET" OLDID="21755" NEWID="17132">
+<DATE>24-APR-1987 12:43:50.14</DATE>
+<TOPICS><D>oilseed</D><D>rapeseed</D></TOPICS>
+<PLACES><D>japan</D><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G
+&#22;&#22;&#1;f1729&#31;reute
+u f BC-JAPAN-BUYS-UP-TO-8,00   04-24 0039</UNKNOWN>
+<TEXT>&#2;
+<TITLE>JAPAN BUYS UP TO 8,000 TONNES CANADIAN RAPESEED</TITLE>
+<DATELINE>    WINNIPEG, April 24 - </DATELINE><BODY>Japanese crushers bought 5,000 to
+8,000 tonnes of Canadian rapeseed for last-half May/first-half
+June shipment, trade sources said. Price details were not
+available.
+ Reuter
+&#3;</BODY></TEXT>

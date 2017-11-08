@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15523" NEWID="10002">
+<DATE>26-MAR-1987 12:13:39.63</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F
+&#22;&#22;&#1;f1730&#31;reute
+d f BC-island-telephone   03-26 0038</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ISLAND TELEPHONE SHARE SPLIT APPROVED</TITLE>
+<DATELINE>    CHARLOTTETOWN, Prince Edward Island, March 26 - </DATELINE><BODY>&lt;Island
+Telephone Co Ltd> said the previously announced two-for-one
+common share split was approved by shareholders at the annual
+meeting.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19036" NEWID="2619">
+<DATE> 6-MAR-1987 10:48:23.17</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0356&#31;reute
+u f BC-AMERICAN-STORES-CO-&lt;A   03-06 0073</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AMERICAN STORES CO &lt;ASC> 4TH QTR NET</TITLE>
+<DATELINE>    SALT LAKE CITY, March 6 -
+    </DATELINE><BODY>Shr 1.57 dlrs vs 1.60 dlrs
+    Net 55.7 mln vs 56.5 mln
+    Revs 3.7 billion vs 3.6 billion
+    Year
+    Shr 3.79 dlrs vs 4.11 dlrs
+    Net 144.5 vs 154.5 mln
+    Revs 14.0 billion vs 13.9 billion
+    NOTE: 1986 4th qtr and yr per shr amts includes reduction
+of 15 cts per shr for establishment of reorganization reserves.
+Tax increase reduced 1986 yr per shr by 26 cts.
+ Reuter
+&#3;</BODY></TEXT>

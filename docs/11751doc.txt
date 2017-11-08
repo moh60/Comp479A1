@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17813" NEWID="11751">
+<DATE>31-MAR-1987 18:38:11.70</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F
+&#22;&#22;&#1;f2889&#31;reute
+r f BC-COMINCO-&lt;CLT>-SELLS-S   03-31 0067</UNKNOWN>
+<TEXT>&#2;
+<TITLE>COMINCO &lt;CLT> SELLS STAKE IN CANADA METAL</TITLE>
+<DATELINE>    VANCOUVER, British Columbia, March 31 - </DATELINE><BODY>Cominco Ltd said it
+sold its 50 pct stake in Canada Metal Co Ltd to Canada Metal
+senior management for an undisclosed sum.
+    Cominco said the sale was part of its previously announced
+policy of divesting non-core businesses.
+    Canada Metal is a Toronto-based producer of lead alloys and
+engineered lead products.
+    Canada Metal production figures were not immediately
+available.
+ Reuter
+&#3;</BODY></TEXT>

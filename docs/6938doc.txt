@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11851" NEWID="6938">
+<DATE>18-MAR-1987 19:06:11.05</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f9797&#31;reute
+r f BC-EQUATORIAL-COMMUNICAT   03-18 0070</UNKNOWN>
+<TEXT>&#2;
+<TITLE>EQUATORIAL COMMUNICATIONS &lt;EQUA> SETS PACT</TITLE>
+<DATELINE>    MOUNTAIN VIEW, Calif., March 18 - </DATELINE><BODY>Equatorial Communications
+Co said it set an agreement with FIserv Inc &lt;FISV> to supply
+and operate a private satellite-based data transaction network.
+    Under the terms of the agreement, Equatorial will provide
+FIserv with C-200 series transmit/receive micro earth stations
+to be located at client financial institutions throughout the
+U.S.
+ Reuter
+&#3;</BODY></TEXT>

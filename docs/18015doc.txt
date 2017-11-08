@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7460" NEWID="18015">
+<DATE> 2-JUN-1987 10:27:58.21</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1123&#31;reute
+u f BC-YANKEE-COS-&lt;YNK>-SEEK   06-02 0063</UNKNOWN>
+<TEXT>&#2;
+<TITLE>YANKEE COS &lt;YNK> SEEKS DEBT RESTRUCTURING</TITLE>
+<DATELINE>    COHASSET, Mass., June 2 - </DATELINE><BODY>Yankee Cos Inc said it will be 
+working with the holders of substantially all of its 12-5/8 pct
+senior secured notres due 1996 to develop and overall debt and
+asset restructuring program, and as a first step, the
+noteholder has agreed to the deferral of the June One interest
+payment on the notes until June 30.
+    Yankee said interest was paid to other noteholders
+yesterday.
+    The company said it plans to meet and work with all
+interest parties, including the holders of its three debt
+issues and federal banking authorities, over the next several
+weeks to formulate and implement a restructuring plan.
+ Reuter
+&#3;</BODY></TEXT>

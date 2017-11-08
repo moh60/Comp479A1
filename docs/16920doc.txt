@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1455" NEWID="16920">
+<DATE>17-APR-1987 16:34:16.43</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0444&#31;reute
+r f BC-TRACOR-INC-&lt;TRR>-GETS   04-17 0061</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TRACOR INC &lt;TRR> GETS 60.1 MLN DLR NA</TITLE>
+VY CONTRACT
+<DATELINE>    WASHINGTON, April 17 - </DATELINE><BODY>Tracor Applied Sciences, a division
+of Tracor Inc, is being awarded a 60.1 mln dlr contract for the
+design and development of Radio Communication Suites for the
+Aegis CG-60 through CG-70 ships, the Defense Department said.
+    It said work on the contract is expected to be completed in
+1992.
+ Reuter
+&#3;</BODY></TEXT>

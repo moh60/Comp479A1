@@ -1,0 +1,30 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14514" NEWID="8993">
+<DATE>24-MAR-1987 15:49:45.12</DATE>
+<TOPICS><D>grain</D><D>corn</D><D>wheat</D></TOPICS>
+<PLACES><D>usa</D><D>ussr</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G
+&#22;&#22;&#1;f2381&#31;reute
+b f BC-ussr-export-sale   03-24 0115</UNKNOWN>
+<TEXT>&#2;
+<TITLE>USDA REPORTS CORN SWITCHED TO USSR</TITLE>
+<DATELINE>    WASHINGTON, March 24 - </DATELINE><BODY>The U.S. Agriculture Department said
+private U.S. exporters reported 200,000 tonnes of corn
+previously to unknown destinations have been switched to the
+Soviet Union.
+    The corn is for delivery during the 1986/87 marketing year
+and under the fourth year of the U.S.-USSR Long Term Grain
+Supply Agreement.
+    The marketing year for began September 1.
+    Sales of corn to the USSR for delivery during the fourth
+year of the agreement -- which began October 1, 1986 -- now
+total 2,600,000  tonnes, it said.
+    In the third agreement year sales totaled 6,960,700 tonnes
+-- 152,600 tonnes of wheat and 6,808,100 tonnes of corn.
+ Reuter
+&#3;</BODY></TEXT>

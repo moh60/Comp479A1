@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1061" NEWID="16526">
+<DATE>13-APR-1987 13:30:08.57</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2015&#31;reute
+r f BC-NWA-&lt;NWA>-AIRLINE-ADD   04-13 0045</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NWA &lt;NWA> AIRLINE ADDS TRANSPACIFIC FLIGHT</TITLE>
+<DATELINE>    ST. PAUL, Minn., April 13 - </DATELINE><BODY>NWA Inc said its Northwest
+Airlines unit will add a nonstop Detroit to Tokyo flight April
+17.
+    The new flight will operate three times a week until June
+one, when it will fly seven days a week.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="569" NEWID="12341">
+<DATE> 1-APR-1987 17:15:20.12</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2574&#31;reute
+h f BC-BELDEN-AND-BLAKE-ENER   04-01 0076</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BELDEN AND BLAKE ENERGY CO &lt;BBE> 4TH QTR</TITLE>
+<DATELINE>    NEW YORK, APril 1 -
+    </DATELINE><BODY>Shr loss 1.92 dlrs vs profit five cts
+    Net loss 5.6 mln vs profit 136,598
+    Revs 1.4 mln vs. 2.5 mln
+    Year
+    Shr loss 3.81 dlrs vs profit 21 cts
+    Net loss 10.8 mln vs profit 435,176
+    Revs 7.6 mln vs 9.4 mln
+    NOTE:1986 4th qtr includes write-off of about 373,000 dlrs
+or 13 cts and writdown of assets of 4.0 mln dlrs. 1986 year
+includes 4.1 mln dlrs 1st qtr writedown.
+ Reuter
+&#3;</BODY></TEXT>

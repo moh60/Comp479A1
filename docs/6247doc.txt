@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11160" NEWID="6247">
+<DATE>17-MAR-1987 15:52:58.78</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F
+&#22;&#22;&#1;f6442&#31;reute
+d f BC-majestic-contractors   03-17 0061</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MAJESTIC CONTRACTORS TO PURCHASE SHARES</TITLE>
+<DATELINE>    Edmonton, Alberta, March 17 - </DATELINE><BODY>&lt;Majestic Contractors Ltd>
+said it will purchase up to a maximum of 403,828 of its common
+shares on the Toronto Stock Exchange at the market price.
+    Purchases will begin on April 13, 1987 and will end when
+Majestic has bought 403,828 common shares or on April 12, 1988,
+whichever comes first.
+ Reuter
+&#3;</BODY></TEXT>

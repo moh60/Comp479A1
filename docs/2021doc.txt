@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18439" NEWID="2021">
+<DATE> 5-MAR-1987 09:39:13.96</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0086&#31;reute
+u f BC-SUPERMARKETS-GENERAL   03-05 0043</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SUPERMARKETS GENERAL &lt;SGC> FEBRUARY SALES RISE</TITLE>
+<DATELINE>    WOODBRIDGE, N.J. - </DATELINE><BODY>Supermarkets General Corp reported sales
+of 424.8 mln dlrs for the four-week period ended Feb 28, 1987,
+A 7.2 pct increase over sales of 396.4 mln dlrs for the
+comparable period last year.
+ Reuter
+&#3;</BODY></TEXT>

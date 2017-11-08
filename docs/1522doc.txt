@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17940" NEWID="1522">
+<DATE> 4-MAR-1987 11:08:03.88</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0561&#31;reute
+r f BC-STRONG-POINT-UNIT-TO   03-04 0091</UNKNOWN>
+<TEXT>&#2;
+<TITLE>STRONG POINT UNIT TO MARKET PRODUCT IN EUROPE</TITLE>
+<DATELINE>    IRVINE, Calif., March 4 - </DATELINE><BODY>&lt;Strong Point Inc> said its
+Pharmaceutical Technologies Inc subsidiary will market in
+Europe its Immunol-RD nutritional product, designed to protect
+individuals exposed to medium or minimal radiation dosage
+levels.
+    The company said it will market the product in Europe
+because of the radiation exposure from the Chernobyl nucelar
+power accident.
+    The company asserted that the product can offset the
+deleterious effects of radiation, which weakens the immune
+system.
+ Reuter
+&#3;</BODY></TEXT>

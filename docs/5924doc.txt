@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10837" NEWID="5924">
+<DATE>17-MAR-1987 09:43:35.22</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f4949&#31;reute
+d f BC-C.-ITOH-UNIT-SETS-BUY   03-17 0096</UNKNOWN>
+<TEXT>&#2;
+<TITLE>C. ITOH UNIT SETS BUYER FINANCING PROGRAM</TITLE>
+<DATELINE>    IRVINE, Calif., March 17 - </DATELINE><BODY>CIE Systems Inc, a unit of C.
+Itoh Electronics Inc, said it established a program to provide
+lease and lease-purchase financing for buyers of its business
+computer systems and electronic products.
+    The program will be administered by CFC Leasing, an
+independent company, and more than 100 mln dlrs in funds are
+expected to be available over the next four years from a
+consortium of six financial institutions, the company said.
+    C. Itoh Electronics Inc is a U.S. unit of (C. Itoh and Co
+Ltd) of Japan.
+ Reuter
+&#3;</BODY></TEXT>

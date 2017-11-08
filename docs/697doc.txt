@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12880" NEWID="697">
+<DATE> 2-MAR-1987 14:35:31.05</DATE>
+<TOPICS><D>gold</D></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C M
+&#22;&#22;&#1;f0738&#31;reute
+u f BC-CURRENCIES-COULD-REAS   03-02 0117</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CURRENCIES COULD INFLUENCE BULLION AGAIN-MONTAGU</TITLE>
+<DATELINE>    LONDON, March 2 - </DATELINE><BODY>Currency fluctuations may reassert their
+influence on the bullion market in the near future, bullion
+bankers Samuel Montagu and Co Ltd said in a market report.
+    But the firm said silver may lag behind gold in any
+reactions to movements on foreign exchanges.
+    "OPEC's failure to address the recent decline in oil prices
+remains a worrying factor however, and on balance it appears
+that the market should be approached cautiously," Montagu said.
+    The bank said the US economy has shown no noticeable
+long-term improvement and that both Latin American debt and the
+Iranian arms affair could undermine confidence in the dollar.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4324" NEWID="15341">
+<DATE> 8-APR-1987 17:13:41.05</DATE>
+<TOPICS><D>veg-oil</D><D>grain</D><D>corn</D><D>wheat</D></TOPICS>
+<PLACES><D>usa</D><D>morocco</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G
+&#22;&#22;&#1;f2641&#31;reute
+r f BC-USDA-DISCUSSING-PL-48   04-08 0114</UNKNOWN>
+<TEXT>&#2;
+<TITLE>USDA DISCUSSING PL 480 AGREEMENT WITH MOROCCO</TITLE>
+<DATELINE>    WASHINGTON, April 8 - </DATELINE><BODY>The U.S. Agriculture Department is
+currently discussing an amendment to a PL 480 agreement signed
+with Morocco on January 22, but the mix of commodities under
+the amendment has not been determined, a U.S. Agriculture
+Department official said.
+    The official noted the agreement signed in January provided
+for the supply of about 55,000 tonnes of vegetable oil, 55,000
+tonnes of corn and 126,000 tonnes of wheat, all for delivery
+during the current fiscal year, ending this September 30.
+    No purchase authorizations for the commodities provided in
+the January agreement have been announced by the department.
+ Reuter
+&#3;</BODY></TEXT>

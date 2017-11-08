@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18057" NEWID="1639">
+<DATE> 4-MAR-1987 13:18:38.31</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0185&#31;reute
+d f BC-GENOVA-INC-&lt;GNVA>-1ST   03-04 0050</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GENOVA INC &lt;GNVA> 1ST QTR DEC 27 NET</TITLE>
+<DATELINE>    DAVISON, Mich., March 4 -
+    </DATELINE><BODY>Oper shr profit four cts vs loss four cts
+    Oper net profit 151,448 vs loss 170,709
+    Sales 11.5 mln vs 9,581,406
+    NOTE: Prior year net includes 123,650 dlr tax credit but
+excludes 52,409 dlr gain on early debt retirement.
+ Reuter
+&#3;</BODY></TEXT>

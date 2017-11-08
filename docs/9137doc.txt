@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14658" NEWID="9137">
+<DATE>25-MAR-1987 01:52:35.22</DATE>
+<TOPICS><D>interest</D></TOPICS>
+<PLACES></PLACES>
+<PEOPLE><D>sumita</D></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0043&#31;reute
+f f BC-Sumita-says-Bank-of-J   03-25 0013</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE>Sumita says Bank of Japan has no intention of lowering its discount rate
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

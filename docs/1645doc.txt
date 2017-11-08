@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18063" NEWID="1645">
+<DATE> 4-MAR-1987 13:20:39.80</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F Y
+&#22;&#22;&#1;f0195&#31;reute
+r f BC-GULF-APPLIED-&lt;GATS>-T   03-04 0043</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GULF APPLIED &lt;GATS> TO HAVE GAIN FROM SALE</TITLE>
+<DATELINE>    HOUSTON, March 4 - </DATELINE><BODY>Gulf Applied Technologies Inc said it
+will report a gain of 2,900,000 dlrs or 89 cts per share on the
+previously-announced sale of its pipelines and terminals
+segment in first quarter results.
+ Reuter
+&#3;</BODY></TEXT>

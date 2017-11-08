@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11843" NEWID="6930">
+<DATE>18-MAR-1987 18:50:27.81</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f9774&#31;reute
+r f BC-LIFESTYLE-&lt;LIF>,-BOMB   03-18 0105</UNKNOWN>
+<TEXT>&#2;
+<TITLE>LIFESTYLE &lt;LIF>, BOMBAY AMEND MERGER AGREEMENT</TITLE>
+<DATELINE>    NEW YORK, March 18 - </DATELINE><BODY>Lifestyle Restaurants Inc said it
+reduced the number of Bombay Palace Restaurants inc common
+shares to be received in its previously announced merger
+agreement.
+    Under the amended deal, Lifestyle shareholders will get one
+Bombay share for each six instead of five Lifestyle shares.
+Under the amended offer, Bombay will issue about 900,000
+shares, currently 7.2 mln dlrs.
+    The amendment also increases the cash consideration to be
+offered on Lifestyle's 13 pct convertible subordinated
+debentures from 55 pct of the principal amount to 57.5 pct.
+        
+ Reuter
+&#3;</BODY></TEXT>

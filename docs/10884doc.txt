@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16945" NEWID="10884">
+<DATE>30-MAR-1987 11:58:39.14</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1675&#31;reute
+d f BC-DUNE-RESOURCES-LTD-&lt;D   03-30 0048</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DUNE RESOURCES LTD &lt;DNLAF> 4TH QTR NET</TITLE>
+<DATELINE>    OKLAHOMA CITY, March 30 -
+    </DATELINE><BODY>Shr profit one ct vs loss two cts
+    Net profit 27,000 vs loss 69,000
+    Revs 295,000 vs 264,000
+    Year
+    Shr loss eight cts vs loss three cts
+    Net loss 262,000 vs loss 88,000
+    Revs 1,004,000 vs 1,248,000
+ Reuter
+&#3;</BODY></TEXT>

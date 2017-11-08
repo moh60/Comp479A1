@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" CSECS="539010540" OLDID="16316" NEWID="996">
+<DATE>3-MAR-1987  09:15:05.40</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0274&#31;reute
+r f BC-ASHTON-TATE-&lt;TATE>-TO   03-03 0067</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ASHTON-TATE &lt;TATE> TO OFFER COMMON SHARES</TITLE>
+<DATELINE>    TORRANCE, Calif., March 3 - </DATELINE><BODY>Ashton-Tate said it intends to
+file for an offering of about two mln shares within the next 30
+days.
+    It said proceeds would be used for working capital and
+other general corporate purposes, including the possible
+acquisition of other businesses or additional technology.
+    Ashton-Tate now has about 23.6 mln shares outstanding.
+ Reuter
+&#3;</BODY></TEXT>

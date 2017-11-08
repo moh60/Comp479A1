@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10118" NEWID="5205">
+<DATE>16-MAR-1987 03:15:50.22</DATE>
+<TOPICS><D>retail</D></TOPICS>
+<PLACES><D>west-germany</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f1188&#31;reute
+u f BC-GERMAN-RETAIL-TURNOVE   03-16 0094</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GERMAN RETAIL TURNOVER RISES ONE PCT IN JANUARY</TITLE>
+<DATELINE>    WIESBADEN, March 16 - </DATELINE><BODY>West German retail turnover rose a
+real one pct in January compared with the same month a year
+earlier, according to provisional data from the Federal
+Statistics Office.
+    There were 26 shopping days in January this year, the same
+as in January 1986, a Statistics Office statement said.
+    A Statistics Office official added retail turnover had
+risen by 7.6 pct in December compared with the year-ago month,
+a slight upward revision from the 7.5 pct increase
+provisionally posted.
+ REUTER
+&#3;</BODY></TEXT>

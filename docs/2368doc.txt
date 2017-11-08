@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18785" NEWID="2368">
+<DATE> 5-MAR-1987 14:48:01.88</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0455&#31;reute
+r f BC-PENNEY-&lt;JCP>-TO-SELL   03-05 0097</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PENNEY &lt;JCP> TO SELL TELEMARKETING SERVICES</TITLE>
+<DATELINE>    NEW YORK, March 5 - </DATELINE><BODY>J.C. Penney Co said it will sell
+telemarketing services to other companies through a newly
+established wholly-owned subsidiary, Telemarketing Network Inc.
+    The New York-based subsidiary will use a network of 14
+telemarketing centers Penney has already established. The
+centers are part of its catalog marketing operation.
+    A large domestic motel chain already uses the network for
+its reservations services, Penney said.
+    Frank Engels, director of telemarketing, was named chairman
+of the new subsidiary.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11649" NEWID="6736">
+<DATE>18-MAR-1987 14:44:05.23</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f9131&#31;reute
+u f BC-REPUBLIC-NEW-YORK-&lt;RN   03-18 0046</UNKNOWN>
+<TEXT>&#2;
+<TITLE>REPUBLIC NEW YORK &lt;RNB> CALLS PREFERRED</TITLE>
+<DATELINE>    NEW YORK, March 18 - </DATELINE><BODY>Republic New York Corp said it will
+redeem on May 1 all 839,700 shares of its Series A floating
+rate cumulative preferred stock at 51.50 dlrs per share plus
+accrued dividends, or a 1.50 dlr premium over stated value.
+ Reuter
+&#3;</BODY></TEXT>

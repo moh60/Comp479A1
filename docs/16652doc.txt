@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1187" NEWID="16652">
+<DATE>13-APR-1987 16:05:39.92</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2491&#31;reute
+h f BC-CELLULAR-COMMUNICATIO   04-13 0049</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CELLULAR COMMUNICATIONS &lt;COMM.O> CLOSES BUYOUT</TITLE>
+<DATELINE>    NEW YORK, April 13 - </DATELINE><BODY>Cellular Communications Inc said that
+a unit purchased a 6.99 pct interest in the Cincinnati
+non-wireline cellular system.
+    As a result of the transaction, the company said it now
+owns 100 pct of the system in Cincinnati.
+ Reuter
+&#3;</BODY></TEXT>

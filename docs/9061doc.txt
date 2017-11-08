@@ -1,0 +1,36 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14582" NEWID="9061">
+<DATE>24-MAR-1987 17:11:15.09</DATE>
+<TOPICS><D>money-fx</D><D>dlr</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A RM
+&#22;&#22;&#1;f2623&#31;reute
+b f BC-/FED'S-JOHNSON-SAYS-F   03-24 0088</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FED'S JOHNSON SAYS FED ACTED TO STABILIZE DOLLAR</TITLE>
+<DATELINE>    WASHINGTON, March 24 - </DATELINE><BODY>Federal Reserve Board Vice Chairman
+Manuel Johnson said the dollar has stabilized against other
+currencies after action taken by the Fed.
+    "We have taken the appropriate action and the dollar has
+stabilized," Johnson said after testifying to a House Banking
+subcommittee.
+    He did not elaborate on the nature of the action nor when
+it was taken, but said that it was in the spirit of the
+agreement reached by six industrial nations in Paris recently.
+    Johnson said the dollar's decline against other currencies
+such as the Japanese yen has been gradual.
+    Since the accord by the United States, Britain, West
+Germany, Japan, France and Canada, foreign exchange markets
+have been closely watching for indications of intervention by
+central banks to determine the committment by those nations to
+their agreement.
+    The nations agreed that currency exchange rates were at
+about the correct levels when the pact was signed earlier this
+year.
+ Reuter
+&#3;</BODY></TEXT>

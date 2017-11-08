@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11445" NEWID="6532">
+<DATE>18-MAR-1987 10:54:28.53</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f8176&#31;reute
+u f BC-COMMERCIAL-NATIONAL-C   03-18 0050</UNKNOWN>
+<TEXT>&#2;
+<TITLE>COMMERCIAL NATIONAL CORP &lt;CNCL> CUTS QUARTERLY</TITLE>
+<DATELINE>    SHREVEPORT, La., March 18 - </DATELINE><BODY>Commercial National Corp said
+it cut its quarterly dividend to 15 cts per share from 25 cts
+due to current expectations for 1987 earnings.
+    The company said the dividend is payable April 10 to
+holders of record March 31.
+ Reuter
+&#3;</BODY></TEXT>

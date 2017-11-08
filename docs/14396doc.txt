@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="BYPASS" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="3379" NEWID="14396">
+<DATE> 7-APR-1987 14:55:07.49</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;TQ
+&#22;&#22;&#1;f2113&#31;reute
+u f BC-ny-oj-est-vol   04-07 0024</UNKNOWN>
+<TEXT TYPE="UNPROC">&#2;
+N.Y ORANGE JUICE ESTIMATED VOLUME-APRIL 7
+ Spot today nil            prev nil
+ Estimated volume            1000
+ Prev official volume         478
+
+&#3;
+
+</TEXT>

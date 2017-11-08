@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7031" NEWID="19195">
+<DATE>19-JUN-1987 10:53:53.52</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1111&#31;reute
+d f BC-ACTIVISION-&lt;AVSN.O>-R   06-19 0104</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ACTIVISION &lt;AVSN.O> RELEASES ENHANCED PROGRAM</TITLE>
+<DATELINE>    MOUNTAIN VIEW, Calif., June 19 - </DATELINE><BODY>Activision said it has
+released a new version of Paintworks Plus, a creativity and
+self-expression program, called Version 1.01.
+    The new version, for use on the Apple Computer Inc &lt;AAPL.O>
+Apple IIGS, includes a variety of features and functions not
+incorporated in the original program, Activision said.
+    The company added that registered owners of Paintworks Plus
+can get Version 1.01 free by submitting the front cover of
+their program manual as proof-of-purchase.
+    For others, the program sells for 79.95 dlrs, Activision
+said.
+ Reuter
+&#3;</BODY></TEXT>

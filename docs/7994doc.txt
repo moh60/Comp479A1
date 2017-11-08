@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13515" NEWID="7994">
+<DATE>20-MAR-1987 16:45:26.21</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2453&#31;reute
+d f BC-COMMONWEALTH-EDISON-C   03-20 0052</UNKNOWN>
+<TEXT>&#2;
+<TITLE>COMMONWEALTH EDISON CO &lt;CWE> 12 MONTHS NET</TITLE>
+<DATELINE>    CHICAGO, March 20 - </DATELINE><BODY>Period ended Feb 28
+    Shr 4.66 dlrs vs 4.40 dlrs
+    Net 1,048,884,000 vs 959,626,000
+    Revs 5.43 billion vs 5.04 billion
+    Avg shrs 200,242,000 vs 191,840,000
+    NOTE: Per-share earnings reflect payment of preferred
+dividend requirements
+ Reuter
+&#3;</BODY></TEXT>

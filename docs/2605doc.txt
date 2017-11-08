@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19022" NEWID="2605">
+<DATE> 6-MAR-1987 10:29:31.73</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0279&#31;reute
+r f BC-FISHER-TRANSPORTATION   03-06 0069</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FISHER TRANSPORTATION FILES FOR INITIAL OFFERING</TITLE>
+<DATELINE>    SPRINGDALE, Ark., March 6 - </DATELINE><BODY>&lt;Fisher Transportation Services
+Inc> said it has filed for an initial public offering of
+1,100,000 common shares at an expected price of six to seven
+dlrs a share through underwriters led by Laidlaw Adams and Peck
+Inc.
+    Fisher is an irregular route truckload quantity general
+commodity carrier operating throughout the continental U.S.
+ Reuter
+&#3;</BODY></TEXT>

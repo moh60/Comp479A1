@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15841" NEWID="10320">
+<DATE>27-MAR-1987 04:57:14.12&#5;&#5;&#5;RM</DATE>
+<UNKNOWN>&#22;&#22;&#1;f0278&#31;reute</UNKNOWN>
+<TOPICS></TOPICS>
+<PLACES><D>hong-kong</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+u f BC-PROPERTY-FIRM-RAISES   03-27 0112</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PROPERTY FIRM RAISES ONE BILLION H.K. DLR LOAN</TITLE>
+<DATELINE>    HONG KONG, March 27 - </DATELINE><BODY>&lt;Sunyou Intercontinental (H.K.) Ltd>
+has finalised the one billion H.K. Dlr loan for its hotel and
+office complex in the Kowloon tourist district, lead manager
+Standard Chartered Asia Ltd said.
+    Standard Chartered and co-lead Mitsui Trust Finance (Hong
+Kong) Ltd will take up some 60 pct of the loan. There are seven
+co-managers for the remainder: Bank of Communications, Bank of
+East Asia, Dai-Ichi Kangyo Bank, Daiwa Bank, Hang Seng Bank,
+Sumitomo Bank and Wing Lung Bank.
+    The 12-year loan, guaranteed by parent company &lt;Sun's
+Enterprise Ltd> of Japan, is to be signed by mid-April.
+ REUTER
+&#3;</BODY></TEXT>

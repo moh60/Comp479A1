@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20604" NEWID="20009">
+<DATE>20-OCT-1987 02:15:10.98</DATE>
+<TOPICS><D>money-fx</D></TOPICS>
+<PLACES><D>usa</D><D>west-germany</D></PLACES>
+<PEOPLE><D>sumita</D></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM AI 
+&#22;&#22;&#1;f0103&#31;reute
+f f BC-Sumita-welcomes-U.S.-   10-20 0012</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE>Sumita welcomes U.S.-West German joint confirmation of Louvre accord
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

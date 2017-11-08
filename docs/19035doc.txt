@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6871" NEWID="19035">
+<DATE>18-JUN-1987 23:58:21.89</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>japan</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f0001&#31;reute
+u f BC-FUJITSU,-FUJIAN-PROVI   06-18 0108</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FUJITSU, FUJIAN PROVINCE FORM JOINT VENTURE</TITLE>
+<DATELINE>    TOKYO, June 19 - </DATELINE><BODY>Fujitsu Ltd &lt;ITSU.T> said it signed a
+joint venture agreement with the Post and Telecommunication
+Administration Bureau of Fujian Province (PTABF), China to
+develop and sell software for the Fujitsu-designed digital
+telephone switching machine FETEX-150.
+    It said in a statement the joint company, &lt;Fujian Fujitsu
+Communications Software Ltd> located in Fuzhou city, was
+capitalised at about 10 mln yuan and was owned 51 pct by PTABF
+and 49 pct by Fujitsu.
+    It would create about 20 local jobs and has a target of
+annual software sales of 330 mln yen in 1992, Fujitsu said.
+ REUTER
+&#3;</BODY></TEXT>

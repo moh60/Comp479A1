@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9307" NEWID="4394">
+<DATE>12-MAR-1987 13:45:59.19</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>nyse</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0994&#31;reute
+r f BC-NYFE-SEAT-SOLD-FOR-20   03-12 0047</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NYFE SEAT SOLD FOR 200 DLRS</TITLE>
+<DATELINE>    NEW YORK, March 12 - </DATELINE><BODY>The New York Stock Exchange said a
+seat on the New York Futures Exchange sold for 200 dlrs, which
+is unchanged from the previous sale, made yesterday.
+    The NYSE said the current bid is 200 dlrs and the current
+offer is 300 dlrs.
+ Reuter
+&#3;</BODY></TEXT>

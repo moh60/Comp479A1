@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16564" NEWID="1244">
+<DATE> 3-MAR-1987 15:01:50.58</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F
+&#22;&#22;&#1;f0625&#31;reute
+r f BC-dh-howden-dividend   03-03 0024</UNKNOWN>
+<TEXT>&#2;
+<TITLE>&lt;D.H. HOWDEN AND CO LTD> INCREASES DIVIDEND</TITLE>
+<DATELINE>    LONDON, Ontario, March 3 -
+    </DATELINE><BODY>Semi-annual 30 cts vs 25 cts prior
+    Pay June 30
+    Record June 15
+ Reuter
+&#3;</BODY></TEXT>

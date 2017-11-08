@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12152" NEWID="7239">
+<DATE>19-MAR-1987 12:31:26.47</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A
+&#22;&#22;&#1;f1618&#31;reute
+r f BC-J-AND-J-SNACK-&lt;JJSF>   03-19 0052</UNKNOWN>
+<TEXT>&#2;
+<TITLE>J AND J SNACK &lt;JJSF> TO SELL CONVERTIBLE DEBT</TITLE>
+<DATELINE>    NEW YORK, March 19 - </DATELINE><BODY>J and J Snack Foods Corp said it filed
+with the Securities and Exchange Commission a registration
+statement covering a 25 mln dlr issue of convertible
+debentures.
+    The company said proceeds would be used for potential
+future acquisitions.
+ Reuter
+&#3;</BODY></TEXT>

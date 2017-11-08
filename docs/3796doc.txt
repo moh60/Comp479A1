@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="8709" NEWID="3796">
+<DATE>11-MAR-1987 13:08:50.92</DATE>
+<TOPICS><D>ship</D></TOPICS>
+<PLACES><D>netherlands</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G L M T
+&#22;&#22;&#1;f0020&#31;reute
+d f BC-DUTCH-PARLIAMENT-OFFE   03-11 0118</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DUTCH PARLIAMENT OFFERS LITTLE HELP IN PORT ROW</TITLE>
+<DATELINE>    ROTTERDAM, March 11 - </DATELINE><BODY>Dutch members of parliament said they
+could do little to help resolve the dispute over redundancies
+in Rotterdam port's general cargo sector and urged the union
+and employers to sort out their differences themselves.
+    Both sides gave evidence to the all-party standing
+committee on Social Affairs today, but committee members said
+they saw little chance of parliamentary intervention.
+    The dispute began on January 19 in protest at employers'
+plans for 800 redundancies from the 4,000-strong workforce,
+starting with 350 this year. The port and transport union, FNV,
+is to challenge the redundancies in an Amsterdam court
+tomorrow.
+ Reuter
+&#3;</BODY></TEXT>

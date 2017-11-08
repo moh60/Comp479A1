@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19829" NEWID="3407">
+<DATE> 9-MAR-1987 17:45:59.80</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0002&#31;reute
+u f BC-CBS-INC-&lt;CBS>-CHIEF-E   03-09 0110</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CBS INC &lt;CBS> CHIEF EXPLAINS NEWS STAFF CUTS</TITLE>
+<DATELINE>    NEW YORK, March 9 - </DATELINE><BODY>The need to eliminate "inefficiencies
+and redundancies" was behind the decision to dismiss more than
+200 employees at CBS News, according to a memo from Laurence
+Tisch, chief executive officer of CBS Inc.
+    CBS made public the memo to employes in which Tisch sought
+to re-assure news employes that news divison will have the
+resources to "serve the needs of the public" in the future.
+    Tisch said he accepted recommendations of the management of
+CBS News that 10 pct of the work force be trimmmed. "It was not
+an assignment that anyone relished or that I enjoyed giving
+them," he said.
+ Reuter
+&#3;</BODY></TEXT>

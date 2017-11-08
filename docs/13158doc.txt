@@ -1,0 +1,31 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="2127" NEWID="13158">
+<DATE> 3-APR-1987 16:36:25.80</DATE>
+<TOPICS><D>money-supply</D></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM A
+&#22;&#22;&#1;f2328&#31;reute
+b f BC--FEDERAL-RESERVE-BUSI   04-03 0095</UNKNOWN>
+<TEXT TYPE="UNPROC">&#2;
+FEDERAL RESERVE BUSINESS LOAN DATA - APRIL 3
+     One week ended March 25   daily avgs-mlns
+ U.S. Business Loans......280,220 down......971
+ Excluding Acceptances....277,940 down......822
+ Govt, agency securities..112,852 down.......95
+ CDs/major time deposits..158,226 down......175
+ Trading accounts .........17,156 down... 1,058
+ U.S. commercial paper....338,816 down......210
+ Includes financial cos...261,819 down......880
+ New York business loans...64,615 down......122
+ Excluding acceptances.....64,005 down.......41
+ CDs/major time deposits...35,633 down......540
+
+ Reuter
+&#3;
+
+</TEXT>

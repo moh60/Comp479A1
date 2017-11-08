@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="506" NEWID="12278">
+<DATE> 1-APR-1987 15:58:54.98</DATE>
+<TOPICS><D>interest</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;C G
+&#22;&#22;&#1;f2351&#31;reute
+u f BC-CCC-INTEREST-RATE-FOR   04-01 0060</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CCC INTEREST RATE FOR APRIL IS SIX PCT -- USDA</TITLE>
+<DATELINE>    WASHINGTON, April 1 - </DATELINE><BODY>The Commodity Credit Corporation
+(CCC) interest rate on loans disbursed in April will carry a
+six pct ionterest rate, the U.S. Agriculture Department said.
+    The April rate is up from March's 5-7/8 pct and reflects
+the interest rate charged CCC by the U.S. Treasury, the
+department said.
+ Reuter
+&#3;</BODY></TEXT>

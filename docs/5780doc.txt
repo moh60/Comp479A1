@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10693" NEWID="5780">
+<DATE>16-MAR-1987 23:59:54.22</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>hong-kong</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f4040&#31;reute
+u f BC-HONGKONG-BANK-SAYS-CL   03-16 0069</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HONGKONG BANK SAYS CLOSE TO DEAL ON PROPERTY SALE</TITLE>
+<DATELINE>    HONG KONG, March 17 - </DATELINE><BODY>Hongkong and Shanghai Banking Corp
+&lt;HKBH.HK> is close to a deal on the sale of a commercial
+building in Hong Kong's Mongkok business district, a bank
+spokesman said.
+    He said the 21-storey Wayfoong Plaza was likely to be sold
+for about 280 mln H.K. Dlrs but declined to identify the buyer.
+    The spokesman gave no further details.
+ REUTER
+&#3;</BODY></TEXT>

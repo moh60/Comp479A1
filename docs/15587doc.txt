@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5485" NEWID="15587">
+<DATE> 9-APR-1987 10:49:45.65</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1165&#31;reute
+u f BC-FEDERATED-DEPARTMENT   04-09 0061</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FEDERATED DEPARTMENT STORES &lt;FDS> MARCH SALES UP</TITLE>
+<DATELINE>    CINCINNATI, April 9 - </DATELINE><BODY>Federated Department Stores Inc said
+sales for the five weeks ended April Four were up 4.9 pct to
+934.9 mln dlrs from 891.6 mln dlrs a year before.,
+    The company said sales for the first two months of its
+fiscal year were up 6.8 pct to 1.65 billion dlrs from 1.55
+billion dlrs a year before.
+ Reuter
+&#3;</BODY></TEXT>

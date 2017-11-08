@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7423" NEWID="17978">
+<DATE> 2-JUN-1987 09:11:19.19</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0863&#31;reute
+u f BC-RESDEL-&lt;RSDL.O>,-SAN/   06-02 0050</UNKNOWN>
+<TEXT>&#2;
+<TITLE>RESDEL &lt;RSDL.O>, SAN/BAR &lt;SBAR.O> IN MERGER DEAL</TITLE>
+<DATELINE>    NEWPORT BEACH, Calif., June 2 - </DATELINE><BODY>Resdel Industries Inc said
+it has agreed to acquire San/Bar Corp in a share-for-share
+exchange, after San/Bar distributes all shgares of its
+Break-Free Corp subsidiary to San/Bar shareholders on a
+share-for-share basis.
+    The company said also before the merger, San/Bar would
+Barry K. Hallamore and Lloyd G. Hallamore, San/Bar's director
+of corporate development, 1,312,500 dlrs and 1,087,500 dlrs
+respectviely under agreements entered into in October 1983.
+ Reuter
+&#3;</BODY></TEXT>

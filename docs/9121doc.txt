@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14642" NEWID="9121">
+<DATE>24-MAR-1987 20:06:02.36</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D><D>brazil</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f2859&#31;reute
+f f BC-Miami-Brazil-says-it   03-24 0013</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE>Miami-Brazil says it expects to make no interest payments before March 31
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

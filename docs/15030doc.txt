@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4013" NEWID="15030">
+<DATE> 8-APR-1987 10:39:22.31</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D><D>japan</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1185&#31;reute
+d f BC-FEDERAL-PAPERBOARD-&lt;F   04-08 0057</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FEDERAL PAPERBOARD &lt;FBO> ENTERS AGREEMENT</TITLE>
+<DATELINE>    MONTVALE, N.J., April 8 - </DATELINE><BODY>Federal Paperboard Co Inc said it
+has entered into an agreement with Ozaki Trading Co Ltd of
+Osaka, Japan, allowing Ozaki to represent Federal Paperboard's
+bleached paperboard sales in Japan.
+    Federal added it will be opening an office in Japan in the
+near future.
+   
+ Reuter
+&#3;</BODY></TEXT>

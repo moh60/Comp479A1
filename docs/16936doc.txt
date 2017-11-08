@@ -1,0 +1,20 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="NOT-USED" CGISPLIT="PUBLISHED-TESTSET" OLDID="21586" NEWID="16936">
+<DATE>21-APR-1987 01:51:16.09</DATE>
+<TOPICS><D>grain</D><D>rice</D></TOPICS>
+<PLACES><D>pakistan</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;G C
+&#22;&#22;&#1;f0053&#31;reute
+u f BC-PAKISTAN-INVITES-TEND   04-21 0038</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PAKISTAN INVITES TENDERS FOR 15,000 TONNES RICE</TITLE>
+<DATELINE>    KARACHI, April 21 - </DATELINE><BODY>Rice Export Corp of Pakistan Ltd said
+it had invited tenders up to May 7 for the export of 15,000
+tonnes of rice from the 1985-86 (November/March) crop.
+ REUTER
+&#3;</BODY></TEXT>

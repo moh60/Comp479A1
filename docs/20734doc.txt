@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="21329" NEWID="20734">
+<DATE>20-OCT-1987 16:36:40.11</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f3212&#31;reute
+d f BC-&lt;RESER'S-FINE-FOODS-I   10-20 0059</UNKNOWN>
+<TEXT>&#2;
+<TITLE>&lt;RESER'S FINE FOODS INC> TO GO PRIVATE</TITLE>
+<DATELINE>    PORTLAND, Ore., Oct 20 - </DATELINE><BODY>Reser's Fine Foods Inc said
+certain directors and officers, who currently represent about
+85 pct of the company's stock, plan to take Reser's private
+through a cash buyout.
+    The company said the group plans to offer 12.50 dlrs per
+share for the 15 pct of its stock currently outstanding.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5060" NEWID="16021">
+<DATE> 9-APR-1987 17:41:35.88</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2762&#31;reute
+r f BC-GREAT-AMERICAN-MGMT&lt;G   04-09 0102</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GREAT AMERICAN MGMT&lt;GAMI> HAS ATCOR&lt;ATCO> STAKE</TITLE>
+<DATELINE>    WASHINGTON, April 9 - </DATELINE><BODY>Great American Management and
+Investment Inc told the Securities and Exchange Commission it
+acquired a 7.7 pct stake in Atcor Inc.
+    Great American said it bought the stake for investment.
+    It added that it has also considered--but not yet
+decided--to buy additional Atcor shares, either in the open
+market, in private transactions, through a tender offer or
+otherwise.
+    Great American said it paid about 6.1 mln dlrs for its
+462,400 Atcor shares. It said its most recent purchases
+included 191,400 shares bought March 18-April 6.
+ Reuter
+&#3;</BODY></TEXT>

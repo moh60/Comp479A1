@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1415" NEWID="16880">
+<DATE>17-APR-1987 13:09:34.17</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0358&#31;reute
+d f BC-CALNY-&lt;CLNY.O>-NAMES   04-17 0061</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CALNY &lt;CLNY.O> NAMES NEW PRESIDENT</TITLE>
+<DATELINE>    SAN MATEO, Calif., April 17 - </DATELINE><BODY>Calny Inc said M. Hal Taylor
+has been named poresident and chief operating officer,
+succeeding Marvin Hart, who had been serving as president on an
+interim basis and remains chairman and chief executive.
+    The company said Taylor, who joined the company in January,
+has also been named to the board.
+ Reuter
+&#3;</BODY></TEXT>

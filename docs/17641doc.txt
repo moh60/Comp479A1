@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5979" NEWID="17641">
+<DATE> 1-JUN-1987 12:54:00.11</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1753&#31;reute
+d f BC-INFINITE-GRAPHICS-&lt;IN   06-01 0101</UNKNOWN>
+<TEXT>&#2;
+<TITLE>INFINITE GRAPHICS &lt;INFG.O> TO POST PROFIT</TITLE>
+<DATELINE>    CHICAGO, June 1 - </DATELINE><BODY>Infinite Graphics Inc expects to report
+earnings for the fiscal year ended April 30 of about 360,000
+dlrs, or 20 cts a share, Chairman Cliff Stritch Jr told Reuters
+in an interview.
+    In the prior fiscal year, the Minneapolis-based company
+reported a loss of 812,000 dlrs or 46 cts a share.
+    Stritch cited strength in the company's electrical printed
+circuit board software and CAD/CAM (computer aided
+design/computer aided manufacturing) business. He also said two
+new products, using scanning and vectorization, are under
+development.
+ Reuter
+&#3;</BODY></TEXT>

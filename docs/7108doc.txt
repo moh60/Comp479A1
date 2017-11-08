@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12021" NEWID="7108">
+<DATE>19-MAR-1987 10:19:37.13</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F
+&#22;&#22;&#1;f1001&#31;reute
+r f BC-pagurian   03-19 0058</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PAGURIAN TO BUY BACK UP TO 10 PCT OF STOCK</TITLE>
+<DATELINE>    TORONTO, March 19 - </DATELINE><BODY>&lt;Pagurian Corp Ltd> said it filed a
+notice with the Toronto Stock Exchange to buy back up to 10 pct
+of its publicly held class A non-voting shares over a one-year
+period starting April three.
+    About 27.9 mln of the company's 47.2 mln class A shares are
+publicly held at present.
+ Reuter
+&#3;</BODY></TEXT>

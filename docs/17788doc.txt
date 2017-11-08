@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6126" NEWID="17788">
+<DATE> 1-JUN-1987 16:21:03.56</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F
+&#22;&#22;&#1;f2392&#31;reute
+r f BC-INTERNATIONAL-CORONA   06-01 0058</UNKNOWN>
+<TEXT>&#2;
+<TITLE>INTERNATIONAL CORONA &lt;ICR.TO> 2ND QTR NET</TITLE>
+<DATELINE>    TORONTO, June 1 - </DATELINE><BODY>Period ended March 31
+    Oper shr profit four cts vs loss 17 cts
+    Oper net profit 584,000 vs loss 2,165,000
+    Revs 7,493,000 vs not given
+    SIX MTHS
+    Oper shr profit eight cts vs loss 14 cts
+    Oper net profit 1,177,000 vs loss 1,778,000
+    Revs 14.8 mln vs not given.
+   
+ reuter
+&#3;</BODY></TEXT>

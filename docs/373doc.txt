@@ -1,0 +1,20 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12555" NEWID="373">
+<DATE> 2-MAR-1987 08:38:57.06</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0353&#31;reute
+d f BC-NCR-&lt;NCR>-SIGNS-LICEN   03-02 0032</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NCR &lt;NCR> SIGNS LICENSE AGREEMENT</TITLE>
+<DATELINE>    NEW YORK, March 2 - </DATELINE><BODY>&lt;Willemijn Holding BV> of Rotterdam
+said it has licensed NCR Corp to produce and sell products and
+services using token ring technology.
+ Reuter
+&#3;</BODY></TEXT>

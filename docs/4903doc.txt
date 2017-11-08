@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9815" NEWID="4903">
+<DATE>13-MAR-1987 12:57:54.86</DATE>
+<TOPICS><D>trade</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;V
+&#22;&#22;&#1;f0766&#31;reute
+u f BC-WHITE-HOUSE-SAYS-TRAD   03-13 0086</UNKNOWN>
+<TEXT>&#2;
+<TITLE>WHITE HOUSE SAYS TRADE BILL GENERALLY GOOD</TITLE>
+<DATELINE>    WASHINGTON, March 13 - </DATELINE><BODY>White House spokesman Marlin
+Fitzwater said the administration had some disagreements with
+the trade bill that cleared a House subcommittee yesterday but
+generally felt good about the bill.
+    "Generally we feel very good about the bipartisan
+consideration of the trade legislation. I think we are
+progressing very well," he told reporters.
+    "There are wide areas of agreement. There are some areas of
+disagreement," he said.                 
+ Reuter
+&#3;</BODY></TEXT>

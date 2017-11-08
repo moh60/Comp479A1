@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18424" NEWID="2006">
+<DATE> 5-MAR-1987 09:23:44.74</DATE>
+<TOPICS><D>copper</D></TOPICS>
+<PLACES><D>chile</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C M
+&#22;&#22;&#1;f0022&#31;reute
+b f BC-NO-QUAKE-DAMAGE-AT-CH   03-05 0089</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NO QUAKE DAMAGE AT CHUQUICAMATA - MINE SPOKESMAN</TITLE>
+<DATELINE>    SANTIAGO, March 5 - </DATELINE><BODY>The earthquake which hit northern Chile
+today, registering 7.0 on the open-ended Richter scale, caused
+no damage to the copper mine at Chuquicamata, a mine spokesman
+said.
+    Chuquicamata public relations director Guillermo Barcelo
+told Reuters by telephone from the mine that the quake had
+caused no problems and operations continued as usual.
+    A spokesman for the state Chilean Copper Commission in
+Santiago confirmed there had been no damage at Chuquicamata.
+ Reuter
+&#3;</BODY></TEXT>

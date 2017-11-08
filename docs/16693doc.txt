@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1228" NEWID="16693">
+<DATE>13-APR-1987 16:53:37.35</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2631&#31;reute
+r f BC-textron-vice-chairman   04-13 0058</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TEXTRON &lt;TXT> VICE-CHAIRMAN RESIGNS</TITLE>
+<DATELINE>    PROVIDENCE, R.I., April 13 - </DATELINE><BODY>Textron Inc said E. Paul Casey
+resigned as vice-chairman and a director to pursue other
+interests.
+    Casey assumed his duties at Textron in October, 1986,
+following acquisition of Ex-Cell-O Corp by Textron. Casey was
+formerly chairman, president and chief executive of Ex-Cell-O.
+ Reuter
+&#3;</BODY></TEXT>

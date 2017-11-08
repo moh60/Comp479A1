@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9248" NEWID="4335">
+<DATE>12-MAR-1987 12:33:31.13</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>amex</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0724&#31;reute
+u f BC-BADGER-&lt;BMI>-SEES-NO   03-12 0060</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BADGER &lt;BMI> SEES NO REASON FOR TRADING ACTIVITY</TITLE>
+<DATELINE>    MILWAUKEE, March 12 - </DATELINE><BODY>Badger Meter Inc said it was not
+aware of any reason for the unusual trading activity in its
+common stock.
+    Badger was trading at 21-5/8, up 1-5/8.
+    The company made the statement in response to an inquiry
+from the American Stock Exchange regarding the unusual activity
+in its stock.
+ Reuter
+&#3;</BODY></TEXT>

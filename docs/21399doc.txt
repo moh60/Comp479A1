@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20037" NEWID="21399">
+<DATE>19-OCT-1987 10:25:13.75</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1242&#31;reute
+d f BC-DAHLBERG-&lt;DAHL.O>-COM   10-19 0079</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DAHLBERG &lt;DAHL.O> COMPLETES SEARS&lt;S> AGREEMENT</TITLE>
+<DATELINE>    MINNEAPOLIS, Oct 19 - </DATELINE><BODY>Dahlberg Inc said it completed a
+previously announced agreement with Sears, Roebuck and Co to
+operate hearing aid centers in sears stores on a national
+basis.
+    Dahlberg currently operates some 142 hearing aid centers on
+a concession basis in Sears stores.
+    In connection with the program, the company said it granted
+Sears an option to buy up to 300,000 shares of Dahlberg stock
+at 12 dlrs a share.
+ Reuter
+&#3;</BODY></TEXT>

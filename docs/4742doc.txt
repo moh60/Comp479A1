@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9655" NEWID="4742">
+<DATE>13-MAR-1987 08:27:58.60</DATE>
+<TOPICS><D>crude</D></TOPICS>
+<PLACES><D>egypt</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G T M
+&#22;&#22;&#1;f0663&#31;reute
+u f BC-WEATHER-CLOSES-ALEXAN   03-13 0067</UNKNOWN>
+<TEXT>&#2;
+<TITLE>WEATHER CLOSES ALEXANDRIA PORT, SUMED OIL TERMINAL</TITLE>
+<DATELINE>    ALEXANDRIA, Egypt, March 13 - </DATELINE><BODY>Strong winds and high seas
+forced the closure of Egypt's main port of Alexandria and a
+nearby oil terminal, port officials said.
+    Tanker loading at the Suez-Mediterranean Arab Petroleum
+Pipelines Co in Sedi Kerir, southwest of here, stopped and
+officials said five tankers were at anchorage awaiting improved
+weather.
+ Reuter
+&#3;</BODY></TEXT>

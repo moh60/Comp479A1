@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6077" NEWID="17739">
+<DATE> 1-JUN-1987 14:59:44.64</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2173&#31;reute
+d f BC-EPSCO-&lt;EPSC.O>-GETS-R   06-01 0045</UNKNOWN>
+<TEXT>&#2;
+<TITLE>EPSCO &lt;EPSC.O> GETS RAYTHEON &lt;RTN> CONTRACTS</TITLE>
+<DATELINE>    WESTWOOD, Mass., June 1 - </DATELINE><BODY>EPSCO Inc said it has receiveed
+contracts worth 2,800,000 dlrs from Raytheon Co for
+high-powered microwave components and antenna feed subsystems
+for use on the Patriot air defense missile system.
+ Reuter
+&#3;</BODY></TEXT>

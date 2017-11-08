@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17064" NEWID="11003">
+<DATE>30-MAR-1987 14:23:31.58</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2195&#31;reute
+h f BC-TRACOR-&lt;TRR>-UNIT-WIN   03-30 0064</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TRACOR &lt;TRR> UNIT WINS NAVY CONTRACT</TITLE>
+<DATELINE>    AUSTIN, March 30 - </DATELINE><BODY>Tracor Inc said its Tracor Applied
+Sciences unit was awarded a 1.9 mln dlr contract by the U.S.
+Navy's Naval Underwater Systems Center.
+    Under the contract, Tracor said the unit will provide
+analytical, experimental, engineering and technical services to
+the Navy's Surface Ships Antisubmarine Warefare Development
+Program.
+ Reuter
+&#3;</BODY></TEXT>

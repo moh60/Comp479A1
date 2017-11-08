@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18516" NEWID="2098">
+<DATE> 5-MAR-1987 10:43:41.80</DATE>
+<TOPICS><D>reserves</D></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0386&#31;reute
+f f BC-French-official-reser   03-05 0016</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE> French official reserves 375.95 billion francs end Jan (421.00 billion end Dec) - official
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

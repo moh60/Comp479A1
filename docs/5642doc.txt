@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10555" NEWID="5642">
+<DATE>16-MAR-1987 15:36:28.44</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>cme</D><D>cboe</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f3467&#31;reute
+r f BC-MORGAN-&lt;MS>-LICENSES   03-16 0096</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MORGAN &lt;MS> LICENSES OVERSEAS INDEX FOR TRADING</TITLE>
+<DATELINE>    CHICAGO, March 16 - </DATELINE><BODY>Morgan Stanley Group Inc said its
+Capital International Europe, Australia and Far East, or EAFE,
+stock index will be a used as a basis for trading futures and
+listed options.
+    The company said it granted licenses to the Chicago
+Mercantile Exchange and the Chicago Board of Options for the
+EAFE index.
+    The index includes 900 companies representing 16 national
+stock markets in Europe, Australia and the Far East. It is used
+as a benchmark of international stock market activity, the
+company said.
+
+ Reuter
+&#3;</BODY></TEXT>

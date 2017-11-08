@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18154" NEWID="1736">
+<DATE> 4-MAR-1987 15:13:04.11</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F
+&#22;&#22;&#1;f0537&#31;reute
+r f BC-chrysler-canada-sales   03-04 0053</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CHRYSLER &lt;C> CANADA FEBRUARY CAR SALES FALL</TITLE>
+<DATELINE>    WINDSOR, Ontario, March 4 - </DATELINE><BODY>Chrysler Canada Ltd, wholly
+owned by Chrysler Corp, said February car sales fell to 9,640
+units from year-earlier 11,967 units.
+    Chrysler Canada said year-to-date car sales fell to 18,094
+units from 22,073 units in the same period last year.
+ Reuter
+&#3;</BODY></TEXT>

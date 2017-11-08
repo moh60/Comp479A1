@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12075" NEWID="7162">
+<DATE>19-MAR-1987 11:06:53.13</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1221&#31;reute
+r f BC-AMERICAN-ELECTRIC-&lt;AE   03-19 0046</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AMERICAN ELECTRIC &lt;AEP> UNIT TO REDEEM PREFERRED</TITLE>
+<DATELINE>    CANTON, Ohio, March 19 - </DATELINE><BODY>American Electric Power Co's Ohio
+Power Co subsidiary said that on June 1 it will redeem 40,000
+of its 177,760 shares of Series A 14 pct cumulative preferred
+shares at par value of 100 dlrs per share.
+ Reuter
+&#3;</BODY></TEXT>

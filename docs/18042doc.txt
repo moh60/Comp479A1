@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7487" NEWID="18042">
+<DATE> 2-JUN-1987 10:55:50.84</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1273&#31;reute
+h f BC-ORBIT-&lt;ORBT.O>-UNIT-I   06-02 0083</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ORBIT &lt;ORBT.O> UNIT INCREASES BACKLOG</TITLE>
+<DATELINE>    HAUPPAUGE, N.Y., June 2 - </DATELINE><BODY>Orbit Instrument Corp said its
+unit, Orbit Semiconductor Inc, has received orders totalling
+about 2.5 mln dlrs which puts its backlog at a record level of
+about 4.7 mln dlrs.
+    Additionally, the company said it will now offer two Micron
+CMOS processes that can withstand Megarad total dose radiation.
+    Applications for the processes include products
+manufactured for military, medical and power industry market,
+the company said.
+ Reuter
+&#3;</BODY></TEXT>

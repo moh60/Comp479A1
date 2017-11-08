@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9653" NEWID="4740">
+<DATE>13-MAR-1987 08:25:25.42</DATE>
+<TOPICS><D>ship</D></TOPICS>
+<PLACES><D>brazil</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G L M T
+&#22;&#22;&#1;f0656&#31;reute
+b f BC-TWO-BRAZILIAN-SHIPPIN   03-13 0111</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TWO BRAZILIAN SHIPPING FIRMS SETTLE WITH STRIKERS</TITLE>
+<DATELINE>    SAO PAULO, March 13 - </DATELINE><BODY>Two small shipping companies reached
+a pay deal with striking seamen late yesterday, but union
+leaders said most of Brazil's 40,000 seamen were still on
+strike.
+    A union spokesman in Rio de Janeiro said the seamen had
+accepted a 120 pct pay raise offer from the companies, Globo
+and Flumar, which have less than 200 employees each.
+    The two-week strike comes as Brazil faces a debt crisis and
+is delaying exports badly needed to earn foreign exchange.
+    Labour Minister Almir Pazzionotto said the government will
+not force a settlement of the strike, which was ruled illegal
+last Friday.
+ Reuter
+&#3;</BODY></TEXT>

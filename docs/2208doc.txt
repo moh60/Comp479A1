@@ -1,0 +1,20 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18626" NEWID="2208">
+<DATE> 5-MAR-1987 11:57:19.76</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0777&#31;reute
+u f BC-ROSS-STORES-&lt;ROST>FEB   03-05 0038</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ROSS STORES &lt;ROST>FEBRUARY SAME-STORE SALES FLAT</TITLE>
+<DATELINE>    NEWARK, Calif., March 5 - </DATELINE><BODY>Ross Stores Inc said sales for
+the four weeks ended February 28 were up 33 pct to 40 mln dlrs
+from 30 mln dlrs a year earlier, with same-store sales flat.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9990" NEWID="5077">
+<DATE>13-MAR-1987 16:42:22.84</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0491&#31;reute
+d f BC-TONY-LAMA-&lt;TLAM>-TO-B   03-13 0083</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TONY LAMA &lt;TLAM> TO BUY &lt;COULSON OF TEXAS INC></TITLE>
+<DATELINE>    EL PASO, Texas, March 13 - </DATELINE><BODY>Tony Lama Co Inc said it signed
+a letter of intent to buy Coulson of Texas Inc, a maker of
+heels and leather components.
+    The company said exact terms of the deal have not been
+determined but that it does not expect the acquisition to have
+a material effect on its financial position.
+    In addition to buying substantially of all Coulson's
+assets, Tony Lama said it would assume certain of the company's
+liabilities.
+ Reuter
+&#3;</BODY></TEXT>

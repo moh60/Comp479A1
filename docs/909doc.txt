@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16229" NEWID="909">
+<DATE> 3-MAR-1987 04:44:27.69</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>japan</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0714&#31;reute
+u f BC-JAPANESE-BANKS-PLAN-J   03-03 0084</UNKNOWN>
+<TEXT>&#2;
+<TITLE>JAPANESE BANKS PLAN JOINT FIRM TO AVOID DEBT RISK</TITLE>
+<DATELINE>    TOKYO, March 3 - </DATELINE><BODY>Japan's major commercial banks plan to set
+up a joint company to which they will transfer assets acquired
+by lending to developing countries to build up a reserve
+against possible bad loans, a senior official of a major bank
+told Reuters.
+    He said about 10 banks are likely to finish details of the
+project in a few weeks. The intent is to avoid risk arising
+from unrecoverable debt owed by Third World countries, he said.
+ REUTER
+&#3;</BODY></TEXT>

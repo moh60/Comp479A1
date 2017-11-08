@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="8434" NEWID="3521">
+<DATE>11-MAR-1987 07:21:39.10</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>china</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F A
+&#22;&#22;&#1;f0621&#31;reute
+d f BC-BANK-OF-CHINA-TO-JOIN   03-11 0092</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BANK OF CHINA TO JOIN VISA INTERNATIONAL</TITLE>
+<DATELINE>    HONG KONG, March 11 - </DATELINE><BODY>The Bank of China will become a
+card-issuing member of &lt;Visa International> this year, Visa's
+chief general manager for Asia, Carl Pascarella, said in a
+statement.
+    Visa is designing a card for China, where international
+credit cards are accepted but not yet issued.
+    He said Visa was developing training programs for the bank
+on card issuance and processing procedures. A Chinese group
+will visit Visa's San Francisco headquarters next month to
+discuss future cooperation, he said.
+ REUTER
+&#3;</BODY></TEXT>

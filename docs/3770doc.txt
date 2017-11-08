@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="8673" NEWID="3770">
+<DATE>11-MAR-1987 12:36:52.67</DATE>
+<TOPICS><D>trade</D></TOPICS>
+<PLACES><D>belgium</D><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS><D>ec</D></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G
+&#22;&#22;&#1;f0889&#31;reute
+r f BC-EC-CONCERN-OVER-U.S.   03-11 0111</UNKNOWN>
+<TEXT>&#2;
+<TITLE>EC CONCERNED OVER U.S. TEXTILE IMPORT MOVES</TITLE>
+<DATELINE>    BRUSSELS, March 11 - </DATELINE><BODY>The European Community (EC) expressed
+disquiet over protectionist moves in the United States to limit
+imports of textiles and said it would retaliate immediately if
+EC exports were hit.
+    A spokeswoman for the EC Commission said EC External Trade
+Commissioner Willy De Clercq had written to his U.S.
+Counterpart, special U.S. Trade Representative Clayton Yeutter,
+outlining the concerns of the 12-nation Community.
+    The draft legislation under consideration by Congress would
+impose permanent quotas on products entering the U.S. and seek
+to limit any increase to a growth in the overall trade.
+ Reuter
+&#3;</BODY></TEXT>

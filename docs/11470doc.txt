@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17532" NEWID="11470">
+<DATE>31-MAR-1987 12:37:00.70</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1826&#31;reute
+u f BC-SYMS-CORP-&lt;SYM>-4TH-Q   03-31 0037</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SYMS CORP &lt;SYM> 4TH QTR</TITLE>
+<DATELINE>    NEW YORK, March 31 -
+    </DATELINE><BODY>Shr 43 cts vs 25 cts
+    Net 7.6 mln vs 4.4 mln
+    Revs 72.0 mln vs 66.9 mln
+    Year
+    Shr 84 cts vs 72 cts
+    Net 14.8 mln vs 12.7 mln
+    Revs 223.1 mln vs 215.2 mln
+    NOTE: 1986 4th qtr inludes gain of 2.6 mln dlrs on sale of
+real estate.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18309" NEWID="1891">
+<DATE> 4-MAR-1987 19:10:21.11</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0101&#31;reute
+r f BC-BUTTES-GAS-AND-OIL-&lt;B   03-04 0059</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BUTTES GAS AND OIL &lt;BGO.P> FILES BANKRUPTCY PLAN</TITLE>
+<DATELINE>    OAKLAND, Calif., March 4 - </DATELINE><BODY>Buttes Gas and Oil Co said it
+filed a plan of reorganization in a U.S. Bankruptcy court
+handling its Chapter 11 bankruptcy case.
+    The company said the plan wll provide for distribution of
+cash, promissory notes and stock among 12 classes of creditors
+and equity interests.
+ Reuter
+&#3;</BODY></TEXT>

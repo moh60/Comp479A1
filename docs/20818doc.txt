@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="21413" NEWID="20818">
+<DATE>20-OCT-1987 18:38:50.95</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f3549&#31;reute
+h f BC-ICOT-&lt;ICOT.O>-TO-BUY   10-20 0042</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ICOT &lt;ICOT.O> TO BUY BACK MOST OF ITS SHARES</TITLE>
+<DATELINE>    SAN JOSE, Calif., Oct 20 - </DATELINE><BODY>ICOT Corp said it will
+periodically repurchase up to 7,500,000 of its 10,800,000
+outstanding shares.
+    The company said funds for the buy-back will come from
+working capital.
+   
+ Reuter
+&#3;</BODY></TEXT>

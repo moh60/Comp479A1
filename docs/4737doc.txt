@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9650" NEWID="4737">
+<DATE>13-MAR-1987 08:22:32.18</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0651&#31;reute
+h f BC-USX-&lt;X>-GETS-GEORGE-W   03-13 0105</UNKNOWN>
+<TEXT>&#2;
+<TITLE>USX &lt;X> GETS GEORGE WASHINGTON BRIDGE WORK</TITLE>
+<DATELINE>    NEW YORK, March 13 - </DATELINE><BODY>The Port Authority of New York and New
+Jersey said it has awarded USX Corp a 3,400,000 dlr contract to
+replace the expansion joints and gratings on the upper level of
+the George Washington Bridge between New York and Fort Lee,
+N.J.
+    It said most of the joints and gratings have been in place
+for over 50 years.  The bridge opened in 1931
+    Work on the project should start this spring and be
+completed in the fall of 1988, it said.  Work affecting traffic
+will be performed on weeknights and at least one lane in each
+direction will remain open at all times.
+ Reuter
+&#3;</BODY></TEXT>

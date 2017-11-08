@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10552" NEWID="5639">
+<DATE>16-MAR-1987 15:34:42.04</DATE>
+<TOPICS><D>grain</D><D>wheat</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G
+&#22;&#22;&#1;f3461&#31;reute
+r f BC-SENS.-DANFORTH,-BOND   03-16 0119</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SENS. DANFORTH, BOND ASK TARGETED 0/92 MEASURE</TITLE>
+<DATELINE>    WASHINGTON, March 16 - </DATELINE><BODY>Missouri Republican Senators John
+Danforth and Christopher Bond have introduced a bill that would
+allow wheat and feedgrain producers along the Mississippi and
+Missouri Rivers hurt by flooding last year to collect at least
+92 pct of their deficiency payments this year without planting.
+    Danforth aide Austin Schlick said the bill was similar to a
+provision included in a House Agriculture Committee-passed
+emergency disaster assistance bill scheduled to be taken up by
+the House tomorrow.
+    Schlick said flooding destroyed a number of levees along
+the two rivers last October, leaving farmland there vulnerable
+to further damage this year.
+ Reuter
+&#3;</BODY></TEXT>

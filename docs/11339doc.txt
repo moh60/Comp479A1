@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17401" NEWID="11339">
+<DATE>31-MAR-1987 10:09:55.77</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1144&#31;reute
+d f BC-OLD-DOMINION-SYSTEMS   03-31 0064</UNKNOWN>
+<TEXT>&#2;
+<TITLE>OLD DOMINION SYSTEMS &lt;ODSI> GETS CONTRACT</TITLE>
+<DATELINE>    GERMANTOWN, Md., March 31 - </DATELINE><BODY>Old Dominion Systems Inc said
+it has received a contract to provide multi-line voice
+messaging systems to the U.S. Immigration and Naturalization
+Service.
+    It said the contract is to provide 280,000 dlrs of
+equipment immediately and contains options for the purchase of
+another 800,000 dlrs worth through May 30.
+ Reuter
+&#3;</BODY></TEXT>

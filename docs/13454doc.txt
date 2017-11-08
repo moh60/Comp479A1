@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="BYPASS" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="2437" NEWID="13454">
+<DATE> 7-APR-1987 06:10:58.66</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C T
+&#22;&#22;&#1;f0317&#31;reute
+b f BC-LONDON-SUGAR-OPENS-SL   04-07 0117</UNKNOWN>
+<TEXT>&#2;
+<TITLE>LONDON SUGAR OPENS SLIGHTLY EASIER</TITLE>
+<DATELINE>    LONDON, April 7 - </DATELINE><BODY>Raw sugar futures continued their
+overnight decline in early trading by posting losses from
+yesterday's final call of 0.40 to 1.20 dlrs, dealers said.
+    Volume at the end of a 10 minute opening call was 85 lots.
+    The modest fall was attributed to lack of follow-through to
+yesterday's mid-session rise with New York's similar downturn
+yesterday seen as an additional unsettling influence, they
+said.
+    There is no fresh physicals news although India and Syria
+are in the market tomorrow for whites, to coincide with the
+weekly white sugar tender by the European Community (EC).
+    Near Aug was at 155.40 dlrs traded from 155.80 bid.
+ REUTER
+&#3;</BODY></TEXT>

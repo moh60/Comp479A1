@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4592" NEWID="15414">
+<DATE> 9-APR-1987 06:42:44.71</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>switzerland</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0377&#31;reute
+u f BC-COUPON-CUT-ON-BANK-OF   04-09 0078</UNKNOWN>
+<TEXT>&#2;
+<TITLE>COUPON CUT ON BANK OF TOKYO SWISS FRANC ISSUE</TITLE>
+<DATELINE>    ZURICH, April 9 - </DATELINE><BODY>The coupon on the Bank of Tokyo Ltd's 100
+mln Swiss franc convertible has been cut to 7/8 pct from the
+indicated 1-1/4 pct, lead manager Swiss Bank Corp said.
+    The conversion price has been set at 1,590 yen, the same as
+today's close.
+    The exchange rate has been set at 96.84 yen to the franc.
+    Payment is due April 30. The conversion period is from May
+20, 1987 until September 20, 1992.
+ REUTER
+&#3;</BODY></TEXT>

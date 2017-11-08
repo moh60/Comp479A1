@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6044" NEWID="17706">
+<DATE> 1-JUN-1987 14:23:43.75</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2049&#31;reute
+r f BC-U.S.-VIDEO-&lt;VVCO.O>,   06-01 0071</UNKNOWN>
+<TEXT>&#2;
+<TITLE>U.S. VIDEO &lt;VVCO.O>, FIRST NATIONAL IN MERGER</TITLE>
+<DATELINE>    NEW YORK, June 1 - </DATELINE><BODY>U.S. Video Vending Corp said it
+completed acquiring First National Telecommunications INc from
+First National Entertainment Corp for about 10 mln, or a
+controlling interest of U.S. Video Vending shares.
+    Pursuant to the transaction, Harvey Seslowsky and William
+Hodes resigned from U.S. Video's board and were replaced by
+four members of First National.
+ Reuter
+&#3;</BODY></TEXT>

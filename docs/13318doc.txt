@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="2301" NEWID="13318">
+<DATE> 7-APR-1987 01:32:13.03</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>japan</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0036&#31;reute
+f f BC-japan-ruling-party-se   04-07 0014</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE>japan ruling party seeks over 5,000 billion yen supplementary budget-party official
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

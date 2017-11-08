@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4151" NEWID="15168">
+<DATE> 8-APR-1987 13:18:19.01</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A RM
+&#22;&#22;&#1;f1920&#31;reute
+r f BC-EASTMAN-KODAK-&lt;EK>-SE   04-08 0099</UNKNOWN>
+<TEXT>&#2;
+<TITLE>EASTMAN KODAK &lt;EK> SELLS 25 MLN DLRS OF NOTES</TITLE>
+<DATELINE>    NEW YORK, April 8 - </DATELINE><BODY>Eastman Kodak Co is raising 25 mln dlrs
+through an offering of notes due 1997, said sole underwriter
+Morgan Stanley and Co Inc.
+    The notes have a 7-1/2 pct coupon and an initial offering
+price of 99.625 to yield 7.34 pct, or 20 basis points over
+five-year Treasury notes. Morgan said the notes will be
+reoffered to investors at variable prices.
+    Non-callable for life, the issue is rated Aaa by Moody's
+Investors Service Inc and AA by Standard and Poor's Corp.
+Investors can sell the notes back to the company in 1992.
+ Reuter
+&#3;</BODY></TEXT>

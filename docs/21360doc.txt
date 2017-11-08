@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20076" NEWID="21360">
+<DATE>19-OCT-1987 10:55:34.73</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1398&#31;reute
+d f BC-WOBURN-FIVE-CENTS-SAV   10-19 0049</UNKNOWN>
+<TEXT>&#2;
+<TITLE>WOBURN FIVE CENTS SAVINGS &lt;WOBS.O> 1ST QTR NET</TITLE>
+<DATELINE>    WOBURN, Mass., Oct 19 -
+    </DATELINE><BODY>Shr 24 cts vs 26 cts
+    Net 959,000 vs 1,033,000
+    Assets 273.6 mln vs 236.3 mln
+    Deposits 183.6 mln vs 173.9 mln
+    Loans 133.3 mln vs 104.9 mln
+    NOTE: Full name of company is Woburn Five Cents Savings
+Bank.
+ Reuter
+&#3;</BODY></TEXT>

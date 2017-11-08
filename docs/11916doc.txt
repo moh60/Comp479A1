@@ -1,0 +1,34 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="144" NEWID="11916">
+<DATE> 1-APR-1987 09:58:57.29</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0933&#31;reute
+b f BC-TAFT-&lt;TFB>-HAD-NOT-CO   04-01 0098</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TAFT &lt;TFB> HAD NOT COMPLETED TV STATION SALE</TITLE>
+<DATELINE>    CINCINNATI, Ohio, April 1 - </DATELINE><BODY>Taft Broadcasting Co said the
+sale of its independent television stations to TVX Broadcast
+Group, which had been set for yesterday, did not occur.
+    TVX and its investment bankers, Salomon Inc's &lt;SB> Salomon
+Brothers, advised Taft the closing would not be consumated as
+scheduled, the company said.
+    TVX and Salomon also advised Taft they hope to be able to
+close in near future, the company said, adding it is prepared
+to close at any time.
+    A Taft spokeswoman referred all questions to TVX and
+Salomon.
+    Taft agreed in November to sell the stations in
+Philadelphia, Washington, Miami, Fort Worth-Dallas and Houston
+TVX Broadcast for 240 mln dlrs.
+    At the time, Taft said the transaction would result in an
+after tax charge of 45 to 50 mln dlrs.
+ Reuter
+&#3;</BODY></TEXT>

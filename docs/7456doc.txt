@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12369" NEWID="7456">
+<DATE>19-MAR-1987 17:22:14.80</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2577&#31;reute
+u f BC-SEC-CONTINUES-MARKET   03-19 0096</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SEC CONTINUES MARKET MANIPULATION INVESTIGATION</TITLE>
+<DATELINE>    New York, March 19 - </DATELINE><BODY>The Securities and Exchange Commission
+is continuing an investigation of the practice of "parking"
+stocks, said Richard Murphy, a lawyer with the SEC enforcement
+division.
+    Earlier, the SEC settled civil charges against Boyd
+Jefferies and Jefferies Group Inc, which allege market
+manipulation and the parking of stocks, a practice where stock
+is held by one person or firm while it is actually under the
+control of someone else.
+    Murphy told reporters others are being investigated for
+parking stocks.
+ Reuter
+&#3;</BODY></TEXT>

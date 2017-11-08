@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10297" NEWID="5384">
+<DATE>16-MAR-1987 10:43:33.94</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2280&#31;reute
+r f BC-CORKEN-INTERNATIONAL   03-16 0068</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CORKEN INTERNATIONAL &lt;CORK> COMPLETES OFFERING</TITLE>
+<DATELINE>    OKLAHOMA CITY, March 16 - </DATELINE><BODY>Corken International Corp said it
+has completed an initial public offering of 500,000 common
+shares at five dlrs each through underwriters led by Lowell H.
+Listrom and Co Inc.
+    The company said proceeds were used to pay a dividend to
+Hinderliter Industries Inc &lt;HND>, which had been its sole
+shareholder, and for working capital.
+ Reuter
+&#3;</BODY></TEXT>

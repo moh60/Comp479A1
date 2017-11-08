@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4047" NEWID="15064">
+<DATE> 8-APR-1987 11:20:27.61</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1387&#31;reute
+d f BC-FEDERAL-PAPER-BOARD-&lt;   04-08 0047</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FEDERAL PAPER BOARD &lt;FBO> IN MARKETING DEAL</TITLE>
+<DATELINE>    MONTVALE, N.J., April 8 - </DATELINE><BODY>Federal Paper Board Co Inc said
+it has named Ozaki Trading Co Ltd of Osaka to represent it it
+Japan on the sale of bleached paperboard.
+    Federal said it plans to open its own Japanese office in
+the near future.
+ Reuter
+&#3;</BODY></TEXT>

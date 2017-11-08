@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="2430" NEWID="13447">
+<DATE> 7-APR-1987 06:02:56.79</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0306&#31;reute
+u f BC-Cheung-Kong,-Hutchiso   04-07 0013</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE> Cheung Kong, Hutchison withdraw plans for bonus issue of new "B" shares
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

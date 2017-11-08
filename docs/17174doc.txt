@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="NOT-USED" CGISPLIT="PUBLISHED-TESTSET" OLDID="21797" NEWID="17174">
+<DATE>24-APR-1987 16:27:06.81</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2462&#31;reute
+r f BC-BECOR-WESTERN-&lt;BCW>-S   04-24 0092</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BECOR WESTERN &lt;BCW> SETS SPECIAL MEETING DATE</TITLE>
+<DATELINE>    MILWAUKEE, April 24 - </DATELINE><BODY>Becor Western Inc said it set June 4
+as the date for a special meeting at which stockholders will
+vote on two proposals involving the sale of its subsidiary and
+the acquisition of the company.
+    The previously-announced proposals call for the sale of its
+aerospace operations subsidiary to &lt;Lucas Industries Inc> and
+the related leveraged buyout of the company by &lt;BCW Acquisition
+Co>, the company said.
+    Becord said May 4 has been set as the record date for the
+special meeting.
+ Reuter
+&#3;</BODY></TEXT>

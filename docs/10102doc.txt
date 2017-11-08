@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15623" NEWID="10102">
+<DATE>26-MAR-1987 14:45:53.94</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2245&#31;reute
+d f BC-CB-AND-T-&lt;CBTB>-TO-MA   03-26 0055</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CB AND T &lt;CBTB> TO MAKE ACQUISITION</TITLE>
+<DATELINE>    COLUMBUS, Ga., March 26 - </DATELINE><BODY>CB and T Bancshares Inc said the
+board of Carrolton State Bank of Carrolton, Ga., has approved a
+merger into CB and T for an undisclosed amount of stock,
+subject to approval by regulatory agencies and Carrolton
+shareholders.
+    Carrolton has 26 mln dlrs in assets.
+ Reuter
+&#3;</BODY></TEXT>

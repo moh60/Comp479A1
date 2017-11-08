@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15898" NEWID="10377">
+<DATE>27-MAR-1987 08:20:06.84&#5;&#5;&#5;A</DATE>
+<UNKNOWN>&#22;&#22;&#1;f0684&#31;reute</UNKNOWN>
+<TOPICS><D>cpi</D></TOPICS>
+<PLACES><D>japan</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+r f BC-JAPAN-CONSUMER-PRICES   03-27 0084</UNKNOWN>
+<TEXT>&#2;
+<TITLE>JAPAN CONSUMER PRICES UNCHANGED IN FEBRUARY</TITLE>
+<DATELINE>    TOKYO, March 27 - </DATELINE><BODY>Japan's consumer price index (base 1985)
+was unchanged at 99.7 in February from a month earlier, the
+government's Management and Coodination Agency said.
+    The index showed a 0.4 pct drop in January.
+    The February index was down one pct from a year earlier for
+the third consecutive year-on-year drop.
+    In January, the index fell 1.1 pct from a year earlier, the
+first drop of over one pct since a 1.3 pct drop in September
+1958.
+ Reuter
+&#3;</BODY></TEXT>

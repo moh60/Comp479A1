@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11046" NEWID="6133">
+<DATE>17-MAR-1987 13:30:56.84</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>spain</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS><D>ec</D></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G T
+&#22;&#22;&#1;f5974&#31;reute
+r f BC-FARMERS-RENEW-PROTEST   03-17 0112</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FARMERS RENEW PROTESTS IN SPAIN</TITLE>
+<DATELINE>    MADRID, March 17 - </DATELINE><BODY>Hundreds of farmers brought Madrid's
+traffic to a standstill with their tractors in the latest
+protest to demand a better deal from the European Community
+(EC) and more government subsidies to face up to EC
+competition.
+    Farmers said they had planned to bring their cows with them
+but police had prevented their entry into the capital.
+    In the south, striking shipyard workers clashed with police
+in the port of Cadiz in what has become a regular weekly
+protest against job layoffs at the state-owned Astilleros
+Espanoles. The workers locked themselves in the factory and
+traded stones for tear gas, police said.
+ Reuter
+&#3;</BODY></TEXT>

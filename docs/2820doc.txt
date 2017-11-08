@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19238" NEWID="2820">
+<DATE> 6-MAR-1987 15:21:51.94</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0380&#31;reute
+r f BC-PATRICK-PETROLEUM-CO   03-06 0046</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PATRICK PETROLEUM CO &lt;PPC> YEAR LOSS</TITLE>
+<DATELINE>    JACKSON, Mich., March 6 -
+    </DATELINE><BODY>Shr loss 1.22 dlrs vs profit 27 cts
+    Net loss 8,812,432 vs profit 1,847,560
+    Revs 7,981,198 vs 10.3 mln
+    Avg shrs 7,187,941 vs 6,828,368
+    NOTE: Current year includes tax credit of 800,000 dlrs.
+ Reuter
+&#3;</BODY></TEXT>

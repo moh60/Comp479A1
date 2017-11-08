@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12703" NEWID="520">
+<DATE> 2-MAR-1987 11:42:14.82</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>nyse</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0052&#31;reute
+u f BC-AIRGAS-&lt;AGA>-DECLINES   03-02 0044</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AIRGAS &lt;AGA> DECLINES TO COMMENT ON STOCK MOVES</TITLE>
+<DATELINE>    NEW YORK, March 2 - </DATELINE><BODY>The New York Stock Exchange said Airgas
+Inc declined to comment on its stock activity after a request
+for an explanation by the exchange.
+    The company's stock was up 1-1/8 points to 11 dlrs.
+ Reuter
+&#3;</BODY></TEXT>

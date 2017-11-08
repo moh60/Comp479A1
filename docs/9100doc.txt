@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14621" NEWID="9100">
+<DATE>24-MAR-1987 18:27:41.18</DATE>
+<TOPICS><D>nat-gas</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2773&#31;reute
+r f BC-TRANSCONTINENTAL-&lt;TGP   03-24 0097</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TRANSCONTINENTAL &lt;TGP> FILES NEW OFFER</TITLE>
+<DATELINE>    HOUSTON, March 24 - </DATELINE><BODY>Transcontinental Gas Pipe Line Corp
+said that it is not willing to accept the Federal Energy
+Regulatory Commission's conditioned approval of its proposed
+offer of settlement dated May 13.
+    Transco said it filed a revised settlement proposal which
+would permit it to become an open access transporter while
+restructuring gas sales services.
+    The new offer includes a gas supply inventory charge to
+customers who fail to buy 60 pct of their annual contract
+quantities and 35 pct of their summer contract quantities.
+ Reuter
+&#3;</BODY></TEXT>

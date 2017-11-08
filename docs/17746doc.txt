@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6084" NEWID="17746">
+<DATE> 1-JUN-1987 15:02:46.29</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2192&#31;reute
+r f BC-INFO-DATA-TO-ACQUIRE   06-01 0073</UNKNOWN>
+<TEXT>&#2;
+<TITLE>INFO-DATA TO ACQUIRE USA OUTDOOR ADVERTISING</TITLE>
+<DATELINE>    DEERFIELD BEACH, Fla., June 1 - </DATELINE><BODY>&lt;Info-Data Inc> said it
+will acquire &lt;USA Outdoor Advertising Inc> of Jacksonville,
+Fla., in exchange for stock.
+    USA Outdoor Advertising was acquired for 62.4 pct of the
+outstanding shares of Info-Data Inc, the company said.
+    Info-Data said it plans to change its name to USA Outdoor
+Advertising Inc to reflect the change in the company's
+operations.
+ Reuter
+&#3;</BODY></TEXT>

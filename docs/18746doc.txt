@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6498" NEWID="18746">
+<DATE>18-JUN-1987 11:38:23.83</DATE>
+<TOPICS><D>crude</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;Y 
+&#22;&#22;&#1;f3567&#31;reute
+u f BC-UNION-PACIFIC-&lt;UNP>-R   06-18 0098</UNKNOWN>
+<TEXT>&#2;
+<TITLE>UNION PACIFIC &lt;UNP> RAISES CRUDE OIL PRICES</TITLE>
+<DATELINE>    NEW YORK, June 18 - </DATELINE><BODY>Union Pacific Resources, formerly
+Champlin Petroleum, said it raised posted prices for crude oil
+by 50 cts a barrel, effective yesterday.
+    The price increase brings West Texas Intermediate, the U.S.
+benchmark grade, to 19.00 dlrs a barrel.
+    The posted price increase follows a similar move by several
+other oil companies.
+    Sun Co was the first to raise crude oil postings yesterday
+afternoon and today many other companies are following.
+    The last price increase made by oil companies was around
+May 22.
+   
+ Reuter
+&#3;</BODY></TEXT>

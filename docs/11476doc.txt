@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17538" NEWID="11476">
+<DATE>31-MAR-1987 12:38:17.29</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1835&#31;reute
+d f BC-FREEPORT-MCMORAN-RESO   03-31 0037</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FREEPORT-MCMORAN RESOURCE LP &lt;FRP> QTLY PAYOUT</TITLE>
+<DATELINE>    NEW ORLEANS, March 31 - 
+    </DATELINE><BODY>Qtly cash distribution 60 cts vs 60 cts prior
+    Pay May 15
+    Record April 30
+    Note: Full name is Freeport-McMoRan Resources Partners LP.
+ Reuter
+&#3;</BODY></TEXT>

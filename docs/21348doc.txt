@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20088" NEWID="21348">
+<DATE>19-OCT-1987 11:04:10.38</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1442&#31;reute
+r f BC-RORER-&lt;ROR>-UNIT-CLOT   10-19 0082</UNKNOWN>
+<TEXT>&#2;
+<TITLE>RORER &lt;ROR> UNIT CLOTTING DRUG APPROVED</TITLE>
+<DATELINE>    BLUE BELL, Pa., Oct 19 - </DATELINE><BODY>Rorer Group Inc's Armour
+Pharmaceutical Co said it received Food and Drug Administration
+approval for a blood clotting drug for hemophiliacs.
+    The company said the drug, monoclate antihemophilic factor,
+will treat hemophilia A, the most common form of hereditary
+blood clotting disorder.
+    Monoclate is 99 pct free of unwanted contaminants, compared
+to other blood products which are less than one pct pure,
+Armour said.
+ Reuter
+&#3;</BODY></TEXT>

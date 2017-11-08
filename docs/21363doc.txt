@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20073" NEWID="21363">
+<DATE>19-OCT-1987 10:54:23.33</DATE>
+<TOPICS><D>crude</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;Y F 
+&#22;&#22;&#1;f1390&#31;reute
+r f BC-COASTAL-&lt;CGP>-RAISES   10-19 0080</UNKNOWN>
+<TEXT>&#2;
+<TITLE>COASTAL &lt;CGP> RAISES OIL POSTED PRICES</TITLE>
+<DATELINE>    NEW YORK, Oct 19 - </DATELINE><BODY>Coastal Corp said that effective October
+16 it had raised posted prices for crude oil by 50 cts a
+barrel.
+    The increase brings West Texas Intermediate to 9.00 dlrs a
+barrel and West Texas Sour to 18.10 dlrs a barrel.
+    Sun Co &lt;SUN> announced that it would make a 50 cts a barrel
+increase late Friday bringing WTI to 19.00 dlrs a barrel and
+traders said that other oil companies could be expected to
+increase prices.
+ Reuter
+&#3;</BODY></TEXT>

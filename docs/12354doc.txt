@@ -1,0 +1,30 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="582" NEWID="12354">
+<DATE> 1-APR-1987 17:24:19.67</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2597&#31;reute
+u f BC-BANGOR-HYDRO-ELECTRIC   04-01 0089</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BANGOR HYDRO-ELECTRIC &lt;BANG> GETS APPROVAL</TITLE>
+<DATELINE>    BANGOR, Maine, April 1 - </DATELINE><BODY>Bangor Hydro-Electric Co said the
+Maine PUblic Utilities Commission approved changes in rates
+effective today that will decrease revenues by about 412,000
+dlrs or 0.5 pct.
+    The decrease results from changes in the base rates and in
+the fuel cost adjustment rate charged by the company.
+    Base rates will decrease by 6.25 mln dlrs due largely to
+its sale in the Seabrook nuclear power project, a reduction in
+federal income taxes and lower costs of capital.
+    The base rate assumes a rate of return of 11.57 pct, down
+from 13.1 pct. Offsetting the decrease, however, is an
+authorization to increase fuel rates by 5.84 mln dlrs, it said.
+ Reuter
+&#3;</BODY></TEXT>

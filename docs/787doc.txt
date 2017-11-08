@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12970" NEWID="787">
+<DATE> 2-MAR-1987 16:32:51.13</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0081&#31;reute
+r f BC-FERRO-CORP-&lt;FOE>-SETS   03-02 0097</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FERRO CORP &lt;FOE> SETS JOINT VENTURE</TITLE>
+<DATELINE>    LOS ANGELES, March 2 - </DATELINE><BODY>Ferro Corp said it has formed a
+joint venture with Paris-based Alsthom Inudstrial Group to
+export U.S. epxertise in specialty composite materials to the
+European market.
+    Ferro said although the airframe and aerospace industries
+are the prime users of composite materials today, it plans to
+develop applications for the ground transportation and
+industrial markets in the near future.
+    Ferro also announced it has agreed to purchase CompositAir,
+a developer of composit materials applications, for an
+undisclosed sum.
+ Reuter
+&#3;</BODY></TEXT>

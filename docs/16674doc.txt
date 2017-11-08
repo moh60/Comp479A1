@@ -1,0 +1,20 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1209" NEWID="16674">
+<DATE>13-APR-1987 16:30:20.73</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F
+&#22;&#22;&#1;f2555&#31;reute
+r f BC-BRASCAN-LTD-&lt;BRS.A.>   04-13 0035</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BRASCAN LTD &lt;BRS.A.> TO REDEEM PREFERREDS</TITLE>
+<DATELINE>    TORONTO, Apri 13 - </DATELINE><BODY>Brascan Ltd said it planned to redeem on
+May 15 all outstanding 1981 series A preferred shares at 26
+dlrs a share plus accrued and unpaid dividends.
+ Reuter
+&#3;</BODY></TEXT>

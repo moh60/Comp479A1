@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="5657" NEWID="114">
+<DATE>26-FEB-1987 16:47:45.09</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0075&#31;reute
+r f BC-COCA-COLA-&lt;KO>-UNIT-A   02-26 0060</UNKNOWN>
+<TEXT>&#2;
+<TITLE>COCA COLA &lt;KO> UNIT AND WORLD FILM IN VENTURE</TITLE>
+<DATELINE>    NEW YORK, FEb 26 - </DATELINE><BODY>Coca-Cola Co's Entertainment Business
+Sector Inc unit said it formed a joint venture with an
+affiliate of World Film Services to acquire, produce and
+distribute television programming around the world.
+    World Film Services was formed by chairman John Heyman in
+1963 to produce films.
+   
+ Reuter
+&#3;</BODY></TEXT>

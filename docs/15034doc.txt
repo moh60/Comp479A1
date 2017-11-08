@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4017" NEWID="15034">
+<DATE> 8-APR-1987 10:45:27.04</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1218&#31;reute
+r f BC-BLOCKER-ENERGY-&lt;BLK>   04-08 0065</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BLOCKER ENERGY &lt;BLK> SHARE OFFERING UNDERWAY</TITLE>
+<DATELINE>    HOUSTON, April 8 - </DATELINE><BODY>Blocker Energy corp said an offering of
+20 mln common shares is underway at 2.625 dlrs per share
+through underwriters led by &lt;Drexel Burnham Lambert Inc> and
+Alex. Brown and Sons Inc &lt;ABSB>.
+    The company is offering 19.7 mln shares and shareholders
+the rest.  Before the offering it had about 33.6 mln shares
+outstanding.
+ Reuter
+&#3;</BODY></TEXT>

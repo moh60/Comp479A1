@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7799" NEWID="18354">
+<DATE> 2-JUN-1987 19:12:10.92</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2927&#31;reute
+r f BC-COMP-U-CARD-INTERNATI   06-02 0039</UNKNOWN>
+<TEXT>&#2;
+<TITLE>COMP-U-CARD INTERNATIONAL INC &lt;CUCD.O> 1ST QTR</TITLE>
+<DATELINE>    STAMFORD, COnn, June 2 -
+    </DATELINE><BODY>Shr 18 cts vs 15 cts
+    Net 3.3 mln vs 2.5 mln
+    Revs 45.2 mln vs 26.8 mln
+    NOTE:1986 net includes seven cts or 1.2 mln dlrs tax loss
+carryforward.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16611" NEWID="1291">
+<DATE> 3-MAR-1987 15:47:16.48</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0785&#31;reute
+r f BC-BELL   03-03 0091</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HARRIS CUTS STAKE IN BELL INDUSTRIES &lt;BI></TITLE>
+<DATELINE>    WASHINGTON, March 3 - </DATELINE><BODY>Harris Associates L.P., a Chicago
+investment advisory limited partnership, said it lowered its
+stake in Bell Industries Inc to 1,015,800 shares, or 18.7 pct
+of the total outstanding, from 1,083,800 shares, or 20.0 pct.
+    In a filing with the Securities and Exchange Commission,
+Harris said it sold 68,000 Bell common shares between Dec 18
+and Feb 20 at prices ranging from 20.25 to 25.24 dlrs each.
+    Harris said its dealings in Bell stock are on behalf of its
+advisory clients.
+ Reuter
+&#3;</BODY></TEXT>

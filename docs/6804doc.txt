@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11717" NEWID="6804">
+<DATE>18-MAR-1987 16:11:20.38</DATE>
+<TOPICS><D>carcass</D></TOPICS>
+<PLACES><D>brazil</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G L
+&#22;&#22;&#1;f9399&#31;reute
+u f BC-BRAZILIAN-RED-MEAT-OU   03-18 0099</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BRAZILIAN RED MEAT OUTPUT DOWN SHARPLY - USDA</TITLE>
+<DATELINE>    WASHINGTON, March 18 - </DATELINE><BODY>Brazilian red meat production in
+1986 fell more than 20 pct to 1.9 mln tonnes due to drought
+which reduced slaughter weight and to herd rebuilding which
+started because of high cattle prices, the U.S. Agriculture
+Department said.
+    In its report on World Production and Trade Developments,
+USDA said that in 1987, beef production is expected to reach
+2.3 mln tonnes.
+    Pork production in 1986 rose 83 pct to 1.1 mln tonnes due
+to the sharp rise in beef prices and is expected to remain at
+that level this year, USDA said.
+ Reuter
+&#3;</BODY></TEXT>

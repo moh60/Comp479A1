@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1327" NEWID="16792">
+<DATE>17-APR-1987 08:30:17.16</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0177&#31;reute
+r f BC-FEDERATED-GUARANTY-&lt;F   04-17 0089</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FEDERATED GUARANTY &lt;FDGC.O> SETS STOCK SPLIT</TITLE>
+<DATELINE>    MONTGOMERY, Ala., April 17 - </DATELINE><BODY>Federated Guaranty corp said
+its board declared a two-for-one stock split and raised the
+quarterly dividend to 6-1/2 cts per share post-split from six
+cts, both payable June One, record May 15.
+    The company said shareholders at the annual meeting
+approved an increase in authorized common shares to 19 mln from
+10 mln and a name change to Alfa Corp.  It said the name change
+should take effect next week, along with a NASDAQ ticker symbol
+change to &lt;ALFA.O>.
+ Reuter
+&#3;</BODY></TEXT>

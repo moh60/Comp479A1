@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="27" NEWID="11799">
+<DATE> 1-APR-1987 04:18:30.07</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>netherlands</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS><D>eib</D></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0238&#31;reute
+u f BC-EIB-PLANS-300-MLN-GUI   04-01 0059</UNKNOWN>
+<TEXT>&#2;
+<TITLE>EIB PLANS 300 MLN GUILDER BOND ISSUE DUE 1995</TITLE>
+<DATELINE>    AMSTERDAM, April 1 - </DATELINE><BODY>The European Investment Bank is
+planning a 300 mln guilder 6.25 pct bullet bond due 1995, lead
+manager Amsterdam-Rotterdam Bank NV said.
+    The issue will be priced April 7 and subscriptions close
+April 9. The payment date is May 14 and the coupon date May 15,
+Amro Bank said.
+ REUTER
+&#3;</BODY></TEXT>

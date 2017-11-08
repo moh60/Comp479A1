@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14995" NEWID="9476">
+<DATE>25-MAR-1987 13:45:40.75</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1928&#31;reute
+d f BC-&lt;VISTA-MANAGEMENT-INC   03-25 0083</UNKNOWN>
+<TEXT>&#2;
+<TITLE>&lt;VISTA MANAGEMENT INC> GETS BOND GUARANTEES</TITLE>
+<DATELINE>    HIALEAH, Fla., March 25 - </DATELINE><BODY>Vista Managemement Inc said it
+has obtained notice of the availability of insurance guarantees
+on 60 mln dlrs of leasing receivable bonds of its CBS Leasing
+subsidiary from Developers Insurance Co, allowing the bonds to
+be rated by leading credit rating agencies.
+    The company said the guarantees are subject to the
+placement of over one mln dlrs of reinsurance and to a pending
+change of control of Developers Insurance.
+ Reuter
+&#3;</BODY></TEXT>

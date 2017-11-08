@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="5546" NEWID="3">
+<DATE>26-FEB-1987 15:03:27.51</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F A
+&#22;&#22;&#1;f0714&#31;reute
+d f BC-TEXAS-COMMERCE-BANCSH   02-26 0064</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TEXAS COMMERCE BANCSHARES &lt;TCB> FILES PLAN</TITLE>
+<DATELINE>    HOUSTON, Feb 26 - </DATELINE><BODY>Texas Commerce Bancshares Inc's Texas
+Commerce Bank-Houston said it filed an application with the
+Comptroller of the Currency in an effort to create the largest
+banking network in Harris County.
+    The bank said the network would link 31 banks having
+13.5 billion dlrs in assets and 7.5 billion dlrs in deposits.
+       
+ Reuter
+&#3;</BODY></TEXT>

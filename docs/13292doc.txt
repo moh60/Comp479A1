@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="NOT-USED" CGISPLIT="PUBLISHED-TESTSET" OLDID="22064" NEWID="13292">
+<DATE> 6-APR-1987 07:21:01.54</DATE>
+<TOPICS><D>jobs</D></TOPICS>
+<PLACES><D>luxembourg</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS><D>ec</D></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0461&#31;reute
+r f BC-EC-UNEMPLOYMENT-FALLS   04-06 0089</UNKNOWN>
+<TEXT>&#2;
+<TITLE>EC UNEMPLOYMENT FALLS SLIGHTLY IN FEBRUARY</TITLE>
+<DATELINE>    LUXEMBOURG, April 6 - </DATELINE><BODY>European Community unemployment fell
+slightly in February to just under 17 mln from 17.1 mln in
+January, the EC statistic's agency Eurostat said.
+    It said the fall came despite a bad winter in most of the
+EC when seasonal factors could be expected to have had a more
+adverse effect.
+    However, the agency added, the long-term trend was
+virtually unchanged stating that compared to February 1986 the
+number of registered unemployed increased by 222,000.
+ REUTER
+&#3;</BODY></TEXT>

@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11399" NEWID="6488">
+<DATE>18-MAR-1987 10:10:06.30</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f7975&#31;reute
+u f BC-ANACOMP-&lt;AAC>-ACQUIRE   03-18 0062</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ANACOMP &lt;AAC> ACQUIRES DATAGRAPHIX</TITLE>
+<DATELINE>    INDIANAPOLIS, IND., March 18 - </DATELINE><BODY>Anacomp Inc said it acquired
+the common stock of DatagraphiX Inc from General Dynamics Corp
+&lt;GD> for about 128 mln dlrs.
+    It said the purchase will be financed with a combination of
+a new bank credit agreement and through private placement of
+senior subordinated notes and convertible preferred stock.
+    DatagraphiX, which had 1986 sales of 240.7 mln dlrs,
+manufactures a line of computer output to microfilm hardware
+and supplie.
+    Anacomp's sales for the year ended Sept 30, 1986 were 108.8
+mln dlrs.
+ Reuter
+&#3;</BODY></TEXT>

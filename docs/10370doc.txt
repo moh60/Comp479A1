@@ -1,0 +1,18 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15891" NEWID="10370">
+<DATE>27-MAR-1987 08:06:15.64&#5;&#5;&#5;RM</DATE>
+<UNKNOWN>&#22;&#22;&#1;f0623&#31;reute</UNKNOWN>
+<TOPICS><D>money-fx</D><D>dlr</D></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+f f BC-swiss-national-bank-s   03-27 0009</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE> swiss national bank says bought dollars against yen
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

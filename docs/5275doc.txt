@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10188" NEWID="5275">
+<DATE>16-MAR-1987 07:27:31.18</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>china</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;V
+&#22;&#22;&#1;f1620&#31;reute
+u f AM-EXPLOSION   03-16 0097</UNKNOWN>
+<TEXT>&#2;
+<TITLE>45 KILLED, 185 HURT IN CHINESE FACTORY BLAST</TITLE>
+<DATELINE>    PEKING, March 16 - </DATELINE><BODY>A huge explosion in a flax factory in
+the northeast China city of Harbin killed 45 workers and
+injured 185, the official China Legal News reported.
+    The newspaper said the explosion in the early hours of
+yesterday destroyed four buildings at the plant.
+    More than 470 workers were in the factory at the time of
+the explosion. Doctors specializing in burns were rushed to
+Harbin to help treat the injured.
+    The paper said the cause of the blast was still being
+investigated.
+    It gave no further details.
+ Reuter
+&#3;</BODY></TEXT>

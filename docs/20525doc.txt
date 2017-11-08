@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="21120" NEWID="20525">
+<DATE>20-OCT-1987 14:12:13.49</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D><D>italy</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2638&#31;reute
+d f BC-STANADYNE-&lt;STNA.O>-PU   10-20 0076</UNKNOWN>
+<TEXT>&#2;
+<TITLE>STANADYNE &lt;STNA.O> PURCHASES AMBAC STAKE</TITLE>
+<DATELINE>    WINDSOR, Conn., Oct 20 - </DATELINE><BODY>Stanadyne Inc said it has acquired
+a substnatial majority of AMBAC S.p.A.'s outstanding stock from
+&lt;AIL Corp>, the successor to United Technologies Corp's &lt;UTX>
+Diesel Systems Division for undisclosed terms.
+    In addition to purchase a majority of the Brescia, Italy,
+based company, Stanadyne said, it acquired a minority interest
+in AMBAC's U.S. operation headquartered in Columbia, S.C.
+ Reuter
+&#3;</BODY></TEXT>

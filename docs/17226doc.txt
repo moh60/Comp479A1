@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="NOT-USED" CGISPLIT="PUBLISHED-TESTSET" OLDID="21848" NEWID="17226">
+<DATE>27-APR-1987 01:33:55.58</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>japan</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>tse</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0050&#31;reute
+u f BC-FOREIGN-INVESTORS-NET   04-27 0082</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FOREIGN INVESTORS NET SELLERS OF JAPANESE STOCKS</TITLE>
+<DATELINE>    TOKYO, April 27 - </DATELINE><BODY>Foreigners were net sellers of Japanese
+stocks in the week ended April 17 for the seventh consecutive
+week, the Tokyo Stock Exchange said.
+    Net sales were 112.15 billion yen against 105.80 billion
+the previous week.
+    Overseas investors sold shares worth 727.08 billion yen on
+the Tokyo, Osaka and Nagoya Exchanges, down 5.3 pct from the
+previous week. They bought stock worth 614.93 billion yen, down
+5.2 pct.
+ REUTER
+&#3;</BODY></TEXT>

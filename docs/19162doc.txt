@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6998" NEWID="19162">
+<DATE>19-JUN-1987 10:12:53.43</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f0943&#31;reute
+r f BC-THERAGENICS-&lt;THRX.O>   06-19 0059</UNKNOWN>
+<TEXT>&#2;
+<TITLE>THERAGENICS &lt;THRX.O> GETS CANCER PROCESS PATENT</TITLE>
+<DATELINE>    ATLANTA, June 19 - </DATELINE><BODY>Theragenics Corp said it will receive a
+U.S. patent on its TheraSeed localized radiation therapy for
+treatment of prostate cancer, effective June 23.
+    It said it has obtained product liability insurance for
+Theraseed and expects commercial sales and distribution to
+start by July 15.
+ Reuter
+&#3;</BODY></TEXT>

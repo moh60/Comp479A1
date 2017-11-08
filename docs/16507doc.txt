@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1042" NEWID="16507">
+<DATE>13-APR-1987 13:22:30.14</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>switzerland</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS><D>gatt</D></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f1978&#31;reute
+r f BC-GATT-STAFF-STRIKE-OVE   04-13 0091</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GATT STAFF STRIKE OVER PAY AND PENSION LOSSES</TITLE>
+<DATELINE>    GENEVA, April 13 - </DATELINE><BODY>Some 340 General Agreement on Tariffs
+and Trade (GATT) secretariat staff staged a half-day strike in
+protest against what they said was a sharp decline in salaries
+and pensions.
+    The stoppage forced postponement until tomorrow of a
+scheduled meeting to check progress in a global round of
+negotiations to liberalise world commerce launched last
+September.
+    Pickets at the entrance to the GATT offices said all but
+seven or eight staff members took part in the strike.
+ REUTER
+&#3;</BODY></TEXT>

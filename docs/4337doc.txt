@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9250" NEWID="4337">
+<DATE>12-MAR-1987 12:36:05.30</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0742&#31;reute
+r f BC-EQUITY-OIL-CO-&lt;EQTY>   03-12 0063</UNKNOWN>
+<TEXT>&#2;
+<TITLE>EQUITY OIL CO &lt;EQTY> 4TH QTR LOSS</TITLE>
+<DATELINE>    SALT LAKE CITY, March 12 -
+    </DATELINE><BODY>Shr loss nine cts vs profit 11 cts
+    Net loss 1,102,592 vs profit 1,364,763
+    Revs 2,836,508 vs 5,547,121
+    Year
+    Shr loss six cts vs profit 32 cts
+    Net loss 789,300 vs profit 3,953,822
+    Revs 11.7 mln vs 21.1 mln
+    NOTE:  Per share figures reflect five pct stock dividend
+paid December 1986.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,20 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="1585" NEWID="12509">
+<DATE> 2-APR-1987 09:09:03.65</DATE>
+<TOPICS><D>interest</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A
+&#22;&#22;&#1;f0882&#31;reute
+u f BC-FIRST-CHICAGO-&lt;FNB>-R   04-02 0032</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FIRST CHICAGO &lt;FNB> RAISES PRIME RATE</TITLE>
+<DATELINE>    CHICAGO, April 2 - </DATELINE><BODY>First Chicago Corp said its First
+National Bank of Chicago raised its prime rate to 7-3/4 pct
+from 7-1/2 pct, effective immediately.
+ Reuter
+&#3;</BODY></TEXT>

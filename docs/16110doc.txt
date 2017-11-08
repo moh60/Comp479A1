@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="645" NEWID="16110">
+<DATE>13-APR-1987 01:23:00.59</DATE>
+<TOPICS><D>copper</D></TOPICS>
+<PLACES><D>australia</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;M C
+&#22;&#22;&#1;f0040&#31;reute
+u f BC-ELECTROLYTIC-REFINING   04-13 0042</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ELECTROLYTIC REFINING LOWERS COPPER PRICE</TITLE>
+<DATELINE>    MELBOURNE, April 13 - </DATELINE><BODY>The Electrolytic Refining and
+Smelting Co of Australia Pty Ltd said it lowered its ex-works
+Port Kembla Refinery Copper Price by 20 dlrs to 2,160 dlrs a
+tonne, effective today.
+ REUTER
+&#3;</BODY></TEXT>

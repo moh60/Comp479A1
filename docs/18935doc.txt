@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6774" NEWID="18935">
+<DATE>18-JUN-1987 14:54:05.08</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D><D>taiwan</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f4319&#31;reute
+r f BC-PPG-INDUSTRIES-&lt;PPG>   06-18 0084</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PPG INDUSTRIES &lt;PPG> TO BUILD TAIWAN PLANT</TITLE>
+<DATELINE>    PITTSBURGH, June 18 - </DATELINE><BODY>PPG Industries said it signed an
+agreement with Formosa Plastics Group to build and operate a
+continuous strand fiber glass manufacturing plant in Taiwan.
+    The 50-50 joint venture of PPG and Nan Ya Plastics, a
+corporation of Formosa Plastics Group, is subject to approval
+of Taiwan governmental agencies.
+    PPG said the plant, scheduled to begin operating in early
+1989, will have an initial annual capacity of 20,000 metric
+tons.
+ Reuter
+&#3;</BODY></TEXT>

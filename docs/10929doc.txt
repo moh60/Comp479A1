@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16990" NEWID="10929">
+<DATE>30-MAR-1987 13:06:20.80</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A
+&#22;&#22;&#1;f1936&#31;reute
+r f BC-MCDONALD'S-&lt;MCD>-TO-B   03-30 0071</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MCDONALD'S &lt;MCD> TO BUY 10-7/8 PCT DEBENTURES</TITLE>
+<DATELINE>    OAK BROOK, ILL., March 30 - </DATELINE><BODY>McDonald's Corp said it is
+offering to buy the 25 mln dlrs in its outstanding 10-7/8 pct
+debentures due July 15, 2015.
+    It said debentures will be purchased at 1,118.30 dlrs per
+1,000 dlrs principal amount, plus accrued interest. The
+original debenture issue was for 100 mln dlrs.
+    It said the buyback offer expires April Eight, unless
+extended.
+ Reuter
+&#3;</BODY></TEXT>

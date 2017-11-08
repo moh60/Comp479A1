@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="985" NEWID="16450">
+<DATE>13-APR-1987 12:36:50.63</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E
+&#22;&#22;&#1;f1764&#31;reute
+r f BC-JANNOCK-&lt;JN.TO>-ACQUI   04-13 0059</UNKNOWN>
+<TEXT>&#2;
+<TITLE>JANNOCK &lt;JN.TO> ACQUIRES HALF-STAKE IN PRINTER</TITLE>
+<DATELINE>    TORONTO, April 13 - </DATELINE><BODY>Jannock Ltd said its Jannock Imaging Co
+Ltd unit acquired a 50 pct stake in Arthurs-Jones Lithographing
+Ltd, of Toronto, for undisclosed terms.
+    It said the acquisition would lift Jannock Imaging revenues
+to 50 mln dlrs this year. It did not specify Arthurs-Jones'
+1986 revenues.
+ Reuter
+&#3;</BODY></TEXT>

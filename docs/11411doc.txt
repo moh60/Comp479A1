@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17473" NEWID="11411">
+<DATE>31-MAR-1987 11:31:51.53</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>nasdaq</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1550&#31;reute
+h f BC-CIRCLE-FINE-ART-TO-BE   03-31 0045</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CIRCLE FINE ART TO BEGIN TRADING ON NASDAQ</TITLE>
+<DATELINE>    CHICAGO, March 31 - </DATELINE><BODY>Circle Fine Art Corp said its common
+stock will be included in the next expansion of the NASDAQ
+National Market System to take place April 7.
+    Circle Fine Art said its quotation symbol will be &lt;CFNE>.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19265" NEWID="2847">
+<DATE> 6-MAR-1987 15:52:39.54</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0485&#31;reute
+d f BC-LANDMARK-SAVINGS-&lt;LSA   03-06 0055</UNKNOWN>
+<TEXT>&#2;
+<TITLE>LANDMARK SAVINGS &lt;LSA> COMPLETES OFFICE SALE</TITLE>
+<DATELINE>    PITTSBURGH, March 6 - </DATELINE><BODY>Landmark Savings Association said it
+completed the sale of its Whitehall, Pa., office, including
+deposits of about 31 mln dlrs, to Parkvale Savings Association.
+    Landmark said it realized a gain of about 1.1 mln dlrs on
+the sale. The price was not disclosed.
+ Reuter
+&#3;</BODY></TEXT>

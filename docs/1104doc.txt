@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16424" NEWID="1104">
+<DATE> 3-MAR-1987 11:21:06.62</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0767&#31;reute
+u f BC-UNILEVER'S-&lt;UN>-CHESE   03-03 0094</UNKNOWN>
+<TEXT>&#2;
+<TITLE>UNILEVER'S &lt;UN> CHESEBROUGH OFFERS TO SELL BASS</TITLE>
+<DATELINE>    WESTPORT, Conn., March 3 - </DATELINE><BODY>Chesebrough-Pond's Inc, recently
+acquired by a unit of Unilever N.V., said it is offering to
+sell its Bass shoe division, as a result of an
+ongoing evaluation of the long-term direction of its
+businesses.
+    The diversified maker of health and beauty aids, said it
+acquired Falmouth, Maine-based G.H. Bass and Co in 1978, when
+the company reported annual sales of 59 mln dlrs. Bass is known
+for its high-quality casual shoes.
+    Chesebrough said Bass's 1986 sales exceeded 170 mln dlrs.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4178" NEWID="15195">
+<DATE> 8-APR-1987 13:34:36.33</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1999&#31;reute
+w f BC-RESEARCH-INDUSTRIES-&lt;   04-08 0070</UNKNOWN>
+<TEXT>&#2;
+<TITLE>RESEARCH INDUSTRIES &lt;REIC> UNVEILS NEW PRODUCTS</TITLE>
+<DATELINE>    SALT LAKE CITY, April 8 - </DATELINE><BODY>Research Industries Corp said it
+is introducing three additions to its line of cardiovascular
+specialty products.
+    The company said the products are a patented drainage
+bicaval cannula for open heart surgery, a proprietary catheter
+for neonatal thoracic surgery and a line of specialized baloon
+catheter shunts for carotid artery surgery.
+ Reuter
+&#3;</BODY></TEXT>

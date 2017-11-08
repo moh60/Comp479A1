@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14249" NEWID="8728">
+<DATE>24-MAR-1987 09:32:41.79</DATE>
+<TOPICS><D>money-fx</D></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0905&#31;reute
+b f BC-U.K.-MONEY-MARKET-GIV   03-24 0067</UNKNOWN>
+<TEXT>&#2;
+<TITLE>U.K. MONEY MARKET GIVEN FURTHER 104 MLN STG HELP</TITLE>
+<DATELINE>   LONDON, March 24 - </DATELINE><BODY>The Bank of England said it provided the
+money market with assistance of 104 mln stg in the afternoon
+session.
+    This takes the bank's total help so far today to 219 mln
+stg and compares with its estimate of a 300 mln stg shortage.
+    The central bank bought outright 104 mln stg in bank bills
+in band two at 9-13/16 pct.
+ REUTER
+&#3;</BODY></TEXT>

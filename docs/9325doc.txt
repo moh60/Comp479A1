@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14846" NEWID="9325">
+<DATE>25-MAR-1987 10:25:32.24</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f1085&#31;reute
+u f BC-CHRYSLER-FINANCE-ISSU   03-25 0075</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CHRYSLER FINANCE ISSUING STERLING EUROBOND</TITLE>
+<DATELINE>    LONDON, March 25 - </DATELINE><BODY>Chrysler Financial Corp is issuing a 50
+mln stg eurobond due April 30, 1992 paying 9-1/2 pct and priced
+at 101-1/8 pct, lead manager Union Bank Of Switzerland
+Securities said.
+    The bond is available in denominations of 1,000 and 10,000
+stg and will be listed in Luxembourg.
+    Fees comprise 1-1/4 pct selling concession and 5/8 pct for
+management and underwriting combined.
+ REUTER
+&#3;</BODY></TEXT>

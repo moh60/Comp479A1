@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12224" NEWID="7311">
+<DATE>19-MAR-1987 13:50:02.80</DATE>
+<TOPICS><D>cocoa</D></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS><D>icco</D></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C T
+&#22;&#22;&#1;f1937&#31;reute
+b f BC-ICCO-TO-EXAMINE-BUFFE   03-19 0117</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ICCO TO EXAMINE BUFFER STOCK DETAILS TOMORROW</TITLE>
+<DATELINE>    LONDON, March 19 - </DATELINE><BODY>The International Cocoa Council, ICCO,
+adjourned for the day after a detailed proposal on buffer stock
+rules was distributed and executive committee officials were
+elected, delegates said.
+    Producers, EC consumers and all consumers are scheduled to
+hold separate meetings tomorrow to review the proposal, written
+by ICCO executive director Kobena Erbynn, they said.
+    The buffer stock working group is to meet again on rules
+Monday morning, and the full council is to reconvene Tuesday,
+delegates said.
+    Heinz Hofer of Switzerland was elected executive committee
+chairman and Mette Mogstad of Norway vice chairman, they added.
+ Reuter
+&#3;</BODY></TEXT>

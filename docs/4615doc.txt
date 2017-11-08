@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9528" NEWID="4615">
+<DATE>12-MAR-1987 19:30:26.18</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0886&#31;reute
+d f BC-PRICE-&lt;PCLB>-TO-BUY-8   03-12 0050</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PRICE &lt;PCLB> TO BUY 80 PCT OF TSS-SEEDMAN</TITLE>
+<DATELINE>    SAN DIEGO, March 12 - </DATELINE><BODY>Price Co said it agreed to buy at
+least 81 pct of the stock of &lt;TSS-Seedman's INc> for about 50
+mln dlrs.
+    The terms envision a purchase of the entire company, it
+said.
+    The transaction is expected to close at the end of April.
+ Reuter
+&#3;</BODY></TEXT>

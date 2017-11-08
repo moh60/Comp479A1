@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6166" NEWID="17828">
+<DATE> 1-JUN-1987 17:04:24.17</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2537&#31;reute
+b f BC-CHRYSLER-&lt;C>-MAY-CAR   06-01 0041</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CHRYSLER &lt;C> MAY CAR OUTPUT FALLS</TITLE>
+<DATELINE>    DETROIT, June 1 - </DATELINE><BODY>Chrysler Corp said its May North American
+car production fell 12.8 pct to 94,715 from 108,595 a year ago.
+    Chrysler said its May truck production rose 32 pct to
+61,151 from 46,332 last year.
+ Reuter
+&#3;</BODY></TEXT>

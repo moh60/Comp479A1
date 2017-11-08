@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14176" NEWID="8655">
+<DATE>24-MAR-1987 06:50:46.99</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>uk</D><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0467&#31;reute
+u f BC-FERRANTI-UNIT-LANDS-M   03-24 0106</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FERRANTI UNIT LANDS MULTI MLN DLR CONRTACT</TITLE>
+<DATELINE>    LONDON, March 24 - </DATELINE><BODY>Ferranti Plc &lt;FNTI.L> said its Edinburgh
+based electro-optics department of Ferranti Defence Systems Ltd
+has secured a multi mln dlr contract to supply laser
+rangefinders for the Canadian Forces Low Level Air Defense
+System.
+    The first production order for 38 of the type 629G lasers
+has been placed by &lt;Martin Marietta> of the U.S., A
+subcontractor to &lt;Orelikon Aerospace Incorporated> of Canada,
+the prime contractor for the system. Some 300 further orders
+are anticipated as the programme proceeds.
+    Ferranti shares were 2p firmer at 134 after the news.
+ REUTER
+&#3;</BODY></TEXT>

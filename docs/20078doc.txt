@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20673" NEWID="20078">
+<DATE>20-OCT-1987 06:59:26.21</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>west-germany</D></PLACES>
+<PEOPLE><D>stoltenberg</D></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM V 
+&#22;&#22;&#1;f0548&#31;reute
+f f BC-Stoltenberg-says-Louv   10-20 0009</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE> Stoltenberg says Louvre accord vital to West Germany
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

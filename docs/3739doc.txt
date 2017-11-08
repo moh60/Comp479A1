@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="8652" NEWID="3739">
+<DATE>11-MAR-1987 11:55:51.87</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0683&#31;reute
+r f BC-SYNERGEN-&lt;SYGN>-TO-MA   03-11 0101</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SYNERGEN &lt;SYGN> TO MAKE DRUG FOR CIBA-GEIGY</TITLE>
+<DATELINE>    BOULDER, Colo., March 11 - </DATELINE><BODY>Synergen Inc said it agreed to
+provide its human elastase inhibitor, designed to treat
+emphysema, to Ciba-Geigy AG &lt;CIGZ> for human clinical trials.
+    Ciba-Geigy is currently testing the substance in animals,
+but the company said the new supplies of the drug will be
+suitable for human tests.
+    The company said Ciba-Geigy initially licensed the product
+in 1985. The new agreement calls for Synergen to set up a
+commercial manufacturing process to produce the drug and
+deliver quantities to Ciba-Geigy in the second half 1987.
+ Reuter
+&#3;</BODY></TEXT>

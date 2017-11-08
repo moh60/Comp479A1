@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15479" NEWID="9960">
+<DATE>26-MAR-1987 11:37:37.41</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1523&#31;reute
+d f BC-RCM-TECHNOLOGIES-&lt;RCM   03-26 0053</UNKNOWN>
+<TEXT>&#2;
+<TITLE>RCM TECHNOLOGIES &lt;RCMT> ORDER INCREASED</TITLE>
+<DATELINE>    CAMDEN, N.J., March 26 - </DATELINE><BODY>RCM Technologies Inc said its
+contract to provide engineering personnel to the Sikorsky
+Aircraft division of United Technologies Corp &lt;UTX> has been
+increased by 4,300,000 dlrs to 11.0 mln dlrs.
+    It said the contract runs through the end of 1987.   
+ Reuter
+&#3;</BODY></TEXT>

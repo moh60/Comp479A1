@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14794" NEWID="9273">
+<DATE>25-MAR-1987 09:23:34.32</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0856&#31;reute
+h f BC-(OAKRIDGE-HOLDINGS-IN   03-25 0043</UNKNOWN>
+<TEXT>&#2;
+<TITLE>(OAKRIDGE HOLDINGS INC) 2ND QTR DEC 31 NET</TITLE>
+<DATELINE>    HILLSIDE, ILL., March 25 -
+    </DATELINE><BODY>Shr 48 cts vs four cts
+    Net 882,000 vs 82,000
+    Sales 968,000 vs 784,000
+    Six mths
+    Shr 53 cts vs 11 cts
+    Net 970,000 vs 202,000
+    Sales 2,001,000 vs 1,521,000
+    NOTE: 1986 net includes a gain of 26 cts a share from the
+sale of a funeral home, and tax credits of 20 cts. 1985 net
+includes tax credits of one cent in the quarter and 3.7 cts in
+the six months period.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5126" NEWID="15771">
+<DATE> 9-APR-1987 13:22:29.63</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1877&#31;reute
+d f BC-GENERAL-PHYSICS-&lt;GPHY   04-09 0050</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GENERAL PHYSICS &lt;GPHY> FORMS NEW UNIT</TITLE>
+<DATELINE>    MONROEVILLE, Pa., April 9 - </DATELINE><BODY>General Physics Corp said it
+has formed a new business unit called HP Technical Services to
+furnish health physics technicians and radiological engineers
+and scientists to the electric utility industry for use in
+nuclear power plants.
+ Reuter
+&#3;</BODY></TEXT>

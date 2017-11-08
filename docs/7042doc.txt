@@ -1,0 +1,30 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11955" NEWID="7042">
+<DATE>19-MAR-1987 08:15:21.69</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0629&#31;reute
+r f BC-XEROX-&lt;XRX>-TO-STOP-S   03-19 0092</UNKNOWN>
+<TEXT>&#2;
+<TITLE>XEROX &lt;XRX> TO STOP SELLING PC'S BY THEMSELVES</TITLE>
+<DATELINE>    NEW YORK, March 19 - </DATELINE><BODY>Xerox Corp has decided to stop selling
+personal computers as standalone products, a company spokesman
+said.
+    The spokesman said "As a first priority, we're selling PC's
+as part of preconfigured systems, mostly desktop publishing
+systems, and not by themselves anymore."
+    He said Xerox does not expect to take any material charge
+from changing its marketing of personal computers.  He said for
+the past five years, Xerox has sold most of its PC's as
+components of larger systems.
+    Another Xerox spokesman said the company actually stopped
+selling personal computers alone on February 16 but never
+announced the move.
+ Reuter
+&#3;</BODY></TEXT>

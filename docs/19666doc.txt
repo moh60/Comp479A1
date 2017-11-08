@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7994" NEWID="19666">
+<DATE>29-JUN-1987 11:07:44.47</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1327&#31;reute
+r f BC-CORADIAN-&lt;CDIN.O>-STA   06-29 0067</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CORADIAN &lt;CDIN.O> STAKE ACQUIRED BY SAGE</TITLE>
+<DATELINE>    ALBANY, N.Y., June 29 - </DATELINE><BODY>Coradian Corp said a group led by
+privately held Sage Equities Group agreed to buy a 7.6 pct
+interest in Coradian.
+    In connection with the agreement, the company said it sold
+666,667 shares at 75 cts a share.
+    It said that in addition to common stock, Sage Equities
+will receive 667,667 warrants exercisable at 1.50 dlrs a share.
+ Reuter
+&#3;</BODY></TEXT>

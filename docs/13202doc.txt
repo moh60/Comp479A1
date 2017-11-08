@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="2172" NEWID="13202">
+<DATE> 3-APR-1987 17:49:44.11</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2487&#31;reute
+r f BC-ARDEN-GROUP-&lt;ARDN>-AM   04-03 0042</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ARDEN GROUP &lt;ARDN> AMENDS CERTIFICATE</TITLE>
+<DATELINE>    LOS ANGELES, APril 3 - </DATELINE><BODY>Arden Group Inc said stockholders
+approved the redesignation of its common stock as Class A and
+the issuance of a new class B common stock.
+    The class B has super-voting rights, it said.
+ Reuter
+&#3;</BODY></TEXT>

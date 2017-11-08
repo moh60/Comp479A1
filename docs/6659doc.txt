@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11572" NEWID="6659">
+<DATE>18-MAR-1987 13:28:42.40</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F A
+&#22;&#22;&#1;f8863&#31;reute
+u f BC-******NORSTAR-BANCORP   03-18 0050</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NORSTAR &lt;NOR>, FLEET &lt;FLT> TO MERGE</TITLE>
+<DATELINE>    ALBANY, N.Y., March 18 - </DATELINE><BODY>Norstar Bancorp said that its
+board and the board of Fleet Financial Group have approved a
+definitive agreement to merge.
+    A Norstar spokesman said that a press release containing
+further details on the merger would be issued shortly.
+ Reuter
+&#3;</BODY></TEXT>

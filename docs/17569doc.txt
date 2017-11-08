@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5907" NEWID="17569">
+<DATE> 1-JUN-1987 10:55:50.28</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1256&#31;reute
+r f BC-RAVEN-INDUSTRIES-&lt;RAV   06-01 0083</UNKNOWN>
+<TEXT>&#2;
+<TITLE>RAVEN INDUSTRIES &lt;RAV> BUYS TRUCK BODY BUSINESS</TITLE>
+<DATELINE>    SIOUX FALLS, S.D., June 1 - </DATELINE><BODY>Raven Industries Inc said it
+purchased the utility truck body business of (Astoria
+Fibra-Steel, Inc) for cash.
+    Details of the transaction were not disclosed.
+    The Astoria product line, which has annual sales of about
+2.5 mln dlrs, will be manufactured and sold by Raven's newly
+formed subsidiary, Astoria Industries Inc, Raven said. Its
+Glasstite Inc subsidiary also manufactures and sells utility
+truck bodies.
+
+ Reuter
+&#3;</BODY></TEXT>

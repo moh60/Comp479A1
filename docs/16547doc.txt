@@ -1,0 +1,30 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1082" NEWID="16547">
+<DATE>13-APR-1987 13:59:49.09</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2088&#31;reute
+d f BC-UNICLUB-IN-JOINT-VENT   04-13 0117</UNKNOWN>
+<TEXT>&#2;
+<TITLE>UNICLUB IN JOINT VENTURE</TITLE>
+<DATELINE>    NEW YORK, April 13 - </DATELINE><BODY>Uniclub Inc said it has agreed to form
+an equally-owned joint venture called Uniclub Marketing Inc
+with Goodway Marketing Inc.
+    The company said Uniclub Marketing will use narrowcast
+cable television, including Goodway's Video Shopping Mall
+television shopping program, to sell Uniclub memberships, add
+new participating merchants and sell Uniclob licenses and
+franchises.
+    The company said it expects the new program will give it
+enough cardholders, merchants and fee income to make Uniclub
+solidly profitable by year-end.  Uniclub markets a consumer
+charge card that gives members a 15 pct reduction on monthly
+billing for all retail purchases.
+ Reuter
+&#3;</BODY></TEXT>

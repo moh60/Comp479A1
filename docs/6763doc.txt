@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11676" NEWID="6763">
+<DATE>18-MAR-1987 15:34:30.91</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f9264&#31;reute
+r f BC-ALLEGHANY-CORP-&lt;Y>-DE   03-18 0068</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ALLEGHANY CORP &lt;Y> DECLARES 1987 DIVIDEND</TITLE>
+<DATELINE>     NEW YORK, March 18 - </DATELINE><BODY>Alleghany Corp said its board 
+declared a stock dividend of one share of its common for every
+50 shares outstanding, as the company's dividend on its company
+for 1987.
+    It said the dividend will be distributed on April 30, to
+holders of record on March 30.
+    Alleghany said cash will be paid in lieu of any fractional
+shares of its stock.
+ Reuter
+&#3;</BODY></TEXT>

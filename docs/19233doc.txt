@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7069" NEWID="19233">
+<DATE>19-JUN-1987 11:41:48.90</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1320&#31;reute
+r f BC-DAXOR-&lt;DAXR.O>-IN-FED   06-19 0060</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DAXOR &lt;DAXR.O> IN FEDERAL EXPRESS &lt;FDX> DEAL</TITLE>
+<DATELINE>    NEW YORK, June 19 - </DATELINE><BODY>Daxor Corp said it has received an
+offer from Federal Express Corp to establish a national frozen
+blood bank at Federal's Memphis, Tenn., Headquarters.
+    The company said its blood could be shipped anywhere in the
+U.S. Within six hours from Memphis via Federal Express'
+delivery system.
+ REUTER
+&#3;</BODY></TEXT>

@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="NOT-USED" CGISPLIT="PUBLISHED-TESTSET" OLDID="21701" NEWID="17078">
+<DATE>24-APR-1987 08:45:02.17</DATE>
+<TOPICS><D>money-fx</D><D>yen</D></TOPICS>
+<PLACES><D>netherlands</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A
+&#22;&#22;&#1;f0697&#31;reute
+u f BC-DEALERS-SEE-MODERATE   04-24 0104</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DEALERS SEE MODERATE DUTCH CENTRAL BANK YEN SALES</TITLE>
+<DATELINE>    AMSTERDAM, April 24 - </DATELINE><BODY>The Dutch central bank has intervened
+in the currency markets today, in apparent concerted action
+with other central banks, foreign exchange dealers said.
+    They detected selling of the yen for dollars, which some
+estimated would run to a moderate 200 mln guilders, comparable
+to token Dutch intervention reported last week.
+    Other dealers, however, said they believed today's moderate
+intervention had been in guilders against dollar.
+    The dealers agreed the intervention was minimal and more a
+political gesture than a market moving force.
+ REUTER
+&#3;</BODY></TEXT>

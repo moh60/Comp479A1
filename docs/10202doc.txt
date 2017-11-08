@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15723" NEWID="10202">
+<DATE>26-MAR-1987 17:01:22.82</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2693&#31;reute
+r f BC-HAWKEYE-ENTERTAINMENT   03-26 0071</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HAWKEYE ENTERTAINMENT &lt;SBIZ> COMPLETES OFFERING</TITLE>
+<DATELINE>    LOS ANGELES, March 26 - </DATELINE><BODY>Hawkeye Entertainment Inc said it
+completed its initial public offering at the maximum
+subscription level of 14 mln shares at 25 cts per share, for
+proceeds of 3.5 mln dlrs.
+    The company said the proceeds will be used to create,
+acquire, develop, produce and package entertainment properties,
+primarily in film and television and secondarily in music.
+ Reuter
+&#3;</BODY></TEXT>

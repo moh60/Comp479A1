@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="8912" NEWID="3999">
+<DATE>11-MAR-1987 17:57:32.14</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0840&#31;reute
+r f BC-WEBB   03-11 0102</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BUSINESSMAN HAS 8.9 PCT OF DEL E. WEBB &lt;DWP.A></TITLE>
+<DATELINE>    WASHINGTON, March 11 - </DATELINE><BODY>John Cotton, an Arizona businessman,
+told the Securities and Exchange Commission he has acquired the
+equivalent of 213,500 shares of Class A common shares in Del E.
+Webb Investment Properties, or 8.9 pct of the total.
+    Cotton, president of Finalco Group Inc, a Paradise Valley,
+Ariz., data processing equipment maker, said he bought the
+stake, which includes warrants to buy 186,300 shares, for
+266,958 dlrs.
+    The warrants are exerciseable at 9.50 dlrs a share, he
+said. Cotton said it bought the stock for investment purposes
+only.
+ Reuter
+&#3;</BODY></TEXT>

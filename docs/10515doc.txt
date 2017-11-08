@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16036" NEWID="10515">
+<DATE>27-MAR-1987 12:00:09.18&#5;&#5;&#5;F</DATE>
+<UNKNOWN>&#22;&#22;&#1;f1472&#31;reute</UNKNOWN>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+d f BC-NUCLEAR-METALS-&lt;NUCM>   03-27 0069</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NUCLEAR METALS &lt;NUCM> HAS DELAY IN ORDERS</TITLE>
+<DATELINE>    CONCORD, Mass., March 27 - </DATELINE><BODY>Nuclear Metals Inc said a delay
+in receiving certain new orders will result in negligible
+earnings per share for its fiscal second quarter.
+    However, the company said it has been assured that the
+orders will be placed beginning in its fiscal third quarter and
+that it expects a strong rebound in earnings for the third and
+fourth quarters.
+ Reuter
+&#3;</BODY></TEXT>

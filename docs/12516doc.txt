@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="1592" NEWID="12516">
+<DATE> 2-APR-1987 09:13:45.25</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0897&#31;reute
+d f BC-ELECTROMEDICS-INC-&lt;EL   04-02 0050</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ELECTROMEDICS INC &lt;ELMD> YEAR NET</TITLE>
+<DATELINE>    ENGLEWOOD, Colo., April 2 -
+    </DATELINE><BODY>Shr profit nil vs loss three cts
+    Net profit 140,022 vs loss 882,869
+    Revs 13.3 mln vs 8,870,035
+    Avg shrs 45.0 mln vs 35.0 mln
+    Backlog 1,683,000 vs 978,000
+    NOTE: Current year net includes tax credit of 51,000 dlrs.
+ Reuter
+&#3;</BODY></TEXT>

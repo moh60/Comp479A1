@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20439" NEWID="20998">
+<DATE>19-OCT-1987 15:41:44.34</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2902&#31;reute
+d f BC-AFG-INDUSTRIES-&lt;AFG>   10-19 0077</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AFG INDUSTRIES &lt;AFG> TO BUY BACK STOCK</TITLE>
+<DATELINE>    IRVINE, Calif., Oct 19 - </DATELINE><BODY>AFG Industries Inc said its board
+authorized management to buy back up to four mln common shares,
+or 15.7 pct of the AFG stock outstanding, from time to time in
+the open market.
+    The company said the action was taken in light of current
+market conditions.
+    It also said the repurchased shares will be returned to
+treasury for general corporate purposes and for use with stock
+option plans.
+ Reuter
+&#3;</BODY></TEXT>

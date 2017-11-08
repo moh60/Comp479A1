@@ -1,0 +1,32 @@
+
+<REUTERS TOPICS="BYPASS" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="3066" NEWID="14083">
+<DATE> 7-APR-1987 11:24:26.16</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;Y
+&#22;&#22;&#1;f1248&#31;reute
+u f BC-u.s.-spot-products   04-07 0119</UNKNOWN>
+<TEXT TYPE="UNPROC">&#2;
+U.S SPOT PRODUCTS--MORNING--APRIL 07 1100 EST
+    Spot oil product markets are firmer than yesterday, in thin
+trading, brokers said. they said prices are up mainly on crude
+strength because there is still little interest in moving cash
+products.
+    traders said product inventories are still ample and
+players don't see any reason to buy right now.
+    spot gasoline is stronger than two oil this morning,
+gaining about 0.50 cent a gallon in nyh and 0.40 in the usg.
+new york barrels were still about one cent under futures, at
+52.45 cts/gal, while us gulf sellers were asking around a 1.60
+discount, or 51.85.
+    spot two oil rose 0.35 cent in ny harbor, to 49.35. usg two
+oil is up 0.15 cent from monday, at 46.95.
+ Reuter
+&#3;
+
+</TEXT>

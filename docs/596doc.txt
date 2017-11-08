@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12779" NEWID="596">
+<DATE> 2-MAR-1987 13:11:18.53</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0450&#31;reute
+r f BC-AIR-WIS-SERVICES-INC   03-02 0062</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AIR WIS SERVICES INC &lt;ARWS> 4TH QTR NET</TITLE>
+<DATELINE>    APPLETON, Wis., March 2 -
+    </DATELINE><BODY>Shr 32 cts vs five cts
+    Net 2,362,000 vs 384,000
+    Revs 29.5 mln vs 31.2 mln
+    Year
+    Shr 66 cts vs 18 cts
+    Net 4,869,000 vs 1,336,000
+    Revs 119.2 mln vs 120.2 mln
+    NOTE: Net includes tax credits of 963,000 dlrs vs 720,000
+dlrs in quarter and 613,000 dlrs vs 1,460,000 dlrs in year.
+    Year net includes gains on sale of assets of 35 cts shr vs
+14 cts shr.
+ Reuter
+&#3;</BODY></TEXT>

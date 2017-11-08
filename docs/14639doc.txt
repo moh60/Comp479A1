@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="BYPASS" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="3622" NEWID="14639">
+<DATE> 7-APR-1987 16:38:03.98</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2424&#31;reute
+u f BC-QT8917   04-07 0064</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AMEX STOCK PRICES CLOSE LOWER</TITLE>
+<DATELINE>    New York, April 7 - </DATELINE><BODY>Prices on the American Stock Exchange
+closed lower in active trading.
+    The AMEX Index fell 0.59 to 341.64.
+    The Average price per share was three cts lower
+    Declines led advances 326 to 282
+    AMEX volume rose to 14,224,710 shares from 12,855,230
+yesterday.
+    Options volume was 345,250 compared to 324,863 yesterday.
+ Reuter
+&#3;</BODY></TEXT>

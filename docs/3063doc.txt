@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19481" NEWID="3063">
+<DATE> 9-MAR-1987 09:49:29.88</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>sweden</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0121&#31;reute
+d f BC-STORA-CLOSE-TO-COMPLE   03-09 0102</UNKNOWN>
+<TEXT>&#2;
+<TITLE>STORA CLOSE TO COMPLETING PAPYRUS TAKEOVER</TITLE>
+<DATELINE>    STOCKHOLM, March 9 - </DATELINE><BODY>Sweden's Stora Kopparbergs Bergslags
+AB &lt;SKPS ST> said it had now acquired 90 pct of shares in rival
+pulp and paper makers Papyrus AB, thus passing the threshold
+above which it can compulsorily buy the rest of the company.
+    Remaining shareholders would have until later this month to
+sell their shares to Stora, the company said in a statement.
+    Stora announced last September it would acquire Papyrus at
+a price of 5.8 billion crowns, thus forming Europe's second
+largest forest group after London-based Reed International Plc
+&lt;REED L>.
+ REUTER
+&#3;</BODY></TEXT>

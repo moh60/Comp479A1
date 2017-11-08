@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="21302" NEWID="20707">
+<DATE>20-OCT-1987 16:15:52.58</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f3146&#31;reute
+d f BC-MENTOR-CORP-(MNTR.O)   10-20 0044</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MENTOR CORP (MNTR.O) TO REPURCHASE SHARES</TITLE>
+<DATELINE>    SANTA BARBARA, Calif., Oct 20 - </DATELINE><BODY>Mentor Corp said its board
+of directors has authorized a plan to repurchase up to two  mln
+shares of its common stock, subject to market conditions and
+the company's own financial position.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16515" NEWID="1195">
+<DATE> 3-MAR-1987 12:57:40.70</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0196&#31;reute
+r f BC-SUN-MICROSYSTEMS-&lt;SUN   03-03 0111</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SUN MICROSYSTEMS &lt;SUNW> SETS PACT WITH PHILIPS</TITLE>
+<DATELINE>    SEATTLE, March 3 - </DATELINE><BODY>Sun Microsystems Inc said it has agreed
+to cooperate with Philips Corporate Group Home Interactive
+Systems, a Dutch electronics firm, to develop a multi-media
+authoring computer system.
+    The system will be based upon the integration of Sun
+workstation and Compact Disc Interactive technologies, the
+company said.
+    The authoring systems are collections of hardware, system
+utilities and software to enable Comact Disc Interactive
+application developers to design, assemble and test
+interactive, multi-media applications in entertainment,
+education and information for consumer and institutions.
+ Reuter
+&#3;</BODY></TEXT>

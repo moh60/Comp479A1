@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="198" NEWID="11970">
+<DATE> 1-APR-1987 10:42:05.32</DATE>
+<TOPICS><D>cotton</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>nyce</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;G
+&#22;&#22;&#1;f1162&#31;reute
+u f BC-certif-cotton-stocks   04-01 0052</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CERTIFICATED COTTON STOCKS</TITLE>
+<DATELINE>    NEW YORK, April 1 - </DATELINE><BODY>Certificated cotton stocks deliverable
+on the New York Cotton Exchange No 2 cotton futures contract as
+of March 31 were reported at 36,659 bales, unchanged from the
+previous day's figure. There were no bales awaiting review and
+985 bales awaiting decertification.
+ Reuter
+&#3;</BODY></TEXT>

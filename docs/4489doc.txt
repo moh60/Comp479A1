@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9402" NEWID="4489">
+<DATE>12-MAR-1987 15:50:00.68</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0365&#31;reute
+r f BC-FORMER-MERRILL-LYNCH   03-12 0109</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FORMER MERRILL LYNCH &lt;MER> EMPLOYEE CHARGED</TITLE>
+<DATELINE>    NEW YORK, March 12 - </DATELINE><BODY>A former account executive and
+registered representative at Merrill Lynch Co Inc was charged
+by a federal grand jury with diverting 8,400 dlrs of the
+company's funds for his own use, according to court papers.
+    Bentley Whitfield, 31, was accused by the Grand Jury of
+mail fraud stemming from a scheme in which he deposited a check
+payable to Merrill Lynch into a trading account that he opened
+under a ficticious name.
+    The grand jury found he withdrew 8,400 dlrs from the
+account and used the money in a real estate deal. He faces a
+maximum five years in jail and 1,000 dlr fine.
+ Reuter
+&#3;</BODY></TEXT>

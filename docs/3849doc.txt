@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="8762" NEWID="3849">
+<DATE>11-MAR-1987 13:57:11.80</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D><D>west-germany</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0184&#31;reute
+w f BC-ERICSSON-&lt;ERICY>-WINS   03-11 0064</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ERICSSON &lt;ERICY> WINS ORDER FROM WEST GERMANY</TITLE>
+<DATELINE>    NEW YORK, March 11 - </DATELINE><BODY>L.M. Ericsson Telephone Co of Sweden
+said it was awarded a 7.5 mln dlr contract to supply its
+Alfaskop computer terminals to the West German Bundespost, West
+Germany's telecommunications and postal administration.
+    Ericsson said the contract covers 2,000 terminals, which
+will be used by West German post offices.
+ Reuter
+&#3;</BODY></TEXT>

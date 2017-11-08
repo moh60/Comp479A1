@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17865" NEWID="1447">
+<DATE> 4-MAR-1987 09:55:27.79</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0249&#31;reute
+r f BC-JACOBS-ENGINEERING-&lt;J   03-04 0050</UNKNOWN>
+<TEXT>&#2;
+<TITLE>JACOBS ENGINEERING &lt;JEC> TO REINCORPORATE</TITLE>
+<DATELINE>    PASADENA, Calif., March 4 - </DATELINE><BODY>Jacobs Engineering group Inc
+said its shareholders approved reincorporation of the company
+in Delaware and certain indemnification agreements with
+officers and directors of the company.
+    Jacobs is incorporated in California.
+ Reuter
+&#3;</BODY></TEXT>

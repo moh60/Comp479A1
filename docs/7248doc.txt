@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12161" NEWID="7248">
+<DATE>19-MAR-1987 12:38:03.38</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1659&#31;reute
+h f BC-NEWCOR-&lt;NEW>-NAMES-NE   03-19 0054</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NEWCOR &lt;NEW> NAMES NEW CHAIRMAN</TITLE>
+<DATELINE>    TROY, MICH., March 19 - </DATELINE><BODY>Newcor Inc said its board elected
+William Mitchell as chairman succeeding Frank Gofrank, who is
+retiring as chairman but remains a director.
+    In other action, Newcor's board approved payment of a
+regular quarterly dividend of eight cts on May one, record
+April 15.
+ Reuter
+&#3;</BODY></TEXT>

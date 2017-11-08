@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="891" NEWID="16356">
+<DATE>13-APR-1987 11:17:26.46</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;Y
+&#22;&#22;&#1;f1363&#31;reute
+u f BC-HUGHES'-CANADA-RIG-CO   04-13 0051</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HUGHES' CANADA RIG COUNT DOWN 19 THIS WEEK</TITLE>
+<DATELINE>    Houston, April 13 - </DATELINE><BODY>Drilling activity slowed down
+substantially in Canada. The number of active rotary rigs fell
+by 19 in the week ended today, Hughes Tool Co reported.
+    A total of 66 rigs were working during the week, compared
+with 71 one year ago, it said.
+ Reuter
+&#3;</BODY></TEXT>

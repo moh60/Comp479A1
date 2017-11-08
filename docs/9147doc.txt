@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14668" NEWID="9147">
+<DATE>25-MAR-1987 03:11:14.58</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D><D>japan</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0114&#31;reute
+u f BC-NISSAN-AFFILIATE-TO-A   03-25 0105</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NISSAN AFFILIATE TO ACQUIRE U.S. AUTOPARTS MAKER</TITLE>
+<DATELINE>    TOKYO, March 25 - </DATELINE><BODY>&lt;Kokusan Kinzoku Kogyo Co Ltd> (KKK), a
+Japanese autoparts maker owned 25 pct by Nissan Motor Co Ltd
+&lt;NSAN.T>, has exchanged a memorandum to acquire over 50 pct of
+U.S. Autoparts firm &lt;Master-Cast Co> to avoid losses on U.S.
+Sales caused by the yen's rise against the dollar, a KKK
+spokesman said.
+    The final agreement should be signed this year when KKK
+forms the new company &lt;Alfa K Technology>, he said.
+    The new firm should supply all the U.S. Major car makers,
+including Ford Motor Co &lt;F>, General Motor Corp &lt;GM> and
+Chrysler Corp &lt;C>, he said.
+ REUTER
+&#3;</BODY></TEXT>

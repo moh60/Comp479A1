@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12003" NEWID="7090">
+<DATE>19-MAR-1987 09:37:54.32</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0876&#31;reute
+r f BC-METRO-FUNDING-SHAREHO   03-19 0074</UNKNOWN>
+<TEXT>&#2;
+<TITLE>METRO FUNDING SHAREHOLDERS APPROVE MERGER</TITLE>
+<DATELINE>    NEW YORK, March 19 - </DATELINE><BODY>&lt;Metro Funding Corp> said its
+shareholders approved its merger into &lt;Maxcom Corp> and its
+change of incorporation from Nevada to Delaware.
+    Metro Funding also said its subsidiary, Comet Corp, will be
+renamed Maxcom USA.
+    The company also reported shareholders approved the
+authorization of 500,000 shares of common stock to be set aside
+for an incentive stock option plan.
+ Reuter
+&#3;</BODY></TEXT>

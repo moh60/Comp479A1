@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="3" NEWID="11775">
+<DATE> 1-APR-1987 00:09:05.07</DATE>
+<TOPICS><D>rubber</D></TOPICS>
+<PLACES><D>malaysia</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;T C
+&#22;&#22;&#1;f0002&#31;reute
+r f BC-MALAYSIA-CUTS-GAZETTE   04-01 0081</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MALAYSIA CUTS GAZETTED RUBBER PRICE</TITLE>
+<DATELINE>    KUALA LUMPUR, April 1 - </DATELINE><BODY>Malaysia said it cut the gazetted
+price of rubber to 202-7/8 cents per kg from 213-1/2 cents in
+March, effective immediately.
+    No export duty is applicable at this level, against 3/8
+cent per kg last month, because the government raised the
+export duty threshold price to 210 cents per kg in early 1985.
+    The cess for rubber research and replanting remained
+unchanged at 3.85 and 9.92 cents per kg respectively.
+ REUTER
+&#3;</BODY></TEXT>

@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11354" NEWID="6441">
+<DATE>18-MAR-1987 09:01:42.04</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f7742&#31;reute
+u f BC-MOBEX-SAYS-ABOUT-87-P   03-18 0059</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MOBEX SAYS ABOUT 87 PCT OF GRANT &lt;GTX> TENDERED</TITLE>
+<DATELINE>    ANAHEIM, Calif., March 18 - </DATELINE><BODY>Mobex Corp said 2,088,461 Grant
+Industries Inc common shares, about 87 pct of the 2.4 mln
+outstanding, have been tendered in response to Mobex's offer.
+    The company said its offer of 7.75 dlrs a share for the
+stock has been extended to 2000 EST March 23 from 2400 March 17.
+ Reuter
+&#3;</BODY></TEXT>

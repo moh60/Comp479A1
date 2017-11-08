@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13186" NEWID="7665">
+<DATE>20-MAR-1987 09:52:43.93</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A RM
+&#22;&#22;&#1;f0899&#31;reute
+r f BC-GUILFORD-MILLS-&lt;GFD>   03-20 0105</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GUILFORD MILLS &lt;GFD> SELLS CONVERTIBLE DEBT</TITLE>
+<DATELINE>    NEW YORK, March 20 - </DATELINE><BODY>Guilford Mills Inc is raising 75 mln
+dlrs via an offering of convertible subordinated debentures due
+2012 with a six pct coupon and par pricing, said sole manager
+Bear, Stearns and Co.
+    The debentures are convertible into the company's common
+stock at 44.25 dlrs per share, representing a premium of 25.08
+pct over the stock price when terms on the debt were set.
+    Non-callable for two years, the debt is rated Ba-1 by
+Moody's and BBB-minus by Standard and Poor's. The issue was
+increased from an initial offering of 60 mln dlrs because of
+investor demand.
+ Reuter
+&#3;</BODY></TEXT>

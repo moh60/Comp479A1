@@ -1,0 +1,30 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20840" NEWID="20245">
+<DATE>20-OCT-1987 10:34:42.46</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D><D>sweden</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1312&#31;reute
+d f BC-SAAB-U.S.-UNIT-SEES-L   10-20 0128</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SAAB U.S. UNIT SEES LIMITED IMPACT ON ITS CARS</TITLE>
+<DATELINE>    DETROIT, Oct 20 - </DATELINE><BODY>The plunge in stock market prices should
+have its biggest impact on the middle range of the car market
+but have less impact on cheap cars as well as luxury vehicles,
+the president of &lt;Saab-Scania of America Inc> said.
+    Robert Sinclair, head of the U.S. subsidiary of Saab-Scania
+AB &lt;SABS.ST> of Sweden, told reporters "We're much better off
+than the middle of the market -- those buyers will wait to see
+what happens."
+    Sinclair said the greatest impact would come on buyers of
+cars in the 14,000 dlr to 18,000 dlr range, which has been
+targeted for a new product assault by General Motors Corp &lt;GM> 
+and is the segment where Ford Motor Co &lt;F> has had considerable
+success with its mid-sized cars.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14215" NEWID="8694">
+<DATE>24-MAR-1987 08:23:50.09</DATE>
+<TOPICS><D>cpi</D><D>wpi</D></TOPICS>
+<PLACES><D>pakistan</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0709&#31;reute
+r f BC-PAKISTAN-CONSUMER-PRI   03-24 0066</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PAKISTAN CONSUMER PRICE INDEX FALLS IN JANUARY</TITLE>
+<DATELINE>    KARACHI, March 24 - </DATELINE><BODY>Pakistan's consumer price index (base
+1975/76) fell to 231.93 in January 1987 from 233.26 in December
+1986, and compared with  223.66 a year ago, the federal Bureau
+of Statistics said.
+    The wholesale price index (same base) rose to 229.83 in
+January from 229.06 in December and compared with  217.97 in
+January 1986.
+ REUTER
+&#3;</BODY></TEXT>

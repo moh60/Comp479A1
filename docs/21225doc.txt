@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20211" NEWID="21225">
+<DATE>19-OCT-1987 12:50:31.70</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2051&#31;reute
+d f BC-FEDERAL-EXPRESS-&lt;FDX>   10-19 0107</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FEDERAL EXPRESS &lt;FDX> SEPTEMBER VOLUME RISES</TITLE>
+<DATELINE>    MEMPHIS, Oct 19 - </DATELINE><BODY>Federal Express Corp said that the
+average daily volume of packages and documents for September
+increased 26 pct over the same month in 1986.
+    The total volume of packages in September increased to
+17,687,000 from 14,077,000. The average daily volume of
+packages increased to 842,238 from 670,333.
+    For the first four months of the fiscal year, ending Sept
+30, the company said its total volume of packages increased to
+69,826,000 from the 54,232,000 reported during the same period
+last year. The average daily volume during the period increased
+to 802,598 from 638,024.
+ Reuter
+&#3;</BODY></TEXT>

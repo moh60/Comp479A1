@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11554" NEWID="6641">
+<DATE>18-MAR-1987 13:02:37.53</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f8754&#31;reute
+r f BC-INERTIA-DYNAMICS-CORP   03-18 0064</UNKNOWN>
+<TEXT>&#2;
+<TITLE>INERTIA DYNAMICS CORP &lt;TRIM> 2ND QTR FEB 28 NET</TITLE>
+<DATELINE>    PHOENIX, Ariz., March 18 -
+    </DATELINE><BODY>Oper shr 35 cts vs 29 cts
+    Oper net 1,185,267 vs 1,001,315
+    Sales 16.8 mln vs 12.4 mln
+    Six mths
+    Oper shr 42 cts vs 32 cts
+    Oper net 1,420,815 vs 1,105,555
+    Note: oper data does not include year ago qtr and six mths
+loss from discontinued operations of 87,449 dlrs, or two cts
+per shr.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13502" NEWID="7981">
+<DATE>20-MAR-1987 16:24:46.28</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2402&#31;reute
+r f BC-TEXAS-CAPITAL-BANCSHA   03-20 0070</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TEXAS CAPITAL BANCSHARES UNIT FIRST TO FILE</TITLE>
+<DATELINE>    HOUSTON, March 20 -</DATELINE><BODY>&lt;Texas Capital Bancshares> said its
+subsidiary, Texas Capital Bank-Westwood, was the first Texas
+bank to file for a statewide branch to be located in Austin.
+    The company said it filed with the Comptroller of the
+Currency under a 1986 state constitutional amendment allowing
+Texas banks to establish a limit of three branches within its
+home county.
+ Reuter
+&#3;</BODY></TEXT>

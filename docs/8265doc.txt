@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13786" NEWID="8265">
+<DATE>23-MAR-1987 10:06:04.08</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0998&#31;reute
+r f BC-WILLIAMS-COS-&lt;WMB>-UN   03-23 0088</UNKNOWN>
+<TEXT>&#2;
+<TITLE>WILLIAMS COS &lt;WMB> UNIT EXPANDING FIBER OPTICS</TITLE>
+<DATELINE>    TULSA, Okla., March 23 - </DATELINE><BODY>Williams Cos said its
+telecommunications company is spending 22 mln dlrs to expand
+its fiber optic telecommunications system.
+    Its subsidiary, known as WilTel, said the expansion stems
+from customer demand which has exceeded its expectations.
+    It said the expansion will increase from 25,000 to 50,000
+voice circuits on the Chicago to Kansas City segment of the
+WilTel system, and from 16,0000 to 40,000 on the Kansas City to
+Los Angeles segment.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="NOT-USED" CGISPLIT="PUBLISHED-TESTSET" OLDID="21773" NEWID="17150">
+<DATE>24-APR-1987 13:55:30.42</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2002&#31;reute
+d f BC-WURLITZER-&lt;WUR>-ELECT   04-24 0099</UNKNOWN>
+<TEXT>&#2;
+<TITLE>WURLITZER &lt;WUR> ELECTS NEW TOP OFFICERS</TITLE>
+<DATELINE>    DEKALB, ILL., April 24 - </DATELINE><BODY>Wurlitzer Co said George Howell
+was elected vice chairman, succeeding Sid Weiss who was named
+chief executive officer.
+    Weiss became vice chairman in December 1986. Weiss and
+Leonard Friedman, Wurlitzer chairman, led Wurlitzer Investments
+Ltd, a Texas partnership which purchased a controlling interest
+in Wurlitzer.
+    In other action, Frank Rubury was elected president and
+chief operating officer of Wurlitzer, effective April 27.
+Rubury was formerly president of Horsman Inc, a subsidiary of
+Drew Industries Inc &lt;DRWI.O>.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20816" NEWID="20221">
+<DATE>20-OCT-1987 10:17:06.26</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F 
+&#22;&#22;&#1;f1199&#31;reute
+r f BC-DOMTAR-INC-&lt;DTC>-3RD   10-20 0035</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DOMTAR INC &lt;DTC> 3RD QTR NET</TITLE>
+<DATELINE>    MONTREAL, Oct 19 -
+    </DATELINE><BODY>Shr 37 cts vs 41 cts
+    Net 35 mln vs 38 mln
+    Revs not given
+    Nine mths
+    Shr 1.32 dlrs vs 1.18 dlrs
+    Net 123 mln vs 106 mln
+    Revs not given
+ Reuter
+&#3;</BODY></TEXT>

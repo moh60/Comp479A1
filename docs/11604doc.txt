@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17665" NEWID="11604">
+<DATE>31-MAR-1987 14:58:49.28</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;V RM
+&#22;&#22;&#1;f2293&#31;reute
+b f BC-/HOUSE-VOTES-TO-OVERR   03-31 0072</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HOUSE VOTES TO OVERRIDE REAGAN'S BILL VETO</TITLE>
+<DATELINE>    WASHINGTON, March 31 - </DATELINE><BODY>The House of Representatives voted
+350 to 73 to override President Reagan's veto of an 88 billion
+dlr highway and mass transit funding bill.
+    The bill now goes to the Senate, which must also pass the
+bill by a two-thirds majority to override the veto.
+    Reagan vetoed the bill Friday, saying it was a budget
+buster and loaded with special interest projects.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="21044" NEWID="20449">
+<DATE>20-OCT-1987 13:24:37.43</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2353&#31;reute
+d f BC-BIOSONICS-INC-&lt;BIOS.O   10-20 0053</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BIOSONICS INC &lt;BIOS.O> PRESIDENT RESIGNS</TITLE>
+<DATELINE>    MOUNT LAUREL, N.J., Oct 20 - </DATELINE><BODY>Biosonics Inc said Jeffrey S.
+Wigand has resigned as president, chief operating officer and
+director of the company.
+    The company said Wigand will announce his affiliation with
+another healthcare company as soon as negotiations are
+completed.
+ Reuter
+&#3;</BODY></TEXT>

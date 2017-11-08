@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1066" NEWID="16531">
+<DATE>13-APR-1987 13:38:58.71</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2045&#31;reute
+d f BC-GANDER-&lt;GNDR.O>-BUYS   04-13 0066</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GANDER &lt;GNDR.O> BUYS WESTERN WEAR RETAILER</TITLE>
+<DATELINE>    WILMOT, WIS., April 13 - </DATELINE><BODY>Gander Mountain Inc said it
+acquired the privately held Western Ranchman Outfitters, a
+catalog and point-of-purchase retailer of western apparel based
+in Cheyenne, Wyo.
+    It said Western Ranchman had sales for the year ended Jan
+31, 1987 of about 2.2 mln dlrs.
+    The purchase was made for an undisclosed amount of cast.
+ Reuter
+&#3;</BODY></TEXT>

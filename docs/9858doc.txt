@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15379" NEWID="9858">
+<DATE>26-MAR-1987 09:36:08.33</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0991&#31;reute
+r f BC-MCO-&lt;MCO>,-MAXXAM-&lt;MX   03-26 0086</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MCO &lt;MCO>, MAXXAM &lt;MXM> HOLDERS APPROVE MERGER</TITLE>
+<DATELINE>    LOS ANGELES, March 26 - </DATELINE><BODY>MCO Holdings Inc said its
+shareholders and those of MAXXAM Group Inc have approved the
+proposed merger of the two companies.
+    MCO said one MAXXAM shareholder has filed an objection to
+the proposed settlement of shareholder actions related to the
+merger in the Delaware Court of Chancery. A hearing on the
+settlement proposal is scheduled for March 27... The merger is
+subject to court approval of the settlement as well as to other
+conditions.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4251" NEWID="15268">
+<DATE> 8-APR-1987 15:38:12.21</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D><D>spain</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2365&#31;reute
+r f BC-GENERAL-AUTOMATION-&lt;G   04-08 0079</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GENERAL AUTOMATION &lt;GENA> SETS JOINT VENTURE</TITLE>
+<DATELINE>    ANAHEIM, Calif., April 8 - </DATELINE><BODY>General Automation Inc said it
+signed a joint venture with Madrid, Spain-based Ingenieria De
+Sistemas Electronics S.A.
+    The pact establishes General Automation Iberica S.A. as a
+local manufacturer and master distributor of General
+Automation's ZEBRA multi-user business systems in Spain and
+Portugal.
+    General Automation Iberica will be equally financed by
+General Automation and Ingenieria.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18079" NEWID="1661">
+<DATE> 4-MAR-1987 13:42:57.03</DATE>
+<TOPICS><D>nat-gas</D><D>crude</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;Y
+&#22;&#22;&#1;f0275&#31;reute
+d f BC-STERLING-IN-TEXAS-GAS   03-04 0087</UNKNOWN>
+<TEXT>&#2;
+<TITLE>STERLING IN TEXAS GAS AND OIL DISCOVERY</TITLE>
+<DATELINE>    FT. LAUDERDALE, Fla, March 4 - </DATELINE><BODY>&lt;Sterling Investment Group>
+said it successfully drilled and completed a significant
+development well 65 miles southwest of Houston, Texas.
+    The well has a choke of 11/64 of an inch and is 10,097 feet
+deep.
+    The well initially tested at a maximum daily flow rate of
+two mln cubic feet of gas and 304 barrels of condensate.
+    Participants in the new well, along with Sterling, are
+Trafalgar House Ltd of the U.K. and &lt;Texstar NOrth America Inc.>
+ Reuter
+&#3;</BODY></TEXT>

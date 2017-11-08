@@ -1,0 +1,20 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9275" NEWID="4362">
+<DATE>12-MAR-1987 13:14:23.02</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>nasdaq</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0883&#31;reute
+d f BC-ENVIROPACT-&lt;VIRO>-IN   03-12 0038</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ENVIROPACT &lt;VIRO> IN NASDAQ NATIONAL EXPANSION</TITLE>
+<DATELINE>    MIAMI, March 12 - </DATELINE><BODY>Enviropact Inc said its stock has been
+included for listing in the National Association of Securities
+Dealers' NASDAQ National Market System effective March 17.
+ Reuter
+&#3;</BODY></TEXT>

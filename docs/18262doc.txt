@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7707" NEWID="18262">
+<DATE> 2-JUN-1987 15:39:58.54</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2489&#31;reute
+d f BC-AUTODESK-&lt;ACAD.O>-SEL   06-02 0042</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AUTODESK &lt;ACAD.O> SELLS STOCK</TITLE>
+<DATELINE>    SAUSALITO, Calif., June 2 - </DATELINE><BODY>Autodesk Inc said it made an
+underwritten public offering of 2,640,836 common shares at 24
+dlrs per share.
+    The company said it sold 2.5 mln shares and the rest were
+sold by stockholders.
+ Reuter
+&#3;</BODY></TEXT>

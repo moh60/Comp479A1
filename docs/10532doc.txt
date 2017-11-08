@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16053" NEWID="10532">
+<DATE>27-MAR-1987 12:17:37.09&#5;&#5;&#5;F</DATE>
+<UNKNOWN>&#22;&#22;&#1;f1568&#31;reute</UNKNOWN>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+r f BC-SOUTHWESTERN-PUBLIC-S   03-27 0055</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SOUTHWESTERN PUBLIC SERVICE CO&lt;SPS> 2ND QTR NET</TITLE>
+<DATELINE>    AMARILLO, Texas, March 27 -
+    </DATELINE><BODY>Shr 42 cts vs 42 cts
+    Net 19.1 mln vs 19.5 mln
+    Revs 184.9 mln vs 185.1 mln
+    12 mths
+    Shr 2.17 dlrs vs 2.53 dlrs
+    Net 97.0 mln vs 111.8 mln
+    Revs 793.3 mln vs 828.8 mln
+    Avg shrs 40.9 mln vs 40.5 mln
+    NOTE: Year-ago restated.
+ Reuter
+&#3;</BODY></TEXT>

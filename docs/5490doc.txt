@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10403" NEWID="5490">
+<DATE>16-MAR-1987 12:39:49.42</DATE>
+<TOPICS><D>cpi</D></TOPICS>
+<PLACES></PLACES>
+<PEOPLE><D>balladur</D></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f2864&#31;reute
+f f BC-Balladur-maintains-19   03-16 0015</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE> Balladur maintains 1987 2.5 pct inflation target after February 3.4 pct year-on-year
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

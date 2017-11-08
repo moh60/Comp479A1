@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15034" NEWID="9513">
+<DATE>25-MAR-1987 14:31:07.56</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2053&#31;reute
+r f BC-O'BRIEN-ENERGY-&lt;OBS>   03-25 0075</UNKNOWN>
+<TEXT>&#2;
+<TITLE>O'BRIEN ENERGY &lt;OBS> IN CITICORP &lt;CCI> LEASE</TITLE>
+<DATELINE>    PHILADELPHIA, March 25 - </DATELINE><BODY>O'Brien Energy Systems Inc said it
+has signed a 12-year 12 mln dlr lease with Citicorp covering
+its wood gasification project in Quincy, Fla.
+    O'Brien said it retains rights to the residual value of the
+project and may participate in the development of additional
+electric generating facilities as part of a second phase of the
+project, which started operating January One.
+ Reuter
+&#3;</BODY></TEXT>

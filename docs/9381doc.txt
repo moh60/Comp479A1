@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14902" NEWID="9381">
+<DATE>25-MAR-1987 11:48:22.40</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1426&#31;reute
+u f BC-HADSON-&lt;HADS>-TO-ACQU   03-25 0033</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HADSON &lt;HADS> TO ACQUIRE 85 PCT OF SEAXE &lt;SEAX></TITLE>
+<DATELINE>    OKLAHOMA CITY, March 25 - </DATELINE><BODY>Hadson Corp said it has signed a
+definitive agreement to acquire 85 pct of the outstanding
+common stock of Seaxe Energy Corp.
+    The company said it will buy the 85 pct interest in Seaxe
+from shareholders owning restricted or controlled shares for
+less than 200,000 Hadson common shares.
+    It said closing is subject to the approval of title
+assignments by the French government.  Seaxe is involved in oil
+and natural gas exploration and development in the Paris Basin
+of France.
+ Reuter
+&#3;</BODY></TEXT>

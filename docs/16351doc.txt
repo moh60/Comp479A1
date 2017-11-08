@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="886" NEWID="16351">
+<DATE>13-APR-1987 11:15:00.92</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1349&#31;reute
+u f BC-GENERAL-NUTRITION-&lt;GN   04-13 0060</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GENERAL NUTRITION &lt;GNC> SHARES TO BE SOLD</TITLE>
+<DATELINE>    PITTSBURGH, April 13 - </DATELINE><BODY>General Nutrition Inc said it has
+filed for a secondary offering of eight mln common shares.
+    It said all the shares are being sold by the estate of
+founder David B. Shakarian.  Lead underwriter will be Kidder,
+Peabody and Co Inc.
+    General Nutrition has about 33.0 mln shares outstanding.
+ Reuter
+&#3;</BODY></TEXT>

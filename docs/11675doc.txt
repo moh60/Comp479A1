@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17737" NEWID="11675">
+<DATE>31-MAR-1987 16:23:14.66</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A F RM
+&#22;&#22;&#1;f2613&#31;reute
+r f BC-PROXMIRE-SAYS-RATE-OF   03-31 0097</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PROXMIRE SAYS RATE OF U.S. BANK CLOSINGS AT 200</TITLE>
+<DATELINE>    WASHINGTON, March 31 - </DATELINE><BODY>Senate Banking Committee chairman
+William Proxmire says the U.S. banking system is sound despite
+a rate of failures that could reach 200 this year.
+    In a statement in the Congressional Record, the Wisconsin
+Democrat said that as of March 19, 50 banks had failed. "At
+that pace, some 200 banks will go bankrupt before the year is
+out," he said, compared to 144 last year--worst since the
+depression.
+    Despite the statistics, he said, "American banking today
+remains overall remarkably safe and prudent."
+ Reuter
+&#3;</BODY></TEXT>

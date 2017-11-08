@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="752" NEWID="16217">
+<DATE>13-APR-1987 08:38:07.51</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0734&#31;reute
+r f BC-CRAZY-EDDIE-&lt;CRZY>-EX   04-13 0086</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CRAZY EDDIE &lt;CRZY> EXECUTIVE LEAVES BOARD</TITLE>
+<DATELINE>    EDISON, N.J., April 13 - </DATELINE><BODY>Crazy Eddie Inc executive vice
+president and chief financial officer Sam Antar, who turns 66
+soon, has resigned from its board and has been replaced by
+William H. Saltzman, vice president and general counsel of
+Sun/DIC Acquisition Corp.
+    Sam Antar and other executive vice presidents Mitchell
+Antar and Isaac Kairey were named to an Office of the President
+that took over the duties of chief executive officer from
+chairman Eddie Antar in January.
+ Reuter
+&#3;</BODY></TEXT>

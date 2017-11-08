@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4071" NEWID="15088">
+<DATE> 8-APR-1987 11:37:25.85</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1482&#31;reute
+d f BC-MERCK-&lt;MRK>-COMBINATI   04-08 0084</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MERCK &lt;MRK> COMBINATION HEART DRUG AVAILABLE</TITLE>
+<DATELINE>    NEW YORK, April 8 - </DATELINE><BODY>Merck and Co Inc said a combination
+heart drug is available by prescription in the U.S.
+    The drug is Vaseretic, a once-a-day medication combining an
+angiotensin converting enzyme inhibitor (ACE) and a diuretic to
+treat high blood pressure. The inhibitor is a new class of
+antihypertensive drugs. Last year Merck introduced Vasotec, an
+ACE inhibitor.
+    The new drug combined Vasotec and HydroDiuril, a frequently
+prescribed diuretic.
+ Reuter
+&#3;</BODY></TEXT>

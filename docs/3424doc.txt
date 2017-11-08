@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19846" NEWID="3424">
+<DATE> 9-MAR-1987 18:37:14.52</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0053&#31;reute
+h f BC-BARNETT-BANKS-&lt;BBF>-P   03-09 0050</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BARNETT BANKS &lt;BBF> PROPOSES NAME CHANGE</TITLE>
+<DATELINE>    JACKSONVILLE, Fla., March 9 - </DATELINE><BODY>Barnett Banks of Florida Inc
+proposed changing its name to Barnett Banks Inc, the company
+said.
+    The company said shareholders will vote on the proposal,
+made in its 1987 proxy statement, at the annual meeting on
+April 22.
+ Reuter
+&#3;</BODY></TEXT>

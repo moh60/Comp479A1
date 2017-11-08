@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11199" NEWID="6286">
+<DATE>17-MAR-1987 16:38:47.00</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F Y
+&#22;&#22;&#1;f6571&#31;reute
+d f BC-AMERICAN-EXPLORATION   03-17 0085</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AMERICAN EXPLORATION &lt;AXO> OFFERS UNITS</TITLE>
+<DATELINE>    HOUSTON, March 17 - </DATELINE><BODY>American Exploration Co said it is
+offering units in New York Life Oil and Gas Producing
+Properties Program II.
+    It said the offer consists of 75 mln dlrs of preformation
+units, representing limited partnership interests.
+    The unit, which will acquire producing oil and gas
+properites, is being formed by a unit of American Exploration
+and NYLIFE Equity Inc, a unit of &lt;New York Life Insurance Co>.
+Both companies will be general partners.
+ Reuter
+&#3;</BODY></TEXT>

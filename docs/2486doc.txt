@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18904" NEWID="2486">
+<DATE> 5-MAR-1987 16:54:14.54</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A RM
+&#22;&#22;&#1;f0892&#31;reute
+r f BC-FIRST-FEDERAL-&lt;FARK>   03-05 0057</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FIRST FEDERAL &lt;FARK> BUYS BACK CAPITAL NOTES</TITLE>
+<DATELINE>    NEW YORK, March 5 - </DATELINE><BODY>First Federal Savings of Arkansas FA
+said it bought back 4.75 mln dlrs of its 15-3/8 pct
+subordinated capital notes.
+    There are now 14.25 mln dlrs of these notes outstanding,
+compared to an original issue of 25 mln dlrs sold in September
+1985, First Federal said.
+         
+ Reuter
+&#3;</BODY></TEXT>

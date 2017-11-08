@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6298" NEWID="18546">
+<DATE>18-JUN-1987 06:54:48.09</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>japan</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2577&#31;reute
+u f BC-HONDA-EXPORTS-FALL-IN   06-18 0070</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HONDA EXPORTS FALL IN MAY</TITLE>
+<DATELINE>    TOKYO, June 18 - </DATELINE><BODY>Honda Motor Co Ltd &lt;HMC.T> said its
+vehicle exports in May fell 11.4 pct from a year earlier to
+54,982.
+    Honda shipped 34,701 vehicles to the U.S. In May, up 4.4
+pct from a year earlier, but total shipments to North America
+fell 8.3 pct to 39,009, due to increased assembly there, a
+company spokeswoman said.
+    Exports to Europe fell 24.8 pct to 12,821, she added.
+ REUTER
+&#3;</BODY></TEXT>

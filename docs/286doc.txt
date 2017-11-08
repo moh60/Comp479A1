@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12469" NEWID="286">
+<DATE> 2-MAR-1987 03:44:22.83</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D><D>ussr</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0721&#31;reute
+u f BC-SHULTZ-VISIT-TO-MOSCO   03-02 0106</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SHULTZ VISIT TO MOSCOW POSSIBLE, SAY SOVIETS</TITLE>
+<DATELINE>    MOSCOW, March 2 - </DATELINE><BODY>A senior Soviet official said a visit to
+Moscow by U.S. Secretary of State George Shultz for arms
+discussions was under consideration.
+    Deputy Foreign Minister Alexander Bessmertnykh told a news
+conference such a visit would be part of continuing contacts
+between the two powers "in the framework of security questions."
+    Earlier, U.S. Officials with Shultz in Peking said he was
+likely to go to Moscow soon following Kremlin leader Mikhail
+Gorbachev's weekend proposal for a separate agreement on
+withdrawing Soviet and American medium-range missiles from
+Europe.
+&#3;</BODY></TEXT>

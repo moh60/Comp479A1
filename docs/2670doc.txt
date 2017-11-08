@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19088" NEWID="2670">
+<DATE> 6-MAR-1987 11:31:57.46</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0558&#31;reute
+r f BC-ROLLINS-ENVIRONMENTAL   03-06 0040</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ROLLINS ENVIRONMENTAL &lt;REN> SHARE OFFER STARTS</TITLE>
+<DATELINE>    WILMINGTON, Del., March 6 - </DATELINE><BODY>Rollins Environmental Services
+Inc said an offering of 900,000 common shares is under way at
+34.625 dlrs a share through underwriter Merrill Lynch and Co
+Inc &lt;MER>.
+ Reuter
+&#3;</BODY></TEXT>

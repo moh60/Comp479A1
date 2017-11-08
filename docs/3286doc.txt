@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19708" NEWID="3286">
+<DATE> 9-MAR-1987 14:07:18.47</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D><D>france</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0271&#31;reute
+u f BC-AIRBUS-HAS-NO-COMMENT   03-09 0108</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AIRBUS HAS NO COMMENT ON MCDONNELL TALKS</TITLE>
+<DATELINE>    PARIS, March 9 - </DATELINE><BODY>European consortium &lt;Airbus Industrie>
+said it had no comment on press reports that it had resumed
+talks with U.S. &lt;McDonnell Douglas Corp.> over a possible joint
+development and production of airliners.
+    A spokesman at Airbus headquarters in Toulouse said in a
+telephone interview: "We have no knowledge of talks and have no
+comment to make."
+    Talks broke off last autumn after the two rivals failed to
+agree on cooperation over a new long-range jet. McDonnell
+Douglas wanted Airbus to help build its MD-11, while Airbus
+insisted McDonnell drop the MD-11 and cooperate over its A340.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10836" NEWID="5923">
+<DATE>17-MAR-1987 09:43:24.87</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f4948&#31;reute
+r f BC-SUNGARD-DATA-&lt;SNDT>-S   03-17 0046</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SUNGARD DATA &lt;SNDT> SHARE OFFERING STARTS</TITLE>
+<DATELINE>    WAYNE, Pa., March 17 - </DATELINE><BODY>SunGard Data Systems Inc said an
+offering of 1,200,000 common shares is underway at 18.25 dlrs
+each through underwriters led by Alex. Brown and Sons Inc
+&lt;ABSB> and L.F. Rothschild, Unterberg, Towbin Inc &lt;R>.
+ Reuter
+&#3;</BODY></TEXT>

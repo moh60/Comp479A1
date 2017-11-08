@@ -1,0 +1,31 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="3523" NEWID="14540">
+<DATE> 7-APR-1987 15:51:00.16</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2297&#31;reute
+h f BC-TELETRAK-ADVANCED-TEC   04-07 0090</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TELETRAK ADVANCED TECHNOLOGY 4TH QTR LOSS</TITLE>
+<DATELINE>    NEW YORK, April 7 -
+    </DATELINE><BODY>Shr loss two cts vs loss two cts
+    Net loss 183,597 vs loss 136,990
+    Rev 36,600 vs 61,763
+    Avg shares 12,355,000 vs 9,205,000
+    Year
+    Shr loss five cts vs loss five cts
+    Net loss 571,336 vs loss 416,595
+    Rev 103,327 vs 61,763
+    Avg shares 12,355,000 vs 8,705,000
+    NOTE: Company's full name is &lt;Teletrak Advanced Technology
+Systems Inc and it is a unit of Helm Resources &lt;H>. 1985 net
+loss includes loss from discontinued operations of 278,156
+dlrs.
+ Reuter
+&#3;</BODY></TEXT>

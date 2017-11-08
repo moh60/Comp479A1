@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="3829" NEWID="14846">
+<DATE> 8-APR-1987 03:55:13.05</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0191&#31;reute
+u f BC-FINAL-TERMS-SET-ON-AT   04-08 0068</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FINAL TERMS SET ON ATARI CORP CONVERTIBLE EUROBOND</TITLE>
+<DATELINE>    LONDON, April 8 - </DATELINE><BODY>The coupon on the 75 mln dlr, 15-year,
+convertible eurobond for Atari Corp has been set at 5-1/4 pct
+compared with indicated range of five to 5-1/4 pct, lead
+manager Paine Webber International said.
+    The conversion price was set at 32-5/8 dlrs, representing a
+premium of 20.38 pct over yesterday's Atari share close of 27
+dlrs.
+ REUTER
+&#3;</BODY></TEXT>

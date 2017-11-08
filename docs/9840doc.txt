@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15361" NEWID="9840">
+<DATE>26-MAR-1987 09:13:56.84</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0909&#31;reute
+d f BC-K-MART-&lt;KM>-TO-SUPPLY   03-26 0090</UNKNOWN>
+<TEXT>&#2;
+<TITLE>K MART &lt;KM> TO SUPPLY HOME SHOPPING NETWORK</TITLE>
+<DATELINE>    TROY, MICH, March 26 - </DATELINE><BODY>K mart Corp said it signed an
+agreement to supply merchandise for Entertainment Marketing
+Inc's &lt;EM> home shopping subsidiary, Consumer Discount Network.
+    K mart, through its Ultra Buying Network, will begin
+supplying non-electronic goods to Consumer Discount Network as
+of April 1.
+    It said Entertainment Marketing and K mart agreed to share
+in the profits. In addition, K mart will receive warrants to
+buy two mln shares of Entertainment Marketing's common stock.
+ Reuter
+&#3;</BODY></TEXT>

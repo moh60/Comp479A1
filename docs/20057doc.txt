@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20652" NEWID="20057">
+<DATE>20-OCT-1987 06:18:31.24</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>south-korea</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM 
+&#22;&#22;&#1;f0462&#31;reute
+u f BC-SAMSUNG-BOND-GOES-CON   10-20 0118</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SAMSUNG BOND GOES CONVERTIBLE BUT NO SHARE DEMAND</TITLE>
+<DATELINE>    SEOUL, Oct 20 - </DATELINE><BODY>The first convertible bond issued by a
+South Korean firm overseas -- by Samsung Electronics Co Ltd
+&lt;SAMS.SE> -- became eligible for conversion but there was no
+demand for shares as the government still bans direct share
+ownership by foreigners, a Samsung official said.
+    "There was no demand from holders, so the lead managers made
+no approach to us to issue shares," the official said.
+    The five pct bond, co-lead managed by S.G. Warburg and
+Goldman Sachs Co, raised 20 mln dlrs when issued in 1985. The
+only other Korean convertible bonds were issued by Daewoo Heavy
+Industries Ltd &lt;DAEW.SE> and &lt;Yukong Ltd>, both in 1986.
+ REUTER
+&#3;</BODY></TEXT>

@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15636" NEWID="10115">
+<DATE>26-MAR-1987 15:08:35.23</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2312&#31;reute
+r f BC-ROCKEFELLER-CENTER-PR   03-26 0041</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ROCKEFELLER CENTER PROPERTIES &lt;RCP> UPS PAYOUT</TITLE>
+<DATELINE>    NEW YORK, March 26 - </DATELINE><BODY>Rockefeller Center Properties Inc said
+it raised its quarterly dividend to 45 cts from 44 cts a share.
+    The dividend is payable April 27 to shareholders of record
+April 7.
+ Reuter
+&#3;</BODY></TEXT>

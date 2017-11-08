@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14079" NEWID="8558">
+<DATE>23-MAR-1987 17:42:52.30</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E
+&#22;&#22;&#1;f2578&#31;reute
+d f BC-COOPER-SAYS-OFFER-MUS   03-23 0048</UNKNOWN>
+<TEXT>&#2;
+<TITLE>COOPER SAYS OFFER MUST INCLUDE CLASS A SHARES</TITLE>
+<DATELINE>    TORONTO, March 23 - </DATELINE><BODY>&lt;Cooper Canada Ltd> said it told those
+who have expressed interest in acquiring control of the company
+that it would entertain no offer unless it were made to holders
+both of class A non-voting shares and voting common.
+ Reuter
+&#3;</BODY></TEXT>

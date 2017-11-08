@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6793" NEWID="18955">
+<DATE>18-JUN-1987 15:19:17.12</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f4401&#31;reute
+a f BC-DATA-MED-CLINICAL-SUP   06-18 0083</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DATA MED CLINICAL SUPPORT&lt;DMCS.O> 1ST QTR LOSS</TITLE>
+<DATELINE>    MINNEAPOLIS, June 18 - </DATELINE><BODY>Period ended May 31
+    Shr loss five cts vs loss 11 cts
+    Net loss 306,007 vs loss 102,420
+    Sales 110,522 vs 10,105
+    NOTE: Full name is Data Med Clinical Support Services Inc
+    Per-share data adjusted for three-for-one stock split
+payable June 30, 1987
+    The only sales reflected in fiscal 1987 period are sales
+recorded subsequent to the May 22, 1986 acquisition of the
+assets of a predecessor company by Data Med
+ Reuter
+&#3;</BODY></TEXT>

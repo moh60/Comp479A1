@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9200" NEWID="4287">
+<DATE>12-MAR-1987 11:26:10.77</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A
+&#22;&#22;&#1;f0420&#31;reute
+r f BC-HOUSE-SUBCOMMITTEE-PO   03-12 0096</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HOUSE SUBCOMMITTEE POSTPONES FSLIC ACTION</TITLE>
+<DATELINE>    WASHINGTON, March 12 - </DATELINE><BODY>The financial institutions
+subcommittee of the House Banking Committee postponed
+indefinitely a session to draft legislation on the Federal
+Savings and Loan Insurance Corp, FSLIC.
+    The mark-up session was postponed after Democrats on the
+subcommittee failed in a caucus to agree on several issues,
+including the size of a financial rescue package for FSLIC, a
+committee staff member said.
+    On Tuesday, the Senate Banking Committee passed a bill to
+recapitalize FSLIC at 7.5 billion dlrs over two years.
+ Reuter
+&#3;</BODY></TEXT>

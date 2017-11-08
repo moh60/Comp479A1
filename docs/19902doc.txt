@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="8230" NEWID="19902">
+<DATE>29-JUN-1987 16:29:23.85</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F E 
+&#22;&#22;&#1;f2487&#31;reute
+r f BC-CAMPEAU-SAYS-IT-IS-NO   06-29 0084</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CAMPEAU SAYS IT IS NOT PART OF SEC PROCEEDING</TITLE>
+<DATELINE>    NEW YORK, June 29 - </DATELINE><BODY>&lt;Campeau Corp> said it is not involved
+in the Securities and Exchange Commission's administrative
+proceeding against Allied Stores Corp, which Campeau acquired
+at the end of last year.
+    In a statement, the company said, "The SEC action involves
+events that occurred prior to Campeau's acquisition of Allied
+relating to the alleged failure of Allied to make certain
+disclosures. Consequently, Campeau is not subject to the
+procedings."
+ Reuter
+&#3;</BODY></TEXT>

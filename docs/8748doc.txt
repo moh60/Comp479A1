@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14268" NEWID="8748">
+<DATE>24-MAR-1987 10:09:37.11</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1026&#31;reute
+d f BC-ARGYLL-SELLS-SUBSIDIA   03-24 0113</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ARGYLL SELLS SUBSIDIARY'S ASSETS FOR 14 MLN STG</TITLE>
+<DATELINE>    LONDON, March 24 - </DATELINE><BODY>Food and drink retailer Argyll Group Plc
+&lt;AYLL.L> said it has agreed to sell its U.K. Subsidiary &lt;George
+Morton Ltd> to &lt;Seagram United Kingdom Ltd> for about 14 mln
+stg in cash.
+    The consideration for Morton's fixed assets, stocks,
+debtors and goodwill is payable on completion of the sale. The
+disposal will bring Argyll an extraordinary credit of some 8.4
+mln stg.
+    Argyll added the agreements also depend on an indication
+from the U.K. Office of Fair Trading by June 23 that the sale
+will not be referred to the Monopolies Commission. Argyll
+shares were up 12p to 440, firming before the announcement.
+ REUTER
+&#3;</BODY></TEXT>

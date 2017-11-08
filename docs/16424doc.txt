@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="958" NEWID="16424">
+<DATE>13-APR-1987 12:14:07.22</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1657&#31;reute
+b f BC-******GTE-CORP-1ST-QT   04-13 0035</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GTE CORP &lt;GTE> 1ST QTR MAR 31</TITLE>
+<DATELINE>    STAMFORD, Conn, April 13 -
+    </DATELINE><BODY>Shr 78 cts vs 86 cts
+    Net 265.0 mln vs 283.0 mln
+    Revs 3.7 billion vs 3.6 billion
+    Avg shrs 329.0 mln vs 319.0 mln
+                    
+ Reuter
+&#3;</BODY></TEXT>

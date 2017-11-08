@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12348" NEWID="7435">
+<DATE>19-MAR-1987 16:35:15.66</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A RM
+&#22;&#22;&#1;f2463&#31;reute
+u f BC-FLEET&lt;FLT>,-NORSTAR&lt;N   03-19 0116</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FLEET&lt;FLT>, NORSTAR&lt;NOR> S/P RATINGS UNAFFECTED</TITLE>
+<DATELINE>    NEW YORK, March 19 - </DATELINE><BODY>Standard and Poor's Corp said the
+merger agreement between Fleet Financial Group and Norstar
+Bancorp Inc would not affect the firms' current ratings because
+the merger cannot take place until July 1988.
+    It said any rating change until then would depend on each
+individual bank holding company. S and P noted that the
+combined entity would have assets of more than 24 billion dlrs,
+making it one of the largest U.S. bankholding companies.
+    Fleet has A-plus senior debt, A subordinated debt and A-1
+commercial paper. Norstar carries AA senior debt, AA-minus
+subordinated debt, A-plus preferred stock and A-1-plus paper.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,20 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6009" NEWID="17671">
+<DATE> 1-JUN-1987 13:37:51.94</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1898&#31;reute
+d f BC-SOCIETY/SAVINGS-&lt;SOCS   06-01 0036</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SOCIETY/SAVINGS &lt;SOCS.O> FORMS HOLDING COMPANY</TITLE>
+<DATELINE>    HARTFORD, Conn., June 1 - </DATELINE><BODY>Society for Savings said it has
+completed a merger into newly formed holding company Society
+for Savings Bancorp Inc on a share-for-share basis.
+ Reuter
+&#3;</BODY></TEXT>

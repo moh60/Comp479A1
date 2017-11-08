@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12253" NEWID="7340">
+<DATE>19-MAR-1987 14:40:13.42</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2091&#31;reute
+d f BC-CONSOLIDATED-FREIGHTW   03-19 0054</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CONSOLIDATED FREIGHTWAYS &lt;CNF> FORMS NEW UNIT</TITLE>
+<DATELINE>    CHARLOTTE, N.C., March 19 - </DATELINE><BODY>Consolidated Frieghtways Corp
+said it has formed a new regional less-than-truckload carrier
+called Con-Way Southern Express.
+    The company said the new unit will start overnight service
+April One in the Carolinas, Georgia, Tennessee and Virginia.
+ Reuter
+&#3;</BODY></TEXT>

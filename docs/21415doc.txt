@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20021" NEWID="21415">
+<DATE>19-OCT-1987 10:14:54.00</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1178&#31;reute
+u f BC-WANG-LABORATORIES-INC   10-19 0046</UNKNOWN>
+<TEXT>&#2;
+<TITLE>WANG LABORATORIES INC &lt;WANB> 1ST QTR SEPT 30</TITLE>
+<DATELINE>    LOWELL, Mass., Oct 19 -
+    </DATELINE><BODY>Shr profit 14 cts vs loss 19 cts
+    Net profit 22.5 mln vs loss 30.0 mln
+    Revs 693.0 mln vs 597.9 mln
+    Avg shrs 166.0 mln vs 154.2 mln
+    NOTE: Prior year net includes five mln dlr tax credit.
+ Reuter
+&#3;</BODY></TEXT>

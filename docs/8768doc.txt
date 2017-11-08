@@ -1,0 +1,20 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14289" NEWID="8768">
+<DATE>24-MAR-1987 10:41:20.86</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1162&#31;reute
+u f BC-GEO.-A.-HORMEL-&lt;HRL>   03-24 0029</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GEO. A. HORMEL &lt;HRL> VOTES TWO-FOR-ONE SPLIT</TITLE>
+<DATELINE>    AUSTIN, MINN., March 24 - </DATELINE><BODY>Geo. A. Hormel and Co said its
+directors voted a two-for-one split, payable June one, record
+April 18.
+ Reuter
+&#3;</BODY></TEXT>

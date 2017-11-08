@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10359" NEWID="5446">
+<DATE>16-MAR-1987 11:51:02.39</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2601&#31;reute
+d f BC-ULTRASYSTEMS-&lt;ULS>-UN   03-16 0070</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ULTRASYSTEMS &lt;ULS> UNIT GETS DOD CONTRACTS</TITLE>
+<DATELINE>    IRVINE, Calif., March 16 - </DATELINE><BODY>Ultrasystems Inc said the U.S.
+Defense Department awarded the company's Ultrasystems Defense
+and Space Inc unit several new contracts and extensions to
+existing contracts having a total value of more than 15.1 mln
+dlrs.
+    The new awards involve software development and hardware
+integration for secure office automation systems, Ultrasystems
+said.
+ Reuter
+&#3;</BODY></TEXT>

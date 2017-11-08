@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6253" NEWID="18501">
+<DATE>18-JUN-1987 04:36:10.83</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>japan</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM AI 
+&#22;&#22;&#1;f2308&#31;reute
+u f BC-BANK-OF-JAPAN-TO-SELL   06-18 0113</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BANK OF JAPAN TO SELL 200 BILLION YEN IN BILLS</TITLE>
+<DATELINE>    TOKYO, June 18 - </DATELINE><BODY>The Bank of Japan will sell tomorrow 200
+billion yen in financing bills through 35-day repurchase
+agreements maturing July 24 to help mop up a projected money
+market surplus, money traders said.
+    The yield on the bills for sale to banks and securities
+houses from money houses will be 3.6005 against today's
+one-month commercial bill discount rate of 3.5625 pct and
+one-month certificate of deposit rate of 3.98/86 pct. Traders
+estimate a 300 billion yen surplus due to tax allocations to
+local governments and public entities. The operation will put
+outstanding bill supplies at about 2,000 billion yen.
+ REUTER
+&#3;</BODY></TEXT>

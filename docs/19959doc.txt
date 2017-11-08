@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="8287" NEWID="19959">
+<DATE>29-JUN-1987 18:13:22.98</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F 
+&#22;&#22;&#1;f2747&#31;reute
+u f BC-CDC-LIFE-SCIENCES-&lt;LS   06-29 0106</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CDC LIFE SCIENCES &lt;LSI.TO> STAKE SOLD</TITLE>
+<DATELINE>    TORONTO, June 29 - </DATELINE><BODY>Canada Development Corp &lt;CDC.TO> said it
+agreed to sell its 25.2 pct interest in CDC Life Sciences Inc
+to Caisse de depot et placement du Quebec, the provincial
+pension fund manager, and Institut Merieux, a French biological
+laboratory company, for 169.2 mln dlrs.
+    It said the caisse and Institut Merieux will each buy 2.75
+mln common shares of the company for 30.76 dlrs a share.
+    It said following the transaction the caisse will hold
+about 19.3 pct of CDC Life Sciences. Canada Development said
+the purchasers do not plan to acquire the remaining
+publicly-held shares.
+ Reuter
+&#3;</BODY></TEXT>

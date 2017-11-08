@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17868" NEWID="1450">
+<DATE> 4-MAR-1987 09:56:16.11</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0255&#31;reute
+r f BC-CYPRESS-SEMICONDUCTOR   03-04 0071</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CYPRESS SEMICONDUCTOR &lt;CYPR> SHARES OFFERED</TITLE>
+<DATELINE>    NEW YORK, March 4 - </DATELINE><BODY>Lead underwriters Morgan Stanley Group
+Inc &lt;MS> and Robertson, Colman and Stephens said an offering of
+4,400,000 shares of Cypress Semiconductor Corp is underway at
+11.75 dlrs per share.
+    Underwriters have been granted an option to buy up to
+660,000 more shares to cover overallotments.
+    The company is selling 3,080,000 shares and shareholders
+the rest.
+ Reuter
+&#3;</BODY></TEXT>

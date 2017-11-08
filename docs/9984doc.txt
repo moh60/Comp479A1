@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15505" NEWID="9984">
+<DATE>26-MAR-1987 11:51:43.01</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1597&#31;reute
+u f BC-KODAK-&lt;EK>-BUYS-STAKE   03-26 0105</UNKNOWN>
+<TEXT>&#2;
+<TITLE>KODAK &lt;EK> BUYS STAKE IN BIOTECHNOLOGY COMPANY</TITLE>
+<DATELINE>    ROCHESTER, N.Y., March 26 - </DATELINE><BODY>Eastman Kodak Co said it has
+reached an agreement to acquire new stock representing a 16 pct
+interest in industrial biotechnology company &lt;Genencor Inc> for
+undisclosed terms.
+    Other Genencor shareholders include Staley Continental Inc
+&lt;STA>, Corning Glass Works &lt;GLW> and Genentech Inc &lt;GENE>.
+    The company said it has been granted options to increase
+its equity stake during 1987.  It said it has agreed to make a
+multiyear, multimillion dollar commitment to Genecor research
+products related to food additivies and pharmaceutical
+intermediates.
+ Reuter
+&#3;</BODY></TEXT>

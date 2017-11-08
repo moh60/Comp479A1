@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7134" NEWID="19298">
+<DATE>19-JUN-1987 13:32:17.76</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F Y 
+&#22;&#22;&#1;f1823&#31;reute
+r f BC-WEATHERFORD-INTERNATI   06-19 0068</UNKNOWN>
+<TEXT>&#2;
+<TITLE>WEATHERFORD INTERNATIONAL &lt;WII> EXECUTIVE LEAVES</TITLE>
+<DATELINE>    HOUSTON, June 19 - </DATELINE><BODY>Weatherford International Inc said
+executive vice president and chief operating officer Kurt K.
+Bushati will leave September One to accept a senior operating
+position with the Austrian national oil company.
+    The company said president and chief executive officer
+Eugene L. Butler will assume the added duties of chief
+operating officer.
+ Reuter
+&#3;</BODY></TEXT>

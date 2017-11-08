@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="8170" NEWID="19842">
+<DATE>29-JUN-1987 14:58:28.00</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2220&#31;reute
+h f BC-ARCTURUS-INC-&lt;ARTU>-L   06-29 0077</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ARCTURUS INC &lt;ARTU> LAUNCHES NEW MEGABEAM</TITLE>
+<DATELINE>     ACTON, Mass., June 29 - </DATELINE><BODY>Arcturus Inc said it introduced it
+MegaBeam product, a three-tube high resolution data display
+projector.
+    The company said the large screen projector is more than
+twice as bright as competing models.
+    It said the projector would be used to show the image of a
+14-inch computer terminal to large groupd on a six-foot wall
+screen.
+    It said the MegaBeam is priced at 11,995 dlrs per unit.
+ Reuter
+&#3;</BODY></TEXT>

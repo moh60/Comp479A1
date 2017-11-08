@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11146" NEWID="6233">
+<DATE>17-MAR-1987 15:28:51.91</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f6379&#31;reute
+h f BC-SPARTECH-CORP-&lt;SPTN>   03-17 0034</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SPARTECH CORP &lt;SPTN> 1ST QTR JAN 31 NET</TITLE>
+<DATELINE>    ST LOUIS, March 17 -
+    </DATELINE><BODY>Shr two cts vs three cts
+    Net 369,000 vs 347,000
+    Revs 21.3 mln vs 14 mln
+    NOTE: Per shr reflects payment of preferred dividends.
+ Reuter
+&#3;</BODY></TEXT>

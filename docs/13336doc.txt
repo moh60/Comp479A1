@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="2319" NEWID="13336">
+<DATE> 7-APR-1987 02:36:20.26</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0066&#31;reute
+f f BC-Nixdorf-world-group-1   04-07 0014</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE>Nixdorf world group 1986 net profit 222.42 mln marks vs 172.29 mln, div 10 marks
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

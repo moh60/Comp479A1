@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11641" NEWID="6728">
+<DATE>18-MAR-1987 14:30:47.85</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f9084&#31;reute
+h f BC-PENGUIN-GROUP-&lt;PGC>-R   03-18 0063</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PENGUIN GROUP &lt;PGC> REPORTS ORDERS</TITLE>
+<DATELINE>    BOSTON, March 18 - </DATELINE><BODY>Penguin Group Inc said it told a group
+of analysts that it has started to book orders for its
+L'Ectronique line of costume jewelery and The Simplifier, a
+device which employs artificial intelligence to make computers
+easy to use.
+    Penguin officials were not available to comment on the
+potential market of these products.
+ Reuter
+&#3;</BODY></TEXT>

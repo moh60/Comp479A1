@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="794" NEWID="16259">
+<DATE>13-APR-1987 09:46:37.92</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0938&#31;reute
+r f BC-GREENWICH-PHARMACEUTI   04-13 0075</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GREENWICH PHARMACEUTICALS COMPLETES PLACEMENT</TITLE>
+<DATELINE>    GREENWICH, Conn., April 13 - </DATELINE><BODY>Greenwhich Pharmaceuticals Inc
+&lt;GRPI.O> said it has completed a private placement of its
+common stock, generating more than eight mln dlrs in net
+proceeds.
+    These funds, together with the two mln dlrs in cash
+currently held by the company, will be used to complete its
+Therafectin rheumatoid arthritis drug development program and
+to develop other drugs, the company said.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12127" NEWID="7215">
+<DATE>19-MAR-1987 11:54:00.19</DATE>
+<TOPICS><D>grain</D><D>wheat</D><D>corn</D></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS><D>ec</D></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G
+&#22;&#22;&#1;f1436&#31;reute
+b f BC-TRADERS-DETAIL-EC-EXP   03-19 0061</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TRADERS DETAIL EC GRAIN EXPORT LICENCES</TITLE>
+<DATELINE>    LONDON, March 19 - </DATELINE><BODY>The EC Commission granted 25,000 tonnes
+of free market barley export licences at today's tender and
+80,000 tonnes of French maize, grain traders said.
+    The maximum export rebate for barley was set at 137.25 Ecus
+and for maize at 129.75 Ecus per tonne.
+    All bids for wheat were rejected, they said.
+ Reuter
+&#3;</BODY></TEXT>

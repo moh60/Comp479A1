@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18017" NEWID="1599">
+<DATE> 4-MAR-1987 12:32:50.32</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0985&#31;reute
+b f BC-CHRYSLER-&lt;C>-LATE-FEB   03-04 0068</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CHRYSLER &lt;C> LATE-FEBRUARY SALES RISE 11 PCT</TITLE>
+<DATELINE>    DETROIT, March 4 - </DATELINE><BODY>Chrysler Corp said sales of its
+U.S.-built cars rose 11 pct in the February 20-28 period to
+30,634 units compared to 27,526 in the period a year ago.
+    There were seven selling days in both periods.
+    For the month of February sales fell two pct to 78,508 cars
+from 80,322 a year ago.
+    Year-to-date sales were not immediately available.
+ Reuter
+&#3;</BODY></TEXT>

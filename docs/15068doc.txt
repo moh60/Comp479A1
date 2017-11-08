@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4051" NEWID="15068">
+<DATE> 8-APR-1987 11:22:35.93</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1402&#31;reute
+d f BC-NANTUCKET-&lt;NAN>-NAMES   04-08 0055</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NANTUCKET &lt;NAN> NAMES NEW HEAD FOR UNIT</TITLE>
+<DATELINE>    NEW YORK, April 8 - </DATELINE><BODY>Nantucket Industries Inc said James
+Adams has been named president of its hosiery division,
+replacing John Wineapple, and Terry Hampton has been named vice
+president of manufacturing for the division, replacing Howard
+Fromkin.
+    No reason was given for the changes.
+ Reuter
+&#3;</BODY></TEXT>

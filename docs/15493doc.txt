@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5391" NEWID="15493">
+<DATE> 9-APR-1987 09:11:22.89</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0770&#31;reute
+r f BC-PSE-TO-START-OPTION-T   04-09 0036</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PSE TO START OPTION TRADE ON BAKER HUGHES &lt;BHI></TITLE>
+<DATELINE>    SAN FRANCISCO, April 9 - </DATELINE><BODY>The Pacific Stock Exchange said it
+will start options trading on Baker Hughes Inc today.
+    Expirations will be January, May, July and October.
+ Reuter
+&#3;</BODY></TEXT>

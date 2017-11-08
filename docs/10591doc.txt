@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16112" NEWID="10591">
+<DATE>27-MAR-1987 13:47:43.08&#5;&#5;&#5;G</DATE>
+<UNKNOWN>&#22;&#22;&#1;f1908&#31;reute</UNKNOWN>
+<TOPICS></TOPICS>
+<PLACES><D>cuba</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+d f BC-E.-GERMAN-EQUIPPED-TE   03-27 0093</UNKNOWN>
+<TEXT>&#2;
+<TITLE> E. GERMAN EQUIPPED TEXTILE MILL OPENED IN CUBA</TITLE>
+<DATELINE>    HAVANA, March 27 - </DATELINE><BODY>A textile mill with an annual production
+capacity of 52 mln square metres of knitted fabric has been
+opened officially near Havana, Granma, the official Cuban
+newspaper, said.
+    The mill, inaugurated yesterday, is equipped with looms and
+other machinery from East Germany. A single production line, in
+operation since last year, has already produced over seven mln
+square metres of fabric.
+    President Fidel Castro and vice-president Carlos Rafael
+Rodriguez were present at the ceremony.
+ Reuter
+&#3;</BODY></TEXT>

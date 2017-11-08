@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="8247" NEWID="19919">
+<DATE>29-JUN-1987 16:46:50.62</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2543&#31;reute
+u f BC-&lt;REVCO>-SEES-4TH-QTR   06-29 0092</UNKNOWN>
+<TEXT>&#2;
+<TITLE>&lt;REVCO> SEES 4TH QTR LOSS</TITLE>
+<DATELINE>    TWINSBURG, Ohio, June 29 - </DATELINE><BODY>Revco D.S. Inc said it expects a
+loss of 14 mln dlrs for the fourth quarter ended May 30. The
+company said it expects sales of 703 mln dlrs with operating
+profit at 52 mln dlrs.
+    The company said that it expects sales in the full fiscal
+year, ending May 30, of around 2.7 billion dlrs with operating
+profit of around 159 mln dlrs and earnings of about nine mln
+dlrs.
+    The company said figures for last year are not comparable
+as Revco was acquired in a leveraged buyout at the end of
+December.
+ Reuter
+&#3;</BODY></TEXT>

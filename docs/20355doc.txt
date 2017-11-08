@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20950" NEWID="20355">
+<DATE>20-OCT-1987 11:40:13.55</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>nyse</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM V 
+&#22;&#22;&#1;f1689&#31;reute
+b f BC-/H.B.-SHAINE-CEASES-B   10-20 0072</UNKNOWN>
+<TEXT>&#2;
+<TITLE>H.B. SHAINE CEASES BROKER-DEALER OPERATIONS</TITLE>
+<DATELINE>    NEW YORK, Oct 20 - </DATELINE><BODY>&lt;H.B. Shaine and Co Inc> of Grand
+Rapids, Mich., ceas its broker-dealer operations, at the
+close of Oct 19, the New York Stock Exchange said.
+    The firm reported that, under such financial difficulty, it
+could not continue to do business as a member firm of the NYSE,
+according to the NYSE.
+    Officials of the company could not be reached for further
+comment.
+   
+ Reuter
+&#3;</BODY></TEXT>

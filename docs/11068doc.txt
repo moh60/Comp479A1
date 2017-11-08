@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17129" NEWID="11068">
+<DATE>30-MAR-1987 16:16:09.66</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2503&#31;reute
+r f BC-MORRISON-&lt;MORR>-SETS   03-30 0055</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MORRISON &lt;MORR> SETS SHAREHOLDER RIGHTS PLAN</TITLE>
+<DATELINE>    MOBILE, Ala., March 30 - </DATELINE><BODY>Morrison Inc said its board
+adopted a shareholder rights plan to deter any possible hostile
+takeover of the company.
+    It said details of the plan will be released shortly. A
+record date of April 10 was set for the distribution of the
+rights to shareholders.
+ Reuter
+&#3;</BODY></TEXT>

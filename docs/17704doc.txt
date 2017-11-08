@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6042" NEWID="17704">
+<DATE> 1-JUN-1987 14:22:28.05</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F
+&#22;&#22;&#1;f2046&#31;reute
+r f BC-BELL-CANADA-&lt;BCE>-EXT   06-01 0080</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BELL CANADA &lt;BCE> EXTENDS STOCK BUYBACK</TITLE>
+<DATELINE>    MONTREAL, June 1 - </DATELINE><BODY>Bell Canada Enterprises Inc said it
+extended to June 30 from June 4 a short-term voluntary sale
+program for shareholders owning 10 or fewer Bell Canada common
+shares.
+    The plan allows such shareholders of record at April 21 to
+sell their shares at market price without incurring brokerage
+commissions or other charges.
+    Bell Canada was quoted at 42 dlrs, up 1/4, in afternoon
+trading on the Toronto Stock Exchange.
+ Reuter
+&#3;</BODY></TEXT>

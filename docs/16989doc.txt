@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="NOT-USED" CGISPLIT="PUBLISHED-TESTSET" OLDID="21639" NEWID="16989">
+<DATE>21-APR-1987 10:22:31.83</DATE>
+<TOPICS><D>interest</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C
+&#22;&#22;&#1;f1083&#31;reute
+u f BC-FED-OPPOSES-CREDIT-CA   04-21 0093</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FED OPPOSES CREDIT CARD INTEREST RATE CEILINGS</TITLE>
+<DATELINE>    WASHINGTON, April 21 - </DATELINE><BODY>The Federal Reserve Board opposed
+pending legislation to establish ceilings on interest charged
+by credit card companies.
+    "The Board does not believe it would be appropriate to
+impose a federal ceiling on credit card rates," Fed governor
+Martha Seger told a Senate Banking Subcommittee.
+    "Among other things a Federal ceiling could have undesirable
+side effects in the form of reduced credit availability and
+could lead to changes in non-rate credit card terms," she
+testified.
+ Reuter
+&#3;</BODY></TEXT>

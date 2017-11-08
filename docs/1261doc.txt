@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16581" NEWID="1261">
+<DATE> 3-MAR-1987 15:21:53.21</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A RM Y
+&#22;&#22;&#1;f0695&#31;reute
+b f BC-MOBIL   03-03 0066</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MOBIL &lt;MOB> FILES FOR ONE BILLION DLR DEBT OFFER</TITLE>
+<DATELINE>    WASHINGTON, March 3 - </DATELINE><BODY>Mobil Corp filed with the Securities
+and Exchange Commission for a shelf offering of up to one
+billion dlrs of debt securities on terms to be determined at
+the time of the sale.
+    Proceeds from the sale will be used for general corporate
+purposes, the company said.
+    Mobil did not name any underwriters for the offering.
+ Reuter
+&#3;</BODY></TEXT>

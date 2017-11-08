@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="21021" NEWID="20426">
+<DATE>20-OCT-1987 13:10:49.02</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2267&#31;reute
+r f BC-STERLING-SOFTWARE-&lt;SS   10-20 0050</UNKNOWN>
+<TEXT>&#2;
+<TITLE>STERLING SOFTWARE &lt;SSW> BUYS BACK SHARES</TITLE>
+<DATELINE>    DALLAS, Oct 20 - </DATELINE><BODY>Sterling Software Inc said it has bought
+back 394,100 shares of its stock in the open market since
+October 8.
+    "In a market full of sellers we're a confident buyer and
+we'll continue purchasing shares," president Sterling Williams
+said.
+ Reuter
+&#3;</BODY></TEXT>

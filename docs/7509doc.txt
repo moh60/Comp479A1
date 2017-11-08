@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12422" NEWID="7509">
+<DATE>19-MAR-1987 18:43:39.59</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E Y
+&#22;&#22;&#1;f2741&#31;reute
+r f BC-TRANS-CANADA-RESOURCE   03-19 0072</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TRANS-CANADA RESOURCES GETS CREDITOR EXTENSION</TITLE>
+<DATELINE>    CALGARY, Alberta, March 19 - </DATELINE><BODY>&lt;Trans-Canada Resources Ltd>
+said an Alberta court on March 6 granted it an extension to
+April 6 from March 9 on Trans-Canada's filing of a plan of
+arrangement with the court and extended to May 22 a stay of
+legal proceedings against the company.
+    The court also ruled that shareholders' and creditors's
+meetings must occur by May 4, Trans-Canada said.
+ Reuter
+&#3;</BODY></TEXT>

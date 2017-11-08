@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12248" NEWID="7335">
+<DATE>19-MAR-1987 14:36:52.80</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2074&#31;reute
+r f BC-STRONG-POINT-INC-HAS   03-19 0121</UNKNOWN>
+<TEXT>&#2;
+<TITLE>STRONG POINT INC HAS IMMUNE SYSTEM FORMULA</TITLE>
+<DATELINE>    IRVINE, Calif., March 19 - </DATELINE><BODY>&lt;Strong Point Inc> said its
+Pharmaceutical Technologies Inc unit has developed a formula
+for stimulating immune system function and reparing immune
+system damage, thereby protecting vulnerable body structures
+against Acquired Immune Deficiency Syndrome (AIDS).
+    The company said while the product, called IMMUNOL-IM, is
+not a cure, treatment or prevention, it repairs, rebuilds and
+stimulates the immune system, enabling the body to protect
+itself and repair damage.
+    Strong Point said it plans to begin studies in Europe
+within 45 days and to make IMMUNOL-IM available in the U.S. as
+soon as possible, pending appropriate government clearances.
+ Reuter
+&#3;</BODY></TEXT>

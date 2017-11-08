@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16392" NEWID="1072">
+<DATE> 3-MAR-1987 10:53:04.16</DATE>
+<TOPICS><D>gold</D></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F
+&#22;&#22;&#1;f0636&#31;reute
+r f BC-LAC-&lt;LAC>-INTERSECTS   03-03 0106</UNKNOWN>
+<TEXT>&#2;
+<TITLE>LAC &lt;LAC> INTERSECTS MORE GOLD AT DOYON MINE</TITLE>
+<DATELINE>    TORONTO, March 3 - </DATELINE><BODY>Lac Minerals Ltd and &lt;Cambior Inc> said
+they completed a second hole at their jointly owned Doyon mine
+in Quebec, which showed two significant gold intersections.
+    One intersection graded 0.33 ounce gold a short ton over 44
+feet at depth of 1,411 feet, while the other graded 0.22 ounce
+gold a ton over 23 feet at 2,064 feet, the companies said. The
+hole is 460 feet east of the previously reported first hole.
+    They said they were now drilling another hole 460 feet to
+the west of the first drill hole and expected to report results
+in late March or early April.
+ Reuter
+&#3;</BODY></TEXT>

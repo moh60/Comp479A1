@@ -1,0 +1,31 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13451" NEWID="7930">
+<DATE>20-MAR-1987 15:18:29.82</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2212&#31;reute
+u f BC-DELTA-SAYS-COURT-ORDE   03-20 0072</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DELTA SAYS COURT ORDER WILL NOT DELAY MERGER</TITLE>
+<DATELINE>    ATLANTA, March 20 - </DATELINE><BODY>Delta Air Lines &lt;DAL> said a court
+order requiring Western Air Lines &lt;WAL> to arbitrate with two
+of its unions will not delay the April 1 merger between the two
+airlines.
+    The order, which was issued by the Ninth Circuit Court of
+Appeals, requires Western to discuss with its two unions
+whether Western's labor contracts will be binding for Delta,
+Delta said.
+    "Nevertheless, the court order could cause significant
+personnel problems, including the possible delay of wage
+increases Delta had planned to give the Western personnel on
+April 1," Ronald Allen, Delta's president, said.
+    Delta said it feels the court has erred and should
+reconsider the order.
+ Reuter
+&#3;</BODY></TEXT>

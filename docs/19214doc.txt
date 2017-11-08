@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7050" NEWID="19214">
+<DATE>19-JUN-1987 11:19:33.75</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1223&#31;reute
+r f BC-MEDFORD-SAVINGS-APPRO   06-19 0075</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MEDFORD SAVINGS APPROVED TO FORM HOLDING CO</TITLE>
+<DATELINE>    MEDFORD, Mass., June 19 - </DATELINE><BODY>&lt;Medford Savings Bank> said it
+received Federal Reserve Board approval to form a bank holding
+company.
+    It said the holding company, to be known as Regional
+Bancorp Inc, will acquire all outstanding common shares of
+Medford Savings with one share of Medford Savings being
+converted into one share of Regional.
+    Medford Savings said its total assets are about 408 mln
+dlrs.
+ Reuter
+&#3;</BODY></TEXT>

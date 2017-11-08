@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9887" NEWID="4975">
+<DATE>13-MAR-1987 14:31:20.93</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F A
+&#22;&#22;&#1;f0107&#31;reute
+r f BC-J.P.-MORGAN-&lt;JPM>-OFF   03-13 0051</UNKNOWN>
+<TEXT>&#2;
+<TITLE>J.P. MORGAN &lt;JPM> OFFICIAL DIES</TITLE>
+<DATELINE>    NEW YORK, March 13 - </DATELINE><BODY>J.P. Morgan and Co said Peter F.
+Culver, 42, senior vice president of its Morgan Guaranty Trust
+Co subsidiary and general manager of the Euro-Clear Operations
+Centre in Brussels, has died of an apparent heart attack at a
+business meeting in Frankfurt.
+ Reuter
+&#3;</BODY></TEXT>

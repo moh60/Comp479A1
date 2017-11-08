@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12984" NEWID="801">
+<DATE> 2-MAR-1987 16:57:45.49</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE><D>reagan</D><D>howard-baker</D></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;V RM
+&#22;&#22;&#1;f0128&#31;reute
+b f BC-REAGAN-TO-ADDRESS-NAT   03-02 0102</UNKNOWN>
+<TEXT>&#2;
+<TITLE>REAGAN TO ADDRESS NATION WEDNESDAY NIGHT</TITLE>
+<DATELINE>    WASHINGTON, March 2 - </DATELINE><BODY>White House Chief of Staff Howard
+Baker said President Reagan will address the nation in a
+nationally televised speech Wednesday night at 2100 EST on the
+Tower Commission Report on the arms to Iran scandal.
+    Baker, in his first news conference as chief of staff, also
+said that Robert Gates asked that his name be withdrawn from
+nomination as director of the Central Intelligence Agency.
+    Gates said in a letter to the president that it became
+apparent it would be a long and difficult process to win Senate
+confirmation of the nomination.
+ Reuter
+&#3;</BODY></TEXT>

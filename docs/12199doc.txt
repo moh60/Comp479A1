@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="427" NEWID="12199">
+<DATE> 1-APR-1987 14:23:48.07</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;E A RM
+&#22;&#22;&#1;f2058&#31;reute
+u f BC-QUEBEC-91-DAY-T-BILL   04-01 0077</UNKNOWN>
+<TEXT>&#2;
+<TITLE>QUEBEC 91-DAY T-BILL YIELD RISES</TITLE>
+<DATELINE>      QUEBEC, April 1 - </DATELINE><BODY>This week's Quebec government auction
+of 85 mln dlrs worth of 91-day treasury bills yielded an
+average 7.03 pct, up from 6.85 pct last week, a finance
+department spokesman said.
+    The average price was 98.277.
+    This month's government auction of 50 mln dlrs worth of
+six-month treasury bills yielded an average 7.32 pct, down from
+7.56 pct last month, the spokesman said. The average price was
+97.480.
+ Reuter
+&#3;</BODY></TEXT>

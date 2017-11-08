@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4804" NEWID="15627">
+<DATE> 9-APR-1987 11:14:00.47</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>canada</D><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;E F
+&#22;&#22;&#1;f1288&#31;reute
+r f BC-gandalf   04-09 0077</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GANDALF &lt;GANDF> IN PACT WITH APPAREL COMPUTER</TITLE>
+<DATELINE>    OTTAWA, April 9 - </DATELINE><BODY>Gandalf Technologies Inc said its
+Redifacts division and Apparel Computer Systems Inc of Concord,
+Calif., started a joint marketing effort in industrial data
+collection and dissemination.
+    Financial terms of the agreement were not disclosed.
+    Gandalf said the companies will link software products to
+develop an on-line, real-time payroll information system for
+apparel production factories.
+ Reuter
+&#3;</BODY></TEXT>

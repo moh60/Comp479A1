@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="2163" NEWID="13193">
+<DATE> 3-APR-1987 17:36:20.05</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2467&#31;reute
+u f BC-BAKER-&lt;BKO>,-HUGHES-T   04-03 0099</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BAKER &lt;BKO>, HUGHES TOOL &lt;HT> SIGN U.S. DECREE</TITLE>
+<DATELINE>    HOUSTON, Texas, April 3 - </DATELINE><BODY>Baker International Corp and
+Hughes Tool Co said they signed a consent decree with the U.S.
+department of justice, resolving the department's objections to
+their merger.
+    The companies also said the signing cleared the way for
+their merger completed today. In the decree, Baker agreed to
+sell certain rock bit and electric submersible pump assets to
+resolve the Department's complaints.
+    The new company will be called Baker Hughes Inc. On monday,
+April 6, it will begin trading under the symbol &lt;BHI>, they
+said.
+ Reuter
+&#3;</BODY></TEXT>

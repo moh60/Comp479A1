@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="231" NEWID="12003">
+<DATE> 1-APR-1987 11:05:07.78</DATE>
+<TOPICS><D>sugar</D></TOPICS>
+<PLACES><D>uk</D><D>india</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;C T
+&#22;&#22;&#1;f1295&#31;reute
+b f BC-KAINES-CONFIRMS-WHITE   04-01 0062</UNKNOWN>
+<TEXT>&#2;
+<TITLE>KAINES CONFIRMS WHITE SUGAR SALES TO INDIA</TITLE>
+<DATELINE>    LONDON, April 1 - </DATELINE><BODY>London-based sugar operator Kaines Ltd
+confirmed it sold two cargoes of white sugar to India out of an
+estimated overall sales total of four or five cargoes in which
+other brokers participated.
+    The sugar, for April/May and April/June shipment, was sold
+at between 214 and 218 dlrs a tonne cif, it said.
+ Reuter
+&#3;</BODY></TEXT>

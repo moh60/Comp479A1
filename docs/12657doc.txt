@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="NOT-USED" CGISPLIT="PUBLISHED-TESTSET" OLDID="21514" NEWID="12657">
+<DATE> 2-APR-1987 13:21:14.31</DATE>
+<TOPICS><D>interest</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F A
+&#22;&#22;&#1;f1917&#31;reute
+r f BC-FIRST-INTERSTATE-&lt;I>   04-02 0039</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FIRST INTERSTATE &lt;I> RAISES PRIME RATE</TITLE>
+<DATELINE>    LOS ANGELES, April 2 - </DATELINE><BODY>The First Interstate Bank of
+California subsidiary of First Interstate Bancorp said it is
+raising its prime lending rate to 7-3/4 pct from 7-1/2 pct,
+effective immediately.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4731" NEWID="15553">
+<DATE> 9-APR-1987 10:17:10.28</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1017&#31;reute
+u f BC-SHOWBOAT-&lt;SBO>-DECLAR   04-09 0028</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SHOWBOAT &lt;SBO> DECLARES STOCK SPLIT</TITLE>
+<DATELINE>    LAS VEGAS, April 9 - </DATELINE><BODY>Showboat Inc said its board declared a
+two-for-one stock split, payable to shareholders of record on
+May 15.
+ Reuter
+&#3;</BODY></TEXT>

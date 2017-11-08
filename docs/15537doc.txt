@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4716" NEWID="15537">
+<DATE> 9-APR-1987 09:49:36.32</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0925&#31;reute
+r f BC-BIOTHERAPEUTICS-&lt;BITX   04-09 0078</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BIOTHERAPEUTICS &lt;BITX> REPORTS DRUG FINDINGS</TITLE>
+<DATELINE>    FRANKLIN, Tenn., April 9 - </DATELINE><BODY>Biotherapeutics Inc said its
+cooperative findings on interleukin-2, the anti-cancer drug,
+were published today in the "New England Journal of Medicine".
+    Biotherapeutics, along with the Biological Therapy
+Institute and the National Cancer Institute, said the
+publication focused on a reduction in toxicity through the use
+of a constant infusion mode of intravenous administration
+protocol.
+ Reuter
+&#3;</BODY></TEXT>

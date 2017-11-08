@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14955" NEWID="9434">
+<DATE>25-MAR-1987 12:51:07.95</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1732&#31;reute
+d f BC-PANTERA'S-&lt;PANT>-TO-B   03-25 0084</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PANTERA'S &lt;PANT> TO BUY TEN PIZZA RESTAURANTS</TITLE>
+<DATELINE>    ST. LOUIS, MO., March 25 - </DATELINE><BODY>Pantera's Corp said it agreed to
+buy ten pizza restaurants in southeastern Colorado from
+creditors foreclosing on the facilities.
+    The purchase price includes 1.25 mln dlrs in cash and
+company stock, it said.
+    Separately, Pantera's said it issued an area development
+agreement with a franchisee group for northeastern Colorado,
+including the Denver area, for the opening of about 20
+franchised Pantera's pizza restaurants.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10216" NEWID="5303">
+<DATE>16-MAR-1987 08:57:33.69</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1887&#31;reute
+r f BC-&lt;WHIPPANY-PAPER-BOARD   03-16 0042</UNKNOWN>
+<TEXT>&#2;
+<TITLE>&lt;WHIPPANY PAPER BOARD CO INC> MERGER APPROVED</TITLE>
+<DATELINE>    NEW YORK, March 16 - </DATELINE><BODY>Whippany Paper Board Co Inc said
+shareholders at a special meeting approved a merger into NPN
+Inc for 2.50 dlrs per share.
+    NPN acquired control of Whippany in a recent tender offer.
+ Reuter
+&#3;</BODY></TEXT>

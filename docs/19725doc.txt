@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="8053" NEWID="19725">
+<DATE>29-JUN-1987 12:24:27.60</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1682&#31;reute
+r f BC-&lt;CORRECTED>---GENERAL   06-29 0035</UNKNOWN>
+<TEXT>&#2;
+<TITLE>&lt;CORRECTED> - GENERAL INSTRUMENT CORP &lt;GRL> DIVI</TITLE>
+<DATELINE>    NEW YORK, June 29 -
+    </DATELINE><BODY>Qtly div 6.25 cts vs 6.25 cts prior
+    Pay Oct 2
+    Record Sept 1
+    (Corrects amount of qtly div in item that ran on Friday Jan
+26)
+ Reuter
+&#3;</BODY></TEXT>

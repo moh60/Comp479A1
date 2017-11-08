@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18849" NEWID="2431">
+<DATE> 5-MAR-1987 16:08:28.48</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0735&#31;reute
+d f BC-CABOT-MEDICAL-&lt;CBOT>   03-05 0079</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CABOT MEDICAL &lt;CBOT> HAS LASER SURGERY ACCESSORY</TITLE>
+<DATELINE>    LANGHRNE, Pa., March 5 - </DATELINE><BODY>Cabot Medical Corp said it has
+introduced a new high flow insufflator for laparoscopy, a
+minimally invasive form of adominal surgey.
+    The company said the KLI high-Flow Insufflator has features
+and capabilities which were previously available only in
+insuffulators costing three to four times as much. Labaroscopy
+procedures, especially involving lasers, have grown in
+popularity, it pointed out.
+ Reuter
+&#3;</BODY></TEXT>

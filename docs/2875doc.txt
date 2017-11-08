@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19293" NEWID="2875">
+<DATE> 6-MAR-1987 16:30:08.43</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0563&#31;reute
+d f BC-AIRGAS-&lt;AGA>-CHAIRMAN   03-06 0073</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AIRGAS &lt;AGA> CHAIRMAN STEPS DOWN</TITLE>
+<DATELINE>    WILMINGTON, Del., March 6 - </DATELINE><BODY>Airgas Inc said chairman and
+chief executive officer C Perkins resigned but agreed to serve
+as a consultant on acquisitions and foreign sales.
+    The company said Perkins, under a five year consulting
+contract, will work closely with his designated successor,
+president Peter McCausland. McCausland is expected to be
+appointed chairman at a board meeting in May, it added.
+ Reuter
+&#3;</BODY></TEXT>

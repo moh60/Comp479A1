@@ -1,0 +1,30 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10626" NEWID="5713">
+<DATE>16-MAR-1987 16:55:40.80</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f3680&#31;reute
+u f BC-AMERITRUST-&lt;AMTR>-SEL   03-16 0092</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AMERITRUST &lt;AMTR> SELLS TWO MLN SHARES</TITLE>
+<DATELINE>    CLEVELAND, March 16 - </DATELINE><BODY>Ameritrust Corp said it sold two mln
+shares of its common stock to an investment group named
+Clevebaco Ltd Partnership.
+    The partnership is controlled by Alfred Lerner, and a
+subsidiary of the Progressive Corp &lt;PROG> is the limited
+partner, according to the company.
+    Ameritrust said it was advised that the Clevebaco group has
+filed an application with bank regulatory authorities seeking
+permission to acquire up to an additional three mln shares of
+Ameritrust common stock.
+    The company said the group indicated to it that it had no
+hostile takeover intent toward Ameritrust, and that the
+purchase was for investment purposes.
+ Reuter
+&#3;</BODY></TEXT>

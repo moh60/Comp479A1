@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6967" NEWID="19131">
+<DATE>19-JUN-1987 09:21:04.79</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f0779&#31;reute
+u f BC-FIRST-FEDERAL-&lt;FFSD.O   06-19 0044</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FIRST FEDERAL &lt;FFSD.O> TO TAKE WRITEOFF</TITLE>
+<DATELINE>    DECATUR, Ala., June 19 - </DATELINE><BODY>First Federal Savings Bank said it
+will take a 274,000 dlr or 25 ct per share writeoff of its
+secondary reserve with the Federal Savings and Loan Insurance
+Corp in the third quartger ending June 30.
+ Reuter
+&#3;</BODY></TEXT>

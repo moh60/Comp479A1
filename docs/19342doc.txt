@@ -1,0 +1,30 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7178" NEWID="19342">
+<DATE>19-JUN-1987 14:18:34.08</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1951&#31;reute
+u f BC-GYNEX-&lt;GYNXU.O>-IN-DE   06-19 0066</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GYNEX &lt;GYNXU.O> IN DEAL WITH WARNER &lt;WLA></TITLE>
+<DATELINE>    DEERFIELD, ILL., June 19 - </DATELINE><BODY>Gynex Laboratories Inc said it
+signed an agreement under which Warner-Lambert Co's Chilcott
+Laboratories division will market Gynex's line of generic oral
+contraceptives.
+    Gynex Labs is a 50/50 joint venture owned by Gynex and
+Watson Laboratories Inc, a privately-held pharmaceutical
+company bnased on Corona, California.
+    Marketing by Warner Chilcott is currently scheduled to
+begin during the third quarter of 1987, it said.
+    Gynex signed a similar marketing agreement with Monsanto
+Co's &lt;MTC> G.D. Searle and Co subsidiary in February 1986,
+which was terminated last April following a recall of the oral
+contraceptives due to packaging problems.
+ Reuter
+&#3;</BODY></TEXT>

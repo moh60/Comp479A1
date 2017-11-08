@@ -1,0 +1,30 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18421" NEWID="2003">
+<DATE> 5-MAR-1987 09:19:43.22</DATE>
+<TOPICS><D>grain</D><D>wheat</D></TOPICS>
+<PLACES><D>usa</D><D>iraq</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G
+&#22;&#22;&#1;f0012&#31;reute
+u f BC-/CCC-ACCEPTS-BONUS-BI   03-05 0117</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CCC ACCEPTS BONUS BID ON WHEAT FLOUR TO IRAQ</TITLE>
+<DATELINE>    WASHINGTON, March 5 - </DATELINE><BODY>The Commodity Credit Corporation,
+CCC, has accepted bids for export bonuses to cover sales of
+25,000 tonnes of wheat flour to Iraq, the U.S. Agriculture
+Department said.
+    The department said the bonuses awarded averaged 116.84
+dlrs per tonne.
+    The shipment periods are March 15-April 20 (12,500 tonnes)
+and April 1-May 5 (12,500 tonnes).
+    The bonus awards were made to Peavey Company and will be
+paid in the form of commodities from CCC stocks, it said.
+    An additional 175,000 tonnes of wheat flour are still
+available to Iraq under the Export Enhancement Program
+initative announced January 7, 1987, the department said.
+ Reuter
+&#3;</BODY></TEXT>

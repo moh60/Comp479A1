@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6165" NEWID="17827">
+<DATE> 1-JUN-1987 16:58:51.31</DATE>
+<TOPICS><D>acq</D><D>hog</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2515&#31;reute
+r f BC-DEKALB-&lt;DKLBB.O>-SELL   06-01 0075</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DEKALB &lt;DKLBB.O> SELLS HEINOLD HOG MARKET</TITLE>
+<DATELINE>    DEKALB, Ill., June 1 - </DATELINE><BODY>Dekalb Corp said it sold its Heinold
+Hog Market Inc to the unit's employees through an Employee
+Stock Ownership Plan (ESOP).
+    Terms were not disclosed, but president Bruce Bickner said
+the sale will have a positive, but not substantial, impact on
+DeKalb as a whole.
+    The company said the hog marketing unit did not fit with
+its strategy of investing in its core businesses.
+
+ Reuter
+&#3;</BODY></TEXT>

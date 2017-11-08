@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12941" NEWID="757">
+<DATE> 2-MAR-1987 16:14:15.98</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F A
+&#22;&#22;&#1;f0004&#31;reute
+d f BC-U.S.-APPROVES-BUYOUT   03-02 0050</UNKNOWN>
+<TEXT>&#2;
+<TITLE>U.S. APPROVES BUYOUT OF COASTAL BANCORP &lt;CSBK></TITLE>
+<DATELINE>    PORTLAND, Maine, March 2 - </DATELINE><BODY>Coastal Bancorp said the U.S.
+Federal Reserve Board approved the acquisition of Coastal by
+Suffield Financial Corp &lt;SSBK>.
+    The acquisition still requires approval from the Banking
+Department in Maine, the company noted.
+ Reuter
+&#3;</BODY></TEXT>

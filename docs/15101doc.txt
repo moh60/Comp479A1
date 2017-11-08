@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4084" NEWID="15101">
+<DATE> 8-APR-1987 11:48:10.23</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1536&#31;reute
+h f BC-HIGHLAND-SUPERSTORES   04-08 0040</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HIGHLAND SUPERSTORES &lt;HIGH> MARCH SALES GAIN</TITLE>
+<DATELINE>    TAYLOR, MICH., April 8 - </DATELINE><BODY>Highland Superstores Inc said its
+March sales rose to 50.6 mln dlrs from 47.4 mln dlrs a year
+ago.
+    On a comparable store basis, it said the sales decreased
+nine pct.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,18 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15883" NEWID="10362">
+<DATE>27-MAR-1987 07:38:24.52&#5;&#5;&#5;RM</DATE>
+<UNKNOWN>&#22;&#22;&#1;f0557&#31;reute</UNKNOWN>
+<TOPICS><D>bop</D><D>trade</D></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+f f BC-S.-African-Feb-trade   03-27 0014</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE> S. African Feb trade surplus 1.62 billion rand vs Jan surplus 906.2 mln - official
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

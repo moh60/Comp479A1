@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12935" NEWID="751">
+<DATE> 2-MAR-1987 16:04:50.43</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0980&#31;reute
+d f BC-NATIONAL-EARLY-WARNIN   03-02 0063</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NATIONAL EARLY WARNING SEEKS OMEGA BALLISTICS</TITLE>
+<DATELINE>    TAMARAC, Fla., March 2 - </DATELINE><BODY>&lt;National Early Warning Systems
+Inc> said it has offered to purchase &lt;Omega Ballistics Systems
+Inc> for an undisclosed amount of cash, stock and notes.
+    Valley Cottage, N.Y., based Omega is a developer and
+designer of lightweight, custom-crafted ballistic, assault,
+flame and fire resistant paroducts.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17527" NEWID="11465">
+<DATE>31-MAR-1987 12:31:28.41</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F Y
+&#22;&#22;&#1;f1789&#31;reute
+r f BC-OCCIDENTAL-&lt;OXY>-SELL   03-31 0077</UNKNOWN>
+<TEXT>&#2;
+<TITLE>OCCIDENTAL &lt;OXY> SELLS UNIT TO &lt;HENKEL KGAA></TITLE>
+<DATELINE>    MINNEAPOLIS, March 31 - </DATELINE><BODY>Henkel KGaA of Dusseldorf, West
+Germany, said it has completed the acquisition of the Process
+Chemicals Division of Occidental Petroleum Corp's &lt;OXY>
+Occidental Chemical Corp subsidiary for undisclosed terms.
+    Process Chemicals, acquired from Diamond Shamrock Corp
+&lt;DIA> in September, makes specialty chemicals for a variety of
+industrial markets and has annual sales of about 160 mln dlrs.
+ Reuter
+&#3;</BODY></TEXT>

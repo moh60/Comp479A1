@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="NOT-USED" CGISPLIT="PUBLISHED-TESTSET" OLDID="21961" NEWID="17339">
+<DATE>27-APR-1987 10:59:16.05</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1370&#31;reute
+r f BC-CRANE-&lt;CR>-SHAREHOLDE   04-27 0091</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CRANE &lt;CR> SHAREHOLDERS APPROVE 3-FOR-2 SPLIT</TITLE>
+<DATELINE>    NEW YORK, April 27 - </DATELINE><BODY>Crane Co said shareholders at its
+annual meeting approved a three-for-two stock split of its
+common to shareholders of record May seven. Crane said the
+additional shares will be issued on or about May 21.
+    It said the number of common shares outstanding will
+increase to 23.7 mln from 15.8 mln.
+    Crane also said shareholder's approved an increase in the
+company's common to 80 mln from 40 mln and authorized five mln
+shares of preferred stock with a par value of one ct.
+ Reuter
+&#3;</BODY></TEXT>

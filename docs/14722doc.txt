@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="3705" NEWID="14722">
+<DATE> 7-APR-1987 17:41:14.02</DATE>
+<TOPICS><D>grain</D><D>wheat</D></TOPICS>
+<PLACES><D>usa</D><D>morocco</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G
+&#22;&#22;&#1;f2588&#31;reute
+u f BC-MOROCCO-TENDERS-THURS   04-07 0063</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MOROCCO TENDERS THURSDAY FOR PL 480 WHEAT</TITLE>
+<DATELINE>    KANSAS CITY, April 7 - </DATELINE><BODY>Morocco will tender Thursday for
+120,000 to 210,000 tonnes of U.S. wheat, cheapest variety
+preferred, for May and June shipments under PL 480, private
+export sources said.
+    The tender will consist of three lots of up to 70,000
+tonnes each for shipment May 1-30, May 10-June 10, and May
+25-June 25, they said.
+ Reuter
+&#3;</BODY></TEXT>

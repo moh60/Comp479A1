@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11887" NEWID="6974">
+<DATE>19-MAR-1987 04:32:23.49</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>switzerland</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0214&#31;reute
+b f BC-SWISSAIR-ORDERS-SIX-M   03-19 0093</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SWISSAIR ORDERS SIX MCDONNELL DOUGLAS MD-11 JETS</TITLE>
+<DATELINE>    ZURICH, March 19 - </DATELINE><BODY>Swissair &lt;SWSZ.Z> said it was confirming
+six orders for the new MD-11 long-haul jet of McDonnell Douglas
+Corp &lt;MD> and had taken options for a further 12 planes.
+    The order, which involved rejecting the A-340 plane being
+built by the European Airbus consortium, is to replace the
+airline's fleet of DC-10 aircraft in the early 1990s.
+    Swissair said in December it was giving the MD-11 "primary"
+consideration, and had reserved six places for delivery,
+pending a final order.
+ REUTER
+&#3;</BODY></TEXT>

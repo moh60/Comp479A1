@@ -1,0 +1,20 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18401" NEWID="1983">
+<DATE> 5-MAR-1987 08:20:45.68</DATE>
+<TOPICS><D>money-fx</D></TOPICS>
+<PLACES><D>egypt</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0858&#31;reute
+u f BC-EGYPTIAN-CENTRAL-BANK   03-05 0034</UNKNOWN>
+<TEXT>&#2;
+<TITLE>EGYPTIAN CENTRAL BANK DOLLAR RATE UNCHANGED</TITLE>
+<DATELINE>    CAIRO, March 4 - </DATELINE><BODY>Egypt's Central Bank today set the dollar
+rate for commercial banks for March 6 at 1.373/87 dollars,
+unchanged from the previous rate.
+ REUTER
+&#3;</BODY></TEXT>

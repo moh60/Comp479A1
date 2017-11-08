@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18384" NEWID="1966">
+<DATE> 5-MAR-1987 06:57:21.11</DATE>
+<TOPICS><D>oilseed</D></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G
+&#22;&#22;&#1;f0660&#31;reute
+u f BC-CARGILL-U.K.-STRIKE-T   03-05 0059</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CARGILL U.K. STRIKE TALKS POSTPONED TILL MONDAY</TITLE>
+<DATELINE>    LONDON, March 5 - </DATELINE><BODY>Talks set for today between management
+and unions to try to solve the labour dispute at Cargill U.K.
+Ltd's Seaforth oilseed crushing plant have been rescheduled for
+Monday, a company spokesman said.
+    Oilseed processing at the mill has been at a standstill
+since December 19.
+ REUTER
+&#3;</BODY></TEXT>

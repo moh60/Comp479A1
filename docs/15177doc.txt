@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4160" NEWID="15177">
+<DATE> 8-APR-1987 13:23:57.64</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A RM
+&#22;&#22;&#1;f1947&#31;reute
+r f BC-WESTERN-DIGITAL-&lt;WDC>   04-08 0051</UNKNOWN>
+<TEXT>&#2;
+<TITLE>WESTERN DIGITAL &lt;WDC> REDEEMS DEBT</TITLE>
+<DATELINE>    IRVINE, Calif., April 8 - </DATELINE><BODY>Western Digital Corp said it has
+completed the redemption of its 47 mln dlrs of 6-3/4 pct
+convertible subordinated debentures due 2011.
+    The debt was surrendered for conversion into comon stock,
+resulting in 2,685,142 shares being issued.
+ Reuter
+&#3;</BODY></TEXT>

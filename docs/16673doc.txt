@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1208" NEWID="16673">
+<DATE>13-APR-1987 16:30:11.67</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2554&#31;reute
+r f BC-versar-has-u.s.-air   04-13 0079</UNKNOWN>
+<TEXT>&#2;
+<TITLE>VERSAR &lt;VSR> HAS U.S. AIR FORCE CONTRACT</TITLE>
+<DATELINE>    SPRINGFIELD, V.A., April 13 - </DATELINE><BODY>Versar Inc said it received a
+four year contract from the U.S. Air Force with a maximum value
+of 9.5 mln dlrs for carrying out work including radioactive and
+toxic contamination studies.
+    Versar said work under the contract with the Air Force
+Occupational Health Laboratory, Aerospace Medical Division, at
+Brooks Air Force Base in Texas, will be done in and around air
+force installations worldwide.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,30 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13821" NEWID="8300">
+<DATE>23-MAR-1987 10:58:47.30</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1210&#31;reute
+d f BC-MOTO-PHOTO-INC-&lt;MOTO>   03-23 0082</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MOTO PHOTO INC &lt;MOTO> 4TH QTR NET</TITLE>
+<DATELINE>    DAYTON, Ohio, March 23 -
+    </DATELINE><BODY>Oper shr profit one ct vs loss six cts
+    Oper net profit 148,628 vs loss 249,192
+    Revs 3,772,639 vs 1,101,633
+    Avg shrs 5,235,233 vs 4,371,795
+    Year
+    Oper shr loss 10 cts vs loss 19 cts
+    Oper net profit 5,760 vs loss 788,042
+    Revs 9,899,038 vs 3,819,678
+    Avg shrs 4,837,361 vs 4,163,006
+    NOTE: Share after poreferred dividends.
+    Current year net both periods excludes 15,000 dlr tax loss
+carryforward.
+ Reuter
+&#3;</BODY></TEXT>

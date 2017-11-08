@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15013" NEWID="9492">
+<DATE>25-MAR-1987 13:59:44.18</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1976&#31;reute
+h f BC-MICRO-DISPLAY-&lt;MDSI>   03-25 0076</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MICRO DISPLAY &lt;MDSI> GETS EUROPEAN ORDERS</TITLE>
+<DATELINE>    MINNEAPOLIS, March 25 - </DATELINE><BODY>Micro Display Systems Inc said it
+has written orders exceeding 1.5 mln dlrs in the European
+market for its full-page display computer monitor, The Genius.
+    The company first began direct marketing The Genius to
+Europe in mid-January.
+    It forecast that more than 700,000 dlrs of the orders will
+be shipped by the end of March, with the balance shipped within
+the next three months.
+ Reuter
+&#3;</BODY></TEXT>

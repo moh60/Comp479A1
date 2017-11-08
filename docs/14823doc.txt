@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="3806" NEWID="14823">
+<DATE> 7-APR-1987 23:59:50.45</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>japan</D><D>thailand</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0003&#31;reute
+u f BC-SHARP-CORP-&lt;SHRP.T>-T   04-07 0091</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SHARP CORP &lt;SHRP.T> TO SET UP PLANT IN THAILAND</TITLE>
+<DATELINE>    TOKYO, April 8 - </DATELINE><BODY>Sharp Corp will set up a 100 pct-owned
+subsidiary in Thailand to make microwave ovens and
+refrigerators for export to the U.S. And western Europe, a
+company spokesman said.
+    The company, to be named &lt;Sharp Appliances (Thailand) Ltd>,
+will be capitalised at 2.1 billion yen and start operations in
+October, he told Reuters.
+    Sharp hopes the subsidiary, which will use parts from Japan
+and southeast Asia, will eventually produce other electric
+appliances, he said.
+ REUTER
+&#3;</BODY></TEXT>

@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13585" NEWID="8064">
+<DATE>21-MAR-1987 06:31:28.65</DATE>
+<TOPICS><D>money-fx</D></TOPICS>
+<PLACES><D>zimbabwe</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM C G L M T
+&#22;&#22;&#1;f0023&#31;reute
+u f BC-NO-ZIMBABWE-DOLLAR-DE   03-21 0114</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NO ZIMBABWE DOLLAR DEVALUATION - CENTRAL BANK</TITLE>
+<DATELINE>    HARARE, March 21 - </DATELINE><BODY>Zimbabwe's Reserve Bank, the nation's
+central bank, has denied the Zimbabwe dollar would be devalued.
+    Bank Governor Kombo Moyana told The Herald daily newspaper
+"unfortunate and completely unfounded speculation that a
+depreciation of the Zimbabwe dollar was about to occur" had
+aggravated a serious foreign exchange shortage.
+    "During February and the early part of March this
+(speculation) caused importers to bring forward their payments
+and exporters to delay as long as possible the inward
+remittance of export receipts, resulting in a significant
+slowdown in net foreign exchange inflows," he added.
+ REUTER
+&#3;</BODY></TEXT>

@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="587" NEWID="12359">
+<DATE> 1-APR-1987 17:27:10.38</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2607&#31;reute
+u f BC-FORD-&lt;F>-MARCH-U.S.-C   04-01 0076</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FORD &lt;F> MARCH U.S. CAR PRODUCTION UP</TITLE>
+<DATELINE>    DETROIT, April 1 - </DATELINE><BODY>Ford Motor Co said it made 189,610 U.S.
+cars in March, up from 150,520 in the same period last year.
+    Ford said it made 143,949 trucks during the month, compared
+to 116,727 in the 1986 period.
+    Year-to-date, Ford said it produced 534,209 U.S. cars, up
+from 446,505 last year-to-date.
+    Truck production through the end of March was 403,836
+vehicles, up from 362,986 vehicles, Ford said.
+ Reuter
+&#3;</BODY></TEXT>

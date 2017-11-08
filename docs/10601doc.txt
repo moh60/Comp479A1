@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16122" NEWID="10601">
+<DATE>27-MAR-1987 14:00:04.62&#5;&#5;&#5;F</DATE>
+<UNKNOWN>&#22;&#22;&#1;f1946&#31;reute</UNKNOWN>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+h f BC-SCOTT'S-LIQUID-GOLD-I   03-27 0052</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SCOTT'S LIQUID GOLD INC YEAR OPER NET</TITLE>
+<DATELINE>    DENVER, March 27 -
+    </DATELINE><BODY>Oper shr two cts vs 10 cts
+    Oper net 162,300 vs 773,400
+    Revs 16.6 mln vs 16.5 mln
+    Avg shrs 8,282,480 vs 8,045,493
+    NOTE: Excludes gains of 138,000 dlrs or two cts/shr vs
+733,000 dlrs or nine cts from benefit of tax loss
+carryforwards.
+ Reuter
+&#3;</BODY></TEXT>

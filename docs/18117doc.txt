@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7562" NEWID="18117">
+<DATE> 2-JUN-1987 12:21:13.67</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1729&#31;reute
+u f BC-G-AND-W-&lt;GW>-NAMES-PE   06-02 0104</UNKNOWN>
+<TEXT>&#2;
+<TITLE>G AND W &lt;GW> NAMES PENNZOIL'S LIEDTKE TO BOARD</TITLE>
+<DATELINE>    NEW YORK, June 2 - </DATELINE><BODY>Gulf and Western Inc said it named
+Pennzoil Co &lt;PZL> chairman and chief executive officer J. Hugh
+Liedtke to its board, expanding the number of directors from 14
+to 15.
+    It is the first outside board appointment for Liedtke,
+whose company is involved in a 10.3 billion dlr legal dispute
+with Texaco Inc &lt;TX>.
+    "Mr Liedtke is an outstanding addition to our board," said
+Gulf and Western chairman Martin Davis. "He has demonstated
+broad business judgment and insight in directing the success of
+his company and we look forward to his advice and counsel."
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11615" NEWID="6702">
+<DATE>18-MAR-1987 14:01:32.57</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f8996&#31;reute
+d f BC-AMERICAN-TRAVELLERS-&lt;   03-18 0067</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AMERICAN TRAVELLERS &lt;ATVC> TO MAKE ACQUISITION</TITLE>
+<DATELINE>    WARRINGTON, Pa., March 18 - </DATELINE><BODY>American Travellers Corp said
+it has entered into an agreement to purchase ISL Life Insurance
+Co of Dallas, a corporate shell with active licenses to operate
+in 12 states, for about 400,000 dlrs.
+    The company said closing is expected by late spring and
+will result in American Travellers being licensed in seven new
+states.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12022" NEWID="7109">
+<DATE>19-MAR-1987 10:19:48.63</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1002&#31;reute
+r f BC-MEDIQ-&lt;MED>-IN-AMERIC   03-19 0084</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MEDIQ &lt;MED> IN AMERICAN MEDICAL &lt;AMI> UNIT BUY</TITLE>
+<DATELINE>    PENNSAUKEN, N.J., March 19 - </DATELINE><BODY>MEDIQ Inc said its MEDIQ
+Diagnostic Imaging Partners - I LP has signed a letter of
+intent to acquire substantially all the assets of American
+Medical International Inc's AMI Diagnostic Services Inc
+subsidiary for undisclosed terms.
+    The company said AMI Diagnostic operates seven magnetic
+resonance and mutli-modality diagnostic imaging centers. MEDIQ
+Diagnostic is a limited partnership of which MEDIQ is general
+partner.
+ Reuter
+&#3;</BODY></TEXT>

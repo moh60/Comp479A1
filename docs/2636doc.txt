@@ -1,0 +1,31 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19054" NEWID="2636">
+<DATE> 6-MAR-1987 11:03:47.01</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0427&#31;reute
+d f BC-ALLURE-COSMETICS-&lt;ALU   03-06 0083</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ALLURE COSMETICS &lt;ALUR> SIGNS PACT WITH MOTOWN</TITLE>
+<DATELINE>    HACKENSACK, N.J., March 6 - </DATELINE><BODY>Allure Cosmetics Inc said it
+reached an agreement with &lt;Motown Industries> of Los Angeles to
+be the exclusive licensee of the Motown name for skin care,
+cosmetics and hair-care products.
+    Allure said the medium-priced products are scheduled to be
+introduced at a trade show in Philadelphia in early April. The
+company said the products will be sold in professional salons,
+major drug chains and department stores.
+    Allure also said it entered into a merchandising agreement
+with the U.S. Olympic Committee to use the Olympic designation
+on  suntan, sun treatment, lip care and other
+facial skin-care products.
+    Alllure said it also introduced a new face lift masque,
+intended to reduce wrinkles and other signs of aging.
+ Reuter
+&#3;</BODY></TEXT>

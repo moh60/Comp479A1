@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15995" NEWID="10475">
+<DATE>27-MAR-1987 11:18:00.98&#5;&#5;&#5;A RM</DATE>
+<UNKNOWN>&#22;&#22;&#1;f1224&#31;reute</UNKNOWN>
+<TOPICS><D>money-fx</D><D>dlr</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+u f BC-DEALERS-SAY-FED-INTER   03-27 0110</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DEALERS SAY FED INTERVENED BUYING DOLLARS IN U.S.</TITLE>
+<DATELINE>    NEW YORK, March 27 - </DATELINE><BODY>U.S. dealers said the New York Federal
+Reserve Bank has intervened in the foreign exchange market
+today buying dollars against yen.
+    Fed officials do not comment on such intervention, but
+dealers said it appeared that the Fed had intervened when the
+dollar reached 147.50 yen in New York.
+    The dollar subsequently hovered at 147.55/65 yen.
+    Dealers said they were uncertain about the size of the
+intervention, but some said it was only for a small amount.
+They were also uncertain whether the Fed intervened on its own
+account, or if it executed orders for the Bank of Japan.
+ Reuter
+&#3;</BODY></TEXT>

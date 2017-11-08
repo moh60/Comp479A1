@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6454" NEWID="18702">
+<DATE>18-JUN-1987 10:58:22.77</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F 
+&#22;&#22;&#1;f3378&#31;reute
+r f BC-NABISCO-BRANDS-LTD-&lt;N   06-18 0065</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NABISCO BRANDS LTD &lt;NAB.TO> NAMES NEW CEO</TITLE>
+<DATELINE>    TORONTO, June 18 - </DATELINE><BODY>Nabisco Brands Ltd, 80 pct-owned by RJR
+Nabisco Inc &lt;RJR>, said it named president R. Edward Glover as
+chief executive, replacing J.R. MacDonald, who remains as
+vice-chairman and chairman of the executive committee,
+effective immediately.
+    Glover has been president and chief operating officer since
+April, 1986, Nabisco said.
+ Reuter
+&#3;</BODY></TEXT>

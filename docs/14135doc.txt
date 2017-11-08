@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="3118" NEWID="14135">
+<DATE> 7-APR-1987 11:37:31.71</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1321&#31;reute
+r f BC-STONE-&lt;STO>-FILES-FOR   04-07 0103</UNKNOWN>
+<TEXT>&#2;
+<TITLE>STONE &lt;STO> FILES FOR SECONDARY OFFERING</TITLE>
+<DATELINE>    CHICAGO, April 7 - </DATELINE><BODY>Stone Container Corp said it filed a
+registration statement for a secondary offering of 1,933,453
+shares of its common stock.
+    It said the shares and warrants originally were issued to
+Champion International Corp, a holder of 1,633,453 shares of
+Stone common stock and warrants to buy an additional 300,000
+common shares, in connection with the February, 1986
+acquisition by the company of a major portion of Champion's
+Brown Papers System.
+    Stone said it will receive 9.75 mln dlrs from underwriters
+as a result of their exercise of the warrants.
+ Reuter
+&#3;</BODY></TEXT>

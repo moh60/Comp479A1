@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13407" NEWID="7886">
+<DATE>20-MAR-1987 13:57:01.76</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1960&#31;reute
+h f BC-GREAT-AMERICAN-FIRST   03-20 0064</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GREAT AMERICAN FIRST SAVINGS &lt;GTA> OPENS UNITS</TITLE>
+<DATELINE>    TUCSON, Ariz., March 20 - </DATELINE><BODY>Great American First Savings Bank
+Arizona said it has opened four new branches located in Fry's
+Food Stores.
+    The branches are all in the Tucson area.
+    Great American opened nine branches in Fry's Food Stores in
+1986 and opened two earlier this year.
+    The company said two more will open next week.
+ Reuter
+&#3;</BODY></TEXT>

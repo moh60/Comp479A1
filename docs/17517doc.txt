@@ -1,0 +1,20 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5855" NEWID="17517">
+<DATE> 1-JUN-1987 09:44:29.16</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>nasdaq</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0971&#31;reute
+w f BC-TOWN-AND-COUNTRY-CHAN   06-01 0033</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TOWN AND COUNTRY CHANGES NASDAQ SYMBOL</TITLE>
+<DATELINE>    CHELSEA, Mass., June 1 - </DATELINE><BODY>Town and Country Jewelry
+Manufacturing Corp said effective today its NASDAQ ticker
+symbol has been changed to &lt;TCJCA.O> from &lt;TJCA.O>
+ Reuter
+&#3;</BODY></TEXT>

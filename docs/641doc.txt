@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12825" NEWID="641">
+<DATE> 2-MAR-1987 13:43:40.15</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0571&#31;reute
+d f BC-MOLECULAR-BIOSYSTEMS   03-02 0073</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MOLECULAR BIOSYSTEMS &lt;MOBI> OFFERS NEW PRODUCTS</TITLE>
+<DATELINE>    ATLANTA, March 2 - </DATELINE><BODY>Molecular Biosystems Inc said it
+announced new SNAP DNA Probe Kits for the detection of
+rotavirus and malaria.
+    The company said it also introduced the Extractor, a new
+DNA/RNA sample preparation column.
+    The company, based in San Diego, Calif., said the Extractor
+dramatically simplifies the isolation and purification of DNA
+and RNA from actual clnical samples.
+ Reuter
+&#3;</BODY></TEXT>

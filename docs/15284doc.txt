@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4267" NEWID="15284">
+<DATE> 8-APR-1987 15:54:55.54</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D><D>ussr</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G L M T
+&#22;&#22;&#1;f2409&#31;reute
+b f BC-SHULTZ-SAYS-"SHADOW"   04-08 0082</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SHULTZ SAYS "SHADOW" CAST OVER HIS USSR VISIT</TITLE>
+<DATELINE>    ****WASHINGTON, April 8 - </DATELINE><BODY>U.S. Secretary of State George
+Shultz said the Marines spy case had cast a "heavy shadow" over
+his scheduled talks in Moscow next week.
+    "Unfortunately, as is so often the case when we are in the
+midst of potentially promising discussions with the Soviets,
+the discussions take place in a difficult environment generated
+by their actions, and these things cast a heavy shadow on our
+discussions," he told reporters.
+ Reuter
+&#3;</BODY></TEXT>

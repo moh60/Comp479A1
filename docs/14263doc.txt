@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="3246" NEWID="14263">
+<DATE> 7-APR-1987 12:10:47.31</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1490&#31;reute
+r f BC-ACME-PRECISION-&lt;ACL>   04-07 0095</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ACME PRECISION &lt;ACL> SETS HOLDER VOTE ON BUYOUT</TITLE>
+<DATELINE>    DETROIT, April 7 - </DATELINE><BODY>Acme Precision Products Inc said it set
+its annual meeting for May 14 for shareholders to vote on the
+proposed management-led leveraged buyout of the company.
+    The record date for the meeting will be April 16, with
+proxy materials to be sent to shareholders on or before April
+20.
+    The buyout proposal, which was previously announced, will
+be structured as a one for 100,000 reverse stock split. It must
+be approved by a majority of shareholders. Acme Precision has
+1,008,857 shares outstanding.
+ Reuter
+&#3;</BODY></TEXT>

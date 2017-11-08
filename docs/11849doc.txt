@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="77" NEWID="11849">
+<DATE> 1-APR-1987 07:23:33.38</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>canada</D><D>west-germany</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0562&#31;reute
+r f BC-OTTAWA-SAID-BACKING-D   04-01 0116</UNKNOWN>
+<TEXT>&#2;
+<TITLE>OTTAWA SAID BACKING DOWN ON BANKING CENTRES</TITLE>
+<DATELINE>    FRANKFURT, April 1 - </DATELINE><BODY>The Canadian federal government is
+backing down on its plans to give Vancouver and Montreal
+special status as international banking centres, Ontario's
+minister of financial institutions Monte Kwinter said.
+    He told journalists that little concrete activity had taken
+place since the announcement in February 1986 that the two
+cities would gain a special status, while Toronto, despite its
+position as Canada's main financial centre, would not.
+    "They (the federal government) have sent a confusing signal
+to world financial markets," Kwinter said. "It was done for
+political reasons and it's going to backfire on them."
+ REUTER
+&#3;</BODY></TEXT>

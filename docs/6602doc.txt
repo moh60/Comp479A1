@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11515" NEWID="6602">
+<DATE>18-MAR-1987 12:20:00.67</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f8568&#31;reute
+h f BC-BOEING-SAYS-NO-"GIVE-   03-18 0098</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BOEING&lt;BA> SAYS NO "GIVE-AWAYS" FOR AWACS OFFSET</TITLE>
+<DATELINE>    PARIS, March 18 - </DATELINE><BODY>An official of Boeing Co said the company
+would not be handing out any "give-away" deals under its
+commitment to provide business worth 4.4 billion francs to
+French firms over eight years.
+    The U.S. Aircraft maker agreed last month to grant
+so-called "offset" contracts equivalent to 130 pct of the cost of
+France's purchase of three AWACS radar early warning planes.
+    "I would like to stress the need for competitiveness," said
+Lee Hessler, Business Manager for Boeing Aerospace Co's
+Information Systems Division.
+ Reuter
+&#3;</BODY></TEXT>

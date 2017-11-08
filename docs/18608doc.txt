@@ -1,0 +1,20 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6360" NEWID="18608">
+<DATE>18-JUN-1987 08:52:36.51</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2900&#31;reute
+r f BC-POUGHKEEPSIE-SAVINGS   06-18 0038</UNKNOWN>
+<TEXT>&#2;
+<TITLE>POUGHKEEPSIE SAVINGS &lt;PKPS.O> SETS FIRST PAYOUT</TITLE>
+<DATELINE>    POUGHKEEPSIE, N.Y., June 18 - </DATELINE><BODY>Poughkeepsie Savings Bank
+said its board declared an initial quarterly dividend of 10 cts
+per share, payable July 31 to holders of record July 17.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6159" NEWID="17821">
+<DATE> 1-JUN-1987 16:55:52.54</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS><D>imf</D></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A RM
+&#22;&#22;&#1;f2501&#31;reute
+u f BC-GERHARD-LASKE-APPOINT   06-01 0068</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GERHARD LASKE APPOINTED TREASURER OF IMF</TITLE>
+<DATELINE>    WASHINGTON, June 1 - </DATELINE><BODY>Gerhard Laske, a national of West
+Germany, has been appointed treasurer of the International
+Monetary Fund, succeeding Walter Habermeier, who took early
+retirement, the agency said.
+    Laske, 59, held a senior position at the Bundesbank in the
+Department for International Organizations. Prior to that, he
+was executive director for Germany.
+ REUTER
+&#3;</BODY></TEXT>

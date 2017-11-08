@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6636" NEWID="18884">
+<DATE>18-JUN-1987 14:00:07.60</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F Y 
+&#22;&#22;&#1;f4155&#31;reute
+r f BC-TOTAL-UNIT-RELOCATING   06-18 0050</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TOTAL UNIT RELOCATING TO HOUSTON FROM DENVER</TITLE>
+<DATELINE>    HOUSTON, June 18 - </DATELINE><BODY>Total Energy Resources Inc, a wholly
+owned bysdisiary of French national energy company TOTAL
+Compagne Francaise des Petroles, said it will relocate its
+offices to Houston from Denver as part of TOTAL's plan to
+expand U.S. operations.
+ Reuter
+&#3;</BODY></TEXT>

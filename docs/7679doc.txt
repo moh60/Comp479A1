@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13200" NEWID="7679">
+<DATE>20-MAR-1987 10:05:44.50</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0958&#31;reute
+d f BC-ILLINOIS-TOOL-WORKS-&lt;   03-20 0063</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ILLINOIS TOOL WORKS &lt;ITW> SELLS TWO DIVISIONS</TITLE>
+<DATELINE>    CHICAGO, March 20 - </DATELINE><BODY>Illinois Tool Works Inc said it
+completed the sale of its Drill and End Mill division, Pine
+Bluff, Arkansas and Eclipse Counterbore division, Detroit, to
+newly-formed Eclipse Industrial Pruducts Inc, based in St.
+Louis.  Terms were not disclosed.
+    All employees at both locations will be retained, it added.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18946" NEWID="2528">
+<DATE> 5-MAR-1987 18:15:11.63</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0086&#31;reute
+d f BC-WICHITA-&lt;WRO>-TO-BUY   03-05 0093</UNKNOWN>
+<TEXT>&#2;
+<TITLE>WICHITA &lt;WRO> TO BUY FOUNTAIN OIL &lt;FGAS></TITLE>
+<DATELINE>    DENVER, Colo., March 5 - </DATELINE><BODY>Wichita Industries Inc said it
+agreed to buy Fountain Oil and Gas Inc.
+    Wichita said it it will acquire all of the outstanding
+shares of Fountain in an exchange for about 11 mln newly issued
+Wichita common shares. Wichita presently has about 3.6 mln
+shares outstanding.
+    The transaction calls for the issuance of 1-1/2 shares of
+Wichita common for each outstanding Fountain share.
+    Wichita also said it made a number of refinancing
+agreements in connection with the acquisition.
+ Reuter
+&#3;</BODY></TEXT>

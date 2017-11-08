@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14247" NEWID="8726">
+<DATE>24-MAR-1987 09:28:36.24</DATE>
+<TOPICS><D>cpi</D></TOPICS>
+<PLACES><D>belgium</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0891&#31;reute
+r f BC-BELGIAN-MARCH-CONSUME   03-24 0072</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BELGIAN MARCH CONSUMER PRICES RISE</TITLE>
+<DATELINE>    BRUSSELS, March 24 - </DATELINE><BODY>Belgian consumer prices rose 0.11 pct
+in March from February to stand 1.27 pct above the level in
+March 1986, the Economic Affairs Ministry said in a statement.
+    It said the consumer price index, base 1981, rose to 132.83
+points from 132.69 in February and 131.17 in March 1985.
+    Year-on-year inflation stood at 1.00 pct in February and at
+1.53 pct in March 1986.
+ REUTER
+&#3;</BODY></TEXT>

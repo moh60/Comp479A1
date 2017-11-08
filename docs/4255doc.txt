@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9168" NEWID="4255">
+<DATE>12-MAR-1987 10:38:23.37</DATE>
+<TOPICS><D>retail</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;V RM
+&#22;&#22;&#1;f0227&#31;reute
+u f BC-WHITE-HOUSE-WELCOMES   03-12 0074</UNKNOWN>
+<TEXT>&#2;
+<TITLE>WHITE HOUSE WELCOMES RETAIL SALES FIGURES</TITLE>
+<DATELINE>    WASHINGTON, March 12 - </DATELINE><BODY>The White House welcomed the
+February retail sales figures showing a 4.1 pct rise, following
+a slow performance in January.
+    Spokesman Marlin Fitzwater told reporters: "The February
+sales growth was broad-based and good news for the economy."
+    Commerce Department figures showed a larger than expected
+rise following depressed levels of sales and factory orders in
+January.
+ Reuter
+&#3;</BODY></TEXT>

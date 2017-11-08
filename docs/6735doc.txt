@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11648" NEWID="6735">
+<DATE>18-MAR-1987 14:43:38.25</DATE>
+<TOPICS><D>grain</D><D>corn</D></TOPICS>
+<PLACES><D>usa</D><D>ussr</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G
+&#22;&#22;&#1;f9130&#31;reute
+b f BC-/USSR-CORN-BUYING-MAY   03-18 0086</UNKNOWN>
+<TEXT>&#2;
+<TITLE>USSR CORN BUYING MAY BE 3.5 MLN TONNES--AMSTUTZ</TITLE>
+<DATELINE>    ****WASHINGTON, March 18 - </DATELINE><BODY>The Soviet Union's recent corn
+purchases from the United States could total as much as 3.5 mln
+tonnes, U.S. Agriculture Undersecretary Daniel Amstutz said.
+    "We are not sure how much (Soviets have bought) but we think
+it could be as high as 3.5 mln tonnes," Amstutz told a House
+Agriculture Appropriations Subcommittee.
+    He added that China also will need to import more corn this
+year than earlier anticipated, but he gave no figures.
+ Reuter
+&#3;</BODY></TEXT>

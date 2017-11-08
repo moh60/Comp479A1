@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6977" NEWID="19141">
+<DATE>19-JUN-1987 09:36:20.43</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f0838&#31;reute
+d f BC-QMAX-TECHNOLOGY-&lt;QMAX   06-19 0039</UNKNOWN>
+<TEXT>&#2;
+<TITLE>QMAX TECHNOLOGY &lt;QMAX.O> SETS NEW STRUCTURE</TITLE>
+<DATELINE>    DAYTON, Ohio, June 19 - </DATELINE><BODY>Qmax Technology Corp said it has
+reorganized into three operating groups: Pharmaceutical
+Technology Group, Cosmetic Technology Group and Thermometry
+Technology Ltd.
+ Reuter
+&#3;</BODY></TEXT>

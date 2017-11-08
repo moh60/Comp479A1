@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19078" NEWID="2660">
+<DATE> 6-MAR-1987 11:25:03.42</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0530&#31;reute
+r f BC-MINE-SAFETY-APPLIANCE   03-06 0069</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MINE SAFETY APPLIANCES &lt;MNES> TO SELL UNIT</TITLE>
+<DATELINE>    PITTSBURGH, March 6 - </DATELINE><BODY>Mine Safety Appliances Co said it
+agreed to sell its filter products division to Donaldson Co Inc
+&lt;DCI> for undisclosed terms.
+    It said the filter products unit will be relocated from its
+plant in Pennsylvania to a Donaldson facility in Illinois. It
+said it expects a number of the unit's 100 employees will be
+offered positions with Donaldson.
+ Reuter
+&#3;</BODY></TEXT>

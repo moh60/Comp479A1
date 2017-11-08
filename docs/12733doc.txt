@@ -1,0 +1,20 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="1702" NEWID="12733">
+<DATE>  3-APR-1987 01:28:58.30</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>japan</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>tse</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0037&#31;reute
+f f BC-Tokyo-stockmarket-ind   04-03 0012</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE>Tokyo stockmarket index rises 43.13 to record 22,410.85 closing high
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

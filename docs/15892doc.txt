@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5247" NEWID="15892">
+<DATE> 9-APR-1987 15:29:52.85</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2298&#31;reute
+r f BC-HAWAIIAN-ELECTRIC-&lt;HE   04-09 0085</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HAWAIIAN ELECTRIC &lt;HE> TO BUY HAWAIIAN INSURANCE</TITLE>
+<DATELINE>    LOS ANGELES, April 9 - </DATELINE><BODY>Hawaiian Electric Industries said it
+has entered a letter of intent to buy the Hawaiian Insurance
+Companies.
+    The transaction is subject to a definitive agreement, and
+government and board approvals.
+    The Hawaiian Insurance Companies ad assets at the end of
+1986 of 137.4 mln dlrs and earned premiums of 46.1 mln dlrs.
+    Hawaiian Electric said it plans to operate the comapny,
+which has 226 employees, with current management.
+ Reuter
+&#3;</BODY></TEXT>

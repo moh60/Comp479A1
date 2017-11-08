@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14089" NEWID="8568">
+<DATE>23-MAR-1987 17:59:54.07</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A
+&#22;&#22;&#1;f2608&#31;reute
+d f BC-U.S.-TREASURY-TO-MODI   03-23 0102</UNKNOWN>
+<TEXT>&#2;
+<TITLE>U.S. TREASURY TO MODIFY TRANSFERS PROGRAM</TITLE>
+<DATELINE>    WASHINGTON, March 23 - </DATELINE><BODY>The Treasury said it was modifying
+its computerized Coupons Under Book-Entry Safekeeping (CUBES)
+program by permitting on-line transfers of funds against
+payment by deposit-taking institutions.
+    Each institution will be able to keep a CUBES account at
+its local Federal Reserve Bank or a branch and through it
+handle trading nationwide, a Treasury release said.
+    The new system is expected to be in operation late this
+year.
+    Currently, CUBES accounts are maintained off-line at the
+Federal Reserve Bank of New York, the Treasury said.
+ Reuter
+&#3;</BODY></TEXT>

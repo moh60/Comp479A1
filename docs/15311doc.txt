@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4294" NEWID="15311">
+<DATE> 8-APR-1987 16:28:47.36</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D><D>west-germany</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2508&#31;reute
+d f BC-RAYTECH-&lt;RAY>-BUYS-WE   04-08 0049</UNKNOWN>
+<TEXT>&#2;
+<TITLE>RAYTECH &lt;RAY> BUYS WEST GERMAN COMPANY</TITLE>
+<DATELINE>    NEW YORK, April 8 - </DATELINE><BODY>Raytech Corp said it acquired
+&lt;Raybestos Industrie-Produkte GmBH> for 7.5 mln dlrs.
+    Raybestos, with manufacturing facilities in Radevormwald,
+West Germany, produces friction materials for use in clutch and
+braking applications.
+ Reuter
+&#3;</BODY></TEXT>

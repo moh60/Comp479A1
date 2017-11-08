@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9213" NEWID="4300">
+<DATE>12-MAR-1987 11:50:04.59</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0519&#31;reute
+d f BC-COLOROCS-&lt;CLRX>-SIGNS   03-12 0052</UNKNOWN>
+<TEXT>&#2;
+<TITLE>COLOROCS &lt;CLRX> SIGNS PACT WITH SHARP</TITLE>
+<DATELINE>    NORCROSS, Ga., March 12 - </DATELINE><BODY>Colorocs Corp said it signed a
+manufacturing agreement with Sharp Corp &lt;SHRP> of Japan for
+Sharp to build Colorocs' full-color copier.
+    No other details of the agreement were disclosed, but the
+company said more details would follow shortly.
+ Reuter
+&#3;</BODY></TEXT>

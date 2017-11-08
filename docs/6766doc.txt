@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11679" NEWID="6766">
+<DATE>18-MAR-1987 15:36:48.57</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f9272&#31;reute
+r f BC-CHILDREN'S-DISCOVERY   03-18 0067</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CHILDREN'S DISCOVERY &lt;CDCRA> GETS NEW CHAIRMAN</TITLE>
+<DATELINE>    MONROE, Conn., March 18 - </DATELINE><BODY>Children's Discovery Centers of
+America Inc said Richard Niglio has been appointed chairman and
+chief executive officer effective April 15.
+    Niglio, 44, is currently president and chief executive
+officer of Victoria Station Inc, a restaurant chain based in
+San Francisco.
+    The company said Niglio replaces James DeSanctis.
+ Reuter
+&#3;</BODY></TEXT>

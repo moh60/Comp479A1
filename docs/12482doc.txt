@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="1558" NEWID="12482">
+<DATE> 2-APR-1987 08:10:57.14</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>switzerland</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0742&#31;reute
+b f BC-NITTO-BOSEKI-LAUNCHES   04-02 0049</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NITTO BOSEKI LAUNCHES 60 MLN SFR 4-7/8 PCT BOND</TITLE>
+<DATELINE>    ZURICH, April 2 - </DATELINE><BODY>Nitto Boseki Co Ltd of Tokyo is launching
+a 60 mln Swiss franc 4-7/8 pct bond due April 27, 1995 at
+100-1/4 pct, lead manager Union Bank of Switzerland said.
+    Subscriptions close April 8 and payment date is April 27.
+ REUTER
+&#3;</BODY></TEXT>

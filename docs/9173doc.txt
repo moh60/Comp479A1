@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14694" NEWID="9173">
+<DATE>25-MAR-1987 05:06:54.80</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0279&#31;reute
+u f BC-CITIBANK-LAUNCHES-CUR   03-25 0100</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CITIBANK LAUNCHES CURRENCY WARRANTS</TITLE>
+<DATELINE>    LONDON, March 25 - </DATELINE><BODY>Citibank NA is issuing up to 50,000
+currency warrants which give the holder a call right on U.S.
+Dollars from marks or yen, Citicorp Investment Bank Ltd said as
+sole manager.
+    Each warrant, priced at 47.50 dlrs, gives the holder the
+right to purchase a nominal sum of 500 dlrs for either 182.50
+marks or 149.50 yen between March 31, 1987 and March 31, 1989.
+    The warrants will be listed in Luxembourg and pay date is
+March 31. Exercise, requiring one day's notice, must be for a
+minimum of 100 warrants through one currency only.
+ REUTER
+&#3;</BODY></TEXT>

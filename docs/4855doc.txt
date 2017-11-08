@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9768" NEWID="4855">
+<DATE>13-MAR-1987 10:53:41.42</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A RM
+&#22;&#22;&#1;f0189&#31;reute
+r f BC-LANESBOROUGH-SELLS-SE   03-13 0082</UNKNOWN>
+<TEXT>&#2;
+<TITLE>LANESBOROUGH SELLS SENIOR SUBORDINATED NOTES</TITLE>
+<DATELINE>    NEW YORK, March 13 - </DATELINE><BODY>Lanesborough Corp is raising 50 mln
+dlrs via an offering of senior subordinated notes due 1997 with
+a 12-3/8 pct coupon and par pricing, said sole manager First
+Boston Corp.
+    Non-callable for five years, the debt is rated Caa by
+Moody's Investors Service Inc and B-minus by Standard and
+Poor's Corp.
+    The issue was increased from an initial offering of 40 mln
+dlrs because of investor demand for high-yield securities.
+ Reuter
+&#3;</BODY></TEXT>

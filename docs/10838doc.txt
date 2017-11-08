@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16899" NEWID="10838">
+<DATE>30-MAR-1987 11:18:39.99</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1491&#31;reute
+h f BC-GTE-&lt;GTE>-UNIT,-INDIA   03-30 0103</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GTE &lt;GTE> UNIT, INDIANA NAT'L &lt;INAT> SIGN PACT</TITLE>
+<DATELINE>    INDIANAPOLIS, March 30 - </DATELINE><BODY>GTE Corp's GTE EFT Services Inc
+unit and Indiana National Corp said they have signed an
+agreement where GTE will provide electronic funds transfer
+switching services for Indiana National's MoneyMover 24-Hour
+Teller and Plus System networks.
+    The companies said GTE EFT Service will make an initial
+hookup with CommerceAmerica Banking Company, an affiliate of
+Indiana National.
+    The MoneyMover and Plus System networks support about 400
+24-hour automated teller machines in more than 80 cities in
+Indiana and Kentucky, the companies said.
+ Reuter
+&#3;</BODY></TEXT>

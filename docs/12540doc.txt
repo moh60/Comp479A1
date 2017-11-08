@@ -1,0 +1,20 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="1616" NEWID="12540">
+<DATE> 2-APR-1987 09:40:49.33</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0980&#31;reute
+d f BC-CB-AND-T-&lt;CBTB>-COMPL   04-02 0035</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CB AND T &lt;CBTB> COMPLETES ACQUISITION</TITLE>
+<DATELINE>    COLUMBUS, Ga., April 2 - </DATELINE><BODY>CB and T Bancshares Inc said it
+has completed the acquisition of First Community Bancshares Inc
+Of Tifton, Ga., which as assets of 62 mln dlrs.
+ Reuter
+&#3;</BODY></TEXT>

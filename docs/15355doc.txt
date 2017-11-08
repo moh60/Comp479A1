@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4537" NEWID="15355">
+<DATE> 8-APR-1987 17:40:42.65</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2706&#31;reute
+d f BC-ORS-&lt;ORSC>-CHAIRMAN-R   04-08 0076</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ORS &lt;ORSC> CHAIRMAN RESIGNS AFTER CONVICTION</TITLE>
+<DATELINE>    TULSA, Okla., April 8 - </DATELINE><BODY>Robert A. Alexander resigned
+yesterday as chairman, president and director of ORS Corp
+following his conviction in the United States District Court in
+Tulsa of seven counts of mail and wire fraud, the company said.
+    The company, which will appoint an interim president, said
+Alexander plans to appeal the conviction.
+    The company said it was not charged in Alexander's
+indictment.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19655" NEWID="3233">
+<DATE> 9-MAR-1987 12:42:58.74</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0977&#31;reute
+h f BC-TRACOR-&lt;TRR>-UNIT-WIN   03-09 0071</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TRACOR &lt;TRR> UNIT WINS U.S. FOLLOW-UP CONTRACTS</TITLE>
+<DATELINE>    AUSTIN, Texas, March 9 - </DATELINE><BODY>Tracor Inc said its Tracor
+Aerospace Inc unit won three follow-up contracts worth 1.9 mln
+dlrs from the U.S. Air Force.
+    It said the unit will conduct special studies and
+modifications in systems components for flight tests on the
+Peacekeeper Missle.
+    Tracor said it previously received 49.3 mln dlrs worth of
+contracts from the defense program.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,30 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18239" NEWID="1822">
+<DATE> 4-MAR-1987 16:49:19.90</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0834&#31;reute
+h f BC-CENTRAL-BANCSHARES-&lt;C   03-04 0108</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CENTRAL BANCSHARES &lt;CBSS> UNIT UNVEILS SYSTEM</TITLE>
+<DATELINE>    BIRMINGHAM, March 4 - </DATELINE><BODY>Central Bancshares of the South's
+Central Bank of the South said it unveiled a realtime trading
+floor providing the staff with instant access to U.S. financial
+markets.
+    The company said the system, the first in Alabama, is in
+its investment banking division. The company said the staff
+receives immediate notification of prices changes, market data
+and a summary of securities or bonds in inventory.
+    The trading floor consists of workstations intergrating
+personal computer and mainframe capabilities, telephone and
+intercom systems, and multiple information services.
+    The trading room format was created by Rich Inc, a
+subsidiary of Reuters Inc &lt;REUT>.
+ Reuter
+&#3;</BODY></TEXT>

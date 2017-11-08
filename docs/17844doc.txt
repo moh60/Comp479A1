@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6182" NEWID="17844">
+<DATE> 1-JUN-1987 17:23:41.22</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>lebanon</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;V RM Y
+&#22;&#22;&#1;f2605&#31;reute
+b f BC-GEMAYEL-NAMES-ACTING   06-01 0100</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GEMAYEL NAMES ACTING PREMIER</TITLE>
+<DATELINE>    BEIRUT, June 1 - </DATELINE><BODY>President Amin Gemayel named Sunni Moslem
+Education Minister Selim Hoss as acting prime minister
+following the assassination of Premier Rashid Karami, a
+presidential palace statement said.
+    "After consultations by President Amin Gemayel with
+political and religious leaders the president decided to name
+Selim Hoss as acting prime minister," said the statement
+broadcast on local radio stations.
+    Moslem leaders proposed Hoss, a former premier, as acting
+prime minister after Karami died of injuries from a bomb that
+exploded aboard his helicopter.
+ Reuter
+&#3;</BODY></TEXT>

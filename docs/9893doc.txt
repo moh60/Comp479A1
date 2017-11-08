@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15414" NEWID="9893">
+<DATE>26-MAR-1987 10:21:32.48</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1171&#31;reute
+d f BC-CROSS-AND-TRECKER-&lt;CT   03-26 0085</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CROSS AND TRECKER &lt;CTCO> BUYS AUTOMATION UNIT</TITLE>
+<DATELINE>    BLOOMFIELD, MICH., March 26 - </DATELINE><BODY>Cross and Trecker said it
+agreed to acquire the Alliance Automation Systems division of
+Gleason Corp &lt;GLE> for an undisclosed amount of cash.
+    It said the Gleason division manufactures automated
+assembly and test systems used in the production of small to
+medium size components for a number of industries, including
+automotive, electronic and appliance.
+    Alliance Automation had 1986 sales of about 35 mln dlrs and
+employs 200.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10558" NEWID="5645">
+<DATE>16-MAR-1987 15:37:38.31</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f3470&#31;reute
+r f BC-FORD-&lt;F>-TO-RECALL-33   03-16 0069</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FORD &lt;F> TO RECALL 33,600 FULL SIZE CARS</TITLE>
+<DATELINE>    DEARBORN, MICH., March 16 - </DATELINE><BODY>Ford Motor Co said it is
+recalling about 33,600 of its 1987-model year Ford Crown
+Victoria, Mercury Grand Marquis and Lincoln Town Car vehicles
+equipped with 5.0 -liter engines.
+    It said the vehicles may have been produced with some
+improperly manufactured sterring linkage components that could
+fracture, causing reduced steering control.
+    Ford said it was unaware of any accidents or injuries
+caused by the conditions prompting the recall.
+    It said of the affected vehicles, about 32,000 are in the
+United States, 1,200 in Canada and 400 in export locations.
+ Reuter
+&#3;</BODY></TEXT>

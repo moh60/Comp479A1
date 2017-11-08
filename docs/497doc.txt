@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12680" NEWID="497">
+<DATE> 2-MAR-1987 11:23:45.24</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>italy</D><D>spain</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0956&#31;reute
+d f BC-MONTEDISON-CONCLUDES   03-02 0093</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MONTEDISON CONCLUDES TALKS WITH ANTIBIOTICOS</TITLE>
+<DATELINE>    MILAN, March 2 - </DATELINE><BODY>Montedison Spa &lt;MONI.MI> said it has
+concluded its negotiations with Spanish pharmaceuticals company
+&lt;Antibioticos SA>.
+    A company spokesman told Reuters "We have concluded the
+talks and we are now awaiting authorization from Spanish
+authorities." He declined to comment further.
+    Earlier today the Italian company postponed a scheduled
+press conference on its talks with Antibioticos. An Italian
+press report today said Montedison has agreed to acquire
+Antibioticos for 500 billion lire.
+ REUTER
+&#3;</BODY></TEXT>

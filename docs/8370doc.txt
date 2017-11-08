@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13891" NEWID="8370">
+<DATE>23-MAR-1987 12:15:41.78</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1594&#31;reute
+d f BC-PHH-&lt;PHH>-BUYS-TWO-DE   03-23 0045</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PHH &lt;PHH> BUYS TWO DESIGN FIRMS</TITLE>
+<DATELINE>    HUNT VALLEY, MD, March 23 - </DATELINE><BODY>PHH Group Inc said it acquired
+two design firms for undisclosed terms.
+    In 1986, the two firms, Neville Lewis Associates of New
+York and Walker Associates Inc of L.A., produced 15.6 mln dlrs
+in total fees.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="8605" NEWID="3692">
+<DATE>11-MAR-1987 11:08:51.09</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D><D>pakistan</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0479&#31;reute
+r f BC-LTV-&lt;LTV>-WINS-18.5-M   03-11 0064</UNKNOWN>
+<TEXT>&#2;
+<TITLE>LTV &lt;LTV> WINS 18.5 MLN DLR PAKISTAN ORDER</TITLE>
+<DATELINE>    SOUTH BEND, Ind., March 11 - </DATELINE><BODY>LTV Corp said Pakistan ordered
+180 military trucks and spare parts worth 18.5 mln dlrs from AM
+General, a unit of LTV's Missles and Electronics Group.
+    The company said the order includes 140 M809 Series
+five-ton trucks and 40 M44A2 Series 2-1/2 ton trucks. They are
+scheduled to be delivered later this year.
+ Reuter
+&#3;</BODY></TEXT>

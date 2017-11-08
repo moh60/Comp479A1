@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="297" NEWID="12069">
+<DATE> 1-APR-1987 12:06:26.37</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;E
+&#22;&#22;&#1;f1569&#31;reute
+u f BC-LOUVEM-PLANS-OPTION-T   04-01 0081</UNKNOWN>
+<TEXT>&#2;
+<TITLE>LOUVEM PLANS OPTION TO BUY BACK OWN SHARES</TITLE>
+<DATELINE>    QUEBEC, April 1 - </DATELINE><BODY>&lt;Societe Miniere Louvem Inc> said its
+board of directors has offered to buy an option to buy back its
+owns shares from provincially-owned SOQUEM, its major
+shareholder.
+    Louvem said the option to buy the 3.1 mln shares would be
+valid until December 15 at a purchase price of 3.15 dlrs a
+share. Louvem said it could exercise the option for itself or 
+for a third party.
+    The company said SOQUEM is considering the offer.
+ Reuter
+&#3;</BODY></TEXT>

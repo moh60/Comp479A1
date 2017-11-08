@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15962" NEWID="10441">
+<DATE>27-MAR-1987 10:28:34.75&#5;&#5;&#5;F</DATE>
+<UNKNOWN>&#22;&#22;&#1;f1030&#31;reute</UNKNOWN>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+r f BC-MINING-TECHNOLOGY-UNI   03-27 0065</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MINING TECHNOLOGY UNIT ENTERS SALES AGREEMENT</TITLE>
+<DATELINE>    ROANOKE, Va., March 27 - </DATELINE><BODY>&lt;Mining Technology and Resources
+Inc> said its wholly-owned subsidiary, Mine Support Systems
+Inc, entered into a sales agreement with &lt;R.M. Wilson Co Inc>
+of Wheeling, W. Va.
+    R.M. Wilson will serve as Mine Support's exclusive sales
+agent for the company's Mine Roof Support System in the U.S.,
+the company said.
+ Reuter
+&#3;</BODY></TEXT>

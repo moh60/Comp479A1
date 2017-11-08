@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14992" NEWID="9473">
+<DATE>25-MAR-1987 13:44:12.73</DATE>
+<TOPICS><D>ship</D></TOPICS>
+<PLACES><D>uk</D><D>liberia</D><D>west-germany</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;M
+&#22;&#22;&#1;f1918&#31;reute
+d f BC-LIBERIAN-ORE-CARRIER   03-25 0078</UNKNOWN>
+<TEXT>&#2;
+<TITLE>LIBERIAN ORE CARRIER IN COLLISION IN RIVER ELBE</TITLE>
+<DATELINE>    LONDON, March 25 - </DATELINE><BODY>The Liberian motor bulk carrier, Trave
+Ore, 106,490 dwt, loaded with ore, and the 2,852 dwt West
+German motor vessel Christa, collided late last night on the
+River Elbe near buoy 129, Lloyds Shipping Intelligence said.
+    The Trave Ore proceeded by its own means to Hamburg. The
+Christa was taken in tow with a damaged bow.
+    The Liberian vessel was concluding a trip from Seven
+Islands to Hamburg.
+ Reuter
+&#3;</BODY></TEXT>

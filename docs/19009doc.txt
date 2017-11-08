@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6845" NEWID="19009">
+<DATE>18-JUN-1987 19:53:55.04</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f5027&#31;reute
+u f BC-TRI-STAR-PICTURES-INC   06-18 0083</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TRI-STAR PICTURES INC &lt;TRSP.O> 1ST QTR MAY 31</TITLE>
+<DATELINE>    NEW YORK, June 18 -
+    </DATELINE><BODY>Shr four cts vs four cts
+    Net 1,180,000 vs 902,000
+    Revs 146.9 mln vs 37.0 mln
+    Avg shrs 33 mln vs 23.9 mln
+    NOTE: Company changed its fiscal year from December 31 to
+the last day of February, thus results of operations for the
+year-ago period have been restated to reflect this change.
+    Current first quarter includes results of operations of
+Loews Theatre Management Corp which Tri-Star acquired December
+31.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19771" NEWID="3349">
+<DATE> 9-MAR-1987 16:07:31.46</DATE>
+<TOPICS><D>ship</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0660&#31;reute
+h f BC-CSX-&lt;CSX>-UNIT-SETS-I   03-09 0074</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CSX &lt;CSX> UNIT SETS IMPROVED SHIPPING SERVICE</TITLE>
+<DATELINE>    MENLO PARK, N.J., March 9 - </DATELINE><BODY>CSX Corp's Sea-Land Corp unit
+said it will offer improved containership services between
+Puerto Rico and the East Coast and Gulf Coast of the United
+States, beginning March 16.
+    The carrier said it will provide shorter door-to-door
+transit times, more convenient cargo availability and better
+rail connections for traffic moving between Puerto Rico and
+North America.
+ Reuter
+&#3;</BODY></TEXT>

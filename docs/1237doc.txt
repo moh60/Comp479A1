@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16557" NEWID="1237">
+<DATE> 3-MAR-1987 14:48:29.68</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0590&#31;reute
+r f BC-AMERICAN-ADVENTURE-&lt;G   03-03 0084</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AMERICAN ADVENTURE &lt;GOAA> SETS BANKRUPTCY PLAN</TITLE>
+<DATELINE>    KIRKLAND, Wash., March 3 - </DATELINE><BODY>American Adventure Inc said a
+U.S. Bankruptcy Court confirmed its reorganization plan.
+    The plan calls for the sale of substantially all the assets
+of the company to a new company that will retain the same name,
+but be incorporated in Delaware.
+    The comany said the transaction is expected to close later
+this month.
+    Shareholders will receive one share of stock in the new
+company for every 10 shares they hold currently.
+ Reuter
+&#3;</BODY></TEXT>

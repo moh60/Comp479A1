@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13759" NEWID="8238">
+<DATE>23-MAR-1987 09:31:03.49</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0856&#31;reute
+r f BC-PACIFIC-RESOURCES-&lt;PR   03-23 0104</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PACIFIC RESOURCES &lt;PRI> NAMED IN LAWSUIT</TITLE>
+<DATELINE>    NEW YORK, March 23 - </DATELINE><BODY>Pacific Resources Inc said it has been
+named in a lawsuit filed in California by Aetna Casualty and
+Surety Co &lt;AET> relating to the 1984 Chapter 11 bankruptcy of
+Paramount Petroleum Corp (PPC), in which a PRI subsidiary had a
+40 pct stake.
+    Aetna is claiming up to 17 mln dlrs in compensatory damages
+and 30 mln dlrs in punitive damages against the defendants as a
+result of alleged acts to fraudulently induce Aetna to issue
+surety bonds for the benefit of PPC and its predecessor Pacific
+Oassis.
+    PRI said that the legal action against it lacks merit.
+ Reuter
+&#3;</BODY></TEXT>

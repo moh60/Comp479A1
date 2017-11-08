@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20805" NEWID="20210">
+<DATE>20-OCT-1987 10:09:30.78</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1150&#31;reute
+u f BC-CIRCLE-EXPRESS&lt;CEXX.O   10-20 0067</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CIRCLE EXPRESS&lt;CEXX.O> ENDS OVERLAND&lt;OVER.O> BUY</TITLE>
+<DATELINE>    INDIANAPOLIS, Oct 20 - </DATELINE><BODY>Circle Express Inc said negotiations
+on its proposed acquisitions of Overland Express Inc and
+privately-held Continental Training Services Inc have been
+terminated by mutual agreement.
+    The company said the recent declines in stock prices have
+made it unlikely that the transactions could qualify as
+tax-free reorganizations.
+ Reuter
+&#3;</BODY></TEXT>

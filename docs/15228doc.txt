@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4211" NEWID="15228">
+<DATE> 8-APR-1987 14:24:25.21</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G L M T
+&#22;&#22;&#1;f2144&#31;reute
+u f BC-CONSERVATIVE-LEAD-DRO   04-08 0080</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CONSERVATIVE LEAD DROPS IN NEW U.K. OPINION POLL</TITLE>
+<DATELINE>    LONDON, April 8 - </DATELINE><BODY>A British opinion poll showed the ruling
+Conservative party was still ahead of Labour and the
+Liberal-Social Democratic Alliance, but support appeared to be
+declining, raising the spectre of an inconclusive election
+result.
+    The Marplan poll, to be published in tomorrow's Guardian
+newspaper, showed support for the Conservative party stood at
+38 pct against 32 pct for Labour and 27 pct for the Alliance.
+ Reuter
+&#3;</BODY></TEXT>

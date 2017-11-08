@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10838" NEWID="5925">
+<DATE>17-MAR-1987 09:43:44.92</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f4950&#31;reute
+d f BC-IMMUNOGENETICS-INC-&lt;I   03-17 0067</UNKNOWN>
+<TEXT>&#2;
+<TITLE>IMMUNOGENETICS INC &lt;IGEN> YEAR NET</TITLE>
+<DATELINE>    VINELAND, N.J., March 17 -
+    </DATELINE><BODY>Oper shr profit eight cts vs loss eight cts
+    Oper net profit 604,996 vs loss 615,345
+    Sales 18.4 mln vs 17.8 mln
+    NOTE: Net excludes losses from discontinued operations of
+156,098 dlrs vs 732,924 dlrs.
+    1986 net excludes tax credits of 271,538 dlrs.
+    1985 net includes gain 480,0009 dlrs from reversl of
+recapture taxes.
+ Reuter
+&#3;</BODY></TEXT>

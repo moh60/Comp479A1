@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19646" NEWID="3224">
+<DATE> 9-MAR-1987 12:39:48.08</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0955&#31;reute
+d f BC-AMOSKEAG-CO-NAMES-NEW   03-09 0064</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AMOSKEAG CO NAMES NEW CHAIRMAN</TITLE>
+<DATELINE>    BOSTON, Mass., March 9 - </DATELINE><BODY>&lt;Amoskeag Co> said Joseph B. Ely
+II, became chairman, in addition to his duties as chief
+executive officer, succeeding Albert B. Hunt, who served in
+that position since 1972.
+    It also said James M. Fitzgibbons, currently executive vice
+president and chief operating officer, will beomce president, a
+position Ely also held.
+ Reuter
+&#3;</BODY></TEXT>

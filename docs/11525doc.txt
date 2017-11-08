@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17586" NEWID="11525">
+<DATE>31-MAR-1987 13:43:45.71</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2052&#31;reute
+r f BC-IMMUNEX-&lt;IMNX>-GETS-F   03-31 0105</UNKNOWN>
+<TEXT>&#2;
+<TITLE>IMMUNEX &lt;IMNX> GETS FDA OKAY FOR HUMAN TESTS</TITLE>
+<DATELINE>    SEATTLE, March 31 - </DATELINE><BODY>Immunex Corp said it received Food and
+Drug Administration approval to begin human clinical testing of
+a protein as a possible treatment for cancer.
+    The company said the protein, granulocyte-macrophage colony
+stimulating factor, stimulates production of white blood cells
+essential to the body's immune function. It said it is
+developing the compound with &lt;Behringwerke AG>, a subsidiary of
+Hoechst AG.
+    Immunex said the drug's potential applications include
+restoration of white blood cell function, destruction of tumor
+cells, and as an AIDS treatment.
+ Reuter
+&#3;</BODY></TEXT>

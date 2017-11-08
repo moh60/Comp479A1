@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6545" NEWID="18793">
+<DATE>18-JUN-1987 12:21:15.11</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f3773&#31;reute
+r f BC-BAXTER-&lt;BAX>-SETS-BRI   06-18 0070</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BAXTER &lt;BAX> SETS BRIEFING FOR NEW PRODUCT</TITLE>
+<DATELINE>    DEERFIELD, ILL., June 18 - </DATELINE><BODY>Baxter Travenol Laboratories Inc
+said it will hold a press conference June 29 to introduce a new
+information systems product that will "dramatically improve
+hospital efficiency."
+    No other details were disclosed.
+    Baxter currently offers computerized information systems
+that link hospital medical and business departments and
+doctors' offices.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="8829" NEWID="3916">
+<DATE>11-MAR-1987 15:37:45.02</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0469&#31;reute
+b f BC-AMERICAN-MOTORS-&lt;AMO>   03-11 0064</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AMERICAN MOTORS &lt;AMO> WEIGHS TAKEOVER PROPOSAL</TITLE>
+<DATELINE>    SOUTHFIELD, MICH., March 11 - </DATELINE><BODY>American Motors Corp said its
+directors met Wednesday to review the takeover proposal which
+the corporation received Monday from Chrysler Corp &lt;C>.
+    AMC said its board has retained independent investment and
+legal advisers and expects to meet periodically over the next
+several weeks on the proposal.
+ Reuter
+&#3;</BODY></TEXT>

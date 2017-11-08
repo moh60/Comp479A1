@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12292" NEWID="7379">
+<DATE>19-MAR-1987 15:29:10.55</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2251&#31;reute
+u f BC-BROWN-TRANSPORT-&lt;BTCI   03-19 0094</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BROWN TRANSPORT &lt;BTCI> SEES RECORD 1987 NET</TITLE>
+<DATELINE>    NEW YORK, March 19 - </DATELINE><BODY>Brown Transport Co said it expects to
+report record 1987 results with revenues increasing to 214 mln
+dlrs and earnings per share between 1.25 dlrs and 1.30 dlrs.
+    Brown reported 1986 net income of 1.05 dlrs per share, or
+5.45 mln dlrs, on revenues of 191.7 mln dlrs.
+    Last week the company declared an initial quarterly
+dividend of four cts.
+    the company said it will begin paying a regular quarterly
+dividend in the second quarter but the board has not yet
+determined the exact amount.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5806" NEWID="17468">
+<DATE> 1-JUN-1987 04:44:00.47</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>japan</D><D>bangladesh</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0272&#31;reute
+u f BC-JAPAN-EXTENDS-24-BILL   06-01 0081</UNKNOWN>
+<TEXT>&#2;
+<TITLE>JAPAN EXTENDS 24 BILLION YEN LOAN TO BANGLADESH</TITLE>
+<DATELINE>    DHAKA, June 1 - </DATELINE><BODY>Japan has extended a 24 billion yen loan to
+Bangladesh, Finance Ministry officials said.
+    The loan, to be disbursed over two years from next July, is
+for chemicals, cement, steel and machinery imports and for
+setting up a power plant in eastern Sylhet district, they said.
+Terms were not disclosed.
+    The credit brings total Japanese loans and grants to
+Bangladesh to 441.25 billion yen since 1972, they said.
+ REUTER
+&#3;</BODY></TEXT>

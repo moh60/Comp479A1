@@ -1,0 +1,31 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15771" NEWID="10250">
+<DATE>26-MAR-1987 18:49:06.39</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D><D>india</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G L M T
+&#22;&#22;&#1;f2878&#31;reute
+d f AM-BANK-INDIA   03-26 0138</UNKNOWN>
+<TEXT>&#2;
+<TITLE>IDA APPROVES 114 MLN DLR CREDIT FOR INDIA</TITLE>
+<DATELINE>    WASHINGTON, March 26 - </DATELINE><BODY>The International Development
+Association said it approved a 114 mln dlr credit for India to
+support several water irrigation projects.
+    IDA, the World Bank arm which lends to the poorest
+countries, said the projects are designed to increase
+agricultural productivity and farm incomes.
+    Irrigation development has been a major factor in improving
+agricultural performance and yields in many areas but fall
+short of their potential due to unreliable water supply and
+often inequitable distribution, it noted.
+    IDA said the credit supports a 7-year program to plan,
+implement and monitor improved operation of selected projects. 
+   In addition to the 50-year credit, the Indian government and
+participating states will provide 43 mln dlrs to the plan.
+ Reuter
+&#3;</BODY></TEXT>

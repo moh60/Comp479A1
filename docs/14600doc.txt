@@ -1,0 +1,31 @@
+
+<REUTERS TOPICS="BYPASS" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="3583" NEWID="14600">
+<DATE> 7-APR-1987 16:18:44.38</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C T
+&#22;&#22;&#1;f2365&#31;reute
+u f BC-ny-coffee-phys-spot   04-07 0101</UNKNOWN>
+<TEXT TYPE="UNPROC">&#2;
+N.Y. COFFEE PHYSICALS SPOT - April 7
+    EX-DOCK, NY CENTS PER LB UNLESS INDICATED
+ SANTOS NO. 4,                              UNQ
+ PARANA NO. 4,                              UNQ
+ COLOMBIAN MAMS gross                   108.50N
+ EL SALVADOR, past crop, ex-New York    103.00N
+ MEXICAN, Prime Washed new crop Laredo   95.25N
+ GUATEMALA, extra prime ex-Miami        103.00N
+ UGANDAN FAQ                                UNQ
+ ETHIOPIAN DJIMMAS                       98.68N
+ INDONESIAN EK-ONES                      86.00N
+ ECUADORAN, 3 PCTS, ex-New Orleans       94.50N
+ PERU, natural past crop                 84.00N
+ Reuter
+&#3;
+
+</TEXT>

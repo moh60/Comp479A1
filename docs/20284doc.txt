@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20879" NEWID="20284">
+<DATE>20-OCT-1987 10:53:09.23</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1432&#31;reute
+r f BC-ARKANSAS-BEST-CORP-&lt;A   10-20 0046</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ARKANSAS BEST CORP &lt;ABZ> 3RD QTR NET</TITLE>
+<DATELINE>    FORT SMITH, Ark., Oct 20 -
+    </DATELINE><BODY>Shr diluted 31 cts vs 60 cts
+    Net 3,276,776 vs 6,846,367
+    Revs 187.7 mln vs 181.3 mln
+    Nine mths
+    Shr diluted 52 cts vs 1.51 dlrs
+    Net 5,301,876 vs 16.4 mln
+    Revs 535.7 mln vs 513.0 mln
+ Reuter
+&#3;</BODY></TEXT>

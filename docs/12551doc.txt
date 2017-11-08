@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="1627" NEWID="12551">
+<DATE> 2-APR-1987 09:56:35.34</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1047&#31;reute
+u f BC-BRITTON-LEE-&lt;BLII>-SE   04-02 0050</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BRITTON LEE &lt;BLII> SEES FIRST QUARTER LOSS</TITLE>
+<DATELINE>    LOS GATOS, Calif., April 2 - </DATELINE><BODY>Britton Lee Inc said it
+expects to report a loss on lower sales than it had anticipated
+for the first quarter.
+    The company earned 119,000 dlrs before a 70,000 dlr tax
+credit on sales of 7,227,000 dlrs in the year-ago period.
+&#3;</BODY></TEXT>

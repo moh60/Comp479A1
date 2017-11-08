@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16407" NEWID="1087">
+<DATE> 3-MAR-1987 11:10:29.14</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0720&#31;reute
+r f BC-PANSOPHIC-SYSTEMS-INC   03-03 0044</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PANSOPHIC SYSTEMS INC &lt;PNS> 3RD QTR JAN 31 NET</TITLE>
+<DATELINE>    OAK BROOK, Ill., March 3 -
+    </DATELINE><BODY>Shr 70 cts vs 56 cts
+    Net 6,197,000 vs 4,880,000
+    Revs 24.1 mln vs 17.1 mln
+    Nine mths
+    Shr 1.38 dlrs vs 1.20 dlrs
+    Net 12.1 mln vs 10.4 mln
+    Revs 52.5 mln vs 41.8 mln
+ Reuter
+&#3;</BODY></TEXT>

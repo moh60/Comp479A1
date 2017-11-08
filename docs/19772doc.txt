@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="8100" NEWID="19772">
+<DATE>29-JUN-1987 13:24:24.76</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1905&#31;reute
+r f BC-MOELX-&lt;MOLX.O>,-&lt;DUBI   06-29 0103</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MOELX &lt;MOLX.O>, &lt;DUBILIER PLC> SIGN AGREEMENT</TITLE>
+<DATELINE>    LISLE, Ill, June 29 - </DATELINE><BODY>Molex Inc said it signed a
+distribution and share-purchase agreement with Dubilier PLC, of
+Abingdon, Oxon, England.
+    Under the agreement, Molex will sell Dubilier's products
+worldwide and receive 2.1 mln ordinary shares in Dubilier at a
+price of two British pounds, or 3.22 U.S. dlrs, a share.
+    The shares, which represent 6.39 pct of the existing issued
+share capital of Dubilier, will be issued under a U.K.
+subscription agreement that restricts Molex from disposing of
+the shares and from increasing its holding above 9.9 pct for
+two years.
+ Reuter
+&#3;</BODY></TEXT>

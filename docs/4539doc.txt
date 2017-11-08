@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9452" NEWID="4539">
+<DATE>12-MAR-1987 16:33:17.00</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0528&#31;reute
+r f BC-SYSTEMS-ASSURANCE-&lt;SA   03-12 0096</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SYSTEMS ASSURANCE &lt;SAC> GETS MANAGEMENT CHANGES</TITLE>
+<DATELINE>    JENKINTOWN, Pa., March 12 - </DATELINE><BODY>Systems Assurance Corp said its
+board elected Charles Scott as chairman and chief executive
+officer.
+    He replaces Ronald Grant, who will remain a director with
+the company, Systems said.
+    Scott is president of Insurance Data Processing Inc &lt;IDP>,
+which is the majority stockholder of Systems Assurance, the
+company said.
+    Two new board members, John Kreisler and James McInerney,
+were named executive vice president and senior vice president
+at SAC, respectively, according to the company.
+ Reuter
+&#3;</BODY></TEXT>

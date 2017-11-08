@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18701" NEWID="2283">
+<DATE> 5-MAR-1987 13:09:35.60</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0145&#31;reute
+r f BC-DIAMOND-BATHURST-&lt;DBH   03-05 0075</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DIAMOND-BATHURST &lt;DBH> SAYS FURNACE EXPLODES</TITLE>
+<DATELINE>    MALVERN, Pa., March 5 - </DATELINE><BODY>Diamond-Bathurst Inc said an
+explosion yesterday during a furnace rebuild at its Antioch,
+Calif., facility completely destroyed the furnace.
+    The glassmaker said the rest of the facility was undamaged
+and there were no serious injuries.  It said it believes it is
+fully covered by insurance.
+    The company said it cannot yet determine the impact on the
+plant's operations.
+ Reuter
+&#3;</BODY></TEXT>

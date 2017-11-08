@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12633" NEWID="450">
+<DATE> 2-MAR-1987 10:39:16.09</DATE>
+<TOPICS><D>ipi</D></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E A RM
+&#22;&#22;&#1;f0730&#31;reute
+u f BC-CANADA-INDUSTRIAL-PRI   03-02 0085</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CANADA INDUSTRIAL PRICES UP 0.2 PCT IN MONTH</TITLE>
+<DATELINE>    OTTAWA, March 2 - </DATELINE><BODY>Canada's industrial product price index
+rose 0.2 pct in January after falling 0.2 pct in each of the
+two previous months, Statistics Canada said.
+    The rise was led by price gains for papers, pharmaceuticals
+and petroleum and coal products. Price declines were recorded
+for meat products, lumber and motor vehicles.
+    On a year over year basis, the federal agency said the
+index fell 0.9 pct in January, the largest yearly decline on
+record.
+ Reuter
+&#3;</BODY></TEXT>

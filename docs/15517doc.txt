@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4695" NEWID="15517">
+<DATE> 9-APR-1987 09:29:46.27</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>uk</D><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;A RM
+&#22;&#22;&#1;f0824&#31;reute
+r f BC-CALFED-&lt;CAL>-FORMS-IN   04-09 0087</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CALFED &lt;CAL> FORMS INSURANCE UNIT</TITLE>
+<DATELINE>    LOS ANGELES, April 9 - </DATELINE><BODY>CalFed Inc said it has entered the
+property-casualty insurance business through the formation of
+Anglo-American Insurance Co Ltd, a London-based subsidiary
+initially capitalized at 80 mln dlrs.
+    The company said &lt;London United Investment PLC> will share
+equally in all risks, premiums and reinsurance with
+Anglo-American and perform all underwriting activities for
+Anglo-American.
+    It said more than half of the venture's business is
+expected to be in the U.S.
+ Reuter
+&#3;</BODY></TEXT>

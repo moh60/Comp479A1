@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="NOT-USED" CGISPLIT="PUBLISHED-TESTSET" OLDID="22106" NEWID="18410">
+<DATE>15-JUN-1987 17:25:18.79</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>amex</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2610&#31;reute
+u f BC-SPENDTHRIFT-&lt;SFI>-REM   06-15 0045</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SPENDTHRIFT &lt;SFI> REMOVED FROM AMEX</TITLE>
+<DATELINE>    LEXINGTON, KY, JUne 15 - </DATELINE><BODY>Spendthrift Farm Inc said it has
+consented to its removal from the American Stock Exchange due
+to its failure to meet financial listing requirements.
+    The last day for Spendthrift trading shall be June 26.
+    The company also said its board named Dale McDoulett,
+formerly president of Diamond Shamrock International Petroleum
+Co, as president replacing Robert Hagopian who resigned
+February 7.
+ Reuter
+&#3;</BODY></TEXT>

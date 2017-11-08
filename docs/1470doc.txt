@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17888" NEWID="1470">
+<DATE> 4-MAR-1987 10:18:25.86</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0337&#31;reute
+d f BC-EASTERN-&lt;EML>-ACQUIRE   03-04 0039</UNKNOWN>
+<TEXT>&#2;
+<TITLE>EASTERN &lt;EML> ACQUIRES EMHART &lt;EMH> PRODUCT LINE</TITLE>
+<DATELINE>    NAUGATUK, Conn., March 4 - </DATELINE><BODY>Eastern Co said it purchased the
+tooling, equipment and inventory used to produce the Corbin
+Cabinet Lock product line from Emhart Corp for undisclosed
+terms.
+ Reuter
+&#3;</BODY></TEXT>

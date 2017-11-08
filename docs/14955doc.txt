@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="3938" NEWID="14955">
+<DATE> 8-APR-1987 09:00:32.83</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0833&#31;reute
+d f BC-NMR-CENTERS-&lt;NMRC>-ST   04-08 0093</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NMR CENTERS &lt;NMRC> STARTS BUILDING IMAGE CENTER</TITLE>
+<DATELINE>    NEWPORT BEACH, Calif., April 8 - </DATELINE><BODY>NMR Centers Inc said it
+has started building five mln dlr multi-modality Ocean Medical
+Imaging Center in Toms River, N.J., and completion is scheduled
+for November.
+    It said the center should generate more than five mln dlrs
+in annual revenues when fully operational.
+    NMR said it is providing about 3,500,000 dlrs in equipment
+and working capital and will manage the center, while Center
+State Health Services Corp is financing construction of the
+1,600,000 dlr building.
+ Reuter
+&#3;</BODY></TEXT>

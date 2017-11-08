@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="3055" NEWID="14072">
+<DATE> 7-APR-1987 11:20:35.15</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F
+&#22;&#22;&#1;f1234&#31;reute
+r f BC-POLYDEX-&lt;POLXF>-ANTI-   04-07 0050</UNKNOWN>
+<TEXT>&#2;
+<TITLE>POLYDEX &lt;POLXF> ANTI-WRINKLE INGREDIENT PATENTED</TITLE>
+<DATELINE>    TORONTO, April 7 - </DATELINE><BODY>Polydex Pharmaceuticals Ltd said a U.S.
+patent for an anti-wrinkle cream ingredient has been assigned
+to the company by its chairman, Thomas C. Usher.
+    The company said the pantent was granted to Usher for skin
+permeable elastin.
+ Reuter
+&#3;</BODY></TEXT>

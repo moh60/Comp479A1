@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14334" NEWID="8813">
+<DATE>24-MAR-1987 11:23:59.14</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1375&#31;reute
+r f BC-GREAT-LAKES-&lt;GLK>-IN   03-24 0078</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GREAT LAKES &lt;GLK> IN VENTURE WITH JOHNSON &lt;JNJ></TITLE>
+<DATELINE>    WEST LAFAYETTE, IND., March 24 - </DATELINE><BODY>Great Lakes Chemical Corp
+said it agreed to make an ingredient to be used by McNeil
+Specialty Products Co, a subsidiary of Johnson and Johnson, in
+the manufacture of sucralose, a high intensity sweetener.
+    Sucralose is currently under review by the Food and Drug
+Administration.
+    Great Lakes Chemical and McNeil Specialty will build the
+facilities needed for production, it said.
+ Reuter
+&#3;</BODY></TEXT>

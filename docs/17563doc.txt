@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5901" NEWID="17563">
+<DATE> 1-JUN-1987 10:50:11.14</DATE>
+<TOPICS><D>pet-chem</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1234&#31;reute
+h f BC-DOW-CHEMICAL-&lt;DOW>-TO   06-01 0101</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DOW CHEMICAL &lt;DOW> TO INCREASE PRICES</TITLE>
+<DATELINE>    MIDLAND, Mich., June 1 - </DATELINE><BODY>Dow Chemical U.S.A. Midland Co
+said it will increase prices of its high performance thermal
+fluids, in bulk and drums, effective July One, for contract and
+spot customers.
+    The bulk list prices for diphenyl oxide, in both technical
+and refined grades, will be raised five pct to 1.26 dlrs per
+pound for technical and 1.36 dlrs per for refined, Dow said.
+    Other increases include Dowtherm G to 21.92 dlrs per
+gallon; Dowtherm HT to 20.94 dlrs per gallon; Dowtherm J to
+14.96 dlrs per gallon, and Dowtherm LF to 18.68 dlrs per
+gallon.
+ Reuter
+&#3;</BODY></TEXT>

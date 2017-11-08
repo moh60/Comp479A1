@@ -1,0 +1,20 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="5616" NEWID="73">
+<DATE>26-FEB-1987 16:13:36.47</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0956&#31;reute
+h f BC-ROCKWELL-&lt;ROK>-GETS-2   02-26 0035</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ROCKWELL &lt;ROK> GETS 28.3 MLN DLR B-1 CONTRACT</TITLE>
+<DATELINE>    WASHINGTON, Feb 26 - </DATELINE><BODY>Rockwell International Corp has
+received a 28.3 mln dlr contract for work on the B-1B bomber in
+the current fiscal year, the Air Force said.
+ reuter
+&#3;</BODY></TEXT>

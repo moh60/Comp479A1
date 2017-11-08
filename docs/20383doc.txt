@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20978" NEWID="20383">
+<DATE>20-OCT-1987 11:47:33.08</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1745&#31;reute
+r f BC-HONEYWELL-&lt;HON>-ELECT   10-20 0042</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HONEYWELL &lt;HON> ELECTS NEW CHIEF EXECUTIVE</TITLE>
+<DATELINE>    MINNEAPOLIS, Oct 20 - </DATELINE><BODY>Honeywell Inc said its board of
+directors elected its president, Dr James Renier, 57, as chief
+executive officer to succeed Edson Spencer, who will continue
+as chairman of the board.
+ Reuter
+&#3;</BODY></TEXT>

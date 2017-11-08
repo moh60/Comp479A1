@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5960" NEWID="17621">
+<DATE> 1-JUN-1987 12:01:25.49</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>uk</D><D>france</D><D>italy</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1527&#31;reute
+r f BC-GLOBAL-EQUITY-OFFERIN   06-01 0104</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GLOBAL EQUITY OFFERINGS RISING AT RECORD RATES</TITLE>
+<DATELINE>    LONDON, June 1 - </DATELINE><BODY>Cross border stock market investment is
+rising at unprecedented rates, seeking a high return and
+diversification, Charles Lillis, associate director of &lt;Merrill
+Lynch Europe Ltd>, a subsidiary of Merrill Lynch and Co Inc
+&lt;MER.N>, said.
+    He told an international equities seminar here that global
+equity offerings amounted to 3.7 billion dlrs in the first
+quarter, compared with 11.4 billion dlrs in all of last year
+and 4.1 billion dlrs in 1985.
+    He said most new issues would come from countries with
+underdeveloped potential, such as  France and Italy.
+ Reuter
+&#3;</BODY></TEXT>

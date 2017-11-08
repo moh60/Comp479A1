@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="5727" NEWID="184">
+<DATE>26-FEB-1987 18:12:10.87</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0299&#31;reute
+w f BC-AMERICAN-TRAVELLERS-&lt;   02-26 0046</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AMERICAN TRAVELLERS &lt;ATVC> EXPANDS OPERATIONS</TITLE>
+<DATELINE>    WARRINGTON, Pa., Feb 26 - </DATELINE><BODY>American Travellers Corp said its
+American Travellers Life Insurance Co unit has expanded its
+operations.
+    The company said the unit has begun marketing in Maryland,
+Idaho and the District of Columbia.
+ Reuter
+&#3;</BODY></TEXT>

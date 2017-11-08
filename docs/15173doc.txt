@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4156" NEWID="15173">
+<DATE> 8-APR-1987 13:20:18.64</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1929&#31;reute
+d f BC-STANFORD-TELECOMMUNIC   04-08 0089</UNKNOWN>
+<TEXT>&#2;
+<TITLE>STANFORD TELECOMMUNICATIONS &lt;STII> WINS CONTRACT</TITLE>
+<DATELINE>    SANTA CLARA, Calif., April 8 - </DATELINE><BODY>Stanford Telecommunications
+Inc said it was awarded a three-year contract for 2,945,052
+dlrs to support the National Aeronautics and Space
+Administration's Goddard Space Flight Center.
+    The company said its tasks will include mission modeling,
+ground system specific task assignements, ground system
+architecture/operations studies, transition planning, frequency
+management support, radio frequency interference development
+and system engineering.
+ Reuter
+&#3;</BODY></TEXT>

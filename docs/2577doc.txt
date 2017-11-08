@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18995" NEWID="2577">
+<DATE> 6-MAR-1987 09:47:39.91</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0152&#31;reute
+r f BC-IMRE-&lt;IMRE>-SELLS-STO   03-06 0048</UNKNOWN>
+<TEXT>&#2;
+<TITLE>IMRE &lt;IMRE> SELLS STOCK TO EUROPEAN INSTITUTIONS</TITLE>
+<DATELINE>    SEATTLE, March 6 - </DATELINE><BODY>IMRE Corp said it has received
+commitments for a group of European institutions to buy about
+400,000 IMRE shares for 2,500,000 dlrs, with closing expected
+on March 16.
+                                                   
+ Reuter
+&#3;</BODY></TEXT>

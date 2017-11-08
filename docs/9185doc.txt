@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14706" NEWID="9185">
+<DATE>25-MAR-1987 05:35:05.82</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>west-germany</D><D>venezuela</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0339&#31;reute
+u f BC-BABCOCK-UNIT-WINS-ORD   03-25 0067</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BABCOCK UNIT WINS ORDER FOR VENEZUELAN POWER PLANT</TITLE>
+<DATELINE>    OBERHAUSEN, West Germany, March 25 - </DATELINE><BODY>Deutsche Babcock AG
+&lt;DBCG.F> said its wholly-owned Borsig GmbH subsidiary has won a
+78 mln mark order to build a conventional power station block
+for Venezuela's state-owned electricity company CADAFE.
+    It said the installation, which can be powered by oil or
+gas, should go on stream at the end of 1988.
+ REUTER
+&#3;</BODY></TEXT>

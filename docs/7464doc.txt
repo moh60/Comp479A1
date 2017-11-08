@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12377" NEWID="7464">
+<DATE>19-MAR-1987 17:28:40.49</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2597&#31;reute
+r f BC-DORSEY-&lt;DSY>-COMPLETE   03-19 0062</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DORSEY &lt;DSY> COMPLETES SALE OF UNIT</TITLE>
+<DATELINE>    CHATTANOOGA, Tenn., March 19 - </DATELINE><BODY>Dorsey Corp said it
+completed the sale of substantially all its Dorsey Trailers Inc
+subsidiary assets to &lt;Trailer Acquisition Corp>, whose
+stockholders include a former Dorsey vice president and several
+executives of the Dorsey Trailers management team.
+    Terms of the acquisition were not disclosed.
+ Reuter
+&#3;</BODY></TEXT>

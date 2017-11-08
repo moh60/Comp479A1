@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9272" NEWID="4359">
+<DATE>12-MAR-1987 13:12:43.02</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0875&#31;reute
+d f BC-SYNERCOM-&lt;SYNR>-HOLDE   03-12 0040</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SYNERCOM &lt;SYNR> HOLDERS OK LIABILITY LIMITATION</TITLE>
+<DATELINE>    HOUSTON, March 12 - </DATELINE><BODY>Synercom Technology Inc said
+shareholders at the annual meeting approved the limnitation of
+directors' liability in certain circumstances in accordance
+with Delaware law.
+ Reuter
+&#3;</BODY></TEXT>

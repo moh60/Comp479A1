@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20964" NEWID="20369">
+<DATE>20-OCT-1987 11:44:48.97</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>nyse</D><D>amex</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1722&#31;reute
+r f BC-FOOTHILL-&lt;FGI>-TO-TRA   10-20 0065</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FOOTHILL &lt;FGI> TO TRADE ON NYSE</TITLE>
+<DATELINE>    LOS ANGELES, Oct 20 - </DATELINE><BODY>Foothill Group Inc said its stock
+began trading Tuesday on the New York Stock Exchange under the
+symbol "FGI."
+    Foothill's shares had been traded on the American Stock
+Exchange.
+    Foothill is an independent commercial finance company which
+operates through two subsidiaries -- Foothill Capital Copr and
+Foothill Thrift and Loan.
+ Reuter
+&#3;</BODY></TEXT>

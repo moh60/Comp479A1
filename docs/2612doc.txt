@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19029" NEWID="2612">
+<DATE> 6-MAR-1987 10:37:46.61</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0314&#31;reute
+r f BC-RAPIDTECH-SYSTEMS-INC   03-06 0084</UNKNOWN>
+<TEXT>&#2;
+<TITLE>RAPIDTECH SYSTEMS INC BUYS PATENT RIGHTS</TITLE>
+<DATELINE>    SUFFERN, N.Y., March 6 - </DATELINE><BODY>&lt;Rapidtech Systems Inc> said it
+acquired all rights to the patent for the "pocket modem", which
+eliminates the need for stand-alone modems that are attached
+between telephones and computer terminals, as well as modems
+built into computers.
+    Rapidtech said the patent includes all rights to license
+and build the modems, as well as a patent application for an
+optical isolator.
+    The company did not disclose a price for the rights.
+ Reuter
+&#3;</BODY></TEXT>

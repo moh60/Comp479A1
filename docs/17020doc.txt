@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="NOT-USED" CGISPLIT="PUBLISHED-TESTSET" OLDID="21670" NEWID="17020">
+<DATE>21-APR-1987 12:28:08.02</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>brazil</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1702&#31;reute
+d f BC-BRAZIL-FUND-SHOULD-ST   04-21 0095</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BRAZIL FUND SHOULD START OPERATING SOON</TITLE>
+<DATELINE>    SAO PAULO, April 21 - </DATELINE><BODY>A Brazil Fund through which foreign
+investors will be able to buy stocks in Brazilian companies
+should start operating in about two months, the Securities and
+Exchange Commission said.
+    A spokesman told Reuters that four institutions in the
+United States were interested in participating in the Fund --
+Merrill Lynch and Co Inc, Salomon Brothers Inc, the IFC and the
+First Boston Corp.
+    The spokesman said the Fund, approved last December, was
+expected to attract about 100 mln dlrs of investments.
+ Reuter
+&#3;</BODY></TEXT>

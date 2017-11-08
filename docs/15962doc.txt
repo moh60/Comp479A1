@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5000" NEWID="15962">
+<DATE> 9-APR-1987 16:22:21.61</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2528&#31;reute
+r f BC-MEDIVIX-&lt;MEDX>-UNIT-I   04-09 0076</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MEDIVIX &lt;MEDX> UNIT IN PACT FOR MAIL ORDERS</TITLE>
+<DATELINE>    GARDEN CITY, N.Y., April 9 - </DATELINE><BODY>Medivix Inc said its American
+Subscription Plan Inc subsidiary signed a contract with 
+&lt;Midwest Benefits Corp> to provide mail order prescription
+services for employees of 300 companies.
+    Midwest acts as a third party administrator for the
+companies, Medivix said.
+    The company said it anticipates the new pact will generate
+substantial revenues during the next 12 months.
+ Reuter
+&#3;</BODY></TEXT>

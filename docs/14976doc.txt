@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="3959" NEWID="14976">
+<DATE> 8-APR-1987 09:34:58.43</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>italy</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;V
+&#22;&#22;&#1;f0926&#31;reute
+u f BC-CHRISTIAN-DEMOCRAT-MI   04-08 0106</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CHRISTIAN DEMOCRAT MINISTERS RESIGN</TITLE>
+<DATELINE>    ROME, April 8 - </DATELINE><BODY>Italy's majority Christian Democrats have
+handed in their resignation from the five-party government in
+which they are senior partners, Deputy Prime Minister Arnaldo
+Forlani said.
+    Forlani, president of the party, said he had handed a
+letter of resignation by the Christian Democrats, who make up
+more than half the 30 member cabinet, to the office of Prime
+Minister Bettino Craxi.
+    Political sources said the withdrawal of the Christian
+Democrats meant the coalition -- which also includes
+Republicans, Social Democrats and Liberals as well as the
+Socialists -- had collapsed.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11786" NEWID="6873">
+<DATE>18-MAR-1987 17:12:55.76</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f9574&#31;reute
+r f BC-SNYDER-&lt;SOI>-BUYS-STA   03-18 0045</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SNYDER &lt;SOI> BUYS STAKE IN CENERGY</TITLE>
+<DATELINE>    FORT WORTH, Texas, March 18 - </DATELINE><BODY>Snyder Oil Partners LP said
+it acquired 1.2 mln shares, or 12 pct, of Cenergy Corp.
+    It said it is continuing to review its investment  and has
+made no determination of its future course of action.
+ Reuter
+&#3;</BODY></TEXT>

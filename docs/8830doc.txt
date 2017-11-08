@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14351" NEWID="8830">
+<DATE>24-MAR-1987 11:48:16.33</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D><D>france</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1478&#31;reute
+r f BC-GNB-JOINS-IN-LEVERAGE   03-24 0056</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GNB JOINS IN LEVERAGED BUYOUT OF FRENCH UNIT</TITLE>
+<DATELINE>    MINNEAPOLIS, Minn., March 24 - </DATELINE><BODY>&lt;GNB Inc> said it joined
+with the management of the French company Compagnie Francaise
+d'Electro-Chimie to purchase the company for an undisclosed
+amount.
+    The French company, which produces lead-acid batteries, had
+sales in 1986 of 75 mln dlrs, GNB said.
+ Reuter
+&#3;</BODY></TEXT>

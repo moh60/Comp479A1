@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17126" NEWID="11065">
+<DATE>30-MAR-1987 16:11:45.14</DATE>
+<TOPICS><D>grain</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G
+&#22;&#22;&#1;f2493&#31;reute
+u f BC-REPORT-ON-EXPORT-MARK   03-30 0054</UNKNOWN>
+<TEXT>&#2;
+<TITLE>REPORT ON EXPORT MARKETS FOR U.S. GRAIN DELAYED</TITLE>
+<DATELINE>    WASHINGTON, March 30 - </DATELINE><BODY>The U.S. Agriculture Department's
+report on Export Markets for U.S. Grain, scheudled for release
+today, has been delayed until Wednesday, April 1, a department
+spokeswoman said.
+    No reason was given for the delay in releasing the monthly
+report.
+ Reuter
+&#3;</BODY></TEXT>

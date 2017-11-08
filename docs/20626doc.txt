@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="21221" NEWID="20626">
+<DATE>20-OCT-1987 15:24:31.53</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2926&#31;reute
+u f BC-LITTON-&lt;LIT>-RAISES-S   10-20 0065</UNKNOWN>
+<TEXT>&#2;
+<TITLE>LITTON &lt;LIT> RAISES SHARE BUYBACK LIMIT</TITLE>
+<DATELINE>    BEVERLY HILLS, Calif., Oct 20 - </DATELINE><BODY>Litton Industries Inc said
+its board authorized an increase in the maximum number of
+shares to be repurchased under its stock buyback program to 4.5
+mln from 2.5 mln.
+    The company said the board initially authorized the stock
+buyback in October 1985 and since then about two mln common
+shares have been repurchased.
+ Reuter
+&#3;</BODY></TEXT>

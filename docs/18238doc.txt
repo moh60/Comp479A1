@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7683" NEWID="18238">
+<DATE> 2-JUN-1987 15:24:11.70</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2431&#31;reute
+r f BC-AEGON-N.V.-&lt;AEGN.AS>   06-02 0110</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AEGON N.V. &lt;AEGN.AS> BUYS LIFE INVESTORS SHARES</TITLE>
+<DATELINE>    CEDAR RAPIDS, Iowa, June 2 - </DATELINE><BODY>AEGON U.S. Holding Corp, a
+unit of AEGON N.V. of the Netherlands, and Life Investors Inc
+&lt;LINV.O> said they have purchased about 451,000 shares of Life
+Investors common stock for 51.61 dlrs per share cash.
+    The purchase is part of an agreement between the two
+companies made in November 1981, saying that on or before each
+April 30 between 1983 and 1987 the companies would offer to buy
+one-sixth of the number of Life Investors' common stock
+outstanding as of Dec. 31, 1982, not already owned by AEGON.
+    On Dec. 31 1988 they would offer to buy any and all
+remaining shares.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4582" NEWID="15404">
+<DATE> 9-APR-1987 06:24:36.53</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0355&#31;reute
+u f BC-PERGAMON-HOLDINGS-RED   04-09 0111</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PERGAMON HOLDINGS REDUCES BPCC AND HOLLIS STAKES</TITLE>
+<DATELINE>    LONDON, April 9 - </DATELINE><BODY>&lt;Pergamon Holdings Ltd> and its associate
+companies said that they had sold 30 mln ordinary shares in the
+British Printing and Communication Corp Plc &lt;BPCL.L> and 10.5
+mln in &lt;Hollis Plc> together with other securities.
+    No total price was given but the company said the proceeds
+of the sales would be used to fund Pergamon's expansion
+programme and worldwide acquisition stategy. The company said
+that following these sales Pergamon's ordinary shareholdings in
+both BPCC and Hollis remained above 51 pct. It said it had no
+intention of further reducing its holdings in either company.
+ REUTER
+&#3;</BODY></TEXT>

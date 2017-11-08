@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15256" NEWID="9735">
+<DATE>26-MAR-1987 04:06:02.24</DATE>
+<TOPICS><D>interest</D></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0198&#31;reute
+f f BC-Danish-overnight-mone   03-26 0013</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE>Danish overnight money market rate cut to 10 pct from 10.5 - central bank
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

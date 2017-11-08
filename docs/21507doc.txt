@@ -1,0 +1,33 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="19929" NEWID="21507">
+<DATE>19-OCT-1987 07:30:11.26</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>japan</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f0595&#31;reute
+d f BC-TOYOTA,-VW-CONSIDER-U   10-19 0106</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TOYOTA, VW CONSIDER UPPING JOINT PROCUREMENT RATE</TITLE>
+<DATELINE>    TOKYO, Oct 19 - </DATELINE><BODY>Toyota Motor Corp &lt;TOYO.T> and Volkswagen
+AG &lt;VOWG.F> are considering raising the local procurement rate
+at their West German joint venture to at least 60 pct from an
+earlier planned 50 pct after one year's output, a Toyota
+spokesman said.
+    The two carmakers agreed last June to start jointly
+producing a Toyota-designed light truck at VW's Hanover plant
+from early 1989 at a rate of 7,000 to 8,000 the first year,
+rising to 15,000 from 1990.
+    They may equip the light truck with a Volkswagen-made
+engine to reach a local procurement rate of 60 pct, he said.
+
+    The two companies need to raise the value of locally
+procured parts to 60 pct to avoid tariffs when they export to
+other European markets, industry sources said.
+
+ REUTER
+&#3;</BODY></TEXT>

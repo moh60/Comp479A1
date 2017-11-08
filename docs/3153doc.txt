@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19575" NEWID="3153">
+<DATE> 9-MAR-1987 11:36:06.47</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0602&#31;reute
+u f BC-TWA-&lt;TWA>-DECLINES-CO   03-09 0094</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TWA &lt;TWA> DECLINES COMMENT ON USAIR &lt;U></TITLE>
+<DATELINE>    NEW YORK, March 9 - </DATELINE><BODY>A Transworld Airlines Inc official said
+the airline has no comment on USAir Group Inc's planned buyout
+of Piedmont Aviation Inc.
+    TWA, however, has pursued its application with the
+Department of Transportation for a takeover of USAir, according
+to Mark Buckstein, TWA general counsel and vice president. TWA
+filed a revised application today, following the DOT's
+rejection Friday of an incomplete application filed last week.
+    Earlier USAir said it agreed to buy Piedmont for 69 dlrs
+cash per share.
+&#3;</BODY></TEXT>

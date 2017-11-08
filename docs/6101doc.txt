@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11014" NEWID="6101">
+<DATE>17-MAR-1987 12:48:45.19</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f5809&#31;reute
+r f BC-AMERICAN-CYANAMID-&lt;AC   03-17 0084</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AMERICAN CYANAMID &lt;ACY> BUYS U.K. COMPANY</TITLE>
+<DATELINE>    WAYNE, N.J., March 17 - </DATELINE><BODY>American Cyanamid Co said it bought
+the 50 pct interest of Cyanamid Fothergill Ltd held by
+&lt;Fothergill and Harvey PLC>, making the unit a wholly owned
+subsidiary.
+    The unit manufactures structural materials, including
+advanced composites, adhesives, and aluminum honeycomb for the
+European space industry.
+    The current management will remain in place and the unit
+will continue at its locations in Wrexham, U.K., the company
+said.
+ Reuter
+&#3;</BODY></TEXT>

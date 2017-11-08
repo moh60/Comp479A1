@@ -1,0 +1,20 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6408" NEWID="18656">
+<DATE>18-JUN-1987 09:45:19.75</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>france</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS><D>ec</D></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G 
+&#22;&#22;&#1;f3079&#31;reute
+b f BC-NO-FRENCH-EXPORT-REQU   06-18 0032</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NO FRENCH EXPORT REQUESTS FOR EC CEREAL TENDER</TITLE>
+<DATELINE>    PARIS, June 18 - </DATELINE><BODY>French operators did not request any
+export licences at today's European Community weekly cereal
+tender, trade sources said.
+ Reuter
+&#3;</BODY></TEXT>

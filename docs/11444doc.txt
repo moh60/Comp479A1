@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17506" NEWID="11444">
+<DATE>31-MAR-1987 12:00:32.98</DATE>
+<TOPICS><D>crude</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE><D>james-baker</D></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;V RM
+&#22;&#22;&#1;f1655&#31;reute
+b f BC-/TREASURY'S-BAKER-SEE   03-31 0095</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TREASURY'S BAKER SEES REAGAN OPPOSING OIL TAX</TITLE>
+<DATELINE>    WASHINGTON, March 31 - </DATELINE><BODY>Treasury Secretary James Baker told
+the House Appropriations Committee that he believes the
+president remains opposed to an oil import fee.
+    He said Reagan last year rejected the idea and he added:
+    "In my personal view he is not likely to change his thinking
+on that."
+    He said Reagan last year opposed the idea because the
+energy industry was divided on the issue, a tax would require a
+new bureacracy to administer and the resulting higher energy
+prices would harm U.S. competitiveness.
+ Reuter
+&#3;</BODY></TEXT>

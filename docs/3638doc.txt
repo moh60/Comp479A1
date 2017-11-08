@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="8551" NEWID="3638">
+<DATE>11-MAR-1987 10:24:04.94</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A RM
+&#22;&#22;&#1;f0250&#31;reute
+r f BC-MICROPOLIS-&lt;MLIS>-SEL   03-11 0096</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MICROPOLIS &lt;MLIS> SELLS CONVERTIBLE DEBENTURES</TITLE>
+<DATELINE>    NEW YORK, March 11 - </DATELINE><BODY>Micropolis Corp is raising 75 mln dlrs
+via an offering of convertible subordinated debentures due 2012
+with a six pct coupon and par pricing, said lead manager
+Kidder, Peabody and Co Inc.
+    The debentures are convertible into the company's common
+stock at 48.50 dlrs per share, representing a premium of 23.6
+pct over the stock price when terms on the debt were set.
+    Non-callable for two years, the issue is rated B-minus by
+Standard and Poor's. Robertson, Colman and Stephens co-managed
+the deal.
+ Reuter
+&#3;</BODY></TEXT>

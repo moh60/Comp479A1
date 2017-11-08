@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5033" NEWID="15995">
+<DATE> 9-APR-1987 16:50:05.23</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2627&#31;reute
+r f BC-JACOR-&lt;JCOR>-TO-BUY-T   04-09 0059</UNKNOWN>
+<TEXT>&#2;
+<TITLE>JACOR &lt;JCOR> TO BUY TWO DENVER RADIO STATIONS</TITLE>
+<DATELINE>    CINCINNATI, April 9 - </DATELINE><BODY>Jacor Communications Inc said it
+agreed to buy two Denver radio stations from A.H. Belo Corp
+&lt;BLC> for 24 mln dlrs in cash and notes.
+    Jacor said the two stations are KOA-AM and KOAQ-FM.
+    The acquisitions must be approved by the Federal
+Communications Commission, Jacor added.
+ Reuter
+&#3;</BODY></TEXT>

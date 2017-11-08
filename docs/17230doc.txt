@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="NOT-USED" CGISPLIT="PUBLISHED-TESTSET" OLDID="21852" NEWID="17230">
+<DATE>27-APR-1987 02:30:57.13</DATE>
+<TOPICS><D>money-fx</D><D>dlr</D></TOPICS>
+<PLACES><D>japan</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0077&#31;reute
+b f BC-BANK-OF-JAPAN-INTERVE   04-27 0075</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BANK OF JAPAN INTERVENES IN TOKYO</TITLE>
+<DATELINE>    TOKYO, April 27 - </DATELINE><BODY>The Bank of Japan intervened in the
+market, buying a moderate amount of dollars around 137.80-85
+yen, dealers said.
+    Some dealers noted talk that the Bundesbank intervened here
+directly buying dollars against marks, after reports that it
+intervened through the Bank of Japan in the morning.
+    The dollar moved up on short-covering aided by the central
+bank intervention, they said.
+ REUTER
+&#3;</BODY></TEXT>

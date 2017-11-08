@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12937" NEWID="753">
+<DATE> 2-MAR-1987 16:06:20.44</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D><D>japan</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0986&#31;reute
+r f BC-WESTINGHOUSE-&lt;WX>,-MA   03-02 0091</UNKNOWN>
+<TEXT>&#2;
+<TITLE>WESTINGHOUSE &lt;WX>, MATSUSHITA &lt;MC> SET VENTURE</TITLE>
+<DATELINE>    PITTSBURGH, March 2 - </DATELINE><BODY>Westinghouse Electric Corp said it
+agreed in principle to form a joint venture in factory
+automation with Matsushita Electric Industrial Co Ltd of Japan.
+    The company said the venture aims to combine Matsushita's
+experience in high-volume electronics manufacturing and
+Westinghouse's knowledge of computer integrated manufacturing.
+    The venture will design, sell and service automated
+manufacturing systems, and is expected to begin operations by
+the summer, it added.
+ Reuter
+&#3;</BODY></TEXT>

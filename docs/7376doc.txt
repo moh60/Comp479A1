@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12289" NEWID="7376">
+<DATE>19-MAR-1987 15:26:58.27</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A RM
+&#22;&#22;&#1;f2243&#31;reute
+u f BC-FLEET-FINANCIAL-&lt;FLT>   03-19 0109</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FLEET FINANCIAL &lt;FLT> MAY BE UPGRADED BY MOODY'S</TITLE>
+<DATELINE>    NEW YORK, March 19 - </DATELINE><BODY>Moody's Investors Service Inc said it
+may upgrade Fleet Financial Group's 1.1 billion dlrs of debt.
+    Moody's cited Fleet's announced merger with Norstar Bancorp
+Inc &lt;NOR>. The rating agency said it will examine the degree to
+which the combined entity would have a more diversified
+earnings stream, balanced funding structure and enhanced equity
+base.
+    Fleet Financial has A-1 senior debt and preferred stock,
+A-2 subordinated debt and Provisional A-1 shelf registered
+securities. Moody's said Norstar's ratings have been under
+review for possible downgrade since February 23.
+ Reuter
+&#3;</BODY></TEXT>

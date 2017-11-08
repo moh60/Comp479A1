@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6002" NEWID="17664">
+<DATE> 1-JUN-1987 13:27:15.85</DATE>
+<TOPICS><D>coffee</D><D>cocoa</D></TOPICS>
+<PLACES><D>togo</D><D>france</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C T
+&#22;&#22;&#1;f1858&#31;reute
+r f BC-FRENCH-AID-TO-TOGO-TO   06-01 0046</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FRENCH AID TO TOGO TO HELP COFFEE, COCOA TREES</TITLE>
+<DATELINE>    LOME, June 1 - </DATELINE><BODY>France is to provide Togo with 475 mln cfa
+francs of aid for a range of projects that include development
+of the coffee and cocoa industries and reafforestation in the
+south of the country, official sources said.
+ Reuter
+&#3;</BODY></TEXT>

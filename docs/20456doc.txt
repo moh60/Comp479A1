@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="21051" NEWID="20456">
+<DATE>20-OCT-1987 13:30:32.45</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>norway</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM 
+&#22;&#22;&#1;f2400&#31;reute
+u f BC-DEN-NORSKE-CREDITBANK   10-20 0064</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DEN NORSKE CREDITBANK PROFIT RISES IN EIGHT MONTHS</TITLE>
+<DATELINE>    OSLO, Oct 20 - Eight months to August 31 -
+    </DATELINE><BODY>Ordinary net profit after provisions for losses and taxes
+300 mln vs 203 mln
+    Group operating profit before loan loss provisions 875 mln
+crowns vs 986 mln
+    Total assests 132.0 billion crowns vs 107.6 billion
+    Note - Full company name is Den Norske Creditbank &lt;NCBO.OL>
+ REUTER
+&#3;</BODY></TEXT>

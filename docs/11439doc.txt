@@ -1,0 +1,20 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17501" NEWID="11439">
+<DATE>31-MAR-1987 11:57:40.44</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>amex</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1645&#31;reute
+r f BC-OXFORD-ENERGY-&lt;OEN>-S   03-31 0033</UNKNOWN>
+<TEXT>&#2;
+<TITLE>OXFORD ENERGY &lt;OEN> STARTS TRADING ON AMEX</TITLE>
+<DATELINE>    NEW YORK, March 31 - </DATELINE><BODY>The &lt;American Stock Exchange> said it
+has started trading the common stock of Oxford Energy Co, which
+had traded on the NASDAQ system.
+ Reuter
+&#3;</BODY></TEXT>

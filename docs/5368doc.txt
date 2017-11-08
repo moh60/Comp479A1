@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10281" NEWID="5368">
+<DATE>16-MAR-1987 10:14:37.08</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>west-germany</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A
+&#22;&#22;&#1;f2138&#31;reute
+d f BC-NO-FEDERATION-BANK-SE   03-16 0094</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NO FEDERATION BANK SEEN INVOLVED IN VW AFFAIR</TITLE>
+<DATELINE>    BONN, March 16 - </DATELINE><BODY>Hanns Christian Schroeder-Hohenwarth,
+President of the West German Federation of Banks, said that as
+far as he knew no member bank of the Federation was involved in
+activities which led to currency losses of some 480 mln marks
+for Volkswagen AG &lt;VOWG.F>, VW.
+    VW has said fraudulent currency manipulation possibly led
+to the losses.
+    The Federation of Banks includes all the major West German
+commercial banks. Schroeder-Hohenwarth was speaking at a news
+conference after a Federation meeting.
+ Reuter
+&#3;</BODY></TEXT>

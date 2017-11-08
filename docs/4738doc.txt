@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9651" NEWID="4738">
+<DATE>13-MAR-1987 08:23:13.84</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G T M
+&#22;&#22;&#1;f0653&#31;reute
+u f BC-LIBERALS-HOLD-TRURO-I   03-13 0108</UNKNOWN>
+<TEXT>&#2;
+<TITLE>LIBERALS HOLD TRURO IN U.K. BY-ELECTION</TITLE>
+<DATELINE>    LONDON, March 13 - </DATELINE><BODY>The Liberal party easily won the Truro
+by-election with almost twice as many votes as its nearest
+rival, the Press Association news agency reported.
+    The poll in the South-West of England constituency was
+called after the death of the previous member of parliament,
+also a member of the Liberal party.
+    Matthew Taylor raised the Liberal majority by winning
+30,599 votes. Conservative Nicholas St Aubyn was second with
+15,982 while Labour candidate John King polled 3,603.
+    The last by-election, in the London suburb of Greenwich,
+was won by the Social Democrat-Liberal alliance.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9299" NEWID="4386">
+<DATE>12-MAR-1987 13:35:48.41</DATE>
+<TOPICS><D>crude</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;Y
+&#22;&#22;&#1;f0972&#31;reute
+r f BC-POWERINE-REFINERY-TO   03-12 0084</UNKNOWN>
+<TEXT>&#2;
+<TITLE>POWERINE REFINERY TO RESUME OPERATIONS</TITLE>
+<DATELINE>    SANTA FE SPRINGS, CALIF, March 12 - </DATELINE><BODY>&lt;Powerine Oil Co> said
+its refinery here will resume operation today, with initial
+crude oil runs of 20,000 barrels per day.
+    Powerine, a privately-held company, said it expects the
+refinery to become fully operational by May, with crude oil
+throughput at 35,000 bpd.
+    Initial oil products deliveries are scheduled for Monday,
+Powerine said. The refinery had been closed due to a change of
+ownership, the company said.
+ Reuter
+&#3;</BODY></TEXT>

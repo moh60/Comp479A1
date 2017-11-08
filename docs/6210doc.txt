@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11123" NEWID="6210">
+<DATE>17-MAR-1987 14:56:12.81</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f6268&#31;reute
+d f BC-SIMMONS-&lt;SIMM>-FEBRUA   03-17 0055</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SIMMONS &lt;SIMM> FEBRUARY LOAD FACTOR DECLINES</TITLE>
+<DATELINE>    CHICAGO, March 17 - </DATELINE><BODY>Simmons Airlines Inc said its load
+factor for February declines to 41.8 pct from 46.1 pct a year
+ago.
+    Traffic increased 31.3 pct to 15 mln revenue passenger
+miles from 11.4 mln, while capacity increased 45.1 pct to 35.8
+mln available seat miles from 24.7 mln.
+ Reuter
+&#3;</BODY></TEXT>

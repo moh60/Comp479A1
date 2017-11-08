@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16540" NEWID="1220">
+<DATE> 3-MAR-1987 13:31:26.89</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0348&#31;reute
+r f BC-BUTLER-&lt;BTLR>-TO-SELL   03-03 0091</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BUTLER &lt;BTLR> TO SELL PART OF UNIT</TITLE>
+<DATELINE>    KANSAS CITY, Mo., March 3 - </DATELINE><BODY>Butler Manufacturing Co said it
+agreed in principal to sell part of its controls division to
+Enercon Data Corp of Minneapolis.
+    Terms of the sale were not disclosed.
+    The transaction, expected to be closed in March, involves
+the controls division's energy management and power line
+carrier product lines.
+    Butler said costs associated with the sale were included in
+its restructuring charge taken in last year's fourth quarter,
+and will have no effect on its 1987 earnings.
+ Reuter
+&#3;</BODY></TEXT>

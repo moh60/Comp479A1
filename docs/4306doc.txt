@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9219" NEWID="4306">
+<DATE>12-MAR-1987 11:59:57.07</DATE>
+<TOPICS><D>jobs</D></TOPICS>
+<PLACES><D>spain</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0551&#31;reute
+r f BC-SPANISH-UNEMPLOYMENT   03-12 0056</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SPANISH UNEMPLOYMENT RISES IN FEBRUARY</TITLE>
+<DATELINE>    MADRID, March 12 - </DATELINE><BODY>The number of Spanish registered
+unemployed rose by 15,608 to 2.98 mln or 21.5 pct of the
+workforce in January in the sixth consecutive monthly increase,
+the Labour Ministry said.
+    Registered unemployed totalled 2.81 mln or 21.1 pct of the
+workforce in February 1986.
+ REUTER
+&#3;</BODY></TEXT>

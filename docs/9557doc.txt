@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15078" NEWID="9557">
+<DATE>25-MAR-1987 15:41:19.13</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2263&#31;reute
+r f BC-HELM-&lt;H>-SELLS-ADDITI   03-25 0087</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HELM &lt;H> SELLS ADDITIONAL SHARES IN BAMBERGER</TITLE>
+<DATELINE>    NEW YORK, March 25 - </DATELINE><BODY>Helm Resources Inc said that, pursuant
+to the exercise of an overallotment option by underwriters in
+Bamberger Polymers INc's initial public offering, it has sold
+another 35,000 Bamberger shares and reduced its ownership in
+Bamberger to 51 pct from 55 pct.
+    To date, Helm has sold 435,000 Bamberger's for 3.5 mln
+dlrs.
+    Bamberger has sold a total of 600,000 shares and received
+net proceeds of about 4.8 mln dlrs since the February 1987
+offering.
+ Reuter
+&#3;</BODY></TEXT>

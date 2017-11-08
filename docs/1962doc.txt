@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18380" NEWID="1962">
+<DATE> 5-MAR-1987 06:42:23.96</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>uk</D><D>chile</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0643&#31;reute
+u f BC-STRONG-EARTHQUAKE-REP   03-05 0054</UNKNOWN>
+<TEXT>&#2;
+<TITLE>STRONG EARTHQUAKE REPORTED IN NORTHERN CHILE</TITLE>
+<DATELINE>    TOKYO, March 5 - </DATELINE><BODY>A strong earthquake measuring an estimated
+8.0 on the open-ended Richter scale hit northern Chile around
+0936, the Meteorological Agency here reported.
+    The agency said the information had been received from
+Honolulu.
+    It gave no further details.
+ REUTER
+&#3;</BODY></TEXT>

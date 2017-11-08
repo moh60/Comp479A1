@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="8234" NEWID="19906">
+<DATE>29-JUN-1987 16:32:57.60</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2498&#31;reute
+r f BC-FORTUNE-SYSTEMS-&lt;FSYS   06-29 0065</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FORTUNE SYSTEMS &lt;FSYS.O> APPROVES UNIT SALE</TITLE>
+<DATELINE>    BELMONT, Calif., June 29 - </DATELINE><BODY>Fortune Systems Corp said its
+shareholders approved the sale of its computer hardware
+business to SCI Technologies Inc.
+    The transaction is expected to close this week.
+    At its annual meeting, Fortune said shareholders also voted
+to change Fortune's name to Tigera Inc. Its principal
+subsidiary is Tigeral Corp.
+ Reuter
+&#3;</BODY></TEXT>

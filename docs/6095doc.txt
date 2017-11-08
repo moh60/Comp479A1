@@ -1,0 +1,32 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11008" NEWID="6095">
+<DATE>17-MAR-1987 12:43:08.35</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f5783&#31;reute
+d f BC-SEARS-&lt;S>-SETTLED-TO   03-17 0095</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SEARS &lt;S> SETTLED TO AVOID FURTHER LEGAL COSTS</TITLE>
+<DATELINE>    CHICAGO, March 17 - </DATELINE><BODY>Sears Roebuck and Co, said it reached
+an out-of-court settlement with the Federal Trade Commission
+over the labeling of some down-filled garments sold in 1978 "to
+avoid further legal expenses."
+    In a statement, Michael Bozic, chairman of Sears
+Merchandise Group, said "As part of the voluntary corrective
+program, Sears removed 75 mln dlrs worth of down-filled
+merchandise from sale prior to the FTC investigation, retested
+and where necessary, relabeled goods and nationally offered a
+full refund."
+    Sears said it was "the only retailer to take extensive
+steps to protect consumers, despite the fact that down-labeling
+discrepancies were industry-wide in 1978."
+    Both Sears and Kellwood Co, a Sears supplier, agreed to pay
+penalties of 200,000 dlrs each to settle the charges.
+ Reuter
+&#3;</BODY></TEXT>

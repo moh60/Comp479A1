@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7636" NEWID="18191">
+<DATE> 2-JUN-1987 14:09:42.51</DATE>
+<TOPICS><D>pet-chem</D></TOPICS>
+<PLACES><D>usa</D><D>thailand</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2145&#31;reute
+r f BC-FMC-CORP-&lt;FMC>-IN-PER   06-02 0080</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FMC CORP &lt;FMC> IN PEROXIDE VENTURE</TITLE>
+<DATELINE>    PHILADELPHIA, June 2 - </DATELINE><BODY>FMC Corp said it has entered into an
+equally owned joint venture with Indo-Thai Synthetics called
+Thai Peroxide Co Ltd to build a hydrogen peroxide plant with an
+initial capacity of 5,000 metric tonnes of 100 pct peroxide
+north of Bangkok.
+    The company said the plant is expected to starft operating
+by the fourth quarter of 1988.  It said the venture received
+grants and incentives from the government of Thailand.
+ Reuter
+&#3;</BODY></TEXT>

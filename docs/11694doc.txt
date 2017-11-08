@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17756" NEWID="11694">
+<DATE>31-MAR-1987 16:34:40.97</DATE>
+<TOPICS><D>ship</D><D>grain</D><D>wheat</D></TOPICS>
+<PLACES><D>usa</D><D>honduras</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G
+&#22;&#22;&#1;f2651&#31;reute
+r f BC-HONDURAS-SEEKING-VESS   03-31 0087</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HONDURAS SEEKING VESSELS FOR BULK WHEAT SHIPMENT</TITLE>
+<DATELINE>    WASHINGTON, March 31 - </DATELINE><BODY>Honduras will tender April 2 for
+U.S. and non-U.S. flag vessels to import 19,369 tonnes of wheat
+in bulk, an agent for the country said.
+    The agent said Honduras is seeking vessels to deliver 
+7,369 tonnes during a period that includes laydays of April
+15-30, and 12,000 tonnes with laydays of May 15-30.
+    Offers are due no later than 1200 hrs EST, April 2, and
+will remain valid through the close of business the following
+day, the agent said.
+ Reuter
+&#3;</BODY></TEXT>

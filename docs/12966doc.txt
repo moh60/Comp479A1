@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="1935" NEWID="12966">
+<DATE> 3-APR-1987 11:59:19.61</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F A
+&#22;&#22;&#1;f1482&#31;reute
+d f BC-ENSERCH-&lt;ENS>-TO-REDE   04-03 0050</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ENSERCH &lt;ENS> TO REDEEM DEBENTURES</TITLE>
+<DATELINE>    DALLAS, APril 3 - </DATELINE><BODY>Enserch Corp said it called for
+redemption on May 4, 1987, all of its outstanding 16-3/4 pct
+sinking fund debentures due 2007.
+   The redemption is pursuant to the optional redemption
+provisions of the indenture at a price of 111.981 pct of part.
+ Reuter
+&#3;</BODY></TEXT>

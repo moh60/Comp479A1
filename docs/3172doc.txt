@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19594" NEWID="3172">
+<DATE> 9-MAR-1987 11:56:26.91</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0690&#31;reute
+d f BC-LIFE-TECHNOLOGIES-&lt;LT   03-09 0097</UNKNOWN>
+<TEXT>&#2;
+<TITLE>LIFE TECHNOLOGIES &lt;LTEK> IN LICENSING AGREEMENT</TITLE>
+<DATELINE>    GAITHERSBURG, Md., March 9 - </DATELINE><BODY>Life Technologies Inc said it
+signed a two mln dlr technology transfer and licensing
+agreement with Toray Industries Inc, a Tokyo-based maker of 
+synthetic fibers and industrial, consumer and medical products.
+    Under terms of the agreement, Life said Toray purchased
+exclusive rights to market Life's hepatitus B detection
+technology in Japan, Korea and Taiwan.
+    Moreover, Life said the companies agreed to begin a joint
+research and development program to develop other human
+diagnostic products.
+ Reuter
+&#3;</BODY></TEXT>

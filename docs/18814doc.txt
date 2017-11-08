@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6566" NEWID="18814">
+<DATE>18-JUN-1987 12:50:28.69</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f3904&#31;reute
+r f BC-DOSKOCIL-&lt;DOSK.O>-REP   06-18 0043</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DOSKOCIL &lt;DOSK.O> REPURCHASES SHARES</TITLE>
+<DATELINE>    HUTCHINSON, Kan., June 18 - </DATELINE><BODY>Doskocil Cos Inc said it has
+repurchased 310,000 of its common shares, or about five pct,
+for undisclosed terms and its board has authorized the further
+repurchase of another 200,000 shares.
+ Reuter
+&#3;</BODY></TEXT>

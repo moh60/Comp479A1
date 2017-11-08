@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19722" NEWID="3300">
+<DATE> 9-MAR-1987 14:38:46.35</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0360&#31;reute
+d f BC-PITNEY-BOWES-&lt;PBI>-UN   03-09 0091</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PITNEY BOWES &lt;PBI> UNIT TO MARKET SUDBURY SYSTEM</TITLE>
+<DATELINE>    RYE, N.Y., March 9 - </DATELINE><BODY>Pitney Bowes Inc's Dictaphone Corp
+subsidiary said it has contracted the exclusive right to sell
+&lt;Sudbury Systems Inc>'s RTAS digital dictation system in
+medical markets in the United States.
+    Inaddition, Dictaphone said, it will market RTAS in
+non-medical marekts on a non-exclusive basis. RTAS is a
+centralized system which provides users with 24-hour instant
+access to dictated reports from any remote location. Dictaphone
+has been selling the RTAS system since 1984.
+ Reuter
+&#3;</BODY></TEXT>

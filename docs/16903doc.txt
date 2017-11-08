@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1438" NEWID="16903">
+<DATE>17-APR-1987 15:22:40.82</DATE>
+<TOPICS><D>money-fx</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;V RM
+&#22;&#22;&#1;f0405&#31;reute
+b f BC-/WHITE-HOUSE-SAYS-U.S   04-17 0103</UNKNOWN>
+<TEXT>&#2;
+<TITLE>WHITE HOUSE SAYS U.S. MONETARY POLICY CORRECT</TITLE>
+<DATELINE>    SANTA BARBARA, Calif, April 17 - </DATELINE><BODY>The White House,
+distancing itself from remarks by the administration's budget
+chief, said the Federal Reserve's current course of monetary
+policy was appropriate.
+    "The administration feels that the current course of
+monetary policy is appropriate," White House spokesman Marlin
+Fitwater said.
+    Fitzwater said the administration did not endorse remarks
+by White House budget chief James Miller, who said he was
+concerned the Federal Reserve might overreact to the decline in
+the value of the U.S. dollar by raising interest rates.
+ More
+&#3;</BODY></TEXT>

@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="365" NEWID="12137">
+<DATE> 1-APR-1987 13:21:32.53</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1850&#31;reute
+r f BC-MICHAELS-STORES-&lt;MKE>   04-01 0051</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MICHAELS STORES &lt;MKE> MARCH SALES RISE</TITLE>
+<DATELINE>    IRVING, Texas, April 1 - </DATELINE><BODY>Michaels Stores Inc said March
+sales were up 19.2 pct to 7,823,000 dlrs from 6,564,000 dlrs a
+year earlier, with same-store sales up 2.7 pct.
+    The company noted that Easter sales fell in March last year
+and are falling in April this year.
+ Reuter
+&#3;</BODY></TEXT>

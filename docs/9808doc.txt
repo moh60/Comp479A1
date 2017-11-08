@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15329" NEWID="9808">
+<DATE>26-MAR-1987 08:25:30.34</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0765&#31;reute
+r f BC-HOLIDAY-&lt;HIA>-SEES-RU   03-26 0104</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HOLIDAY &lt;HIA> SEES RULING NEXT WEEK ON PLAN</TITLE>
+<DATELINE>    MEMPHIS, Tenn., March 26 - </DATELINE><BODY>Holiday Corp said the New Jersey
+Casino Control Commission will rule April One on the company's
+request for approval to proceed with its plan of
+recapitalization.
+    The Commission ruling is the final regulatory approval
+needed.  The company said talks are proceeding smoothly with
+its banks, and it plans to finalize the financing for the
+recapitalization shortly.  It said assuming Commission
+approval, it plans to pay the 65 dlr per share dividend
+associated with the plan in April, with the exact timing
+depending on the closing of the financing.
+ Reuter
+&#3;</BODY></TEXT>

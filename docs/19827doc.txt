@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="8155" NEWID="19827">
+<DATE>29-JUN-1987 14:35:48.76</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2150&#31;reute
+w f BC-PRIME-COMPUTER-&lt;PRM>   06-29 0061</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PRIME COMPUTER &lt;PRM> WINS CONTRACT</TITLE>
+<DATELINE>    NATICK, MASS., June 29 - </DATELINE><BODY>Prime Computer Inc said it
+received an order from the Philadelphia board of education for
+more than 8.0 mln dlrs of advanced computer equipment and
+software for automating its administrative and student
+accounting systems.
+    The systems, designed and manufactured by Prime, were
+introduced in April.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19135" NEWID="2717">
+<DATE> 6-MAR-1987 12:23:47.98</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A RM F
+&#22;&#22;&#1;f0806&#31;reute
+r f BC-MOODY'S-MAY-DOWNGRADE   03-06 0103</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MOODY'S MAY DOWNGRADE SERVICE MERCHANDISE &lt;SMCH></TITLE>
+<DATELINE>    NEW YORK, March 6 - </DATELINE><BODY>Moody's Investors Service Inc said it
+may downgrade Service Merchandise Co's 300 mln dlrs of Ba-2
+senior subordinated notes.
+    The rating agency said it had anticipated that Service
+Merchandise would be able to achieve better operating results
+than it actually did in fiscal 1986.
+    Moody's said it would assess future prospects for the
+company, as well as for the whole catalogue showroom industry.
+The agency will also examine the effects of recent acquisitions
+on Service Merchandise's operating results, financial structure
+and cash flow.
+ Reuter
+&#3;</BODY></TEXT>

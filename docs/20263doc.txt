@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20858" NEWID="20263">
+<DATE>20-OCT-1987 10:44:31.45</DATE>
+<TOPICS><D>money-fx</D><D>interest</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;V RM 
+&#22;&#22;&#1;f1370&#31;reute
+b f BC-/-FED-EXPECTED-TO-ADD   10-20 0098</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FED EXPECTED TO ADD RESERVES VIA CUSTOMER RPS</TITLE>
+<DATELINE>    NEW YORK, Oct 20 - </DATELINE><BODY>The Federal Reserve is expected to enter
+the government securities market to add reserves via customer
+repurchase agreements, economists said.
+    They expected the amount to total around 1.5 billion to two
+billion dlrs.
+    Economists added that the low rate on federal funds
+indicates the Fed is unlikely to add funds agressively through
+overnight system repurchases, unless it feels the need to calm
+volatile financial markets.
+    Federal funds were trading at 7-1/8 pct, down from
+yesterday's average of 7.61 pct.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11472" NEWID="6559">
+<DATE>18-MAR-1987 11:34:20.59</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f8339&#31;reute
+r f BC-VISTA-CHEMICAL-&lt;VC>-S   03-18 0097</UNKNOWN>
+<TEXT>&#2;
+<TITLE>VISTA CHEMICAL &lt;VC> SEES YEAR NET HIGHER</TITLE>
+<DATELINE>    NEW YORK, March 18 - </DATELINE><BODY>Vista Chemical co said it expects
+earnings for the year ending September 30 to be up
+substantially, but extensive planned downtime at two of its
+plants is expected to affect third quarter results.
+    It said it is looking at a number of financial options for
+increasing shareholder value but did not elaborate.
+    The company earned 30.2 mln dlrs or 1.66 dlrs per share
+before an extraordinary item in fiscal 1986.
+    Vista said sales for the year are expected to be
+"comparable" to fiscal 1986's 550.1 mln dlrs.
+ Reuter
+&#3;</BODY></TEXT>

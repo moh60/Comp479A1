@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="8132" NEWID="19804">
+<DATE>29-JUN-1987 14:01:58.23</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2048&#31;reute
+r f BC-CONTROL-DATA-&lt;CDA>-GE   06-29 0094</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CONTROL DATA &lt;CDA> GETS 13.7 MLN DLR CONTRACT</TITLE>
+<DATELINE>    MINNEAPOLIS, June 29 - </DATELINE><BODY>Control Data Corp said the
+Aeronautical Systems Division of the U.S. Air Force awarded it
+a 13.7 mln dlr contract to provide a Central Datacomm System.
+    It said the system will act as the central interface
+between numerous user organizations and the division's
+Information Systems and Technology Center at Wright-Patterson
+Air Force Base in Ohio.
+    Terms of the five-year, two-phase contract call for Control
+Data to supply equipment, software, maintenance, training and
+support services.
+ Reuter
+&#3;</BODY></TEXT>

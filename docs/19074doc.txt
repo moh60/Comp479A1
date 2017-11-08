@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6910" NEWID="19074">
+<DATE>19-JUN-1987 06:12:09.87</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>switzerland</D><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f0391&#31;reute
+u f BC-CIBA-GEIGY-BUYS-MINOR   06-19 0098</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CIBA-GEIGY BUYS MINORITY STAKE IN UK CROP FIRM</TITLE>
+<DATELINE>    BASLE, Switzerland, June 19 - </DATELINE><BODY>Ciba-Geigy AG &lt;CIGZ.Z> said
+it acquired a minority stake in British cereal breeding company
+&lt;New Farm Crops Ltd>.
+    It said in a statement the British company's skills in
+applied plant breeding would assist Ciba-Geigy in applying the
+results of its biotechnology research and enable it to extend
+its activities in seeds to crops such as wheat and barley.
+    New Farm Crops of Horncastle, Lincolnshire, will have
+access to Ciba-Geigy's agricultural research resources,
+especially in biotechnology.
+ REUTER
+&#3;</BODY></TEXT>

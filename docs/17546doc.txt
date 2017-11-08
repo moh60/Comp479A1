@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5884" NEWID="17546">
+<DATE> 1-JUN-1987 10:26:23.22</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1121&#31;reute
+d f BC-HOUSE-OF-FABRICS-PROJ   06-01 0082</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HOUSE OF FABRICS PROJECTS GAINS IN FISCAL 1988</TITLE>
+<DATELINE>    SHERMAN OAKS, Calif., June 1 - </DATELINE><BODY>House of Fabrics Inc &lt;HF>
+said it expects further modest gains in revenues for fiscal
+year ending January 31, 1988.
+    In fiscal 1987, the company's revenues were 316.4 mln dlrs
+compared to 286.7 mln dlrs the previous fiscal year ending
+January 31.
+    House of Fabrics President and Chief executive, Gary
+Larkins, said the company will be aggressively promoting sales
+while applying tighter inventory controls.
+ Reuter
+&#3;</BODY></TEXT>

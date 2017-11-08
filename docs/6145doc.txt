@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11058" NEWID="6145">
+<DATE>17-MAR-1987 13:40:50.75</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f6022&#31;reute
+u f BC-CONSOLIDATED-OIL-&lt;CGS   03-17 0054</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CONSOLIDATED OIL &lt;CGS> TO ISSUE NEWS SHORTLY</TITLE>
+<DATELINE>    DENVER, March 17 - </DATELINE><BODY>Consolidated Oil and Gas Inc and
+Consolidated Energy Partners LP &lt;CPS>, whose stocks are halted
+on the American Stock Exchange, said they will issue news
+releases shortly.
+    A spokesman for the companies declined to comment on why
+the stocks had been halted.
+ Reuter
+&#3;</BODY></TEXT>

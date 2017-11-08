@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20737" NEWID="20142">
+<DATE>20-OCT-1987 09:03:48.31</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f0907&#31;reute
+r f BC-COMPUTER-MEMORIES-&lt;CM   10-20 0086</UNKNOWN>
+<TEXT>&#2;
+<TITLE>COMPUTER MEMORIES &lt;CMIN.O> TO DELAY MERGER</TITLE>
+<DATELINE>    CHATSWORTH, Calif., Oct 20 - </DATELINE><BODY>Computer Memories Inc said its
+board has decided to take additional time to evaluate the
+impact of litigation on the proposed acquisition of &lt;Hemdale
+Film Corp>.
+    Computer Memories said it plans to adjourn its annual
+shareholders meeting, scheduled for October 23, after it is
+convened. One purpose of the meeting is to consider the
+transaction, the company explained.
+    Computer Memories said Hemdale agrees with this course of
+action.
+   
+ Reuter
+&#3;</BODY></TEXT>

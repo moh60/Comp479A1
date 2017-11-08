@@ -1,0 +1,31 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14944" NEWID="9423">
+<DATE>25-MAR-1987 12:41:37.55</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1696&#31;reute
+u f BC-UAL-&lt;UAL>-SAID-TRUMP   03-25 0113</UNKNOWN>
+<TEXT>&#2;
+<TITLE>UAL &lt;UAL> SAID TRUMP TALKED WITH UAL CHAIRMAN</TITLE>
+<DATELINE>    New York, March 25 - </DATELINE><BODY>Real estate magnate Donald Trump told
+UAL Inc Chairman Richard Ferris that he was interested in UAL
+stock as an investment, according to a UAL executive.
+    Trump, who was unavailable for comment, is believed by
+market sources to have a sizeable position in UAL, which he
+began accumulating several weeks ago. UAL stock today was up
+three at 63 in active trading.
+    "They (ferris and Trump) talked last week. Apparently,
+Trump said he was interested in it as an investment. He didn't
+say how much stock he had. He didn't say what he would or
+wouldn't do about it," said UAL senior vice president Kurt
+Stocker.
+    Trump is believed to have close to five pct of UAL's stock,
+market sources said.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="326" NEWID="12098">
+<DATE> 1-APR-1987 12:45:26.48</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1714&#31;reute
+h f BC-CONOLOG-CORP-&lt;CNLG>-2   04-01 0043</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CONOLOG CORP &lt;CNLG> 2ND QTR JAN 31 NET</TITLE>
+<DATELINE>    SOMERVILLE, N.J., April 1 - 
+    </DATELINE><BODY>Shr two cts vs two cts
+    Net 69,831 vs 107,773
+    Revs 1,068,905 vs 2,401,518
+    Six mths
+    Shr three cts vs three cts
+    Net 129,649 vs 155,089
+    Revs 2,673,141 vs 4,666,104
+ Reuter
+&#3;</BODY></TEXT>

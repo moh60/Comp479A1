@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11191" NEWID="6278">
+<DATE>17-MAR-1987 16:28:35.23</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f6536&#31;reute
+d f BC-OXFORD-FINANCIAL-BUYS   03-17 0060</UNKNOWN>
+<TEXT>&#2;
+<TITLE>OXFORD FINANCIAL BUYS CLANCY SYSTEMS</TITLE>
+<DATELINE>    DENVER, March 17 - </DATELINE><BODY>&lt;Oxford Financial Inc> said it acquired
+&lt;Clancy Systems International Inc> for an undisclosed sum.
+    The company said Clancy has developed a fully automated
+parking citation system, currently in use in Oklahoma City, the
+University of California at Sacramento, and in a pilot program
+in San Francisco.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6889" NEWID="19053">
+<DATE>19-JUN-1987 04:25:41.52</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>japan</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f0232&#31;reute
+u f BC-ISUZU-MOTORS-LTD-&lt;ISU   06-19 0066</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ISUZU MOTORS LTD &lt;ISUM.T> SIX MONTHS TO APRIL 30</TITLE>
+<DATELINE>    TOKYO, June 19 -
+    </DATELINE><BODY>Parent shr loss 15.85 yen vs profit 2.02
+    Interim div nil vs nil
+    Net loss 12.92 billion vs profit 1.65 billion
+    Current loss 12.52 billion vs profit 4.44 billion
+    Operating loss 8.76 billion vs profit 6.52 billion
+    Sales 443.90 billion vs 528.03 billion
+    Outstanding shrs 815.10 mln vs 814.97 mln
+ REUTER
+&#3;</BODY></TEXT>

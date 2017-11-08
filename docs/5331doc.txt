@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10244" NEWID="5331">
+<DATE>16-MAR-1987 09:38:36.52</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2014&#31;reute
+u f BC-BECOR-WESTERN-&lt;BCW>-G   03-16 0074</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BECOR WESTERN &lt;BCW> GETS OFFER TO BE ACQUIRED</TITLE>
+<DATELINE>    MILWAUKEE, March 16 - </DATELINE><BODY>Becor Western Inc said &lt;Investment
+Limited Partnership> of Greenwich, conn., and Randolph W. Lenz
+are offering to acquire Becor for 15.50 dlrs per share, subject
+to Becor's receipt of at least 110 mln dlrs from the proposed
+sale of its Western Gear Corp subsidiary.
+    Becor said it has also received expressions of interest
+from other parties seeking information about Becor.
+    Becor had previously agreed to sell Western Gear for at
+least 110 mln dlrs and to be acquired by BCW Acquisition Inc
+for 10.45 dlrs in cash and four dlrs in debentures per Becor
+share.  BCW was formed by Becor executives and &lt;Goldman, Sachs
+and Co>.  Both deals are subject to shareholder approval.
+ Reuter
+&#3;</BODY></TEXT>

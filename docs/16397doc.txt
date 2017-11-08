@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="931" NEWID="16397">
+<DATE>13-APR-1987 11:54:20.97</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A
+&#22;&#22;&#1;f1545&#31;reute
+d f BC-DUFF/PHELPS-DOWNGRADE   04-13 0105</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DUFF/PHELPS DOWNGRADES MELLON BANK CORP &lt;MEL></TITLE>
+<DATELINE>    CHICAGO, April 13 - </DATELINE><BODY>Duff and Phelps today lowered the
+senior debt rating of Mellon Bank Corp. to D&amp;P-8 (High BBB)
+from D&amp;P-6 (middle A) and lowered the preferred stock rating to
+D&amp;P-9 (middle BBB) from D&amp;P-7 (low A).
+    These rating changes affect approximately 607 mln dlrs of
+securities.
+    In addition, the certificate of deposit rating of Mellon
+Bank has been lowered to Duff one minus from Duff one. The
+rating affects approximately 2.7 bln dlrs on CDs.
+    "A sharp deterioration in asset quality," resulting in a
+"significant" first-quarter loss were cited in the change.
+ Reuter
+&#3;</BODY></TEXT>

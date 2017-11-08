@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14105" NEWID="8584">
+<DATE>23-MAR-1987 19:21:00.17</DATE>
+<TOPICS><D>money-fx</D><D>dlr</D></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f2693&#31;reute
+f f BC-Dollar-hits-record-lo   03-23 0009</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE>Dollar hits record low of 149.78 yen - Tokyo dealers
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19122" NEWID="2704">
+<DATE> 6-MAR-1987 12:09:26.31</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>venezuela</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0725&#31;reute
+u f BC-REFINANCING-SAID-CLOS   03-06 0117</UNKNOWN>
+<TEXT>&#2;
+<TITLE>REFINANCING SAID CLOSE FOR VENEZUELAN BANK</TITLE>
+<DATELINE>    Caracas, March 6 - </DATELINE><BODY>The Venezuelan government is close to
+agreement with foreign banks to refinance 300 mln dlrs in
+foreign debt owed by the Banco de los Trabajadores de Venezuela
+(BTV), finance minister Manuel Azpurua said.
+    He told reporters, Bankers Trust, which heads the BTV's
+bank committee, is consulting other creditors on an eight year
+refinancing plan with a margin of 3/8 pct over libor.
+    He added there is a relending option for which the state
+owned Banco Industrial de Venezuela will act as agent. BTV, 49
+pct owned by the government and 51 pct by unions, was taken
+over by trustees in November 1982 with severe liquidity
+problems.
+ REUTER
+&#3;</BODY></TEXT>

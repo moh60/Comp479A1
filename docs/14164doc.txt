@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="3147" NEWID="14164">
+<DATE> 7-APR-1987 11:43:12.23</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E A
+&#22;&#22;&#1;f1360&#31;reute
+r f BC-ONTARIO-TREASURY-BILL   04-07 0044</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ONTARIO TREASURY BILL YIELD RISES</TITLE>
+<DATELINE>    TORONTO, April 7 - </DATELINE><BODY>This week's Ontario government auction
+of 50 mln dlrs worth of 91-day treasury bills yielded an
+average of 6.91 pct, up from 6.87 pct last week, a treasury
+department spokesman said. Average price was 98.307.
+ Reuter
+&#3;</BODY></TEXT>

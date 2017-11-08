@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9527" NEWID="4614">
+<DATE>12-MAR-1987 19:29:57.91</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0885&#31;reute
+d f BC-GREENWOOD-&lt;GRRL>-BOAR   03-12 0056</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GREENWOOD &lt;GRRL> BOARD APPROVES RESTRUCTURING</TITLE>
+<DATELINE>    DENVER, Colo, March 12 - </DATELINE><BODY>Greenwood Resources Inc said its
+board approved a restrucuting and recapitalization plan uner
+which more than four mln dlrs of debt and interest will be
+restructured.
+    As part of the plan, its preferred stock will be converted
+into one class of common stock.
+ Reuter
+&#3;</BODY></TEXT>

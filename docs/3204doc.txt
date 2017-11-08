@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19626" NEWID="3204">
+<DATE> 9-MAR-1987 12:20:15.33</DATE>
+<TOPICS><D>crude</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE><D>reagan</D></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A Y RM
+&#22;&#22;&#1;f0844&#31;reute
+u f BC-FITZWATER-SAYS-REAGAN   03-09 0102</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FITZWATER SAYS REAGAN STRONGLY AGAINST TAX HIKE</TITLE>
+<DATELINE>    WASHINGTON, March 9 - </DATELINE><BODY>White House spokesman Marlin
+Fitzwater said President Reagan's record in opposing tax hikes
+is "long and strong" and not about to change.
+    "We're opposed to tax increases.... We will fight tax
+increases.... We will deal with it politically in every forum
+possible," said Fitzwater when questioned about whether there
+was any change in the administration's position.
+    Fitzwater said Reagan's strong feelings against a tax hike
+included opposition to an oil import fee.
+    "The President's position is that he is opposed to it," he
+said.
+ REUTER
+&#3;</BODY></TEXT>

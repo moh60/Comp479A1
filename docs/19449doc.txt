@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7285" NEWID="19449">
+<DATE>19-JUN-1987 16:57:26.09</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2428&#31;reute
+u f BC-MOSELY-&lt;MOSE.O>-EXPEC   06-19 0072</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MOSELY &lt;MOSE.O> EXPECTS 1ST QTR LOSS</TITLE>
+<DATELINE>    NEW YORK, June 19 - </DATELINE><BODY>Mosely Holding Corp said it expects to
+report an unspecified loss in the first quarter ending June 30.
+    The company said the current quarter result will reflect
+losses associated with municipal bond, unit trust, and
+corporate bond activities.
+    It reported net income of 203,000 dlrs, or one cent per
+share, on revenues of 35.5 mln dlrs in the fiscal 1986 first
+quarter.
+ Reuter
+&#3;</BODY></TEXT>

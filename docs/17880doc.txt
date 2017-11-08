@@ -1,0 +1,20 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7325" NEWID="17880">
+<DATE> 2-JUN-1987 00:14:33.10</DATE>
+<TOPICS><D>naphtha</D></TOPICS>
+<PLACES><D>south-korea</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;Y
+&#22;&#22;&#1;f0010&#31;reute
+u f BC-SOUTH-KOREA-RAISES-NA   06-02 0034</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SOUTH KOREA RAISES NAPHTHA PRICE</TITLE>
+<DATELINE>    SEOUL, June 2 - </DATELINE><BODY>South Korea raised its pre-tax ex-factory
+naphtha price to 104.21 won per litre from 103.97 won,
+effective today, energy ministry officials said.
+ REUTER
+&#3;</BODY></TEXT>

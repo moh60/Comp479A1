@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14895" NEWID="9374">
+<DATE>25-MAR-1987 11:31:46.79</DATE>
+<TOPICS><D>sugar</D></TOPICS>
+<PLACES><D>usa</D><D>turkey</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C T
+&#22;&#22;&#1;f1362&#31;reute
+b f BC-/NY-TRADERS-SAY-TURKE   03-25 0085</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NY TRADERS SAY TURKEY MADE LARGE SUGAR PURCHASE</TITLE>
+<DATELINE>    ****NEW YORK, March 25 - </DATELINE><BODY>Turkey bought an estimated 100,000
+tonnes of white sugar from three trade houses today for April
+to June shipment, according to trade sources.
+    They said a large U.K. trade house sold 50,000 tonnes, a
+U.S. house traded 25,000 tonnes, and a Swiss-based dealer house
+25,000 tonnes.
+    Price details were unclear but reports this morning
+suggested that Turkey was offered sugar at prices ranging down
+to 212 dlrs a tonne, c and f basis.
+ Reuter
+&#3;</BODY></TEXT>

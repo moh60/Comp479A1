@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15496" NEWID="9976">
+<DATE>26-MAR-1987 11:46:40.31</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>japan</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1567&#31;reute
+h f BC-FOREIGN-FIRMS-HOPE-TO   03-26 0108</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FOREIGN FIRMS HOPE TO JOIN JAPAN TELECOM COMPANY</TITLE>
+<DATELINE>    TOKYO, March 26 - </DATELINE><BODY>President Nobuo Ito of International
+Telecom Japan Inc (ITJ), one of two rival firms seeking to
+enter Japan's international telecommunications market, said it
+will offer a stake in the company to 10 foreign firms.
+      But he declined to specify what share the firms would
+take, and told Reuters they would not participate in its
+management.
+    ITJ and International Digital Communications Planning Inc
+(IDC), in which both Cable and Wireless Plc and Pacific Telesis
+Group own 20 pct stakes, are set to merge into a new entity to
+compete against Kokusai Denshin Denwa Co Ltd.
+ Reuter
+&#3;</BODY></TEXT>

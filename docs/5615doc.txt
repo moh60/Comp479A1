@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10528" NEWID="5615">
+<DATE>16-MAR-1987 14:46:01.53</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f3324&#31;reute
+d f BC-INTERNATIONAL-FINE-FO   03-16 0061</UNKNOWN>
+<TEXT>&#2;
+<TITLE>INTERNATIONAL FINE FOODS MAKES ACQUISITION</TITLE>
+<DATELINE>    NEW YORK, March 16 - </DATELINE><BODY>&lt;International Fine Foods Inc> said it
+has acquired 2001 Distributors Inc of West Babylon, N.Y., for
+875,000 common shares, plus contingent shares based on future
+earnings.
+    2001 distributes fresh-squeezed juices and had a loss on
+sales of about one mln dlrs in 1986, its first year of
+operation.
+ Reuter
+&#3;</BODY></TEXT>

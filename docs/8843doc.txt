@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14364" NEWID="8843">
+<DATE>24-MAR-1987 12:02:47.19</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f1528&#31;reute
+b f BC-BAYERISCHE-VEREINSBAN   03-24 0078</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BAYERISCHE VEREINSBANK SELLS WARRANTS ON BONDS</TITLE>
+<DATELINE>    LONDON, March 24 - </DATELINE><BODY>Bayerische Vereinsbank is issuing
+100,000 "naked warrants' at 15 dlrs each, which are convertible
+for up to one year into a 1,000 Australia dlr bond due April
+30, 1992, said Merrill Lynch capital markets as lead manager.
+    Payment is due April 30, 1987 and total fees are three pct.
+Of that, there is a two pct selling concession with the
+remainder a combined management and underwriting fee.
+ REUTER
+&#3;</BODY></TEXT>

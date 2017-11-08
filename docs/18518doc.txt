@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6270" NEWID="18518">
+<DATE>18-JUN-1987 05:36:27.98</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM 
+&#22;&#22;&#1;f2431&#31;reute
+f f BC-Belgium-cuts-three-mo   06-18 0015</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE>Belgium cuts three month treasury certificate rate 0.10
+points to 6.85 pct - official
+</TITLE>&#3;
+
+</TEXT>

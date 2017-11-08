@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14255" NEWID="8734">
+<DATE>24-MAR-1987 09:40:32.43</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F A
+&#22;&#22;&#1;f0931&#31;reute
+r f BC-COLUMBIA-FIRST-&lt;CFFS>   03-24 0079</UNKNOWN>
+<TEXT>&#2;
+<TITLE>COLUMBIA FIRST &lt;CFFS> TAKES OVER BANK</TITLE>
+<DATELINE>    WASHINGTON, March 24 - </DATELINE><BODY>Columbia First Federal Savings and
+Loan Association said it has acquired the insured deposits of
+first Federal of Maryland, based in Hagerstown, from the
+Federal Savings and Loan Insurance Corp and reopend First
+Federal's six former offices as Columbia First branches.
+    The Federal Home Loan Bank Board had closed First Federal
+on March 20 because it was insolvent.  First Federal had assets
+of 115.2 mln dlrs.
+ Reuter
+&#3;</BODY></TEXT>

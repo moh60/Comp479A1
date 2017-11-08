@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="21233" NEWID="20638">
+<DATE>20-OCT-1987 15:31:18.81</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2967&#31;reute
+r f BC-ALASKA-AIR-&lt;ALK>-TO-B   10-20 0045</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ALASKA AIR &lt;ALK> TO BUY BACK STOCK</TITLE>
+<DATELINE>    SEATTLE, Oct 20 - </DATELINE><BODY>Alaska Air Group Inc said its board
+authorized management to repurchase up to 320,000 common shares
+in the open market from time to time.
+    The company said its current stock price does not reflect
+its full value.
+ Reuter
+&#3;</BODY></TEXT>

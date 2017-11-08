@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16382" NEWID="1062">
+<DATE> 3-MAR-1987 10:40:34.06</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0579&#31;reute
+r f BC-&lt;ACUSTAR-CORP>-HAS-UN   03-03 0067</UNKNOWN>
+<TEXT>&#2;
+<TITLE>&lt;ACUSTAR CORP> HAS UNAUTHORIZED ACCOUNT ACTION</TITLE>
+<DATELINE>    BLOOMINGTON, Minn., March 3 - </DATELINE><BODY>Acustar Corp said it has
+discovered significant unauthorized activity in its corporate
+accounts but has not yet determined the full extent of the
+problem.
+    It said it has requested that all over-the-counter trading
+in its stock be halted until it can make a further
+announcement.  An investigation is underway, it said.
+ Reuter
+&#3;</BODY></TEXT>

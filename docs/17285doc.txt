@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="NOT-USED" CGISPLIT="PUBLISHED-TESTSET" OLDID="21907" NEWID="17285">
+<DATE>27-APR-1987 07:31:38.46</DATE>
+<TOPICS><D>gold</D></TOPICS>
+<PLACES><D>japan</D><D>australia</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A
+&#22;&#22;&#1;f0624&#31;reute
+d f BC-JAPANESE-FIRMS-TO-SEL   04-27 0083</UNKNOWN>
+<TEXT>&#2;
+<TITLE>JAPANESE FIRMS TO SELL AUSTRALIAN GOLD COINS</TITLE>
+<DATELINE>    TOKYO, April 27 - </DATELINE><BODY>Three Japanese trading companies and one
+coin retailer will start selling Australia's Nugget gold coins
+in Japan from May 12 after actively buying at the first
+international trading of the coins last Thursday, officials
+involved in the sale said.
+    They estimated Japanese companies bought 30 pct of 155,000
+ounces sold on Thursday.
+    The coins are likely to be sold in Japan at prices similar
+to the South African krugerrand.
+ REUTER
+&#3;</BODY></TEXT>

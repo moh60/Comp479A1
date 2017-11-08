@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15252" NEWID="9731">
+<DATE>26-MAR-1987 03:35:45.41</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0159&#31;reute
+f f BC-BP-says-it-will-tende   03-26 0014</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE>BP says it will tender for remaining 45 pct of Standard Oil at 70 dlrs a share cash
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18950" NEWID="2532">
+<DATE> 5-MAR-1987 18:17:18.85</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0093&#31;reute
+u f BC-REPH-ACQUISITION-TO-N   03-05 0075</UNKNOWN>
+<TEXT>&#2;
+<TITLE>REPH ACQUISITION TO NEGOTIATE PESCH MERGER BID</TITLE>
+<DATELINE>    DALLAS, March 5 - </DATELINE><BODY>REPH Acquisition Co said its board
+appointed a special committee to negotiate the terms of an
+offer made earlier today by &lt;Pesch and Co> to merge with its
+Republic Health Corp &lt;REPH> unit.
+    Pesch, through its Alpha Health Systems Corp unit, offered
+to acquire the 36 pct of Republic Health stock that it does not
+already own.
+    Terms of Pesch's offer have not been disclosed.
+   
+ Reuter
+&#3;</BODY></TEXT>

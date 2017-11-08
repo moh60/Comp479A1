@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="BYPASS" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="3231" NEWID="14248">
+<DATE> 7-APR-1987 12:08:48.12</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;GQ
+&#22;&#22;&#1;f1470&#31;reute
+u f BC-cbt-soyoil-report   04-07 0060</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CBT SOYBEAN OIL SPREADS</TITLE>
+<DATELINE> APRIL 7  - </DATELINE><BODY>1100 hrs cdt
+ MONTHS    LAST          DIFFERENCE
+ May/Jul   0.34 under    0.35 under
+ Jul/Aug   0.16 under    0.17 under
+ Jul/Dec   0.78 under    0.80 under
+ Aug/Sep   0.16 under    0.17 under
+ May/Aug   0.51 under    0.52 under
+ May/Dec   no quote      1.15 under
+ Dec/Jan   no quote      0.05 under
+ Reuter
+&#3;</BODY></TEXT>

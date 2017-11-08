@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6795" NEWID="18957">
+<DATE>18-JUN-1987 15:26:04.89</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A RM 
+&#22;&#22;&#1;f4417&#31;reute
+r f BC-SOUTHLAND-&lt;SLC>-MAY-B   06-18 0092</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SOUTHLAND &lt;SLC> MAY BE DOWNGRADED BY S/P</TITLE>
+<DATELINE>    NEW YORK, June 18 - </DATELINE><BODY>Standard and Poor's Corp said it may
+downgrade Southland Corp's 156 mln dlrs of debt securities and
+125 mln dlrs (liquidation value) of preferred stock.
+    The agency cited Southland's announcement that it is
+studying various restructuring alternatives. S and P said that
+the company has been a rumored takeover target for a while, and
+a restructuring would probably be a defensive move to thwart an
+unfriendly bid.
+    Southland currently carries BBB senior debt and A-2
+commercial paper.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1413" NEWID="16878">
+<DATE>17-APR-1987 13:09:15.89</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0356&#31;reute
+r f BC-AFFILIATED-BANKSHARES   04-17 0045</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AFFILIATED BANKSHARES &lt;AFBK.O> NAMES CEO</TITLE>
+<DATELINE>    DENVER, April 17 - </DATELINE><BODY>Affiliated Bankshares of Colorado Inc
+said president and chief operating officer Kent O. Olin has
+been named to the added post of chief executive, succeeding Leo
+Hill, who plans to retire at the end of the year.
+ Reuter
+&#3;</BODY></TEXT>

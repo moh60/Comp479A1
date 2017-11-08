@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="448" NEWID="12220">
+<DATE> 1-APR-1987 14:45:38.36</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2137&#31;reute
+r f BC-GRUMMAN-&lt;GQ>-UNIT-WIN   04-01 0066</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GRUMMAN &lt;GQ> UNIT WINS MCDONNELL DOUGLAS ORDER</TITLE>
+<DATELINE>    LONG BEACH, Calif., April 1 - </DATELINE><BODY>McDonnell Douglas Corp &lt;MD>
+said it awarded a contract valued at 28 mln dlrs to a unit of
+Grumman Corp to develop flight control surfaces for the new
+U.S. Air Force C-17 transport.
+    Grumman Aerostructures of Bethpage, N.Y., will design,
+develop and build the rudders, elevators and other parts for
+the transports.
+ Reuter
+&#3;</BODY></TEXT>

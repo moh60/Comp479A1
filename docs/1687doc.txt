@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18105" NEWID="1687">
+<DATE> 4-MAR-1987 14:04:49.19</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>canada</D><D>china</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F
+&#22;&#22;&#1;f0343&#31;reute
+r f BC-NORTHERN-TELECOM-&lt;NT>   03-04 0101</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NORTHERN TELECOM &lt;NT> IN PHONE PACT WITH CHINA</TITLE>
+<DATELINE>    TORONTO, March 4 - </DATELINE><BODY>Northern Telecom Ltd said it signed a
+contract with the Peking Telecommunications Administration and
+the Peking Foreign Trade Corp to supply an SL-1 automatic call
+distributor system for Peking's central telephone office.
+    Financial terms were undisclosed.
+    It said Peking's telephone company would use the system to
+receive and distribute incoming information requests more
+effectively among operators.
+    The company said it and Peking's telephone administration
+were discussing cooperation on other telecommunications
+systems.
+ Reuter
+&#3;</BODY></TEXT>

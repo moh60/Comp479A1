@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16929" NEWID="10868">
+<DATE>30-MAR-1987 11:46:42.49</DATE>
+<TOPICS><D>gold</D></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F E
+&#22;&#22;&#1;f1626&#31;reute
+r f BC-&lt;CORNUCOPIA-RESOURCES   03-30 0085</UNKNOWN>
+<TEXT>&#2;
+<TITLE>&lt;CORNUCOPIA RESOURCES LTD> IN DRILLING PROGRAM</TITLE>
+<DATELINE>    VANCOUVER, March 30 - </DATELINE><BODY>Cornucopia Resources Ltd said an
+extensive drill and sampling program will begin in mid-April at
+its Ivanhoe gold property in north central Nevada.
+    It said it will seek to increase the present reserves of
+eight mln short tons grading 0.045 ounce of gold per ton that
+had been found by USX Corp &lt;X> on a small portion of the
+13,.000 acre property, determine the location of possible
+high-grade ore zones at depth and test other targets.
+ Reuter
+&#3;</BODY></TEXT>

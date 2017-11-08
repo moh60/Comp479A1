@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15174" NEWID="9653">
+<DATE>25-MAR-1987 18:11:34.45</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2643&#31;reute
+d f BC-FIRST-FEDERAL/ARKANSA   03-25 0066</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FIRST FEDERAL/ARKANSAS &lt;FARK> IN COURT RULING</TITLE>
+<DATELINE>    LITTLE ROCK, Ark., March 25 - </DATELINE><BODY>First Federal Savings of
+Arkansas FA said a federal district court denied a motion
+seeking class-action status for a lawsuit that alleges the bank
+violated securities laws in an offering of common stock.
+    The lawsuit alleges that First Federal violated securities
+laws in connection with its initial public offering.
+ Reuter
+&#3;</BODY></TEXT>

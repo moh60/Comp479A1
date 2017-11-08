@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16082" NEWID="10561">
+<DATE>27-MAR-1987 12:58:01.44&#5;&#5;&#5;E F</DATE>
+<UNKNOWN>&#22;&#22;&#1;f1739&#31;reute</UNKNOWN>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+r f BC-canadian-satellite   03-27 0059</UNKNOWN>
+<TEXT>&#2;
+<TITLE>&lt;CANADIAN SATELLITE COMMUNICATIONS> SIX MTHS NET</TITLE>
+<DATELINE>    MONTREAL, March 27 -
+    </DATELINE><BODY>Period ended February 28
+    Oper shr profit six cts vs loss 15 cts
+    Oper profit 474,000 vs loss 1,175,000
+    Revs 17,946,000 vs 9,271,000
+    Note: Current shr and net exclude tax gain of 513,000  dlrs
+or five cts share
+    full name &lt;Canadian Satellite Communications Inc>
+ Reuter
+&#3;</BODY></TEXT>

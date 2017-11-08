@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="NOT-USED" CGISPLIT="PUBLISHED-TESTSET" OLDID="21573" NEWID="12716">
+<DATE> 2-APR-1987 16:52:58.44</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2591&#31;reute
+d f BC-CAREMARK-&lt;CMRK>-COMPL   04-02 0053</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CAREMARK &lt;CMRK> COMPLETES UNIT SALE</TITLE>
+<DATELINE>    NEWPORT BEACH, Calif., April 2 - </DATELINE><BODY>Caremark Corp said it
+completed the sale of its America's Pharmacy Inc unit to
+Newport Pharmaceuticals International Inc for 12 mln dlrs.
+    America's Pharmacy, based in Des Moines, Iowa, provides
+prescription drugs and other health care products.
+ Reuter
+&#3;</BODY></TEXT>

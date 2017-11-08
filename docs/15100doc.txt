@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4447" NEWID="15100">
+<DATE> 8-APR-1987 11:48:03.92</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A RM
+&#22;&#22;&#1;f1535&#31;reute
+r f BC-AMERIBANC-&lt;ABNK>-SELL   04-08 0107</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AMERIBANC &lt;ABNK> SELLS CONVERTIBLE CAPITAL NOTES</TITLE>
+<DATELINE>    NEW YORK, April 8 - </DATELINE><BODY>Ameribanc Inc is raising 15 mln dlrs
+through an offering of convertible subordinated capital notes
+due 1995 with an eight pct coupon and par pricing, said lead
+manager Stifel, Nicolaus and Co Inc.
+    The debentures are convertible into the company's common
+stock at 18.75 dlrs per share, representing a premium of 27.1
+pct over the stock price when terms on the debt were set.
+    The issue is non-callable for two years. It was not rated
+by Moody's Investors or Standard and Poor's at the time of the
+pricing, Stifel said. Burns, Pauli and Co Inc co-managed the
+deal.
+ Reuter
+&#3;</BODY></TEXT>

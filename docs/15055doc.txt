@@ -1,0 +1,37 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4038" NEWID="15055">
+<DATE> 8-APR-1987 11:15:53.12</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F
+&#22;&#22;&#1;f1357&#31;reute
+r f BC-CONTINENTAL-BANK-INIT   04-08 0100</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CONTINENTAL BANK INITIAL DISTRIBUTION APPROVED</TITLE>
+<DATELINE>    TORONTO, April 8 - </DATELINE><BODY>Continental Bank of Canada said
+shareholders approved a capital reorganization to allow an
+initial payout by the end of May to common shareholders from
+last year's 200 mln Canadian dlr sale of most Continental
+assets to &lt;Lloyds Bank PLC>'s Lloyds Bank Canada.
+    The bank said the initial distribution would take the form
+of a stock dividend of cumulative redeemable retractable class
+A series two preferred shares entitling holders to monthly
+floating rate dividends at 72 pct of prime and to 12.75 dlrs a
+share on retraction.
+    Continental said the initial payout was subject to Canadian
+government approval.
+    The bank reiterated that total distributions to common
+shareholders would range from 16.50 dlrs a share to 17.25 dlrs
+including the initial stock dividend and a final distribution
+in late 1988 or early 1989.
+    The payout of existing preferred shareholders will be
+completed just before next month's initial distribution to
+common shareholders, Continental added.
+   
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="8417" NEWID="3504">
+<DATE>11-MAR-1987 06:10:19.31</DATE>
+<TOPICS><D>interest</D></TOPICS>
+<PLACES><D>belgium</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0501&#31;reute
+f f BC-Belgium-cuts-discount   03-11 0010</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE> Belgium cuts discount rate to 8.0 pct from 8.50 - official
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="1924" NEWID="12955">
+<DATE> 3-APR-1987 11:54:18.12</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1459&#31;reute
+r f BC-SOUTHWEST-&lt;LUV>-PLANS   04-03 0059</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SOUTHWEST &lt;LUV> PLANS TO BEGIN DETROIT SERVICE</TITLE>
+<DATELINE>    DALLAS, April 3 - </DATELINE><BODY>Southwest Airlines said it will begin
+service to Detroit, Michigan on June 4, 1987.
+    It said that with the new service, it will serve 27 cities
+in 13 states across the U.S.
+    It also said that delivery of six new 737-300 aircraft will
+enable it to expand its route system in June.
+ Reuter
+&#3;</BODY></TEXT>

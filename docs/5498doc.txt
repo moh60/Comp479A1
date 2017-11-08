@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10411" NEWID="5498">
+<DATE>16-MAR-1987 12:41:28.11</DATE>
+<TOPICS><D>trade</D></TOPICS>
+<PLACES><D>france</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f2878&#31;reute
+f f BC-French-adjusted-Febru   03-16 0015</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE> French adjusted February trade deficit 400 mln francs vs January deficit 2.5 billion
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

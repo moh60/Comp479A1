@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19749" NEWID="3327">
+<DATE> 9-MAR-1987 15:28:36.30</DATE>
+<TOPICS><D>gold</D></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F
+&#22;&#22;&#1;f0526&#31;reute
+r f BC-CAROLIN-MINES-&lt;CRLNF>   03-09 0102</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CAROLIN MINES &lt;CRLNF> HAS NEW ASSAY RESULTS</TITLE>
+<DATELINE>    Vancouver, British Columbia, March 9 - </DATELINE><BODY>Carolin Mines Ltd
+said recent assays of tailings at its Hope, British Columbia
+mine indicated that ounces of gold per ton ranged from 0.64 to
+0.50.
+    There were only trace amounts of platinum and palladium,
+the company said.
+    Carolin said the results sharply disagreed with an earlier
+assay performed by Intergold U.S.A. Inc which showed one ounce
+of gold per ton and 1/2 ounce of platinum per ton.
+    Carolin also said it expects to receive results of further
+tests and assays of the tailings within two to three weeks.
+ Reuter
+&#3;</BODY></TEXT>

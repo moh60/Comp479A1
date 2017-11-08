@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19790" NEWID="3368">
+<DATE> 9-MAR-1987 16:40:11.89</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0798&#31;reute
+d f BC-SOFTECH-INC-&lt;SOFT>-GE   03-09 0100</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SOFTECH INC &lt;SOFT> GETS AIR FORCE CONTRACT</TITLE>
+<DATELINE>    WALTHAM, Mass., March 9 - </DATELINE><BODY>SoftTech Inc said it received a
+24.8 mln dlr five-year contract from the U.S. Air Force
+Aeronautical Systems Division to assist in tracking and
+controlling the development and modification of Modular
+Automatic Test Equipment Systems Products.
+    The MATE program is a system for defining, acquiring and
+supporting automatic testing capabilities within the Air Force,
+the company said.
+    SofTech said its role includes the development and
+maintenance of a MATE master plan aimed at keeping it current
+with evolving technology.
+ Reuter
+&#3;</BODY></TEXT>

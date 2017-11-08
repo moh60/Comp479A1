@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7943" NEWID="19615">
+<DATE>29-JUN-1987 09:59:24.22</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1007&#31;reute
+u f BC-MOSELEY-SECURITIES-&lt;M   06-29 0095</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MOSELEY SECURITIES &lt;MOSE.O> CHAIRMAN RESIGNS</TITLE>
+<DATELINE>    BOSTON, June 29 - </DATELINE><BODY>Moseley Securities Corp said Howard Berg
+resigned as chairman and chief executive officer.
+    It said Frederick S. Moseley III assumed the position of
+chairman. In other management changes, Omar Kassem was named
+vice chairman and chief executive officer, and James
+Wolitarsky, executive vice president and chief financial
+officer, was appointed president and chief operating officer.
+    The company also said it named a Management Committee
+consisting of Wolitarsky and six executive vice presidents.
+ Reuter
+&#3;</BODY></TEXT>

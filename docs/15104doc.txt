@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4087" NEWID="15104">
+<DATE> 8-APR-1987 11:50:14.65</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>philippines</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1542&#31;reute
+r f BC-ATLAS-CONSOLIDATED-MI   04-08 0049</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ATLAS CONSOLIDATED MINING &lt;ACMB> 4TH QTR</TITLE>
+<DATELINE>    MANILA, Philippines, April 8 -
+    </DATELINE><BODY>Shr loss 17.3 cts vs 21.5 cts
+    Net loss 14.5 mln vs loss 18.0 mln
+    Revs 27.3 mln vs 23.7 mln
+    Year
+    Shr loss 58 cts vs loss 1.01 dlrs
+    Net loss 48.3 mln vs loss 84.2 mln
+    Revs 111.7 mln vs 141.9 mln
+ Reuter
+&#3;</BODY></TEXT>

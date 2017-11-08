@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="8097" NEWID="19769">
+<DATE>29-JUN-1987 13:22:06.10</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F 
+&#22;&#22;&#1;f1899&#31;reute
+u f BC-UNION-&lt;UEL.TO>-ENDS-P   06-29 0069</UNKNOWN>
+<TEXT>&#2;
+<TITLE>UNION &lt;UEL.TO> ENDS PACT TO SELL CANBRA &lt;CBF.TO></TITLE>
+<DATELINE>    TORONTO, June 29 - </DATELINE><BODY>Union Enterprises Ltd said its agreement
+to sell its interest in Canbra Foods Ltd to Macluan Capital
+Corp has been terminated.
+    Union said Macluan failed to make an offer for Union's 72
+pct interest in Canbra before the June 22 deadline.
+    Union said it is no longer bound by the agreement and is
+continuing to seek a buyer for the interest.
+ Reuter
+&#3;</BODY></TEXT>

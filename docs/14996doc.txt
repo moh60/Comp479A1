@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="3979" NEWID="14996">
+<DATE> 8-APR-1987 10:05:48.86</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1023&#31;reute
+r f BC-COMSTOCK-GROUP-&lt;CSTK>   04-08 0047</UNKNOWN>
+<TEXT>&#2;
+<TITLE>COMSTOCK GROUP &lt;CSTK> SELLS PREFERRED STOCK</TITLE>
+<DATELINE>    DANBURY, Conn., April 8 - </DATELINE><BODY>Comstock Group Inc said it has
+signed a letter of intent to sell about 20 mln dlrs of
+convertible preferred stock to &lt;Spie Batignolles SA> of Paris'
+Spie Group Inc U.S. subsidiary.
+    Details were not disclosed.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19297" NEWID="2879">
+<DATE> 6-MAR-1987 16:33:01.61</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D><D>south-korea</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0575&#31;reute
+u f AM-HAWKS   03-06 0089</UNKNOWN>
+<TEXT>&#2;
+<TITLE>U.S. TO SELL ELECTRONIC EQUIPMENT TO S. KOREA</TITLE>
+<DATELINE>    WASHINGTON, March 6 - </DATELINE><BODY>The United States plans to sell 84
+mln dlrs in electronic equipment to South Korea to upgrade that
+country's Hawk anti-aircraft missiles, the Reagan
+administration announced.
+    The sale of 28 modification kits to upgrade the I-Hawk
+(Improved Hawk) missiles already in South Korea is expected to
+become official in 30 days without objection from Congress.
+    Prime contractor on the sale is the Raytheon Corp &lt;RTN>,
+which builds the Hawk medium-range missiles.
+ Reuter
+&#3;</BODY></TEXT>

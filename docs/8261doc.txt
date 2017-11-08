@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13782" NEWID="8261">
+<DATE>23-MAR-1987 09:59:45.15</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0969&#31;reute
+r f BC-KING-INSTRUMENT-RECEI   03-23 0097</UNKNOWN>
+<TEXT>&#2;
+<TITLE>KING INSTRUMENT RECEIVES SETTLEMENT FROM SUIT</TITLE>
+<DATELINE>    WESTBORO, Mass., March 23 - </DATELINE><BODY>&lt;King Instrument Corp> said it
+received 8.5 mln dlrs from &lt;Otari Electric Co> of Tokyo and its
+California subsidiaries as a settlement for a patent
+infringement suit.
+    King said the suit, filed in 1980, covered a tape loading
+system for cassettes. King said as part of the settlement,
+Otari must pay a royalty to King on future sales of magnetic
+tape winding equipment in the U.S.
+    In a separate agreement, King said Otari has acquire from
+it a non-exclusive license to King's basic patent in the U.S.
+ Reuter
+&#3;</BODY></TEXT>

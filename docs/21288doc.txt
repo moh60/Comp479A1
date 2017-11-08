@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20148" NEWID="21288">
+<DATE>19-OCT-1987 11:51:48.53</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1729&#31;reute
+h f BC-GOULD&lt;GLD>-NAMES-PRES   10-19 0068</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GOULD&lt;GLD> NAMES PRESIDENT OF SEMICONDUCTER DIV</TITLE>
+<DATELINE>    ROLLING MEADOWS, Ill, Oct 19 - </DATELINE><BODY>Gould Inc said it named
+Conrad Wredberg president and general manager of its
+Semiconducto&#27;[Br Division, based in Santa Clara, Calif.
+    Wredberg, formerly senior vice president of operations of
+the division, succeeds Robert Penn. Penn was named vice
+president of the Materials and Components Business Section, the
+company said.
+ Reuter
+&#3;</BODY></TEXT>

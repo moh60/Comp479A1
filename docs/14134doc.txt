@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="BYPASS" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="3117" NEWID="14134">
+<DATE> 7-APR-1987 11:37:21.03</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;G
+&#22;&#22;&#1;f1320&#31;reute
+r f BC-KANSAS-CITY-ELEVATOR   04-07 0054</UNKNOWN>
+<TEXT TYPE="UNPROC">&#2;
+KANSAS CITY ELEVATOR STOCKS
+ In OOOs of bushels as of April 7
+         Today      Change     Yr Ago
+ Wheat   23991      Dn  308    21214
+ Corn     9131      Dn  128     3951
+ Oats        2      Unch          12
+ Grain
+ Sorghum 23085      Up   48    23370
+ Soybns   2557      Up   17     3701
+ Ttl     58767      Dn  372    52249
+ Reuter
+&#3;
+
+</TEXT>

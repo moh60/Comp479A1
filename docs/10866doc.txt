@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16927" NEWID="10866">
+<DATE>30-MAR-1987 11:46:27.30</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F RM
+&#22;&#22;&#1;f1624&#31;reute
+r f BC-PHILADELPHIA-EXCHANGE   03-30 0069</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PHILADELPHIA EXCHANGE SETS FAR EAST MARKETING</TITLE>
+<DATELINE>    PHILADELPHIA, March 30 - </DATELINE><BODY>The &lt;Philadelphia Stock Exchange>
+said it has established a Far East marketing division based in
+Hong Kong to try to broaden participation among international
+banks, multinational corporations and trading firms in its
+foreign currency options market.
+    The exchange said the new division will shortly open a
+representative office in Tokyo.
+ 
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11667" NEWID="6754">
+<DATE>18-MAR-1987 15:21:03.14</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f9234&#31;reute
+r f BC-XEROX-&lt;XRX>-SELLS-CON   03-18 0051</UNKNOWN>
+<TEXT>&#2;
+<TITLE>XEROX &lt;XRX> SELLS CONNECTICUT PROPERTY</TITLE>
+<DATELINE>    STAMFORD, Conn., March 18 - </DATELINE><BODY>Xerox Corp said it sold a
+102-acre site in Greenwich, Conn., to a limited partnership for
+10.5 mln dlrs.
+    Other details were not disclosed.
+    The purchaser was identified as Greenwich King Street
+Associates II Limited Partnership.
+ Reuter
+&#3;</BODY></TEXT>

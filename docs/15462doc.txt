@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4640" NEWID="15462">
+<DATE> 9-APR-1987 08:27:30.72</DATE>
+<TOPICS><D>sugar</D></TOPICS>
+<PLACES><D>west-germany</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;T C
+&#22;&#22;&#1;f0630&#31;reute
+u f BC-WEST-GERMAN-BEET-PLAN   04-09 0090</UNKNOWN>
+<TEXT>&#2;
+<TITLE>WEST GERMAN BEET PLANTINGS DELAYED THREE WEEKS</TITLE>
+<DATELINE>    HAMBURG, April 9 - </DATELINE><BODY>Unseasonal cold weather has delayed
+sugar beet plantings in West Germany by up to three weeks, the
+agriculture ministry said.
+    A ministry spokesman said in some central areas, especially
+in the Rhineland, farmers have taken advantage of warmer
+weather and started plantings in the past two days.
+    West German planting intentions this year are put at
+381,000 hectares, down from 390,500 ha last year, he said,
+adding that the 1980/1985 average was 405,000 ha.
+ REUTER
+&#3;</BODY></TEXT>

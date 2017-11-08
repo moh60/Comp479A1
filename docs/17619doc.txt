@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5958" NEWID="17619">
+<DATE> 1-JUN-1987 12:00:09.15</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>italy</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1524&#31;reute
+r f BC-FIAT-UNIT-FIDIS-REPOR   06-01 0067</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FIAT UNIT FIDIS REPORTS SHARPLY HIGHER 1986 PROFIT</TITLE>
+<DATELINE>    TURIN, June 1 - </DATELINE><BODY>Year 1986
+    Net profit 132 billion lire vs 82 billion
+    Ordinary share dividend 500 lire vs 400
+    Note - &lt;Finanziaria Di Sviluppo Spa>, a financial services
+subsidiary of Fiat Spa &lt;FIAT.MI>, said in a statement that
+shareholders approved a previously announced nominal share
+capital increase from 125 billion lire to 250 billion.
+ Reuter
+&#3;</BODY></TEXT>

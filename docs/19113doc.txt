@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6949" NEWID="19113">
+<DATE>19-JUN-1987 08:49:08.19</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f0706&#31;reute
+r f BC-FIDELCOR-&lt;FICR.O>-BUY   06-19 0065</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FIDELCOR &lt;FICR.O> BUYS NEW ENGLAND &lt;BKNE.O>STAKE</TITLE>
+<DATELINE>    PHILADELPHIA, June 19 - </DATELINE><BODY>Fidelcor Inc said it has acquired a
+substantial portion of the assets of Bank of New England Corp's
+Lazere Financial Corp subsidiary for undisclosed terms.
+    The company said the transaction includes most of Lazere's
+loan portfolio and other assets, including Lazere's Miami
+office.                                
+ Reuter
+&#3;</BODY></TEXT>

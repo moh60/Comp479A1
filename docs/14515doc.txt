@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="3498" NEWID="14515">
+<DATE> 7-APR-1987 15:44:31.07</DATE>
+<TOPICS><D>grain</D><D>rice</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G
+&#22;&#22;&#1;f2265&#31;reute
+b f BC-USDA-ANNOUNCES-WORLD   04-07 0116</UNKNOWN>
+<TEXT>&#2;
+<TITLE>USDA ANNOUNCES WORLD MARKET RICE PRICES</TITLE>
+<DATELINE>    WASHINGTON, April 7 - </DATELINE><BODY>The U.S. Agriculture Department
+announced the following prevailing world market prices of rice
+on a loan-rate basis, with previous prices --
+    -- Long grain whole kernels 5.87 cts per lb vs 5.70
+    -- Medium grain whole kernels 5.28 cts per lb vs 5.12
+    -- Short grain whole kernels  5.22 cts per lb vs 5.06
+    -- Broken kernels 2.94 cts per lb vs 2.85
+    The repayment rate for 1986-crop warehouse or farm-stored
+rice loans are the higher of the world price or 50 pct of the
+loan rate of 7.20 dlrs per cwt.
+    The prices will remain in effect for a week, but new prices
+could be announced earlier if warranted, USDA said.
+ Reuter
+&#3;</BODY></TEXT>

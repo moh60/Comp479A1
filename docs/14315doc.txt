@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="3298" NEWID="14315">
+<DATE> 7-APR-1987 12:25:25.69</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1562&#31;reute
+w f BC-NORTH-WEST-TELECOM-&lt;N   04-07 0064</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NORTH-WEST TELECOM &lt;NOWT> MAKES ACQUISITION</TITLE>
+<DATELINE>    TOMAH, WIS., April 7 - </DATELINE><BODY>North-West Telecommunications Inc
+said it acquired the assets and customer base of Com-Tel
+Systems Inc, a telephone interconnect firm that operates in La
+Crosse and Stevens Point, Wis. and Rochester, Minn.
+    It said the purchase only includes the businesses in La
+Crosse and Rochester.
+    Terms were not disclosed.
+ Reuter
+&#3;</BODY></TEXT>

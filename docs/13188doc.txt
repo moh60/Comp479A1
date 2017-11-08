@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="2157" NEWID="13188">
+<DATE> 3-APR-1987 17:19:54.02</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2444&#31;reute
+r f BC-CYACQ-TERMINATES-TEND   04-03 0056</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CYACQ TERMINATES TENDER FOR CYLCOPS &lt;CLY></TITLE>
+<DATELINE>    DAYTON, OHio, April 3 - </DATELINE><BODY>CYACQ Corp said it terminated its
+February six tender offer for Cyclops Corp.
+    CYACQ was unsuccessfully bid against Dixons Group Plc for
+control of Cyclops. As of March 27, Dixons Group Plc had
+acquired more than 80 pct the stock under an increased tender
+offer.
+ Reuter
+&#3;</BODY></TEXT>

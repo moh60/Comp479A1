@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5406" NEWID="15508">
+<DATE> 9-APR-1987 09:25:59.29</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0810&#31;reute
+d f BC-AMERICAN-WOODMARK-&lt;AM   04-09 0039</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AMERICAN WOODMARK &lt;AMWD> TO BUILD PLANT</TITLE>
+<DATELINE>    WINCHESTER, Va., April 9 - </DATELINE><BODY>American Woodmark Corp said it
+plans to build a 100,000 square foot kitchen cabinet component
+plant in Toccoa, Ga., with completion expected in the spring of
+1988.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14355" NEWID="8834">
+<DATE>24-MAR-1987 11:56:21.61</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1499&#31;reute
+r f BC-HERCULES-&lt;HPC>-NAMES   03-24 0097</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HERCULES &lt;HPC> NAMES NEW CHAIRMAN</TITLE>
+<DATELINE>    WILMINGTON, Del, March 24 - </DATELINE><BODY>Hercules Inc said it named
+David Hollingsworth as chairman and chief executive, succeeding
+Alexander Giacco who is retiring effective April 1.
+    Hercules also said it named Fred Buckner as president and
+chief operating officer and Arden Engebretsen as vice chairman
+and chief financial officer.
+    The company also said it expects its new product, Synpulp,
+to grow into a 100 mln dlr a year business over the next five
+years. Metton, another new product, is expected to yield
+300-500 mln dlrs a year by the late 1990s.
+ Reuter
+&#3;</BODY></TEXT>

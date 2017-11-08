@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="8361" NEWID="3448">
+<DATE>11-MAR-1987 01:41:01.96</DATE>
+<TOPICS><D>interest</D></TOPICS>
+<PLACES><D>japan</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0152&#31;reute
+f f BC-Sumita-says-little-ro   03-11 0012</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE>Sumita says little room for Bank of Japan to further ease credit policy
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

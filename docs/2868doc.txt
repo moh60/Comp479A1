@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19286" NEWID="2868">
+<DATE> 6-MAR-1987 16:21:04.21</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0541&#31;reute
+r f BC-FDA-APPROVES-CEPHRADI   03-06 0101</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FDA APPROVES CEPHRADINE BY ZENITH &lt;ZEN></TITLE>
+<DATELINE>    RAMSEY, N.J., March 6 - </DATELINE><BODY>Zenith Laboratories Inc said the
+Food and Drug Administration approved Cephradine, an
+antibiotic, for marketing.
+    The maker of generic drugs, less costly versions of brand
+name drugs that have lost their patents, said Cephradine has
+been available as Velosef from Squibb Corp &lt;SQB> and Anspor
+from a SmithKline Beckman Corp &lt;SKB> unit.
+    Earlier this week the company said it received FDA
+marketing approval for Cefadroxil, another antibiotic, which it
+said it will market once questions "relating to patent
+applicability are resolved."
+ Reuter
+&#3;</BODY></TEXT>

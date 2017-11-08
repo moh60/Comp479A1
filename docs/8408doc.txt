@@ -1,0 +1,20 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13929" NEWID="8408">
+<DATE>23-MAR-1987 13:33:16.43</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1883&#31;reute
+d f BC-UNC-&lt;UNC>-GETS-16-MLN   03-23 0033</UNKNOWN>
+<TEXT>&#2;
+<TITLE>UNC &lt;UNC> GETS 16 MLN DLR CONTRACT</TITLE>
+<DATELINE>    ANNAPOLIS, March 23 - </DATELINE><BODY>UNC Inc said it has received a 16 mln
+dlr contract from the U.S. Department of Energy for production
+of naval propulsion system components.
+ Reuter
+&#3;</BODY></TEXT>

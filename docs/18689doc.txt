@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6441" NEWID="18689">
+<DATE>18-JUN-1987 10:38:43.71</DATE>
+<TOPICS><D>crude</D></TOPICS>
+<PLACES><D>usa</D><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;Y E 
+&#22;&#22;&#1;f3291&#31;reute
+b f BC-/SHELL-CANADA-&lt;SHC>-R   06-18 0104</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SHELL CANADA &lt;SHC> RAISES CRUDE 32 CTS CANADIAN</TITLE>
+<DATELINE>    NEW YORK, June 18 - </DATELINE><BODY>Shell Canada &lt;SHC>, whose majority
+interest is owned by the Royal Dutch/Shell Group of companies,
+raised the postings of light sweet and sour crude oil from
+Edmonton/Swann Hills 32 Canadian cts a barrel, effective today.
+    The new price for light sweet crude oil is 25.60 Canadian
+dlrs a barrel while the new price for light sweet sour crude is
+24.08 Canadian dlrs a barrel.
+    The Royal Dtuch/Shell Group owns 72 pct of Shell Canada and
+public shareholders, primarily Canadian, own the remaining 28
+pct of the company, a Shell Canada spokesman said.
+ Reuter
+&#3;</BODY></TEXT>

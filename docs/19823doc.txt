@@ -1,0 +1,20 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="8151" NEWID="19823">
+<DATE>29-JUN-1987 14:31:41.43</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2128&#31;reute
+r f BC-RTE-&lt;RTE>-BUYS-SOME-E   06-29 0037</UNKNOWN>
+<TEXT>&#2;
+<TITLE>RTE &lt;RTE> BUYS SOME EMHART &lt;EMH> ASSETS</TITLE>
+<DATELINE>    BROOKFIELD, WISC, June 29 - </DATELINE><BODY>RTE Corp said it completed the
+purchase of the U.S. aluminum electrolytic capacitor business
+and related assets of Emhart Corp, for undisclosed terms.
+ Reuter
+&#3;</BODY></TEXT>

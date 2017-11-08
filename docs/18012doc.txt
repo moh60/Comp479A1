@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7457" NEWID="18012">
+<DATE> 2-JUN-1987 10:21:40.24</DATE>
+<TOPICS><D>money-fx</D><D>dlr</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE><D>greenspan</D></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;V RM
+&#22;&#22;&#1;f1090&#31;reute
+u f BC-/GREENSPAN-SEES-EVIDE   06-02 0060</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GREENSPAN SEES EVIDENCE DOLLAR FALL OVER</TITLE>
+<DATELINE>    WASHINGTON, June 2 - </DATELINE><BODY>Newly-nominated Federal Reserve Board
+chairman Alan Greenspan said there was evidence the dollar
+finally had bottomed out.
+    In a White House briefing Greenspan was asked by reporters
+if he thought the dollar had bottomed out.
+    "There certainly is evidence in that direction," he replied.
+ Reuter
+&#3;</BODY></TEXT>

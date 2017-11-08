@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12031" NEWID="7118">
+<DATE>19-MAR-1987 10:23:24.44</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>uk</D><D>japan</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f1022&#31;reute
+b f BC-BANK-OF-TOKYO-CURACAO   03-19 0089</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BANK OF TOKYO CURACAO ISSUES CANADIAN DOLLAR BOND</TITLE>
+<DATELINE>    LONDON, March 19 - </DATELINE><BODY>Bank of Tokyo Curacao Holdings NV is
+issuing a 120 mln Canadian dlr eurobond due April 27, 1994 with
+an 8-1/2 pct coupon and priced at 101-1/8 pct, Bank of Tokyo
+International Ltd said as lead manager.
+    The bonds, guaranteed by Bank of Tokyo Ltd, will be issued
+in denominations of 5,000 dlrs and will be listed in
+Luxembourg. Fees consist of 5/8 pct for management and
+underwriting combined and 1-1/4 pct for selling.
+    Co-lead is Pru-Bache Securities.
+ REUTER
+&#3;</BODY></TEXT>

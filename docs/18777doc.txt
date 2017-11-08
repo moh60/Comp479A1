@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6529" NEWID="18777">
+<DATE>18-JUN-1987 12:04:12.78</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A RM F 
+&#22;&#22;&#1;f3685&#31;reute
+u f BC-/SECURITY-PACIFIC-&lt;SP   06-18 0089</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SECURITY PACIFIC &lt;SPC> UNIT'S SHELF EFFECTIVE</TITLE>
+<DATELINE>    NEW YORK, June 18 - </DATELINE><BODY>Security Pacific National Bank, a unit
+of Security Pacific Corp, said the Securities and Exchange
+Commission declared effective its shelf registration statement
+covering 1.2 billion dlrs of mortgage related securities.
+    The bank said it filed the registration statement in April.
+This is the bank's second shelf registration filed in
+connection with Security Pacific Merchant Bank's efforts to
+securitize mortgages originated by Security Pacific National,
+it said.
+ Reuter
+&#3;</BODY></TEXT>

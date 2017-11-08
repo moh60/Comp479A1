@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4218" NEWID="15235">
+<DATE> 8-APR-1987 14:35:55.54</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D><D>japan</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2178&#31;reute
+r f BC-SIEMENS-AG-UNIT-AND-N   04-08 0087</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SIEMENS AG UNIT AND NEC &lt;NIPNY> UNIT IN PACT</TITLE>
+<DATELINE>    BOCA RATON, Fla., April 8 - </DATELINE><BODY>Siemens Information Systems
+Inc, a unit of &lt;Siemens AG> of West Germany, has reached an
+agreement in principle with NEC America Inc, a unit of NEC Corp
+of Japan, allowing Siemens Information's Tel Plus
+Communications Inc subsidiary to continue distributing NEC's
+NEAX2400 Information Management System.
+    Siemens Information said the three year agreement will allow
+TPC to market all current and future NEAX2400 models over the
+contract's term.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4265" NEWID="15282">
+<DATE> 8-APR-1987 15:54:04.41</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2404&#31;reute
+h f BC-KANSAS-POWER/LIGHT-&lt;K   04-08 0048</UNKNOWN>
+<TEXT>&#2;
+<TITLE>KANSAS POWER/LIGHT &lt;KAN> NAMES CHIEF EXECUTIVE</TITLE>
+<DATELINE>    TOPEKA, KAN., April 8 - </DATELINE><BODY>Kansas Power and Light Co said it
+named David Black as chief executive officer. It said he will
+succeed William Wall after the May Five annual meeting.
+    It said Black is the company's senior vice president, law.
+ Reuter
+&#3;</BODY></TEXT>

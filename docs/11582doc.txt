@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17643" NEWID="11582">
+<DATE>31-MAR-1987 14:43:11.02</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2243&#31;reute
+d f BC-CALIFORNIA-ENERGY-&lt;CE   03-31 0106</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CALIFORNIA ENERGY &lt;CECI> NEGOTIATES FINANCING</TITLE>
+<DATELINE>    SANTA ROSA, Calif., March 31 - </DATELINE><BODY>California Energy Co Inc
+said it negotiated a 160 mln dlr private financing with Drexel
+Burnham Lambert Inc.
+    As part of the financing, it received a commitment letter,
+subject to standard conditions, for 133 mln dlrs of project
+financing from Credit Suisse.
+    Proceeds from the financing will be used for equipment
+procurement and construction of an 80-megawatt power plant by
+its China Lake Joint Venture, the company said. It said the
+plant will be built on a geothermal site at China Lake, Calif.,
+on property leased from the federal government.
+ Reuter
+&#3;</BODY></TEXT>

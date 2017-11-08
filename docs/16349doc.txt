@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="884" NEWID="16349">
+<DATE>13-APR-1987 11:14:21.05</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1347&#31;reute
+d f BC-COMBUSTION-ENGINEERIN   04-13 0093</UNKNOWN>
+<TEXT>&#2;
+<TITLE>COMBUSTION ENGINEERING &lt;CSP> IN SYSTEMS PACT</TITLE>
+<DATELINE>    STAMFORD, Conn., April 13 - </DATELINE><BODY>Combustion Engineering Inc said
+its C-E Environmental Systems and Services Inc unit agreed to
+work with Keeler/Dorr-Oliver, a unit of Standard Oil Co &lt;SRD>,
+to develop systems to destroy hazardous wastes.
+    Under the teaming arrangement, Keeler/Dorr-Oliver will
+supply fluid bed technology, equipment and services. C-E
+Environmental will provide environmental consulting and site
+investigations, engineering and construction services and
+operation, maintenance and training services.
+ Reuter
+&#3;</BODY></TEXT>

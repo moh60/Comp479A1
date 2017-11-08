@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17454" NEWID="11393">
+<DATE>31-MAR-1987 11:17:42.69</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F Y
+&#22;&#22;&#1;f1485&#31;reute
+u f BC-USX-&lt;X>,-CONSOLIDATED   03-31 0049</UNKNOWN>
+<TEXT>&#2;
+<TITLE>USX &lt;X>, CONSOLIDATED NATURAL &lt;CNG> END TALKS</TITLE>
+<DATELINE>    DALLAS, March 31 - </DATELINE><BODY>USX Corp's Texas Oil and Gas Corp
+subsidiary and Consolidated Natural Gas Co have mutually agreed
+not to pursue further their talks on Consolidated's possible
+purchase of Apollo Gas Co from Texas Oil.
+    No details were given.
+ Reuter
+&#3;</BODY></TEXT>

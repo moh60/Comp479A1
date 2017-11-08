@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10984" NEWID="6071">
+<DATE>17-MAR-1987 12:08:46.37</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;V
+&#22;&#22;&#1;f5612&#31;reute
+u f AM-REAGAN-POINDEXTER   03-17 0093</UNKNOWN>
+<TEXT>&#2;
+<TITLE>POINDEXTER REFUSES TO TESTIFY BEFORE COMMITTEE</TITLE>
+<DATELINE>    WASHINGTON, March 17 - </DATELINE><BODY>Adm. John Poindexter, a former
+National Security Adviser who resigned over the Iran arms
+scandal, refused to testify before a House committee probing a
+recent expansion of White House and military control over
+unclassified information.
+    "On advice of counsel, I decline to answer that question
+pursuant to my constitutional rights under the Fifth Amendment,"
+Poindexter said four times in response to questions from House
+Government Operations Committee chairman Rep. Jack Brooks.
+ Reuter
+&#3;</BODY></TEXT>

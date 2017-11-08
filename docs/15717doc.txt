@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4894" NEWID="15717">
+<DATE> 9-APR-1987 12:22:27.51</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1627&#31;reute
+d f BC-COLONIAL-BANCGROUP-&lt;C   04-09 0062</UNKNOWN>
+<TEXT>&#2;
+<TITLE>COLONIAL BANCGROUP &lt;CLBGA> MAKES ACQUISITION</TITLE>
+<DATELINE>    MONTGOMERY, Ala., April 9 - </DATELINE><BODY>Colonial BancGroup said it has
+signed letter of intent to acquire Community Bank and Trust of
+Hartselle, Ala., with assets of 26 mln dlrs, for undisclosed
+terms, subject to approval by regulatory authorities and
+Community Bank shareholders.
+    Completion is expected within the next year, it said.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="354" NEWID="12126">
+<DATE> 1-APR-1987 13:07:39.98</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1813&#31;reute
+d f BC-ATT-&lt;T>-OFFERS-DOCUME   04-01 0067</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ATT &lt;T> OFFERS DOCUMENT SOFTWARE PRODUCT</TITLE>
+<DATELINE>    BASKING RIDGE, N.J., April 1 - </DATELINE><BODY>American Telephone and
+Telegraph Co said it has a new version of docuFORUM, a software
+product used to review, revise and transfer documents
+electronically.
+    The software if being offered for a one-time setup charge
+of 1,000 dlrs. ATT also charges 40 dlrs per hour for on-line
+usage fees, with a monthly minimum of 250 dlrs.
+ More
+&#3;</BODY></TEXT>

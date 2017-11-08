@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5997" NEWID="17659">
+<DATE> 1-JUN-1987 13:24:07.90</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1845&#31;reute
+h f BC-DOTRONIX-&lt;DOTX.O>-COM   06-01 0046</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DOTRONIX &lt;DOTX.O> COMPLETES ACQUISITION</TITLE>
+<DATELINE>    NEW BRIGHTON, MINN, June 1 - </DATELINE><BODY>Dotronix Inc said it completed
+the acquisition of Video Monitors Inc for 3.92 mln dlrs.
+    Video Monitors is a privately-owned Wisconsin-based
+manufacturer of video display and and video monitor devices.
+ Reuter
+&#3;</BODY></TEXT>

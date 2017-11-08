@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19694" NEWID="3272">
+<DATE> 9-MAR-1987 13:37:58.20</DATE>
+<TOPICS><D>grain</D><D>wheat</D></TOPICS>
+<PLACES><D>uk</D><D>italy</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G
+&#22;&#22;&#1;f0200&#31;reute
+u f BC-ITALY-SHOWS-INTEREST   03-09 0099</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ITALY SHOWS INTEREST IN U.K. NEW CROP WHEAT</TITLE>
+<DATELINE>    LONDON, March 9 - </DATELINE><BODY>Italy has shown interest in British new
+crop wheat recently but the actual volume booked so far by
+Italian buyers has not been large, traders said.
+    They put purchases at around 50,000 tonnes for Sept/Dec
+shipments but said some of the business was transacted at the
+start of the year.
+    Italian interior home markets have been active in recent
+weeks and traders said around 200,000 tonnes have traded
+between dealers and home consumers. Some of this has been
+covered in the market here and more possibly will be, traders
+said.
+ Reuter
+&#3;</BODY></TEXT>

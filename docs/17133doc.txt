@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="NOT-USED" CGISPLIT="PUBLISHED-TESTSET" OLDID="21756" NEWID="17133">
+<DATE>24-APR-1987 12:46:35.95</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F Y
+&#22;&#22;&#1;f1739&#31;reute
+u f BC-CORRECTION---PHIBRO-E   04-24 0067</UNKNOWN>
+<TEXT TYPE="UNPROC">&#2;
+CORRECTION - PHIBRO ENERGY CHAIRMAN
+    In New York story headlined "Phibro Energy chairman said to
+have resigned," please read in headline "Former Phibro Energy
+Chariman Starts New company" and first paragraph: Thomas
+O'Malley, former chairman and chief executive officer of Phibro
+Energy, a subsidiary of Salomon Bros. Inc., has formed a oil
+trading company. (clarifies that O'Malley was former chairman)
+&#3;
+
+</TEXT>

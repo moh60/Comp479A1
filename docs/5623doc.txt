@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10536" NEWID="5623">
+<DATE>16-MAR-1987 15:01:59.47</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A RM
+&#22;&#22;&#1;f3368&#31;reute
+r f BC-WESTERN-DIGITAL-&lt;WDC>   03-16 0104</UNKNOWN>
+<TEXT>&#2;
+<TITLE>WESTERN DIGITAL &lt;WDC> TO REDEEM CONVERTIBLE DEBT</TITLE>
+<DATELINE>    NEW YORK, March 16 - </DATELINE><BODY>Western Digital Corp said it intends
+to call for redemption on April six all of its outstanding
+6-3/4 pct convertible subordinated debentures due 2011.
+    It said it would buy back the convertible debentures at
+1,090.94 dlrs per each 1,000 dlr face amount, including accrued
+interest.
+    Until the close of business on April six, the debentures
+are convertible into the company's common stock at 17.50 dlrs
+per share, or 57.14 shares per each 1,000 dlr debenture. The
+company's stock closed at 26.625 dlrs a share on Friday,
+WEestern Digital said.
+ Reuter
+&#3;</BODY></TEXT>

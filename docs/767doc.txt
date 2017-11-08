@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12950" NEWID="767">
+<DATE> 2-MAR-1987 16:21:29.63</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0038&#31;reute
+h f BC-UNION-NATIONAL-&lt;UNBC>   03-02 0068</UNKNOWN>
+<TEXT>&#2;
+<TITLE>UNION NATIONAL &lt;UNBC> SIGNS DEFINITIVE PACT</TITLE>
+<DATELINE>    MASONTOWN, PA., March 2 - </DATELINE><BODY>Union National Corp said it
+signed a definitive agreement under which its First National
+Bank and Trust Co of Washington unit will merge with &lt;Second
+National Bank of Masontown>.
+    Under a previously announced merger agreement, each share
+of Second National's common stock will be converted into 25
+shares of Union National common.
+ Reuter
+&#3;</BODY></TEXT>

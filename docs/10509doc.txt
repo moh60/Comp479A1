@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16030" NEWID="10509">
+<DATE>27-MAR-1987 11:53:40.96&#5;&#5;&#5;E F</DATE>
+<UNKNOWN>&#22;&#22;&#1;f1442&#31;reute</UNKNOWN>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+r f BC-glamis-gold-sets   03-27 0052</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GLAMIS GOLD &lt;GLGVF> SETS COMMON STOCK SPLIT</TITLE>
+<DATELINE>    VANCOUVER, British Columbia, March 27 - </DATELINE><BODY>Glamis Gold Ltd
+said it will ask shareholders at an April 1 extraordinary
+general meeting to approve a one-and-one-half for one common
+share split.
+    Record date for the split will be set in the near future,
+the company said.
+ Reuter
+&#3;</BODY></TEXT>

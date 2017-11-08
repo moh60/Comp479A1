@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7449" NEWID="18004">
+<DATE> 2-JUN-1987 10:06:06.42</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f1036&#31;reute
+b f BC-BRIXTON-ESTATE-LAUNCH   06-02 0075</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BRIXTON ESTATE LAUNCHES UNLIMITED STG CP PROGRAM</TITLE>
+<DATELINE>    LONDON, June 2 - </DATELINE><BODY>Brixton Estate Plc is establishing a
+sterling commercial paper program for an unlimited amount, J.
+Henry Schroder Wagg and Co Ltd said as arranger.
+    Dealers will be Schroder Wagg, S.G. Warburg and Co Ltd and
+County Natwest Capital Markets Ltd.
+    The paper will be issued in denominations of 500,000 and
+one mln stg and will have maturities between seven and 364
+days.
+ REUTER
+&#3;</BODY></TEXT>

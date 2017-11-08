@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13848" NEWID="8327">
+<DATE>23-MAR-1987 11:28:13.53</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1355&#31;reute
+u f BC-INVESTOR-ACQUIRES-9.9   03-23 0080</UNKNOWN>
+<TEXT>&#2;
+<TITLE>INVESTOR ACQUIRES 9.9 PCT OF MUNFORD &lt;MFD></TITLE>
+<DATELINE>    WASHINGTON, March 23 - </DATELINE><BODY>A joint venture controlled by Dallas
+investor Bradbury Dyer said it had acquired 377,000 shares, or
+9.9 pct, of the common stock of Munford Inc.
+    In a filing with the Securities and Exchange Commission,
+the concern, which comprises Paragon Associates and Paragon
+Associates II, said it bought the stake for 7,659,000 dlrs and
+may buy more shares.
+    Paragon said it bought the shares for investment purposes.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7704" NEWID="18259">
+<DATE> 2-JUN-1987 15:39:08.16</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2484&#31;reute
+r f BC-RAINIER-BANCORP-&lt;RBAN   06-02 0089</UNKNOWN>
+<TEXT>&#2;
+<TITLE>RAINIER BANCORP &lt;RBAN.O> NAMES NEW UNIT EXEC</TITLE>
+<DATELINE>    SEATTLE, June 2 - </DATELINE><BODY>Rainier Bancorp said Allan Nichols, head
+of its Consumer Banking Division, has resigned, effective June
+19, and will be succeeded by David Williams.
+    Williams is currently head of its Corporate Banking
+division, Rainier said.
+    It said James Cullen, currently in charge of International
+Banking, will succeed Williams in Corporate Banking and Steve
+Driscol, director of the International Division's Asia-Pacific
+Region, will succeed Cullen at International Banking.
+
+ Reuter
+&#3;</BODY></TEXT>

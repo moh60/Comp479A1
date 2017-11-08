@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4914" NEWID="15737">
+<DATE> 9-APR-1987 12:41:45.63</DATE>
+<TOPICS><D>trade</D><D>coffee</D></TOPICS>
+<PLACES><D>colombia</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f1725&#31;reute
+u f BC-EXPORTS-OTHER-THAN-CO   04-09 0108</UNKNOWN>
+<TEXT>&#2;
+<TITLE>EXPORTS OTHER THAN COFFEE RISE SHARPLY IN COLOMBIA</TITLE>
+<DATELINE>    BOGOTA, April 9 - </DATELINE><BODY>Colombian exports other than coffee rose
+55 pct in January compared with the same period last year,
+figures from the government statistics institute show.
+    Non-coffee exports amounted to 180.8 mln dlrs fob compared
+with 147.5 mln dlrs for coffee, a drop of 42 pct from last
+year.
+    The trade balance registered a 35 mln dlr surplus, compared
+with a 56 mln dlr surplus in January 1986.
+    The national planning department forecast that in 1987
+coffee, Colombia's traditional major export, will account for
+only one third of total exports, or about 1.5 billion dlrs.
+ REUTER
+&#3;</BODY></TEXT>

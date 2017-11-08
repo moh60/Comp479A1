@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19813" NEWID="3391">
+<DATE> 9-MAR-1987 17:08:25.75</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0894&#31;reute
+u f BC-FLUOR-CORP-&lt;FLR>-WINS   03-09 0108</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FLUOR CORP &lt;FLR> WINS 197.6 MLN DLR ARMY CONTRACT</TITLE>
+<DATELINE>    IRVINE, Calif., March 9 - </DATELINE><BODY>Fluor Corp said it won a 197.6
+mln dlr contract from the U.S. Army Engineer District, with a
+follow-on option for an additional 450 mln dlrs.
+    Fluor's Fluor Constructors Inc unit will perform
+procurement and construction for Ground Based Free Electron
+Laser-Technology Integrated Experiment Project at the White
+Sands Missile Range in New Mexico.
+    Phase I Construction will begin this month and is scheduled
+for completion in September, 1990.
+    Based on its results, a Phase II follow-on option may be
+implemented for an additional two years, the company said.
+ Reuter
+&#3;</BODY></TEXT>

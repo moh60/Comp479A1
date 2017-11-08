@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="1655" NEWID="12579">
+<DATE> 2-APR-1987 10:30:54.44</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1199&#31;reute
+r f BC-AMERICAN-REALTY-&lt;ARB>   04-02 0060</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AMERICAN REALTY &lt;ARB> SETS RECORD DATE FOR OFFER</TITLE>
+<DATELINE>    DALLAS, April 2 - </DATELINE><BODY>American Realty Trust said its board has
+set April 3 as the record date for its previously announced
+rights offering, and the rights will be issued on April 6 and
+expire May 22.
+    Shareholders will be able to subscribe for 1.25 shares for
+each share held, at a price of 3.75 dlrs per share.
+ Reuter
+&#3;</BODY></TEXT>

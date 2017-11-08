@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6411" NEWID="18659">
+<DATE>18-JUN-1987 09:46:48.29</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f3084&#31;reute
+r f BC-GE-&lt;GE>-GETS-250-MLN   06-18 0075</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GE &lt;GE> GETS 250 MLN DLR ENGINE ORDER</TITLE>
+<DATELINE>    NEW YORK, June 18 - </DATELINE><BODY>General Electric Co said it has
+received contracts worth 250 mln dlrs, including options, to
+supply its CF6-80C2 engines for the 747-400 and MD-11 airliners
+ordered from Boeing Co &lt;BA> and McDonnell Douglas Corp &lt;MD>
+respectively by Thai Airways International.
+    The company said it also received a 16 mln dlr order from
+Thai Air for CF6-50 engines on a McDonnell Douglas DC-10 Series
+30.
+ Reuter
+&#3;</BODY></TEXT>

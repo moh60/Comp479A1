@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18706" NEWID="2288">
+<DATE> 5-MAR-1987 13:14:17.54</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>france</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0158&#31;reute
+u f BC-FRENCH-AGRICULTURAL-B   03-05 0087</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FRENCH AGRICULTURAL BANK ISSUES 300 MLN FRANC BOND</TITLE>
+<DATELINE>    PARIS, March 5 - </DATELINE><BODY>Banque Francaise de l'Agriculture said it
+is issuing for its own account a 300 mln franc, variable-rate,
+seven year and 13 day domestic bond which it will lead along
+with l'Union de Garantie et de Placement.
+    The bond, issued at 98.30 pct, will have interest based on
+the annualised money market rate (TAM) with the first coupon
+paid on April 6.
+    Denominations are of 5,000 francs nominal and the issue
+will be quoted on the Paris Bourse.
+ REUTER
+&#3;</BODY></TEXT>

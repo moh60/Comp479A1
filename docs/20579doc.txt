@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="21174" NEWID="20579">
+<DATE>20-OCT-1987 14:47:16.04</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A 
+&#22;&#22;&#1;f2779&#31;reute
+d f BC-CHASE-&lt;CMB>-ACQUIRES   10-20 0050</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CHASE &lt;CMB> ACQUIRES REVOLVING CREDIT</TITLE>
+<DATELINE>    NEW YORK, Oct 20 - </DATELINE><BODY>Chase Manhattan Bank, a unit of Chase
+Manhattan Corp, said it acquired a portfolio of approximately
+190,000 consumer revolving credit accounts from Atlantic
+Financial Federal &lt;ATLF.O>.
+    The portfolio is estimated to be worth 370 mln dlrs.
+
+ Reuter
+&#3;</BODY></TEXT>

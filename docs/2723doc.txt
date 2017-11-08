@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19141" NEWID="2723">
+<DATE> 6-MAR-1987 12:28:37.20</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0829&#31;reute
+d f BC-CORRECTION---HEINEKEN   03-06 0037</UNKNOWN>
+<TEXT TYPE="UNPROC">&#2;
+CORRECTION - HEINEKEN 1986 YEAR
+    In item headlined "HEINEKEN N.V. &lt;HEIN.AS> 1986 YEAR" please
+read in first line pre-tax profit 513.2 mln guilders vs 454.5
+mln.
+    Corrects year ago comparison to 454.5 mln from 545.5 mln.
+ Reuter
+&#3;
+
+</TEXT>

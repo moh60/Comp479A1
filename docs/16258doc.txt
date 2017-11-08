@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="793" NEWID="16258">
+<DATE>13-APR-1987 09:45:24.99</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0929&#31;reute
+u f BC-P.H.-GLATFELTER-&lt;GLT>   04-13 0086</UNKNOWN>
+<TEXT>&#2;
+<TITLE>P.H. GLATFELTER &lt;GLT> ACQUIRING ECUSTA</TITLE>
+<DATELINE>    SPRING GROVE, Pa., April 13 - </DATELINE><BODY>P.H. Glatfelter Co said it
+has reached an agreement to acquire all the capital stock of 
+&lt;Ecusta Corp> for 149,177,857 dlrs in cash.
+    Glatfelter, a printing and writing paper maker, said Ecusta
+operates an uncoded three sheet and light-weight specialty
+paper mill in Pisgah Forest, N.C. The mill produces and
+converts paper products used by the doemstic and foreign
+tobacco industry.
+    Glatfelter said it expects to close the deal by May 31.
+ Reuter
+&#3;</BODY></TEXT>

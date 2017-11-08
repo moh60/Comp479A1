@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11944" NEWID="7031">
+<DATE>19-MAR-1987 07:41:42.61</DATE>
+<TOPICS><D>interest</D></TOPICS>
+<PLACES><D>west-germany</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A
+&#22;&#22;&#1;f0527&#31;reute
+u f BC-BUNDESBANK-LEAVES-CRE   03-19 0051</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BUNDESBANK LEAVES CREDIT POLICIES UNCHANGED</TITLE>
+<DATELINE>    FRANKFURT, March 19 - </DATELINE><BODY>The Bundesbank left credit policies
+unchanged after today's regular meeting of its council, a
+spokesman said in answer to enquiries.
+    The West German discount rate remains at 3.0 pct, and the
+Lombard emergency financing rate at 5.0 pct.
+ REUTER
+&#3;</BODY></TEXT>

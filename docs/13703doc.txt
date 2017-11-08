@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="2686" NEWID="13703">
+<DATE> 7-APR-1987 09:18:34.84</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A RM
+&#22;&#22;&#1;f0731&#31;reute
+r f BC-RENT-A-CENTER-&lt;RENT>   04-07 0095</UNKNOWN>
+<TEXT>&#2;
+<TITLE>RENT-A-CENTER &lt;RENT> SELLS CONVERTIBLE DEBT</TITLE>
+<DATELINE>    NEW YORK, April 7 - </DATELINE><BODY>Rent-A-Center Inc is raising 35 mln
+dlrs via an offering of convertible subordinated debentures due
+2012 with a 5-3/4 pct coupon and par pricing, said sole manager
+Morgan Stanley and Co Inc.
+    The debentures are convertible into the company's common
+stock at 40.50 dlrs per share, representing a premium of 25.58
+pct over the stock price when terms on the debt were set.
+    Non-callable for two years, the issue is rated Ba-3 by
+Moody's Investors Service Inc and BB-minus by Standard and
+Poor's Corp.
+ Reuter
+&#3;</BODY></TEXT>

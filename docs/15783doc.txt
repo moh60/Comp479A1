@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5138" NEWID="15783">
+<DATE> 9-APR-1987 13:30:40.86</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1909&#31;reute
+r f BC-NEW-JERSEY-STEEL-FILE   04-09 0104</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NEW JERSEY STEEL FILES FOR INITIAL STOCK SALE</TITLE>
+<DATELINE>    SAYREVILLE, N.J., April 9 - </DATELINE><BODY>&lt;New Jersey Steel Corp> said it
+filed a registration statement with the Securities and Exchange
+Commission for the initial public offering of 1.8 mln shares of
+common stock at an estimated price of 20 dlrs to 22 dlrs a
+share.
+    The company said it would sell one mln shares and that &lt;Von
+Roll Ltd>, would sell the remaining 800,000 shares.
+    Proceeds from the offering, to be made through an
+underwriting group managed by PaineWebber Inc, will be used for
+capital expenditures and repayment of long-term debt owed to
+Von Roll, the company said.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="999" NEWID="16464">
+<DATE>13-APR-1987 12:39:33.41</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1784&#31;reute
+d f BC-HUGH-KEITH-&lt;HKME.O>-C   04-13 0041</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HUGH KEITH &lt;HKME.O> COMPLETES ACQUISITION</TITLE>
+<DATELINE>    HALLANDALE, Fla., April 13 - </DATELINE><BODY>Hugh Keith Mobile Enterprises
+Ltd said it completed the acquisition of 59 acres of land
+adjacent to its mobile home park near Stuart, Fla., for 850,000
+dlrs in cash and notes.
+ Reuter
+&#3;</BODY></TEXT>

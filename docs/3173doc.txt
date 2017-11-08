@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19595" NEWID="3173">
+<DATE> 9-MAR-1987 11:57:05.85</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0693&#31;reute
+b f BC-UAL'S-&lt;UAL>-AIRLINE-F   03-09 0082</UNKNOWN>
+<TEXT>&#2;
+<TITLE>UAL'S &lt;UAL> AIRLINE FEBRUARY LOAD FACTOR RISES</TITLE>
+<DATELINE>    CHICAGO, March 9 - </DATELINE><BODY>UAL Inc said its United Airlines unit's
+load factor for February rose to 63.2 pct from 58.9 pct the
+year before.
+    The airline said scheduled capacity for the month rose 27.7
+pct to 7.60 billion available seat miles from 5.95 billion,
+while traffic rose 37 pct to 4.80 revenue passenger miles from
+3.50 billion.
+    February 1987 figures include its new Pacific routes
+acquired from Pan American World Airways in early 1986.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15180" NEWID="9659">
+<DATE>25-MAR-1987 18:34:17.40</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D><D>haiti</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS><D>worldbank</D></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A
+&#22;&#22;&#1;f2685&#31;reute
+r f BC-WORLD-BANK-AFFILIATE   03-25 0098</UNKNOWN>
+<TEXT>&#2;
+<TITLE>WORLD BANK AFFILIATE PROVIDES CREDIT FOR HAITI</TITLE>
+<DATELINE>    WASHINGTON, March 25 - </DATELINE><BODY>The World Bank today approved a 40
+million mln dlr loan to assist an economic reform program under
+way in Haiti.
+    The bank said the loan is being made through its affiliate,
+the International Development Association, and will be used to
+restore economic confidence, approve the allocation of
+resources, and stimulate economic growth.
+    The bank said the the 50-year credit, which is interest
+free, comes as there is growing evidence that reforms already
+underway have improved the country's economic situation.
+ REUTER
+&#3;</BODY></TEXT>

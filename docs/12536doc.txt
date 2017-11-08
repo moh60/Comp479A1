@@ -1,0 +1,33 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="1612" NEWID="12536">
+<DATE> 2-APR-1987 09:40:11.27</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0974&#31;reute
+r f BC-TIDEWATER-&lt;TDW>-COMPL   04-02 0099</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TIDEWATER &lt;TDW> COMPLETES DEBT RESTRUCTURE</TITLE>
+<DATELINE>    NEW ORLEANS, April 2 - </DATELINE><BODY>Tidewater Inc said it completed
+agreements to restructure about 125 mln dlrs in debt that call
+for payment of interest only through March 1989.
+    The deferral of all principal payments until April 1989
+will save the company 12 mln dlrs in cash flow in each of the
+next two years, it said.
+    The restructured agreements call for suspending dividend
+payment on Tidewater's common and convertible adjustable
+preferred stock and contain other restrictive covenants,
+including a requirement to maintain minimum tangible net worth.
+    &lt;Prudential Insurance Co> and Manufacturers Hanover Corp
+&lt;MHC>, the company's principle lenders, will receive as
+collateral a pledge of stock in Tidewater subsidiaries that own
+interests in oil and gas ventures offshore Indonesia.
+    Banca Nazionale del Lavoro, an Italian bank, will obtain a
+security interest in Tidewater's assets in Italy.
+ Reuter
+&#3;</BODY></TEXT>

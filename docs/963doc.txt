@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16283" NEWID="963">
+<DATE> 3-MAR-1987 08:10:59.45</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0101&#31;reute
+u f BC-BRYSON-PAYS-5.4-MLN-D   03-03 0108</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BRYSON PAYS 5.4 MLN DLRS FOR CENERGY CORP STAKE</TITLE>
+<DATELINE>    LONDON, March 2 - </DATELINE><BODY>&lt;Bryson Oil and Gas Plc> said it paid a
+cash consideration of around 5.4 mln dlrs for about 8.6 pct of
+&lt;Cenergy Corp>, a U.S. Oil and gas exploration and production
+company.
+    Bryson said its board has been considering a number of
+possible investments to expand the company's interests and
+believes the opportunity to acquire an investment in Cenergy
+provides a suitable extension to its existing U.S. Interests.
+    Cenergy reported a net loss of 7.27 mln dlrs in the nine
+months to September 30, 1986 while total stockholders equity on
+the same date was 40.72 mln dlrs.
+ REUTER
+&#3;</BODY></TEXT>

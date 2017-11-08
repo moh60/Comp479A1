@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12908" NEWID="725">
+<DATE> 2-MAR-1987 15:38:59.02</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F A
+&#22;&#22;&#1;f0907&#31;reute
+r f BC-SECURITY-PACIFIC-&lt;SPC   03-02 0083</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SECURITY PACIFIC &lt;SPC> COMPLETES MERGER</TITLE>
+<DATELINE>    LOS ANGELES, March 2 - </DATELINE><BODY>Security Pacific Corp said it
+completed its planned merger with Diablo Bank following the
+approval of the comptroller of the currency.
+    Security Pacific announced its intention to merge with
+Diablo Bank, headquartered in Danville, Calif., in September
+1986 as part of its plan to expand its retail network in
+Northern California.
+    Diablo has a bank offices in Danville, San Ramon and Alamo,
+Calif., Security Pacific also said.
+ Reuter
+&#3;</BODY></TEXT>

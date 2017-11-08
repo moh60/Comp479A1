@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12240" NEWID="7327">
+<DATE>19-MAR-1987 14:15:19.44</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2027&#31;reute
+b f BC-JOHNSON-SAYS-GROWTH-W   03-19 0099</UNKNOWN>
+<TEXT>&#2;
+<TITLE>JOHNSON SAYS GROWTH WILL DIFFUSE DEBT CRISIS</TITLE>
+<DATELINE>    WASHINGTON, March 19 - </DATELINE><BODY>Federal Reserve Board Vice Chairman
+Manuel Johnson said a resolution of the debt crisis depends on
+growth in the industrialized world.
+    "We can work our way through as long as we have growth in
+industrialized countries to allow indebted countries to get out
+of their problems," Johnson told the Women in Housing and
+Finance.
+    Johnson also underscored the need to continue enforcing
+loan conditionality and repeated his opposition to debt relief.
+He rejected a "quick fix solution" adding, "There are no free
+lunches."
+ Reuter
+&#3;</BODY></TEXT>

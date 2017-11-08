@@ -1,0 +1,20 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14754" NEWID="9233">
+<DATE>25-MAR-1987 08:14:49.51</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0658&#31;reute
+u f BC-JEFFERIES-&lt;JEFG>-SETS   03-25 0037</UNKNOWN>
+<TEXT>&#2;
+<TITLE>JEFFERIES &lt;JEFG> SETS SUPERMARKETS &lt;SGL> MARKET</TITLE>
+<DATELINE>    LOS ANGELES, March 25 - </DATELINE><BODY>Jefferies Group Inc said it is
+making a market in the stock of Supermarkets General Corp.
+    It said the current bid is 45 dlrs bid, 46 dlrs offered.
+ Reuter
+&#3;</BODY></TEXT>

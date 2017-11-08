@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12807" NEWID="624">
+<DATE> 2-MAR-1987 13:27:41.27</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0514&#31;reute
+d f BC-FLANIGAN'S-ENTERPRISE   03-02 0054</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FLANIGAN'S ENTERPRISES INC &lt;BDL> 1ST QTR DEC 27</TITLE>
+<DATELINE>    MIAMI, March 2 -
+    </DATELINE><BODY>Shr 64 cts vs 1.16 dlrs
+    Net 602,000 vs 1,079,893
+    Sales 8,208,000 vs 11.6 mln
+    NOTE: Prior year net includes gain 1,317,000 dlrs or 1.41
+dlrs shr on sale of West Paces Racquet Club.
+    Current year net includes 15 ct shr extraordinary gain.
+ Reuter
+&#3;</BODY></TEXT>

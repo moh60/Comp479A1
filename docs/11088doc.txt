@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17149" NEWID="11088">
+<DATE>30-MAR-1987 16:52:52.72</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2590&#31;reute
+r f BC-GENOVA-&lt;GNVA>-TO-MERG   03-30 0049</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GENOVA &lt;GNVA> TO MERGE INTO GENOVA PRODUCTS</TITLE>
+<DATELINE>    DAVISON, Mich., March 30 - </DATELINE><BODY>Genova Inc said its shareholders
+approved a merger into &lt;Genova Products Inc>, which will be
+consumated within a few days. Under the agreement, Genova said
+each of its shareholders will receive 5.375 dlrs per share in
+cash.
+ Reuter
+&#3;</BODY></TEXT>

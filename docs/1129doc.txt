@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16449" NEWID="1129">
+<DATE> 3-MAR-1987 11:48:33.00</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>italy</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;V
+&#22;&#22;&#1;f0886&#31;reute
+u f BC-ITALIAN-PRIME-MINISTE   03-03 0084</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ITALIAN PRIME MINISTER CRAXI SAYS HE WILL RESIGN</TITLE>
+<DATELINE>    ROME, March 3 - </DATELINE><BODY>Socialist Prime Minister Bettino Craxi said
+his five party coalition government would resign.
+    Craxi, Italy's prime minister for a postwar record of 3-1/2
+years, told the Senate (upper house) he would hand his and the
+government's resignation to President Francesco Cossiga
+immediately after leaving the chamber.
+    Craxi has been prime minister, at the head of two separate
+but identical five-party coalitions, since August 1983.
+ Reuter
+&#3;</BODY></TEXT>

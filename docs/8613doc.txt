@@ -1,0 +1,31 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14134" NEWID="8613">
+<DATE>24-MAR-1987 03:30:37.51</DATE>
+<TOPICS><D>grain</D></TOPICS>
+<PLACES><D>china</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;G C
+&#22;&#22;&#1;f0155&#31;reute
+u f BC-CHINA-SAYS-POSSIBLE-G   03-24 0110</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CHINA SAYS POSSIBLE GOOD HARVEST DESPITE DROUGHT</TITLE>
+<DATELINE>    PEKING, March 24 - </DATELINE><BODY>China's summer grain harvest may be good
+despite a serious drought because the State Council (cabinet)
+has spent one billion yuan on irrigation and other anti-drought
+work, a Hong Kong newspaper said.
+    Wen Hui Bao said the drought, which has affected Shanxi,
+Hebei, Henan and Shandong the most, has eased with March rains
+in south China and March snowfall in the north and as some new
+irrigation projects have come into use.
+    "If the drought does not worsen, there is hope for a bumper
+harvest," it quoted experts of the Ministry of Electric Power as
+saying. They gave no figures.
+    The 1986 summer grain harvest was a record 93 mln tonnes,
+up from 92 mln in 1985, out of a total 1986 grain harvest of
+391 mln. The 1987 target is 405 mln.
+ REUTER
+&#3;</BODY></TEXT>

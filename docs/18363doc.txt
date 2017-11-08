@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7808" NEWID="18363">
+<DATE> 2-JUN-1987 20:58:19.60</DATE>
+<TOPICS><D>money-fx</D><D>dlr</D><D>yen</D></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f2993&#31;reute
+f f BC-Bank-of-Japan-interve   06-02 0014</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE>Bank of Japan intervened buying small amount of dollars at 142.85 yen - dealers
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

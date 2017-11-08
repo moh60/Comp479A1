@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17551" NEWID="11489">
+<DATE>31-MAR-1987 12:54:40.42</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1887&#31;reute
+d f BC-CARTER-DAY-IN-SETTLEM   03-31 0098</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CARTER-DAY IN SETTLEMENT WITH POWER COMPANIES</TITLE>
+<DATELINE>    CHARLESTON, S.C, March 31 - </DATELINE><BODY>Carter-Day INdustries Inc said
+it reached an eight mln dlrs settlement in a suit filed in the
+Bankruptcy Court for the Southern District of N.Y. against five
+power companies.
+    The suit was filed against Montana Power Co &lt;MTP>, Puget
+Sound Power and Light Co &lt;PSD>, Portland General Electric Co
+&lt;PGN>, Washington Water Power Co &lt;WWP> and PacifiCorp's &lt;PPW>
+Pacific Power and Light Co.
+    Carter-Day said proceeds from the settlement will be used
+to restore the company's liquidity, working capital and net
+worth.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,20 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5775" NEWID="17437">
+<DATE> 1-JUN-1987 00:26:05.57</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>sri-lanka</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0022&#31;reute
+u f BC-SRI-LANKA-OFFERS-250   06-01 0032</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SRI LANKA OFFERS 250 MLN RUPEES IN T-BILLS</TITLE>
+<DATELINE>    COLOMBO, June 1 - </DATELINE><BODY>The Central Bank said it will offer offer
+250 mln rupees worth of three-month treasury bills in a tender
+closing on June 4.
+ REUTER
+&#3;</BODY></TEXT>

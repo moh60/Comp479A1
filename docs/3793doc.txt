@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="8706" NEWID="3793">
+<DATE>11-MAR-1987 13:05:38.31</DATE>
+<TOPICS><D>gold</D></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0005&#31;reute
+u f BC-BRITAIN-TO-MINT-NEW-"   03-11 0084</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BRITAIN TO MINT NEW "BRITANNIA" GOLD COIN</TITLE>
+<DATELINE>    LONDON, March 11 - </DATELINE><BODY>Britain will from next autumn mint and
+market a new bullion coin called the "Britannia" containing one
+ounce of 24 carat gold, together with bullion coins of smaller
+denominations, a Treasury official said.
+    The new investment coin, to be sold worldwide, will
+fluctuate in price according to the international price of
+gold.
+    The smaller coins will be in denominations of a half ounce,
+a quarter ounce and a tenth of an ounce. REUTER
+&#3;</BODY></TEXT>

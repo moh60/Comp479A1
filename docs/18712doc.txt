@@ -1,0 +1,33 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6464" NEWID="18712">
+<DATE>18-JUN-1987 11:02:29.39</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D><D>france</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f3399&#31;reute
+r f BC-FRANCE-VIDEOTEX-SERVI   06-18 0081</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FRANCE VIDEOTEX SERVICE IN PACT WITH U.S. UNIT</TITLE>
+<DATELINE>    NEW YORK, June 17 - </DATELINE><BODY>The French agency for international
+marketing of videotex, &lt;Intelmatique>, said it plans to bring
+the Minitel network to the U.S. in cooperation with Infonet, an
+international network service of Computer Sciences Corp &lt;CSC>.
+    Minitel, which now offers Gannett Co Inc's &lt;GCI> USA Today
+and the &lt;British Broadcasting Corp's> news service, will be
+aimed at French-speaking businesses in the U.S., Intelmatique
+said.
+   
+    Initially, only about 300 applications in the Eastern
+corridor between the New York area and Washington will be
+included in the pilot project, the company said.
+    Users will pre-pay communciation costs and connetion fees
+of about 25 dlrs per hour, the company said. Also, participants
+in the pilot program will be able to rent Minitel terminals for
+25 dlrs per month, Intelmatique said.
+ Reuter
+&#3;</BODY></TEXT>

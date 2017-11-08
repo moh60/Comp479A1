@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12166" NEWID="7253">
+<DATE>19-MAR-1987 12:43:58.29</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1688&#31;reute
+r f BC-WARBURG-BEGINS-TENDER   03-19 0104</UNKNOWN>
+<TEXT>&#2;
+<TITLE>WARBURG BEGINS TENDER OFFER FOR SYMBION &lt;SYMB></TITLE>
+<DATELINE>    SALT LAKE CITY, March 19 - </DATELINE><BODY>Symbion Inc said &lt;Warburg, 
+Pincus Capital Co L.P.> began a tender offer to purchase up to
+2.5 mln shares, or about 33 pct, of Symbion's shares at 3.50
+dlrs per share. Warburg already owns about 26 pct of Symbion.
+    Symbion has 7,472,000 shares outstanding. The company makes
+artificial hearts.
+    Symbion said its board and management are carefully
+reviewing the offer and on or before March 30 will advise its
+shareholders on whether it accepts or rejects the offer. If the
+tender offer is successful, Warburg wll own about 59 pct of
+Symbion.
+ Reuter
+&#3;</BODY></TEXT>

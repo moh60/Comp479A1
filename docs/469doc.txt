@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12652" NEWID="469">
+<DATE> 2-MAR-1987 10:54:08.40</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0815&#31;reute
+r f BC-REGENCY-CRUISES-INC-&lt;   03-02 0097</UNKNOWN>
+<TEXT>&#2;
+<TITLE>REGENCY CRUISES INC &lt;SHIP> ELECTS NEW CHAIRMAN</TITLE>
+<DATELINE>    NEW YORK, March 2 - </DATELINE><BODY>Regency Cruises Inc said its board
+elected William Schanz as its chairman and chief executive
+officer. He replaces Anastasios Kyriakides, who resigned in
+December.
+    Schantz has served as president, treasurer, and a director
+since its inception in 1984.
+    The company also elected three directors. They are Paul
+Hermann, John Clive Bayley and Costas Galetakis. The company
+said they replace Paul Wells and Douglas MacGarvey, who also
+resigned in December. One new director's post has been added,
+Regency said.
+ Reuter
+&#3;</BODY></TEXT>

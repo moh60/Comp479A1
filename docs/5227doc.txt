@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10140" NEWID="5227">
+<DATE>16-MAR-1987 05:07:11.44</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>argentina</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS><D>worldbank</D></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f1354&#31;reute
+u f BC-WORLD-BANK-VICE-PRESI   03-16 0105</UNKNOWN>
+<TEXT>&#2;
+<TITLE>WORLD BANK VICE-PRESIDENT PRAISES ARGENTINE PLANS</TITLE>
+<DATELINE>    BUENOS AIRES, March 16 - </DATELINE><BODY>World Bank Vice-President David
+Knox said the bank was eager to finance Argentine plans to
+stimulate growth and that he was urging private banks to grant
+new loans to the country.
+    Knox said in an interview with the local daily La Nacion
+yesterday that Argentina's current economic policies contained
+key elements to stimulate growth and the World Bank was very
+interested in financing its growth.
+    "We are encouraging creditor banks to grant new loans to
+make Argentine growth possible," said Knox, who arrived in
+Argentina last Thursday.
+ REUTER
+&#3;</BODY></TEXT>

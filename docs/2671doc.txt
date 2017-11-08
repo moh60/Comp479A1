@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19089" NEWID="2671">
+<DATE> 6-MAR-1987 11:36:08.82</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0578&#31;reute
+r f BC-CYPRUS-MINERALS-&lt;CYPM   03-06 0093</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CYPRUS MINERALS &lt;CYPM> NAMED IN SUITS</TITLE>
+<DATELINE>    DENVER, March 6 - </DATELINE><BODY>Cyprus Minerals Co said along with about
+40 other companies, it has been named a defendant in 23 product
+liability lawsuits filed in California by individual
+tireworkers aleging injury as a result of exposure to talc and
+other products.
+    It said other suits are expected to be brought.
+    Cyprus, which produces talc, said it has significant
+factual and legal defenses and substantial insurance coverage
+and does not expect the suits to have a material adverse impact
+on its financial condition.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="3077" NEWID="14094">
+<DATE> 7-APR-1987 11:26:20.18</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1263&#31;reute
+d f BC-LOWE'S-&lt;LOW>-TO-SELL   04-07 0040</UNKNOWN>
+<TEXT>&#2;
+<TITLE>LOWE'S &lt;LOW> TO SELL DURAKON &lt;DRKN> LINER</TITLE>
+<DATELINE>    LAPEER, Mich., April 7 - </DATELINE><BODY>Durakon Industries Inc said its
+All Star Liner will be sold as the exclusive pickup truckbed
+liner in Lowe's Cos Inc's 300 retail home center outlets in the
+Southeastern U.S.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="8233" NEWID="19905">
+<DATE>29-JUN-1987 16:32:35.35</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2496&#31;reute
+r f BC-HONK-KONG-AND-SHANGHA   06-29 0056</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HONK KONG AND SHANGHAI &lt;HKS> NAMES AMERICAS CEO</TITLE>
+<DATELINE>    NEW YORK, June 29 - </DATELINE><BODY>The Hong Kong and Shanghai Banking Corp
+said it named John Bond chief executive officer Americas,
+succeeding Angus Petrie, who is retiring.
+    Bond will have responsibility for the bank's operations in
+the United States, Canada and Latin America, the company said.
+ Reuter
+&#3;</BODY></TEXT>

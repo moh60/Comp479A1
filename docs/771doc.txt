@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12954" NEWID="771">
+<DATE> 2-MAR-1987 16:26:06.69</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A
+&#22;&#22;&#1;f0050&#31;reute
+h f BC-ANTITRUST-LAWYER-NOMI   03-02 0085</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ANTITRUST LAWYER NOMINATED CLAIMS COURT JUDGE</TITLE>
+<DATELINE>    WASHINGTON, March 2 - </DATELINE><BODY>Roger Andewelt, deputy assistant 
+attorney general for litigation in the Justice Department's
+antitrust division since last June, is being nominated by
+President Reagan as a judge of the United States Claims Court,
+the White House said.
+    The nomination, which is subject to Senate approval, is for
+a 15-year term. Andewelt, who has served in a number of
+antitrust division posts since 1972, would succeed Thomas Lydon
+at the Claims Court.
+ Reuter
+&#3;</BODY></TEXT>

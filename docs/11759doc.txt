@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17821" NEWID="11759">
+<DATE>31-MAR-1987 18:58:07.23</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2924&#31;reute
+d f BC-SENTEX-&lt;SENS>-EXTENDS   03-31 0067</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SENTEX &lt;SENS> EXTENDS WARRANTS</TITLE>
+<DATELINE>    RIDGEFIELD, N.J., March 31 - </DATELINE><BODY>Sentex Sensing Technology Inc
+said it extended to April 9, 1988, from April 9, 1987, the
+expiration date of the warrants issued in connection with its
+public stock offering in April 1984.
+    The company said that it will voluntarily withdraw the
+warrants from the NASDAQ system on April six, 1987, to
+forestall speculation on their price.
+ Reuter
+&#3;</BODY></TEXT>

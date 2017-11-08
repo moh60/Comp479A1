@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="159" NEWID="11931">
+<DATE> 1-APR-1987 10:06:34.19</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>amex</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0985&#31;reute
+r f BC-AMEX-BEGINS-TRADING-H   04-01 0063</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AMEX BEGINS TRADING HARCOURT BRACE &lt;HBJ> OPTIONS</TITLE>
+<DATELINE>    NEW YORK, April 1 - </DATELINE><BODY>The American Stock Exchange said it
+today opened put and call options trading in the common stock
+of Harcourt Brace Jovanovice Inc.
+    The exchange said Harcourt Brace is a replacement selection
+for LTV Corp.
+    The Amex said the initial expiration months for HBJ options
+are April, May, July and October.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,32 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18944" NEWID="2526">
+<DATE> 5-MAR-1987 18:10:33.15</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E A RM
+&#22;&#22;&#1;f0080&#31;reute
+r f BC-ENFIELD-CORP-PLANS-NO   03-05 0111</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ENFIELD CORP PLANS NOTES, PREFERRED ISSUE</TITLE>
+<DATELINE>    TORONTO, March 5 - </DATELINE><BODY>&lt;Enfield Corp Ltd> said it planned to
+issue 60 mln dlrs principal amount of notes and 1.6 mln class E
+preferred shares at 25 dlrs a share.
+    The notes would bear 8 pct yearly interest, mature March
+31, 2002 and be convertible to common shares on either March
+31, 1997 or the business day before a fixed redemption date at
+13.50 dlrs a share, Enfield said.
+    It said each preferred share would be convertible to 1.85
+common shares on either March 31, 1997 or the business day
+before a fixed redemption date. Gordon Capital Corp and
+Dominion Securities Inc agreed to acquire the issues, it said.
+    Enfield said it would use proceeds to retire short-term
+bank debt and boost its 22 pct stake in &lt;Consumers Packaging
+Inc> and its interest in &lt;Federal Pioneer Ltd> through open
+market purchases.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="2694" NEWID="13711">
+<DATE> 7-APR-1987 09:20:23.90</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0740&#31;reute
+r f BC-ENTERRA-CORP-&lt;EN>-SEL   04-07 0055</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ENTERRA CORP &lt;EN> SELLS TWO UNITS</TITLE>
+<DATELINE>    HOUSTON, April 7 - </DATELINE><BODY>Enterra Corp said it has completed the
+sale of its Hale Fire Pump co and Macomson Machine Co
+subsidiaries to a company formed by Los Angeles investment firm
+McBain, Rose Partners for about 27 mln dlrs in cash.
+    Both Hale and Macomson make fire pumps and related
+equipment.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10348" NEWID="5435">
+<DATE>16-MAR-1987 11:42:32.10</DATE>
+<TOPICS><D>acq</D><D>copper</D></TOPICS>
+<PLACES><D>west-germany</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C M
+&#22;&#22;&#1;f2554&#31;reute
+r f BC-MIM-TO-ACQUIRE-STAKE   03-16 0108</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MIM TO ACQUIRE STAKE IN GERMAN COPPER PRODUCER</TITLE>
+<DATELINE>    FRANKFURT, March 16 - </DATELINE><BODY>Mount Isa Mines Holding Ltd plans to
+acquire a 30 pct stake in Europe's largest primary copper
+producer, Norddeutsche Affinerie AG, a spokesman for
+Metallgesellschaft AG said.
+    MIM intends to take Preussag AG's total 20 pct share in the
+copper producer in exchange for some three pct of MIM's share
+capital. MIM will also take another 10 pct now held by Degussa
+AG, reducing Degussa's share to 30 pct from 40.
+Metallgesellschaft's share will remain at 40 pct.
+    The move is subject to approval of the federal cartel
+office and supervisory boards of the companies involved.
+ Reuter
+&#3;</BODY></TEXT>

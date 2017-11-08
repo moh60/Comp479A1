@@ -1,0 +1,35 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6812" NEWID="18975">
+<DATE>18-JUN-1987 15:51:15.23</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F RM Y 
+&#22;&#22;&#1;f4501&#31;reute
+u f BC-NOVA-&lt;NVAA.TO>-CONSID   06-18 0114</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NOVA &lt;NVAA.TO> CONSIDERING BID FOR DOME &lt;DMP></TITLE>
+<DATELINE>    Calgary, Alberta, June 18 - </DATELINE><BODY>Nova Corp is considering a
+takeover bid for Dome Petroleum Ltd, either alone or as part of
+a consortium, Nova chairman Bob Blair said.
+    "We are thinking about making an offer to Dome or Amoco
+(Canada Petroleum Co Ltd) or the creditors," Blair told
+reporters before the annual meeting. Amoco Canada is a unit of
+Amoco Corp &lt;AN>, which has made a 5.2 billion-dlr acquisition
+offer for Dome.
+    "There is ongoing, serious thought applied to Dome in Nova
+and in Husky, but no decision of substance as to future action
+has been taken in either company," Blair said. Nova owns 43 pct
+of Husky Oil Ltd &lt;HYO.TO>.
+    Blair also said that Nova has made no decision as to
+whether it would want to be lead partner in a joint purchase of
+Dome.
+    He added that some of the discussions with other parties
+about Dome included TransCanada PipeLines Ltd &lt;TRP>, but
+refused to name the other participants.
+ Reuter
+&#3;</BODY></TEXT>

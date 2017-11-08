@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15783" NEWID="10262">
+<DATE>26-MAR-1987 20:07:37.71</DATE>
+<TOPICS><D>reserves</D></TOPICS>
+<PLACES><D>new-zealand</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f2925&#31;reute
+u f BC-N.Z.-FOREIGN-RESERVES   03-26 0052</UNKNOWN>
+<TEXT>&#2;
+<TITLE>N.Z. FOREIGN RESERVES FALL SLIGHTLY IN FEBRUARY</TITLE>
+<DATELINE>    WELLINGTON, March 27 - </DATELINE><BODY>New Zealand's official foreign
+reserves fell slightly to 7.13 billion N.Z. Dlrs in February
+from 7.15 billion in January but were sharply above 2.85
+billion in February 1986, the Reserve Bank said in its weekly
+statistical release.
+ REUTER
+&#3;</BODY></TEXT>

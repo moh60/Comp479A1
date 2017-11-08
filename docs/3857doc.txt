@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="8770" NEWID="3857">
+<DATE>11-MAR-1987 14:09:55.71</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F A
+&#22;&#22;&#1;f0217&#31;reute
+u f BC-SUMITOMO-BANK-&lt;SUMI>   03-11 0052</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SUMITOMO BANK &lt;SUMI> DECLARES STOCK DIVIDEND</TITLE>
+<DATELINE>    SAN FRANCISCO, March 11 - </DATELINE><BODY>Sumitomo Bank of California said
+it declared a 7-1/2 pct stock dividend in addition to its
+regular quarterly cash dividend of 29 cts per share.
+    Both dividends are payable April 27 to shareholders of
+record March 31, the company said.
+ Reuter
+&#3;</BODY></TEXT>

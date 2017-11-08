@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="21242" NEWID="20647">
+<DATE>20-OCT-1987 15:36:01.93</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2987&#31;reute
+r f BC-FUR-VAULT-&lt;FRV>-TO-BU   10-20 0038</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FUR VAULT &lt;FRV> TO BUY BACK THREE MLN SHARES</TITLE>
+<DATELINE>    NEW YORK, Oct 20 - </DATELINE><BODY>The Fur Vault Inc said it will
+repurchase up to 3,000,000 shares of its common stock.
+    The company has 13,222,873 shares ot common stock issued
+and outstanding.
+ Reuter
+&#3;</BODY></TEXT>

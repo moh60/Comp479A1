@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7073" NEWID="19237">
+<DATE>19-JUN-1987 11:50:33.57</DATE>
+<TOPICS><D>money-fx</D><D>interest</D></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;V RM 
+&#22;&#22;&#1;f1350&#31;reute
+b f BC-/-FED-SETS-SIX-DAY-SY   06-19 0079</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FED SETS SIX-DAY SYSTEM REPURCHASES</TITLE>
+<DATELINE>    NEW YORK, June 19 - </DATELINE><BODY>The Federal Reserve entered the
+government securities market to arrange six-day repurchase
+agreements for system account, a spokeswoman for the New York
+Fed said.
+    Fed funds were trading at 6-3/4 pct at the time of the
+direct injection of temporary reserves, dealers said.
+    Economists had expected three- or six-day repurchases
+because the Fed needs to add a large volume of reserves this
+statement period.
+ Reuter
+&#3;</BODY></TEXT>

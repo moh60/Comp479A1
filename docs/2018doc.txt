@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18436" NEWID="2018">
+<DATE> 5-MAR-1987 09:35:22.89</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;M
+&#22;&#22;&#1;f0075&#31;reute
+d f BC-GM-(GM)-LAYING-OFF-5,   03-05 0083</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GM LAYING OFF 5,500 AT TWO MICHIGAN PLANTS</TITLE>
+<DATELINE>    DETROIT, March 5 - </DATELINE><BODY>General Motors Corp said it ordered
+temporary layoffs of 5,500 hourly workers to cut production and
+thereby reduce inventories of cars built at two plants later
+this month.
+    A spokesman said 2,000 workers would be laid off one week
+beginning March 9 at GM's Detroit-Hamtramck luxury car plant.
+    Another 3,500 will be laid off a week effective March 23 at
+GM's Lansing, Mich, plant which builds the company's "N-body"
+compact cars.
+ Reuter
+&#3;</BODY></TEXT>

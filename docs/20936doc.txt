@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20501" NEWID="20936">
+<DATE>19-OCT-1987 16:40:07.77</DATE>
+<TOPICS><D>crude</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;Y 
+&#22;&#22;&#1;f3101&#31;reute
+u f BC-ARCO-&lt;ARC>-RAISES-CRU   10-19 0081</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ARCO &lt;ARC> RAISES CRUDE OIL POSTINGS 50 CTS</TITLE>
+<DATELINE>    NEW YORK, Oct 19 - </DATELINE><BODY>Atlantic Richfield's Arco Oil and Gas Co
+said it increased contract prices for crude oil by 50 cts a
+barrel, effective today.
+    Arco said the 50 cts increase brings its posted price for
+West Texas Intermediate, the U.S. benchmark grade, to 19.00
+dlrs a barrel.
+    The price of West Texas Sour was increased to 18.10 dlrs.
+Light Louisiana Sweet was raised to 19.35 dlrs.
+    The price was last changed on September 30.
+ Reuter
+&#3;</BODY></TEXT>

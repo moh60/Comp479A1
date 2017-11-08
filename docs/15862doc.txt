@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5217" NEWID="15862">
+<DATE> 9-APR-1987 15:13:59.28</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2212&#31;reute
+r f BC-RECENT-SECURITIES-OFF   04-09 0078</UNKNOWN>
+<TEXT>&#2;
+<TITLE>RECENT SECURITIES OFFERINGS FILED WITH SEC</TITLE>
+<DATELINE>    WASHINGTON, APRIL 9 - </DATELINE><BODY>The following proposed public
+offerings of securities were filed recently with the Securities
+and Exchange Commission:
+    Utah Power and Light Co &lt;UTP> - Shelf offering of up to 95
+mln dlrs of first mortgage bonds on terms to be set at the time
+of sale. Underwriters were not named.
+    Conseco Inc &lt;CNC> - Two mln shares of common stock through
+an underwriting group led by Dean Witter Reynolds Inc.
+ Reuter
+&#3;</BODY></TEXT>

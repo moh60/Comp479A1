@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11073" NEWID="6160">
+<DATE>17-MAR-1987 13:51:13.08</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F A
+&#22;&#22;&#1;f6066&#31;reute
+r f BC-MOODY'S-MAY-LOWER-W.R   03-17 0103</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MOODY'S MAY LOWER W.R. GRACE &lt;GRA> RATINGS</TITLE>
+<DATELINE>    NEW YORK, March 17 - </DATELINE><BODY>Moody's Investors Service Inc said it
+is reviewing for posible downgrade the debt ratings of W.R.
+Grace and Co because of concern the company's earnings may not
+be high enough to provide meaningful improvement in its
+currently thin margins of interest coverage for some time.
+    Some 650 mln drls of outstanding debt is affected.
+    Moody's said it is evaluating the ability of Grace's less
+diversified business portfolio to generate funds sufficient for
+reinvestment and growth, along with debt service and repayment,
+in the next three to five years.
+ Reuter
+&#3;</BODY></TEXT>

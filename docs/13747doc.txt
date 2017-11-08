@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="BYPASS" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="2730" NEWID="13747">
+<DATE> 7-APR-1987 09:35:58.46</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;T
+&#22;&#22;&#1;f0788&#31;reute
+u f BC-PRS-PARIS-COCOA-15.30   04-07 0035</UNKNOWN>
+<TEXT TYPE="UNPROC">&#2;
+PRS PARIS COCOA 15.30 - APR 7
+ May 1255      ask
+ Jul 1285      ask
+ Sep 1295      bid
+ Dec 1320      bid
+ Mar 1335/1345 ba
+ May 1350      bid
+ Jul 1365      bid
+ Sales at call nil accumulative total nil
+ quiet
+&#3;
+
+</TEXT>

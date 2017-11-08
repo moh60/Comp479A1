@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="3541" NEWID="14558">
+<DATE> 7-APR-1987 16:00:22.38</DATE>
+<TOPICS><D>heat</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;Y
+&#22;&#22;&#1;f2319&#31;reute
+r f BC-SUN-&lt;SUN>-RAISES-HEAT   04-07 0055</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SUN &lt;SUN> RAISES HEATING OIL BARGE PRICE</TITLE>
+<DATELINE>    NEW YORK, April 7 - </DATELINE><BODY>Sun Co's Sun Refining and Marketing Co
+subsidiary said it raised the price it charges contract barge
+customers for heating oil in New York harbor by 0.50 cent a
+gallon, effective today.
+    The increase brings the contract barge price to 50.50 cts a
+gallon, Sun said.
+ Reuter
+&#3;</BODY></TEXT>

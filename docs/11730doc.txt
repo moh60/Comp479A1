@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17792" NEWID="11730">
+<DATE>31-MAR-1987 17:40:18.59</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2799&#31;reute
+r f BC-SERVOTRONICS-&lt;SVT>-SE   03-31 0043</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SERVOTRONICS &lt;SVT> SETS 10 PCT STOCK DIVIDEND</TITLE>
+<DATELINE>    BUFFALO, N.Y., March 31 - </DATELINE><BODY>Servotronics Inc said it declared
+a 10 pct stock dividend, payable May 15 to shareholders of
+record April 21.
+    The company last declared a stock dividend, also 10 pct, in
+March 1986.
+ Reuter
+&#3;</BODY></TEXT>

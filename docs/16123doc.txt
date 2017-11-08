@@ -1,0 +1,34 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="658" NEWID="16123">
+<DATE>13-APR-1987 03:26:33.29</DATE>
+<TOPICS><D>copper</D></TOPICS>
+<PLACES><D>china</D><D>chile</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;M C
+&#22;&#22;&#1;f0127&#31;reute
+u f BC-CHINA,-CHILE-TO-BUILD   04-13 0098</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CHINA, CHILE TO BUILD COPPER TUBE PLANT IN CHINA</TITLE>
+<DATELINE>    PEKING, April 13 - </DATELINE><BODY>China's state-owned Beijing Non-Ferrous
+Metals Industrial Corp and &lt;Wrought Copper Ltd> of Chile signed
+a contract to jointly build a copper tube plant on the
+outskirts of Peking, the China Daily said.
+    The Beijing-Santiago Copper Tube Co involves an investment
+of 9.93 mln dlrs and will, on completion, have a production
+capacity of 5,000 tonnes of copper tubes a year, it said.
+    It said Chile will supply copper at preferential rates to
+the venture, whose equipment comes from &lt;Wednesbury Tube Co> of
+U.K.
+    The agreement calls for joint Sino-Chilean management of
+the venture for 15 years, the paper said.
+    It said the venture is the first economic cooperation
+project between China and Chile, but gave no more details.
+    China is a major copper importer. Customs figures show it
+imported 171,118 tonnes of copper and alloy in calendar 1986,
+down from 355,652 tonnes in 1985.
+ REUTER
+&#3;</BODY></TEXT>

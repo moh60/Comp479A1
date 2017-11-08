@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17329" NEWID="11267">
+<DATE>31-MAR-1987 08:49:05.58</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0836&#31;reute
+r f BC-OXFORD-ENERGY-&lt;OEN>-T   03-31 0053</UNKNOWN>
+<TEXT>&#2;
+<TITLE>OXFORD ENERGY &lt;OEN> TO OFFER SHARES</TITLE>
+<DATELINE>    NEW YORK, March 31 - </DATELINE><BODY>Oxford Energy Co said it expects to
+file later today for an offering of 1,200,000 common shares
+through underwriters led by Bear Stearns Cos Inc &lt;BSC>.
+    The company said proceeds will be used for waste tire
+incineration projects and other corporate purposes.
+ Reuter
+&#3;</BODY></TEXT>

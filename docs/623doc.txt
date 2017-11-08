@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12806" NEWID="623">
+<DATE> 2-MAR-1987 13:27:32.43</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0513&#31;reute
+r f BC-TANDEM-&lt;TNDM>-HAS-HOM   03-02 0092</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TANDEM &lt;TNDM> HAS HOME SHOPPING DEAL</TITLE>
+<DATELINE>    CUPERTINO, Calif., March 2 - </DATELINE><BODY>Tandem Computers Inc said the
+Telaction Corp unit of J.C. Penney Co Inc &lt;JCP> selected the
+Tandem NonStop computer system for a new interactive home
+shopping system scheduled to go into operation during the
+summer.
+    Tandem said the new system will be the first consumer
+controlled home shopping and information service delivered by
+cable television.
+    The Telaction service will be initially available to more
+than 125,000 households in the Chicago test area, Tandem also
+said.
+ Reuter
+&#3;</BODY></TEXT>

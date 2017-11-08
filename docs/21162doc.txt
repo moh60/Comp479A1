@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20275" NEWID="21162">
+<DATE>19-OCT-1987 13:45:24.04</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2345&#31;reute
+r f BC-AMR-&lt;AMR>-UNIT-TO-BUY   10-19 0101</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AMR &lt;AMR> UNIT TO BUY NINE SMALL PLANES</TITLE>
+<DATELINE>    FORT WORTH, Texas, Oct 19 - </DATELINE><BODY>AMR Corp said its Nashville
+Eagle Inc subsidiary will acquire nine 19-seat Metro III
+airplanes in separate agreements with Fairchild Industries
+Inc's &lt;FEN> Fairchild Aircraft Corp unit and &lt;Midstate Airlines
+Inc>.
+    Terms of the agreements were not disclosed.
+    The company said the pre-owned airplanes will begin during
+the fourth quarter of this year.
+    Nashville operates more than 100 commuter flights daily to
+16 cities that connect to AMR's American Airlines' daily
+flights at the Nashville terminal in Fort Worth, Texas.
+ Reuter
+&#3;</BODY></TEXT>

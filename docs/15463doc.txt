@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4641" NEWID="15463">
+<DATE> 9-APR-1987 08:27:36.08</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0631&#31;reute
+r f BC-SOUTHWEST-REALTY-&lt;SWL   04-09 0055</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SOUTHWEST REALTY &lt;SWL> IN RIGHTS OFFERING</TITLE>
+<DATELINE>    DALLAS, April 9 - </DATELINE><BODY>Southwest Realty Ltd said it has filed
+for a rights offering.
+    It said for each three shares owned, a shareholder will
+receive a transferable right to purchase one additional share
+at 2.50 dlrs.
+    The company said the offering is expected to be made on
+June 15.
+ Reuter
+&#3;</BODY></TEXT>

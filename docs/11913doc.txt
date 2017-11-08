@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="141" NEWID="11913">
+<DATE> 1-APR-1987 09:57:08.20</DATE>
+<TOPICS><D>interest</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;RM A
+&#22;&#22;&#1;f0921&#31;reute
+b f BC-/IRVING-TRUST-&lt;V>-RAI   04-01 0046</UNKNOWN>
+<TEXT>&#2;
+<TITLE>IRVING TRUST &lt;V> RAISES PRIME RATE</TITLE>
+<DATELINE>    NEW YORK, April 1 - </DATELINE><BODY>Irving Trust Co said it is raising its
+prime rate to 7-3/4 pct from 7-1/2, effective immediately.
+    It becomes the fourth U.S. bank to raise the rate,
+following Citibank, Chase Manhattan and Manufacturers Hanover
+Trust.
+ Reuter
+&#3;</BODY></TEXT>

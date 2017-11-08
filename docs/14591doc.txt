@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="BYPASS" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="3574" NEWID="14591">
+<DATE> 7-APR-1987 16:16:56.92</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM FQ
+&#22;&#22;&#1;f2356&#31;reute
+u f BC-QT8457   04-07 0044</UNKNOWN>
+<TEXT TYPE="UNPROC">&#2;
+N.Y. EURODEPOSITS CLOSING - APR 7
+ U.S. DOLLAR
+ One month    6-3/8      6-1/4
+ Two months   6-7/16    6-5/16
+ Three months 6-1/2      6-3/8
+ Four months  6-9/16    6-7/16
+ Five months  6-9/16    6-7/16
+ Six months   6-5/8      6-1/2
+ Year         6-13/16  6-11/16
+
+ Reuter
+&#3;
+
+</TEXT>

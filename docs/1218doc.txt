@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16538" NEWID="1218">
+<DATE> 3-MAR-1987 13:30:42.16</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0344&#31;reute
+r f BC-JAGUAR-&lt;JAGRY>-FEBRUA   03-03 0059</UNKNOWN>
+<TEXT>&#2;
+<TITLE>JAGUAR &lt;JAGRY> FEBRUARY U.S. SALES FALL</TITLE>
+<DATELINE>    LEONIA, N.J., March 3 - </DATELINE><BODY>Jaguar PLC's Jaguar Cars Inc U.S.
+subsidiary said February sales were 1,466, down from 1,673 a
+year before.
+    The company said it expects a resumption of U.S. sales
+growth towards the latter half of 1987.
+    Jaguar said year-to-date U.S. sales were 2,523, down from
+2,684 a year before.
+ Reuter
+&#3;</BODY></TEXT>

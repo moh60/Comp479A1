@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7929" NEWID="19601">
+<DATE>29-JUN-1987 09:37:25.45</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f0921&#31;reute
+r f BC-ALLIED-SIGNAL-&lt;ALD>-S   06-29 0096</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ALLIED-SIGNAL &lt;ALD> SELLS UNIT TO SCHLUMBERGER</TITLE>
+<DATELINE>    MORRIS TOWNSHIP, N.J., June 29 - </DATELINE><BODY>Allied-Signal Inc and
+Schlumberger Ltd &lt;SLB> said that Schlumberger has acquired
+Allied-Signal's Neptune International unit headquartered in
+Atlanta, Ga., for an undisclosed sum.
+    Allied-Signal said Neptune produces water meters and flow
+measurement equipment and last year had sales of 80 mln dlrs.
+    The company said Schlumberger's activities include
+providing oil field services to locate and produce oil and gas,
+and the manufacture of electricity, gas and water meters for
+utilities.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6057" NEWID="17719">
+<DATE> 1-JUN-1987 14:30:11.67</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2079&#31;reute
+d f BC-UNITED-ASSET-&lt;UAM>-CO   06-01 0057</UNKNOWN>
+<TEXT>&#2;
+<TITLE>UNITED ASSET &lt;UAM> COMPLETES ACQUISITION</TITLE>
+<DATELINE>    PROVIDENCE, June 1 - </DATELINE><BODY>United Asset Management corp said it
+has completed the acquisition of Rice, Hall, James and
+Associates of San Diego for undisclosed terms.
+    It said Rice Hall manages investments for institutions and
+individuals and has about 690 mln dlrs in assets under
+management currently.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="BYPASS" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="3303" NEWID="14320">
+<DATE> 7-APR-1987 12:26:32.36</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;EQ
+&#22;&#22;&#1;f1567&#31;reute
+u f BC-QT8230   04-07 0038</UNKNOWN>
+<TEXT>&#2;
+<TITLE>bBANK OF CANADA DOLLAR STERLING RATES</TITLE>
+<DATELINE>   Ottawa, Apr 7- </DATELINE><BODY>The Bank of Canada said the   U.S. dollar at
+soon was 1.3053 compared to
+1.3074 dollars yesterday.
+   The pound sterling rates at noon 2.1130  compared to 2.1147
+yesterday.
+   
+&#3;</BODY></TEXT>

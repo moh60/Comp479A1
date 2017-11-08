@@ -1,0 +1,32 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11972" NEWID="7059">
+<DATE>19-MAR-1987 09:01:39.59</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0738&#31;reute
+u f BC-COCA-COLA-&lt;KO>-IN-FIL   03-19 0046</UNKNOWN>
+<TEXT>&#2;
+<TITLE>COCA-COLA &lt;KO> IN FILM COLORING VENTURE</TITLE>
+<DATELINE>    MARINA DEL RAY, Calif., March 19 - </DATELINE><BODY>Color Systems Technology
+Inc &lt;CLST> said it has completed formation of a joint venture
+called Screen Gems Classicolor with Coca-Cola Co to color and
+distribute feature films and television programs.
+    Color Systems said it and Coca-Cola will share profits from
+worldwide television, basic cable, pay television and home
+video distribution, and Color Systems will also be paid by the
+venture to convert to color the black and white material
+involved.
+    The company said Coca-Cola has initially contributed a
+number of its Screen Gems television series and Color Systems
+its library of more than 100 feature films and television
+series. It said the venture expects to acquire more black and
+white material for color conversion and will start generating
+revenues by distributing the combined library initially as-is.
+ Reuter
+&#3;</BODY></TEXT>

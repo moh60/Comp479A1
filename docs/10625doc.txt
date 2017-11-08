@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16146" NEWID="10625">
+<DATE>28-MAR-1987 07:12:04.12</DATE>
+<TOPICS><D>trade</D></TOPICS>
+<PLACES><D>turkey</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f2773&#31;reute
+r f BC-ISLAMIC-BANKS-ESTABLI   03-28 0094</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ISLAMIC BANKS ESTABLISH 50 MLN DLR TRADE PORTFOLIO</TITLE>
+<DATELINE>    ISTANBUL, March 28 - </DATELINE><BODY>The Islamic Development Bank (IDB) and
+20 Islamic Banks signed an agreement to establish a 50 mln dlr
+trade portfolio to finance trade among Islamic countries, IDB
+sources said.
+    They said IDB's share in the portfolio, which will only
+finance exports and imports of the private sector, was limited
+to up to 25 mln dlrs.
+    The sources said shares in the porfolio could be traded or
+redeemed by the IDB, adding that this was a major step in
+establishing an Islamic financial market.
+ REUTER
+&#3;</BODY></TEXT>

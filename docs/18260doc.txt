@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7705" NEWID="18260">
+<DATE> 2-JUN-1987 15:39:32.26</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2487&#31;reute
+d f BC-CORBUS-&lt;CRVS.O>-PRESI   06-02 0039</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CORBUS &lt;CRVS.O> PRESIDENT NAMED CEO</TITLE>
+<DATELINE>    SAN JOSE, Calif., June 2- </DATELINE><BODY>Corvus Systems Inc said Lewis
+Lipton, currently president, was named to the additional post
+of chief executive.
+    The company said Lipton was also elected to its board.
+ Reuter
+&#3;</BODY></TEXT>

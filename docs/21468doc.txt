@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="19968" NEWID="21468">
+<DATE>19-OCT-1987 09:04:17.33</DATE>
+<TOPICS><D>money-fx</D><D>interest</D></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM 
+&#22;&#22;&#1;f0910&#31;reute
+f f BC-Bank-of-France-added   10-19 0012</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE> Bank of France added money market liquidity at 7-3/4 pct - dealers
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

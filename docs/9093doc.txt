@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14614" NEWID="9093">
+<DATE>24-MAR-1987 18:12:46.76</DATE>
+<TOPICS><D>grain</D><D>corn</D></TOPICS>
+<PLACES><D>usa</D><D>portugal</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G
+&#22;&#22;&#1;f2752&#31;reute
+u f BC-PORTUGAL-MAY-HAVE-PUR   03-24 0046</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PORTUGAL MAY HAVE PURCHASED U.S. CORN</TITLE>
+<DATELINE>    CHICAGO, March 24 - </DATELINE><BODY>Portugal may have purchased a 30,000
+tonne cargo at its tender today for up to 43,000 tonnes of
+number two yellow corn (14.5 pct maximum moisture) for arrival
+by April 30, shipment via Gulf ports, U.S. exporters said.
+ Reuter
+&#3;</BODY></TEXT>

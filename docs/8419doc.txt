@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13940" NEWID="8419">
+<DATE>23-MAR-1987 13:52:55.31</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1934&#31;reute
+d f BC-UNC-RESOURCES-&lt;UNC>-T   03-23 0056</UNKNOWN>
+<TEXT>&#2;
+<TITLE>UNC RESOURCES &lt;UNC> TO EXPAND FACILITY</TITLE>
+<DATELINE>    ANNAPOLIS, March 23 - </DATELINE><BODY>UNC Inc said it has reached agreement
+with the U.S. Department of Energy to expand production
+facilities at the company's Naval Products Division in
+Uncasville, Conn.
+    The company said the 55 mln dlr project will start
+immediately and is scheduled for completion in 1990.
+ Reuter
+&#3;</BODY></TEXT>

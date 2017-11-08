@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18383" NEWID="1965">
+<DATE> 5-MAR-1987 06:47:22.79</DATE>
+<TOPICS><D>wpi</D></TOPICS>
+<PLACES><D>belgium</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0646&#31;reute
+r f BC-BELGIAN-WHOLESALE-PRI   03-05 0087</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BELGIAN WHOLESALE PRICES FALL IN JANUARY</TITLE>
+<DATELINE>    BRUSSELS, March 4 - </DATELINE><BODY>Belgian wholesale prices fell by 5.9
+pct in January from a year earlier after a 5.7 pct year on year
+fall in December, figures from the economics ministry show.
+    A ministry spokesman said the wholesale price index, base
+1953 and excluding value added tax, stood at 250.9 in January.
+This compared with 251.9 in December, 265.5 in Janua~y, 1986
+and 267.2 in December, 1985.
+    In January 1986, wholesale prices were 3.9 pct lower than a
+year earlier.
+ REUTER
+&#3;</BODY></TEXT>

@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7326" NEWID="17881">
+<DATE> 2-JUN-1987 00:35:43.34</DATE>
+<TOPICS><D>interest</D></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM AI
+&#22;&#22;&#1;f0020&#31;reute
+f f BC-Tokyo---Bundesbank's   06-02 0012</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE>Tokyo - Bundesbank's Schlesinger sees no reason to lower interest rates
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

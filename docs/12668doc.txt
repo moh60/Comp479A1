@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="NOT-USED" CGISPLIT="PUBLISHED-TESTSET" OLDID="21525" NEWID="12668">
+<DATE> 2-APR-1987 13:42:57.32</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1988&#31;reute
+d f BC-VANGUARD-TECHNOLOGIES   04-02 0065</UNKNOWN>
+<TEXT>&#2;
+<TITLE>VANGUARD TECHNOLOGIES &lt;VTI> ACQUIRES COMPANY</TITLE>
+<DATELINE>    NEW YORK, April 2 - </DATELINE><BODY>Vanguard Technologies International Inc
+said it acquired 100 pct of the stock of &lt;Diversified Data
+Corp>.
+    Diversified, and its wholly-owned subsidiary, TECHPRO Corp,
+have current revenues from operations of approximately four mln
+dlrs, Vanguard said.
+    The acquisition was for cash, but the amount was not
+disclosed.
+ Reuter
+&#3;</BODY></TEXT>

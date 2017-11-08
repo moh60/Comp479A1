@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7157" NEWID="19321">
+<DATE>19-JUN-1987 13:55:52.47</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D><D>hungary</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A RM 
+&#22;&#22;&#1;f1888&#31;reute
+r f BC-WORLD-BANK-LOANS-HUNG   06-19 0092</UNKNOWN>
+<TEXT>&#2;
+<TITLE>WORLD BANK LOANS HUNGARY 70 MLN DLRS</TITLE>
+<DATELINE>    WASHINGTON, June 19 - </DATELINE><BODY>The World Bank said it approved a 70
+mln dlr loan to Hungary to help finance a 833.1 mln dlr
+telecommunications project.
+    The Bank noted that Hungary, which until recently had given
+telecommunications low priority, recognized that inadequate
+telecommunications are a serious constraint to economic
+development and reform.
+    The project extends through 1991 and will help Magyar
+Posta, the state enterprise overseeing the telecommunications
+sector, meet its long-term development goals.
+ Reuter
+&#3;</BODY></TEXT>

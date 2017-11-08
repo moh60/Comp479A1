@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13412" NEWID="7891">
+<DATE> 20-MAR-1987 14:00:27.29</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1971&#31;reute
+d f BC-MOUNTAIN-VIEW-ACQUIRE   03-20 0072</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MOUNTAIN VIEW ACQUIRES MARATECH COMMUNICATIONS</TITLE>
+<DATELINE>    GOLDEN VALLEY, MINN., March 20 - </DATELINE><BODY>(Mountain View Investment
+Corp), Phoenix, Ariz., said it acquired Maratech Communications
+Cos Inc.
+    Under terms of the transaction, the present directors of
+Mountain View have resigned and have elected directors of
+Maratech as new directors of Mountain View.
+    It said a combined shareholders' meeting will soon be held
+to vote on the acquisition.
+ Reuter
+&#3;</BODY></TEXT>

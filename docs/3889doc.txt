@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="8802" NEWID="3889">
+<DATE>11-MAR-1987 14:59:13.26</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0348&#31;reute
+w f BC-ENGELHARD-BUILDS-PLAN   03-11 0053</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ENGELHARD BUILDS PLANT IN JAPAN</TITLE>
+<DATELINE>    EDISON, N.J., March 11 - </DATELINE><BODY>Engelhard Corp &lt;EC> said its
+Japanese joint venture Nippon Engelhard Ltd is constructing a
+new chemical catalyst manufacturing facility at its Numazu
+complex and expanding its research laboratories at Ichikawa.
+    Start-up is targeted for third quarter 1987.
+ Reuter
+&#3;</BODY></TEXT>

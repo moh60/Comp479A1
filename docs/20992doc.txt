@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20445" NEWID="20992">
+<DATE>19-OCT-1987 15:45:27.17</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;V RM 
+&#22;&#22;&#1;f2912&#31;reute
+b f BC-DOW-JONES-FALLS-MORE   10-19 0040</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DOW JONES FALLS MORE THAN 400 POINTS</TITLE>
+<DATELINE>    New York, Oct 19 - </DATELINE><BODY>The Dow Jones Industrial average plunged
+to 1844.97, a 404 point decline in the leading market
+indicator.
+    The last time the Dow index touched the 1840 level was in
+November, 1986.
+ Reuter
+&#3;</BODY></TEXT>

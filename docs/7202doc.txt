@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12114" NEWID="7202">
+<DATE>19-MAR-1987 11:40:29.99</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>amex</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1393&#31;reute
+d f BC-AMEX-APPROVES-LISTING   03-19 0051</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AMEX APPROVES LISTING OF LANDMARK &lt;LCO></TITLE>
+<DATELINE>    ATLANTA, Ga, March 19 - </DATELINE><BODY>The American Stock Exchange said it
+has approved the listing of 12.3 mln common shares of Landmark
+Technology Corp.
+    Trading of the shares will begin Friday, March 20. The
+stock is currently traded over the counter under the symbol
+LTCO.
+ Reuter
+&#3;</BODY></TEXT>

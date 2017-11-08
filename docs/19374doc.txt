@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7210" NEWID="19374">
+<DATE>19-JUN-1987 15:01:35.39</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2089&#31;reute
+h f BC-PASSPORT-TRAVEL-INC-&lt;   06-19 0051</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PASSPORT TRAVEL INC &lt;PPTI.O> 2ND QTR MAY 31 NET</TITLE>
+<DATELINE>    OVERLAND PARK, Kan., June 19 -
+    </DATELINE><BODY>Shr profit six cts vs loss one ct
+    Net profit 80,939 vs loss 12,808
+    Rev 7.0 mln vs 6.3 mln
+    Six months
+    Shr profit eight cts vs loss one ct
+    Net profit 101,345 vs loss 10,460
+    Rev 13.2 mln vs 12.5 mln
+ Reuter
+&#3;</BODY></TEXT>

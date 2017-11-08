@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="564" NEWID="12336">
+<DATE> 1-APR-1987 17:04:09.20</DATE>
+<TOPICS><D>interest</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;A
+&#22;&#22;&#1;f2546&#31;reute
+r f BC-union-bank-raises prime-to-7.75-pct  04-01 0037</UNKNOWN>
+<TEXT>&#2;
+<TITLE>UNION BANK RAISES ITS PRIME RATE TO 7.5 PCT</TITLE>
+<DATELINE>    LOS ANGELES, April 1 - </DATELINE><BODY>The Union Bank subsidiary of
+Standard Chartered PLC said today it was raising its prime
+lending rate to 7.75 pct from 7.50 pct, effective immediately.
+ Reuter
+&#3;</BODY></TEXT>

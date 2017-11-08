@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4396" NEWID="14918">
+<DATE> 8-APR-1987 07:25:36.50</DATE>
+<TOPICS><D>cpi</D></TOPICS>
+<PLACES><D>indonesia</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0557&#31;reute
+r f BC-INDONESIAN-INFLATION   04-08 0046</UNKNOWN>
+<TEXT>&#2;
+<TITLE>INDONESIAN INFLATION RATE 8.8 PCT IN 1986/87</TITLE>
+<DATELINE>    JAKARTA, April 8 - </DATELINE><BODY>Inflation was by 8.8 pct in Indonesia
+during fiscal 1986/87 to March 31, compared to 5.66 pct the
+previous year, Information Minister Harmoko said after a
+cabinet session to discuss the economic situation.
+ REUTER
+&#3;</BODY></TEXT>

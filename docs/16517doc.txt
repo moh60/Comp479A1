@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1052" NEWID="16517">
+<DATE>13-APR-1987 13:26:28.68</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2000&#31;reute
+r f BC-PERSONAL-COMPUTER-PRO   04-13 0071</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PERSONAL COMPUTER PRODUCTS &lt;PCPI.O> PLACES DEBT</TITLE>
+<DATELINE>    SAN DIEGO, Calif., April 13 - </DATELINE><BODY>Personal Computer Products
+Inc said it completed a 4.2-mln-dlr, five pct convertible
+preferred stock issue to private investors.
+    Net proceeds of about 3.8 mln dlrs will be used to expand
+marketing, sales and research and development efforts, to
+supplement working capital, and to repay the company's entire
+bank debt of about 650,000 dlrs.
+ Reuter
+&#3;</BODY></TEXT>

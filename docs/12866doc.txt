@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="1835" NEWID="12866">
+<DATE> 3-APR-1987 09:47:30.81</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0935&#31;reute
+d f BC-R.R.-DONNELLY-&lt;DNY>-T   04-03 0089</UNKNOWN>
+<TEXT>&#2;
+<TITLE>R.R. DONNELLY &lt;DNY> TO SELL CABLE SYSTEM</TITLE>
+<DATELINE>    CHICAGO, April 3 - </DATELINE><BODY>R.R. Donnelly and Sons Co said it
+reached an agreement with Adams-Russell Co Inc &lt;AAR> to sell
+Adams its Rockford, Ill., cable system for an undisclosed
+price.
+    R.R. Donnelly said it expects the deal to close in about
+120 days, subject to regulatory approvals and other conditions.
+    The cable system serves about 51,000 subscribers in the
+communities of Rockford, Loves Park, Machesney Park, Cherry
+Valley, Morristown and Winnebago County, Ill., R.R. Donnelly
+said.
+ Reuter
+&#3;</BODY></TEXT>

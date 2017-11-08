@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1017" NEWID="16482">
+<DATE>13-APR-1987 12:51:55.40</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1838&#31;reute
+r f BC-PENN-PACIFIC-&lt;PPAC.O>   04-13 0070</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PENN PACIFIC &lt;PPAC.O> TO SELL DEBT OUTSIDE U.S.</TITLE>
+<DATELINE>    SANTA ANA, Calif., April 13 - </DATELINE><BODY>Penn Pacific Corp said it
+plans to place about two mln dlrs of convertible debentures
+with persons outside the U.S. through Euro Continental
+Securities.
+    The offering will not be registered within the U.S., the
+company said. It also said it is discussing placing additional
+convertible debentures with London-based financial
+institutions.
+ Reuter
+&#3;</BODY></TEXT>

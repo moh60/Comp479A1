@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18905" NEWID="2487">
+<DATE> 5-MAR-1987 16:59:40.79</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A RM
+&#22;&#22;&#1;f0908&#31;reute
+b f BC-GM-&lt;GM>-STOCK-BUYBACK   03-05 0108</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GM &lt;GM> STOCK BUYBACK WON'T AFFECT S/P RATINGS</TITLE>
+<DATELINE>    NEW YORK, March 5 - </DATELINE><BODY>Standard and Poor's Corp said that
+General Motors Corp's planned five billion dlr stock repurchase
+would not affect the carmaker's debt ratings.
+    S and P said the parent company would generate sufficient
+cash flow over the next several years to fund the stock buyback
+program without weakening its financial position.
+    S and P affirmed the AA ratings on the senior debt of GM, 
+General Motors Acceptance Corp, GMAC Grantor Trust and various
+overseas units.
+    Also affirmed were GM's AA preferred stock, and GMAC's
+AA-minus subordinated debt and A-1-plus commercial paper.
+ Reuter
+&#3;</BODY></TEXT>

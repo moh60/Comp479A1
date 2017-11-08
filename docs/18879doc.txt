@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6631" NEWID="18879">
+<DATE>18-JUN-1987 13:55:40.04</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f4145&#31;reute
+r f BC-&lt;LIFE-GROUP-INC>-EXPA   06-18 0075</UNKNOWN>
+<TEXT>&#2;
+<TITLE>&lt;LIFE GROUP INC> EXPANDING BROKERAGE UNIT</TITLE>
+<DATELINE>    GARDEN CITY, N.Y., June 18 - </DATELINE><BODY>Life Group Inc said it is
+expanding the activities of its broker/dealer unit Life
+Planning Inc to include investment banking, involving both
+underwriting and corporate finance.
+    The company said Lawrence Zaslow and Joseph Broder have
+agreed to join the unit to head those operations and have
+purchased Life Group stock and options from Life Group
+president David Altschuler.
+ Reuter
+&#3;</BODY></TEXT>

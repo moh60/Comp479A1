@@ -1,0 +1,35 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13963" NEWID="8442">
+<DATE>23-MAR-1987 14:31:49.44</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A
+&#22;&#22;&#1;f2041&#31;reute
+r f BC-HIGHWAY-BILL-VETO-WIL   03-23 0067</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HIGHWAY BILL VETO WILL BE UPHELD, DOLE SAYS</TITLE>
+<DATELINE>    WASHINGTON, March 23 - </DATELINE><BODY>Senate Republican Leader Robert Dole
+said he believed the Senate would vote to sustain a
+presidential veto of an 88 billion dlr highway and mass transit
+bill.
+    "I think the veto will be sustained," he told reporters after
+he and his wife, Transportation Secretary Elizabeth Dole, had
+met with President Reagan at the White House.
+    Elizabeth Dole said, "We're going to be working on that
+(sustaining a veto) and...I'm optimistic that we will sustain
+it."
+    But she conceded, "It will be tough."
+    Reagan has said he will veto the five-year measure because
+of objections to so-called highway demonstration projects and
+transportation programs that put the bill about 10 billion dlr
+over his budget request.
+    "He needs to demonstrate that he's in charge and that he's
+effective and he can't let these big things slip through,
+saying 'I don't want a confrontation'," Sen. Dole said.
+ Reuter
+&#3;</BODY></TEXT>

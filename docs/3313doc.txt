@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19735" NEWID="3313">
+<DATE> 9-MAR-1987 15:02:02.30</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0429&#31;reute
+b f BC-/DART-&lt;DARTA>-MAKES-O   03-09 0082</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DART &lt;DARTA> MAKES OFFER FOR SUPERMARKETS &lt;SGL></TITLE>
+<DATELINE>    LANDOVER, Md., March 9 - </DATELINE><BODY>Dart Group Corp said it offered to
+buy Supermarkets General Corp for 41.75 dlrs per share in cash.
+    Earlier Supermarkets General said an "unsolicited third
+party" had made the offer. Analysts estimated the value at
+about 1.6 billion dlrs, based on 38.5 mln shares outstanding.
+    Kidder, Peabody and Co Inc told Dart that Kidder's
+affiliate will be prepared to advance up to 750 mln dlrs on a
+subordinated basis.
+
+
+&#3;</BODY></TEXT>

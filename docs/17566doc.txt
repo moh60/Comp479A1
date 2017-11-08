@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5904" NEWID="17566">
+<DATE> 1-JUN-1987 10:51:15.82</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1241&#31;reute
+r f BC-CATO-CORP-&lt;CACOA>-SET   06-01 0041</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CATO CORP &lt;CACOA> SETS INITIAL DIVIDEND</TITLE>
+<DATELINE>    CHARLOTTE, N.C., June 1 - </DATELINE><BODY>Cato Corp, which went public
+April 30, said its board declared an initial quarterly dividend
+as a public company of two cts per share, payable June 26 to
+holders of record June 12.
+ Reuter
+&#3;</BODY></TEXT>

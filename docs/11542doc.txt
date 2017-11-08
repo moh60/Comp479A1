@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17603" NEWID="11542">
+<DATE>31-MAR-1987 13:56:43.65</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F Y
+&#22;&#22;&#1;f2090&#31;reute
+u f BC-******PENNZOIL-CHAIRM   03-31 0059</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PENNZOIL SAYS SETTLEMENT MUST EXCEED 2 BLN DLRS</TITLE>
+<DATELINE>    NEW YORK, March 31 - </DATELINE><BODY>Pennzoil Co &lt;PZL> Chairman J. Hugh
+Liedtke told a meeting of securities analysts that any
+settlement of the ongoing litigation would have to be above two
+billion dlrs.
+    "If anyone thinks this could be settled in the two billion
+dlrs range, they're not being realistic," he said.
+ Reuter
+&#3;</BODY></TEXT>

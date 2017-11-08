@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15579" NEWID="10058">
+<DATE>26-MAR-1987 13:38:15.46</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2069&#31;reute
+d f BC-FIDELITY-&lt;FNF>-UNIT-A   03-26 0058</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FIDELITY &lt;FNF> UNIT ACQUIRES CALIFORNIA CONCERN</TITLE>
+<DATELINE>    SCOTTSDALE, Ariz., March 26 - </DATELINE><BODY>Fidelity National Financial
+Inc said its Fidelity National Title Insurance Co subsidiary
+acquired the operations of Safeco Title Insurance Co in the
+northern California counties of Alameda, Contra Costa and San
+Mateo.
+    Terms of the acquisition were not disclosed.
+ Reuter
+&#3;</BODY></TEXT>

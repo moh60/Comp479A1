@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13220" NEWID="7699">
+<DATE>20-MAR-1987 10:29:16.50</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1047&#31;reute
+d f BC-BPI-SYSTEMS-&lt;BPII>-LA   03-20 0060</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BPI SYSTEMS &lt;BPII> LAUNCHES PRODUCTS</TITLE>
+<DATELINE>    AUSTIN, Texas, March 20 - </DATELINE><BODY>BPI Systems Inc said it
+introduced an enhanced version of its Entry series general
+accounting software, Version C.14,  that includes budgeting,
+more printing options and additional features.
+    The company also said it introduced an accounting software
+package, Entry one, that sells for 89 dlrs.
+ Reuter
+&#3;</BODY></TEXT>

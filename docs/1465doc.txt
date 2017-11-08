@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17883" NEWID="1465">
+<DATE> 4-MAR-1987 10:16:02.51</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0323&#31;reute
+u f BC-TENNECO-&lt;TGT>-TO-REDE   03-04 0047</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TENNECO &lt;TGT> TO REDEEM 11 DLR PREFERRED</TITLE>
+<DATELINE>    HOUSTON, March 4 - </DATELINE><BODY>Tenneco Inc said it will redeem all of
+its outstanding 11.00 dlr cumulative preference stock on April
+eight at 102.24 dlrs a share including accrued dividends.
+    It said 2,515,400 shares of the stock will be redeemed.
+ Reuter
+&#3;</BODY></TEXT>

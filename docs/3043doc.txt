@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19461" NEWID="3043">
+<DATE> 9-MAR-1987 09:27:57.44</DATE>
+<TOPICS><D>interest</D></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G T M
+&#22;&#22;&#1;f0038&#31;reute
+u f BC-NATIONAL-WESTMINSTER   03-09 0092</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NATIONAL WESTMINSTER BANK CUTS BASE RATE</TITLE>
+<DATELINE>    LONDON, March 9 - </DATELINE><BODY>National Westminster Bank Plc said it has
+cut its base lending rate  0.5 percentage points to 10.5 pct
+today.
+    National Westminster said it was responding to general
+easing in money market rates.
+    Its move followed a signal from the Bank of England earlier
+this afternoon that it would endorse a half point cut in the
+base rate, a surprise move following its strong signals last
+week that such a move would be premature.
+    However, since then the pound has continued to gain
+strongly.
+ Reuter
+&#3;</BODY></TEXT>

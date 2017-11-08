@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11731" NEWID="6818">
+<DATE>18-MAR-1987 16:21:32.79</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f9424&#31;reute
+d f BC-PILGRIM-VENTURE-IN-ME   03-18 0098</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PILGRIM VENTURE IN MERGER AGREEMENT</TITLE>
+<DATELINE>    FORT LAUDERDALE, Fla., March 18 - </DATELINE><BODY>&lt;Pilgrim Venture Corp>
+said it signed a letter of intent to merge with &lt;Marketing
+Technologies Group Inc>, Rockville Center, N.Y.
+    Under terms of the agreement, Pilgrim, a publicly held
+corporation, said it will issue two mln shares of authorized
+but unissued restricted common stock to Marketing Technologies
+shareholders. The company said it expects to complete the
+merger by June 17.
+    Marketing Technologies is developing a computer-based
+advertising system geared toward large advertisers, the company
+said.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="668" NEWID="16133">
+<DATE>13-APR-1987 04:53:55.42</DATE>
+<TOPICS><D>money-fx</D></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0242&#31;reute
+b f BC-U.K.-MONEY-MARKET-DEF   04-13 0084</UNKNOWN>
+<TEXT>&#2;
+<TITLE>U.K. MONEY MARKET DEFICIT FORECAST AT 400 MLN STG</TITLE>
+<DATELINE>    LONDON, April 13 - </DATELINE><BODY>The Bank of England said it forecast a
+shortage of around 400 mln stg in the money market today.
+    Among the main factors affecting liquidity, bills maturing
+in official hands and the take-up of treasury bills will drain
+some 1.085 billion stg.
+    Partly offsetting these outflows, a fall in note
+circulation will add some 340 mln stg, exchequer transactions
+around 300 mln and bankers' balances above target about 50 mln.
+ REUTER
+&#3;</BODY></TEXT>

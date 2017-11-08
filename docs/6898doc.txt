@@ -1,0 +1,20 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11811" NEWID="6898">
+<DATE>18-MAR-1987 17:39:14.34</DATE>
+<TOPICS><D>grain</D><D>wheat</D></TOPICS>
+<PLACES><D>usa</D><D>egypt</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G
+&#22;&#22;&#1;f9655&#31;reute
+u f BC-EGYPT-TENDERING-TODAY   03-18 0037</UNKNOWN>
+<TEXT>&#2;
+<TITLE>RESULTS AWAITED ON EGYPT PL 480 WHEAT TENDER</TITLE>
+<DATELINE>    KANSAS CITY, March 18 - </DATELINE><BODY>Results were awaited on Egypt's
+tender today for 200,000 tonnes of U.S. soft or white wheat for
+April shipment under PL 480, private export sources said.
+ Reuter
+&#3;</BODY></TEXT>

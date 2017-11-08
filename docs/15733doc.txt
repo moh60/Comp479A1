@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4910" NEWID="15733">
+<DATE> 9-APR-1987 12:32:05.53</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F E
+&#22;&#22;&#1;f1680&#31;reute
+d f BC-MSR-EXPLORATION-LTD-&lt;   04-09 0058</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MSR EXPLORATION LTD &lt;MSR> YEAR LOSS</TITLE>
+<DATELINE>    CUT BANK, Mont., April 9 -
+    </DATELINE><BODY>Shr loss five cts vs profit 10 cts
+    Net loss 381,391 vs profit 736,974
+    Revs 6,161,391 vs 9,241,882
+    NOTE: Canadian dollars.
+    Proved oil reserves at year-end 3.3 mln barrels, up 39 pct
+from a year earlier, and natural gas reserves 4.7 billion cubic
+feet, off nine pct.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16600" NEWID="1280">
+<DATE> 3-MAR-1987 15:39:06.62</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0749&#31;reute
+r f BC-INTERNATIONAL-TECHNOL   03-03 0069</UNKNOWN>
+<TEXT>&#2;
+<TITLE>INTERNATIONAL TECHNOLOGY &lt;ITX> BUYS FIRM</TITLE>
+<DATELINE>    TORRANCE, Calif, March 3 - </DATELINE><BODY>International Technology Corp
+said it has purchased privately-held Western Emergency Service
+Inc in a stock transaction.
+    Western Emergency, an environmental services firm, has
+annual sales of between one and two mln dlrs, compared to
+International Technology's roughly 240-mln-dlr annual sales, a
+spokesman for International Technology said.
+ Reuter
+&#3;</BODY></TEXT>

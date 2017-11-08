@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7186" NEWID="19350">
+<DATE>19-JUN-1987 14:31:10.00</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1982&#31;reute
+u f BC-TRANSAMERICAN-&lt;TA>-GE   06-19 0090</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TRANSAMERICAN &lt;TA> GETS APPROVAL ON CHAPTER 11</TITLE>
+<DATELINE>    HOUSTON, June 19 - </DATELINE><BODY>TransAmerican Natural Gas said it
+received approval from a U.S. District Court in Texas allowing
+the company to solicit creditor acceptance of its negotiated
+Chapter 11 plan of reorganization.
+    The company said the approval authorized the company to
+distribute the disclosure statement to its creditors and
+solicit creditors' acceptance of the plan.
+    TransAmerican said the confirmation hearing is scheduled
+for August 17 in U.S. Southern District of Texas court.
+   
+ Reuter
+&#3;</BODY></TEXT>

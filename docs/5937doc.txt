@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10850" NEWID="5937">
+<DATE>17-MAR-1987 10:01:08.21</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f5005&#31;reute
+d f BC-ADAMS-RUSSELL-ELECTRO   03-17 0055</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ADAMS-RUSSELL ELECTRONICS &lt;AARE> IN PURCHASE</TITLE>
+<DATELINE>    WALTHAM, Mass., March 17 - </DATELINE><BODY>Adams-Russell Electronics Co Inc
+said it has acquired Hermetronics PLC, a maker of hermetic
+integrated circuit packages, for about 600,000 dlrs. 
+    The company said HErmetronics is expected to have sales of
+over 800,000 dlrs for the year ending this month.
+ Reuter
+&#3;</BODY></TEXT>

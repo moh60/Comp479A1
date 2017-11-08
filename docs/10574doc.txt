@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16095" NEWID="10574">
+<DATE>27-MAR-1987 13:13:54.05&#5;&#5;&#5;F</DATE>
+<UNKNOWN>&#22;&#22;&#1;f1811&#31;reute</UNKNOWN>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+h f BC-US-WEST-&lt;USW>-DIRECTO   03-27 0051</UNKNOWN>
+<TEXT>&#2;
+<TITLE>US WEST &lt;USW> DIRECTORY UNIT CHANGES NAME</TITLE>
+<DATELINE>    LOVELAND, Colo., March 27 - </DATELINE><BODY>US West Inc said its Directory
+Publishing Corp unit has been renamed US West Marketing
+Resources.
+    The regional Bell company said the unit's new name better
+reflects its evolution to a full service provider of marketing
+services.
+ Reuter
+&#3;</BODY></TEXT>

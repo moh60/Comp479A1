@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5414" NEWID="15516">
+<DATE> 9-APR-1987 09:29:32.54</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;E F
+&#22;&#22;&#1;f0823&#31;reute
+r f BC-cominco   04-09 0107</UNKNOWN>
+<TEXT>&#2;
+<TITLE>COMINCO &lt;CLT> TO FORM EXPLORATION UNIT</TITLE>
+<DATELINE>    VANCOUVER, April 9 - </DATELINE><BODY>Cominco Ltd said it is forming a new
+publicly held company, Cominco Resources International Ltd, to
+continue exploration and development of its mineral holdings
+outside Canada, Alaska and Australia.
+    Cominco will maintain a majority position in the company,
+but the remaining interest will be sold in offerings led by
+Wood Gundy Inc and First Marathon Securities Ltd in Canada, and
+S.G. Warburg Securities and Wood Gundy Inc internationally.
+    Cominco said it is filing a preliminary prospectus with
+securities regulators in all Canadian provinces.
+                          
+ Reuter
+&#3;</BODY></TEXT>

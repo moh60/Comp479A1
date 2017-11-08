@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11187" NEWID="6274">
+<DATE>17-MAR-1987 16:27:47.63</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f6532&#31;reute
+r f BC-MARCUS-CORP-&lt;MRCS>-3R   03-17 0073</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MARCUS CORP &lt;MRCS> 3RD QTR FEB FIVE NET</TITLE>
+<DATELINE>    MILWAUKEE, WIS., March 17 -
+    </DATELINE><BODY>Shr 14 cts vs 15 cts
+    Net 733,000 vs 788,000
+    Revs 31.9 mln vs 28.9 mln
+    Nine Mths
+    Shr 1.08 dlrs vs 1.20 dlrs
+    Net 5,560,000 vs 6,162,000
+    Revs 104.5 mln vs 97.2 mln
+    NOTE: 1987 net includes tax credits of 25,000 dlrs in the
+third quarter and 100,000 dlrs in the nine months compared with
+370,000 dlrs and 910,000 dlrs in the 1986 periods.
+ Reuter
+&#3;</BODY></TEXT>

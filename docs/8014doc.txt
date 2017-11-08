@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13535" NEWID="8014">
+<DATE>20-MAR-1987 17:15:01.04</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A RM
+&#22;&#22;&#1;f2533&#31;reute
+r f BC-SONAT-&lt;SNT>-UNIT-FILE   03-20 0090</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SONAT &lt;SNT> UNIT FILES FOR DEBENTURE OFFERING</TITLE>
+<DATELINE>    NEW YORK, March 20 - </DATELINE><BODY>Southern Natural Gas Co, a unit of
+Sonat Inc, said it filed with the Securities and Exchange
+Commission a registration statement covering a 100 mln dlr
+issue of debentures due 1999.
+    Proceeds will be used, together with funds from the
+company's operations, to redeem Southern Natural's 15 pct
+sinking fund debentures of 1991.
+    The company named Goldman, Sachs and Co, Lazard Freres and
+Co and Merrill Lynch Capital Markets as managing underwriters
+of the offering.
+ Reuter
+&#3;</BODY></TEXT>

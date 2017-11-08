@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5031" NEWID="15993">
+<DATE> 9-APR-1987 16:49:01.49</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2621&#31;reute
+r f BC-BEVIS-&lt;BEVI>-RECEIVES   04-09 0089</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BEVIS &lt;BEVI> RECEIVES TAKEOVER INQUIRIES</TITLE>
+<DATELINE>    PROVIDENCE, R.I., April 9 - </DATELINE><BODY>Bevis Industries Inc, which has
+been seeking to be acquired, said it recently received
+inquiries concerning the purchase of the company.
+    The company did not identify the parties that made the
+inquiries, but it said they had been referred to its investment
+bankers, Tucker, Anthony and R.L. Day Inc, for study.
+    On March 18, the company said it engaged Tucker, Anthony to
+seek purchasers of its operating units, Greenville Tube Corp
+and MD Pneumatics Inc.
+ Reuter
+&#3;</BODY></TEXT>

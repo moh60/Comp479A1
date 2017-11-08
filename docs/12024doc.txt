@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="252" NEWID="12024">
+<DATE> 1-APR-1987 11:26:18.58</DATE>
+<TOPICS><D>copper</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;C M F
+&#22;&#22;&#1;f1385&#31;reute
+u f BC-CYPRUS-LOWERS-COPPER   04-01 0035</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CYPRUS LOWERS COPPER PRICE 1.25 CTS TO 67 CTS</TITLE>
+<DATELINE>    DENVER, April 1 - </DATELINE><BODY>Cyprus Minerals Company said it is
+decreasing its electrolytic copper cathode price by 1.25 cents
+to 67.0 cents a pound, effective immediately.
+ Reuter
+&#3;</BODY></TEXT>

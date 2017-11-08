@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20722" NEWID="20127">
+<DATE>20-OCT-1987 08:53:15.01</DATE>
+<TOPICS><D>reserves</D></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM 
+&#22;&#22;&#1;f0866&#31;reute
+f f BC-   10-20 0013</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE> German net currency reserves rise 500 mln marks to 87.0 billion in week
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

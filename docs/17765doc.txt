@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6103" NEWID="17765">
+<DATE> 1-JUN-1987 15:32:24.41</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2280&#31;reute
+r f BC-DEAN-FOODS-&lt;DF>-PICKS   06-01 0057</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DEAN FOODS &lt;DF> PICKS CHIEF EXECUTIVE</TITLE>
+<DATELINE>    FRANKLIN PARK, Ill., June 1 - </DATELINE><BODY>Dean Foods Co said its board
+elected Howard M. Dean, the company's president, to succeed
+Kenneth J. Douglas as chief executive officer of the firm.
+    Kenneth will replace Douglas, who is also chairman, on
+October one, Douglas' 65th birthday. Douglas will remain
+chairman.
+ Reuter
+&#3;</BODY></TEXT>

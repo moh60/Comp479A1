@@ -1,0 +1,20 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11694" NEWID="6781">
+<DATE>18-MAR-1987 15:48:52.03</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f9326&#31;reute
+d f BC-DYNALECTRON-&lt;DYN>-UNI   03-18 0037</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DYNALECTRON &lt;DYN> UNITS GET CONTRACTS</TITLE>
+<DATELINE>    MCLEAN, Va., March 18 - </DATELINE><BODY>Dynalectron Corp said subsidiaries
+of its specialty contracting group have recently received over
+34 mln dlrs in electrical and mechanical contracting awards.
+ Reuter
+&#3;</BODY></TEXT>

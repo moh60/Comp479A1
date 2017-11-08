@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18850" NEWID="2432">
+<DATE> 5-MAR-1987 16:10:58.66</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0741&#31;reute
+w f BC-ANALYST-TO-START-MONE   03-05 0101</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ANALYST TO START MONEY MANAGEMENT FIRM</TITLE>
+<DATELINE>    NEW YORK, March 5 - </DATELINE><BODY>Kurt Wulff, oil analyst at Donaldson,
+Lufkin and Jenrette Securities, said he has retired from the
+brokerage firm and will work as a consultant to the firm.
+    Wulff said he also plans to start a money management firm.
+    As a consultant to Donaldson, Lufkin, Wulff will continue
+to give advice on oil stock values to DLJ clients. He will also
+continue to write reports that will be published by the
+brokerage firm.
+    Wulff is a shareholder activist and has several resolutions
+pending before oil companies for vote at their annual meetings.
+ Reuter
+&#3;</BODY></TEXT>

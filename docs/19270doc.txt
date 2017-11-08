@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7106" NEWID="19270">
+<DATE>19-JUN-1987 12:54:16.63</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F Y 
+&#22;&#22;&#1;f1647&#31;reute
+u f BC-UNC   06-19 0101</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CHEVRON &lt;CHV> CUTS UNC &lt;UNC> STAKE TO 8.4 PCT</TITLE>
+<DATELINE>    WASHINGTON, June 19 - </DATELINE><BODY>Chevron Corp said it sold 4.6 mln
+shares of UNC Inc common stock on June 15, leaving it with 1.4
+mln UNC common shares, or 8.4 pct of the total.
+    In a filing with the Securities and Exchange Commission,
+Chevron said it sold the shares for 11.88 dlrs each, or a total
+of 54.6 mln dlrs, under an agreement it had with UNC.
+    The stock was sold to an underwriting syndicate managed by
+Dillon, Read and Co Inc and Donaldson, Lufkin and Jenrette
+Securities Corp, with the underwriters paying 38.3 mln dlrs and
+UNC paying 16.4 mln, it said.
+ Reuter
+&#3;</BODY></TEXT>

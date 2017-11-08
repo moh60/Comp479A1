@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12205" NEWID="7292">
+<DATE>19-MAR-1987 13:28:34.03</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1854&#31;reute
+d f BC-ERICSSON-&lt;ERICY>-GETS   03-19 0104</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ERICSSON &lt;ERICY> GETS BELLSOUTH &lt;BSC> CONTRACT</TITLE>
+<DATELINE>    RICHARDSON, Texas, March 19 - </DATELINE><BODY>L.M. Ericsson Telephone Co of
+Stockholm said it has signed a contract to supply BellSouth
+Corp with two Ericsson AXE Signal Transfer Point Switches for
+use in transfering signals and data between telephone central
+offices.
+    It said the switches will be installed in early 1988. 
+Value was not disclosed.
+    Ericsson also said its E-MX3 multiplexer will be installed
+in Norlight's digital fiber optic network by June, replacing an
+earlier Ericsson multiplexer.  Value was not given. Norlight is
+owned by five midwestern electric power companies.
+ Reuter
+&#3;</BODY></TEXT>

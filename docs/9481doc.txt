@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15001" NEWID="9481">
+<DATE>25-MAR-1987 13:49:32.35</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1942&#31;reute
+r f BC-COLLINS-FOODS-&lt;CF>-TO   03-25 0052</UNKNOWN>
+<TEXT>&#2;
+<TITLE>COLLINS FOODS &lt;CF> TO REDEEM DEBENTURES</TITLE>
+<DATELINE>    LOS ANGELES, March 25 - </DATELINE><BODY>Collins Foods International Inc
+said that on April 30 it will redeem all of its outstanding 12
+pct subordinated debentures due December 15, 2008.
+    There are currently 30 mln dlrs principal amount of the
+debentures outstanding, the company said.
+ Reuter
+&#3;</BODY></TEXT>

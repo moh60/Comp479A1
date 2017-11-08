@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11463" NEWID="6550">
+<DATE>18-MAR-1987 11:18:54.93</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f8285&#31;reute
+r f BC-PROPOSED-OFFERINGS-RE   03-18 0087</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PROPOSED OFFERINGS RECENTLY FILED WITH THE SEC</TITLE>
+<DATELINE>    WASHINGTON, March 18 - </DATELINE><BODY>The following proposed securities
+offerings were filed recently with the Securities and Exchange
+Commission:
+    Norwest Corp - Shelf offering of up to 100 mln dlrs of debt
+securities, supplementing another 275 mln dlrs of debt
+securities which remain unsold from a previous shelf
+registration.
+    First Bancorp, Troy, N.C. - Initial offering of 400,000
+shares of common stock at an estimated 17-19 dlrs a share
+through Interstate Securities Corp.
+ Reuter
+&#3;</BODY></TEXT>

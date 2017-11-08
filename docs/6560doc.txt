@@ -1,0 +1,33 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11473" NEWID="6560">
+<DATE>18-MAR-1987 11:35:09.99</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f8344&#31;reute
+r f BC-CONSOLIDATED-NATURAL   03-18 0103</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CONSOLIDATED NATURAL GAS &lt;CNG> CREATES UNIT</TITLE>
+<DATELINE>    PITTSBURGH, March 18 - </DATELINE><BODY>Consolidated Natural Gas Co said it
+has received Securities and Exchange Commission approval to
+establish a wholly-owned gas marketing subsidiary.
+    The company said the unit - to be known as CNG Trading Co -
+will do business in six states: New York, Pennsylvania, Ohio,
+West Virgina, Louisiana and Texas.
+    The company said the subsidiary will enable it to maintain
+and increase gas sales and transport volume.
+    CNG Trading will assist customers in the pooling,
+transport, exchange, storage, and purchase of gas supplies, the
+company said.
+    Consolidated said customers' needs will be met from a wide
+range of low cost sources, including the stock market,
+independent producers and brokers, and Consolidated's producing
+affiliates - CNG Development Co of Pittsburgh, and CNG
+Producing Co based in New Orleans.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17879" NEWID="1461">
+<DATE> 4-MAR-1987 10:10:01.53</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0302&#31;reute
+r f BC-DRESS-BARN-INC-&lt;DBRN>   03-04 0054</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DRESS BARN INC &lt;DBRN> 2ND QTR JAN 24 NET</TITLE>
+<DATELINE>    STAMFORD, Conn., March 4 -
+    </DATELINE><BODY>Shr 30 cts vs 21 cts
+    Net 3,358,000 vs 2,276,000
+    Sales 43.3 mln vs 33.5 mln
+    1st half
+    Shr 60 cts vs 42 cts
+    Net 6,654,000 vs 4,638,000
+    Sales 86.6 mln vs 66.4 mln
+    NOTE: Share adjusted for three-for-two stock split in May
+1986.
+ Reuter
+&#3;</BODY></TEXT>

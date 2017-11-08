@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7659" NEWID="18215">
+<DATE> 2-JUN-1987 14:33:01.32</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2256&#31;reute
+s f BC-OVERSEAS-SHIPHOLDING   06-02 0037</UNKNOWN>
+<TEXT>&#2;
+<TITLE>OVERSEAS SHIPHOLDING GROUP &lt;OSG> SETS PAYOUT</TITLE>
+<DATELINE>    NEW YORK, June 2 -
+    </DATELINE><BODY>Qtrly div 12.5 cts per share vs 12.5 cts prior
+    Pay Aug 25
+    Record Aug Three
+    NOTER: full name of company is overseas shipholding group
+inc.
+ Reuter
+&#3;</BODY></TEXT>

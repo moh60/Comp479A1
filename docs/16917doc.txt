@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1452" NEWID="16917">
+<DATE>17-APR-1987 16:33:15.85</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0441&#31;reute
+r f BC-KENTUCKY-CENTRAL-&lt;KEN   04-17 0047</UNKNOWN>
+<TEXT>&#2;
+<TITLE>KENTUCKY CENTRAL &lt;KENCA.O> UNIT SELLS STATIONS</TITLE>
+<DATELINE>    LEXINGTON, Ken., April 17 - </DATELINE><BODY>Kentucky Central Life Insurance
+Co said its Bluegrass Broadcasting Co Inc subsidiary has agreed
+to sell two Orlando, Fla., radio stations to TK Communications
+Inc for 13.5 mln dlrs, subject to FCC approval.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1091" NEWID="16556">
+<DATE>13-APR-1987 14:10:34.65</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2131&#31;reute
+u f BC-(CORRECTED)-CRAZY-EDD   04-13 0079</UNKNOWN>
+<TEXT>&#2;
+<TITLE>(CORRECTED)-CRAZY EDDIE &lt;CRZY> EXECUTIVE OFF BOARD</TITLE>
+<DATELINE>    EDISON, N.J., April 13 - </DATELINE><BODY>Crazy Eddie Inc said executive
+vice president Sam Antar, who turns 66 soon, has resigned from
+its board and has been replaced by William H. Saltzman, vice
+president and general counsel of Sun/DIC Acquisition Corp.
+    The company said Antar remains an executive vice president.
+    Corrects to delete references to Antar being chief
+financial officer and a member of the Office of the President.
+ Reuter
+&#3;</BODY></TEXT>

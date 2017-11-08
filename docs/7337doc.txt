@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12250" NEWID="7337">
+<DATE>19-MAR-1987 14:38:06.02</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2082&#31;reute
+d f BC-GREAT-&lt;GAMI>-TO-BUY-S   03-19 0092</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GREAT &lt;GAMI> TO BUY STANDARD&lt;SRD> UNITS' ASSETS</TITLE>
+<DATELINE>    CHICAGO, March 19 - </DATELINE><BODY>Great American Management and
+Investment Inc said its 80 pct-owned subsidiary agreed to buy
+certain assets of two subsidiaries of Standard Oil Co, for 40
+mln dlrs and the assumption of certain liabilities.
+    Great American Industrial Group Inc agreed to acquire all
+the U.S. and United Kingdom assets of Pfaudler Co and the stock
+of certain Brazilian, Mexican, and West German subsidiaries of
+Kennecott Mining Corp, it said. Pfaudler and Kennecott are
+subsidiaries of Standard Oil.
+ Reuter
+&#3;</BODY></TEXT>

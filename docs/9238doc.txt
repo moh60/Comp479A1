@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14759" NEWID="9238">
+<DATE>25-MAR-1987 08:25:20.82</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0683&#31;reute
+r f BC-JOHNSTOWN/CONSOLIDATE   03-25 0054</UNKNOWN>
+<TEXT>&#2;
+<TITLE>JOHNSTOWN/CONSOLIDATED REALTY TRUST &lt;JCT> NET</TITLE>
+<DATELINE>    EMERYVILLE, Calif., March 25 - </DATELINE><BODY>4th qtr
+    Shr 15 cts vs eight cts
+    Net 1,800,000 vs one mln
+    Year
+    Shr 51 cts vs 1.10 dlrs
+    Net 6,200,000 vs 13.2 mln
+    NOTE: Net includes loan loss provisions of 14 cts shr vs 18
+cts in quarter and 24 cts shr vs 36 cts in year.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16120" NEWID="10599">
+<DATE>27-MAR-1987 13:59:53.78&#5;&#5;&#5;F</DATE>
+<UNKNOWN>&#22;&#22;&#1;f1944&#31;reute</UNKNOWN>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+h f BC-ESSEX-COMMUNICATIONS   03-27 0044</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ESSEX COMMUNICATIONS CORP &lt;ESSXA> YEAR LOSS</TITLE>
+<DATELINE>    GREENWICH, Conn., March 27 - 
+    </DATELINE><BODY>Shr loss 47 cts vs loss 63 cts
+    Net loss 1,450,000 vs loss 1,930,000
+    Revs 14.7 mln vs 13.3 mln
+    Note: Year-ago resulted restated to exclude Michigan cable
+systems sold in 1985.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9341" NEWID="4428">
+<DATE>12-MAR-1987 14:39:18.88</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0126&#31;reute
+d f BC-&lt;DESIGNS-INC>-TO-MAKE   03-12 0057</UNKNOWN>
+<TEXT>&#2;
+<TITLE>&lt;DESIGNS INC> TO MAKE SHARE OFFERING</TITLE>
+<DATELINE>    NEWTON, Mass., March 12 - </DATELINE><BODY>Designs Inc said it intends to
+make an initial public offering of common stock in late spring
+or early summer, depending on market conditions.
+    The company opoerates 27 retil clothing stores under the
+name "Designs, exclusively Levi Strauss and Co" along the
+Eastern Seaboard.
+ Reuter
+&#3;</BODY></TEXT>

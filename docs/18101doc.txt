@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7546" NEWID="18101">
+<DATE> 2-JUN-1987 12:00:59.72</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1601&#31;reute
+r f BC-CENTURY-&lt;CCC.O>-TO-BU   06-02 0092</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CENTURY &lt;CCC.O> TO BUY TO PUERTO RICAN CO</TITLE>
+<DATELINE>    NEW CANAAN, Conn., June 2 - </DATELINE><BODY>Century Communications Corp
+said it had entered into an agreement to acquire all the assets
+of &lt;Community Cable Vision of Puerto Rico Associates>  and its
+associated companies for about 12 mln dlrs.
+    Century said it anticipates that &lt;ML Media Partners LP>,
+which jointly owns with Century a company called &lt;Cable
+Television Co> of greater San Juan, will join in acquisition
+and management of Community Cable.
+    Century said Community Cable is located in San Juan, Puerto
+Rico.
+ Reuter
+&#3;</BODY></TEXT>

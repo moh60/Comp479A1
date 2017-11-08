@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7556" NEWID="18111">
+<DATE> 2-JUN-1987 12:19:36.34</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1716&#31;reute
+r f BC-STEWART-&lt;STEW.O>-SELL   06-02 0075</UNKNOWN>
+<TEXT>&#2;
+<TITLE>STEWART &lt;STEW.O> SELLS PLANT TO SARA LEE &lt;SLE></TITLE>
+<DATELINE>    NORFOLK, Va., June 2 - </DATELINE><BODY>Stewart Sandwiches Inc said it has
+sold its coffee roasting plant to Sara Lee Corp's Superior
+Coffee and Foods subsidiary for undisclosed terms.
+    The company said Superior will become the exclusive packer
+of Squire labeled coffee products, which are marketed by
+Stewart, and Stewart will provide equipment, service and
+distribution suppoort for some Superior coffee accounts.
+ Reuter
+&#3;</BODY></TEXT>

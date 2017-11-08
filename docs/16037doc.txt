@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5076" NEWID="16037">
+<DATE> 9-APR-1987 18:10:34.32</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F
+&#22;&#22;&#1;f2810&#31;reute
+r f BC-cadillac-fairview-say   04-09 0066</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CADILLAC FAIRVIEW SAYS IT RECEIVED TAKEOVER BIDS</TITLE>
+<DATELINE>    Toronto, April 9 - </DATELINE><BODY>&lt;Cadillac Fairview Corp Ltd> said it
+received proposals to acquire the company, following its
+announcement last August that it had retained investment
+dealers to solicit offers for all outstanding common shares.
+    Cadillac Fairview said the offers are subject to
+clarification and negotiation and offered no further details.
+ Reuter
+&#3;</BODY></TEXT>

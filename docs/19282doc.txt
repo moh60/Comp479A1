@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7118" NEWID="19282">
+<DATE>19-JUN-1987 13:13:33.56</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1733&#31;reute
+b f BC-/IC-INDUSTRIES-&lt;ICX>   06-19 0065</UNKNOWN>
+<TEXT>&#2;
+<TITLE>IC INDUSTRIES &lt;ICX> NAMES KARL BAYS AS CHAIRMAN</TITLE>
+<DATELINE>    CHICAGO, June 19 - </DATELINE><BODY>IC industries Inc said Karl Bays has
+been elected chairman and chief executive officer effective
+July one.
+    William Johnson, who is recovering from a recent stroke,
+has been named chairman emeritus and will continue as a member
+of the board.
+    Bays is currently chairman of Baxter Travenol Laboratories
+Inc &lt;BAX>.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="NOT-USED" CGISPLIT="PUBLISHED-TESTSET" OLDID="21747" NEWID="17124">
+<DATE>24-APR-1987 12:25:23.51</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1636&#31;reute
+r f BC-FERRO-&lt;FOE>-INCREASES   04-24 0061</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FERRO &lt;FOE> INCREASES SHARES</TITLE>
+<DATELINE>    CLEVELAND, Ohio, APril 24 - </DATELINE><BODY>Ferro Corp said shareholders
+approved increasing the number of authorized common shares to
+50 mln from 20 mln.
+    Shareholders also approved amending the indemnification
+provisions of the Code of Regulations of the company and
+re-elected three directors to three-year terms on the board of
+directors.
+   
+ Reuter
+&#3;</BODY></TEXT>

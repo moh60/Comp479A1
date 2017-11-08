@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13564" NEWID="8043">
+<DATE>20-MAR-1987 18:16:46.86</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E A
+&#22;&#22;&#1;f2653&#31;reute
+r f BC-macmillan-bloedel-to   03-20 0063</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MACMILLAN BLOEDEL &lt;MMBLF> TO REDEEM DEBENTURES</TITLE>
+<DATELINE>    VANCOUVER, British Columbia, March 20 - </DATELINE><BODY>MacMillan Bloedel
+Ltd said it will redeem all outstanding nine pct series J
+debentures on April 27, 1987 for 34.9 mln U.S. dlrs, plus a
+premium of one pct and accrued and unpaid interest.
+    The series J debentures were issued in Europe in 1977 and
+were due February 1992, the company said.
+ Reuter
+&#3;</BODY></TEXT>

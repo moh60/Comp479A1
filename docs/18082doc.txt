@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7527" NEWID="18082">
+<DATE> 2-JUN-1987 11:44:02.94</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1516&#31;reute
+d f BC-PHARMACIA-&lt;PHAB.O>-ES   06-02 0057</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PHARMACIA &lt;PHAB.O> ESTABLISHES VENTURE FUND</TITLE>
+<DATELINE>    PISCATAWAY, N.J., June 2 - </DATELINE><BODY>Pharmacia Inc's Pharmacia
+Develpoment Co Inc said it established Pharmacia Ventures Inc
+to make investments in U.S. growth companies.
+    It said investments will be made in such firms as those
+producing in-vitro diagnostics, biotechnology, ophthalmology
+and health care.
+ Reuter
+&#3;</BODY></TEXT>

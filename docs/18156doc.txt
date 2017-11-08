@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7601" NEWID="18156">
+<DATE> 2-JUN-1987 13:34:55.55</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>nyse</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2033&#31;reute
+u f BC-STERLING-BANCORP-&lt;STL   06-02 0063</UNKNOWN>
+<TEXT>&#2;
+<TITLE>STERLING BANCORP &lt;STL>HAS NO COMMENT ON ACTIVITY</TITLE>
+<DATELINE>    NEW YORK, June 2 - </DATELINE><BODY>The New York Stock Exchange said
+Sterling Bancorp declined to comment on whether there are any
+corporate developments that would explain the unusual activity
+in its stock.
+    Sterling, whose stock is up 3/8 at 14-7/8, said its policy
+is not to comment on unusual market activity or rumors, the
+Exchange said.
+ Reuter
+&#3;</BODY></TEXT>

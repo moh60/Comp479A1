@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11864" NEWID="6951">
+<DATE>19-MAR-1987 02:07:55.67</DATE>
+<TOPICS><D>jobs</D></TOPICS>
+<PLACES><D>new-zealand</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0005&#31;reute
+u f BC-NEW-ZEALAND-UNEMPLOYM   03-19 0064</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NEW ZEALAND UNEMPLOYMENT FALLS IN FEBRUARY</TITLE>
+<DATELINE>    WELLINGTON, March 19 - </DATELINE><BODY>New Zealand's unemployment rate fell
+to 6.0 pct of the workforce at the end of February from 6.1 pct
+in January but was above the 4.3 pct level of February 1986,
+the labour department said.
+    It said the number of unemployed fell to 78,711 from 81,558
+in January, and compared with 57,103 in February 1986.
+ REUTER
+&#3;</BODY></TEXT>

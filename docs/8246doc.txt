@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13767" NEWID="8246">
+<DATE>23-MAR-1987 09:41:42.49</DATE>
+<TOPICS><D>ship</D></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;M T
+&#22;&#22;&#1;f0907&#31;reute
+u f BC-WEST-GERMAN-SHIP-SINK   03-23 0076</UNKNOWN>
+<TEXT>&#2;
+<TITLE>WEST GERMAN SHIP SINKS OFF WEST AFRICA</TITLE>
+<DATELINE>    LAS PALMAS, March 23 - </DATELINE><BODY>The West German-registered motor
+vessel Stefan E. Sank off the West African coast early today
+and one of its eight crew members was killed, a Spanish navy
+spokesman said.
+    He said the captain of the Singapore-registered tanker Nord
+Pacific reported in a radio message that he had picked up the
+remaining seven crewmen of the 2,223 tonnes dw Stefan E.,
+Together with the body of the dead man.
+ Reuter
+&#3;</BODY></TEXT>

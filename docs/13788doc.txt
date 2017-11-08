@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="BYPASS" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="2771" NEWID="13788">
+<DATE> 7-APR-1987 09:53:33.27</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C L
+&#22;&#22;&#1;f0842&#31;reute
+u f BC-PORK-BELLY-FUTURES-EX   04-07 0104</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PORK BELLY FUTURES EXPECTED STEADY TO HIGHER</TITLE>
+<DATELINE>    CHICAGO, April 7 - </DATELINE><BODY>Pork belly futures were expected to open
+steady to higher after yesterday's late strength and sharply
+higher close in the nearby.
+    Traders anticipate carryover demand prompted by steady to
+mostly higher live hog calls and light hog runs. Slaughter is
+likely to remain on the light side and lend support to cash
+product, they said.
+    Private reports of hedger interest for cash product also
+prompted calls of steady to higher for cash bellies this
+morning, they added.
+    Guesses on today's out of town storage report ranged from
+in 1.0 to 2.25 mln lbs.
+ Reuter
+&#3;</BODY></TEXT>

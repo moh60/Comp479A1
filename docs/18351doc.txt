@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7796" NEWID="18351">
+<DATE> 2-JUN-1987 19:05:57.98</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2918&#31;reute
+r f BC-FREEDOM-&lt;FRDM>-TO-REC   06-02 0091</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FREEDOM &lt;FRDM> TO RECOGNIZE GAIN ON UNIT SALE</TITLE>
+<DATELINE>    TAMPA, Fla., June 2 - </DATELINE><BODY>Freedom Savings and Loan Association
+said it will record a net gain of 13.5 mln dlrs on the sale of
+certain assets of its Freedom Mortgage Co subsidiary to Chase
+Home Mortgage Corp, a subsidiary of Chase Manhattan Corp &lt;CMB>.
+    Freedom also said it had completed the sale.
+    The company said about 9.5 mln dlrs of the gain will be
+recnogized in the quarter ending June 30 with the remainder
+derferred and recognized over the remaining life of the
+serviced mortgage porfolio.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6438" NEWID="18686">
+<DATE>18-JUN-1987 10:35:12.69</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F RM 
+&#22;&#22;&#1;f3269&#31;reute
+u f BC-FREEDOM-FEDERAL-&lt;FRFE   06-18 0084</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FREEDOM FEDERAL &lt;FRFE.O> SEEKS BUYER</TITLE>
+<DATELINE>    OAK BROOK, ILL., June 18 - </DATELINE><BODY>Freedom Federal Savings Bank
+said it hired Salomon Brothers Inc to solicit offers for the
+purchase of the bank as part of an ongoing review of methods to
+enhance shareholder value.
+    Freedom Federal operates 15 retail branch banks and had
+1986 year end assets of about 733 mln dlrs.
+    "There is no assurance the bank will receive acceptable
+offers or be sold, but we feel this is a prudent step to take
+at this time," the bank said.
+ Reuter
+&#3;</BODY></TEXT>

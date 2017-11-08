@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14716" NEWID="9195">
+<DATE>25-MAR-1987 06:19:48.07</DATE>
+<TOPICS><D>silver</D><D>copper</D></TOPICS>
+<PLACES><D>west-germany</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS><D>ec</D></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM C M
+&#22;&#22;&#1;f0405&#31;reute
+r f BC-WEST-GERMANS-TO-MINT   03-25 0054</UNKNOWN>
+<TEXT>&#2;
+<TITLE>WEST GERMANS TO MINT COMMUNITY ANNIVERSARY COIN</TITLE>
+<DATELINE>    BONN, March 25 - </DATELINE><BODY>The West German Cabinet approved a plan to
+mint a special 10-mark coin commemorating the 30th anniversary
+of the European Community this year.
+    The silver-copper alloy coin will be minted in an edition
+of 8.35 mln, a Finance Ministry statement said.
+ REUTER
+&#3;</BODY></TEXT>

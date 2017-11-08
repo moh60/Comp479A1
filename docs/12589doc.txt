@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="1665" NEWID="12589">
+<DATE> 2-APR-1987 10:41:44.88</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1261&#31;reute
+u f BC-IBM-&lt;IBM>-DOWN-ON-LOW   04-02 0099</UNKNOWN>
+<TEXT>&#2;
+<TITLE>IBM &lt;IBM> DOWN ON LOWER MORGAN STANLEY OPINION</TITLE>
+<DATELINE>    NEW YORK, April 2 - </DATELINE><BODY>The stock of International Business
+Machine Corp declined slightly today and shares of Digital
+Equipment Corp &lt;DEC> rose after brokerage house Morgan Stanley
+and Co reiterated a negative opinion on IBM and a buy on
+Digital, traders said.
+    IBM, which this morning introduced four new personal
+computers, the first major overhaul of its PC line since it
+entered the business in 1981, fell 1-3/4 to 149-3/8.
+    Digital Equipment rose 1-3/8 to 163-5/8.
+    Analyst Carol Muratore of Morgan Stanley was unavailable
+for comment.
+&#3;</BODY></TEXT>

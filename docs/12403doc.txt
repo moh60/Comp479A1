@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="1479" NEWID="12403">
+<DATE> 2-APR-1987 02:49:35.78</DATE>
+<TOPICS><D>ipi</D></TOPICS>
+<PLACES><D>west-germany</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0174&#31;reute
+f f BC-******   04-02 0014</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE> German February industrial output rises 3.2 pct (January fall 3.4 pct) - official
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

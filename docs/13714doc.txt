@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="2697" NEWID="13714">
+<DATE> 7-APR-1987 09:20:48.80</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0743&#31;reute
+d f BC-&lt;FMD-INC>-IN-MERGER-A   04-07 0046</UNKNOWN>
+<TEXT>&#2;
+<TITLE>&lt;FMD INC> IN MERGER AGREEMENT</TITLE>
+<DATELINE>    DENVER, April 7 - </DATELINE><BODY>FMD Inc said it has agreed to acquire
+Bankers Protective Financial Corp for 28,836,000 common shares,
+subject to approval by the Texas State Board of Insurance.
+    Bankers Protective is a life insurance company based in
+Texas.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5869" NEWID="17531">
+<DATE> 1-JUN-1987 10:05:15.87</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A RM
+&#22;&#22;&#1;f1038&#31;reute
+r f BC-INNOVATIVE-SOFTWARE-&lt;   06-01 0063</UNKNOWN>
+<TEXT>&#2;
+<TITLE>INNOVATIVE SOFTWARE &lt;INSO> TO OFFER CONVERTIBLES</TITLE>
+<DATELINE>    NEW YORK, June 1 - </DATELINE><BODY>Innovative Software Inc said it plans to
+sell later this month or in July about 25 mln dlrs of
+convertible subordinated debentures due 2012.
+    Proceeds will be used for general corporate purposes,
+including possible acquisitions of complementary products,
+technologies or companies, Innovative Software said.
+ Reuter
+&#3;</BODY></TEXT>

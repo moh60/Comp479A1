@@ -1,0 +1,34 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5002" NEWID="15964">
+<DATE> 9-APR-1987 16:23:06.48</DATE>
+<TOPICS><D>crude</D></TOPICS>
+<PLACES><D>usa</D><D>netherlands</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F Y
+&#22;&#22;&#1;f2531&#31;reute
+r f BC-LA-LAND-&lt;LLX>,DU-PONT   04-09 0110</UNKNOWN>
+<TEXT>&#2;
+<TITLE>LA LAND &lt;LLX>,DU PONT &lt;DD>GET EXPLORATION TRACTS</TITLE>
+<DATELINE>    NEW ORLEANS, April 9 - </DATELINE><BODY>Louisiana Land and Exploration Co
+said it, Du Pont Co's Conoco Inc subsidiary and &lt;Oranje-Nassau
+Energie B.V.> have been offered four exploration blocks
+offshore The Netherlands.
+    Louisiana Land said Blocks Q4a, E12c and E15b were offered
+to the group in which Conoco has a 67.5 pct interest, Louisiana
+Land 20 pct and Orange-Nassau 12.5 pct, while this group along
+with a consortium headed by Pennzoil Co &lt;PZL> were offered
+Block Q5c. The offers were the result of applications submitted
+to the Ministry of Economic Affairs for the Netherlands Sixth
+Offshore Licensing Round.
+    Louisiana Land said the Conoco group intends to provide a
+formal acceptance of the blocks with plans to start exploration
+this year.
+    The company also said the two Q blocks immediately offset
+other offshore blocks on which hydrocarbons have been found in
+commercial quantities.
+ Reuter
+&#3;</BODY></TEXT>

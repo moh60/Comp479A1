@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12675" NEWID="492">
+<DATE> 2-MAR-1987 11:20:53.95</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM A
+&#22;&#22;&#1;f0941&#31;reute
+r f BC-FNMA-&lt;FNM>-ARRANGES-M   03-02 0100</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FNMA &lt;FNM> ARRANGES MORTGAGE SECURITIES SWAP</TITLE>
+<DATELINE>    WASHINGTON, March 2 - </DATELINE><BODY>The Federal National Mortgage
+Association said it arranged a swap of 250-350 mln dlrs in
+stripped mortgage-backed securities with Shearson Lehman
+Brothers Inc.
+    The exact amount of the swap will be determined later, it
+said. Fannie Mae said the swap includes 15-year mortgages for
+Fannie Mae stripped mortgage-back securities that bear a nine
+pct coupon.
+    The stripped securities consist of two classes. One
+receives all the principal payments from the underlying pool of
+mortgages and the other receives all the interest.
+ Reuter
+&#3;</BODY></TEXT>

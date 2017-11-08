@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1117" NEWID="16582">
+<DATE>13-APR-1987 14:34:40.88</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D><D>norway</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2210&#31;reute
+d f BC-FIBERCOM-TO-INSTALL-F   04-13 0098</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FIBERCOM TO INSTALL FIBER-OPTIC DATA NETWORK</TITLE>
+<DATELINE>    ROANOKE, Va., April 13 - </DATELINE><BODY>&lt;FiberCom Inc> said it signed a
+contract with &lt;Computer Connection A/S>, Mjoendalen, Norway, to
+install a data communications network based on fiber optics.
+    Under terms of the 3.5 mln dlr agreement, the company said
+it will supply Computer Connection with 6,000 transceivers and
+its WhisperNet local area network, which employs the Ethernet
+standard.
+    FiberCom said the network will connected 125 of Norway's
+largest banks. It said the network will be the largest
+fiber-optic based data network in the world.
+ Reuter
+&#3;</BODY></TEXT>

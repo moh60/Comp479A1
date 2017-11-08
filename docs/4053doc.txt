@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="8966" NEWID="4053">
+<DATE>12-MAR-1987 01:26:07.06</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0117&#31;reute
+f f BC-Tokyo-stock-index-ris   03-12 0013</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE>Tokyo stock index rises 157.20 to third straight record close of 21,470.20
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

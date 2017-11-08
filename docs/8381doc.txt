@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13902" NEWID="8381">
+<DATE>23-MAR-1987 12:39:04.07</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1686&#31;reute
+u f BC-HARTFORD-FIRE-&lt;HIG>-T   03-23 0062</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HARTFORD FIRE &lt;HIG> TO OFFER PREFERRED</TITLE>
+<DATELINE>    HARTFORD, Conn, March 23 - </DATELINE><BODY>Hartford Fire Insurance Co said
+it filed a registration statement with the Securities and
+Exchange Commission relating to up to 210 mln dlrs aggregate of
+Class C and Class D Preferred stock.
+    Proceeds from any of the stock will be used towards the
+redemption of its Class A preferred Stock, it said.
+ Reuter
+&#3;</BODY></TEXT>

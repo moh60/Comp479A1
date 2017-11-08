@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16224" NEWID="904">
+<DATE> 3-MAR-1987 04:22:16.09</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0682&#31;reute
+u f BC-U.K.-CLEARS-CONS-GOLD   03-03 0070</UNKNOWN>
+<TEXT>&#2;
+<TITLE>U.K. CLEARS CONS GOLD U.S. PURCHASE</TITLE>
+<DATELINE>    LONDON, March 3 - </DATELINE><BODY>The U.K. Trade Department said it would
+not refer Consolidated Goldfields Plc's &lt;CGLD.L> purchase of
+&lt;American Aggregates Corp> to the Monopolies Commission.
+    Cons Gold said last month that its &lt;ARC America Corp> unit
+had agreed to buy the Ohio-based company for 30.625 dlrs a
+share cash, or 242 mln dlrs, in a deal recommended by the
+Aggregates board.
+ REUTER
+&#3;</BODY></TEXT>

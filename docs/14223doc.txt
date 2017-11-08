@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="BYPASS" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="3206" NEWID="14223">
+<DATE> 7-APR-1987 12:03:48.96</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f1434&#31;reute
+u f BC-QT8458   04-07 0035</UNKNOWN>
+<TEXT TYPE="UNPROC">&#2;
+N.Y. EURODEPOSITS 1200 - APR 7
+ U.S. DOLLAR
+ One month       6-3/8    6-1/4 
+ Two months      6-7/16   6-5/16
+ Three months    6-1/2    6-3/8 
+ Six months      6-5/8    6-1/2 
+ One year        6-13/16  6-11/16
+
+ Reuter
+&#3;
+
+</TEXT>

@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6790" NEWID="18951">
+<DATE>18-JUN-1987 15:17:38.42</DATE>
+<TOPICS><D>iron-steel</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f4395&#31;reute
+h f BC-USX-&lt;X>-UNIT-OFFERS-S   06-18 0061</UNKNOWN>
+<TEXT>&#2;
+<TITLE>USX &lt;X> UNIT OFFERS STEEL PRICES DIRECTORY</TITLE>
+<DATELINE>    PITTSBURGH, June 18 - </DATELINE><BODY>USX Corp said its USS division has
+available a comprehensive sheet steel selection and pricing
+system detailing the company's full line of products.
+    The company said it was the first complete update in 25
+years.
+    The new prices in the book are effective after Oct One,
+1987, the company said.
+ Reuter
+&#3;</BODY></TEXT>

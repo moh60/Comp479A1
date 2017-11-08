@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10263" NEWID="5350">
+<DATE>16-MAR-1987 09:55:26.88</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F
+&#22;&#22;&#1;f2076&#31;reute
+d f BC-DERLAN-ACQUIRES-80-PC   03-16 0043</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DERLAN ACQUIRES 80 PCT OF AURORA INDUSTRIES</TITLE>
+<DATELINE>    Toronto, March 16 - </DATELINE><BODY>&lt;Derlan Industries Ltd> said it
+acquired 80 pct of Aurora Industries Inc of Montgomery,
+Illinois for an undisclosed price.
+    Closing is subject to completion of legal formalities,
+Derlan said.
+ Reuter
+&#3;</BODY></TEXT>

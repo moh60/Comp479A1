@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11049" NEWID="6136">
+<DATE>17-MAR-1987 13:33:51.62</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f5991&#31;reute
+d f BC-ENDATA-&lt;DATA>-TERMINA   03-17 0104</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ENDATA &lt;DATA> TERMINATES WORK ON CONTRACT</TITLE>
+<DATELINE>    NASHVILLE, Tenn., March 17 - </DATELINE><BODY>Endata Inc said it terminated
+development work on a previously announced contract with
+&lt;Educational Testing Services>.
+    Endata said that under terms of the contract Educational
+Testing asked it to terminate development of an advanced image
+processing system integration project and to return all
+projected-related equipment. Endata said termination of the
+project will not materially affect its operating results.
+    Separately, Endata said it bought the assets and business
+of three service centers from &lt;Midcom Inc> for an undisclosed
+amount.
+ Reuter
+&#3;</BODY></TEXT>

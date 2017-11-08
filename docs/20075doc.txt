@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20670" NEWID="20075">
+<DATE>20-OCT-1987 06:55:19.10</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f0537&#31;reute
+b f BC-U.K.-TORY-PARTY-CHAIR   10-20 0097</UNKNOWN>
+<TEXT>&#2;
+<TITLE>U.K. TORY PARTY CHAIRMAN TEBBIT TO JOIN BLUE ARROW</TITLE>
+<DATELINE>    LONDON, Oct 20 - </DATELINE><BODY>Conservative Party chairman Norman Tebbit,
+who plans to give up the post an a date yet to be set, is
+joining Blue Arrow Plc &lt;BAWL.L> as a non-executive director,
+Blue Arrow said.
+    Blue Arrow, which has just completed the purchase of U.S.
+Employment agency &lt;Manpower Inc>, said Tebbit is joining the
+board along with Michael Davies as non-executive directors from
+November 1.
+    Davies is a director of several publicly-listed companies,
+including British Airways Plc &lt;BAB.L>, and TI Group Plc
+&lt;TIGL.L>.
+ REUTER
+&#3;</BODY></TEXT>

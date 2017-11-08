@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13507" NEWID="7986">
+<DATE>20-MAR-1987 16:32:34.71</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2420&#31;reute
+d f BC-MULTI-SOLUTIONS-&lt;MULT   03-20 0079</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MULTI SOLUTIONS &lt;MULT> UNIT ADDS CAPABILITY</TITLE>
+<DATELINE>    EDISON, N.J., March 20 - </DATELINE><BODY>Multi Solutions Inc's Multi Soft
+Inc &lt;MSOF> announced Version 3.0 of Super-Link, its application
+development system for building cooperative peer-to-peer
+applications under CICS, TSO, VM/CMS and IDMS-DC.
+    The release adds two new components to the Super-Link
+system and provides enhanced features and support for
+application connectivity on Digital's VAX computer line running
+VMS, the company said.
+ Reuter
+&#3;</BODY></TEXT>

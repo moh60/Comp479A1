@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19371" NEWID="2953">
+<DATE> 6-MAR-1987 23:11:28.50</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0867&#31;reute
+u f BC-SAVINGS-ACUISITION-IN   03-06 0080</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SAVINGS ACUISITION IN CALIFORNIA ANNOUNCED</TITLE>
+<DATELINE>    WASHINGTON, March 7 - </DATELINE><BODY>The Federal Home Loan Bank Board
+(FHLBB) announced the acquisiton of South Bay Savings &amp; Loan
+Association in Gardena, Calif., By Standard Pacific Savings of
+Costa Mesa, Calif.
+    The FHLBB said South Bay had assets of 62.5 mln dlrs and
+Standard Pacific had 312.8 mln dlrs in assets.
+    It was the fourth federally-assisted merger or acquisition
+of a troubled savings institution this year, the FHLBB said.
+ REUTER
+&#3;</BODY></TEXT>

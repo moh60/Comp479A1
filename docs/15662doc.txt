@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4839" NEWID="15662">
+<DATE> 9-APR-1987 11:47:54.03</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1433&#31;reute
+r f BC-TOTH-ALUMINUM-&lt;TOTH>   04-09 0043</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TOTH ALUMINUM &lt;TOTH> SHARE OFFERING UNDER WAY</TITLE>
+<DATELINE>    NEW ORLEANS, April 9 - </DATELINE><BODY>Toth Aluminum Corp said an offering
+of 2,500,000 common shares is under way at 1.875 dlrs each.
+    It said another 5,993,577 shares are issuable on the
+exercise of outstanding options.
+ Reuter
+&#3;</BODY></TEXT>

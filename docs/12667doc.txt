@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="NOT-USED" CGISPLIT="PUBLISHED-TESTSET" OLDID="21524" NEWID="12667">
+<DATE> 2-APR-1987 13:41:22.61</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1984&#31;reute
+d f BC-MCKESSON-&lt;MCK>-SELLS   04-02 0068</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MCKESSON &lt;MCK> SELLS CULINARY ACADEMY</TITLE>
+<DATELINE>    SAN FRANCISCO, April 2 - </DATELINE><BODY>McKesson Corp said it sold the
+California Culinary Academy of San Francisco to an investor
+group headed by the academy's president, Fred Seymour, for
+undisclosed terms.
+    The 400-student academy was founded nine years ago and was
+acquired in 1982 by McKesson. The company said it sold it
+because it no longer fits with its business direction.
+ Reuter
+&#3;</BODY></TEXT>

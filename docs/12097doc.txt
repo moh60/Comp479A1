@@ -1,0 +1,32 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="325" NEWID="12097">
+<DATE> 1-APR-1987 12:45:14.85</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>nasdaq</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1712&#31;reute
+d f BC-NASD-DENIES-APPLICATI   04-01 0104</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NASD DENIES APPLICATION</TITLE>
+<DATELINE>    WASHINGTON, April 1 - </DATELINE><BODY>The National Association of
+Securities Dealers Inc. denied Kirk Knapp's application to
+become a registered member of the firm.
+    NASD's board of governors said it denied the application of
+Knapp to become registered with K.A. Knapp and Co, located in
+Grand Rapids, Mich. The board said it based its decision on two
+statutory disqualifications.
+    In the first case, the board said it found Knapp failed to
+maintain rquired net capital, filed inaccurate Focus Part 1
+reports and inaccurately calculated the amount required to be
+on deposit in the Special Reserve Account.
+    The second case involved Knapp being enjoined from
+violations of sections of the Securities Exchange Act, the NASD
+said.
+ Reuter
+&#3;</BODY></TEXT>

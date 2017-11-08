@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6383" NEWID="18631">
+<DATE>18-JUN-1987 09:17:45.03</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F 
+&#22;&#22;&#1;f2980&#31;reute
+r f BC-cominco   06-18 0110</UNKNOWN>
+<TEXT>&#2;
+<TITLE>COMINCO &lt;CLT> PLANS CANADIAN STOCK ISSUE</TITLE>
+<DATELINE>    VANCOUVER, British Columbia, June 18 - </DATELINE><BODY>Cominco Ltd said it
+plans to issue units in Canada containing common share purchase
+warrants indexed to zinc and copper prices.
+    Each unit will consist of one deferred retractable
+redeemable share and one warrant, which will be indexed to
+average market prices of zinc and copper on the exercise date.
+    Issue size, timing and terms have not yet been determined.
+    Cominco said it would use proceeds to reduce bank loans and
+other short-term debt. Underwriters are Nesbitt Thomson Deacon
+Inc, Dominion Securities Inc and Pemberton Houston Willoughby
+Bell Gouinlock Inc.
+
+ Reuter
+&#3;</BODY></TEXT>

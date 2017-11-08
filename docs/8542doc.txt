@@ -1,0 +1,34 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14063" NEWID="8542">
+<DATE>23-MAR-1987 17:21:45.87</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2525&#31;reute
+d f BC-BALLY-&lt;BLY>-SHIFTS-MA   03-23 0112</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BALLY &lt;BLY> SHIFTS MANAGEMENT AT SUBSIDIARY</TITLE>
+<DATELINE>    CHICAGO, March 23 - </DATELINE><BODY>Bally Mfg Co said it is reorganizing
+executive management of its lottery subsidiary, Scientific
+Games Inc, Norcross, Ga.
+    Effective April One, it said John Koza, co-founder and
+chairman/chief executive officer of Scientific Games, will
+become chairman emeritus of the subsidiary. He also will become
+a technical consultant to Bally and Scientific Games in gaming
+and lottery technology and new product development.
+    Bally said Daniel Bower, co-founder and president of
+Scientific Games, will assume Koza's former position as
+chairman and chief executive officer, while retaining his post
+as president.
+    Assisting Bower will be a newly formed executive committee,
+which will have primary operational responsibility for the
+company's day-to-day offairs.
+    Separately, it said Tom Little, a vice president, was named
+president-International Division.
+ Reuter
+&#3;</BODY></TEXT>

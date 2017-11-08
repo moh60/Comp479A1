@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10362" NEWID="5449">
+<DATE>16-MAR-1987 11:53:25.28</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2608&#31;reute
+u f BC-RAYTHEON-&lt;RTN>-UNIT-G   03-16 0055</UNKNOWN>
+<TEXT>&#2;
+<TITLE>RAYTHEON &lt;RTN> UNIT GETS 337 MLN DLR CONTRACT</TITLE>
+<DATELINE>    JACKSON, Miss., March 16 - </DATELINE><BODY>Raytheon Co said its Beech
+Aricraft unit has received a five-year 337 mln dlr
+incrementally-funded contract from the U.S. government to
+support C-12 and U-21 type aircraft.
+    It said the first year of the contract has been funded to a
+level of 35 mln dlrs.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="3274" NEWID="14291">
+<DATE> 7-APR-1987 12:16:38.98</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1528&#31;reute
+d f BC-PLEXUS-&lt;PLUSF>-SETS-E   04-07 0070</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PLEXUS &lt;PLUSF> SETS EQUITY FINANCING</TITLE>
+<DATELINE>    SALT LAKE CITY, April 7 - </DATELINE><BODY>Plexus Resources Corp said it
+will undertake an 11 mln Canadian dlr equity financing package
+to allow development of the Rawhide Gold Project in central
+Nevada.
+    It said the financing will take place upon execution of
+contracts currently being concluded with &lt;Peter Kiewit Sons
+Inc's> Kiewit Mining Group unit and Standard Oil Co's &lt;SRD>
+Kennecott unit.
+ Reuter
+&#3;</BODY></TEXT>

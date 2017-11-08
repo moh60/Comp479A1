@@ -1,0 +1,33 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6020" NEWID="17682">
+<DATE> 1-JUN-1987 13:48:33.20</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1935&#31;reute
+r f BC-PEERLESS-MANUFACTURIN   06-01 0103</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PEERLESS MANUFACTURING &lt;PMFG.O> SELLS UNIT</TITLE>
+<DATELINE>    DALLAS, June 1 - </DATELINE><BODY>Peerless Manufacturing Co said it has sold
+its Industrial Sensors and Instruments Division and Panhandle
+Equipment Co subsidiaries for a total of 635,000 dlrs in cash.
+    It said the transaction will result in a loss of about
+605,000 dlrs or 50 cts per share, which it will take in the
+fourth quarter ending June 30. Peerless said due to the sale it
+will probably have a loss for the year.
+    It said it sold the units, to buyers it did not name, due
+to increasing losses caused by the depressed petroleum
+equipment market.
+                               
+    Peerless earned 576,000 dlrs or 63 cts per share in fiscal
+1986.
+    It said the units being sold lost 28 cts per share in the
+first nine months of fiscal 1987 and 12 cts in all of fiscal
+1986.
+ Reuter
+&#3;</BODY></TEXT>

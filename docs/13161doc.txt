@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="2130" NEWID="13161">
+<DATE> 3-APR-1987 16:42:14.21</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E A RM
+&#22;&#22;&#1;f2346&#31;reute
+u f BC-CANADA-AGENCY-SETS-FI   04-03 0098</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CANADA AGENCY SETS FIRST EURO-YEN OFFERING</TITLE>
+<DATELINE>    OTTAWA, April 3 - </DATELINE><BODY>Canada's state-run Export Development
+Corp said it arranged a 15 billion yen offering of 4-1/2 pct
+notes, due Aug 28, 1992, its first Euro-Yen offering.
+    The redeemable notes, priced at 101-7/8 pct, is being
+offered through Bank of Tokyo International Ltd, Daiwa Europe
+Ltd, Nomura International Ltd, Credit Suisse First Boston Ltd,
+Morgan Stanley International and 19 other institutions.
+    Net proceeds, which have been swapped to U.S. dlrs for
+undislcosed terms, will used to fund loan commitments and other
+purposes. 
+ Reuter
+&#3;</BODY></TEXT>

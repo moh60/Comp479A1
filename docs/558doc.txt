@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12741" NEWID="558">
+<DATE> 2-MAR-1987 12:30:22.84</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>west-germany</D><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0284&#31;reute
+u f BC-&lt;HOECHST-AG>-COMPLETE   03-02 0045</UNKNOWN>
+<TEXT>&#2;
+<TITLE>&lt;HOECHST AG> COMPLETES CELANESE &lt;CZ> ACQUISITION</TITLE>
+<DATELINE>    SOMERVILLE, N.J., March 2 - </DATELINE><BODY>Hoechst AG of West Germany said
+it has completed the acquisition of Celanese Corp.
+    Hoechst acquired a majority of Celanese shares in a recent
+tender offer at 245 dlrs per common share.
+ Reuter
+&#3;</BODY></TEXT>

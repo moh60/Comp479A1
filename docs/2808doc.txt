@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19226" NEWID="2808">
+<DATE> 6-MAR-1987 15:08:50.95</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0334&#31;reute
+u f BC-GATX-&lt;GMT>-TO-REPURCH   03-06 0050</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GATX &lt;GMT> TO REPURCHASE UP TO 750,000 SHARES</TITLE>
+<DATELINE>     CHICAGO, March 6 - </DATELINE><BODY>GATX Corp said it will buy back up to
+750,000 common shares in the open market from time to time
+within the next year.
+    Morgan Stanley and Co Inc will act as agent.
+    As of December 31, 1986, GATX had nine mln shares
+outstanding.
+ Reuter
+&#3;</BODY></TEXT>

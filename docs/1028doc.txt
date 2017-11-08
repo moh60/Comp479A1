@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16348" NEWID="1028">
+<DATE> 3-MAR-1987 09:50:34.51</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0378&#31;reute
+u f BC-LIFETIME-&lt;LFT>-TO-MAK   03-03 0055</UNKNOWN>
+<TEXT>&#2;
+<TITLE>LIFETIME &lt;LFT> TO MAKE ANNOUNCEMENT</TITLE>
+<DATELINE>    NEW YORK, March 3 - </DATELINE><BODY>Lifetime Corp said it will make an
+announcement this morning between 1000 EST and 1030 EST.
+    A company spokesman said the company preferred not to
+comment until that time.
+    The American Stock Exchange delayed trading in Lifetime
+shares this morning for news pending.
+ Reuter
+&#3;</BODY></TEXT>

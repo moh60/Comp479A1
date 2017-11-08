@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14087" NEWID="8566">
+<DATE>23-MAR-1987 17:52:58.25</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2598&#31;reute
+d f BC-SPACE-MICROWAVE-&lt;SMLI   03-23 0078</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SPACE MICROWAVE &lt;SMLI> SETS SECURITIES OFFERING</TITLE>
+<DATELINE>    SANTA ROSA, Calif., March 23 - </DATELINE><BODY>Space Microwave Laboratories
+Inc said it registered with the Securities and Exchange
+Commission a secondary offering of 2,200 units of its
+securities at 1,000 dlrs per unit.
+    Each unit consists of shares of common stock, common stock
+purchase warrants and 1,000-dlr principal amount of convertible
+subordinated debentures.
+    RLR Securities Group Inc will underwrite the offering.
+ Reuter
+&#3;</BODY></TEXT>

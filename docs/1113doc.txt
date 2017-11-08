@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16433" NEWID="1113">
+<DATE> 3-MAR-1987 11:33:58.90</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0822&#31;reute
+u f BC-NEXXUS-&lt;NEXX>-SIGNS-C   03-03 0077</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NEXXUS &lt;NEXX> SIGNS CONTRACTS WORTH 10 MLN DLRS</TITLE>
+<DATELINE>    BEVERLY HILLS, Calif., March 3 - </DATELINE><BODY>Nexxus Technologies Inc
+said it has signed production contracts totaling about 10 mln
+dlrs with three major U.S. gem wholesalers.
+    The company said it expects to start operations on these
+contracts in May, adding the work will continue through late
+1989. Additional contracts with international gem wholesalers
+are expected in the near future, it added without providing
+details.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5896" NEWID="17558">
+<DATE> 1-JUN-1987 10:41:13.85</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1198&#31;reute
+d f BC-GREENMAN-BROS-INC-&lt;GM   06-01 0044</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GREENMAN BROS INC &lt;GMN> 1ST QTR MAY 2 LOSS</TITLE>
+<DATELINE>    FARMINGDALE, N.Y., June 1 -
+    </DATELINE><BODY>Shr loss 52 cts vs loss 49 cts
+    Net loss 3,142,000 vs loss 2,936,000
+    Sales 40.9 mln vs 40.1 mln
+    NOTE: Year ago share results adjusted for five-for-four
+stock split in August 1986
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7906" NEWID="19578">
+<DATE>29-JUN-1987 08:34:51.33</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f0770&#31;reute
+d f BC-AUTOSPA-&lt;LUBE.O>-UNIT   06-29 0073</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AUTOSPA &lt;LUBE.O> UNIT FORMS JOINT VENTURE</TITLE>
+<DATELINE>    WOODSIDE, N.Y., June 29 - </DATELINE><BODY>Autospa Corp said its wholly
+owned Autospa Franchising Corp subsidiary entered into an
+agreement to form a joint venture for franchising Autospa Flat
+Proof Service Centers with Seal-It Corp, a private Los
+Angeles-based automotive aftermarket company.
+    Under the agreement, AutoSpa Franchising and Seal-It each
+will hold 50 pct of the joint venture company shares.
+
+ Reuter
+&#3;</BODY></TEXT>

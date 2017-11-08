@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="577" NEWID="12349">
+<DATE> 1-APR-1987 17:20:50.15</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2590&#31;reute
+d f BC-SCIMED-&lt;SMLS>-BEING-S   04-01 0090</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SCIMED &lt;SMLS> BEING SUED FOR PATENT INFRINGEMENT</TITLE>
+<DATELINE>    MINNEAPOLIS, April 1 - </DATELINE><BODY>SciMed Life Systems Inc said
+&lt;Advanced Cardiovascular Systems Inc> is suing it for patent
+infringement.
+    The company said the suit involves a patent for a vascular
+guiding catheter assembly and a vascular dilating catheter
+assembly.
+    SciMed said the suit is without merit and it has turned the
+matter over to its attorneys.
+    It added that the lawsuit will not affect the negotiations
+on the merger transaction with Bristol-Meyers Co &lt;BMY>,
+announced Monday.
+ Reuter
+&#3;</BODY></TEXT>

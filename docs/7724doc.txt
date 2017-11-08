@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13245" NEWID="7724">
+<DATE>20-MAR-1987 11:06:28.75</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F
+&#22;&#22;&#1;f1209&#31;reute
+u f BC-NORANDA-WINS-AID-TO-P   03-20 0099</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NORANDA WINS AID TO PARE ACID RAIN EMISSIONS</TITLE>
+<DATELINE>    OTTAWA, March 20 - </DATELINE><BODY>&lt;Noranda Inc> has agreed to cut acid
+rain emissions by 50 pct at its Quebec copper smelter by 1990
+with the federal and Quebec governments each providing 41.6 mln
+dlrs towards the cost, the federal industry department said.
+    Under an agreement, Noranda will also be required to 
+41.6 mln Canadian dlrs and cover operating costs of the
+proposed 125 mln dlr sulphuric acid plant.
+    The department said the agreement will allow Noranda to
+meet polutions standards in Quebec's new environmental
+regulations passed in 1985.
+ Reuter
+&#3;</BODY></TEXT>

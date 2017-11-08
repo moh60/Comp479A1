@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16326" NEWID="1006">
+<DATE> 3-MAR-1987 09:27:51.06</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0313&#31;reute
+u f BC-GE-&lt;GE>-SAYS-AMR-&lt;AMR   03-03 0076</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GE &lt;GE> SAYS AMR &lt;AMR> ORDER WORTH 650 MLN DLRS</TITLE>
+<DATELINE>    EVENDALE, Ohio, March 3 - </DATELINE><BODY>General Electric Co said AMR
+Corp's oprder of GE CFG-80C2 engines to power 25 new &lt;Airbus
+Industrie> A300-600R and 15 Boeing Co &lt;BA> 767-300ER twinjets
+is worth over 650 mln dlrs.
+    The company said the order is the largest single one it has
+ever received for commercial aircraft engines.
+    AMR announced the order earlier today.
+    GE said deliveries will start in early 1988.
+ Reuter
+&#3;</BODY></TEXT>

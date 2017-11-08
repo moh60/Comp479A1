@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="1490" NEWID="12414">
+<DATE> 2-APR-1987 04:04:44.17</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>west-germany</D><D>ussr</D></PLACES>
+<PEOPLE><D>bangemann</D></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0282&#31;reute
+r f BC-SOVIET-MINISTER-IN-GE   04-02 0099</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SOVIET MINISTER IN GERMAN JOINT VENTURE TALKS</TITLE>
+<DATELINE>    BONN, April 2 - </DATELINE><BODY>Soviet deputy prime minister Alexei Antonov
+begins two days of economic talks in Bonn that will include
+discussions on Soviet-West German joint ventures.
+    Antonov and West German Economics Minister Martin Bangemann
+are heading their respective delegations to the joint
+commission on economic, scientific and technical cooperation.
+    "The main point of the round will be Soviet economic
+reforms, new forms of economic cooperation, joint ventures, and
+cooperation in construction," government spokesman Friedhelm Ost
+said.
+ REUTER
+&#3;</BODY></TEXT>

@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7897" NEWID="19569">
+<DATE>29-JUN-1987 07:38:56.41</DATE>
+<TOPICS><D>trade</D></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM 
+&#22;&#22;&#1;f0596&#31;reute
+f f BC-   06-29 0014</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE> German May trade surplus 10.6 billion marks (April
+surplus 8.9 billion) - official
+</TITLE>&#3;
+
+</TEXT>

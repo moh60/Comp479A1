@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5470" NEWID="15572">
+<DATE> 9-APR-1987 10:30:30.68</DATE>
+<TOPICS><D>grain</D><D>wheat</D></TOPICS>
+<PLACES><D>usa</D><D>egypt</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;C G
+&#22;&#22;&#1;f1076&#31;reute
+u f BC-EGYPT-BUYS-PL-480-WHE   04-09 0049</UNKNOWN>
+<TEXT>&#2;
+<TITLE>EGYPT BUYS PL 480 WHEAT FLOUR - U.S. TRADERS</TITLE>
+<DATELINE>    KANSAS CITY, April 9 - </DATELINE><BODY>Egypt bought 125,723 tonnes of U.S.
+wheat flour in its PL 480 tender yesterday, trade sources said.
+    The purchase included 51,880 tonnes for May shipment and
+73,843 tonnes for June shipment. Price details were not
+available.
+ Reuter
+&#3;</BODY></TEXT>

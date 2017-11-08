@@ -1,0 +1,30 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9138" NEWID="4225">
+<DATE>12-MAR-1987 10:11:33.31</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0097&#31;reute
+u f BC-BRITISH-AIRWAYS-&lt;BAB>   03-12 0098</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BRITISH AIRWAYS &lt;BAB> FEBRUARY LOAD FACTOR UP</TITLE>
+<DATELINE>    NEW YORK, March 12 - </DATELINE><BODY>British Airways PLC said February 1987
+load factor rose to 64.7 pct, up 5.4 percentage points  from
+February 1986.
+    Revenue passenger miles increased 14.8 pct in February to
+1.75 billion but fell 0.7 pct in the fiscal year-to-date to
+23.54 billion, the British carrier said.
+    Available seat miles rose 5.2 pct in February to 2.73
+billion and 1.3 pct in the 11 months to 35.27 billion.
+    Load factor, the percentage of seats filled, fell 1.4
+percentage points to 66.7 pct in the April through February
+period.
+    The British carrier made its first traffic report since the
+British Government sold it to the public last month.
+ Reuter
+&#3;</BODY></TEXT>

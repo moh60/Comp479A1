@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4144" NEWID="15161">
+<DATE> 8-APR-1987 13:12:50.47</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1894&#31;reute
+u f BC-U.K.-GEC-DECLINES-COM   04-08 0089</UNKNOWN>
+<TEXT>&#2;
+<TITLE>U.K. GEC DECLINES COMMENT ON U.S. PURCHASE RUMOUR</TITLE>
+<DATELINE>    LONDON, April 8 - </DATELINE><BODY>General Electric Co Plc &lt;GECL.L> (GEC)
+declined comment on rumours on the London stock market that it
+is planning another purchase in the U.S. Medical equipment
+field, in addition to its existing U.S. Subsidiary &lt;Picker
+International Inc>.
+    A GEC spokesman said that it is company policy not to
+comment on acquisition rumours.
+    Stock Exchange traders said the rumour helped GEC's share
+price to rise 5p, to a final 206p from yesterday's closing
+price of 201p.
+ Reuter
+&#3;</BODY></TEXT>

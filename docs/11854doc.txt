@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="82" NEWID="11854">
+<DATE> 1-APR-1987 07:43:37.45</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>sweden</D><D>portugal</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0600&#31;reute
+u f BC-SWEDISH-MATCH-SELLS-P   04-01 0068</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SWEDISH MATCH SELLS PORTUGUESE UNIT</TITLE>
+<DATELINE>    STOCKHOLM, April 1 - </DATELINE><BODY>Swedish Match AB &lt;SMBS.ST> said it was
+selling one of its Portuguese subsidiaries, &lt;Sociedade de
+Iniciativa e Aproveitamentos Florestais Sarl> (SIAF), to the
+Porto-based &lt;Sonae Group> for an undisclosed price.
+    SIAF, a subsidiary of Swedish Match since 1946, had a
+turnover last year of 62 mln crowns, the Swedish group said in
+a statement.
+ REUTER
+&#3;</BODY></TEXT>

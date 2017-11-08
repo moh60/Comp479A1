@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14294" NEWID="8773">
+<DATE>24-MAR-1987 10:45:13.49</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1187&#31;reute
+r f BC-HOUSEHOLD-INT'L-&lt;HI>   03-24 0059</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HOUSEHOLD INT'L &lt;HI> TO REPURCHASE MORE SHARES</TITLE>
+<DATELINE>    PROSPECT HEIGHTS, Ill., March 24 - </DATELINE><BODY>Household International
+Inc said it plans to repurchase up to 100 mln dlrs of its
+common stock, continuing the stock buyback program it began
+last year.
+    Household said it would repurchase the shares in open
+market or private transactions at times it deems appropriate.
+ Reuter
+&#3;</BODY></TEXT>

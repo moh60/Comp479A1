@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19561" NEWID="3139">
+<DATE> 9-MAR-1987 11:03:31.08</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0459&#31;reute
+b f BC-/AMC-&lt;AMO>-STUDYING-C   03-09 0073</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AMC &lt;AMO> STUDYING CHRYSLER &lt;C> PROPOSAL</TITLE>
+<DATELINE>    SOUTHFIELD, Mich., March 9 - </DATELINE><BODY>American Motors Corp said it
+is studying a proposed merger with Chrysler Corp.
+    American Motors said it received a letter from Chrysler
+Corp "advising us of their proposal to enter into a merger
+transaction with American Motors Corp."
+    In a brief statement, the company said, "We are studying
+the proposal. We will have further comment when it is
+appropriate."
+ Reuter
+&#3;</BODY></TEXT>

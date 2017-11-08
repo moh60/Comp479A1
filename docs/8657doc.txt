@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14178" NEWID="8657">
+<DATE>24-MAR-1987 07:09:25.92</DATE>
+<TOPICS><D>money-fx</D><D>dlr</D></TOPICS>
+<PLACES><D>japan</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A
+&#22;&#22;&#1;f0488&#31;reute
+r f BC-BANK-OF-JAPAN-STEPS-U   03-24 0094</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BANK OF JAPAN STEPS UP DOLLAR BUYING</TITLE>
+<DATELINE>    TOKYO, March 24 - </DATELINE><BODY>The Bank of Japan stepped up its dollar
+buying as it re-entered the market after the midday Tokyo lunch
+break, dealers said.
+    They said the bank seemed more determined to support the
+dollar than it did this morning.
+    Several dealers said the central bank intervened this
+afternoon when the dollar stood around 149 yen.
+    One said it purchased 150 to 200 mln dlrs in the half-hour
+since the market re-opened after its lunchtime closure. Another
+said the bank still has buying orders in the market.
+ REUTER
+&#3;</BODY></TEXT>

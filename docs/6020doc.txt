@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10933" NEWID="6020">
+<DATE>17-MAR-1987 11:18:43.18</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f5358&#31;reute
+u f BC-SPENDTHRIFT-FARMS-&lt;SF   03-17 0049</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SPENDTHRIFT FARMS &lt;SFI> GETS BID FOR CONTROL</TITLE>
+<DATELINE>    LEXINGTON, Ky., March 17 - </DATELINE><BODY>Spendthrift Farm Inc said it has
+received three tentative proposals to acquyire control of the
+company.
+    It said it is evaluating the proposals and will not comment
+further unless a definitive agreement is reached.
+ Reuter
+&#3;</BODY></TEXT>

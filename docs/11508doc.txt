@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17570" NEWID="11508">
+<DATE>31-MAR-1987 13:28:43.42</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2006&#31;reute
+r f BC-QUANTUM-VENTURE-UPS-C   03-31 0110</UNKNOWN>
+<TEXT>&#2;
+<TITLE>QUANTUM VENTURE UPS COMPUTER NETWORK&lt;CMNT> STAKE</TITLE>
+<DATELINE>    MINNEAPOLIS, March 31 - </DATELINE><BODY>Computer Network Technology Corp
+(CNT) said that &lt;Quantum Venture Partners LP>, a private
+investment limited partnership, has acquired an additional
+600,000 shares of CNT common stock, raising its stake in CNT to
+15.3 pct from 9.6 pct of the currently outstanding shares.
+    CNT said Quantum bought the shares by exercising 1.5 mln
+dlrs in warrants, bringing its total investment in CNT to 2.5
+mln dlrs.
+    CNT also said &lt;Sand Technology Systems Inc> of Canada
+bought two of its CHANNELink networking units for a data
+processing service for major health care facilities in Canada.
+ Reuter
+&#3;</BODY></TEXT>

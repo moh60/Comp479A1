@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="2150" NEWID="13181">
+<DATE> 3-APR-1987 17:09:53.14</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F
+&#22;&#22;&#1;f2418&#31;reute
+d f BC-NELSON-TO-EXPAND-VIDE   04-03 0079</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NELSON TO EXPAND VIDEO VENDING</TITLE>
+<DATELINE>    TORONTO, April 3 - </DATELINE><BODY>&lt;Nelson Holdings International Ltd> said
+it plans to expand the marketing of its video vending machines,
+which have been tested successfully in Toronto.
+    The machines, which can contain up to 400 videocassettes,
+have been placed in convenience stores and gas stations for the
+past nine months.
+    Nelson said it now has machines in about 50 locations in
+Toronto and will expand its sales effort across Canada this
+year.
+    The vending machines allow customers to rent a
+videocassette, using a credit card, and return the cassette to
+the same machine.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="BYPASS" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="3708" NEWID="14725">
+<DATE> 7-APR-1987 17:44:14.35</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G L M T
+&#22;&#22;&#1;f2593&#31;reute
+d f BC-today-in-washington   04-07 0057</UNKNOWN>
+<TEXT>&#2;
+<TITLE>COMMODITIES TODAY IN WASHINGTON FOR APRIL 8</TITLE>
+<DATELINE>    -- </DATELINE><BODY>House Agriculture Livestock, Dairy and Poultry
+Subcommittee reviews Agriculture Department's meat inspection
+program. (1000)
+    -- Agriculture Department releases weekly world production
+and trade report. (1500)
+    -- Agriculture Department releases survey on agricultural
+resources. (1500)
+ Reuter
+&#3;</BODY></TEXT>

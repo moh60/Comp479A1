@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="NOT-USED" CGISPLIT="PUBLISHED-TESTSET" OLDID="21554" NEWID="12698">
+<DATE> 2-APR-1987 15:18:47.74</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2295&#31;reute
+u f BC-LANE-&lt;LANE>-BOARD-SUP   04-02 0057</UNKNOWN>
+<TEXT>&#2;
+<TITLE>LANE &lt;LANE> BOARD SUPPORTS INTERCO &lt;ISS> MERGER</TITLE>
+<DATELINE>    ALTAVISTA, Va., April 2 - </DATELINE><BODY>Lane Co said its baord
+unanimously reaffirmed its support for a proposed merger with
+Interco Inc, following a Lane board meeting.
+    Lane said its board recommends that shareholders vote for
+adoption of the merger at a special meeting of shareholders on
+April 13.
+
+ Reuter
+&#3;</BODY></TEXT>

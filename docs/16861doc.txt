@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1396" NEWID="16861">
+<DATE>17-APR-1987 11:56:15.00</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0298&#31;reute
+r f BC-ALLIANCE-WELL-&lt;AWSI.O   04-17 0095</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ALLIANCE WELL &lt;AWSI.O> SAYS NOT ALL BANKS AGREE</TITLE>
+<DATELINE>    LIBERTY, Texas, April 17 - </DATELINE><BODY>Alliance Well Service Inc said
+not all of its five principal lending banks have agreed yet to
+the proposed settlement of Alliance debt that the company
+announced April 15.
+    The company said some important points still need to be
+negotiated in the agreement, as well.
+    Under the agreement, all 29.3 mln dlrs of its bank debt,
+plus related interest, would be eliminated, the banks would
+recieve common stock and the company would not challenge the
+banks' foreclosure of its 119 drilling rigs.
+ Reuter
+&#3;</BODY></TEXT>

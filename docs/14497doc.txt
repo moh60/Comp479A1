@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="3480" NEWID="14497">
+<DATE> 7-APR-1987 15:37:26.91</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A RM
+&#22;&#22;&#1;f2245&#31;reute
+b f BC-DEERE-&lt;DE>-AND-UNIT-D   04-07 0116</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DEERE &lt;DE> AND UNIT DEBT DOWNGRADED BY MOODY'S</TITLE>
+<DATELINE>    NEW YORK, April 7 - </DATELINE><BODY>Moody's Investors Service Inc said it
+downgraded 1.8 billion dlrs of long-term debt of Deere and Co
+and its finance unit John Deere Credit Co.
+    Downgraded were senior notes and debentures to Baa-2 from
+A-3 and subordinated debt to Baa-3 from Baa-1. The senior debt
+includes John Deere Credit Co's guaranteed Eurobonds.
+    Moody's cited lower agricultural equipment demand due to
+depressed conditions in the farm economy. It also noted that
+equipment prices are pressured by competition. Deere is the
+industry's dominant producer but overcapacity keeps cash flow
+and debt protection measures under pressure, Moody's noted.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10115" NEWID="5202">
+<DATE>16-MAR-1987 03:03:34.26</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>new-zealand</D></PLACES>
+<PEOPLE><D>douglas</D></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f1171&#31;reute
+u f BC-NEW-ZEALAND-GOVERNMEN   03-16 0072</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NEW ZEALAND GOVERNMENT BORROWS 100 MLN STERLING</TITLE>
+<DATELINE>   WELLINGTON, March 16 - </DATELINE><BODY>The New Zealand government borrowed
+100 mln stg on the Eurosterling market to refinance a loan of
+the same amount maturing in June, Finance Minister Roger
+Douglas said in a statement.
+    The coupon rate is 9.62 pct and the loan life is eight
+years.
+    Douglas said the coupon rate is the lowest obtained by the
+government on a sterling loan since 1971.
+ REUTER
+&#3;</BODY></TEXT>

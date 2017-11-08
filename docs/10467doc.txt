@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15987" NEWID="10467">
+<DATE>27-MAR-1987 11:08:21.98&#5;&#5;&#5;F</DATE>
+<UNKNOWN>&#22;&#22;&#1;f1158&#31;reute</UNKNOWN>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D><D>australia</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+r f BC-ALLEGHENY-INT'L-&lt;AG>   03-27 0082</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ALLEGHENY INT'L &lt;AG> SELLS THREE OVERSEAS UNITS</TITLE>
+<DATELINE>    PITTSBURGH, Pa., March 27 - </DATELINE><BODY>Allegheny International Inc
+said it sold three overseas subsidiaries to Reil Corp Ltd, a
+North Sydney, Australia, investment group.
+    Terms were not disclosed.
+    The units sold were Sunbeam Corp Ltd Australia, Sunbeam New
+Zealand Ltd and Victa (U.K.) Ltd. The units make and distribute
+various products, including lawn mowers, small appliances and
+sheep shearing equipment. They employ a total of about 1,750.
+ Reuter
+&#3;</BODY></TEXT>

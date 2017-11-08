@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18512" NEWID="2094">
+<DATE> 5-MAR-1987 10:40:47.55</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>italy</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0371&#31;reute
+u f BC-ITALIAN-TREASURY-DETA   03-05 0116</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ITALIAN TREASURY DETAILS NEW BILL OFFER</TITLE>
+<DATELINE>    ROME, March 5 - </DATELINE><BODY>The Italian treasury said it would offer
+3,500 billion lire of short-term treasury bills (BOTs) at rates
+slightly lower than the preceding offer in mid-February.
+    It said it would offer 1,500 billion lire of six-month
+paper priced at 95.35 pct for a net annualised compound yield
+of 9.30 pct. Net yield on the preceding issue was 9.46 pct.
+    The treasury said it would also offer 2,000 billion lire of
+12-month bills at a base price of 91.15 pct for a net annual
+yield of 9.05 pct, down from 9.22 pct in mid-February.
+    The bills replace maturing paper worth 3,196 billion lire
+and subscriptions to the offer close March 10.
+ REUTER
+&#3;</BODY></TEXT>

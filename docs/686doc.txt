@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12869" NEWID="686">
+<DATE> 2-MAR-1987 14:23:04.64</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0696&#31;reute
+r f BC-THUNANDER-CORP-&lt;THDR>   03-02 0038</UNKNOWN>
+<TEXT>&#2;
+<TITLE>THUNANDER CORP &lt;THDR> YEAR NET</TITLE>
+<DATELINE>    ELKHART, Ind., March 2 -
+    </DATELINE><BODY>Shr 73 cts vs 58 cts
+    Net 1,101,000 vs 901,000
+    Sales 32.9 mln vs 29.1 mln
+    Note: Results include operations of BMD of New England Inc,
+acquired Sept. 1, 1986.
+ Reuter
+&#3;</BODY></TEXT>

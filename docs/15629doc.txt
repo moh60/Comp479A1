@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4806" NEWID="15629">
+<DATE> 9-APR-1987 11:14:16.95</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1290&#31;reute
+r f BC-HUMANA-&lt;HUM>-TO-SELL   04-09 0069</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HUMANA &lt;HUM> TO SELL MEDICAL OFFICES</TITLE>
+<DATELINE>    LOUISVILLE, Ky., April 9 - </DATELINE><BODY>Humana Inc said it has agreed in
+principle to sell 68 MedFirst primary medical care facilities
+to &lt;Primedical Corp> for undisclosed terms, with transfers
+taking place over the next four months.
+    It said it retains 37 MedFirst offices, mostly in the
+Chicago area.
+    The transaction is not expected to have any impact on
+earnings, Humana said.
+ Reuter
+&#3;</BODY></TEXT>

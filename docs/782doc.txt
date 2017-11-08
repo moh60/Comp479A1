@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12965" NEWID="782">
+<DATE> 2-MAR-1987 16:30:23.28</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0073&#31;reute
+d f BC-CYBERTEK-&lt;CKCP>-FORMI   03-02 0046</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CYBERTEK &lt;CKCP> FORMING NEW DIVISION</TITLE>
+<DATELINE>    LOS ANGELES, March 2 - </DATELINE><BODY>Cybertek said it is forming a
+General Products division which will be located in Dallas.
+    The new division will market personal computer software
+products targeted at the Fortune 500 companies, Cybertek said.
+ Reuter
+&#3;</BODY></TEXT>

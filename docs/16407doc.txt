@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="941" NEWID="16407">
+<DATE>13-APR-1987 12:06:16.90</DATE>
+<TOPICS><D>interest</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F A RM
+&#22;&#22;&#1;f1598&#31;reute
+u f BC-/U.S.-TRUST-CO-&lt;USTC>   04-13 0048</UNKNOWN>
+<TEXT>&#2;
+<TITLE>U.S. TRUST CO &lt;USTC> RAISES BROKER LOAN RATE</TITLE>
+<DATELINE>    NEW YORK, April 13 - </DATELINE><BODY>U.S. Trust Co said it raised its
+broker loan rate to 7-3/4 pct from 7-1/2 pct, effective
+immediately.
+    Bankers Trust Co &lt;BT>, which also quotes its broker loan
+rate publicly, raised its rate to 7-1/2 pct earlier today.
+ Reuter
+&#3;</BODY></TEXT>

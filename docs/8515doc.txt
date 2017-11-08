@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14036" NEWID="8515">
+<DATE>23-MAR-1987 16:29:14.61</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2389&#31;reute
+d f BC-LOTUS-&lt;LOTS>-EXTENDS   03-23 0060</UNKNOWN>
+<TEXT>&#2;
+<TITLE>LOTUS &lt;LOTS> EXTENDS SYMPHONY UPGRADE</TITLE>
+<DATELINE>    CAMBRIDGE, Mass, March 23 - </DATELINE><BODY>Lotus Development Corp said it
+will extend its Lotus Symphony 1.2 upgrade program
+indefinitely.
+    The program, which began shipping in September 1986, was
+originally expected to run through March 31, 1987.
+    Lotus Symphony 1.2 is designed to enhance Lotus' 1-2-3
+spreadsheet technology.
+ Reuter
+&#3;</BODY></TEXT>

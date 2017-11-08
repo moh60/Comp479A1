@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19378" NEWID="2960">
+<DATE> 7-MAR-1987 03:48:16.48</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>malaysia</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0894&#31;reute
+u f BC-&lt;SIME-DARBY-BHD>-SIX   03-07 0053</UNKNOWN>
+<TEXT>&#2;
+<TITLE>&lt;SIME DARBY BHD> SIX MONTHS TO DECEMBER 31</TITLE>
+<DATELINE>    KUALA LUMPUR, March 7 -
+    </DATELINE><BODY>Shr 3.9 cents vs 4.2 cents
+    Interim dividend three cents vs same
+    Group net 35.8 mln ringgit vs 39.1 mln
+    Pre-tax 77.3 mln vs 99.8 mln
+    Turnover 1.16 billion vs 1.05 billion
+    Note - dividend pay May 22, register April 24.
+ REUTER
+&#3;</BODY></TEXT>

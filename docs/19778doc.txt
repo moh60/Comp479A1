@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="8106" NEWID="19778">
+<DATE>29-JUN-1987 13:42:34.29</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM 
+&#22;&#22;&#1;f1966&#31;reute
+u f BC-WESTLAND-GETS-40-MLN   06-29 0101</UNKNOWN>
+<TEXT>&#2;
+<TITLE>WESTLAND GETS 40 MLN STG FINANCING FACILITY</TITLE>
+<DATELINE>    LONDON, June 29 - </DATELINE><BODY>&lt;Westland Group Plc> said it signed a 40
+mln stg, five-year unsecured syndicated bond and guarantee
+facility.
+    In a prepared statement it said the facility would support
+future sales, particularly of helicopters, and would be
+extendable annually on an evergreen basis. The facility also
+could be used to guarantee down payments and advances by
+customers and to provide performance bonds.
+    The facility was provided equally by seven international
+banks from Europe and Japan and by Britain's Export Credits
+Guarantee Department.
+ REUTER
+&#3;</BODY></TEXT>

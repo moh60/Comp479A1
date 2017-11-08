@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="573" NEWID="12345">
+<DATE> 1-APR-1987 17:18:17.04</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2583&#31;reute
+d f BC-M.D.C.-HOLDINGS-&lt;MDC>   04-01 0067</UNKNOWN>
+<TEXT>&#2;
+<TITLE>M.D.C. HOLDINGS &lt;MDC> SELLS ENERGY UNIT</TITLE>
+<DATELINE>    DENVER, April 1 - </DATELINE><BODY>M.D.C. Holdings Inc said it sold
+substantially all the assets of its oil and gas unit, Mizel
+Petro Resources Inc, and affiliated partnerships, for 38 mln
+dlrs in cash to &lt;Parker and Parsley Petroleum Co>, Midland,
+Texas.
+    The company said that, subject to certain post-closing
+adjustments, it expects to post a small profit on the sale.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="3625" NEWID="14642">
+<DATE> 7-APR-1987 16:39:08.28</DATE>
+<TOPICS><D>interest</D></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E A
+&#22;&#22;&#1;f2427&#31;reute
+u f BC-DESJARDINS-GROUP-LOWE   04-07 0067</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DESJARDINS GROUP LOWERS VISA INTEREST RATE</TITLE>
+<DATELINE>    MONTREAL, April 7 - </DATELINE><BODY>(La Confederation des Caisses
+Populaires et d'Economie Desjardins), the Quebec credit union
+group, said it is lowering the interest rate on unpaid balances
+on its Visa credit card to 15.9 pct from 18.0 pct, effective
+with June billing statements.
+    The move follows cuts in credit card interest rate charges
+by several Canadian banks.
+ Reuter
+&#3;</BODY></TEXT>

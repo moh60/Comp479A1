@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19273" NEWID="2855">
+<DATE> 6-MAR-1987 16:05:24.37</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A RM
+&#22;&#22;&#1;f0502&#31;reute
+u f BC-GEORGIA-PACIFIC-&lt;GP>   03-06 0113</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GEORGIA-PACIFIC &lt;GP> DEBT UPGRADED BY S/P</TITLE>
+<DATELINE>    NEW YORK, March 6 - </DATELINE><BODY>Standard and Poor's Corp said it
+upgraded Georgia-Pacific Corp's 1.1 billion dlrs of debt.
+    Raised were the company's senior debt to A-minus from
+BBB-plus, preferred stock to BBB-plus from BBB and preliminary
+rating on shelf securities to A-minus from BBB-plus.
+    S and P said the action reflected prospects for continued
+healthy markets over the next few years. The rating agency also
+said Georgia-Pacific benefitted from cost cutting and has
+reduced debt by 700 mln dlrs in the past five years.
+    The company now has flexibility to pursue a strategy of
+increasing its presence in the paper products market.
+ Reuter
+&#3;</BODY></TEXT>

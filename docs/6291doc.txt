@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11204" NEWID="6291">
+<DATE>17-MAR-1987 16:41:05.31</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>nasdaq</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f6577&#31;reute
+r f BC-CALIFORNIA-MICRO-DEVI   03-17 0061</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CALIFORNIA MICRO DEVICES &lt;CAMD> TRADES ON NMS</TITLE>
+<DATELINE>    MILPITAS, CALIF., March 17 - </DATELINE><BODY>California Micro Devices Corp
+said its common stock is now listed on the expansion of the
+Nasdaq National Market System.
+    The company said entry into NMS provides shareholders and
+other investors with last sale information and up-to-the-second
+volume information through stockbrokers.
+ Reuter
+&#3;</BODY></TEXT>

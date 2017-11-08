@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5917" NEWID="17579">
+<DATE> 1-JUN-1987 11:12:21.00</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1348&#31;reute
+u f BC-SUPERMARKETS-GENERAL   06-01 0108</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SUPERMARKETS GENERAL &lt;SGL> TENDER EXPIRES</TITLE>
+<DATELINE>    NEW YORK, June 1 - </DATELINE><BODY>SMG Acquisition Corp, a subsidiary of
+Merrill Lynch Capital Partners Inc, said 38.3 mln shares of
+Supermarkets General Corp were validly tendered by the midnight
+Friday expiration, resulting in a preliminary proration factor
+of 85.66 pct.
+    Merrill Lynch said it expects to announce the final
+proration factor within 10 business days and begin payment
+immediately thereafter. Shares validly tendered represented
+about 98.75 pct of the outstanding shares of Supermarkets
+General, the announcement said. The cash tender offer was for
+up to 32.8 mln shares at 46.75 dlrs net per share.
+ Reuter
+&#3;</BODY></TEXT>

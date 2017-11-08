@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6747" NEWID="18908">
+<DATE>18-JUN-1987 14:21:47.26</DATE>
+<TOPICS><D>grain</D><D>barley</D><D>wheat</D></TOPICS>
+<PLACES><D>france</D><D>spain</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS><D>ec</D></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G 
+&#22;&#22;&#1;f4220&#31;reute
+u f BC-EC-REJECTS-LICENCES-F   06-18 0091</UNKNOWN>
+<TEXT>&#2;
+<TITLE>EC REJECTS LICENCES FOR SPANISH BARLEY</TITLE>
+<DATELINE>    PARIS, June 18 - </DATELINE><BODY>The EC Commission cereals management
+committee rejected all bids for licences to export free market
+Spanish barley to non-EC countries, trade sources said.
+    The licence requests were for 35,000 tonnes at between 143
+and 145 European Currency Units (ECUs), they said.
+    This tender was part of a special tender for 500,000 tonnes
+of Spanish barley.
+    The sources said there had been no bids for licences for
+free market soft wheat and non-Spanish barley exports to non-EC
+countries.
+ Reuter
+&#3;</BODY></TEXT>

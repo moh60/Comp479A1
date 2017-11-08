@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5938" NEWID="17600">
+<DATE> 1-JUN-1987 11:37:31.88</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>nasdaq</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1455&#31;reute
+h f BC-TWO-JOIN-NASDAQ-NATIO   06-01 0040</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TWO JOIN NASDAQ NATIONAL MARKET SYSTEM</TITLE>
+<DATELINE>    NEW YORK, June 1 - </DATELINE><BODY>CSC Industries Inc &lt;CPSL.O> and ENZON
+Inc &lt;ENZN.O> said their common stocks will be added to the
+National Association of Securities Dealers' NASDAQ National
+Market System tomorrow.
+ Reuter
+&#3;</BODY></TEXT>

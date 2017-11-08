@@ -1,0 +1,20 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19799" NEWID="3377">
+<DATE> 9-MAR-1987 16:56:44.10</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0844&#31;reute
+d f BC-NEWS-CORP-&lt;NWS>-COMPL   03-09 0033</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NEWS CORP &lt;NWS> COMPLETES PURCHASE OF NEWSPAPER</TITLE>
+<DATELINE>    NEW YORK, March 9 - </DATELINE><BODY>The News Corp said the South China
+Morning Post Ltd of Hong Kong become a wholly-owned subsidiary
+March 7 as previously announced.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17326" NEWID="11264">
+<DATE>31-MAR-1987 08:48:28.27</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0832&#31;reute
+r f BC-A.H.-BELO-&lt;BLC>-SEEKS   03-31 0065</UNKNOWN>
+<TEXT>&#2;
+<TITLE>A.H. BELO &lt;BLC> SEEKS TO REINCORPORATE</TITLE>
+<DATELINE>    DALLAS, March 31 - </DATELINE><BODY>A.H. Belo Corp said it will ask
+shareholders at the May Six annual meeting to approve a change
+of state of incorporation to Delaware from Texas.
+    It said it wants to take advantage of Delaware's more
+flexible corporation laws and laws allowing the limitation of
+directors' liability.
+    Belo said two thirds approval is required.
+ Reuter
+&#3;</BODY></TEXT>

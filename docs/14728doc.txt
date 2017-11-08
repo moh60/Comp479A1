@@ -1,0 +1,35 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="3711" NEWID="14728">
+<DATE> 7-APR-1987 17:46:44.25</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F
+&#22;&#22;&#1;f2596&#31;reute
+r f BC-LAC-&lt;LAC>-BOOSTING-EX   04-07 0106</UNKNOWN>
+<TEXT>&#2;
+<TITLE>LAC &lt;LAC> BOOSTING EXPLORATION SPENDING</TITLE>
+<DATELINE>    TORONTO, April 7 - </DATELINE><BODY>Lac Minerals Ltd's exploration spending
+will rise this year to 25 mln dlrs from 16.3 mln dlrs last
+year, the gold miner said in its annual report.
+    The 1987 budget involves 16 mln dlrs for advanced
+exploration on a tin project in New Brunswick, Bousquet mine
+number two in Quebec and the Ortiz property in New Mexico, and
+nine mln dlrs for pure exploration.
+    Total capital and exploration spending will rise this year
+to about 130 mln dlrs from 98 mln dlrs last year, with 77 mln
+dlrs of the 1987 amount set for the Page-Williams mine in
+Hemlo, Ontario, Lac said.
+    A decision is imminent on Lac's appeal of an Ontario court
+ruling last year ordering Lac to hand over Page-Williams to
+&lt;International Corona Resources Ltd>.
+    Lac's total 1986 gold production rose to 478,394 ounces
+from 265,925 ounces the previous year. Production excluding
+Page-Williams eased last year to 245,232 ounces from 255,556
+ounces in 1985.
+ Reuter
+&#3;</BODY></TEXT>

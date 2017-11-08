@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14408" NEWID="8887">
+<DATE>24-MAR-1987 13:11:23.96</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1853&#31;reute
+r f BC-WEDGESTONE-REALTY-&lt;WD   03-24 0052</UNKNOWN>
+<TEXT>&#2;
+<TITLE>WEDGESTONE REALTY &lt;WDG> FILES FOR OFFERING</TITLE>
+<DATELINE>    NEWTON, Mass., March 23 - </DATELINE><BODY>Wedgestone Realty Investors Trust
+said it has filed for an offering of 1,250,000 common shares
+through underwriters led by Ladenburg, Thalmann and Co and
+Moseley Holding Corp &lt;MOSE>.
+    It said the offering is expected to be made in mid-April.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13497" NEWID="7976">
+<DATE>20-MAR-1987 16:21:03.23</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2394&#31;reute
+d f BC-PICO-&lt;PPI>,-ANIXTER-G   03-20 0054</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PICO &lt;PPI>, ANIXTER GET TELE-COMM &lt;TCOM> ORDER</TITLE>
+<DATELINE>    LIVERPOOL, N.Y., March 20 - </DATELINE><BODY>Pico Products Inc and &lt;Anixter
+Communications> jointly announced that they received a purchase
+order from Tele-Communications Inc, for pay TV security
+products to be included in Tele-Comm's on-site control systems.
+    Terms were not disclosed.
+ Reuter
+&#3;</BODY></TEXT>

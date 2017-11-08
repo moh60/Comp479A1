@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12254" NEWID="7341">
+<DATE>19-MAR-1987 14:43:03.71</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2098&#31;reute
+d f BC-TO-FITNESS-&lt;TFIT>-IN   03-19 0045</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TO-FITNESS &lt;TFIT> IN DISTRIBUTION DEAL</TITLE>
+<DATELINE>    BAY HARBOR ISLAND, Fla., March 19 - </DATELINE><BODY>To-Fitness Inc said it
+has been named exclusive Florida distributor for the hardpack
+version of the frozen dessert Tofutti by Tofutti Brands Inc
+&lt;TOF>, replacing Pillsbury Co's &lt;PSY> Haagen Dazs.
+ Reuter
+&#3;</BODY></TEXT>

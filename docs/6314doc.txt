@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11227" NEWID="6314">
+<DATE>17-MAR-1987 17:09:44.05</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f6649&#31;reute
+u f BC-BOEING-&lt;BA>-UNIT-GETS   03-17 0052</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BOEING &lt;BA> UNIT GETS 31.3 MLN DLR NAVY CONTRACT</TITLE>
+<DATELINE>    WASHINGTON, March 17 - </DATELINE><BODY>Boeing Co's Boeing Aerospace Co is
+being awarded 31.3 mln dlrs under a contract for spare and
+repair parts for the E-6A aircraft, the Defense Department
+said.
+    It said work on the contract is expected to be completed in
+December 1992.
+ Reuter
+&#3;</BODY></TEXT>

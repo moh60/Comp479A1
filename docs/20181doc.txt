@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20776" NEWID="20181">
+<DATE>20-OCT-1987 09:38:40.50</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1022&#31;reute
+r f BC-UST-INC-&lt;UST>-3RD-QTR   10-20 0047</UNKNOWN>
+<TEXT>&#2;
+<TITLE>UST INC &lt;UST> 3RD QTR NET</TITLE>
+<DATELINE>    GREENWICH, Conn., Oct 20 -
+    </DATELINE><BODY>Shr 60 cts vs 48 cts
+    Net 35.0 mln vs 27.8 mln
+    Revs 147.2 mln vs 131.6 mln
+    Nine mths
+    Shr 1.67 dlrs vs 1.38 dlrs
+    Net 97.3 mln vs 77.9 mln
+    Revs 422.4 mln vs 385.5 mln
+    Avg shrs 58.4 mln vs 56.5 mln
+ Reuter
+&#3;</BODY></TEXT>

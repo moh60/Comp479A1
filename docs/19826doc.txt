@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="8154" NEWID="19826">
+<DATE>29-JUN-1987 14:35:39.64</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2149&#31;reute
+d f BC-ROCHESTER-&lt;RTC>-ACQUI   06-29 0068</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ROCHESTER &lt;RTC> ACQUIRES &lt;CANTON TELEPHONE CO></TITLE>
+<DATELINE>    ROCHESTER, N.Y., June 29 - </DATELINE><BODY>Rochester Telephone Corp said it
+completed the acquisition of Canton Telephone Co and is now
+operating the company.
+    Terms of the acquisition were not disclosed.
+    Canton Telephone serves about 2,900 access lines in
+northwestern Pennsylvania and had 1986 operating revenues of
+about 1,300,000 dlrs, Rochester Telephone said.
+
+ Reuter
+&#3;</BODY></TEXT>

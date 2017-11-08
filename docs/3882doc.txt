@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="8795" NEWID="3882">
+<DATE>11-MAR-1987 14:49:31.22</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0324&#31;reute
+r f BC-GENERAL-INSTRUMENT-&lt;G   03-11 0082</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GENERAL INSTRUMENT &lt;GRL> UNIT GETS NAVY AWARD</TITLE>
+<DATELINE>    NEW YORK, March 11 - </DATELINE><BODY>General Instrument Corp's government
+systems division said it received a 35.9 mln dlr contract from
+the Naval Air Command Systems.
+    The company said the contract calls for continued
+production of General Instrument's family of electronics
+warfare systems for application in naval aircraft.
+    The contract also contains options for more than 100
+systems to be ordered within the next several years, the
+company added.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9238" NEWID="4325">
+<DATE>12-MAR-1987 12:23:38.01</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F Y
+&#22;&#22;&#1;f0683&#31;reute
+r f BC-TRITON-ENERGY-&lt;OIL>-P   03-12 0050</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TRITON ENERGY &lt;OIL> PRESIDENT RESIGNS</TITLE>
+<DATELINE>    DALLAS, March 12 - </DATELINE><BODY>Triton Energy Corp said president Thomas
+Goff resigned.
+    The company gave no reason for the resignation.
+    It said chairman and chief executive officer William Lee
+will assume the role of president until a replacement has been
+found.
+ Reuter
+&#3;</BODY></TEXT>

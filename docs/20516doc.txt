@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="21111" NEWID="20516">
+<DATE>20-OCT-1987 14:08:37.20</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM V 
+&#22;&#22;&#1;f2613&#31;reute
+u f BC-PACIFIC-EXCHANGE-HALT   10-20 0054</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PACIFIC EXCHANGE HALTS TRADING ON SOME OPTIONS</TITLE>
+<DATELINE>    SAN FRANCISCO, Oct 20 - </DATELINE><BODY>The Pacific Stock Exchange said it
+has halted trading in the options of 30 stocks because of the
+conditions in the market in the underlying securities.
+    The exchange normally handles trading in the options of
+about 117 stocks, a spokeswoman said.
+ Reuter
+&#3;</BODY></TEXT>

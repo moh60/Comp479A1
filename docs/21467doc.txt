@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="19969" NEWID="21467">
+<DATE>19-OCT-1987 09:06:20.71</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f0915&#31;reute
+b f BC-TEXACO-&lt;TX>-HOLDERS-S   10-19 0084</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TEXACO &lt;TX> HOLDERS SEEK PREFERRED DIVIDEND</TITLE>
+<DATELINE>    WHITE PLAINS, Oct 19 - </DATELINE><BODY>Texaco Inc said it has been asked by
+a committee of shareholders about the possibility of the
+company paying a preferred stock dividend to shareholders.
+    The company said the inquiry, from the Equity Security
+Holders Committee, outlines the committee's ideas on how such a
+dividend might be paid.
+    Texaco said it would explore the committee's outline, as
+well as other options that would support shareholders'
+interests and assets.
+ Reuter
+&#3;</BODY></TEXT>

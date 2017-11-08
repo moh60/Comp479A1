@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19753" NEWID="3331">
+<DATE> 9-MAR-1987 15:31:14.37</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D><D>china</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0534&#31;reute
+d f BC-HARTFORD-NATIONAL-UNI   03-09 0073</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HARTFORD NATIONAL UNIT &lt;HNAT> SETS CHINA PACT</TITLE>
+<DATELINE>    HARTFORD, Conn., March 9 - </DATELINE><BODY>Hartford National Corp said the
+China Industry Commerce and Development Corp agreed to work
+exclusively with its Connecticut National Bank unit in banking
+business between China and all six New England states.
+    The company said China Industry Commerce will provide
+import and export assistance, economic and business
+information, contacts and introductions.
+ 
+ Reuter
+&#3;</BODY></TEXT>

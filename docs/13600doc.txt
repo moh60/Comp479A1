@@ -1,0 +1,35 @@
+
+<REUTERS TOPICS="BYPASS" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="2583" NEWID="13600">
+<DATE> 7-APR-1987 08:05:11.04</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G
+&#22;&#22;&#1;f0536&#31;reute
+u f BC-ROTTERDAM-OILSEEDS-MI   04-07 0045</UNKNOWN>
+<TEXT TYPE="UNPROC">&#2;
+ROTTERDAM OILSEEDS MIDSESSION - APR 7
+    Prices ruling at 1200 hrs local time cif Rotterdam dlrs per
+tonne
+    SOYBEANS US No Two Yellow gulf ports
+Afloat 205
+first half Apl 204.50
+Apl 204.50 up one
+May 203 up 0.80
+Jne 203 up 0.75
+Oct+Nov 200.75
+Dec 203 down 0.25 slrs
+    SOYBEANS Argentine
+May 195 unch             Jne 195 unch
+Jly 195 unch             Aug 196 up 0.25 slrs
+    SOYBEANS Brazil
+May 198.75 up 0.30       Jne 199 up 0.55
+Jly 197.75 up 0.75 slrs
+ Reuter
+&#3;
+
+</TEXT>

@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13720" NEWID="8199">
+<DATE>23-MAR-1987 07:53:48.40</DATE>
+<TOPICS><D>money-fx</D></TOPICS>
+<PLACES><D>switzerland</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0597&#31;reute
+b f BC-SWISS-SIGHT-DEPOSITS   03-23 0064</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SWISS SIGHT DEPOSITS RISE 743.7 MLN FRANCS</TITLE>
+<DATELINE>    ZURICH, March 23 - </DATELINE><BODY>Sight deposits of commercial banks at
+the Swiss National Bank rose 743.7  mln Swiss francs in the
+second 10 days of March to 8.40 billion, the National Bank
+said.
+    Foreign exchange reserves fell 392.1 mln francs to 33.55
+billion.
+    Sight deposits are a major indicator of money market
+liquidity in Switzerland.
+ REUTER
+&#3;</BODY></TEXT>

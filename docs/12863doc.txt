@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="1832" NEWID="12863">
+<DATE> 3-APR-1987 09:46:25.05</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;E F
+&#22;&#22;&#1;f0928&#31;reute
+r f BC-belmoral   04-03 0103</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BELMORAL MINES TO ISSUE 24.9 MLN DLRS STOCK</TITLE>
+<DATELINE>    TORONTO, April 3 - </DATELINE><BODY>&lt;Belmoral Mines Ltd> said it agreed to
+sell 5,250,000 common shares and 2,625,000 purchase warrants
+for 24.9 mln dlrs to McCarthy Securities Ltd for private
+placements to European and Canadian investors.
+    The agreement provides for the sale of preferred and common
+shares of Belmoral held by Continental Illinois Bank (Canada)
+according to a prior agreement which gave Belmoral the right to
+designate a purchaser for the bank's stock. Belmoral said it
+will redeem the first preferred shares.
+    The transactions are subject to regulatoral approvals.
+ Reuter
+&#3;</BODY></TEXT>

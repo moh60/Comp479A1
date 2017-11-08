@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20204" NEWID="21232">
+<DATE>19-OCT-1987 12:40:46.92</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2016&#31;reute
+h f BC-MYERS-INDUSTRIES-INC   10-19 0056</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MYERS INDUSTRIES INC &lt;MYE> 3RD QTR NET</TITLE>
+<DATELINE>    AKRON, Ohio, Oct 19 -
+    </DATELINE><BODY>Shr 26 cts vs 18 cts
+    Net 1,409,551 vs 985,470
+    Revs 38.4 mln vs 22.5 mln
+    Nine mths
+    Shr 64 cts vs 47 cts
+    Net 3,477,188 vs 2,558,625
+    Revs 88.8 mln vs 63.9 mln
+    NOTE: Earnings per share adjusted for 3-for-2 stock split
+distributed on September 4.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9693" NEWID="4780">
+<DATE>13-MAR-1987 09:21:52.03</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0823&#31;reute
+s f BC-NORTEK-INC-&lt;NTK>-SETS   03-13 0032</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NORTEK INC &lt;NTK> SETS QUARTERLIES</TITLE>
+<DATELINE>    PROVIDENCE, March 13 -
+    </DATELINE><BODY>Qtly div common 2-1/2 cts vs 2-1/2 cts prior
+    Qtly div special common one ct vs one ct
+    Pay May Eight
+    Record April Three
+ Reuter
+&#3;</BODY></TEXT>

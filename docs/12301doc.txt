@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="529" NEWID="12301">
+<DATE> 1-APR-1987 16:18:21.96</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;E F
+&#22;&#22;&#1;f2422&#31;reute
+u f BC-LAIDLAW-&lt;LDMFA>-SPLIT   04-01 0053</UNKNOWN>
+<TEXT>&#2;
+<TITLE>LAIDLAW &lt;LDMFA> SPLITS STOCK, HIKES PAYOUT</TITLE>
+<DATELINE>    Toronto, April 1 -
+    </DATELINE><BODY>Three for two stock split
+    Pay and record date subject to shareholder confirmation May
+four
+    Qtly dividend 5-1/4 cts vs four cts
+    Pay May 15
+    Record May one
+    Note: dividends declared on pre-split shares.
+    Laidlaw Transportation Ltd
+ Reuter
+&#3;</BODY></TEXT>

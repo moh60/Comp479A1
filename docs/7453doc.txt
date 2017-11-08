@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12366" NEWID="7453">
+<DATE>19-MAR-1987 17:16:44.14</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F E
+&#22;&#22;&#1;f2565&#31;reute
+r f BC-TRI-STAR-&lt;TRSP>-BUYS   03-19 0052</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TRI-STAR &lt;TRSP> BUYS CINEPLEX THEATER</TITLE>
+<DATELINE>    NEW YORK, March 19 - </DATELINE><BODY>Tri-Star Pictures Inc said it agreed
+to acquire the Roosevelt Field Century Theatre from Canada's
+Cineplex Odeon Corp's RKO Century Warner Theatres Inc for 17
+mln dlrs.
+    The recently refurbished and expanded theater is located in
+Garden City, N.Y..
+ Reuter
+&#3;</BODY></TEXT>

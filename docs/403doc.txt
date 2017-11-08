@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12586" NEWID="403">
+<DATE> 2-MAR-1987 09:28:54.43</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F RM
+&#22;&#22;&#1;f0484&#31;reute
+r f BC-federal-industries   03-02 0079</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FEDERAL INDUSTRIES SETS COMMERCIAL PAPER ISSUE</TITLE>
+<DATELINE>    WINNIPEG, Manitoba, March 2 - </DATELINE><BODY>&lt;Federal Industries Ltd> said
+it introduced a commercial paper program with an authorization
+of 440 mln dlrs through agents &lt;Bank of Montreal>, &lt;Dominion
+Securities Inc> and Wood Gundy Inc.
+    Net proceeds from the sale of notes will be used for
+general corporate purposes and will replace existing
+outstanding debt, the company said.
+    It did not elaborate on financial terms of the issue.
+ Reuter
+&#3;</BODY></TEXT>

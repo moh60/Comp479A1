@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="3518" NEWID="14535">
+<DATE> 7-APR-1987 15:49:24.09</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2292&#31;reute
+d f BC-E-TRON-NAMES-DIRECTOR   04-07 0053</UNKNOWN>
+<TEXT>&#2;
+<TITLE>E-TRON NAMES DIRECTOR OF CHAFF DIVISION</TITLE>
+<DATELINE>    EDISON, N.J., April 7 - </DATELINE><BODY>&lt;E-tron> said it named Thomas
+Fleming director of its Chaff Countermeasures Division.
+    Fleming, who has 18 years experience in Chaff
+manufacturing, was formerly with Tracor Inc &lt;TRR>, the company
+said.   E-Tron said it is currently in Chapter 11.
+ Reuter
+&#3;</BODY></TEXT>

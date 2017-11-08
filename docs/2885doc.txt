@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19303" NEWID="2885">
+<DATE> 6-MAR-1987 16:39:19.21</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0593&#31;reute
+d f BC-BLACK/DECKER-&lt;BDK>-CH   03-06 0084</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BLACK/DECKER &lt;BDK> CHARGED WITH VIOLATING PATENT</TITLE>
+<DATELINE>    AURORA, Ill., March 6 - </DATELINE><BODY>Pittway Corp &lt;PRY> charged Black
+and Decker Inc with infringing on Pittway's switch mechanism
+patent for two models of Pittway's First Alert rechargeable
+flashlights.
+    Pittway said it filed suit in U.S. District Court, Northern
+District of Illinois, Eastern Division, alleging Black and
+Decker also violated the copyright and trademark on the
+flashlights. The charge also covered packaging and design
+details of the lights.
+ Reuter
+&#3;</BODY></TEXT>

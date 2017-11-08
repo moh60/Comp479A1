@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13161" NEWID="7640">
+<DATE>20-MAR-1987 09:08:12.97</DATE>
+<TOPICS><D>trade</D><D>iron-steel</D><D>cotton</D></TOPICS>
+<PLACES><D>india</D><D>australia</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G M T
+&#22;&#22;&#1;f0773&#31;reute
+d f BC-INDIA,-AUSTRALIA-AGRE   03-20 0106</UNKNOWN>
+<TEXT>&#2;
+<TITLE>INDIA, AUSTRALIA AGREE TO IMPROVE TWO-WAY TRADE</TITLE>
+<DATELINE>    NEW DELHI, March 20 - </DATELINE><BODY>Indian and Australian businessmen
+signed a memorandum of understanding to boost two-way trade and
+joint industrial ventures in both countries, spokesmen of the
+Indo-Australia Business Council told reporters.
+    The Indian Council said it hoped India's exports to
+Australia would improve in the next few months and reduce the
+trade balance which is heavily in Australia's favour.
+    In 1986 Australia sold 428 mln Australian dlrs' worth of
+goods, including steel and coking coal, to India and bought
+170.5 mln worth of items, including cotton textiles, from India.
+ Reuter
+&#3;</BODY></TEXT>

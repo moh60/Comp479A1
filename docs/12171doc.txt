@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="399" NEWID="12171">
+<DATE> 1-APR-1987 13:55:27.20</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1966&#31;reute
+d f BC-AUSIMONT-COMPO-&lt;AUS>   04-01 0059</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AUSIMONT COMPO &lt;AUS> SELLS UNIT</TITLE>
+<DATELINE>    WALTHAM, Mass., April 1 - </DATELINE><BODY>Ausimont Compo NV said it has
+sold the assets of its Equipment and Machinery Division for
+about six mln dlrs to an investment group including the unit's
+management, resulting in a modest pretax gain that will be
+included in first quarter results.
+    The unit had sales of five mln dlrs in 1986.
+ Reuter
+&#3;</BODY></TEXT>

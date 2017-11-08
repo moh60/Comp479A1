@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="443" NEWID="12215">
+<DATE> 1-APR-1987 14:43:20.60</DATE>
+<TOPICS><D>copper</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;C M F
+&#22;&#22;&#1;f2126&#31;reute
+u f BC-magma-copper-price   04-01 0037</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MAGMA LOWERS COPPER PRICE 0.25 CT TO 65.50 CTS</TITLE>
+<DATELINE>    NEW YORK, April 1 - </DATELINE><BODY>Magma Copper Co, a subsidiary of
+Newmont Mining Corp, said it is lowering its copper cathode
+price by 0.25 cent to 65.50 cents a lb, effective immediately.
+ Reuter
+&#3;</BODY></TEXT>

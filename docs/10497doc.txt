@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16017" NEWID="10497">
+<DATE>27-MAR-1987 11:43:37.74&#5;&#5;&#5;F</DATE>
+<UNKNOWN>&#22;&#22;&#1;f1391&#31;reute</UNKNOWN>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+r f BC-TELEPHONE-AND-DATA-SY   03-27 0077</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TELEPHONE AND DATA SYSTEMS &lt;TDS> FILES SHELF</TITLE>
+<DATELINE>    CHICAGO, March 27 - </DATELINE><BODY>Telephone and Data Systems Inc said it
+filed a shelf registration statement covering securities to be
+used in connection with acquisitions.
+    It said the shelf covers 2,500,000 common shares and
+250,000 preferred shares which will not be sold for cash in a
+public offering.
+    Telephone and Data said the filing updates information
+contained in registration statements which it files annually.
+ Reuter
+&#3;</BODY></TEXT>

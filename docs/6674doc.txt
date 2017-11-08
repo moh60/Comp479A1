@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11587" NEWID="6674">
+<DATE>18-MAR-1987 13:39:39.64</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f8925&#31;reute
+d f BC-BIONOMIC-SCIENCES-&lt;BS   03-18 0072</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BIONOMIC SCIENCES &lt;BSII> SEES PROFITABILITY</TITLE>
+<DATELINE>    FENTON, Mo., March 18 - </DATELINE><BODY>Bionomic Sciences International Inc
+said it expects to start operating profitably by the fourth
+quarter.
+    The company today reported a profit of 165,600 dlrs for the
+first half ended January 31 -- after a 396,000 dlr gain on the
+sale of assets and a 10,000 dlr extraordinary loss.  A year
+before it lost 409,100 dlrs after a 106,300 dlr extraordinary
+gain.
+ Reuter
+&#3;</BODY></TEXT>

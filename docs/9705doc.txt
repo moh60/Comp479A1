@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15226" NEWID="9705">
+<DATE>26-MAR-1987 00:49:08.16</DATE>
+<TOPICS><D>grain</D><D>rice</D></TOPICS>
+<PLACES><D>thailand</D><D>vietnam</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;G C
+&#22;&#22;&#1;f0025&#31;reute
+u f BC-VIETNAM'S-ARMY-ORDERE   03-26 0093</UNKNOWN>
+<TEXT>&#2;
+<TITLE>VIETNAM'S ARMY ORDERED TO GROW MORE FOOD</TITLE>
+<DATELINE>    BANGKOK, March 26 - </DATELINE><BODY>Vietnam has ordered its army to grow
+more food to ease shortages and meet economic recovery goals
+set for 1990.
+    The army newspaper Quan Doi Nhan Dan, monitored here, said
+soldiers must work harder to care for rice, vegetables and
+other crops endangered by the present unusually hot weather.
+    The paper said the 1.6-mln strong regular army contributed
+less than one pct to the nation's 18.2 mln tonne food output.
+    North Vietnam has set a 1990 food target of 23 to 24 mln
+tonnes.
+ REUTER
+&#3;</BODY></TEXT>

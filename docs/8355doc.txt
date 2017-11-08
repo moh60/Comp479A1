@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13876" NEWID="8355">
+<DATE>23-MAR-1987 11:54:11.28</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1485&#31;reute
+r f BC-ALLIED-&lt;ASU>-SELLING   03-23 0095</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ALLIED &lt;ASU> SELLING MICHIGAN UNITS</TITLE>
+<DATELINE>    DETROIT, March 23 - </DATELINE><BODY>Allied Supermarkets Inc said it entered
+into a definitive agreement to sell its Michigan operations for
+about 46 mln dlrs in cash and debt plus assumption of
+substantially all of Allied's liabilities other than senior
+subordinated debentures.
+    It said the operations will be sold to Meadowdale Foods
+Inc, a corporation formed by members of its existing
+management, including Chairman David Page and President Lon
+Makanoff.
+    The transaction is conditioned on  Allied's pending merger
+with the Vons Cos Inc.
+ Reuter
+&#3;</BODY></TEXT>

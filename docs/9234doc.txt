@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14755" NEWID="9234">
+<DATE>25-MAR-1987 08:20:42.04</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>hong-kong</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G L M T
+&#22;&#22;&#1;f0671&#31;reute
+r f BC-E.D.-and-F.-MAN-TO-BU   03-25 0073</UNKNOWN>
+<TEXT>&#2;
+<TITLE>E.D. And F. MAN TO BUY INTO HONG KONG FIRM</TITLE>
+<DATELINE>    HONG KONG, March 25 - </DATELINE><BODY>The U.K. Based commodity house E.D.
+And F. Man Ltd and Singapore's Yeo Hiap Seng Ltd jointly
+announced that Man will buy a substantial stake in Yeo's 71.1
+pct held unit, Yeo Hiap Seng Enterprises Ltd.
+    Man will develop the locally listed soft drinks
+manufacturer into a securities and commodities brokerage arm
+and will rename the firm Man Pacific (Holdings) Ltd.
+ REUTER
+&#3;</BODY></TEXT>

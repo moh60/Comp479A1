@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13488" NEWID="7967">
+<DATE>20-MAR-1987 16:08:58.25</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2367&#31;reute
+r f BC-GOODY-&lt;GOOD>-TO-SELL   03-20 0053</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GOODY &lt;GOOD> TO SELL UNIT TO UNION CAMP &lt;UCC></TITLE>
+<DATELINE>    KEARNY, N.J., March 20 - </DATELINE><BODY>Goody Products Inc said it entered
+into an agreement to sell its J. and P.B. Myers packaging
+business to Union Camp Corp to focus on its consumer products
+and automated distribution system businesses.
+    Terms of the agreement were not disclosed.
+ Reuter
+&#3;</BODY></TEXT>

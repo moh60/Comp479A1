@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15027" NEWID="9506">
+<DATE>25-MAR-1987 14:23:46.30</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2034&#31;reute
+u f BC-MONARCH-CAPITAL-&lt;MON>   03-25 0083</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MONARCH CAPITAL &lt;MON> CALLS PREFERRED</TITLE>
+<DATELINE>    SPRINGFIELD, Mass., March 25 - </DATELINE><BODY>Monarch Capital corp said
+its board has called its convertible preferred stock for
+redemption on May Eight.
+    The company said shareholders may exchange the preferred
+shares for shares of new nonconvertible preferred stock with a
+dividend of five dlrs to 6.40 dlrs per share, convert them into
+common stock at a rate of 0.8 common share for each preferred
+share or allow the preferred to be redeemed for 46.51 dlrs per
+share.
+ Reuter
+&#3;</BODY></TEXT>

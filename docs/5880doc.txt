@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10793" NEWID="5880">
+<DATE>17-MAR-1987 08:22:36.21</DATE>
+<TOPICS><D>cocoa</D></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS><D>icco</D></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C T
+&#22;&#22;&#1;f4702&#31;reute
+b f BC-COCOA-WORKING-GROUP-M   03-17 0080</UNKNOWN>
+<TEXT>&#2;
+<TITLE>COCOA WORKING GROUP MEETING DELAYED</TITLE>
+<DATELINE>    LONDON, March 17 - </DATELINE><BODY>The International Cocoa Organization
+(ICCO) buffer stock working group meeting set for 1130 GMT
+today was rescheduled for 1430, ICCO delegates said.
+    The meeting was delayed so a draft compromise proposal on
+buffer stock rules could be completed, they said.
+    ICCO Executive Director Kobena Erbynn was preparing the
+plan in consultation with other delegates for presentation to
+the full working group, they added.
+ REUTER
+&#3;</BODY></TEXT>

@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14757" NEWID="9236">
+<DATE>25-MAR-1987 08:24:40.66</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0681&#31;reute
+r f BC-DISNEY-&lt;DIS>-OPENING   03-25 0058</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DISNEY &lt;DIS> OPENING EXPERIMENTAL RETAIL OUTLET</TITLE>
+<DATELINE>    BURBANK, Calif., March 25 - </DATELINE><BODY>Walt Disney Co said it will
+open its first non-tourist retail operation on March 28 at the
+Galleria shopping mall in Glendale, Calif.
+    The company said the 2,400 square foot store will test
+consumer response to a retail outlet featuring all Disney
+character merchandise.
+ Reuter
+&#3;</BODY></TEXT>

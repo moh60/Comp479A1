@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17026" NEWID="10965">
+<DATE>30-MAR-1987 13:43:26.90</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2064&#31;reute
+h f BC-YELLOW-FREIGHT-&lt;YELL>   03-30 0109</UNKNOWN>
+<TEXT>&#2;
+<TITLE>YELLOW FREIGHT &lt;YELL> FILES FOR RATE INCREASE</TITLE>
+<DATELINE>    OVERLAND PARK, KAN., March 30 - </DATELINE><BODY>Yellow Freight System Inc
+said it filed with the Interstate Commerce Commission a rate
+increase of 2.9 pct in Rocky Mountain territory,
+    It said the increase would offset labor and other cost
+increases and not make a contribution to operating margins.
+    The company said it took the independent action of filing
+for the rate increase following suspension by the commission of
+a general rate increase published by the Rocky Mountain Motor
+Tariff Bureau. It noted that at the same time the commission
+allowed similar increases published by the other regional rate
+bureaus.
+ Reuter
+&#3;</BODY></TEXT>

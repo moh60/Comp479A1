@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12402" NEWID="7489">
+<DATE>19-MAR-1987 18:11:51.50</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2674&#31;reute
+d f BC-DUFF-AND-PHELPS-UPGRA   03-19 0077</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DUFF AND PHELPS UPGRADES PHILIP MORRIS &lt;MO></TITLE>
+<DATELINE>    CHICAGO, March 19 - </DATELINE><BODY>Duff and Phelps said it is upgrading to
+its highest level, Duff 1+ (one plus) from Duff 1, the rating
+on about 836 mln dlrs of Philip Morris Companies Inc commercial
+paper.
+    The change reflects the company's improvement in retiring
+debt incurred in the the acquisition of General Foods Corp, and
+the ability of both the tobacco and food product lines to
+generate cash flow, Duff and Phelps said.
+ Reuter
+&#3;</BODY></TEXT>

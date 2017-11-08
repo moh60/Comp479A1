@@ -1,0 +1,30 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12585" NEWID="402">
+<DATE> 2-MAR-1987 09:28:48.30</DATE>
+<TOPICS><D>coffee</D></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS><D>ico-coffee</D></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C T
+&#22;&#22;&#1;f0483&#31;reute
+b f BC-COFFEE-QUOTA-TALKS-CO   03-02 0113</UNKNOWN>
+<TEXT>&#2;
+<TITLE>COFFEE QUOTA TALKS CONTINUE BUT NO AGREEMENT YET</TITLE>
+<DATELINE>    LONDON, March 2 - </DATELINE><BODY>Coffee quota talks at the International
+Coffee Organization council meeting here continued this
+afternoon, but producers and consumers still had not reached
+common ground on the key issue of how to estimate export
+quotas, delegates said.
+    The 54 member contact group was examining a Colombian
+proposal to resume quotas April 1 under the ad hoc system used
+historically, with a pledge to meet again in September to
+discuss how quotas would be worked out in the future, they
+said.
+    Delegates would not speculate on the prospects for
+agreement at this time.
+    "Anything could happen," one delegate said.
+ Reuter
+&#3;</BODY></TEXT>

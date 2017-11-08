@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11623" NEWID="6710">
+<DATE>18-MAR-1987 14:09:30.32</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f9024&#31;reute
+r f BC-CROSS-AND-TRECKER-&lt;CT   03-18 0053</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CROSS AND TRECKER &lt;CTCO> TO SELL UNIT</TITLE>
+<DATELINE>    CLEVELAND, March 18 - </DATELINE><BODY>Cross and Trecker Corp said its
+Warner and Swasey subsidiary will seek to sell its Grinding
+Division to focus on other areas of its business.
+    The company said the Grinding Division had sales last year
+of about 18 mln dlrs. It makes grinding machines.
+ Reuter
+&#3;</BODY></TEXT>

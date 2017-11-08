@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20823" NEWID="20228">
+<DATE>20-OCT-1987 10:20:10.76</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1216&#31;reute
+d f BC-MUSICLAND-GROUP-INC-&lt;   10-20 0056</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MUSICLAND GROUP INC &lt;TMG> 3RD QTR NET SEPT 25</TITLE>
+<DATELINE>    MINNEAPOLIS, MINN., Oct 20 -
+    </DATELINE><BODY>Shr 28 cts vs 14 cts
+    Net 3,110,000 vs 1,286,000
+    Sales 112.7 mln vs 93.8 mln
+    Avg shrs 11.2 mln vs 9.1 mln
+    Nine Mths
+    Shr 58 cts vs 15 cts
+    Net 6,377,000 vs 1,332,000
+    Sales 307.8 mln vs 233.8 mln
+    Avg shrs 10.9 mln vs 9.1 mln
+    NOTE: Effective September 25, 1987, Primerica Corp &lt;PA>
+owned 81.4 pct of Musicland's common shares.
+ Reuter
+&#3;</BODY></TEXT>

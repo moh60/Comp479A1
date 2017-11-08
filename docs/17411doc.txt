@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="NOT-USED" CGISPLIT="PUBLISHED-TESTSET" OLDID="22091" NEWID="17411">
+<DATE>29-APR-1987 14:06:53.79</DATE>
+<TOPICS><D>ship</D></TOPICS>
+<PLACES><D>spain</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G L M T
+&#22;&#22;&#1;f2109&#31;reute
+r f BC-60-PCT-SUPPORT-FOR-SP   04-29 0084</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SPANISH PORT STRIKE BY 60 PCT OF WORKERS</TITLE>
+<DATELINE>    MADRID, April 29 - </DATELINE><BODY>Some 60 pct of 6,300 employees at
+Spain's 27 major ports have supported a strike since Monday in
+support of wage negotiations, a spokesman for the Public Works
+Ministry said.
+    He said, however, that the stoppage has had no effect in
+Barcelona, Bilbao, Las Palmas and Pasajes and that mandatory
+minimum services in other ports allowed perishable goods to be
+handled.
+    The strike is due to continue tomorrow with work resuming
+on Friday.
+ Reuter
+&#3;</BODY></TEXT>

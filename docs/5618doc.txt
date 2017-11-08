@@ -1,0 +1,20 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10531" NEWID="5618">
+<DATE>16-MAR-1987 14:47:39.68</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>nasdaq</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f3332&#31;reute
+h f BC-PRO-MED-CAPITAL-&lt;PRMD   03-16 0038</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PRO-MED CAPITAL &lt;PRMD> TO BE INCLUDED IN NMS</TITLE>
+<DATELINE>    NORTH MIAMI BEACH, Fla., March 16 - </DATELINE><BODY>Pro-Med Capital Inc
+said its common will be included in the next expansion of the
+NASDAQ National Market System, which will take place tomorrow.
+ Reuter
+&#3;</BODY></TEXT>

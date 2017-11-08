@@ -1,0 +1,31 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="3635" NEWID="14652">
+<DATE> 7-APR-1987 16:43:17.73</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2442&#31;reute
+r f BC-LITTLE-INDUSTRY-IMPRO   04-07 0101</UNKNOWN>
+<TEXT>&#2;
+<TITLE>LITTLE INDUSTRY IMPROVEMENT - DATA GENERAL &lt;DGN></TITLE>
+<DATELINE>    CHICAGO, April 7 - </DATELINE><BODY>Data General Corp president Edson de
+Castro said the general outlook for his company and for the
+industry shows "little fundamental improvement."
+    Citing the computer industry's dependence on capital
+investments, de Castro termed the environment "lackluster" and
+declined to predict the timing of a possible upturn.
+    Data General is "taking its show on the road" to educate
+its customers and targeted prospects, de Castro told a press
+briefing initiating a three-day exposition here of Data
+General's computer systems' capabilities.
+    Data General has targeted for its future growth increased
+participation in the industries of banking, insurance,
+brokerage, health care, manufacturing, petrochemical and the
+U.S. government.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7653" NEWID="18208">
+<DATE> 2-JUN-1987 14:28:25.96</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2234&#31;reute
+r f BC-CITIZENS-&lt;CSBF.O>-SAY   06-02 0097</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CITIZENS &lt;CSBF.O> SAYS IT WILL INCUR EXPENSE</TITLE>
+<DATELINE>    SILVER SPRING, Md., June 2 - </DATELINE><BODY>Citizens Savings Bank FSB said
+it will incur an expense of about 393,000 dlrs or 20 cts a
+share for the three and six months ending June 30.
+    Citizens said the expense is due to a a recent decision by
+the Federal Home Loan Bank Board to eliminate the FSLIC
+secondary reserrve as of December 31, 1986.
+    According to Citizens, the FHLBB action was taken to cover
+future losses of financially troubled institutions. Citizens
+said its secondary reserve balance as of December 31, 1986 was
+694,000 dlrs.
+ Reuter
+&#3;</BODY></TEXT>

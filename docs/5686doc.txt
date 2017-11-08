@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10599" NEWID="5686">
+<DATE>16-MAR-1987 16:28:19.54</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f3599&#31;reute
+u f BC-ARMTEK-&lt;ARM>-UNIT-LEV   03-16 0104</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ARMTEK &lt;ARM> UNIT LEVERAGED BUYOUT COMPLETED</TITLE>
+<DATELINE>    GREENWICH, Conn., March 16 - </DATELINE><BODY>Condere Corp, formed by former
+managers of Armtek Corp, said it completed the acquisition of a
+tire plant and other assets of Armtek for undisclosed terms.
+    In addition to a tire manufacturing plant, Condere bought
+S. and A. Truck Tire Sales and Service Corp, which operates 51
+Sears Truck Tire Sales and Service Centers through a licensed
+agreement with Sears Roebuck and Co &lt;S>.
+    The plant will supply tires to Armtek's Armstrong Tire Co
+as well as to several Sears Centers. Condere said it expects
+first year revenues to be 90 mln dlrs.
+ Reuter
+&#3;</BODY></TEXT>

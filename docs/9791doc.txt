@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15312" NEWID="9791">
+<DATE>26-MAR-1987 07:59:38.40</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0667&#31;reute
+b f BC-SUMITOMO-BANK-HAS-500   03-26 0088</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SUMITOMO BANK HAS 500 MLN STG CD PROGRAM</TITLE>
+<DATELINE>    LONDON, March 26 - </DATELINE><BODY>Sumitomo Bank Ltd said it established a
+500 mln stg certificate of deposit (CD) issuance program,
+arranged by Morgan Grenfell and Co Ltd.
+    Dealers will be Morgan Grenfell, Lloyds Merchant Bank Ltd,
+Samuel Montagu and Co Ltd, Salomon Brothers International Ltd,
+Sumitomo Finance International and S.G. Warburg and Co Ltd.
+    Maturities will be between seven days and five years and
+paper will be issued in denominations of 250,000, 500,000 and
+one mln stg.
+ REUTER
+&#3;</BODY></TEXT>

@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="21372" NEWID="20777">
+<DATE>20-OCT-1987 17:29:58.43</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f3398&#31;reute
+d f BC-SIMMONS-AIRLINE-&lt;SIMM   10-20 0103</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SIMMONS AIRLINE &lt;SIMM.O> DOUBLES STOCK BUYBACK</TITLE>
+<DATELINE>    CHICAGO, Oct. 20 - </DATELINE><BODY>Simmons Airlines Inc said its board of
+directors authorized a doubling in the company's stock
+repurchase program to one mln shares from 500,000 shares.
+    The buyback would represent about 20 pct of its issued
+shares, Simmons said.
+    The company said it bought 205,000 shares today, bringing
+its total repurchase since the program was authorized on July
+29 to 534,500 shares. It said Simmons now has 4,540,459 shares
+outstanding. Its stock closed at 5-5/8 bid and 5-3/4 offered.
+    Shares will be bought privately and in the open market, it
+said.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16853" NEWID="10792">
+<DATE>30-MAR-1987 08:20:11.62</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0765&#31;reute
+r f BC-POTOMAC-ELECTRIC-&lt;POM   03-30 0080</UNKNOWN>
+<TEXT>&#2;
+<TITLE>POTOMAC ELECTRIC &lt;POM> PREFERRED SOLD</TITLE>
+<DATELINE>    NEW YORK, March 30 - </DATELINE><BODY>Underwriter &lt;Drexel Burnham Lambert
+Inc> said a 50 mln dlr issue of sinking fund preferred stock of
+Pomotac Electric Power Co which it won at competitive bidding
+has sold out.
+    The shares were priced at 50 dlrs each with a 3.37 dlr
+annual dividend for a dividend yield of 6.74 pct.  It said the
+preferred carried the lowest long-term fixed rate dividend
+yield in almost 20 years for an investment grade preferred
+issue.
+ Reuter
+&#3;</BODY></TEXT>

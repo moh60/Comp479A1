@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7989" NEWID="19661">
+<DATE>29-JUN-1987 11:05:20.30</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM 
+&#22;&#22;&#1;f1311&#31;reute
+u f BC-EXERCISE-PRICE-SET-ON   06-29 0086</UNKNOWN>
+<TEXT>&#2;
+<TITLE>EXERCISE PRICE SET ON NOKIA EQUITY WARRANT BOND</TITLE>
+<DATELINE>    LONDON, June 29 - </DATELINE><BODY>The exercise price for the warrants
+attached to the 100 mln dlr eurobond for Finland's Nokia Oy
+&lt;NOKS.HE> has been fixed, lead manager Morgan Guaranty Ltd
+said.
+    The five year, par-priced, deal was launched last Thursday
+and pays five pct. Each 5,000 dlr bond has 134 warrants
+attached which are each exercisable into one Nokia free
+preferred share at a price of 169.4 Finnish markka. This
+compares with today's closing price of 178 markka.
+ REUTER
+&#3;</BODY></TEXT>

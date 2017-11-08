@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19674" NEWID="3252">
+<DATE> 9-MAR-1987 13:10:41.32</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F Y
+&#22;&#22;&#1;f0094&#31;reute
+r f BC-UNITED-CITIES-&lt;UCIT>   03-09 0058</UNKNOWN>
+<TEXT>&#2;
+<TITLE>UNITED CITIES &lt;UCIT> MAKES ACQUISITION</TITLE>
+<DATELINE>    BRENTWOOD, Tenn., March 9 - </DATELINE><BODY>United Cities Gas Co said it
+has acquired Lyle Propane Gas Co, a Cairo, Ga., propane gas
+distributor, for undisclosed terms.
+    It said Lyle has sales of about four mln gallons annually
+and serves about 4,000 customers in seven counties in southwest
+Georgia and north Florida.
+ Reuter
+&#3;</BODY></TEXT>

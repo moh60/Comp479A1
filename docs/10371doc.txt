@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15892" NEWID="10371">
+<DATE>27-MAR-1987 08:07:09.04&#5;&#5;&#5;F</DATE>
+<UNKNOWN>&#22;&#22;&#1;f0629&#31;reute</UNKNOWN>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>belgium</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+u f BC-UNION-MINIERE-TAKES-S   03-27 0095</UNKNOWN>
+<TEXT>&#2;
+<TITLE>UNION MINIERE TAKES STAKE IN PANCONTINENTAL</TITLE>
+<DATELINE>    BRUSSELS, March 27 - </DATELINE><BODY>&lt;Union Miniere SA> said in a statement
+that it has acquired an eight pct interest in Pancontinental
+Mining Ltd &lt;PANA.S> for a sum equivalent to 1.2 billion Belgian
+francs.
+    Pancontinental operates gold and coal mines in Australia
+and natural gas and oil fields in Canada.
+    Union Miniere said the location of its interest within the
+Pancontinental group will be decided later. It did not
+elaborate.
+    Union Miniere is a wholly owned subsidiary of Societe
+Generale de Belgique &lt;BELB.BR>.
+ REUTER
+&#3;</BODY></TEXT>

@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11161" NEWID="6248">
+<DATE>17-MAR-1987 15:53:59.33</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f6443&#31;reute
+d f BC-ACADEMY-INSURANCE-GRO   03-17 0090</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ACADEMY INSURANCE GROUP INC &lt;ACIG> 4TH QTR NET</TITLE>
+<DATELINE>    VALLEY FORGE, March 17 -
+    </DATELINE><BODY>Oper shr profit one ct vs loss 1.14 dlrs
+    Oper net profit 435,000 vs loss 19.9 mln
+    Year
+    Oper shr loss 28 cts vs loss 2.78 dlrs
+    Oper net loss 10 mln vs loss 46.5 mln
+    NOTE: Excludes investment gains of one ct per share vs 12
+cts in the quarter, and gains 10 cts per share vs 13 cts in the
+year. Excludes loss from discontinued operations of three cts
+per share in fourth quarter 1985, and loss of 21 cts per share
+vs loss 2.72 dlrs in the year.
+ Reuter
+&#3;</BODY></TEXT>

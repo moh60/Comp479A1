@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20650" NEWID="20055">
+<DATE>20-OCT-1987 06:12:19.69</DATE>
+<TOPICS><D>alum</D></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C M 
+&#22;&#22;&#1;f0446&#31;reute
+f f BC-Sept-daily-ave-primar   10-20 0013</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE> Sept daily ave primary aluminium output 34,900 tonnes, up 400 tonnes, IPAI.
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

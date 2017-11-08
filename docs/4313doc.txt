@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9226" NEWID="4313">
+<DATE>12-MAR-1987 12:09:06.55</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0611&#31;reute
+h f BC-DRANETZ-TECHNOLOGIES   03-12 0067</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DRANETZ TECHNOLOGIES INC &lt;DRAN> YEAR DEC 31 NET</TITLE>
+<DATELINE>    EDISON, N.J., March 12 - 
+    </DATELINE><BODY>Shr 46 cts vs 77 cts
+    Qtly div six cts vs six cts prior
+    Net 2,198,469 vs 3,635,565
+    Revs 23.1 mln vs 26.0 mln
+    Note: 1986 net includes one-time charge of 249,000 dlrs or
+five cts a share from discontinuation of Boat Sentry and
+Lakontek products.
+    Qtly div payable April 15 to shareholders of record March
+24.
+ Reuter
+&#3;</BODY></TEXT>

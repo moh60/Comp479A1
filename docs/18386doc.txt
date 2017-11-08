@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="NOT-USED" CGISPLIT="PUBLISHED-TESTSET" OLDID="22001" NEWID="18386">
+<DATE>15-JUN-1987 11:55:08.66</DATE>
+<TOPICS><D>pet-chem</D><D>rubber</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1482&#31;reute
+w f BC-REICHHOLD-&lt;RCI>-UNIT   06-15 0067</UNKNOWN>
+<TEXT>&#2;
+<TITLE>REICHHOLD &lt;RCI> UNIT HIKES PRICES ON PRODUCTS</TITLE>
+<DATELINE>    DOVER, Del., June 15 - </DATELINE><BODY>Reichhold Chemicals Inc &lt;RCI.N> said
+its emulsion polymers division increased its selling prices of
+its polyvinyl acetate and vinyl acetate-acrylate latexes for
+paper coating application by between two and four cts per dry
+pound.
+    The company attributed the price increases to the
+continuing escalation of raw materials costs.
+ Reuter
+&#3;</BODY></TEXT>

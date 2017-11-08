@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7414" NEWID="17969">
+<DATE> 2-JUN-1987 08:56:30.62</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0826&#31;reute
+r f BC-RAINIER-REALTY-&lt;RRETS   06-02 0108</UNKNOWN>
+<TEXT>&#2;
+<TITLE>RAINIER REALTY &lt;RRETS.O> NOTE INTEREST RAISED</TITLE>
+<DATELINE>    SEATTLE, June 2 - </DATELINE><BODY>Rainier Realty Investors said Rainier
+Bancorp &lt;RBANK.O> has agreed to increase the interest rate on
+the notes the bank would offer in connection with the trust's
+proposed liquidation to 8-1/4 pct from eight pct.
+    The trust said it had asked for the increase to partly
+compensate for a recent rise in interest rates.  It said
+shareholders will continue to have the option of taking 9.14
+dlrs in cash for each of their shares, rather than seven-year
+Rainier notes with a principal value of 10 dlrs.  Shareholders
+weill vote on the proposal at a special meeting to be held July
+15.
+ Reuter
+&#3;</BODY></TEXT>

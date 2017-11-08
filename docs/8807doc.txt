@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14328" NEWID="8807">
+<DATE>24-MAR-1987 11:16:19.69</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1345&#31;reute
+r f BC-ALPHA-INDUSTRIES-&lt;AHA   03-24 0053</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ALPHA INDUSTRIES &lt;AHA> GETS FAVORABLE DECISION</TITLE>
+<DATELINE>    WOBURN, Mass., March 24 - </DATELINE><BODY>Alpha Industries Inc said the
+U.S. Court of Appeals has upheld a lower court decision
+dismissing a class action shareholder suit that had alleged
+violations of Securities and Exchange Commission disclosure
+requirements and racketeering laws.
+ Reuter
+&#3;</BODY></TEXT>

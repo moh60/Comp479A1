@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5981" NEWID="17643">
+<DATE> 1-JUN-1987 12:55:20.32</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1756&#31;reute
+u f BC-HUMANA-&lt;HUM>-TO-BUY-I   06-01 0071</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HUMANA &lt;HUM> TO BUY INT'L MEDICAL ASSETS</TITLE>
+<DATELINE>    TALLAHASSEE, Fla., June 1 - </DATELINE><BODY>Humana Inc said a Florida Judge
+approved a previously announced proposal for the company to buy
+certain assets of International Medical Centers, which had been
+declared insolvent and put into receivership in early May.
+    Humana said it will pay 40 mln dlrs to the state's
+Department of Insurance to pay prior claims and 20 mln dlrs in
+working capital.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11557" NEWID="6644">
+<DATE>18-MAR-1987 13:07:20.37</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>nasdaq</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f8783&#31;reute
+d f BC-NASDAQ-TO-OPEN-OFFICE   03-18 0057</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NASDAQ TO OPEN OFFICE IN LONDON</TITLE>
+<DATELINE>    WASHINGTON, D.C., March 18 - </DATELINE><BODY>National Association of
+Securities Dealers Inc said it will be opening a London-based
+European office in mid-1987.
+    A spokesman said the office would probably open by July.
+    NASDAQ said its board of governors appointed J. Lynton
+Jones to be its European executive director.
+ Reuter
+&#3;</BODY></TEXT>

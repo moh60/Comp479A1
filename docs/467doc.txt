@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12650" NEWID="467">
+<DATE> 2-MAR-1987 10:50:34.12</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0802&#31;reute
+w f BC-AMERICAN-NURSERY-&lt;ANS   03-02 0060</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AMERICAN NURSERY &lt;ANSY> BUYS FLORIDA NURSERY</TITLE>
+<DATELINE>    TAHLEQUAH, OKLA., March 2 - </DATELINE><BODY>American Nursery Products Inc
+said it purchased Miami-based Heinl's Nursery Inc, for
+undisclosed terms.
+    Heinl's Nursery has sales of about 4.5 mln dlrs and owns
+100 acres, of which 75 are in shade houses and about 58,300
+square feet cover greenhouses, shipping and office facilities.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4646" NEWID="15468">
+<DATE> 9-APR-1987 08:29:14.57</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0640&#31;reute
+r f BC-BRAMALL-TO-ACQUIRE-GE   04-09 0110</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BRAMALL TO ACQUIRE GELCO FOR UP TO 26.3 MLN DLRS</TITLE>
+<DATELINE>    LONDON, April 9 - </DATELINE><BODY>&lt;C.D. Bramall Plc> said in a statement
+accompanying its annual results that it proposed to acquire
+Gelco U.K. For some 26.3 mln dlrs.
+    Part of the cost will be met by the issue of 2.14 mln new
+ordinary Bramall shares which are being placed at 265p each.
+    The acquisition will be satisfied by an initial payment of
+some 25.3 mln dlrs in cash with further payments of 500,000
+dlrs up to a maximum 26.3 mln dlrs. These further payments will
+only be made if profits achieved by Gelco for the year ending
+July 31, 1987 reach a certain level.
+    Bramall shares were trading 6p lower at 278p.
+ REUTER
+&#3;</BODY></TEXT>

@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5260" NEWID="15905">
+<DATE> 9-APR-1987 15:36:15.29</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>france</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f2346&#31;reute
+r f BC-BFIM-SOVAC-OFFERS-BON   04-09 0069</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BFIM-SOVAC OFFERS BOND REDEMPTION</TITLE>
+<DATELINE>    PARIS, April 9 - </DATELINE><BODY>Banque de Financement Immobilier SOVAC,
+BFIM-SOVAC, launched an offer to repurchase its 14.30 pct 1980
+bond issue at a price of 2,180 francs per bond, a Paris Bourse
+statement said.
+    The repurchase offer, managed by Lazard Freres et Cie,
+opens April 10 and closes April 27. The 140 mln franc issue
+comprised 70,000 bonds of 2,000 franc nominal value each.
+ Reuter
+&#3;</BODY></TEXT>

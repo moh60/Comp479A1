@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10309" NEWID="5396">
+<DATE>16-MAR-1987 10:56:16.84</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2352&#31;reute
+d f BC-INTERMAGNETICS-GENERA   03-16 0072</UNKNOWN>
+<TEXT>&#2;
+<TITLE>INTERMAGNETICS GENERAL &lt;INMA> COMPLETES BUY</TITLE>
+<DATELINE>    GUILDERLAND, N.Y., March 16 - </DATELINE><BODY>Intermagnetics General Corp
+said it completed the purchase of the advanced products
+department of Air Products and Chemicals Inc &lt;APD>.
+    Terms were not disclosed.
+    The department, which makes cryogenic equipment, will
+continue operating at its present location in Allentown, Pa.,
+the company said. It will market its products as APD Cryogenics
+Inc.
+ Reuter
+&#3;</BODY></TEXT>

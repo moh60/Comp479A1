@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9610" NEWID="4697">
+<DATE>13-MAR-1987 07:02:37.86</DATE>
+<TOPICS><D>alum</D></TOPICS>
+<PLACES><D>switzerland</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0436&#31;reute
+u f BC-ALUSUISSE-PLANS-FURTH   03-13 0114</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ALUSUISSE PLANS FURTHER ALUMINIUM CAPACITY CUTS</TITLE>
+<DATELINE>    ZURICH, March 13 - </DATELINE><BODY>Schweizerische Aluminium AG &lt;ALUZ.Z>
+(Alusuisse) plans further drastic cuts in its aluminium
+smelting capacity and more concentration of higher value-added
+products, chief executive Hans Jucker said.
+    Elaborating on plans disclosed in outline last September,
+company officials said current smelting capacity of 390,000
+tonnes a year would be cut to between 250,000 and 260,000
+tonnes by 1989 or 1990. They did not say where cuts might be
+made.
+    Two years ago, before selling its Ormet Corp subsidiary in
+the United States to local management and staff, Alusuisse had
+an annual capacity of 800,000 tonnes.
+ REUTER
+&#3;</BODY></TEXT>

@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12388" NEWID="7475">
+<DATE>19-MAR-1987 17:46:18.19</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D><D>west-germany</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2627&#31;reute
+r f BC-HENKEL-TO-INCREASE-ST   03-19 0094</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HENKEL TO INCREASE STAKE IN CLOROX &lt;CLX></TITLE>
+<DATELINE>    OAKLAND, Calif., March 19 - </DATELINE><BODY>Clorox Co said &lt;Henkel KGaA> of
+Dusseldorf, West Germany, agreed to increase its holdings in
+Clorox to 30 pct from the current level of 23 pct.
+    Henkel, which also holds a subordinated note convertible
+into another 1.7 pct of the company's stock, intends to acquire
+the additional shares in the open market over an extended
+period of time, Clorox said.
+    It also said that, for the foreseeable future, Henkel does
+not intend to increase its participation in Clorox above the 30
+pct level.
+ Reuter
+&#3;</BODY></TEXT>

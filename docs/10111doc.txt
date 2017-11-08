@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15632" NEWID="10111">
+<DATE>26-MAR-1987 15:04:13.50</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2298&#31;reute
+r f BC-FCC-EASES-RULE-FOR-CA   03-26 0098</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FCC EASES RULE FOR CABLE TV FIRMS ON SWITCH</TITLE>
+<DATELINE>    WASHINGTON, March 26 - </DATELINE><BODY>The Federal Communications
+Commission voted at a meeting to ease a requirement that cable
+television firms must provide a signal-selector switch free of
+charge to all customers.
+    The so-called A/B switch is attached to a television set
+and permits a viewer to turn from cable programs to
+over-the-air broadcast stations which cable companies must
+carry.
+    After the rule was criticized the FCC changed it so that
+cable firms would have to provide the switch only if a customer
+requested it and could charge a fee.
+ Reuter
+&#3;</BODY></TEXT>

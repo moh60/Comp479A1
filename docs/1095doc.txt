@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16415" NEWID="1095">
+<DATE> 3-MAR-1987 11:14:54.99</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0740&#31;reute
+r f BC-ATT-&lt;T>-SETS-SOME-PHO   03-03 0113</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ATT &lt;T> SETS SOME PHONE EQUIPMENT DISCOUNTS</TITLE>
+<DATELINE>    PARSIPPANY, N.J., March 3 - </DATELINE><BODY>American Telephone and
+Telegraph Co said small businesses can win up to a 10 pct
+discount on telephone equipment under a new program.
+    According to the America's Choice Bonus Program, customers
+that rent certain phone systems can earn credits each time they
+pay their monthly or fixed term lease bills.
+    The credits can be used in the purchase of ATT products,
+including communications systems and the System 25 PBX, a
+telephone switch for voice and data communications. Customers
+will receive a 50 dlrs initial credit, and additions to their
+account equivalent to 10 pct of their rental payments.
+ Reuter
+&#3;</BODY></TEXT>

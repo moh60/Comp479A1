@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12839" NEWID="655">
+<DATE> 2-MAR-1987 13:52:27.67</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0592&#31;reute
+d f BC-BANKEAST-CORP-&lt;BENH>   03-02 0044</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BANKEAST CORP &lt;BENH> COMPLETES ACQUISITION</TITLE>
+<DATELINE>    MANCHESTER, N.H., March 2 - </DATELINE><BODY>BankEast Corp said it has
+completed the acquisition of United Banks Corp in an exchange
+of 1.86 BankEast shares for each United share.
+    It said the acquisition is worth about 11.3 mln dlrs.
+ Reuter
+&#3;</BODY></TEXT>

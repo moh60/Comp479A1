@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14913" NEWID="9392">
+<DATE>25-MAR-1987 11:54:46.68</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F
+&#22;&#22;&#1;f1455&#31;reute
+r f BC-consolidated-norex   03-25 0075</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CONSOLIDATED NOREX TO ACQUIRE TRIWEB RESOURCES</TITLE>
+<DATELINE>    CALGARY, Alberta, March 25 - </DATELINE><BODY>&lt;Consolidated Norex Resources
+Ltd> said it agreed to acquire all issued and outstanding
+shares of Triweb Resources Ltd, a privately held oil and gas
+company with land holdings and production base in Alberta and
+Saskatchewan.
+    The company said specific details relating to purchase
+price and other terms will be released on closing of the
+transaction, expected by May 15.
+ Reuter
+&#3;</BODY></TEXT>

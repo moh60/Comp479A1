@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5151" NEWID="15796">
+<DATE> 9-APR-1987 13:55:26.17</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1987&#31;reute
+h f BC-DENPAC-&lt;DNPC>-PLACES   04-09 0090</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DENPAC &lt;DNPC> PLACES PROCESSOR ASSEMBLY ORDER</TITLE>
+<DATELINE>    HACKENSACK, N.J., April 9 - </DATELINE><BODY>Denpac Corp said it placed an
+order for the assembly of the first 100 production units of its
+Sinterloy processor, which will begin delivery later this year.
+    The company said two pre-production units have been placed
+for clinical and laboratory evaluations, with an additional six
+pre-production units to be placed shortly.
+    The company said the Sinterloy processor is used by dental
+laboratories to fabricate dental appliances such as bridges and
+crowns.
+ Reuter
+&#3;</BODY></TEXT>

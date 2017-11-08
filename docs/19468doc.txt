@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7304" NEWID="19468">
+<DATE>19-JUN-1987 17:44:52.63</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2529&#31;reute
+d f BC-MAGNOLIA-FOODS-&lt;CAFE.   06-19 0085</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MAGNOLIA FOODS &lt;CAFE.O> COMPLETES OFFERING</TITLE>
+<DATELINE>    OKLAHOMA CITY, Okla., June 19 - </DATELINE><BODY>Magnolia Foods Inc said it
+completed a 250,000 dlr private offering of convertible
+preferred and common purchase warrants.
+    Magnolia also said it signed a license agreement and
+approved a conversion site in Tulsa, Okla., and its previously
+approved conversion site in Colorado Springs, Colo., will be
+opened in late July.
+    Magnolia operates nine cafes: four are licensed, four are
+are joint ventures and one is company owned.
+ Reuter
+&#3;</BODY></TEXT>

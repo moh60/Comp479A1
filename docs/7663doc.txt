@@ -1,0 +1,31 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13184" NEWID="7663">
+<DATE>20-MAR-1987 09:48:58.00</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>poland</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G T M
+&#22;&#22;&#1;f0887&#31;reute
+d f PM-POLAND (SCHEDULED)  03-20 0133</UNKNOWN>
+<TEXT>&#2;
+<TITLE>POLISH UNIONS WARN AGAINST PRICE HIKES</TITLE>
+<DATELINE>    WARSAW, March 20 - </DATELINE><BODY>Sharp price hikes for food and fuel
+planned by the government could provoke an open confrontation
+with workers and endanger Poland's fragile post-Solidarity
+stability, a government trade union leader has warned.
+    Romuald Sosnowski, deputy chairman of the national trade
+union alliance OPZZ, said the unions' strong rejection of the
+increases yesterday was prompted by the hostility of lower-paid
+workers.
+    The authorities told the OPZZ on Tuesday that food prices
+would rise by an average of 13 pct but ncreases for fuels --
+including electricity and gas -- would be much higher.
+    They said wage increases would be limited to 12 pct in 1987
+and that employers who breached the ceiling would be punished
+through additional taxes.
+ Reuter
+&#3;</BODY></TEXT>

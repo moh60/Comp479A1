@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7750" NEWID="18305">
+<DATE> 2-JUN-1987 16:48:59.06</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2665&#31;reute
+h f BC-DI-INDUSTRIES-FLORIDA   06-02 0101</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DI INDUSTRIES FLORIDA UNIT GETS WATER CONTRACT</TITLE>
+<DATELINE>    HOUSTON, June 2 - </DATELINE><BODY>Drillers Inc of Florida, a unit of &lt;DI
+Industries Inc>, formerly Drillers Inc &lt;DRL>, said it has
+received two separate contracts for water injection projects
+valued at 408,500 dlrs and 850,000 dlrs respectively.
+    DI Industries said another unit, Drillers Inc of Texas
+completed a 560,000-dlr Department of Defense project which
+involved drilling a vertical firing shaft for the department's
+R and D Railgun.
+    DI said the projects represented efforts of the company to
+diversify from its traditional oil and gas drilling contracts.
+ Reuter
+&#3;</BODY></TEXT>

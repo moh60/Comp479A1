@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12974" NEWID="791">
+<DATE> 2-MAR-1987 16:39:47.48</DATE>
+<TOPICS><D>crude</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>nymex</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C
+&#22;&#22;&#1;f0090&#31;reute
+d f BC-NYMEX-RULE-CHANGE-SEE   03-02 0116</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NYMEX RULE CHANGE SEEN BOOSTING ENERGY TRADE</TITLE>
+<DATELINE>    NEW YORK, March 2 - </DATELINE><BODY>The New York Mercantile Exchange said
+it will introduce exchanges for physicals (EFPS) to its energy
+futures markets April one.
+    An exchange spokeswoman said the change will allow oil
+traders that do not hold a futures position to initiate, after
+the exchange closes, a transaction that can subsequently be
+hedged in the futures market.
+    EFPs, already in effect for platinum futures on NYMEX, are
+expected to increase the open interest and liquidity in U.S.
+energy futures, according to traders and analysts.
+    The Commodity Futures Trading Commission approved the rule
+change in February, according to a CFTC spokeswoman.
+ Reuter
+&#3;</BODY></TEXT>

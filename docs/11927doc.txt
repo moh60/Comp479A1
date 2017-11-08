@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="155" NEWID="11927">
+<DATE> 1-APR-1987 10:04:46.25</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0976&#31;reute
+r f BC-SHOWBOAT-&lt;SBO>-GETS-A   04-01 0074</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SHOWBOAT &lt;SBO> GETS APPROVAL FOR LOW-BET DAY</TITLE>
+<DATELINE>    ATLANTIC CITY, N.J., April 1 - </DATELINE><BODY>Showboat Inc said the New
+Jersey Casino control commission has directed its new Altnatic
+City Showboat Casino, Hotel and Bowling Center to conduct a
+limited bet day today, in accordance with commission
+regulations.
+    Each new casino must conduct a limited bet day before
+opening for regular gaming.  Showboat has saiud it expects to
+open for regular gaming on Friday.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17174" NEWID="11113">
+<DATE>30-MAR-1987 17:21:30.03</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2675&#31;reute
+r f BC-NEOAX-&lt;NOAX>-BUYS-REX   03-30 0046</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NEOAX &lt;NOAX> BUYS REXNORD &lt;REX> UNIT</TITLE>
+<DATELINE>    LAWRENCEVILLE, N.J., March 30 - </DATELINE><BODY>Neoax Inc said it bought
+Rexnord Inc's Fairfield Manufacturing Co for 70.5 mln dlrs
+cash.
+    The unit makes custom gears for industrial use and had
+sales of 84 mln dlrs in its Oct. 31, 1986 fiscal year.
+ Reuter
+&#3;</BODY></TEXT>

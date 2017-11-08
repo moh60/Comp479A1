@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11831" NEWID="6918">
+<DATE>18-MAR-1987 18:13:56.54</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f9731&#31;reute
+d f BC-SMITH-INTERNATIONAL-&lt;   03-18 0062</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SMITH INTERNATIONAL &lt;SII> CONSOLIDATES DIVISIONS</TITLE>
+<DATELINE>    NEWPORT BEACH, Calif., March 18 - </DATELINE><BODY>Smith International Inc
+said it has consolidated its Smith Tool and Smith Drilling
+Systems divisions.
+    The new division will be called Smith International and
+will be headquartered in Houston.
+    Doug Rock, previously president of Smith Tool, is now
+president of Smith International.
+ Reuter
+&#3;</BODY></TEXT>

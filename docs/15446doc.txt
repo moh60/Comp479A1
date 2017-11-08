@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4624" NEWID="15446">
+<DATE> 9-APR-1987 07:58:41.55</DATE>
+<TOPICS><D>sugar</D></TOPICS>
+<PLACES><D>uk</D><D>thailand</D><D>algeria</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;T C
+&#22;&#22;&#1;f0531&#31;reute
+u f BC-THAILAND-TO-RENEW-LON   04-09 0064</UNKNOWN>
+<TEXT>&#2;
+<TITLE>THAILAND TO RENEW LONG TERM SUGAR CONTRACTS -TRADE</TITLE>
+<DATELINE>    LONDON, April 9 - </DATELINE><BODY>Thailand is to negotiate tomorrow with
+selected trade houses for renewal of long term raw sugar sales
+contracts, to cover the next five years at a rate of 60,000
+tonnes annually, traders said.
+    They also reported vague talk Algeria may be seeking 50,000
+tonnes of raws tomorrow but details are unclear.
+ REUTER
+&#3;</BODY></TEXT>

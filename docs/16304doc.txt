@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="839" NEWID="16304">
+<DATE>13-APR-1987 10:34:16.19</DATE>
+<TOPICS><D>interest</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;V RM
+&#22;&#22;&#1;f1127&#31;reute
+u f BC-/BANKERS-TRUST-&lt;BT>-R   04-13 0046</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BANKERS TRUST &lt;BT> RAISES BROKER LOAN RATE</TITLE>
+<DATELINE>    NEW YORK, April 13 - </DATELINE><BODY>Bankers Trust Co said it is raising
+its broker loan rate to 7-1/2 pct from 7-1/4 pct, effective
+immediately.
+    U.S. Trust Co, the only other bank to publicize its broker
+rate, was already posting 7-1/2 pct.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1229" NEWID="16694">
+<DATE>13-APR-1987 16:56:24.85</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2637&#31;reute
+r f BC-SEC-TO-PROBE-TWO-CONV   04-13 0094</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SEC TO PROBE TWO CONVICTED OF SECURITIES FRAUD</TITLE>
+<DATELINE>    NEW YORK, April 13 - </DATELINE><BODY>The Securities and Exchange Commission
+said it began a disciplinary review of two men who were
+previously convicted of fraud for violations of  U.S.
+securities laws.
+    The SEC said Robert and Albert D'Elia were convicted
+following allegations that they traded upon information
+misappropriated from a financial printer in 1980 and 1981. The
+D'Elias were officers and shareholders of Rad Securities Inc, a
+Philadelphia broker-dealer.
+    A hearing will be scheduled at a later date, the SEC said.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16172" NEWID="10651">
+<DATE>29-MAR-1987 19:25:23.38</DATE>
+<TOPICS><D>money-fx</D><D>dlr</D></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0085&#31;reute
+f f BC-Bank-of-Japan-interve   03-29 0013</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE>Bank of Japan intervenes, buys dollars around 145.90-95 yen -- Tokyo dealers
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

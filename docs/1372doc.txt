@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16692" NEWID="1372">
+<DATE> 3-MAR-1987 17:24:17.18</DATE>
+<TOPICS><D>livestock</D><D>carcass</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;L
+&#22;&#22;&#1;f0050&#31;reute
+d f BC-USDA-PROPOSES-NAME-CH   03-03 0101</UNKNOWN>
+<TEXT>&#2;
+<TITLE>USDA PROPOSES NAME CHANGES IN BEEF GRADE</TITLE>
+<DATELINE>    WASHINGTON, March 3 - </DATELINE><BODY>The U.S. Agriculture Department
+proposes to rename the "USDA Good" grade of beef to "USDA Select."
+    The department said the proposed change is in response to a
+petition from Public Voice for Food and Health Policy and would
+present a more positive image of this grade of beef and help
+calorie-conscious consumers select leaner cuts of meat.
+    Under current rules, the "good" grade of meat has less
+marbling and fat than the "prime" or "choice" grades, it said.
+    Standards for all of the grades would remain unchanged
+under the proposal.
+ Reuter
+&#3;</BODY></TEXT>

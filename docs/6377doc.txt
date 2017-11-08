@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11290" NEWID="6377">
+<DATE>18-MAR-1987 06:15:24.02</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f7334&#31;reute
+b f BC-ASSOCIATES-CORP-ISSUE   03-18 0097</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ASSOCIATES CORP ISSUES 15 BILLION YEN BOND</TITLE>
+<DATELINE>    LONDON, March 18 - </DATELINE><BODY>&lt;Associates Corp of North America> is
+issuing a 15 billion yen eurobond due November 2, 1992 with a
+five pct coupon and priced at 102-3/8, &lt;IBJ International Ltd>
+said as lead manager.
+    The non-callable bonds will be issued in denominations of
+one mln yen and will be listed in Luxembourg. Fees are 1-1/4
+pct for selling and 5/8 pct for management and underwriting
+combined, with a 1/8 pct praecipuum. Pay date is April 6.
+    Co-lead managers are &lt;New Japan Securities>, &lt;Wako
+Securities> and &lt;Yasuda Trust>.
+ REUTER
+&#3;</BODY></TEXT>

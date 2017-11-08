@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19777" NEWID="3355">
+<DATE> 9-MAR-1987 16:18:00.87</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0712&#31;reute
+d f BC-SYSTEMHOUSE-&lt;SHKIF>-W   03-09 0065</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SYSTEMHOUSE &lt;SHKIF> WINS DATA CENTER CONTRACT</TITLE>
+<DATELINE>    ARLINGTON, Va., March 9 - </DATELINE><BODY>Systemhouse Inc said it won a
+contract valued at 2.6 mln dlrs from Genstar Stone Products, a
+Hunt Valley, Md., supplier of building materials, to design,
+install and operate Genstar's data center in Baltimore.
+    The data center is scheduled to begin operating in May. The
+pact is a three-year deal, the company said.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6027" NEWID="17689">
+<DATE> 1-JUN-1987 13:57:53.31</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1964&#31;reute
+d f BC-GENCORP-&lt;GY>-STARTS-B   06-01 0044</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GENCORP &lt;GY> STARTS BUILDING NEW PLANT</TITLE>
+<DATELINE>    AKRON, Ohio, June 1 - </DATELINE><BODY>GenCorp said it has started
+construction on a new 50 mln dlr 260,000 square foot plant for
+the reinforced plastics division of its DiversiTech General
+unit.
+    It said completion is expected in mid-1988.
+ Reuter
+&#3;</BODY></TEXT>

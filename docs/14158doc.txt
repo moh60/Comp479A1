@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="BYPASS" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="3141" NEWID="14158">
+<DATE> 7-APR-1987 11:42:28.78</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;M
+&#22;&#22;&#1;f1353&#31;reute
+u f BC-LONDON-METAL-SPOTS-CL   04-07 0054</UNKNOWN>
+<TEXT TYPE="UNPROC">&#2;
+LONDON METAL SPOTS CLOSING - APR 7
+ All Stg per tonne dlvd UK byrs unless stated.
+ Brass Rods 131.00 per 100 kilos
+ Copper Sheets 1990.50
+ Copper Wire 146.95 per 100 kilos fob London
+ Copper Coils 146.30 per 100 kilos fob London
+ Lead Scrap 244.00 dlvd London/S.Counties
+ Red Lead 555.00 fob UK
+ White Lead Dry 735.00 fob UK.
+&#3;
+
+</TEXT>

@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9256" NEWID="4343">
+<DATE>12-MAR-1987 12:45:45.10</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0778&#31;reute
+u f BC-MERRILL-LYNCH-&lt;MER>-F   03-12 0106</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MERRILL LYNCH &lt;MER> FIRES VASKEVITCH</TITLE>
+<DATELINE>    NEW YORK, March 12 - </DATELINE><BODY>Merrill Lynch and Co Inc fired the
+head of the mergers department in its London office today,
+saying he had been unable to provide a "satisfactory
+explanation" in response to insider trading charges filed
+yesterday by the Securities and Exchange Commission.
+    Merrill had suspended the official, Nahum Vaskevitch,
+yesterday saying at the time it was "disappointed and angry" if
+the SEC charges are true.
+    Merrill Lynch's statement at midday today said the firm
+will continue to cooperatie fully with authoriteis in the U.S.
+and London investigating Vaskevitch's activities.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9629" NEWID="4716">
+<DATE>13-MAR-1987 07:30:17.67</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0514&#31;reute
+u f BC-NEWS-INTERNATIONAL-BO   03-13 0055</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NEWS INTERNATIONAL BOND INCREASED TO 150 MLN DLRS</TITLE>
+<DATELINE>    LONDON, March 13 - </DATELINE><BODY>A three-year eurobond launched earlier
+this week for News International Plc &lt;NWSL.L> has been
+increased to 150 mln dlrs from 100 mln due to good demand, lead
+manager Credit Suisse First Boston Ltd said.
+    The bonds pay 7-1/2 pct and were priced at par.
+ REUTER
+&#3;</BODY></TEXT>

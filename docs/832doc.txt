@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13015" NEWID="832">
+<DATE> 2-MAR-1987 17:40:23.40</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0245&#31;reute
+r f BC-GM-&lt;GM>-OUTPUT-FELL-L   03-02 0060</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GM &lt;GM> OUTPUT FELL LAST MONTH</TITLE>
+<DATELINE>    DETROIT, March 2 - </DATELINE><BODY>General Motors Corp said its February
+U.S. car production declined to 358,661 from 398,823 a year
+ago.
+    GM said its U.S. truck production declined to 128,099 from
+135,434 a year ago.
+    Year-to-date, GM said car output declined to 669,370 from
+839,097 and truck production eased to 250,999 from 279,181.
+ Reuter
+&#3;</BODY></TEXT>

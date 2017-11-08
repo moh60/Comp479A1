@@ -1,0 +1,32 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="1839" NEWID="12870">
+<DATE> 3-APR-1987 09:48:36.02</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0943&#31;reute
+d f BC-EAC-INDUSTRIES-&lt;EAC>   04-03 0075</UNKNOWN>
+<TEXT>&#2;
+<TITLE>EAC INDUSTRIES &lt;EAC> ENTERS NEW LOAN AGREEMENT</TITLE>
+<DATELINE>    CHICAGO, April 3 - </DATELINE><BODY>EAC Industries Inc said it entered a new
+loan and security agreement with its banks, raising sufficient
+funds to completely retire its existing bank debt.
+    It said the loan agreement provides for up to 30 mln dlrs
+of borrowing power.
+    After repayment of existing bank debt and providing for
+certain letters of credit, 4.3 mln dlrs remains for future
+needs, the company said.
+    EAC said the new lending arrangement will allow it to focus
+attention on improving the company's basic business. It added
+that it anticipates the fiscal year that began Feb 1, 1987,
+will be a "significant improvement" over the year ended January
+31.
+    It said the loans mature in March 1990.
+ Reuter
+&#3;</BODY></TEXT>

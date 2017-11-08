@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="450" NEWID="12222">
+<DATE> 1-APR-1987 14:46:40.78</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2139&#31;reute
+d f BC-MOORE-MEDICAL-CORP-&lt;M   04-01 0036</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MOORE MEDICAL CORP &lt;MMD> TO MAKE ACQUISITION</TITLE>
+<DATELINE>    NEW BRITAIN, Conn., April 1 - </DATELINE><BODY>Moore Medical Corp said it
+plans to acquire privately-held Penta Products, a wholesale
+distributor of generic durgs, for undisclosed terms.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="21286" NEWID="20691">
+<DATE>20-OCT-1987 16:08:13.77</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM A 
+&#22;&#22;&#1;f3118&#31;reute
+r f BC-MOODY'S-MAY-DOWNGRADE   10-20 0112</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MOODY'S MAY DOWNGRADE UNITED ARTISTS &lt;UACI.O></TITLE>
+<DATELINE>    NEW YORK, Oct 20 - </DATELINE><BODY>Moody's Investors Service Inc said it
+may downgrade 350 mln dlrs of debt of United Artists
+Communications Inc and of United Cable Television Corp &lt;UCT>.
+    Under review are both firm's B-2 convertible subordinated
+debentures and United Cable's B-2 convertible subordinated
+eurodebentures and subordinated debentures.
+    Moody's cited an announced agreement to merge the two
+companies into a new company operating under the United Artists
+name. Moody's will study whether the definitive agreement will
+require additional debt, or change the interest coverage or
+ratio of total debt to operating cash flow.
+ Reuter
+&#3;</BODY></TEXT>

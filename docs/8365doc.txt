@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13886" NEWID="8365">
+<DATE>23-MAR-1987 12:11:18.18</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1570&#31;reute
+d f BC-COLOROCS-&lt;CLRX>-TO-BE   03-23 0094</UNKNOWN>
+<TEXT>&#2;
+<TITLE>COLOROCS &lt;CLRX> TO BE ISSUED U.S. PATENT</TITLE>
+<DATELINE>    NORCROSS, Ga., March 23 - </DATELINE><BODY>Colorocs Corp said it has been
+notified the company's first patent for "Improved Print Engine
+for Color Electrophotography" has been granted and will be
+issued tomorrow.
+    The company said the patent embodies discoveries made that
+enabled it to develop its proprietary full color print engine
+which will be applied to copiers, computer printers and
+facsimile equipment. The first product to embody the technology
+is a full color copier which will be manufactured for Colorocs
+by &lt;Sharp Corp>.
+ Reuter
+&#3;</BODY></TEXT>

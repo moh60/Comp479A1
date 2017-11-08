@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18027" NEWID="1609">
+<DATE> 4-MAR-1987 12:42:41.73</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0032&#31;reute
+u f BC-PORSCHE-CARS-NORTH-AM   03-04 0048</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PORSCHE CARS NORTH AMERICA REPORTS LOWER SALES</TITLE>
+<DATELINE>    RENO, Nev., Mach 4 - </DATELINE><BODY>Porsche Cars North America said it
+sold 1,815 cars during February, down from 2,129 cars during
+February of 1986.
+    The company said sales since the beginning of the year
+totaled 3,469, down from 3,862 a year earlier.
+ Reuter
+&#3;</BODY></TEXT>

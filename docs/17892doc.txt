@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7337" NEWID="17892">
+<DATE> 2-JUN-1987 03:26:30.75</DATE>
+<TOPICS><D>crude</D></TOPICS>
+<PLACES><D>cyprus</D><D>oman</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;Y
+&#22;&#22;&#1;f0150&#31;reute
+u f BC-MEES-NEWSLETTER-SAYS   06-02 0099</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MEES NEWSLETTER SAYS OMAN OFFERS OIL DISCOUNTS</TITLE>
+<DATELINE>     NICOSIA, June 2 - </DATELINE><BODY>Oman has granted term crude oil
+customers retroactive discounts from official prices of 30 to
+38 cents per barrel on liftings made during February, March and
+April, the weekly newsletter Middle East Economic Survey (MEES)
+said.
+     MEES said the price adjustments, arrived at through
+negotiations between the Omani oil ministry and companies
+concerned, are designed to compensate for the difference
+between market-related prices and the official price of 17.63
+dlrs per barrel adopted by non-OPEC Oman since February.
+ REUTER
+&#3;</BODY></TEXT>

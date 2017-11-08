@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="21026" NEWID="20431">
+<DATE>20-OCT-1987 13:13:47.40</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2288&#31;reute
+d f BC-ACETO-&lt;ACET.O>-BOOSTS   10-20 0051</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ACETO &lt;ACET.O> BOOSTS SHARE REPURCHASE</TITLE>
+<DATELINE>    NEW YORK, Oct 20 - </DATELINE><BODY>Aceto Corp said its board increased its
+authorized share repurchase program to 500,000 shares from
+200,000. The shares will be bought in the open market.
+    It has bought back 185,422 shares under the previously
+authorized 200,000 share program.
+ Reuter
+&#3;</BODY></TEXT>

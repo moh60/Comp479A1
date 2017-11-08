@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17493" NEWID="11431">
+<DATE>31-MAR-1987 11:50:03.44</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1627&#31;reute
+r f BC-MAY-&lt;MA>-TO-SELL-SYCA   03-31 0092</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MAY &lt;MA> TO SELL SYCAMORE DIVISION</TITLE>
+<DATELINE>    ST. LOUIS, March 31 - </DATELINE><BODY>The May Department Stores Co said it
+has signed an agreement to sell its Sycamore Specialty Store
+Division to an investment group that includes Syacmore senior
+management.
+    May said it expects to close the deal, which includes the
+entire division and its 1,000 employees, in April.
+    Sycamore has 111 women's apparel stores in Indiana, Ohio,
+Illinois, Kentucky and Michigan, May said.
+    May added that the Indiana National Bank of Indianapolis
+provided a portion of the deal's financing.
+ Reuter
+&#3;</BODY></TEXT>

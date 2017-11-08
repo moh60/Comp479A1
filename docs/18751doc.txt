@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6503" NEWID="18751">
+<DATE>18-JUN-1987 11:43:22.21</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f3599&#31;reute
+r f BC-BECOR-WESTERN-&lt;BCW>AG   06-18 0102</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BECOR WESTERN &lt;BCW>AGAIN ADJOURNS HOLDER MEETING</TITLE>
+<DATELINE>    SOUTH MILWAUKEE, Wis., June 18 - </DATELINE><BODY>Becor Western Inc said its
+reconvened shareholders meeting has been adjourned to 1000 CDT
+June 30.
+    The company had previously announced plans to again adjourn
+the meeting following receipt of a renewed offer from Lynch
+Corp &lt;LGL> yesterday.
+    The meeting was originally convened on June four when
+shareholders approved the sale of Becor's Western Gear Corp
+subsidiary before adjourning. The remaining matter to be
+presented is the proposed acquisition of Becor by BCW
+Acquisition Inc, now one of four offers for the company./
+ Reuter
+&#3;</BODY></TEXT>

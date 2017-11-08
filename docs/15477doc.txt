@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4655" NEWID="15477">
+<DATE> 9-APR-1987 08:41:05.32</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0702&#31;reute
+d f BC-XICOR-INC-&lt;XICO>-1ST   04-09 0038</UNKNOWN>
+<TEXT>&#2;
+<TITLE>XICOR INC &lt;XICO> 1ST QTR MARCH 22 NET</TITLE>
+<DATELINE>    MILPITAS, Calif., April 9 -
+    </DATELINE><BODY>Shr profit five cts vs loss 16 cts
+    Net profit 689,000 vs loss 1,910,000
+    Revs 12.3 mln vs 9,432,000
+    NOTE: 1987 net includes 276,000 dlr tax credit.
+ Reuter
+&#3;</BODY></TEXT>

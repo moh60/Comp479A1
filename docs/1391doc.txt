@@ -1,0 +1,31 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16711" NEWID="1391">
+<DATE> 3-MAR-1987 17:54:29.53</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0126&#31;reute
+d f BC-ZENITH-LABS-&lt;ZEN>-WIL   03-03 0099</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ZENITH LABS &lt;ZEN> WILL REPORT 4TH QTR LOSS</TITLE>
+<DATELINE>    RAMSEY, N.J., March 3 - </DATELINE><BODY>Zenith Laboratories Inc said the
+company will report a fourth quarter loss, and the amount will
+be determined on completion of its year end audit. The company
+did not elaborate further.
+    For the third quarter ended Sept 30, 1986, Zenith reported
+a loss of 3,451,000 dlrs or 16 cts per share, adjusted for a
+May 1986 2-for-1 stock split.
+    The company also said it received Food and Drug
+Administration approval to market Cefadroxil, a generic version
+of an antibiotic with domestic sales exceeding 50 mln dlrs in
+1986.
+    Zenith said it will not market the drug until "questions
+relating to the applicability of certain patents have been
+resolved."
+ Reuter
+&#3;</BODY></TEXT>

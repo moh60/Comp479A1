@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12155" NEWID="7242">
+<DATE>19-MAR-1987 12:36:16.60</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1650&#31;reute
+r f BC-MCORP-&lt;M>-TO-CONVERT   03-19 0096</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MCORP &lt;M> TO CONVERT 35 MEMBER BANKS TO BRANCHES</TITLE>
+<DATELINE>    DALLAS, March 19 - </DATELINE><BODY>MCorp said it plans to convert 35 of its
+62 member banks to branches during the next nine months.
+    It said it expects the conversions, pending regulatory
+approval of branching applications, will provide substantial
+long-term benefits for its customers and shareholders.
+    In connection with the conversions, MCorp said it also has
+realigned its operating structure and named eight group
+chairmen.
+    It said the group chairmen, with its chairman and
+president, will comprise its management committee.
+ Reuter
+&#3;</BODY></TEXT>

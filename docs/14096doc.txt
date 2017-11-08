@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="3079" NEWID="14096">
+<DATE> 7-APR-1987 11:26:32.68</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1265&#31;reute
+d f BC-WALKER-TELECOMMUNICAT   04-07 0052</UNKNOWN>
+<TEXT>&#2;
+<TITLE>WALKER TELECOMMUNICATIONS &lt;WTEL> GETS CONTRACT</TITLE>
+<DATELINE>    HAUPPAUGE, N.Y., April 7 - </DATELINE><BODY>Walker Telecommunications corp
+said Teledial America has selected the fiber optic system
+operated by Walker's Mutual Signal Corp subsidiary to carry
+Teledial's traffic in Michigan and link interstate facilities
+throughout the country.
+ Reuter
+&#3;</BODY></TEXT>

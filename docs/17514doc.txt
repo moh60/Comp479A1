@@ -1,0 +1,40 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5852" NEWID="17514">
+<DATE> 1-JUN-1987 09:42:43.91</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0963&#31;reute
+u f BC-SMITHKLINE-&lt;SKB>,-BOE   06-01 0100</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SMITHKLINE &lt;SKB>, BOEHRINGER FINALIZE PACT</TITLE>
+<DATELINE>    PHILADELPHIA, June 1 - </DATELINE><BODY>SmithKline Beckman Corp said it and
+&lt;Boehringer Mannheim GmbH> signed a final agreement to develop
+and market new cardiovascular medicines discovered by
+Boehringer.
+    Under the agreement, SmithKline said, it will have
+responsibility for developing the products in the U.S. Both
+partners will market the products in the U.S. and abroad.
+    Initially, SmithKline said, the companies will concentrate
+on the clinical development and marketing of carvedilol which
+is a compound to treat mild to moderate hypertension and
+angina.
+   
+    An application for marketing approval of carvedilol was
+submitted in West Germany last December, SmithKline said.
+Applications expected in other European markets this year and
+submission to the U.S. Food and Drug Administration is
+projected for 1990.
+    It said work also underway on thromboxane receptor
+antagonists, compounds which could be useful in accelerating
+disolution of blood clots and preventing blod clots from
+occuring in a heart attack as well as in other arterial
+diseases. The company said two of these compounds are in
+clinical evaluation in Europe and the U.S.
+ Reuter
+&#3;</BODY></TEXT>

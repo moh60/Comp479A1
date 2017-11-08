@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7671" NEWID="18226">
+<DATE> 2-JUN-1987 14:50:42.95</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2328&#31;reute
+d f BC-MERCANTILE-STORES-&lt;MS   06-02 0053</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MERCANTILE STORES &lt;MST> SETS 2-1/2-FOR-1 SPLIT</TITLE>
+<DATELINE>    WILMINGTON, Del., June 2 - </DATELINE><BODY>Mercantile Stores Co Inc said
+its stockholders approved a 2-1/2-for-1 common stock split.
+    Mercantile said the record date for the split was June one
+and that it expects to mail the additional shares resulting
+from the split on June 15.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5008" NEWID="15970">
+<DATE> 9-APR-1987 16:25:14.41</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2543&#31;reute
+r f BC-MCDONNELL-DOUGLAS-&lt;MD   04-09 0079
+
+</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MCDONNELL DOUGLAS &lt;MD> BUYS COMPUTER FIRM</TITLE>
+<DATELINE>    ST. LOUIS, April 9 - </DATELINE><BODY>McDonnell Douglas Corp said it
+acquired Frampton Computer Services Ltd, a British software
+company that is also known as Isis.
+    Terms of the acquisition were not disclosed.
+    Based in Bristol, England, Isis employs 65 workers and has
+annual revenues of about five mln dlrs, McDonnell Douglas said.
+    The company added that Isis will operate as part of
+McDonnell Douglas Information Systems International.
+ Reuter
+&#3;</BODY></TEXT>

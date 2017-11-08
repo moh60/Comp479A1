@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="8185" NEWID="19857">
+<DATE>29-JUN-1987 15:28:20.66</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D><D>bahamas</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2311&#31;reute
+d f BC-PIEDMONT-&lt;PIE>-ACCEPT   06-29 0054</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PIEDMONT &lt;PIE> ACCEPTS RESERVATIONS FOR BAHAMAS</TITLE>
+<DATELINE>    WINSTON-SALEM, N.C., June 29 - </DATELINE><BODY>Piedmont Aviation Inc said
+it is accepting reservations for nonstop service to Nassau,
+Bahamas from Charlotte, N.C. beginning November 15.
+    The new service will connect more than 30 cities on the
+Piedmont system to Nassau, the company said.
+ Reuter
+&#3;</BODY></TEXT>

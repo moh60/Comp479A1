@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11245" NEWID="6332">
+<DATE>17-MAR-1987 17:47:29.66</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f6743&#31;reute
+r f BC-HAWKEYE-&lt;HWKB>-HOLDER   03-17 0069</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HAWKEYE &lt;HWKB> HOLDERS APPROVE DEBT PLAN</TITLE>
+<DATELINE>    DES MOINES, Ia., March 17 - </DATELINE><BODY>Hawkeye Bancorporation said
+shareholders at the annual meeting approved the bank holding
+company's debt restructuring package with its principal
+creditors.
+    The plan calls for the company to issue new class of
+preference stock to Hawkeye's principal creditors in exchange
+for 32.3 mln dlrs of debt, and an exchange offer to preferred
+holders.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,31 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6094" NEWID="17756">
+<DATE> 1-JUN-1987 15:19:30.74</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C
+&#22;&#22;&#1;f2253&#31;reute
+d f BC-FDIC-CHIEF-SAYS-MORE   06-01 0129</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MORE U.S. BANKS SEEN BUILDING LOSS RESERVES</TITLE>
+<DATELINE>    SAN FRANCISCO, June 1 - </DATELINE><BODY>Federal Deposit Insurance
+Corporation Chairman L. William Seidman told a bankers' meeting
+he thinks more banks will follow Citicorp and Chase Manhattan
+in building up their reserves to meet Latin American debt
+problems.
+    Seidman, speaking to an American Bankers Association trade
+conference, said he did not think regulators would play as big
+a role in encouraging banks to build up their loan-loss
+reserves as the marketplace.
+    "My guess is that we as regulators won't become the key
+factor. I think the market system will get most of the other
+banks to follow suit," Seidman said.
+    In the past two weeks, Citicorp added three billion dlrs
+and Chase Manhattan 1.6 billion to loan-loss reserves.
+ Reuter
+&#3;</BODY></TEXT>

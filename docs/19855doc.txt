@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="8183" NEWID="19855">
+<DATE>29-JUN-1987 15:24:45.67</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F Y 
+&#22;&#22;&#1;f2305&#31;reute
+r f BC-GEOTHERMAL-RESOURCES   06-29 0101</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GEOTHERMAL RESOURCES &lt;GEO> COMPLETES TWO WELLS</TITLE>
+<DATELINE>    SAN MATEO, Calif., June 29 - </DATELINE><BODY>Geothermal Resources
+International Inc said it has completed two additional
+geothermal wells in its steam fields in The Geysers area of
+northern California.
+    The field is being developed to supply steam to the
+130-megawatt Coldwater Creek Geothermal Power Plant, scheduled
+to go into commercial operation in late 1987 or early 1988, the
+company said, adding it has completed 15 geothermal wells in
+the field since 1981.
+    The Coldwater Creek power plant is being built by a
+consortium of local utilities, Geothermal said.
+ Reuter
+&#3;</BODY></TEXT>

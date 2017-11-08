@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="BYPASS" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="2501" NEWID="13518">
+<DATE> 7-APR-1987 07:09:01.23</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;M
+&#22;&#22;&#1;f0411&#31;reute
+b f BC-LME-COPPER-1ST-RING-1   04-07 0038</UNKNOWN>
+<TEXT TYPE="UNPROC">&#2;
+LME COPPER 1ST RING 1207 - APR 7
+                 LAST    BUYER   SELLER
+ Std Cash          --       --       --
+ 3 Months          --       --       --
+ Hg Cash           --       --       --
+ 3 Months       880.0    879.5    880.0
+&#3;
+
+</TEXT>

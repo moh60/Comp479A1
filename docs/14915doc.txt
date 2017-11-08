@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="3898" NEWID="14915">
+<DATE> 8-APR-1987 07:19:41.15</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>lebanon</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;V
+&#22;&#22;&#1;f0544&#31;reute
+u f BC-BATTLES-FLARE-NEAR-SO   04-08 0100</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BATTLES FLARE NEAR SOUTHERN BEIRUT CAMPS</TITLE>
+<DATELINE>    BEIRUT, April 8 - </DATELINE><BODY>Fighting broke out between Palestinian
+guerrillas and Shi'ite Moslem Amal militiamen near camps in
+south lebanon as Syria prepared to extend its military presence
+at Beirut's settlements.
+    Security sources in the southern port of Sidon said the
+clashes erupted in villages to the southeast between Amal and
+guerrillas loyal to Palestinian leader Yasser Arafat.
+    Syria stepped in yesterday to halt battles at two Beirut
+refugee camps but Amal said it would only lift its siege after
+Arafat withdrew his men from the villages near Sidon.
+ Reuter
+&#3;</BODY></TEXT>

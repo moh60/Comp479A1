@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5484" NEWID="15586">
+<DATE> 9-APR-1987 10:48:33.33</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1159&#31;reute
+u f BC-JAMESWAY-&lt;JMY>-MARCH   04-09 0082</UNKNOWN>
+<TEXT>&#2;
+<TITLE>JAMESWAY &lt;JMY> MARCH SALES UP 15 PCT</TITLE>
+<DATELINE>    SECAUCUS, N.J., April 9 - </DATELINE><BODY>Jamesway Corp said sales for the
+five weeks ended April Four were up 15 pct to 54.1 mln dlrs
+from 47.1 mln dlrs a year before, with same-store sales up four
+pct.
+    The company said sales for the first nine weeks of its
+fiscal year were up 14 pct to 85.8 mln dlrs from 75.1 mln dlrs
+a year before, with same-store sales up four pct.
+    It noted that Easter sales will fall in April this year,
+instead of March as last year.
+ Reuter
+&#3;</BODY></TEXT>

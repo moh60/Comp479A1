@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7051" NEWID="19215">
+<DATE>19-JUN-1987 11:19:38.10</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1224&#31;reute
+h f BC-&lt;VIRTUSONICS-CORP>-EX   06-19 0054</UNKNOWN>
+<TEXT>&#2;
+<TITLE>&lt;VIRTUSONICS CORP> EXTENDS EXERCISE PERIOD</TITLE>
+<DATELINE>    NEW YORK, June 19 -</DATELINE><BODY>Virtusonics Corp said it extended to
+July 31 the period to exercise its outstanding warrants at 1.5
+cts a share.
+    The company on June 18 said it had reduced the exercise
+price of its warrants from 2.5 cts a common share for the
+period June 22 to July 22.
+ Reuter
+&#3;</BODY></TEXT>

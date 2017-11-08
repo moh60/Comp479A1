@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="494" NEWID="12266">
+<DATE> 1-APR-1987 15:41:20.97</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2306&#31;reute
+r f BC-STRAWBRIDGE-AND-CLOTH   04-01 0066</UNKNOWN>
+<TEXT>&#2;
+<TITLE>STRAWBRIDGE AND CLOTHIER &lt;STRW> 4TH QTR NET</TITLE>
+<DATELINE>    PHILADELPHIA, April 1 -
+    </DATELINE><BODY>Shr 2.02 dlrs vs 1.94 dlrs
+    Net 14.7 mln vs 13.9 mln
+    Revs 265.6 mln vs 235.1 mln
+    Year
+    Shr 2.83 dlrs vs 3.36 dlrs
+    Net 20.7 mln vs 24.1 mln
+    Revs 739.1 mln vs 686.9 mln
+    NOTE: Current year includes loss equal to 12 cts/shr from
+takeover defense and loss of 13 cts from loss of investment tax
+credits.
+ Reuter
+&#3;</BODY></TEXT>

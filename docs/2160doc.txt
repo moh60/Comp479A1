@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18578" NEWID="2160">
+<DATE> 5-MAR-1987 11:25:50.97</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0617&#31;reute
+r f BC-AZP-GROUP-&lt;AZP>-UNIT   03-05 0103</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AZP GROUP &lt;AZP> UNIT REDEEMS PREFERRED STOCK</TITLE>
+<DATELINE>    PHOENIX, March 5 - </DATELINE><BODY>AZP Group Inc said its subsidiary
+Arizona Publc Service will redeem on June 1, 1987, all of its
+outstanding shares of its 3.58 dlr cummulative preferred stock
+Series O, 25 dlr par value.
+    The redemption price will be 27.39 dlrs per share, plus
+occurred dividends in accordiance with its terms of the orignal
+offering, the company said. The company issued two mln shars of
+the stock in May 1982.
+    Retiring the series at the first call date will save the
+compnay and its customers about three mln dlrs annually in 
+financing costs, said the company.
+ Reuter
+&#3;</BODY></TEXT>

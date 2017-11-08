@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12588" NEWID="405">
+<DATE> 2-MAR-1987 09:31:27.97</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0490&#31;reute
+u f BC-POREX-TECHNOLOGIES-&lt;P   03-02 0040</UNKNOWN>
+<TEXT>&#2;
+<TITLE>POREX TECHNOLOGIES &lt;PORX> SETS INITIAL DIVIDEND</TITLE>
+<DATELINE>    FAIR LAWN, N.J., March 2 - </DATELINE><BODY>Porex Technologies Corp said its
+board declared an initial annual dividend of 10 cts per share,
+its first payout, payable March 26 to holders of record March
+12.
+ Reuter
+&#3;</BODY></TEXT>

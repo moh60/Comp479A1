@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="BYPASS" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="3431" NEWID="14448">
+<DATE> 7-APR-1987 15:15:14.15</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;GQ
+&#22;&#22;&#1;f2186&#31;reute
+u f BC-CHICAGO-DELIVERABLE-S   04-07 0086</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CHICAGO DELIVERABLE SOYBEAN STOCKS</TITLE>
+<DATELINE>    CHICAGO, April 7  - </DATELINE><BODY>The CFTC reported the following stocks
+of soybeans in Chicago as of Friday, April 3 , deliverable
+against Chicago Board of Trade futures in 000's bushels -
+                         CURRENT  WEEK   YEAR
+                         WEEK     AGO    AGO
+ DEL GRADES                254      236  10629
+ NON-DEL GRADES/UNGRADED    77       78    581
+ CCC STOCKS              10022    10022   2373
+ TOTAL SOYBEAN STOCKS    10353    10336  13583
+ Reuter
+&#3;</BODY></TEXT>

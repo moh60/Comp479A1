@@ -1,0 +1,31 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16561" NEWID="1241">
+<DATE> 3-MAR-1987 14:57:45.23</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0615&#31;reute
+r f BC-NATIONAL-DATA-&lt;NDTA>   03-03 0093</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NATIONAL DATA &lt;NDTA> SIGNS PACT WITH US SPRINT</TITLE>
+<DATELINE>    ATLANTA , March 3 - </DATELINE><BODY>National Data Corp said it signed a
+multi-year contract with US Sprint to provide the long distance
+telephone company with around the clock operator services.
+    National Data said it was the first step in establishing a
+Center Services Divisioin.
+    The company said it will provide 24-hour, 7-day-a week
+services to the long distance network, and expects the
+agreement to generate in excess of eight million dlrs in
+revenue during the current fiscal year, which ends May 31,
+1987.
+    The new services will allow subscribers to make collect,
+person-to-person and station-to-station calls, and to receive
+call assistance services anywhere in the U.S., the company
+said.
+ Reuter
+&#3;</BODY></TEXT>

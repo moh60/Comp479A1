@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="3524" NEWID="14541">
+<DATE> 7-APR-1987 15:52:58.37</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2300&#31;reute
+h f BC-&lt;HOOKER-CORP-LTD>-NAM   04-07 0043</UNKNOWN>
+<TEXT>&#2;
+<TITLE>&lt;HOOKER CORP LTD> NAMES NEW PRESIDENT FOR UNIT</TITLE>
+<DATELINE>    ATLANTA, April 7 - </DATELINE><BODY>Hooker Corp Ltd of Australia said it has
+named A. Anthony McLellen to the new position of president of
+Hooker Holdings (U.S.A.) Inc, the holding company for Hooker
+Corp's U.S. operations.
+ Reuter
+&#3;</BODY></TEXT>

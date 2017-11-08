@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16847" NEWID="10786">
+<DATE>30-MAR-1987 08:17:54.77</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0751&#31;reute
+r f BC-UNITED-BANKS-COLORADO   03-30 0069</UNKNOWN>
+<TEXT>&#2;
+<TITLE>UNITED BANKS COLORADO &lt;UBKS> ACQUISITION CLEARED</TITLE>
+<DATELINE>    DENVER, March 30 - </DATELINE><BODY>United Banks of Colorado Inc said it has
+received Federal Reserve Board approval to acquire IntraWest
+Financial Corp &lt;INTW> in an exhcnmage of 0.7234 United share
+for each IntraWest share.
+    The company said the acquisition is still subject to 30-day
+review by the U.S. Justice Department and is expected to be
+completed in the second quarter.
+ Reuter
+&#3;</BODY></TEXT>

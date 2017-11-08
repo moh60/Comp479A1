@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18890" NEWID="2472">
+<DATE> 5-MAR-1987 16:38:08.66</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>amex</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0842&#31;reute
+r f BC-RIVERBEND-&lt;RIV>-BEGIN   03-05 0071</UNKNOWN>
+<TEXT>&#2;
+<TITLE>RIVERBEND &lt;RIV> BEGINS TRADING ON AMEX</TITLE>
+<DATELINE>    NEW YORK, March 5 - </DATELINE><BODY>The American Stock Exchange said
+5,500,000 shares of Riverbend International Corp began trading
+today under the symbol RIV.
+    It said the agricultural concern, based in Sanger, Calif.,
+opened on 37,000 shares at nine.
+    AMEX said the company is the 14th initial public offering
+to be listed on AMEX this year. Last year AMEX listed 53
+initial public offerings.
+ Reuter
+&#3;</BODY></TEXT>

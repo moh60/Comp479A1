@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10416" NEWID="5503">
+<DATE>16-MAR-1987 12:43:17.39</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2889&#31;reute
+h f BC-EDWARD-HINES-LUMBER-N   03-16 0070</UNKNOWN>
+<TEXT>&#2;
+<TITLE>EDWARD HINES LUMBER NET REALIZABLE VALUE SET</TITLE>
+<DATELINE>    CHICAGO, March 16 - </DATELINE><BODY>Edward Hines Lumber Co, which is in the
+process of complete liquidation, said the estimated net
+realizable value of its assets as of Dec 31, 1986 was four dlrs
+a share.
+    It said this is the same estimated per share value
+announced earlier in 1986.
+    The company said total liquidation distributions so far are
+slightly in excess of 40 dlrs a share.
+ Reuter
+&#3;</BODY></TEXT>

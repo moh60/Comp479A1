@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="NOT-USED" CGISPLIT="PUBLISHED-TESTSET" OLDID="21748" NEWID="17125">
+<DATE>24-APR-1987 12:26:00.70</DATE>
+<TOPICS><D>gas</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F Y
+&#22;&#22;&#1;f1640&#31;reute
+r f BC-AMOCO-&lt;AN>-TO-SUPPLY   04-24 0086</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AMOCO &lt;AN> TO SUPPLY LEADED GAS TO FARMERS</TITLE>
+<DATELINE>    CHICAGO, April 24 - </DATELINE><BODY>Amoco Oil Co said it will continue to
+sell leaded gasoline to farmers in certain portions of the
+midwest as long as there is sufficient demand for the product.
+    "It appears that the agricultural community will need
+limited amounts of leaded gasoline for certain types of
+equipment until an acceptable alternative is found," the
+company said.
+    Amoco previously announced it would sell all lead-free
+gasoline to motorists at its service stations.
+ Reuter
+&#3;</BODY></TEXT>

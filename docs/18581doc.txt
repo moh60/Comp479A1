@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6333" NEWID="18581">
+<DATE>18-JUN-1987 08:20:09.41</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A RM 
+&#22;&#22;&#1;f2789&#31;reute
+r f BC-OLIN-&lt;OLN>-SUBORDINAT   06-18 0098</UNKNOWN>
+<TEXT>&#2;
+<TITLE>OLIN &lt;OLN> SUBORDINATED NOTES YIELD 9.558 PCT</TITLE>
+<DATELINE>    NEW YORK, June 18 - </DATELINE><BODY>Olin Corp is raising 125 mln dlrs via
+an offering of 10-year subordinated notes yielding 9.558 pct,
+said lead manager Morgan Stanley and Co Inc.
+    The notes have a 9-1/2 pct coupon and were priced at 99.625
+to yield 134 basis points more than comparable Treasury
+securities.
+    Non-callable for life, the issue is rated Baa-2 by Moody's
+and BBB-minus by Standard and Poor's. The gross spread is seven
+dlrs, the selling concession is four dlrs and the reallowance
+is 2.50 dlrs. Salomon Brothers co-managed the deal.
+ Reuter
+&#3;</BODY></TEXT>

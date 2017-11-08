@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7222" NEWID="19386">
+<DATE>19-JUN-1987 15:37:06.51</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2187&#31;reute
+d f BC-NEW-ENGLAND-CRITICAL   06-19 0069</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NEW ENGLAND CRITICAL CARE &lt;NECC.O> BUYS NPO</TITLE>
+<DATELINE>    MARLBOROUGH, Mass, June 19 - </DATELINE><BODY>New England Critical Care Inc
+said it completed its purchase of NPO Therapies Inc of Salt
+Lake City.
+    The company said that NPO Therapies' president and founder,
+Kelly Mutchie, has joined New England Critical Care as regional
+vice president covering the western United States.
+    NPO Therapies provides home infusion therapy services.
+ Reuter
+&#3;</BODY></TEXT>

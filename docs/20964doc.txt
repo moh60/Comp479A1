@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20473" NEWID="20964">
+<DATE>19-OCT-1987 16:13:52.02</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>nyse</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f3015&#31;reute
+b f BC-/NYSE-TO-HOLD-PRESS-C   10-19 0055</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NYSE TO HOLD PRESS CONFERENCE</TITLE>
+<DATELINE>    NEW YORK, Oct 19 - </DATELINE><BODY>The New York Stock Exchange said it will
+hold a press conference at 16:20 EDT.
+    The exchange released no further details.
+    The Dow Jones industrial average fell over 500 points in
+trading on Monday, exceeding the Oct 28, 1929 decline that
+heralded the Great Depression.
+ Reuter
+&#3;</BODY></TEXT>

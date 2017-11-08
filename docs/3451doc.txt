@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="8364" NEWID="3451">
+<DATE>11-MAR-1987 02:35:34.39</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>australia</D></PLACES>
+<PEOPLE><D>hawke</D></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0184&#31;reute
+u f BC-HAWKE-POPULARITY-RISE   03-11 0108</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HAWKE POPULARITY RISES DESPITE ECONOMIC PROBLEMS</TITLE>
+<DATELINE>    SYDNEY, March 11 - </DATELINE><BODY>Prime Minister Bob Hawke is more popular
+than ever despite Australia's economic problems, according to
+opinion poll results released today.
+    His popularity rating went up to 64 pct compared to 19 pct
+for opposition leader John Howard, according to Morgan Gallup
+Poll results published by The Bulletin magazine.
+    The poll of more than 1,000 voters throughout Australia
+also showed support for Hawke's Labour Party running at 47 pct
+against 44 pct for the Liberal-National opposition.
+    Labour support was unchanged from last month but the
+opposition fell one pct.
+ REUTER
+&#3;</BODY></TEXT>

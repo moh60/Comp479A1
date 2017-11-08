@@ -1,0 +1,20 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4556" NEWID="15383">
+<DATE> 9-APR-1987 04:24:40.70</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0174&#31;reute
+f f BC-Burmah-Oil-1986-pre-t   04-09 0010</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE>Burmah Oil 1986 pre-tax profit 105.9 mln stg vs 79.6 mln.
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

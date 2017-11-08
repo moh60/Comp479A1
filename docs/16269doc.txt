@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="804" NEWID="16269">
+<DATE>13-APR-1987 09:51:57.18</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0958&#31;reute
+u f BC-NCR-CORP-&lt;NCR>-1ST-QT   04-13 0029</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NCR CORP &lt;NCR> 1ST QTR NET</TITLE>
+<DATELINE>    DAYTON, Ohio, April 13 -
+    </DATELINE><BODY>Shr 65 cts vs 51 cts
+    Net 61.5 mln vs 50.2 mln
+    Revs 1.12 billion vs 960.8 mln
+    Avg shrs 95.3 mln vs 99.4 mln
+ Reuter
+&#3;</BODY></TEXT>

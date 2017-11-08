@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="947" NEWID="16413">
+<DATE>13-APR-1987 12:10:04.42</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E
+&#22;&#22;&#1;f1630&#31;reute
+u f BC-RHONE-POULENC-PLANS-D   04-13 0089</UNKNOWN>
+<TEXT>&#2;
+<TITLE>RHONE-POULENC PLANS DRUG RESEARCH SPENDING</TITLE>
+<DATELINE>    MONTREAL, April 13 - </DATELINE><BODY>(Rhone Poulenc Pharma Inc) said it
+plans to spend 29 mln dlrs over the next five years for
+research and development in Canada. It said the investment
+depends upon passage of a federal government bill which
+proposes greater protection for holders of drug patents.
+    The company said it will spend 7.9 mln dlrs to upgrade its
+Montreal operations.
+    It said the new patent law would give drug companies 
+reasonable protection from generic drug copying of new
+compounds.
+ Reuter
+&#3;</BODY></TEXT>

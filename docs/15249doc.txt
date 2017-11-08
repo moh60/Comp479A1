@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4499" NEWID="15249">
+<DATE> 8-APR-1987 15:13:12.58</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2267&#31;reute
+h f BC-&lt;NSA-INC>-OFFERS-TO-R   04-08 0104</UNKNOWN>
+<TEXT>&#2;
+<TITLE>&lt;NSA INC> OFFERS TO REPURCHASE OWN SHARES</TITLE>
+<DATELINE>    CHERRY HILL, N.J., April 8 - </DATELINE><BODY>NSA Inc said, in an attempt to
+go private and repurchase its shares, it is offering to
+exchange a five year subordinated investment note for each
+share held by shareholders with more than 600 shares.
+    NSA said the investment note will carry a face value of one
+dlr and will pay five annual principal installments, as well as
+quarterly interest payments on the outstanding principal amount
+at an eight pct annual rate.
+    NSA added that for shareholders with less than 600 shares
+it is offering to purchase their shares for cash at one dlr per
+share.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12241" NEWID="7328">
+<DATE>19-MAR-1987 14:17:11.86</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A RM
+&#22;&#22;&#1;f2032&#31;reute
+u f BC-JOHNSON-URGES-SECURIT   03-19 0090</UNKNOWN>
+<TEXT>&#2;
+<TITLE>JOHNSON URGES SECURITIES POWERS FOR BANKS</TITLE>
+<DATELINE>    WASHINGTON, March 19 - </DATELINE><BODY>Federal Reserve Board Vice Chairman
+Manuel Johnson said the Federal Reserve favored adding
+securities powers to banking legislation.
+    "We support any willingness to add those powers to the
+legislation," Johnson told the Women in Housing and Finance.
+    "We would prefer to see those powers in the legislation."
+    He was referring to a banking bill introduced by Sen
+William Proxmire (D-Wisc) which would impose a moratorium on
+extending new securities powers to banks.
+ Reuter
+&#3;</BODY></TEXT>

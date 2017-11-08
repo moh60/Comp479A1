@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12730" NEWID="547">
+<DATE> 2-MAR-1987 12:22:01.82</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0245&#31;reute
+u f BC-BANNER-&lt;BNR>-COMPLETE   03-02 0088</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BANNER &lt;BNR> COMPLETES TENDER FOR REXNORD &lt;REX></TITLE>
+<DATELINE>    NEW YORK, March 2 - </DATELINE><BODY>Banner Industries Inc said 19.8 mln of
+the outstanding 20 mln shares in Rexnord Inc were tendered
+pursuant to its 26.25 dlr a share offer that closed at midnight
+EST Feb 27.
+    Together with the five mln Rexnard shares it already owns,
+the company said it now holds a 97 pct stake in the company.
+    It said the completion of the deal is subject to approval
+by Rexnard holders and to other closing conditions. It expects
+the deal to close in about 60 days.
+ Reuter
+&#3;</BODY></TEXT>

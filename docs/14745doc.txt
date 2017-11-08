@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="3728" NEWID="14745">
+<DATE> 7-APR-1987 18:29:46.82</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2642&#31;reute
+r f BC-NASA-PICKS-BOEING-&lt;BA   04-07 0079</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NASA PICKS BOEING &lt;BA> FOR SYSTEM CONTRACT</TITLE>
+<DATELINE>    WASHINGTON, April 7 - </DATELINE><BODY>Boeing Co said the National
+Aeronautics and Space Administration selected it for
+negotiations leading to a contract for the Technical and
+Management System project in support of the Space Station
+program.
+    NASA's initial commitment is about 40 mln dlrs.
+    Under terms of the contract, Boeing will design and operate
+an information exchange network to support development of the
+proposed space station.
+ Reuter
+&#3;</BODY></TEXT>

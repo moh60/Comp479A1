@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7002" NEWID="19166">
+<DATE>19-JUN-1987 10:16:54.08</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f0963&#31;reute
+s f BC-&lt;MICROTEL>-TO-LOWER-L   06-19 0041</UNKNOWN>
+<TEXT>&#2;
+<TITLE>&lt;MICROTEL> TO LOWER LONG DISTANCE RATES</TITLE>
+<DATELINE>    BOCA RATON, FLA., June 19 - </DATELINE><BODY>Microtel, a fiber optic long
+distance company, said it plans to lower rates for interstate
+one plus dialing by 4.8 pct and LaserPLUS WATS service by 7.4
+pct, effective July 15.
+ Reuter
+&#3;</BODY></TEXT>

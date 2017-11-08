@@ -1,0 +1,20 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14538" NEWID="9017">
+<DATE>24-MAR-1987 16:12:45.97</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2456&#31;reute
+u f BC-EATON-(ETN)-GETS-53.0   03-24 0035</UNKNOWN>
+<TEXT>&#2;
+<TITLE>EATON (ETN) GETS 53.0 MLN DLR CONTRACT</TITLE>
+<DATELINE>    WASHINGTON, March 24 - </DATELINE><BODY>Eaton Corp's AIL Division has
+received a 53.0 mln dlr contract for jamming system work for
+the EA-6B electronic warfare aircraft, the Navy said.
+ Reuter
+&#3;</BODY></TEXT>

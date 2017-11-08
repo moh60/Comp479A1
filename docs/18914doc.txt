@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6753" NEWID="18914">
+<DATE>18-JUN-1987 14:29:56.85</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D><D>portugal</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM 
+&#22;&#22;&#1;f4237&#31;reute
+r f BC-WORLD-BANK-LOANS-PORT   06-18 0103</UNKNOWN>
+<TEXT>&#2;
+<TITLE>WORLD BANK LOANS PORTUGAL 50 MLN DLRS</TITLE>
+<DATELINE>    WASHINGTON, June 18 - </DATELINE><BODY>World Bank said it has loaned
+Portugal 50 mln dlrs to help improve its highway system.
+    The bank loan is part of a 400.4 mln dlr, three-year
+government financed project to rehabilitate or improve about
+3410 miles of highway, the bank said.
+    It also said the project hopes to increase road safety by
+improving signs, aiding enforcement of axle-load legislation,
+and adding patrol cars and communications equipment.
+    The loan is for 15 years, including three years of grace,
+at the standard variable interest rate, currently 7.92 pct, the
+bank said.
+ Reuter
+&#3;</BODY></TEXT>

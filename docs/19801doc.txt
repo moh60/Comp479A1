@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="8129" NEWID="19801">
+<DATE>29-JUN-1987 13:59:50.60</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2040&#31;reute
+r f BC-INT'L-BANKNOTE-&lt;IBK>   06-29 0048</UNKNOWN>
+<TEXT>&#2;
+<TITLE>INT'L BANKNOTE &lt;IBK> EXCHANGES DEBENTURES</TITLE>
+<DATELINE>    NEW YORK, June 29 - </DATELINE><BODY>International Banknote Co Inc said it
+accepted for exchange 3,484,000 dlrs principal amount of its
+10-1/4 pct subordinated debentures due Aug 1, 1998.
+    It said the exchange was part of its offer, which expired
+June 26.
+ Reuter
+&#3;</BODY></TEXT>

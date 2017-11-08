@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12929" NEWID="746">
+<DATE> 2-MAR-1987 15:57:31.72</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0968&#31;reute
+h f BC-DAISY-SYSTEMS-&lt;DAZY>   03-02 0112</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DAISY SYSTEMS &lt;DAZY> INTRODUCES WORKSTATIONS</TITLE>
+<DATELINE>    MOUNTAIN VIEW, Calif., March 2 - </DATELINE><BODY>Daisy Systems Corp said it
+has introduced a line of computer-aided engineering
+workstations.
+    The workstation family includes the Personal Logician 386,
+the Logician 386 and the Personal Logicial 286.
+    The Personal Logician 386 is a desktop, 32-bit IBM Personal
+Computer AT-compatible workstation, base priced at 20,000 dlrs.
+    The Logician 386 is a 32-bit accelerated graphics
+workstation, priced at 50,000 dlrs.
+    The Personal Logician 286 is based on the IBM PC AT and the
+EGA graphics standard, base priced at 15,000 dlrs.
+    Daisy said the products will be available in 90 days.
+ Reuter
+&#3;</BODY></TEXT>

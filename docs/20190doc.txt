@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20785" NEWID="20190">
+<DATE>20-OCT-1987 09:44:10.94</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1042&#31;reute
+d f BC-KERR-GLASS-&lt;KMG>-TO-S   10-20 0091</UNKNOWN>
+<TEXT>&#2;
+<TITLE>KERR GLASS &lt;KMG> TO SPEND FIVE MLN DLRS ON STOCK</TITLE>
+<DATELINE>    LOS ANGELES, Oct 20 - </DATELINE><BODY>Kerr Glass Manufacturing Corp said it
+expects to spend five mln dlrs to purchase its own stock to be
+held by a new employee incentive stock owership trust formed
+for the benefit of salaried employees.
+    Based on yesterday's closing price of 10.50 dlrs per share,
+the stock, to be bought from time to time on the open market or
+in negotiated transactions, about 476,000 shares wold be
+purchased, the company said. That's about 13 pct of the shares
+outstanding, it added.
+   
+ Reuter
+&#3;</BODY></TEXT>

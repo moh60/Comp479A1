@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7464" NEWID="18019">
+<DATE> 2-JUN-1987 10:30:02.50</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1137&#31;reute
+r f BC-GENERAL-SIGNAL-&lt;GSX>   06-02 0073</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GENERAL SIGNAL &lt;GSX> LOW BIDDER ON RADIO JOB</TITLE>
+<DATELINE>    STAMFORD, Conn., June 2 - </DATELINE><BODY>General Signal Corp said its
+General Railway Signal Co unit is the apparent low bidder at
+32.5 mln dlrs on a transit radio system contract for the
+Southern California Rapid Transit District in Los Angeles.
+    The company also said its General Farebox Inc subsidiary
+received a 3.1 mln dlr farebox system contract from the Greater
+Cleveland Regional Transit Authority.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9499" NEWID="4586">
+<DATE>12-MAR-1987 17:43:06.00</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0742&#31;reute
+d f BC-EAGER-TECHNOLOGY-ACQU   03-12 0039</UNKNOWN>
+<TEXT>&#2;
+<TITLE>EAGER TECHNOLOGY ACQUIRES NUCLAD</TITLE>
+<DATELINE>    DENVER, March 12 - </DATELINE><BODY>&lt;Eager Technology Inc> said it signed a
+letter of intent to acquire Nuclad Inc, a private Colorado
+corporation, and its subsidiaries.
+    Terms of the acquisition were not disclosed.
+ Reuter
+&#3;</BODY></TEXT>

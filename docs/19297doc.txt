@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7133" NEWID="19297">
+<DATE>19-JUN-1987 13:32:01.61</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1822&#31;reute
+r f BC-METRO-AIRLINES-&lt;MAIR.   06-19 0062</UNKNOWN>
+<TEXT>&#2;
+<TITLE>METRO AIRLINES &lt;MAIR.O> TO MAKE ACQUISITION</TITLE>
+<DATELINE>    DALLAS, June 19 - </DATELINE><BODY>Metro Airlines Inc said it has agreed in
+principle to acquire privately held Chaparral Airlines inc for
+5,700,000 dlrs in cash.
+    Chaparral provides regularly scheduled service out of
+Dallas/Fort Worth Regional Airport as an affiliated carrier of
+AMR Corp &lt;AMR> and had revenues in 1986 of 14.1 mln dlrs.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11787" NEWID="6874">
+<DATE>18-MAR-1987 17:13:44.33</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f9578&#31;reute
+r f BC-FAR-WEST-FINANCIAL-&lt;F   03-18 0092</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FAR WEST FINANCIAL &lt;FWF> TO BUY PROGRESSIVE</TITLE>
+<DATELINE>    ALHAMBRA, Calif., March 18 - </DATELINE><BODY>Progressive Savings and Loan
+Association &lt;PRSL> said it has agreed in principle to be
+purchased by Far West Financial Corp's Far West Savings and
+Loan Association.
+    The acquisition would be a cash merger, with Progressive
+shareholders receiving up to three dlrs per share, the company
+said.
+    Progressive Savings has assets of about 500 mln dlrs and
+operates ten offices in Los Angeles and Orange counties.
+    The agreement is subject to federal and shareholder
+approval.
+ Reuter
+&#3;</BODY></TEXT>

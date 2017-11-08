@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11206" NEWID="6293">
+<DATE>17-MAR-1987 16:41:32.88</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f6580&#31;reute
+d f BC-TELEPHONE-AND-DATA-SY   03-17 0086</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TELEPHONE AND DATA SYSTEMS INC &lt;TDS> YEAR NET</TITLE>
+<DATELINE>    CHICAGO, March 17 -
+    </DATELINE><BODY>Oper shr 94 cts vs 93 cts
+    Oper net 8,889,000 vs 8,570,000
+    Revs 155.0 mln vs 123.4 mln
+    Avg shrs 9,450,000 vs 9,174,000
+    NOTE: Net excludes discontinued operations a gain of
+4,679,000 dlrs, or 50 cts a share vs a loss of 720,000 dlrs, or
+seven cts a share. 1986 net includes charge of 865,000 dlrs
+from repeal of investment tax credits
+    Company corrects 1985 year per-share operating net in table
+which originally ran march 10
+ Reuter
+&#3;</BODY></TEXT>

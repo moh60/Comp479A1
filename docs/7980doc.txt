@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13501" NEWID="7980">
+<DATE>20-MAR-1987 16:24:32.84</DATE>
+<TOPICS><D>money-supply</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM V
+&#22;&#22;&#1;f2401&#31;reute
+b f US-BUSINESS-LOAN-FULLOUT   03-20 0057</UNKNOWN>
+<TEXT>&#2;
+<TITLE>U.S. BUSINESS LOANS FALL 660 MLN DLRS</TITLE>
+<DATELINE>    WASHINGTON, March 20 - </DATELINE><BODY>Business loans on the books of major
+U.S. banks, excluding acceptances, fell 660 mln dlrs to 277.93
+billion dlrs in the week ended March 11, the Federal Reserve
+Board said.
+    The Fed said that business loans including acceptances
+declined 492 mln dlrs to 280.56 billion dlrs.
+ Reuter
+&#3;</BODY></TEXT>

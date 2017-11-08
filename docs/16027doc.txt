@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5066" NEWID="16027">
+<DATE> 9-APR-1987 17:51:34.88</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A RM
+&#22;&#22;&#1;f2779&#31;reute
+r f BC-CONSUMERS-POWER-&lt;CMS>   04-09 0077</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CONSUMERS POWER &lt;CMS> TO REDEEM BONDS</TITLE>
+<DATELINE>    JACKSON, Mich., April 9 - </DATELINE><BODY>Consumers Power Co said it has 56
+mln dlrs available to be used to redeem at par any 15 pct
+series first mortgage bonds that are not exchanged under an
+outstanding bond exchange program.
+    The utility on March 17 offered to exchange its 15 pct
+first mortgage bonds due March 1, 1994 for a new series of
+first mortgage bonds, 9-1/4 pct due April 1, 1997. The offer
+will expire April 14, 1987.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18118" NEWID="1700">
+<DATE> 4-MAR-1987 14:15:38.40</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F Y
+&#22;&#22;&#1;f0379&#31;reute
+d f BC-&lt;AMERICAN-VENTURES-IN   03-04 0109</UNKNOWN>
+<TEXT>&#2;
+<TITLE>&lt;AMERICAN VENTURES INC> HAS COGENERATION FUNDING</TITLE>
+<DATELINE>    GREENWICH, Conn., March 4 - </DATELINE><BODY>American Ventures Inc said it
+and joint venture partner &lt;Sagamore Corp> have executed an
+engagement letter for &lt;Donaldson, Lufkin and Jenrette
+Securities Corp> to assist in arranging the financing for the
+80 megawatt Mon Valley coal-fired fluidized bed cogeneration
+project in Greene County, Pa.
+    The company said the electric output from the
+previously-announced project is expected to be sold to
+Allegheny Power System Inc &lt;AYP> under a 30-year contract now
+being negotiated.  It said Donaldson would also provide aid for
+two other cogeneration projects being developed.
+ Reuter
+&#3;</BODY></TEXT>

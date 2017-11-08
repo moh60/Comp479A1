@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="BYPASS" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="2297" NEWID="13314">
+<DATE> 7-APR-1987 01:13:33.18</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C M
+&#22;&#22;&#1;f0031&#31;reute
+u f BC-KUALA-LUMPUR-TIN-PRIC   04-07 0097</UNKNOWN>
+<TEXT>&#2;
+<TITLE>KUALA LUMPUR TIN PRICE CLOSES UNCHANGED</TITLE>
+<DATELINE>    KUALA LUMPUR, April 7 - </DATELINE><BODY>The Kuala Lumpur tin price closed
+unchanged from yesterday's 16.65 ringgit per kilo close after a
+very brief trading session, dealers said.
+    Buyers and sellers were evenly matched at the opening level
+of 16.65 ringgit, and total turnover was 103 tonnes against 135
+yesterday, they added.
+    Buying at this level was mainly noted from the Japan, local
+and Europe, again influenced by steady currency factors,
+despite an easier European spot market.
+    Some cash-strapped miners continued to sell, they said.
+ REUTER
+&#3;</BODY></TEXT>

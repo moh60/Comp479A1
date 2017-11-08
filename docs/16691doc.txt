@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1226" NEWID="16691">
+<DATE>13-APR-1987 16:51:56.01</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D><D>france</D><D>ireland</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2625&#31;reute
+r f BC-GE-&lt;GE>-VENTURE-WINS   04-13 0060</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GE &lt;GE> VENTURE WINS JET ENGINE ORDER</TITLE>
+<DATELINE>    EVANDALE, Ohio, April, 13 - </DATELINE><BODY>CFM International, a joint
+venture of &lt;SNECMA> of France and General Electric Co said it
+received an order for its CFM56-5 engines worth 320 mln dlrs
+from &lt;GPA Airbus 320 Group Ltd, Shannon, Ireland.
+    The company said the engines will power 25 twin-engine
+Airbus Industrie A320 aircraft.
+ Reuter
+&#3;</BODY></TEXT>

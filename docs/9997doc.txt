@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15518" NEWID="9997">
+<DATE>26-MAR-1987 12:09:31.46</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F E
+&#22;&#22;&#1;f1708&#31;reute
+r f BC-EMHART-&lt;EMH>-WINS-FOU   03-26 0083</UNKNOWN>
+<TEXT>&#2;
+<TITLE>EMHART &lt;EMH> WINS FOUR COMMUNICATIONS CONTRACTS</TITLE>
+<DATELINE>    FARMINGTON, Conn., March 26 - </DATELINE><BODY>Emhart Corp said it received
+four contracts valued at a total of seven mln dlrs to design,
+develop and install data communications and automated
+dispatching systems.
+    The company said its Planning Research Corp unit, which
+received the contracts, will do the work for the city of Grand
+Rapids, Mich., the New Jersey Transit Authority, the Los
+Angeles County Sheriff's office and the city of Calgary,
+Alberta, Canada.
+ Reuter
+&#3;</BODY></TEXT>

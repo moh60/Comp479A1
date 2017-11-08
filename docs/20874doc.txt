@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20563" NEWID="20874">
+<DATE>19-OCT-1987 18:55:23.43</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F 
+&#22;&#22;&#1;f3396&#31;reute
+r f BC-Canadian-Marconi   10-19 0035</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CANADIAN MARCONI &lt;CMW.TO> SIX MTHS SEPT 30 NET</TITLE>
+<DATELINE>    MONTREAL, Oct 19 -
+    </DATELINE><BODY>Shr 46 cts vs 50 cts
+    Net 10.9 mln vs 12.0 mln
+    Revs 105.2 mln vs 100.0 mln
+    Note: Canadian Marconi Co qtly figures unavailable.
+ Reuter
+&#3;</BODY></TEXT>

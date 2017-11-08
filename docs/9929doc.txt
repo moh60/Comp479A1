@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15450" NEWID="9929">
+<DATE>26-MAR-1987 11:09:00.13</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1392&#31;reute
+r f BC-RABBIT-SOFTWARE-&lt;RABT   03-26 0088</UNKNOWN>
+<TEXT>&#2;
+<TITLE>RABBIT SOFTWARE &lt;RABT> TO MERGE WITH CTI DATA</TITLE>
+<DATELINE>    MALVERN, Penn., March 26 - </DATELINE><BODY>Rabbit Software Corp said it
+agreed in principle to merge with &lt;CTI Data Inc>, a privately
+owned communications company.
+    According to terms, CTI holders and employees will receive
+200,000 shares of Rabbit stock and royalties on sales of CTI
+Products. CTI will become a wholly owned subsidiary of Rabbit.
+    The deal is subject to completion of a definitive merger
+agreement, receipt of third party approvals and other
+conditions, the company said.
+ Reuter
+&#3;</BODY></TEXT>

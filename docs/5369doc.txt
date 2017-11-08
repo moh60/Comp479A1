@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10282" NEWID="5369">
+<DATE>16-MAR-1987 10:18:01.52</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>cme</D><D>cboe</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C
+&#22;&#22;&#1;f2155&#31;reute
+b f BC-CME,-CBOE-SET-JOINT-P   03-16 0060</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CME, CBOE SET JOINT PRESS CONFERENCE FOR TODAY</TITLE>
+<DATELINE>    CHICAGO, March 16 - </DATELINE><BODY>The Chicago Mercantile Exchange, CME,
+and the Chicago Board Options Exchange, CME, will hold a joint
+news conference at 1200 CST (1800 GMT) today.
+    Neither exchange would elaborate on the topic of the press
+conference, although a CBOE spokesperson said it will deal a
+new financial product.
+ Reuter
+&#3;</BODY></TEXT>

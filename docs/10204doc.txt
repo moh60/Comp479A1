@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="15725" NEWID="10204">
+<DATE>26-MAR-1987 17:02:11.13</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2696&#31;reute
+h f BC-DEXTER-&lt;DEX>-UNIT-TO   03-26 0082</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DEXTER &lt;DEX> UNIT TO LICENSE ADHESIVES</TITLE>
+<DATELINE>    PITTSBURG, Calif., March 26 - </DATELINE><BODY>Dexter Corp said its Hysol
+Aerospace and Industrial Products division signed an agreement
+to license its engineering adhesives to Toyoda Gosei, an
+affiliate of &lt;Toyota Motor Co> of Japan.
+    Dexter said technology exchanges will begin within the next
+three months and both partners will work together to develop a
+complete line of structural adhesive and application techniques
+for the automotive and other industries.
+ Reuter
+&#3;</BODY></TEXT>

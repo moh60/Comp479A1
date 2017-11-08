@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18661" NEWID="2243">
+<DATE> 5-MAR-1987 12:27:25.42</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>switzerland</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0944&#31;reute
+u f BC-TAIHEI-KOGYO-ISSUES-4   03-05 0043</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TAIHEI KOGYO ISSUES 40 MLN SFR FIVE YEAR NOTES</TITLE>
+<DATELINE>    ZURICH, March 5 - </DATELINE><BODY>Taihei Kogyo Co Ltd is launching 40 mln
+Swiss francs of five year notes with a 4-3/4 pct coupon and
+100-1/4 issue price, lead manager Swiss Bank Corp said.
+    Payment is due March 18.
+ REUTER
+&#3;</BODY></TEXT>

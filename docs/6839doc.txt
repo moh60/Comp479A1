@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11752" NEWID="6839">
+<DATE>18-MAR-1987 16:42:41.28</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f9488&#31;reute
+h f BC-LOTUS-&lt;LOTS>-CUTS-PRI   03-18 0078</UNKNOWN>
+<TEXT>&#2;
+<TITLE>LOTUS &lt;LOTS> CUTS PRICE ON 1-2-3 REPORT WRITER</TITLE>
+<DATELINE>    CAMBRIDGE, Mass., March 18 - </DATELINE><BODY>Lotus Development Corp said it
+reduced the suggested retail price of its 1-2-3 Report Writer
+software package to 95 dlrs from 150 dlrs.
+    The company said it also removed copy protection from the
+program, which is used to generate customized reports and forms
+from data base files.
+    Lotus said the steps bring 1-2-3 Report Writer in line with
+other programs based on the 1-2-3 package.
+ Reuter
+&#3;</BODY></TEXT>

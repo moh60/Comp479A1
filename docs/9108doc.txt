@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14629" NEWID="9108">
+<DATE>24-MAR-1987 18:57:22.82</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2810&#31;reute
+r f BC-PS-GROUP-&lt;PSG>,-USAIR   03-24 0105</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PS GROUP &lt;PSG>, USAIR &lt;U> MOVE UP DEADLINE</TITLE>
+<DATELINE>    SAN DIEGO, Calif., March 24 - </DATELINE><BODY>PS Group Inc said it and
+USAir Group agreed to move up the completion date of USAir's
+acquisition of Pacific Southwest Airlines to April 30 from
+September 30 originally.
+    If the acquisition does not take place by April 30, either
+party may terminate the agreement, the company said.
+    The deadline has been moved up because the Department of
+Transportation and PS Group shareholders have already approved
+the transaction, the company said.
+    A Teamsters Union agreement to certain labor contract
+conditions remains to be resolved under the pact.
+ Reuter
+&#3;</BODY></TEXT>

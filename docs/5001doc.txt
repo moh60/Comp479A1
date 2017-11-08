@@ -1,0 +1,26 @@
+
+<!DOCTYPE lewis SYSTEM "lewis.dtd">
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9914" NEWID="5001">
+<DATE>13-MAR-1987 15:05:02.92</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0215&#31;reute
+d f BC-PLM-&lt;PLMA>-UNIT-ENDS   03-13 0076</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PLM &lt;PLMA> UNIT ENDS MERGER TALKS</TITLE>
+<DATELINE>    SAN FRANCISCO, March 13 - </DATELINE><BODY>PLM Cos Inc said its PLM Power Co
+unit broke off merger discussions with Sunlaw Energy Corp of
+Beverly Hills, Calif.
+    In January PLM Power entered into a letter of intent to
+negotiate a potential acquisition of Sunlaw, subject to
+substantial due diligence, the company said.
+    But it also said the two companies were not able to agree
+on mutually satisfactory final terms and conditions.
+ Reuter
+&#3;</BODY></TEXT>

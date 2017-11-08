@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14839" NEWID="9318">
+<DATE>25-MAR-1987 10:20:28.40</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1065&#31;reute
+r f BC-EASCO-OFFERS-INITIAL   03-25 0057</UNKNOWN>
+<TEXT>&#2;
+<TITLE>EASCO OFFERS INITIAL SALE OF SECURITIES</TITLE>
+<DATELINE>    WASHINGTON, March 25 - </DATELINE><BODY>Easco Hand Tools Inc of Hunt Valley,
+Md., filed with the Securities and Exchange Commission for the
+sale of 67,275,000 dlrs in common stock, its first public stock
+offering.
+    It said proceeds would be used to reduce indebtedness.
+    PaineWebber Inc was named underwriter.
+ Reuter
+&#3;</BODY></TEXT>

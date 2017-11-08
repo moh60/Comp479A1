@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18184" NEWID="1766">
+<DATE> 4-MAR-1987 15:42:19.87</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>nasdaq</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0645&#31;reute
+d f BC-IRVINE-SENSORS-&lt;IRSN>   03-04 0071</UNKNOWN>
+<TEXT>&#2;
+<TITLE>IRVINE SENSORS &lt;IRSN> COMPLETES UNIT OFFERING</TITLE>
+<DATELINE>    COSTA MESA, Calif., March 4 - </DATELINE><BODY>Irvine Sensors Corp said it
+completed a public offering of 1.25 mln units, consisting of
+two shares of common stock and one warrant to purchase an
+additional share.
+    The units were sold at a price of 1.60 dlrs each, Irvine
+Sensors said, adding, the units will trade under the NASDAQ
+symbol "IRSNU" and the new warrants under the symbol "IRSNW."
+ Reuter
+&#3;</BODY></TEXT>

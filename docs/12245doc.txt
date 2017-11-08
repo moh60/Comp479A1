@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="473" NEWID="12245">
+<DATE> 1-APR-1987 15:14:30.27</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2222&#31;reute
+r f BC-ATT-&lt;T>-TO-SELL-NETI   04-01 0110</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ATT &lt;T> TO SELL NETI &lt;NETFC> SOFTWARE</TITLE>
+<DATELINE>    ANN ARBOR, Mich., April 1 - </DATELINE><BODY>Neti Technologies Inc said
+American Telephone and Telegraph Co agreed to sell Neti's
+document transfer software.
+    Neti chairman Lawrence Brilliant said in response to an
+inquiry that the software, called "docuFORUM", transfers
+documents between separate locations over telephone lines. It
+is designed to work with most personal computers, including
+those made by International Business Machines Co &lt;IBM>.
+    Brilliant said there will be a one-time set-up charge of
+1,000 dlrs for the software, which will cost 40 dlrs per hour
+to use. There will be a 250 dlr monthly minimum use charge.
+ Reuter
+&#3;</BODY></TEXT>

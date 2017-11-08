@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13338" NEWID="7817">
+<DATE>20-MAR-1987 12:39:33.03</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1674&#31;reute
+r f BC-UNICORP-AMERICAN   03-20 0076</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GROUP HAS 5.1 PCT OF UNICORP AMERICAN &lt;UAC></TITLE>
+<DATELINE>    WASHINGTON, March 20 - </DATELINE><BODY>Two affiliated New York investment
+firms and an investment advisor told the Securities and
+Exchange Commission they have acquired 555,057 shares of
+Unicorp American Corp, or 5.1 pct of the total outstanding.
+    The group, which includes Mutual Shares Corp, said it
+bought the stake for 5.3 mln dlrs for investment purposes and
+has no intention of seeking control of Unicorp American.
+ Reuter
+&#3;</BODY></TEXT>

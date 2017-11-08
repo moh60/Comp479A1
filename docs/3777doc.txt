@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="8690" NEWID="3777">
+<DATE>11-MAR-1987 12:42:52.80</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0915&#31;reute
+d f BC-PPG-INDUSTRIES-&lt;PPG>   03-11 0093</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PPG INDUSTRIES &lt;PPG> SEES GROWTH IN 1987</TITLE>
+<DATELINE>    PITTSBURGH, March 11 - </DATELINE><BODY>PPG Industries Inc will continue to
+show earnings growth in 1987 despite a difficult economic
+climate, the company said in its annual report, mailed to
+shareholders today.
+    For 1986, the company's earnings rose five pct, to 316 mln
+dlrs, on revenues that increased eight pct, to 4.7 billion
+dlrs. Earnings per share were 2.66 dlrs, compared with 2.27
+dlrs.
+    The company added that in 1986 its return on equity reached
+17.3 pct, up from 15.5 pct in 1985 and close to its goal of 18
+pct.
+ Reuter
+&#3;</BODY></TEXT>

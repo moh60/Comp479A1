@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19680" NEWID="3258">
+<DATE> 9-MAR-1987 13:13:29.67</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0113&#31;reute
+d f BC-IMMUCOR-&lt;BLUD>-SPLITS   03-09 0039</UNKNOWN>
+<TEXT>&#2;
+<TITLE>IMMUCOR &lt;BLUD> SPLITS STOCK</TITLE>
+<DATELINE>    NORCROSS, Ga., March 9 - </DATELINE><BODY>Immucor Inc said its board of
+directors has declared a five-for-four stock split in the form
+of a 25 pct stock dividend payable April 15 to shareholders of
+record March 27.
+   
+ Reuter
+&#3;</BODY></TEXT>

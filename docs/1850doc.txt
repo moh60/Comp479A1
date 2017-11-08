@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18268" NEWID="1850">
+<DATE> 4-MAR-1987 17:32:26.71</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A
+&#22;&#22;&#1;f0951&#31;reute
+r f BC-IOWA-BANK-BECOMES-34T   03-04 0103</UNKNOWN>
+<TEXT>&#2;
+<TITLE>IOWA BANK BECOMES 34TH TO FAIL THIS YEAR</TITLE>
+<DATELINE>    WASHINGTON, March 4 - </DATELINE><BODY>The deposits of the failed First
+State Bank of Rockford, Iowa, were assumed by First Security
+Bank and Trust Co of Charles City, Iowa, the Federal Deposit
+Insurance Corp (FDIC) said.
+    The FDIC said it acted after First State, with 15.1 mln
+dlrs in assets, was closed today by Iowa Banking Superintendent
+William Bernau. It was the 34th U.S. bank to fail this year,
+and the 12th agricultural bank.
+    To facilitate the transaction, the FDIC said it would pay
+the assuming bank 4.1 mln dlrs and retain assets of the failed
+bank valued at 4.8 mln dlrs.
+ Reuter
+&#3;</BODY></TEXT>

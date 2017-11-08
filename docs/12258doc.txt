@@ -1,0 +1,30 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="486" NEWID="12258">
+<DATE> 1-APR-1987 15:35:56.51</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2289&#31;reute
+r f BC-TOWLE-MANUFACTURING-C   04-01 0084</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TOWLE MANUFACTURING CO &lt;QTOW> 4TH QTR OPER LOSS</TITLE>
+<DATELINE>    BOSTON, April 1 -
+    </DATELINE><BODY>Oper shr loss 1.10 dlrs vs loss 8.63 dlrs
+    Oper net loss 5.1 mln vs loss 42.1 mln
+    Revs 23.1 mln vs 63.3 mln
+    Year
+    Oper shr loss 4.71 dlrs vs loss 14.09 dlrs
+    Oper net loss 22.0 mln vs loss 67.2 mln
+    Revs 114.6 mln vs 221.8 mln
+    Avg shrs 4,910,330 vs 4,851,650
+    NOTE: Current year excludes gain of 12.1 mln dlrs from
+disposal of discontinued operations.
+    Shr figures after preferred dividend requirements.
+ Reuter
+&#3;</BODY></TEXT>

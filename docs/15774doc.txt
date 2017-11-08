@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5129" NEWID="15774">
+<DATE> 9-APR-1987 13:24:07.20</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1884&#31;reute
+d f BC-USAIR-&lt;U>-CUTS-ATLANT   04-09 0086</UNKNOWN>
+<TEXT>&#2;
+<TITLE>USAIR &lt;U> CUTS ATLANTA COACH FARES</TITLE>
+<DATELINE>    ATLANTA, April 9 - </DATELINE><BODY>USAir Group Inc said it is reducing
+coach fares up to 62 pct between Atlanta and 21 destinations
+for travel April 12 through June 15.
+    The fares are non-refundable and applicable to roundtrip
+flights. Reservations must be made at least two days in advance
+and tickets purchased within 24 hours after reservations are
+made, the company said.
+    Roundtrip fares between Atlanta and Pittsburgh, for
+example, would be 178 dlrs instead of 478 dlrs, USAir said.
+ Reuter
+&#3;</BODY></TEXT>

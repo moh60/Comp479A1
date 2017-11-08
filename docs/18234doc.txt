@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7679" NEWID="18234">
+<DATE> 2-JUN-1987 15:06:53.24</DATE>
+<TOPICS><D>crude</D></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F Y
+&#22;&#22;&#1;f2379&#31;reute
+r f BC-asamera-completes   06-02 0055</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ASAMERA &lt;ASM> COMPLETES REFINERY SALE</TITLE>
+<DATELINE>    CALGARY, Alberta, June 2 - </DATELINE><BODY>Asamera Inc said wholly owned
+Asamera Oil (U.S.) Inc concluded the 25.25 mln U.S. dlr sale of
+its Denver refinery to Total Petroleum North America Ltd.
+    In addition, Total is purchasing crude oil and refined
+product inventories at market value, Asamera said.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16315" NEWID="995">
+<DATE> 3-MAR-1987 09:14:40.20</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0272&#31;reute
+r f BC-FIRSTCORP-&lt;FCR>-SEES   03-03 0071</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FIRSTCORP &lt;FCR> SEES GAIN ON CONDEMNATION</TITLE>
+<DATELINE>    RALEIGH, N.C., March 3 - </DATELINE><BODY>Firstcorp Inc said it weill report
+an after-tax gain of 1,827,000 dlrs or 56 cts per share primary
+and 42 cts fully diluted from the proposed condemnation and
+acquisition of a parking deck it operates by Wake County.
+    The company said if it reinvested proceeds in a similar
+property within 24 months, the gain on the sale would be
+deferred for tax purposes.
+ Reuter
+&#3;</BODY></TEXT>

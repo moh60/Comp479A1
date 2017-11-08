@@ -1,0 +1,31 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17662" NEWID="11601">
+<DATE>31-MAR-1987 14:57:26.98</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>uk</D><D>mozambique</D><D>zimbabwe</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G
+&#22;&#22;&#1;f2286&#31;reute
+r f AM-MOZAMBIQUE-BRITAIN   03-31 0142</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BRITAIN GIVES FAMINE RELIEF AID TO MOZAMBIQUE</TITLE>
+<DATELINE>    HARARE, March 31 - </DATELINE><BODY>Britain has granted Mozambique about
+eight mln sterling for food aid and emergency relief for famine
+victims, the British High Commission announced.
+    A high commission (embassy) statement said about 30,000
+tonnes of cereals worth six mln sterling would be shipped to
+Mozambique, and the first load of 20,000 tonnes was due soon.
+    Britain will give one mln sterling for other disaster
+relief programs and 1.3 mln sterling to relieve the plight of
+Mozambican refugees, it added.
+    The statement said Britain would also contribute 1.3 mln
+sterling to the U.N. Refugee agency, UNHCR, for refugees in
+neighbouring countries, and give 750,000 sterling to relief
+agencies for food transport and distribution in Mozambique. The
+British public has also raised more than one mln sterling.
+ Reuter
+&#3;</BODY></TEXT>

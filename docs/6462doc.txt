@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11375" NEWID="6462">
+<DATE>18-MAR-1987 09:39:04.31</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>sweden</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f7868&#31;reute
+d f BC-VOLVO-UNIT-RECEIVES-G   03-18 0092</UNKNOWN>
+<TEXT>&#2;
+<TITLE>VOLVO UNIT RECEIVES GENERAL ELECTRIC ORDER</TITLE>
+<DATELINE>    STOCKHOLM, March 18 - </DATELINE><BODY>Sweden's AB Volvo &lt;VOLV.ST> said its
+subsidiary Volvo Flygmotor had won a contract worth 330 mln
+crowns over four years from General Electric Co &lt;GE.N> to
+supply flight engine components.
+    Volvo said it received the order after General Electric had
+won a contract for 40 CF-80C aircraft engines from American
+Airlines. The CF-80C is a joint venture between Volvo Flygmotor
+and General Electric, the Swedish firm said.
+    The contract runs from next year until 1992, Volvo added.
+ Reuter
+&#3;</BODY></TEXT>

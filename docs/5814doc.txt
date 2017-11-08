@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10727" NEWID="5814">
+<DATE>17-MAR-1987 04:27:28.79</DATE>
+<TOPICS><D>money-fx</D><D>interest</D></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f4283&#31;reute
+f f BC-Danish-central-bank-c   03-17 0017</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE> Danish central bank cuts overnight money market interest rate to 10.5 pct from 11 pct - official
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

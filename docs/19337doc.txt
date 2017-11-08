@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="7173" NEWID="19337">
+<DATE>19-JUN-1987 14:14:48.13</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1939&#31;reute
+r f BC-MANUFACTURERS-NAT'L-&lt;   06-19 0101</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MANUFACTURERS NAT'L &lt;MNTL.O> ADDS LOAN LOSSES</TITLE>
+<DATELINE>    DETROIT, June 19 - </DATELINE><BODY>Manufacturers National Corp said it will
+add 30.4 mln dlrs to its reserve to cover exposure for Latin
+American loans.
+    It said the added reserves are expected to result in a
+second-quarter loss of about 10 mln dlrs for the corporation.
+    Of the 30.4 mln dlr provision, 20 mln dlrs is in general
+loan loss reserves for the main bank of the holding company,
+Manufacturers National Bank of Detroit, and 10.4 mln dlrs is a
+writedown of the investment in two nonconsolidated affiliates.
+It said it still expects to be profitable for the year.
+ Reuter
+&#3;</BODY></TEXT>

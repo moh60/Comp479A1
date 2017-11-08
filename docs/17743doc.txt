@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6081" NEWID="17743">
+<DATE> 1-JUN-1987 15:01:50.78</DATE>
+<TOPICS><D>acq</D><D>pet-chem</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2186&#31;reute
+r f BC-MONSANTO-&lt;MTC>-TO-ACQ   06-01 0074</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MONSANTO &lt;MTC> TO ACQUIRE RHONE-POULENC ASSETS</TITLE>
+<DATELINE>    ST. LOUIS, June 1 - </DATELINE><BODY>Monsanto Co said it is acquiring
+certain commerical assets of &lt;Rhone-Poulenc Chimie's>
+polyphenyl business.
+    Terms of the transaction were not disclosed.
+    Among the assets being acquired are its polyphenyl business
+worldwide, including biphenyl and the heat transfer fluid
+Gilotherm TH, together with associated manufacturing and
+application technology, Monsanto said.
+ Reuter
+&#3;</BODY></TEXT>

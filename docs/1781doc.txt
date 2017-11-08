@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18199" NEWID="1781">
+<DATE> 4-MAR-1987 15:53:39.99</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0680&#31;reute
+d f BC-TRC-COS-&lt;TRCC>-UNIT-G   03-04 0073</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TRC COS &lt;TRCC> UNIT GETS EPA CONTRACT</TITLE>
+<DATELINE>    EAST HARTFORD, Conn., March 4 - </DATELINE><BODY>TRC Cos Inc said its wholly
+owned unit, Alliance Technologies Corp, received a 4.2 mln dlr
+contract from the U.S. Environmental Protection Agency to
+develop an inventory of pollutants contributing to acid
+deposition nationwide.
+    TRC said the program would be the basis for evaluating the
+relationship between emission sources and their effects on the
+environment.
+ Reuter
+&#3;</BODY></TEXT>

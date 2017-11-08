@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12998" NEWID="815">
+<DATE> 2-MAR-1987 17:13:26.77</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0183&#31;reute
+w f BC-ADVANCED-SYSTEMS-&lt;ASY   03-02 0062</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ADVANCED SYSTEMS &lt;ASY> TO DISTRIBUTE COURSES</TITLE>
+<DATELINE>    CHICAGO, March 2 - </DATELINE><BODY>Advanced Systems Inc said it acquired
+distribution rights to three interactive video courses
+developed by NCR Corp &lt;NCR>.
+    The three courses, for data processing professionals and
+bankers, are delivered through interactive video, which
+combines video discs, personal computers and touch-screen
+monitors.
+ Reuter
+&#3;</BODY></TEXT>

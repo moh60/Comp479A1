@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="BYPASS" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="3450" NEWID="14467">
+<DATE> 7-APR-1987 15:19:34.14</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;GQ
+&#22;&#22;&#1;f2207&#31;reute
+r f BC-toledo-del-bean-stks   04-07 0085</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TOLEDO DELIVERABLE SOYBEAN STOCKS</TITLE>
+<DATELINE>    TOLEDO, April 7  - </DATELINE><BODY>The CFTC reported the following stocks
+of soybeans in Toledo as of Friday, april 3 , deliverable
+against Chicago Board of Trade futures in 000's bushels -
+                         CURRENT  WEEK   YEAR
+                         WEEK     AGO    AGO
+ DEL GRADES              1625     1747   5338
+ NON-DEL GRADES/UNGRADED  294      238    242
+ CCC STOCKS              1085     1085    329
+ TOTAL SOYBEAN STOCKS    3004     3070   5909
+
+ Reuter
+&#3;</BODY></TEXT>

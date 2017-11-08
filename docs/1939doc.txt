@@ -1,0 +1,19 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18357" NEWID="1939">
+<DATE> 5-MAR-1987 05:10:20.65</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0507&#31;reute
+f f BC-Rank-Organisation-say   03-05 0013</UNKNOWN>
+<TEXT TYPE="BRIEF">&#2;
+******<TITLE> Rank Organisation says it launching 100 mln stg commercial paper program
+</TITLE>Blah blah blah.
+&#3;
+
+</TEXT>

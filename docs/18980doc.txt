@@ -1,0 +1,38 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6816" NEWID="18980">
+<DATE>18-JUN-1987 15:56:50.78</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f4516&#31;reute
+r f BC-KRAFT   06-18 0111</UNKNOWN>
+<TEXT>&#2;
+<TITLE>KRAFT &lt;KRA> DEFENDS CHEESE ADVERTISING</TITLE>
+<DATELINE>    WASHINGTON, June 18 - </DATELINE><BODY>Kraft Inc said it strongly disagreed
+with a complaint filed by the Federal Trade Commission that it
+made false and misleading claims about its Kraft Singles cheese
+product and said it would fight the charge.
+    "Kraft has always been committed to informative and
+truthful advertising and this compaign clearly meets those
+criteria," Kraft said in a prepared statement.
+    "We believe the integreity of the advertising will be
+established through the litigation process," Kraft said.
+    Company spokesman Scott Horne said he could not elaborate
+on the statement because the case is being litigated.
+    The FTC charged Kraft with making false and misleading
+claims in its advertising by overstating the calcuim content of
+its Kraft Singles American Pasteurized Process Cheese Food.
+    In an administrative complaint, the FTC charged the
+Glenview, Ill., food and consumer products company with falsely
+claiming that a slice of Kraft Singles contains the same amount
+of calcium as five ounces of milk.
+    The company also falsely advertised that Kraft Singles
+contain more calcium than most slices of imitation cheese and
+that it could substantiate its claims, the FTC charged.
+ Reuter
+&#3;</BODY></TEXT>

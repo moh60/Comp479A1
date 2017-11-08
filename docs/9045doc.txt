@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14566" NEWID="9045">
+<DATE>24-MAR-1987 16:44:47.92</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2559&#31;reute
+d f BC-GARTNER-GROUP-&lt;GART>   03-24 0077</UNKNOWN>
+<TEXT>&#2;
+<TITLE>GARTNER GROUP &lt;GART> ACQUIRES COMTEC PROGRAM</TITLE>
+<DATELINE>    STAMFORD, Conn., March 24 - </DATELINE><BODY>Gartner Group Inc said it
+acquired sole ownership of the COMTEC Market Research Program.
+    Gartner said its wholly-owned subsidiary purchased the
+interests of its former partners for an aggregate price of
+1,125,000 plus a percentage of net sales proceeds on future
+sales of certain products.
+    Prior to the acquisition, Gartner Group owned one-third in
+the COMTEC partnership, it said.
+ Reuter
+&#3;</BODY></TEXT>

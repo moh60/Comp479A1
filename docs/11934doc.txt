@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="162" NEWID="11934">
+<DATE> 1-APR-1987 10:07:53.08</DATE>
+<TOPICS><D>interest</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;A RM
+&#22;&#22;&#1;f0990&#31;reute
+b f BC-/CHEMICAL-&lt;CHL>-RAISE   04-01 0038</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CHEMICAL &lt;CHL> RAISES PRIME RATE TO 7-3/4 PCT</TITLE>
+<DATELINE>    NEW YORK, April 1 - </DATELINE><BODY>Chemical Bank, the main bank subsidiary
+of Chemical New York Corp, said it is raising its prime lending
+rate to 7-3/4 pct from 7-1/2 pct, effective immediately.
+ Reuter
+&#3;</BODY></TEXT>

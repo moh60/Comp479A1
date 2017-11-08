@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17844" NEWID="1426">
+<DATE> 4-MAR-1987 09:33:53.87</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0164&#31;reute
+d f BC-MICOM-SYSTEMS-&lt;MICS>   03-04 0076</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MICOM SYSTEMS &lt;MICS> ENHANCES MULTIPLEXOR</TITLE>
+<DATELINE>    SIMI VALLEY, Calif., March 4 - </DATELINE><BODY>Micom Systems Inc said it
+has doubled the data transmission range and speed of its
+Instalink460 voice/data multiplexor.
+    The company said the unit now transmits data up to 23,000
+feet at up to 19,200 bits per second and provides synchronous
+or asynchronous transmission in a single unit.
+    Prices for terminal units begin at 195 dlrs and central
+units at 750 dlrs, it added.
+ Reuter
+&#3;</BODY></TEXT>

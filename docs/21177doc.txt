@@ -1,0 +1,20 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20259" NEWID="21177">
+<DATE>19-OCT-1987 13:26:48.75</DATE>
+<TOPICS><D>coffee</D></TOPICS>
+<PLACES><D>uk</D><D>colombia</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C T 
+&#22;&#22;&#1;f2271&#31;reute
+b f BC-COLOMBIA-OPENS-COFFEE   10-19 0032</UNKNOWN>
+<TEXT>&#2;
+<TITLE>COLOMBIA OPENS COFFEE REGISTRATIONS - LDN TRADE</TITLE>
+<DATELINE>    LONDON, Oct 19 - </DATELINE><BODY>Colombia has opened export registrations
+for November coffee shipments, trade sources said. No further
+details were available.
+ Reuter
+&#3;</BODY></TEXT>

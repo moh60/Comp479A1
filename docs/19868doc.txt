@@ -1,0 +1,20 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="8196" NEWID="19868">
+<DATE>29-JUN-1987 15:43:13.65</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2353&#31;reute
+w f BC-TOLL-BROTHERS-&lt;TOL>-O   06-29 0028</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TOLL BROTHERS &lt;TOL> OPENS NEW OFFICE</TITLE>
+<DATELINE>    HORSHAM, Pa., June 29 - </DATELINE><BODY>Toll Brothers Inc said it has
+opened a Washington, D.C.-Baltimore Metro divisional office in
+Greenbelt, Md.
+ Reuter
+&#3;</BODY></TEXT>

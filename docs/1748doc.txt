@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18166" NEWID="1748">
+<DATE> 4-MAR-1987 15:25:23.08</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F
+&#22;&#22;&#1;f0583&#31;reute
+r f BC-lacana-names-new-ceo   03-04 0046</UNKNOWN>
+<TEXT>&#2;
+<TITLE>LACANA &lt;LCNAF> NAMES NEW CEO AND PRESIDENT</TITLE>
+<DATELINE>    TORONTO, March 4 - </DATELINE><BODY>&lt;Lacana Mining Corp> said Gil L.
+Leathley was appointed president and chief executive, replacing
+William Gross who retired.
+    The company said Gross will continue as a director and
+executive committee member.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19510" NEWID="3095">
+<DATE> 9-MAR-1987 10:30:53.56</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0281&#31;reute
+b f BC-USAIR-&lt;U>-WINS-COURT   03-09 0088</UNKNOWN>
+<TEXT>&#2;
+<TITLE>USAIR &lt;U> WINS COURT ORDER AGAINST TWA &lt;TWA></TITLE>
+<DATELINE>    PITTSBURGH, March 9 - </DATELINE><BODY>USAir Group Inc said a U.S. District
+Court in Pittsburgh issued a temporary restraining order to
+prevent Trans World Airlines Inc from buying additional USAir
+shares.
+    USAir said the order was issued in response to its suit,
+charging TWA chairman Carl Icahn and TWA violated federal laws
+and made misleading statements.
+    TWA last week said it owned 15 pct of USAir's shares. It
+also offered to buy the company for 52 dlrs a share cash or 1.4
+billion dlrs.
+ More
+&#3;</BODY></TEXT>

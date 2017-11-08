@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10226" NEWID="5313">
+<DATE>16-MAR-1987 09:14:02.70</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1938&#31;reute
+d f BC-LOWRANCE-ELECTRONICS   03-16 0051</UNKNOWN>
+<TEXT>&#2;
+<TITLE>LOWRANCE ELECTRONICS INC &lt;LEIX> 2ND QTR JAN 31</TITLE>
+<DATELINE>    TULSA, Okla., March 16 -
+    </DATELINE><BODY>Shr profit 17 cts vs loss two cts
+    Net profit 520,000 vs loss 51,000
+    Sales 11.1 mln vs 6,897,000
+    1st half
+    Shr profit 34 cts vs profit 12 cts
+    Net profit 951,000 vs profit 320,000
+    Sales 20.6 mln vs 14.9 mln
+ Reuter
+&#3;</BODY></TEXT>

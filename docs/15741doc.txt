@@ -1,0 +1,30 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4918" NEWID="15741">
+<DATE> 9-APR-1987 12:46:47.65</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>uk</D><D>japan</D></PLACES>
+<PEOPLE><D>thatcher</D></PEOPLE>
+<ORGS><D>ec</D></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f1745&#31;reute
+u f BC-EC-EXPERTS-TO-STUDY-P   04-09 0124</UNKNOWN>
+<TEXT>&#2;
+<TITLE>EC EXPERTS TO STUDY POSSIBLE ACTION AGAINST JAPAN</TITLE>
+<DATELINE>    LONDON, April 9 - </DATELINE><BODY>European Community trade experts will
+meet in Brussels tomorrow to discuss possible EC action against
+Japan over trade, British Prime Minister Margaret Thatcher
+said.
+    She told Parliament the officials would examine ideas put
+forward by the U.K. Last weekend. "Trade matters and trade
+initiatives have to be taken by the Community," Thatcher said.
+    She said the experts would focus "on more effective action
+against the dumping of components (by Japan), possible
+unbinding of tariffs on certain products (to allow each EC
+country to set their own tariffs) ... And measures which might
+be necessary to avoid diversion if the United States acts
+against Japan."
+ REUTER
+&#3;</BODY></TEXT>

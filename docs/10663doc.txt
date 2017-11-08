@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16184" NEWID="10663">
+<DATE>29-MAR-1987 22:00:46.77</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>uk</D><D>iran</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0160&#31;reute
+u f BC-IRAN'S-NON-OIL-EXPORT   03-29 0069</UNKNOWN>
+<TEXT>&#2;
+<TITLE>IRAN'S NON-OIL EXPORTS RISE 35 PCT IN YEAR</TITLE>
+<DATELINE>    LONDON, March 30 - </DATELINE><BODY>Iran's non-oil exports were worth at
+least 750 mln dlrs in the year ended March 20, a 35 pct
+increase from the previous year, the national Iranian news
+agency IRNA reported.
+    IRNA, monitored in London, quoted a senior Industry
+Ministry official as saying non-oil exports included carpets,
+animal skins, pistachios, fruit and industrial goods.
+ REUTER
+&#3;</BODY></TEXT>

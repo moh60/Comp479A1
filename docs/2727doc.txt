@@ -1,0 +1,31 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19145" NEWID="2727">
+<DATE> 6-MAR-1987 12:34:22.42</DATE>
+<TOPICS><D>grain</D><D>corn</D></TOPICS>
+<PLACES><D>usa</D><D>canada</D></PLACES>
+<PEOPLE><D>lyng</D></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G
+&#22;&#22;&#1;f0859&#31;reute
+u f BC-/LYNG-DISAPPOINTED-BY   03-06 0141</UNKNOWN>
+<TEXT>&#2;
+<TITLE>LYNG DISAPPOINTED BY CANADA CORN INJURY DECISION</TITLE>
+<DATELINE>    WASHINGTON, March 6 - </DATELINE><BODY>U.S. Agriculture Secretary Richard
+Lyng said he is "very disappointed" by a Canadian government
+finding that U.S. corn has injured Ontario Corn growers.
+    "This action is not helpful in the context of the ongoing
+U.S.-Canada free trade talks or in the new round of
+multilateral trade negotiations," Lyng said in a statement.
+    The Canadian government today said Ottawa would continue to
+apply a duty of 84.9 cents per bushel on U.S. corn imports.
+    Lyng said the U.S. made a case that U.S. corn imports are
+not the cause of any problem of Canadian corn producers, adding
+that U.S. corn exports to Canada are declining.
+    "Apparently they (Canada) have ignored the fact that
+Canadian corn and other coarse grain production is rising
+faster than consumption," Lyng said.
+ Reuter
+&#3;</BODY></TEXT>

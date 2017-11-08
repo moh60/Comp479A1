@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20802" NEWID="20207">
+<DATE>20-OCT-1987 10:06:50.87</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1138&#31;reute
+r f BC-SPRINGS-INDUSTRIES-IN   10-20 0057</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SPRINGS INDUSTRIES INC &lt;SMI> 3RD QTR OCT THREE</TITLE>
+<DATELINE>    FORT MILL, S.C., Oct 20 -
+    </DATELINE><BODY>Shr 99 cts vs 42 cts
+    Net 17.6 mln vs 7,528,000
+    Sales 424.2 mln vs 376.8 mln
+    Nine mths
+    Shr 2.21 dlrs vs 94 cts
+    Net 39.3 mln vs 16.8 mln
+    Sales 1.20 billion vs 1.10 billion
+    NOTE: Share adjusted for two-for-one stock split in April
+1987.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13421" NEWID="7900">
+<DATE>20-MAR-1987 14:09:22.68</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2008&#31;reute
+r f BC-SHARPER-IMAGE-CORP-SE   03-20 0097</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SHARPER IMAGE CORP SETS STOCK OFFERING</TITLE>
+<DATELINE>      SAN FRANCISCO, March 20 - </DATELINE><BODY>Sharper Image Corp said it
+registered with the Securities and Exchange Commission to offer
+1,445,000 shares of its common stock.
+    The offering would be comprised of 1.2 mln shares of newly
+issued stock and 245,000 shares offered by certain selling
+shareholders.
+    Net proceeds would be used to finance the opening of new
+stores and for working capital.
+    The offering is scheduled for April and would be
+underwritten by a group managed by L.F. Rothschild, Unterberg,
+Towbin Inc and Dean Witter Reynolds Inc.
+ Reuter
+&#3;</BODY></TEXT>

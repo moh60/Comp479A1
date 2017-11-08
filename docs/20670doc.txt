@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="21265" NEWID="20670">
+<DATE>20-OCT-1987 15:49:07.03</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f3051&#31;reute
+d f BC-EASTEK-CORP-&lt;ESTK.O>   10-20 0054</UNKNOWN>
+<TEXT>&#2;
+<TITLE>EASTEK CORP &lt;ESTK.O> 1ST QTR SEPT 30 LOSS</TITLE>
+<DATELINE>    PINE BROOK, N.J., Oct 20 -
+    </DATELINE><BODY>Shr loss 24 cts vs loss four cts
+    Net loss 874,986 vs loss 56,182
+    Revs 402,855 vs not available
+    NOTE: The company made its initial offering in March 1987
+and before then had been a development stage company so no
+sales were posted in 1986.
+ Reuter
+&#3;</BODY></TEXT>

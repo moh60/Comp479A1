@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11228" NEWID="6315">
+<DATE>17-MAR-1987 17:10:57.66</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f6654&#31;reute
+d f BC-LENNAR-&lt;LEN>-COMPLETE   03-17 0071</UNKNOWN>
+<TEXT>&#2;
+<TITLE>LENNAR &lt;LEN> COMPLETES ACQUISITION</TITLE>
+<DATELINE>    MIAMI, March 17 - </DATELINE><BODY>Lennar Corp said it completed the
+previously announced acquisition of Development Corp of America
+&lt;DCA>.
+    Consequently, it said the American Stock Exchange suspended
+trading of Development Corp's common stock, 10 pct subordinated
+debentures due 1993 and 12 pct subordinated debentures due
+1994.
+    Lennar said the debentures will continue to be traded
+over-the-counter.
+ Reuter
+&#3;</BODY></TEXT>

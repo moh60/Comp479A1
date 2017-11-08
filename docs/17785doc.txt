@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6123" NEWID="17785">
+<DATE> 1-JUN-1987 16:16:57.46</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2383&#31;reute
+u f BC-BUCKEYE   06-01 0088</UNKNOWN>
+<TEXT>&#2;
+<TITLE>REPUBLIC AMERICAN&lt;RAWC.O> UPS BUCKEYE&lt;BPL> STAKE</TITLE>
+<DATELINE>    WASHINGTON, June 1 - </DATELINE><BODY>Republic American Corp told the
+Securities and Exchange Commission it raised its stake in
+Buckeye Partners L.P. to 963,200 limited partnership units, or
+8.0 pct of the total, from 744,200 units, or 6.2 pct.
+    Republic, which is controlled by Cincinnati, Ohio,
+financier Carl Lindner and his American Financial Corp, said it
+bought 219,000 Buckeye units between May 14 and 22 at prices
+ranging from 22.49 to 23.02 dlrs each, or about 5.0 mln dlrs
+total.
+ Reuter
+&#3;</BODY></TEXT>

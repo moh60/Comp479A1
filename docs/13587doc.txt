@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="BYPASS" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="2570" NEWID="13587">
+<DATE> 7-APR-1987 08:02:04.71</DATE>
+<TOPICS></TOPICS>
+<PLACES></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;L
+&#22;&#22;&#1;f0516&#31;reute
+u f BC-ST-PAUL-HOGS-SEEN-STE   04-07 0036</UNKNOWN>
+<TEXT>&#2;
+<TITLE>ST PAUL HOGS SEEN STEADY - PRIVATE SOURCES</TITLE>
+<DATELINE>    St Paul, April 7 - Clear/43 degrees - </DATELINE><BODY>Hog prices are
+expected steady on estimated receipts of 2,800 head, private
+sources said. Top seen at 50.00 to 50.50 dlrs per cwt.
+
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13302" NEWID="7781">
+<DATE>20-MAR-1987 11:54:59.83</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>nasdaq</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1456&#31;reute
+h f BC-COMMERCE-GROUP-&lt;CGCO>   03-20 0084</UNKNOWN>
+<TEXT>&#2;
+<TITLE>COMMERCE GROUP &lt;CGCO> TO START TRADE ON NASDAQ</TITLE>
+<DATELINE>    MILWAUKEE, WIS., March 20 - </DATELINE><BODY>Commerce Group Corp said its
+common stock will begin trading March 23 on NASDAQ under the
+symbol "CGCO."
+    The company is doing preliminary work necessary to the
+actual extraction of gold from the San Sebastian Gold Mine in
+El Salvador, Central America.
+    Commerce said it and San Sebastian Gold Mines Inc have
+concession rights from the government of El Salvador to mine
+and extract gold from the San Sebastian Gold Mine.
+ Reuter
+&#3;</BODY></TEXT>

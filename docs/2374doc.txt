@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18791" NEWID="2374">
+<DATE> 5-MAR-1987 14:56:28.16</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0476&#31;reute
+d f BC-MOULINEX-STAKE-SOLD-T   03-05 0097</UNKNOWN>
+<TEXT>&#2;
+<TITLE>MOULINEX STAKE SOLD TO SOME 50 INSTITUTIONS</TITLE>
+<DATELINE>    LONDON, March 5 - </DATELINE><BODY>The 20 pct stake in Moulinex SA &lt;MOUP.PA>
+sold by &lt;Scovill Inc> of the U.S. Was spread among at least 50
+institutional investors worldwide, a spokesman for brokers
+James Capel said. Capel handled the deal.
+    The buyers were based in centers ranging from Europe to
+North America and Japan, he added.
+    Moulinex's capital is split among Jean Mantelet, president
+of the company, with 42 pct, along with private investors
+holding 38 pct and the 20 pct which has just been sold, company
+sources said earlier in Paris.
+ REUTER
+&#3;</BODY></TEXT>

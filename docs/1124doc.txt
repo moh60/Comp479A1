@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="16444" NEWID="1124">
+<DATE> 3-MAR-1987 11:44:14.11</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F
+&#22;&#22;&#1;f0871&#31;reute
+b f BC-(ROYAL-BANK-OF-CANADA   03-03 0034</UNKNOWN>
+<TEXT>&#2;
+<TITLE>&lt;ROYAL BANK OF CANADA> 1ST QTR JAN 31 NET</TITLE>
+<DATELINE>    MONTREAL, March 3 -
+    </DATELINE><BODY>Shr basic 88 cts vs 1.22 dlrs
+    Shr diluted 83 cts vs 1.10 dlrs
+    Net 114,108,000 vs 140,389,000
+    Avg shrs 107.5 mln vs 100.5 mln
+    Loans 66.4 billion vs 65.9 billion
+    Deposits 82.8 billion vs 84.4 billion
+    Assets 98.7 billion vs 96.7 billion.
+ Reuter
+&#3;</BODY></TEXT>

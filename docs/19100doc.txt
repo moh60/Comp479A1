@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6936" NEWID="19100">
+<DATE>19-JUN-1987 08:24:38.67</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f0621&#31;reute
+r f BC-CABLEVISION-&lt;CVC>-DEA   06-19 0097</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CABLEVISION &lt;CVC> DEAL VALUED AT 56.2 MLN DLRS</TITLE>
+<DATELINE>    WOODBURY, N.Y., June 19 - </DATELINE><BODY>Cablevision Systems Corp said its
+agreement to buy from CBS Inc &lt;CBS> and the Washington Post Co
+their partnership interests in four regional sports services
+will have a value of about 56.2 mln dlrs.
+    It said the sports services, managed by Rainbow Program
+Enterprises, is expected to close by the end of the year.
+    The services include SportsChanel Associates (New York),
+SportsChannel PRISM Associates (Philadelphia), SportsChannel
+Chicago Associates and SportsChannel New England Limited
+Partnership.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10015" NEWID="5102">
+<DATE>13-MAR-1987 17:26:27.18</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E
+&#22;&#22;&#1;f0607&#31;reute
+r f BC-southam-unit-acquires   03-13 0080</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SOUTHAM UNIT ACQUIRES WINNIPEG COMMUNITY PAPERS</TITLE>
+<DATELINE>    TORONTO, March 13 - </DATELINE><BODY>&lt;Southam Inc> said its Flyer Force unit
+acquired three community newspapers in Winnipeg with a combined
+circulation of 65,000 for undisclosed terms.
+    Southam said the newspapers, The Herald, The Lance and
+Metro One, will be printed at its Canadian Publishers division
+in Winnipeg.
+    Flyer Force intends to expand distribution of the
+newspapers to begin improved service to the Winnipeg market,
+Southam said.
+ Reuter
+&#3;</BODY></TEXT>

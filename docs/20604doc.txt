@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="21199" NEWID="20604">
+<DATE>20-OCT-1987 15:01:47.67</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2834&#31;reute
+d f BC-NORTECK-&lt;NTK>-UNIT-PO   10-20 0065</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NORTECK &lt;NTK> UNIT POSTPONES INITIAL OFFERING</TITLE>
+<DATELINE>    PROVIDENCE, R.I., Oct 20 - </DATELINE><BODY>Nortek Inc said its Dixieline
+Products Inc subsidiary has postponed its planned initial
+offering of 1.6 mln shares of class A common stock
+    Nortek cited adverse and volatile market conditions as the
+reason for the decision.
+    Nortek said it may reconsider the offering when faovrable
+market conditions return.
+ Reuter
+&#3;</BODY></TEXT>

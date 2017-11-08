@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18887" NEWID="2469">
+<DATE> 5-MAR-1987 16:35:08.10</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0827&#31;reute
+h f BC-HUNT-BUILDING-CORP-GE   03-05 0050</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HUNT BUILDING CORP GETS NAVY CONTRACT</TITLE>
+<DATELINE>    WASHINGTON, March 5 - </DATELINE><BODY>Hunt Building Corp of El Paso, Texas,
+has received a 31.7 mln dlr contract for construction of 492
+family housing units and a 75-space mobile home park at the
+Marine  Corps combat training center at Camp Pendleton, Calif.,
+the Navy said.
+ REUTER
+&#3;</BODY></TEXT>

@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="358" NEWID="12130">
+<DATE> 1-APR-1987 13:11:09.44</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES><D>amex</D><D>nasdaq</D></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1824&#31;reute
+r f BC-EHRLICH-BOBER-&lt;EB>-ST   04-01 0037</UNKNOWN>
+<TEXT>&#2;
+<TITLE>EHRLICH BOBER &lt;EB> STARTS TRADING ON AMEX</TITLE>
+<DATELINE>    NEW YORK, April 1 - </DATELINE><BODY>Ehrlich Bober Financial Corp said its
+common stock has started trading on the &lt;American Stock
+Exchange>.
+    The stock had been traded on the NASDAQ system.
+ Reuter
+&#3;</BODY></TEXT>

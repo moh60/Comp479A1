@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14412" NEWID="8891">
+<DATE>24-MAR-1987 13:12:40.49</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1862&#31;reute
+d f BC-PLENUM-&lt;PLEN>-REINCOR   03-24 0050</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PLENUM &lt;PLEN> REINCORPORATES IN DELAWARE</TITLE>
+<DATELINE>    NEW YORK, March 24 - </DATELINE><BODY>Plenum Publishing Corp said it has
+reincorporated in Delaware following shareholder approval
+yesterday.
+    It said in copnnection with the change -- it had been
+incorporated in New York -- a five-for-two stock split has gone
+into effect.
+ Reuter
+&#3;</BODY></TEXT>

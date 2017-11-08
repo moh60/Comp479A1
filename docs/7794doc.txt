@@ -1,0 +1,31 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13315" NEWID="7794">
+<DATE>20-MAR-1987 12:10:57.89</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>chad</D><D>libya</D><D>france</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;V
+&#22;&#22;&#1;f1538&#31;reute
+u f AM-CHAD-CLASH ***URGENT  03-20 0138</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CHAD SAYS IT KILLED 384 LIBYANS IN BATTLE</TITLE>
+<DATELINE>    PARIS, March 20 - </DATELINE><BODY>Chadian troops killed 384 Libyans and
+captured 48 in fighting near the key Libyan air base of Ouadi
+Doum in northern Chad, a Chadian government statement said.
+    The statement issued by Chad's Paris embassy said
+government troops had "completely annihilated" a Libyan column
+yesterday some 45 km (28 miles) from the Libyan base.
+    It was the highest number of Libyan casualties reported
+since January 2, when Chadian troops overran an important
+garrison at the oasis of Fada with the loss of more than 700
+Libyan troops.
+    Ouadi Doumi, central northern Chad, is the site of Libya's
+main airfield in the country and several clashes have been
+reported over the past week in the surrounding desert between
+troops loyal to President Hissene Habre and Libyan forces.
+ Reuter
+&#3;</BODY></TEXT>

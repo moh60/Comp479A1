@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20543" NEWID="20894">
+<DATE>19-OCT-1987 17:51:26.40</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f3306&#31;reute
+d f BC-SUN-STATE-SAVINGS-&lt;SS   10-19 0072</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SUN STATE SAVINGS &lt;SSSL.O> 3RD QTR NET</TITLE>
+<DATELINE>    PHOENIX, Ariz., Oct 19 -
+    </DATELINE><BODY>Shr 28 cts vs 46 cts
+    Net 1,634,000 vs 2,007,000
+    Avg shrs 5,850,000 vs 4,400,000
+    Nine Mths
+    Shr 82 cts vs 1.77 dlrs
+    Net 4,788,000 vs 7,792,000
+    Avg shrs 5,850,000 vs 4,400,000
+    Loans 586.9 mln vs 481.5 mln
+    Deposits 697.4 mln vs 606.2 mln
+    Assets 797.2 mln vs 683.4 mln
+    Note: Full name Sun State Savings and Loan Association.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18229" NEWID="1812">
+<DATE> 4-MAR-1987 16:30:42.64</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0785&#31;reute
+d f BC-YUGO-FEBRUARY-CAR-SAL   03-04 0068</UNKNOWN>
+<TEXT>&#2;
+<TITLE>YUGO FEBRUARY CAR SALES BREAK RECORD</TITLE>
+<DATELINE>    UPPER SADDLE RIVER, N.J., March 4 - </DATELINE><BODY>&lt;Yugo America Inc>, a
+unit of &lt;Yugo NV>, said it sold 5,059 cars in February, the
+first month in which sales topped 5,000.
+    Yugo said the February's sales were 21.2 pct higher than
+sales in January and 191.4 pct above the 1,736 cars sold in the
+same month last year.
+    Yugo said it has sold a total of 9,233 cars so far in 1987.
+ Reuter
+&#3;</BODY></TEXT>

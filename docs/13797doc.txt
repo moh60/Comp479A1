@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="2780" NEWID="13797">
+<DATE> 7-APR-1987 09:55:22.80</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0853&#31;reute
+r f BC-TWISTEE-TREAT-&lt;TWST>   04-07 0093</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TWISTEE TREAT &lt;TWST> SETS STORE DEVELOPMENT</TITLE>
+<DATELINE>    NORTH FORT MYERS, Fla., April 7 - </DATELINE><BODY>Twistee Treat Corp said
+it has signed letters of intent for four investor group to
+develop a total of 585 additional Twistee Treat Ice Cream
+Stores in western New York, California, North Carolina, South
+Carolina and Texas.
+    The company said the agreements call for the opening of at
+least 83 locations in the next 12 months and completion of
+remaining stores by 1989.
+    It said it expects area development fee income of over two
+mln dlrs in cash over the next three years.
+ Reuter
+&#3;</BODY></TEXT>

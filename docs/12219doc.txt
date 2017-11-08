@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="447" NEWID="12219">
+<DATE> 1-APR-1987 14:45:32.10</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2136&#31;reute
+r f BC-STRYKER-&lt;STRY>-ACQUIR   04-01 0052</UNKNOWN>
+<TEXT>&#2;
+<TITLE>STRYKER &lt;STRY> ACQUIRES HEXCEL &lt;HXL> UNIT</TITLE>
+<DATELINE>    KALAMAZOO, Mich., April 1 - </DATELINE><BODY>Stryker Corp said it acquired
+Hexcel Medical Corp, a wholly owned subsidiary of Hexcel Corp.
+    The terms of the transaction were not disclosed.
+    The sale completes Hexcel's plan to sell all its medical
+products businesses, Hexcel said.
+ Reuter
+&#3;</BODY></TEXT>

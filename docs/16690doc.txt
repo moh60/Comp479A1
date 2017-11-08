@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1225" NEWID="16690">
+<DATE>13-APR-1987 16:51:49.77</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2624&#31;reute
+r f BC-HARMON-INDUSTRIES-&lt;HR   04-13 0069</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HARMON INDUSTRIES &lt;HRMN.O> IN PACT WITH AMTRAK</TITLE>
+<DATELINE>    KANSAS CITY, Mo., April 13 - </DATELINE><BODY>Harmon Industries said it
+signed a contract worth more than three mln dlrs with the
+National Railroad Passenger Corp (Amtrak).
+    Harmon Industries said the contract includes the design,
+engineering, manufacturing, delivery and system integration for
+signalling equipment along Amtrak's 55-mile Philadelphia to
+Atlantic City, N.J., line.
+ Reuter
+&#3;</BODY></TEXT>

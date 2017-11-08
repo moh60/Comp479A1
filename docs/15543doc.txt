@@ -1,0 +1,31 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4721" NEWID="15543">
+<DATE> 9-APR-1987 10:03:09.95</DATE>
+<TOPICS><D>bop</D></TOPICS>
+<PLACES><D>sri-lanka</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS><D>worldbank</D></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0959&#31;reute
+r f BC-WORLD-BANK-TO-SUPPORT   04-09 0080</UNKNOWN>
+<TEXT>&#2;
+<TITLE>WORLD BANK TO SUPPORT SRI LANKA IF DEFICITS CUT</TITLE>
+<DATELINE>    COLOMBO, April 9 - </DATELINE><BODY>The World Bank will support Sri Lanka's
+development program provided the country reduces its budget and
+current account deficits, the Ministry of Finance said.
+    It said Bank President Barber Conable at a meeting with Sri
+Lanka's Finance Minister Ronnie de Mel in Washington also
+emphasised the need for structural adjustment and reform to the
+economy, battered by five years of separatist disturbances.
+    Officials said Sri Lanka's budget deficit this year is
+expected to surpass the projected 28.7 billion rupees while
+defence spending, already up by two billion rupees from a
+targetted 10 billion, is also likely grow.
+    The Ministry said de Mel asked the World Bank to give Sri
+Lanka 6.5 billion rupees balance of payments support.
+ REUTER
+&#3;</BODY></TEXT>

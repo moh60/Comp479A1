@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6375" NEWID="18623">
+<DATE>18-JUN-1987 09:07:42.69</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2942&#31;reute
+s f BC-IPCO-CORP-&lt;IHS>-IN-PA   06-18 0031</UNKNOWN>
+<TEXT>&#2;
+<TITLE>IPCO CORP &lt;IHS> IN PAYOUT</TITLE>
+<DATELINE>    WHITE PLAINS, N.Y., June 18 -
+    </DATELINE><BODY>Qtly div nine cts vs nine cts prior
+    Pay July 31
+    Record July Nine
+                                                 
+ Reuter
+&#3;</BODY></TEXT>

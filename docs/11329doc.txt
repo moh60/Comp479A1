@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17391" NEWID="11329">
+<DATE>31-MAR-1987 10:04:10.90</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1112&#31;reute
+r f BC-INVESTORS-SAVINGS-&lt;IS   03-31 0072</UNKNOWN>
+<TEXT>&#2;
+<TITLE>INVESTORS SAVINGS &lt;ISLA> TO REDEEM PREFERRED</TITLE>
+<DATELINE>    RICHMOND, Va., March 31 - </DATELINE><BODY>Investors Savings Bank said it
+will redeem on May 8 its 95 ct Series A cumulative convertible
+preferred stock at 10.72 dlrs plus accrued interst of 10 cts
+per share.
+    The company said each share may be converted instead into
+1.333 common shares through May 1.  Investors have outstanding
+1,166,857 preferred shares convertible into 1,555,420 common
+shares.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="715" NEWID="16180">
+<DATE>13-APR-1987 07:22:06.86</DATE>
+<TOPICS><D>money-fx</D><D>interest</D></TOPICS>
+<PLACES><D>bahrain</D><D>saudi-arabia</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0518&#31;reute
+r f BC-YIELD-ON-91-DAY-SAMA   04-13 0086</UNKNOWN>
+<TEXT>&#2;
+<TITLE>YIELD ON 91-DAY SAMA DEPOSITS RISES</TITLE>
+<DATELINE>    BAHRAIN, April 13 - </DATELINE><BODY>The yield on 91-day bankers security
+deposit accounts issued this week by the Saudi Arabian Monetary
+Agency (SAMA) rose to 6.43896 pct from 6.21563 a week ago,
+bankers said.
+    SAMA lowered the offer price on the 500 mln riyal issue to
+98.39844 from 98.45313 last Monday. Like-dated interbank
+deposits were quoted today at 6-3/4, 5/8 pct.
+    SAMA offers a total of 1.9 billion riyals in 30, 91 and
+180-day accounts to banks in the Kingdom each week.
+ REUTER
+&#3;</BODY></TEXT>

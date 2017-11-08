@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="19917" NEWID="21519">
+<DATE>19-OCT-1987 06:58:33.34</DATE>
+<TOPICS><D>bop</D></TOPICS>
+<PLACES><D>norway</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM 
+&#22;&#22;&#1;f0512&#31;reute
+u f BC-NORWAY'S-CURRENT-ACCO   10-19 0071</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NORWAY'S CURRENT ACCOUNT IN DEFICIT</TITLE>
+<DATELINE>    OSLO, Oct 19 - </DATELINE><BODY>Norway's current account showed a 9.9
+billion crown deficit for the first seven months of 1987,
+against a 19.7 billion crown deficit for the same year-ago
+period, the Central Bureau of Statistics said.
+    North Sea oil and gas revenues rose 3.4 pct to 32.6 billion
+crowns in the January to July period compared with 31.5 billion
+in the first seven months of 1986. REUTER
+&#3;</BODY></TEXT>

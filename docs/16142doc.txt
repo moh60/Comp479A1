@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="677" NEWID="16142">
+<DATE>13-APR-1987 05:27:42.94</DATE>
+<TOPICS><D>ipi</D></TOPICS>
+<PLACES><D>sweden</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;RM
+&#22;&#22;&#1;f0304&#31;reute
+r f BC-SWEDISH-INDUSTRIAL-PR   04-13 0081</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SWEDISH INDUSTRIAL PRODUCTION RISES SHARPLY</TITLE>
+<DATELINE>    STOCKHOLM, April 13 - </DATELINE><BODY>Swedish industrial production rose
+2.6 pct in February, after a 1.8 pct fall in January, showing a
+4.4 pct rise over February 1986 and reaching its highest level
+ever, the Central Bureau of Statistics said.
+    The rise reflected recovery in almost all sectors after an
+exceptionally cold spell in January, the Bureau said, adding
+that the highest rises were seen in the forest, chemical and
+metal industries.
+ REUTER
+&#3;</BODY></TEXT>

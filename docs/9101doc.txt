@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14622" NEWID="9101">
+<DATE>24-MAR-1987 18:43:53.98</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2791&#31;reute
+w f BC-COMPUTER-IDENTICS-COR   03-24 0074</UNKNOWN>
+<TEXT>&#2;
+<TITLE>COMPUTER IDENTICS CORP &lt;CIDN> 4TH QTR</TITLE>
+<DATELINE>    CANTON, Mass, March 24 -
+    </DATELINE><BODY>Shr loss 44 cts vs loss 20 cts
+    Net loss 2.4 mln vs loss 880,000
+    Revs 2.4 mln vs 2.6 mln
+    Year
+    Shr loss 87 cts vs loss 11 cts
+    Net loss 4.3 mln vs loss 494,000
+    Revs 9.0 mln vs 12.0 mln
+    NOTE:1986 includes restructuring charges of 2.1 mln dlrs
+and loss of foreign affiliates of 2.0 mln dlrs. 1985 includes
+loss from foreign affiliates of 173,000 dlrs.
+ Reuter
+&#3;</BODY></TEXT>

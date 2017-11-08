@@ -1,0 +1,20 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="3465" NEWID="14482">
+<DATE> 7-APR-1987 15:27:11.34</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2224&#31;reute
+u f BC-WASTE-MANAGEMENT-&lt;WMT   04-07 0037</UNKNOWN>
+<TEXT>&#2;
+<TITLE>WASTE MANAGEMENT &lt;WMT> CANNOT ACCOUNT FOR DROP</TITLE>
+<DATELINE>    CHICAGO, April 7 - </DATELINE><BODY>Waste Management Inc said in response to
+a Reuters inquiry that it knew of no reason to account for the
+decline in its stock, trading at 74-1/4, off 2-5/8.
+ Reuter
+&#3;</BODY></TEXT>

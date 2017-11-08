@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14720" NEWID="9199">
+<DATE>25-MAR-1987 06:37:40.26</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>sweden</D><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0424&#31;reute
+u f BC-BROCKWAY-AIR-TO-BUY-F   03-25 0088</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BROCKWAY AIR TO BUY FIVE SAAB PLANES</TITLE>
+<DATELINE>     STOCKHOLM, Mar 25 - </DATELINE><BODY>The U.S. Airline Brockway Air, a
+subsidiary of &lt;Brockway Inc>, has signed an agreement with
+Saab-Scania AB &lt;SABS ST> to buy five 34-seater Saab SF340
+aircraft for an undisclosed price, with an option on a further
+five, Saab said.
+     All five will be delivered to the Burlington,
+Vermont-based airline this year for use on Brockway's 22-city
+service system.
+    Saab said it now had 103 firm orders for the regional
+SF340, 80 of which had already been delivered.
+ REUTER
+&#3;</BODY></TEXT>

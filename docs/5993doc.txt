@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10905" NEWID="5993">
+<DATE>17-MAR-1987 10:56:26.12</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F
+&#22;&#22;&#1;f5252&#31;reute
+r f BC-amertek-inc   03-17 0054</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AMERTEK INC &lt;ATEKF> YEAR NET</TITLE>
+<DATELINE>    WOODSTOCK, Ontario, March 17 -
+    </DATELINE><BODY>Oper shr 15 cts vs eight cts
+    Oper net 517,333 vs 276,240
+    Revs 22.4 mln vs 14.0 mln
+    Note: 1986 shr and net exclude extraordinary gain of
+1,333,760 dlrs or 40 cts share. 1985 shr and net exclude
+extraordinary gain of 294,859 dlrs or 10 cts share
+ Reuter
+&#3;</BODY></TEXT>

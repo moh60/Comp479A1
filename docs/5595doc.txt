@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10508" NEWID="5595">
+<DATE>16-MAR-1987 14:19:09.72</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f3247&#31;reute
+h f BC-PRECISION-TARGET-MARK   03-16 0075</UNKNOWN>
+<TEXT>&#2;
+<TITLE>PRECISION TARGET MARKETING &lt;PTMI> 3RD QTR NET</TITLE>
+<DATELINE>    NEW HYDE PARK, N.Y., March 16 - </DATELINE><BODY>Qtr ends Jan 31
+    Shr profit one ct vs loss two cts
+    Net profit 74,000 vs loss 122,000
+    Revs 1,657,000 vs 1,416,000
+    Nine mths
+    Shr profit five cts vs loss 10 cts
+    Net profit 299,000 vs loss 624,000
+    Revs 5,134,000 vs 3,744,000
+    NOTE: Full name Precision Target Marketing Inc.
+    Nine months 1987 includes extraordinary gain of two cts per
+share.
+ Reuter
+&#3;</BODY></TEXT>

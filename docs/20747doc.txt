@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="21342" NEWID="20747">
+<DATE>20-OCT-1987 16:49:49.78</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f3246&#31;reute
+r f BC-FARM-FRESH-INC-&lt;FFSH.   10-20 0042</UNKNOWN>
+<TEXT>&#2;
+<TITLE>FARM FRESH INC &lt;FFSH.O> 3RD QTR NET</TITLE>
+<DATELINE>    NORFOLK, Va., Oct 20 -
+    </DATELINE><BODY>Shr one cts vs 20 cts
+    Net 122,556 vs 2,627,205
+    Revs 192.2 mln vs 193.3 mln
+    Nine mths
+    Shr 27 cts vs 56 cts
+    Net 3,556,424 vs 7,531,664
+    Revs 560.6 mln vs 542.3 mln
+ Reuter
+&#3;</BODY></TEXT>

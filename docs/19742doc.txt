@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="8070" NEWID="19742">
+<DATE>29-JUN-1987 12:46:17.26</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1777&#31;reute
+u f BC-RITE-AID-CORP-&lt;RAD>-1   06-29 0046</UNKNOWN>
+<TEXT>&#2;
+<TITLE>RITE AID CORP &lt;RAD> 1ST QTR MAY 30</TITLE>
+<DATELINE>    HARRISBURGH, Pa., June 29 -
+    </DATELINE><BODY>Oper shr 50 cts vs 40 cts
+    Oper net 20.8 mln vs 16.4 mln
+    Revs 531.7 mln vs 418.7 mln
+    NOTE: 1987 1st quarter net excludes a gain of 47.1 mln dlrs
+or 1.14 dlrs a share for discontinued operations.
+ Reuter
+&#3;</BODY></TEXT>

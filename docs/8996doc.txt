@@ -1,0 +1,21 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14517" NEWID="8996">
+<DATE>24-MAR-1987 15:53:47.96</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2389&#31;reute
+r f BC-SUNDOR-GROUP-BUYS-DWG   03-24 0037</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SUNDOR GROUP BUYS DWG &lt;DWG> UNIT'S ASSETS</TITLE>
+<DATELINE>    DARIEN, Conn., March 24 - </DATELINE><BODY>&lt;Sundor Group Inc> said it
+purchased DWG Corp's Texun Inc's line of regional juice
+products.
+    The purchase terms were not disclosed, the company said.
+ Reuter
+&#3;</BODY></TEXT>

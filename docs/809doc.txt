@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="12992" NEWID="809">
+<DATE> 2-MAR-1987 17:07:36.77</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0165&#31;reute
+r f BC-TURNER-CORP-&lt;TUR>-UNI   03-02 0086</UNKNOWN>
+<TEXT>&#2;
+<TITLE>TURNER CORP &lt;TUR> UNIT BUILDS HOSPITAL ADDITION</TITLE>
+<DATELINE>    FONTANA, Calif., March 2 - </DATELINE><BODY>The Turner Corp's construction
+company New York said its Orange County office has begun
+building a 23 mln dlr addition to Kaiser Permanente Medical
+Center.
+    The five-story, 197,000 square foot adition will be used
+primarily as an outpatient treatment clinic, it said.
+    Developer for the project is Kaiser Foundation Hospitals in
+Pasadena, Calif., the company said.
+    The completion date is October 1988, according to the
+company.
+ Reuter
+&#3;</BODY></TEXT>

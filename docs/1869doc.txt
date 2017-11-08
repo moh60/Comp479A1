@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="18287" NEWID="1869">
+<DATE> 4-MAR-1987 18:07:38.39</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0025&#31;reute
+d f BC-NBI-&lt;NBI>-INTRODUCES   03-04 0081</UNKNOWN>
+<TEXT>&#2;
+<TITLE>NBI &lt;NBI> INTRODUCES NEW PRODUCTS</TITLE>
+<DATELINE>    CHICAGO, Ill, March 4 - </DATELINE><BODY>NBI inc said it has reduced prices
+of on its 5000 series publishing workstations by 30 pct and has
+introduced a new electronic publishing workstation, a
+mini-computer and an image scanner at the Corporate Electronic
+PUblishing Systems Show.
+    All of NBI's 5000 Series are included in the new pricing
+including the Integrated workstation formerly priced at 14,490
+dlrs and the pro publisher formerly priced at 15,490 dlrs.
+  
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,22 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13814" NEWID="8293">
+<DATE>23-MAR-1987 10:51:43.40</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1186&#31;reute
+d f BC-IC-INDS-&lt;ICX>-TO-SELL   03-23 0056</UNKNOWN>
+<TEXT>&#2;
+<TITLE>IC INDS &lt;ICX> TO SELL CERTAIN ASSETS TO MLX </TITLE>
+<DATELINE>    CHICAGO, March 23 - </DATELINE><BODY>IC Industries Inc said its Abex Corp
+subsidiary agreed to sell its sintered friction materials
+business in Italy to Troy, Michigan-based MLX Corp, for
+undisclosed terms.  Completion of the proposed transaction is
+subject to approval by the Italian government, it said.
+ Reuter
+&#3;</BODY></TEXT>

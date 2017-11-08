@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="13941" NEWID="8420">
+<DATE>23-MAR-1987 13:53:24.92</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f1935&#31;reute
+r f BC-CENTERIOR-ENERGY-&lt;CX>   03-23 0068</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CENTERIOR ENERGY &lt;CX> SEES LOWER SPENDING</TITLE>
+<DATELINE>    CLEVELAND, March 23 - </DATELINE><BODY>Centerior Energy Corp said its
+construction spending "peaked" in 1986 at 1.1 billion dlrs,
+and annual expenses are expected to be substantially lower over
+the next several years.
+    Last year, the company placed in operation Perry Nuclear
+Unit One. In December, its Davis-Beebe Nuclear Power Station
+resumed operations after an 18-month outage.
+ Reuter
+&#3;</BODY></TEXT>

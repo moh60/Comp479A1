@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="4691" NEWID="15513">
+<DATE> 9-APR-1987 09:28:52.85</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;E F
+&#22;&#22;&#1;f0818&#31;reute
+r f BC-derlan-industries-pla   04-09 0071</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DERLAN INDUSTRIES PLANS PRIVATE PLACEMENT</TITLE>
+<DATELINE>    Toronto, April 9 - </DATELINE><BODY>&lt;Derlan Industries Ltd> said it plans to
+issue 2.1 mln common shares in a private placement at a price
+of 14 dlrs per share for gross proceeds of 29.4 mln dlrs.
+    The issue will be placed by McLeod Young Weir Ltd and
+Loewen, Ondaatje, McCutcheon and Co Ltd.
+    Proceeds will be used by the company to continue its
+acquisition program and for internal expansion.
+ Reuter
+&#3;</BODY></TEXT>

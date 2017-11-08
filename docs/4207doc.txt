@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="9120" NEWID="4207">
+<DATE>12-MAR-1987 09:49:17.31</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;E F
+&#22;&#22;&#1;f0019&#31;reute
+d f BC-STAN-WEST-&lt;SWMC>-SEEK   03-12 0074</UNKNOWN>
+<TEXT>&#2;
+<TITLE>STAN WEST &lt;SWMC> SEEKS CONSTRUCTION FINANCING</TITLE>
+<DATELINE>    SCOTTSDALE, Ariz., March 12 - </DATELINE><BODY>Stan West Mining Corp said it
+engaged an investment banking firm to act as financial adviser
+in arranging a construction financing package for McCabe mine.
+    The company said it intends proceeds of the financing
+package would be utilized to construct a 500 ton per day mil,
+complete the underground construction necessary to start mining
+and provide working capital.
+ Reuter
+&#3;</BODY></TEXT>

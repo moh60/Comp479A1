@@ -1,0 +1,23 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="14073" NEWID="8552">
+<DATE>23-MAR-1987 17:36:04.80</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE><D>volcker</D></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F E
+&#22;&#22;&#1;f2563&#31;reute
+r f BC-VOLCKER-ASSISTANT-JOI   03-23 0056</UNKNOWN>
+<TEXT>&#2;
+<TITLE>VOLCKER ASSISTANT JOINS PEAT MARWICK</TITLE>
+<DATELINE>    WASHINGTON, March 23 - </DATELINE><BODY>Steven Roberts, assistant to Federal
+Reserve Board Chairman Paul Volcker, has joined the firm of
+Peat Marwick Mitchell and Co, the company said.
+    Roberts, 42, will be in charge of the firm's institutional
+regulatory consulting capability, and will be based in
+Washington.
+ REUTER
+&#3;</BODY></TEXT>

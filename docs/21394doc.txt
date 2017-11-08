@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="20042" NEWID="21394">
+<DATE>19-OCT-1987 10:30:01.20</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f1267&#31;reute
+r f BC-OREGON-STEEL-BUYS-KAI   10-19 0086</UNKNOWN>
+<TEXT>&#2;
+<TITLE>OREGON STEEL BUYS KAISER'S NAPA VALLEY PLANT</TITLE>
+<DATELINE>    PORTLAND, Ore., Oct 19 - </DATELINE><BODY>&lt;Kaiser Steel Corp>'s plant in
+Napa, Calif., has been purchased by Oregon Steel Mills for 16
+mln dlrs, the privately owned Portland company said.
+    The transaction was approved by the U.S. bankruptcy judge
+in Denver who is hearing Kaiser Steel's Chapter 11
+reorganization case.
+    James Mccaughey, former vice president of sales for Kaiser,
+has been named general manager for the plant which will be
+called Napa Pipe Corp, Oregon Steel said.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,29 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1459" NEWID="16924">
+<DATE>17-APR-1987 17:11:14.29</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D><D>japan</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;V RM
+&#22;&#22;&#1;f0448&#31;reute
+u f BC-/JAPAN-SAYS-IT-IS-DIS   04-17 0108</UNKNOWN>
+<TEXT>&#2;
+<TITLE>JAPAN SAYS IT IS DISAPPOINTED WITH TARIFFS</TITLE>
+<DATELINE>    WASHINGTON, April 17 - </DATELINE><BODY>The Japanese Embassy said in a
+statement it was "deeply disappointed" by the tariffs announced
+by President Reagan in retaliation for Japan's not honoring its
+semiconductor agreement with the United States.
+    It said Japan had been fully implementing the pact to end
+dumping semiconductors in world markets and to open its home
+market to U.S. goods and the results were starting to show.
+    The embassy said Japan would complain to the General
+Agreement on Tariffs and Trade, as it said it would, and seek
+new talks with Washington to resolve the issue as soon as
+possible.
+ Reuter
+&#3;</BODY></TEXT>

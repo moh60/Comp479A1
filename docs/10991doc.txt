@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="17052" NEWID="10991">
+<DATE>30-MAR-1987 14:12:32.38</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2169&#31;reute
+r f BC-CUMMIN-NAMED-CHAIRMAN   03-30 0100</UNKNOWN>
+<TEXT>&#2;
+<TITLE>CUMMIN NAMED CHAIRMAN OF PHLCORP &lt;PHX></TITLE>
+<DATELINE>    PHILADELPHIA, March 30 - </DATELINE><BODY>PHLCorp said its shareholders
+elected Ian M. Cumming as chairman, succeeding Victor H.
+Palmieri, and Joseph S. Steinberg as president, succeeding
+Peter A. Martosella.
+    PHLCorp, formerly Baldwin-United Corp, said Cumming and
+Steinberg were also elected to the board of directors, as were
+James N. Kimball and Michael T. Lynch.
+    Cumming is chairman of &lt;Lucadia National Corp>, which
+bought a 39 pct stake of Baldwin-United during the bankruptcy
+reorganization that led to the formation of PHLCorp. Steinberg
+is president of Lucadia.
+ Reuter
+&#3;</BODY></TEXT>

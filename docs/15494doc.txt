@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="5392" NEWID="15494">
+<DATE> 9-APR-1987 09:11:38.99</DATE>
+<TOPICS><D>earn</D></TOPICS>
+<PLACES><D>usa</D><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+
+&#5;&#5;&#5;E F
+&#22;&#22;&#1;f0771&#31;reute
+r f BC-thomson   04-09 0070</UNKNOWN>
+<TEXT>&#2;
+<TITLE>INTERNATIONAL THOMSON TO REPORT IN U.S. FUNDS</TITLE>
+<DATELINE>    TORONTO, April 9 - </DATELINE><BODY>&lt;International Thomson Organisation Ltd>
+said it will report financial results in U.S. funds rather than
+sterling, beginning from Jan 1, 1987.
+    It said the change will not be applied retroactively to
+prior financial periods.
+    The company said as a result of recent investments, most of
+its assets now are located in the United States.
+            
+ Reuter
+&#3;</BODY></TEXT>

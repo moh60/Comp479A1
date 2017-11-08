@@ -1,0 +1,25 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="10817" NEWID="5904">
+<DATE>17-MAR-1987 09:19:30.52</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f4882&#31;reute
+d f BC-AIRBORNE-FREIGHT-&lt;ABF   03-17 0078</UNKNOWN>
+<TEXT>&#2;
+<TITLE>AIRBORNE FREIGHT &lt;ABF> GETS IBM &lt;IBM> CONTRACT</TITLE>
+<DATELINE>    SEATTLE, March 17 - </DATELINE><BODY>Airborne Freight Corp said it has
+received a three-year contract to be primary overnight carrier
+for International Business Machines Corp's domestic air express
+traffic.
+    The company had previously shared IBM domestic traffic with
+several other carriers.  It said the contract includes
+overnight and two-day express services for packages 150 pounds
+and under.  Financial details were not disclosed.
+ Reuter
+&#3;</BODY></TEXT>

@@ -1,0 +1,39 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="1114" NEWID="16579">
+<DATE>13-APR-1987 14:32:21.74</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>usa</D><D>switzerland</D><D>uk</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f2195&#31;reute
+r f BC-DONALDSON-LUFKIN-JENR   04-13 0104</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DONALDSON LUFKIN JENRETTE SUED BY SWISS FIRM</TITLE>
+<DATELINE>    NEW YORK, April 13 - </DATELINE><BODY>&lt;Associated Metals and Minerals Corp>
+said its Swiss subsidiary, &lt;Metall und Rohstoff AG>, sued
+&lt;Donaldson Lufkin and Jenrette Inc>, the New York investment
+bank, for 65 mln dlrs.
+    The amount reflects the unsatisfied portion of a judgment
+issued in February by a London court against ACLI Metals
+(London) Ltd, a unit of DLJ, the company said.
+    A London Commercial court found that a DLJ managing
+director and ACLI employees fraudulently misappropriated Metal
+und Rohstoff collateral in 1983 to cover deficits in aluminum
+trading accounts, it said.
+    The court awarded 76 mln dlrs plus costs to Metall und
+Rohstoff, which received about 10 mln dlrs from ACLI.
+    The new lawsuit alleges that DLJ management misappropriated
+collateral and also charges it with breach of trust and abuse
+of the legal process.
+    In addition, Metall und Rohstoff has filed a petition in
+London seeking the compulsory involuntary bankruptcy of ACLI
+London. It is expected that a liquidator will be named shortly,
+Associated said.
+    DLJ is owned by &lt;Equitable Life Assurance Society of the
+U.S.>
+ Reuter
+&#3;</BODY></TEXT>

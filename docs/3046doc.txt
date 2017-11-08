@@ -1,0 +1,24 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="19464" NEWID="3046">
+<DATE> 9-MAR-1987 09:31:21.09</DATE>
+<TOPICS><D>ship</D></TOPICS>
+<PLACES><D>hong-kong</D><D>japan</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F
+&#22;&#22;&#1;f0043&#31;reute
+r f BC-HUTCHISON-UNIT-BUYS-C   03-09 0075</UNKNOWN>
+<TEXT>&#2;
+<TITLE>HUTCHISON UNIT BUYS CONTAINER CRANES FROM JAPAN</TITLE>
+<DATELINE>    HONG KONG, March 9 - </DATELINE><BODY>Container port operator, &lt;Hong Kong
+International Terminals Ltd>, a 89 pct held unit of Hutchison
+Whampoa Ltd &lt;HWHH.HK>, said it has placed a 164 mln H.K. Dlr
+order for seven quayside container cranes of 800 tons each with
+Japan's Mitsui Engineering and Shipbuilding Co Ltd &lt;MSET.T> for
+May 1988 to August 1989 delivery.
+    Hong Kong International Terminals operates 32 cranes.
+ REUTER
+&#3;</BODY></TEXT>

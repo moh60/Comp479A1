@@ -1,0 +1,26 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TRAIN" CGISPLIT="TRAINING-SET" OLDID="11316" NEWID="6403">
+<DATE>18-MAR-1987 07:31:37.66</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>japan</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;A
+&#22;&#22;&#1;f7470&#31;reute
+r f PM-JAPAN-BUDGET   03-18 0093</UNKNOWN>
+<TEXT>&#2;
+<TITLE>BOYCOTT FORCES NAKASONE TO ADOPT STOP-GAP BUDGET</TITLE>
+<DATELINE>    TOKYO, March 18 - </DATELINE><BODY>An on-off parliamentary boycott has
+forced Japanese Prime Minister Yasuhiro Nakasone to adopt a
+provisional budget, government officials said.
+    Economic analysts saw this as another setback in Nakasone's
+plans to overhaul the Japanese tax system.
+    The parliamentary boycott by opposition parties over
+Nakasone's plans for a five per cent sales tax has made it
+impossible for the full 1987-88 budget to be passed by the
+start of the fiscal year on April 1, government officials said.
+ Reuter
+&#3;</BODY></TEXT>

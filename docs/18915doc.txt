@@ -1,0 +1,28 @@
+
+<REUTERS TOPICS="NO" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="6666" NEWID="18915">
+<DATE>18-JUN-1987 14:30:29.06</DATE>
+<TOPICS></TOPICS>
+<PLACES><D>ussr</D><D>canada</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;C G 
+&#22;&#22;&#1;f4239&#31;reute
+d f BC-SOVIET-AGRICULTURE-MI   06-18 0108</UNKNOWN>
+<TEXT>&#2;
+<TITLE>SOVIET AGRICULTURE MINISTER IN WINNIPEG VISIT</TITLE>
+<DATELINE>    WINNIPEG, June 18 - </DATELINE><BODY>Vsevolod Murakhovsky, head of the
+Soviet Agriculture Ministry, observed trading this morning at
+the Winnipeg Commodity Exchange, an exchange spokesman said.
+    Murakhovsky led a delegation of 17 Soviet visitors to the
+exchange as part of a current cross-Canada tour. The party
+included Phylipp Popov, a member of the Supreme Soviet.
+    Murakhovsky is first deputy chairman of the Council of
+Ministers of the USSR and chairman of the Gosagroprom or
+Ministry of Agriculture.
+    The delegation was accompanied by Harold Bjarnason,
+assistant deputy minister, Agriculture Canada.
+ Reuter
+&#3;</BODY></TEXT>

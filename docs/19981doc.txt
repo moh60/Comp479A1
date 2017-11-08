@@ -1,0 +1,27 @@
+
+<REUTERS TOPICS="YES" LEWISSPLIT="TEST" CGISPLIT="TRAINING-SET" OLDID="8309" NEWID="19981">
+<DATE>29-JUN-1987 19:14:59.71</DATE>
+<TOPICS><D>acq</D></TOPICS>
+<PLACES><D>usa</D></PLACES>
+<PEOPLE></PEOPLE>
+<ORGS></ORGS>
+<EXCHANGES></EXCHANGES>
+<COMPANIES></COMPANIES>
+<UNKNOWN> 
+&#5;&#5;&#5;F 
+&#22;&#22;&#1;f2832&#31;reute
+r f BC-DIGITAL-&lt;DCAI.O>-TO-A   06-29 0099</UNKNOWN>
+<TEXT>&#2;
+<TITLE>DIGITAL &lt;DCAI.O> TO ACQUIRE FOX &lt;FOXT.O> UNIT</TITLE>
+<DATELINE>    ALPHARETTA, Ga., June 29 - </DATELINE><BODY>Digital Communications
+Associates Inc &lt;DCAI.O> said it has entered into an agreement
+to acquire substantially all the assets of Fox Technology Inc's
+Fox Research Inc subsidiary.
+    The company said it will assume about 10 mln dlrs of Fox
+liabilities with a provision for a further 6.5 mln dlrs based
+on the future financial performance of Fox during the one year
+period following the closing of the deal.
+    It said the acquisition is subject to approval by Fox
+shareholders and is expected to close in mid August.
+ Reuter
+&#3;</BODY></TEXT>
